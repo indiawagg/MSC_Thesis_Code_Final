@@ -1,2 +1,2 @@
-**2018-2024** : These folders contain the Long Reads grouped per year 
-**LR_Gen_H2** : This is the script containing the Visualisations for Long Reads and the paired t test for RQ2
+- **2018-2024** : These folders contain the Long Reads grouped per year 
+- **LR_Gen_H2** : This is the script containing the Visualisations for Long Reads and the paired t test for RQ2
