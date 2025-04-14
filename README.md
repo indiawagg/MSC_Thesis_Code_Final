@@ -17,6 +17,6 @@ Each NSI has its own folder containing the following scripts: (where there is NS
 - **NSI_H1.ipynb**: Performs descriptive statistics and visualisations relevant for **RQ1**.
 - **NSI_H3.ipynb**: Performs descriptive statistics and visualisations relevant for **RQ3** (only for NL_GEN).
 - **LDA_NSI.ipynb**: Performs tokenization and Latent Dirichlet Allocation for topic modeling (**RQ1** only applicable to StatCan, ABS, and CBS General).
-- **H2**: Performs paired t-test and visualisations for **H2 Long Reads** (only in NL_LR).
+- **Dist_Comparison_H1**: KDE plot is made in this script
 
 Under the **NL_GEN Yearly_art** folder, there is an extra file showing visualisations for **H2** for CBS General called **H2_Visualisation_Gen.ipynb**.
