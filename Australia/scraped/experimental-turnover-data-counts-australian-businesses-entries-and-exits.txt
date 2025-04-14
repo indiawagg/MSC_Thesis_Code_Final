@@ -1,0 +1,14 @@
+Date:
+2021-02-16
+Article Title:
+ Experimental turnover data - Counts of Australian Businesses, entries and exits
+
+Article Content:
+Annualised turnover data are created using data reported to the ATO through Business Activity Statements (BAS). Due to the timing of businesses reporting BAS information, the turnover data in CABEE is lagged by six months. That is, turnover data for businesses operating at the end of a financial year is derived from BAS reporting from the four quarters ending December the previous year.
+In regular periods, this does not pose any coherence issues because there are not usually wide spread or significant short term changes in the turnover of businesses. However, In the context of COVID 19, the turnover data for the 2020 CABEE release does not capture any of the period of economic impact.
+In response, the ABS has created experimental turnover data, to use as a substitute for this unusual period.
+The table contains the experimental annualised turnover data for the 2019 20 financial year using the format in Datacube 1, Table 17. 
+Using the experimental turnover data for the 2019 20 reference period results in a far greater movement of businesses into the smaller size ranges during the financial year, in particular the ‘zero to less than $50k’. This is largely attributed to a greater number of surviving businesses decreasing turnover size range during the 2019 20 financial year, as the experimental turnover data capture changes to turnover during the first two quarters of 2020. 
+In particular, the net movement of surviving businesses into the ‘zero to less than $50k’ size range shows an increase of 33,046 businesses in the experimental dataset compared with an increase of 7,719 businesses in Datacube 1, Table 17. In the ‘$50k to $200k’ size range, there is a decrease of 30,274 businesses in the experimental data compared with a decrease of 23,854 businesses in Datacube 1, Table 17.  
+The experimental turnover data above are prepared in a similar manner to the regular turnover data, however use BAS data inputs for the same reference period as the business counts. This means that the experimental turnover data for businesses operating at the end of the 2019 20 financial year are created using BAS data reported for the four quarters ending June 2020. Where no BAS data is available for the relevant period, a business may receive an imputed turnover value. The quality therefore is as robust as for the regular turnover data.
+As this is the first iteration of these new turnover data and a timeseries is not available at this time, they have not been integrated into the CABEE publication.

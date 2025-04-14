@@ -1,0 +1,713 @@
+Title : pandemic-insights-australian-smokers-2020-21.txt
+Context:this release are drawn from the   dataset which is an experimental dataset built from common content included in all surveys conducted from July 2020 to June 2021 . 
+
+Context:Self completed paper form ( limited numbers ) . 
+ All household surveys collected a common set of information including : 
+ See the data item list for the  
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-november-2022.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 2,564 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 38.8 % of deaths . 
+   Diabetes and chronic
+
+Title : insights-hours-worked-december-2021.txt
+Context:a range of reasons , beyond economic reasons and other reasons , with the most common reason for people working reduced hours being people taking annual leave , holidays or
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-august-2023.txt
+Context:the percentage above expected for that year . 
+ Excess mortality measures have been a common statistical tool used around the world to understand the full impact of the COVID
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-march-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 3,354 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37.8 % of deaths . 
+   Diabetes and chronic
+
+Title : queensland-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:no extra bedrooms were needed to adequately house the usual residents . 
+ The most common tenure types for Aboriginal and Torres Strait Islander households in Queensland were : 
+  
+Context:Of the 19,000 people who used Aboriginal or Torres Strait Islander languages , the most common language groups were : 
+   most ( 85.3 % ) used only English at
+
+Title : australian-capital-territory-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:residents . For more information , see Housing suitability ( ) . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households in the Australian
+Context:Of the 258 people who used Aboriginal or Torres Strait Islander languages , the most common language spoken was Wiradjuri ( 31.0 % ) . 
+   most ( 90.7 %
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-may-2022.txt
+Context:19 positive at the time of death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 839 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+
+Title : average-floor-area-new-residential-dwellings.txt
+Context:large apartment towers such as retail , office , or other mixed use components . Common areas such as foyers , lifts and resident amenities are also included which further
+
+Title : pharmaceutical-benefits-scheme-supplied-medications.txt
+Context:system includes 14 main anatomical or pharmacological groups . The list below includes examples of common uses and treatments : 
+    A. Alimentary tract and metabolism – reflux , ulcer
+Context:of people were supplied with Antiinfectives for systemic use medication , making it the most common type supplied . Other commonly supplied medication types included : 
+ Females were six
+Context:more . Selected chronic conditions are a subset of long term health conditions that are common , pose significant health problems , and have been a focus of ongoing public
+Context:condition varied by condition type : 
+ The prevalence of selected chronic conditions was more common with age[4 ] . Many people with chronic conditions had more than one at
+
+Title : characteristics-previous-australian-defence-force-personnel.txt
+Context:leaving the ADF ( 17.8 % ) 
+   Engineering and Related Technologies was the most common field of study for previous service members ( 25.0 % compared to 13.6 %
+Context:) aged 65 years or more . 
+ Among previous service members , the most common 5 year age group was 70 74 years ( 16.5 % or 81,800 people
+Context:or Education . 
+ Of those who studied Engineering and Related Technologies , the most common qualifications of previously served persons aged 25 64 were : 
+ Previous service members
+Context:have never served ( 12.9 % and 2.1 % respectively ) . 
+ The most common fields for non school qualifications for females aged 25 64 who had previously served
+Context:Society and Culture ( 20.8 % ) and Health 20.6 % . 
+ The most common field for non school qualification for males who had previously served was Engineering and
+Context:members aged 15 64 who were employed , at a broad level , the most common occupations they were in were : 
+ Those who previously served were more likely
+Context:. 
+ According to the 2021 Census , at a broad level , the most common industries of employment for previous service members aged 15 64 were : 
+ Of
+Context:industry , and 14.8 per cent in the Defence Industry . 
+ Comparatively the most common industries of employment for those who have never served were : 
+   Public Administration
+
+Title : cpi-international-comparisons.txt
+Context:lack of reliable data remains a challenge for many countries . There are generally four common approaches to measuring OOH in the CPI , including those used by comparable countries
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-january-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 3,033 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37.6 % of deaths . 
+   Diabetes and chronic
+
+Title : snapshot-wa-2021.txt
+Context:. This was up from 75.2 % in 2016 . 
+ After English the most common languages used were Mandarin ( 1.9 % ) , Italian ( 1.0 % )
+Context:% of people in WA were affiliated with a non Christian religion . The most common were Islam ( 2.5 % ) , Buddhism ( 2.2 % ) and Hinduism
+Context:. This was a slight decrease from 72.7 % in 2016 . 
+ The most common type of family in WA was families with children . In 2021 , 44.6
+
+Title : insights-australian-smokers-2021-22.txt
+Context:. 5 % of total person interviews ) . 
+ All household surveys collected a common set of information including : 
+ See the data item list for the  
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-july-2022.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 1,459 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-january-2024.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common .  
+ In 2023 , 68.7 % of COVID 19 deaths had a causal
+Context:
+ Of the 4,551 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 . All
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 38 % of deaths . 
+   Diabetes , chronic
+
+Title : autism-australia-2022.txt
+Context:restriction . 
+ Of Autistic people with an employment restriction , some of the most common restrictions were :  
+   restricted in type of job ( 63.3 % ) 
+  
+Context:instances where a child is living at home with their parents , it is more common for a parent to provide the responses to questions that identify disability and long
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-june-2022.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 1,162 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+
+Title : position-skills-anzsco.txt
+Context:) with Retail Manager ( General ) ( ANZSCO Occupation 142111 ) as both are common to the retail industry ) . This customised view may support analysis of skills
+
+Title : snapshot-act-2021.txt
+Context:. This was down from 72.7 % in 2016 . 
+ After English the most common languages used were Mandarin ( 3.2 % ) , Nepali ( 1.3 % )
+Context:of people in the ACT were affiliated with a non Christian religion . The most common were Hinduism ( 4.5 % ) , Islam ( 3.2 % ) and Buddhism
+Context:households . This was a decrease from 70.3 % in 2016 . 
+ The most common type of family in the ACT was families with children . In 2021 ,
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-november-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common .  
+ In 2023 , 69.2 % of COVID 19 deaths had a causal
+Context:
+ Of the 4,283 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 . All
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 38.7 % of deaths . 
+   Diabetes , chronic
+
+Title : restraint-clauses-australia-2023.txt
+Context:not equaling the total due to rounding . 
+ Non disclosure clauses were the most common restraint clause , used by 45.3 % of Australian businesses in 2023 . The
+Context:clause , used by 45.3 % of Australian businesses in 2023 . The next most common was the Non solicitation of clients ( 25.4 % ) , followed by Non
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-september-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common .  
+ In 2023 , 71.3 % of COVID 19 deaths had a causal
+Context:
+ Of the 4,250 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 . All
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37.8 % of deaths . 
+   Diabetes , chronic
+
+Title : covid-19-mortality-australia-deaths-registered-until-28-february-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 3,222 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 38.0 % of deaths . 
+   Diabetes and chronic
+
+Title : understanding-ancestry-language-and-birthplace-norfolk-island-population.txt
+Context:, not the number of responses . 
+ The 2021 Census showed that the most common ancestries   for usual residents of Norfolk Island were : 
+ Over one third
+Context:only   one response   to the ancestry question , with Australian as the most common single response ( 11.2 % ) . Just 5.8 % had Pitcairn only and
+Context:) of usual residents of Norfolk Island provided   two responses , with the most common combination being Pitcairn / Norfolk Islander ( 9.2 % ) . Almost one fifth
+Context:a combination of Pitcairn and Norfolk Islander ancestry . 
+ In 2021 , the most common place of birth of Norfolk Island residents was Australia ( 45.4 % ) .
+Context:proportion of Norfolk Island residents who were born on the island . 
+ The most common birthplaces for parents of Norfolk Island residents were similar to their children with almost
+Context:Australia . This was an increase from 47.2 % in 2016 . The next most common birthplaces of parents in 2021 were : 
+ Of Norfolk Island residents born on
+Context:7.3 % ) 
+   Fiji ( 2.1 % ) . 
+ In 2021 the most common language used at home on Norfolk Island was English ( 52.4 % ) .
+Context:used at home on Norfolk Island was English ( 52.4 % ) . The most common language other than English was Norf'k Pitcairn . Norf’k Pitcairn ( also known as
+
+Title : western-australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:.   For more information , see Housing suitability ( ) . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households in Western Australia
+Context:Of the 11,213 people who used Aboriginal or Torres Strait Islander languages , the most common language groups were : 
+   most ( 77.2 % ) used only English at
+
+Title : home-building-through-pandemic.txt
+Context:blocks of dwellings that do n't have their own private grounds and usually share a common entrance , foyer or stairwell . 
+
+
+Title : australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:no extra bedrooms were needed to adequately house the usual residents . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households were : 
+  
+Context:77,000 people who used Aboriginal or Torres Strait Islander languages ( ) , the most common language groups were : 
+ Other languages used were : 
+   most ( 84.1
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-october-2022.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 2,401 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 36.9 % of deaths . 
+   Diabetes and chronic
+
+Title : producing-official-statistics-linked-data-technical-report.txt
+Context:unacceptably large number of missing values . 
+ BCS data has many variables that are common to each of the financial years ( FYs ) 2015 16 to 2019 20
+Context:The sktime “ DummyClassifier ” ignores all features , assigning the training set ’s most common label to all instances . As such , it is not possible to tune
+Context:differs from the feature values seen for other groups . If certain characteristics are only common to lower score businesses , this points us towards a hypothesis of how BCS
+Context:see any instance of compprod_bcs3 = compprod_bcs2 =3 . That is , it is quite common for businesses classified as having label “ 0 ” ( correctly ( TN )
+Context:shown at the top of the third column . This shows that it is very common to have compprod_bcs2 =3 , values of 0 or 2 are far less common
+Context:very common to have compprod_bcs2 =3 , values of 0 or 2 are far less common , and 1 does not occur .  
+ Similarly , the column graph for
+Context:, to take the value 3 quite often . However , 2 values are more common here than was seen for compprod_bcs2 , and there is a small number of
+Context:of column 3 , row 2 of Figure 7 . Unsurprisingly , it is quite common to have compprod_bcs2 =3 occur with compprod_bcs3 equal to 2 or 3 compared to
+Context:in the forest . ( For example , the classification given may be the most common classification produced across the ensemble of trees . )    In fitting a random
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-may-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common .  
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 3,723 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37.9 % of deaths . 
+   Diabetes , chronic
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-september-2022.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 2,266 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37 % of deaths . 
+   Diabetes and chronic
+
+Title : aboriginal-and-torres-strait-islander-peoples-experiencing-homelessness.txt
+Context:over . 
+ Living in improvised dwellings , tents , or sleeping out was more common in older age groups . People aged 45 to 54 years were the most
+
+Title : population-movement-australia.txt
+Context:influence a person 's decision to move . 
+ Housing suitability and affordability is a common reason to relocate . For example , people may move to a different type
+Context:force ( 64.2 % ) than those arriving and departing . 
+ The two most common industries of employment for people who arrived in the NT in the five years
+Context:health care and social assistance ( 18.4 % ) . These were also the most common industries of the employed population in the NT ( 18.2 % and 14.9 %
+
+Title : south-australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:.   For more information , see Housing suitability ( ) . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households in South Australia
+Context:Of the 4,305 people who used Aboriginal or Torres Strait Islander languages , the most common language groups were : 
+   most ( 82.5 % ) spoke only English at
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-first-quarter-2023.txt
+Context:the percentage above expected for that year . 
+ Excess mortality measures have been a common statistical tool used around the world to understand the full impact of the COVID
+Context:the baseline years used to predict the expected number of deaths .  
+ The most common research question being assessed with excess mortality analysis has been : ' How does
+
+Title : australias-journey-work.txt
+Context:) . 
+ Across Australia , ‘ Car , as driver ’ remained the most common response to the question on travel to work since it was first asked in
+Context:lower than the 2016 record of 6,625,000 . 
+ Driving to work was the most common method of travel for those living in Australia ’s   with just under half
+Context:) of workers driving themselves to work on Census day . It was even more common for those who live outside of the GCCSAs in the Rest of state areas
+Context:one in ten live outside a greater capital city with the bus being the most common response for these commuters . 
+ The use of public transport by those living
+Context:walking or cycling to work . In this area active transport was the second most common way to get to work in 2021 behind driving . 
+
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-april-2022.txt
+Context:19 positive at the time of death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 605 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+
+Title : what-changes-prices-and-their-collection-tell-us-about-australia.txt
+Context:of the average weekly wage in May 2023 .  
+ The CPI includes prices for common recreational activities like going to a game of AFL , NRL or the theatre
+
+Title : victoria-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:.   For more information , see Housing suitability ( ) . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households in Victoria were
+Context:Of the 1,010 people who used Aboriginal or Torres Strait Islander languages , the most common language spoken was Yorta Yorta ( 10.8 % ) . 
+   most ( 91.9
+
+Title : snapshot-nt-2021.txt
+Context:This was slightly down from 58.0 % in 2016 . 
+ After English the most common languages used were Kriol ( 2.2 % ) , Djambarrpuyngu ( 1.7 % )
+Context:of people in the NT were affiliated with a non Christian religion . The most common were Hinduism ( 2.7 % ) , Buddhism ( 2.1 % ) and Islam
+Context:households . This was a decrease from 72.9 % in 2016 . 
+ The most common type of family in the NT was families with children . In 2021 ,
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-march-2022.txt
+Context:19 positive at the time of death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context:the 496 people who died with COVID 19 , circulatory system diseases was the most common underlying cause of death . Ischaemic heart diseases were the most commonly certified circulatory
+Context:the most commonly certified circulatory conditions among these deaths . Cancer was the second most common underlying cause of death in COVID 19 related deaths .   Blood and lymph
+
+Title : profile-people-core-need-assistance-australia.txt
+Context:people ) communicated in a language other than English at home , with the most common languages being Italian ( 12.0 % ) , Arabic and Greek ( both 10.2
+
+Title : cultural-diversity-australia.txt
+Context:a cultural tradition , including family and social customs , sometimes religiously based 
+   a common geographic origin 
+   a common language ( but not necessarily limited to that group
+Context:family and social customs , sometimes religiously based 
+   a common geographic origin 
+   a common language ( but not necessarily limited to that group ) 
+   a common literature
+Context:
+   a common language ( but not necessarily limited to that group ) 
+   a common literature ( written or oral ) 
+   a common religion 
+   being a minority
+Context:to that group ) 
+   a common literature ( written or oral ) 
+   a common religion 
+   being a minority ( often with a sense of being oppressed )
+Context:overseas and came from 183 different countries . 
+ In 2021 , the five most common overseas countries of birth were the same as those reported in 2016 . While
+Context:birth were the same as those reported in 2016 . While England remained the most common country of birth , its proportion of the population decreased from 3.9 % to
+Context:an increase of 220,000 people . For more information see our . 
+ The most common countries of birth of the population were a result of Australia ’s migration patterns
+Context:of Australia ’s population are descendants of migrants and as a result , our most common ancestries align with the most common countries of birth of the population over time
+Context:of migrants and as a result , our most common ancestries align with the most common countries of birth of the population over time . 
+ In 2021 , Australia
+Context:reported in 2016 , there were slight changes to the proportions . 
+ The most common ancestry in Australia in 2021 was English which reflects the long history of English
+Context:the long history of English born migrants settling in Australia . English was the most common ancestry for first and second generation Australians , and second most common for third
+Context:was the most common ancestry for first and second generation Australians , and second most common for third plus generation Australians . 
+ The only ancestry in the top five
+Context:for third plus generation Australians . 
+ The only ancestry in the top five most common ancestries that increased in proportion was Chinese . From 2016 to 2021 , the
+Context:of Chinese born over this time . In 2021 , Chinese was the second most common ancestry for first generation Australians . 
+ Australian ancestry was the second most common
+Context:most common ancestry for first generation Australians . 
+ Australian ancestry was the second most common ancestry overall , and the most common ancestry for third plus generation Australians .
+Context:. 
+ Australian ancestry was the second most common ancestry overall , and the most common ancestry for third plus generation Australians . While respondents can report up to two
+Context:be found in . 
+ In 2021 Australian Aboriginal was in the top five most common ancestries for third plus generation Australians , and in the top 10 ancestries of
+Context:not at all . 
+ Use at home of languages other than English were more common in first generation Australians . In 2021 , 71.8 % of people who reported
+Context:than half ( 58.6 % ) of Arabic speakers were born overseas . The most common countries of birth were Lebanon ( 20.4 % ) , Iraq ( 12.0 %
+Context:Australians , representing 2.6 % of the Australian population . India was the second most common overseas country of birth and between 2016 and 2021 , the number of Indian
+
+Title : long-term-health-conditions.txt
+Context:variables can be found in the . 
+ In the 2021 Census , the most common comorbidities reported were : 
+ Comorbidity of conditions varied between males and females .
+Context:multiple long term health conditions . 
+ Rates of long term health conditions in other common countries of birth in Australia include : 
+   Of the people who were born
+Context:compared to 22.5 % of the total population ) 
+   Aside from English the most common languages spoken at home were Italian ( 7.7 % compared to 3.2 % of
+
+Title : new-south-wales-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:.   For more information , see Housing suitability ( ) . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households in New South
+Context:Of the 5,196 people who used Aboriginal or Torres Strait Islander languages , the most common language was Wiradjuri ( 22.2 % ) . 
+   most ( 93.2 % )
+
+Title : same-sex-couples-living-together-australia.txt
+Context:couples with children had only one child ( 47.4 % ) . This was more common than same sex couple families having two children ( 36.7 % ) . When
+Context:( 36.7 % ) . When looking at all couples with children it was more common to have two children in the family ( 43.2 % ) than to have
+Context:( 18.4 % ) compared with all couples ( 25.4 % ) . The most common language other than English used at home by all couples was Mandarin . The
+Context:variety of reasons why people report not being in the labour force , the most common reason is retirement . 
+ The top 10 occupations for females in same sex
+Context:the top 10 occupations for females in all couples . Registered nurses was the most common occupation for all females in the 2021 Census . Police , chefs and welfare
+Context:in the 2021 Census . Police , chefs and welfare support workers were notably more common for females in same sex couples , compared with females in all couples .
+Context:, general clerks , advertising professionals , and aged and disabled carers were notably more common for males in same sex couples compared with males in all couples . 
+
+
+Title : guide-understanding-employee-earnings-and-hours-statistics-may-2021.txt
+Context:lodged with an authority . An Individual arrangement can also be referred to as a common law contract . 
+ Key Requirements in determining an Individual arrangement : 
+   One
+
+Title : new-census-insights-income-australia-using-administrative-data.txt
+Context:their income from government benefits and allowances . 
+   The age pension was the most common government benefit received ( 32.9 % ) .   In this article we present
+Context:0.3 % ) . Income from own unincorporated business as the Main source was more common among 30   to 64 year olds than other age groups . 
+ The
+Context:( 31.8 % or 6.6 million people ) . The Age Pension was the most common government payment received ; nearly 2.2 million ( 32.9 % ) people who received
+Context:government benefit payment got their largest payment from the Age Pension . The next most common Main government benefit payment types were Newstart Allowance or Jobseeker ( 1.34 million or
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-july-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common .  
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 4,050 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37.2 % of deaths . 
+   Diabetes , chronic
+
+Title : back-my-day-comparing-millennials-earlier-generations.txt
+Context:and 1.2 % respectively ) when they were the same age .  
+ The most common living arrangement for Millennials in 2021 was living in a couple household with no
+Context:generally have had lower interest rate mortgages than the earlier generations . 
+ The most common   for all generations when aged 25 39 years was separate houses , however
+
+Title : snapshot-qld-2021.txt
+Context:. This was down from 81.2 % in 2016 . 
+ After English the most common languages used were Mandarin ( 1.6 % ) , Vietnamese ( 0.6 % )
+Context:% of people in QLD were affiliated with a non Christian religion . The most common were Buddhism ( 1.4 % ) , Hinduism ( 1.3 % ) and Islam
+Context:. This was a slight decrease from 71.8 % in 2016 . 
+ The most common type of family in Queensland was families with children . In 2021 , 41.2
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-june-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common .  
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 3,981 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37.9 % of deaths . 
+   Diabetes , chronic
+
+Title : australian-defence-force-service.txt
+Context:) aged 65 years or more . 
+ Among previous service members , the most common 5 year age group was 70 74 years ( 16 % or 81,800 people
+Context:
+ Among current service members living in private households who were renting , the most common Landlord type ( ) was a real estate agent ( 50 % ) followed
+Context:were currently serving in the ADF ( aged 15 64 years ): 
+ The most common long term health conditions reported by current service members were : 
+ It is
+Context:service was in the Reserves only , regardless of age . 
+ The two most common long term health conditions reported by previous service members were : 
+ The incidence
+
+Title : overseas-arrivals-and-departures-australia-2023-24-financial-year.txt
+Context:asked the main reason for their journey upon arrival in Australia . 
+ The most common reason for journey in 2023 24 was ‘ holiday ’ , accounting for 43
+Context:’ , accounting for 43 % of visitor arrivals . In 2022 23 the most common reason for journey was ‘ visiting friends / relatives ’ , accounting for 41
+Context:has increased for all reasons , and ‘ holiday ’ has returned to the most common reason for journey . 
+ In 2023 24 , female visitors were more likely
+Context:overseas are asked to provide the main reason for their journey . 
+ The most common reason for journey in 2023 24 was ‘ holiday ’ , accounting for 58
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-august-2022.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 2,013 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+
+Title : religious-affiliation-australia.txt
+Context:population , an increase from 90.9 % in 2016 . 
+ In 2021 the most common religions were : 
+   Christianity ( 43.9 % ) 
+   No religion ( 38.9
+Context:20th Century due to post World War II migration from Eastern Europe . They are common to people with Greek , Lebanese and Serbian ancestries . The largest of these
+
+Title : measuring-owner-occupied-housing-consumer-price-index.txt
+Context:occupied housing services costs that suits all needs . " 
+ International standards provide four common approaches to measuring OOH in the CPI : 
+   Net acquisitions : this approach
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-december-2023.txt
+Context:the percentage above expected for that year . 
+ Excess mortality measures have been a common statistical tool used around the world to understand the full impact of the COVID
+
+Title : spotlight-seasonality-payroll-jobs-and-wages-paid-2022-year-end.txt
+Context:is particularly pronounced in industries where seasonal variation in hours and periodic payments are more common . For example , the Financial and insurance services industry has low seasonality in
+
+Title : northern-territory-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:.   For more information , see Housing suitability ( ) . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households in the Northern
+Context:Of the 35,782 people who used Aboriginal or Torres Strait Islander languages , the most common language groups were : 
+   one third ( 33.4 % ) used only English
+
+Title : covid-19-mortality-wave.txt
+Context:wave :  
+ During the Omicron wave :  
+ 
+   Pneumonia has   been the most common   complication   from COVID 19 certified during each wave of the pandemic .
+Context:with COVID 19 .  
+ During the Omicron wave :  
+   Cancer was the most common cause of death for each month in 2022   for people dying with COVID
+Context:74 people were aged under 60 years .  
+   Dementia was   the second most common cause of death for people dying with COVID 19 throughout the year . For
+Context:19 throughout the year . For people aged over 80 , dementia is the most common cause of death for those dying with COVID 19 .  
+   COVID 19 related
+
+Title : pathways-permanency.txt
+Context:   The most common visa pathway of migrants who arrived on a temporary visa was a Student visa
+Context:those on Humanitarian visas were different , with Iraq and Afghanistan being the two most common countries of birth for these migrants . 
+ For migrants who arrived on a
+Context:visa : 
+   Residential Care Services and Social Assistance Services were in the three most common industries for Family and Humanitarian visa holders . 
+   Carers and Aides was the
+Context:industries for Family and Humanitarian visa holders . 
+   Carers and Aides was the most common occupation for Family , and Humanitarian visa holders . 
+   Business and Management among
+Context:Family , and Humanitarian visa holders . 
+   Business and Management among the three most common fields of study for qualified Skilled , Family , and Humanitarian visa holders .
+Context:% ) of permanent migrants who arrived on a temporary visa followed the two most common temporary to permanent visa pathways : 
+ Of the 1.3 million permanent migrants who
+Context:temporary to a permanent visa : 
+   India and China were among the five most common countries of birth for migrants in the student to skilled , skilled to skilled
+Context:pathways . 
+   Professional , Scientific and Technical Services was one of the three most common industries for migrants in the student to skilled , skilled to skilled , and
+Context:to family pathways . 
+   Business , Human Resource and Marketing Professionals was the most common occupation for migrants in the student to skilled and student to family pathways .
+Context:and student to family pathways . 
+   Business and Management was among the three most common fields of study of qualifications for migrants in the student to skilled , skilled
+Context:. 
+ For temporary to permanent visa pathways : 
+ Those who took the most common temporary to permanent visa pathway , student to skilled , took five years to
+
+Title : producing-official-statistics-linked-data.txt
+Context:were considered and represented by a profitability score . The intention was to identify characteristics common to lower score businesses in one sample , and to estimate the performance of
+Context:The training of this classifier ignores all features , assigning the training set ’s most common classification ( lower profitability ) to all inputs . Applying this classifier to the
+Context:in the forest . ( For example , the classification given may be the most common classification produced across the ensemble of trees . )    In fitting a random
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-april-2023.txt
+Context:COVID 19 contributed to their   death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 3,480 people who died with COVID 19 , cancers were the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:commonly certified cancer type among those deaths . Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths . Ischaemic heart diseases were
+Context:cause of death in COVID 19 related deaths . Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19 .  
+
+Context:as a consequence of COVID 19 .  
+   Chronic cardiac conditions were   the most common pre existing condition present in 37.1 % of deaths . 
+   Diabetes and chronic
+
+Title : covid-19-mortality-australia-deaths-registered-28-february-2022.txt
+Context:19 positive at the time of death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions were described in a causal sequence by the certifier in
+Context: 
+ Of the 333 people who died with COVID 19 , cancer was the most common underlying cause of death . Blood and lymph cancers ( e.g. leukaemia ) were
+Context:those deaths . Circulatory system diseases , encompassing chronic cardiac conditions was the second most common underlying cause of death in COVID 19 related deaths .  
+ 14/4/2022 The title
+
+Title : digital-platform-workers-australia.txt
+Context:platform work is a relatively new form of digitally enabled employment but it also shares common elements with older forms of short term employment , that have always existed .
+Context:% of digital platform workers and includes a broad range of tasks beyond the most common types ( such as responding to voluntary surveys and market research ) . 
+  
+Context:consistent with the broader   employed population , with a slightly higher share of less common household types . 
+ For digital platform workers in Australia : 
+   the majority
+
+Title : covid-19-mortality-australia-deaths-registered-31-january-2022.txt
+Context:19 positive at the time of death .   
+   Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying
+Context:as acute kidney injury and cardiac complications have also been reported but these are less common . 
+ Disease progressions was described in a causal sequence by the certifier in
+Context: 
+ Of the 83 people who died with COVID 19 , cancer was the most common underlying cause of death . Lung cancer was the most common primary site of
+Context:cancer was the most common underlying cause of death . Lung cancer was the most common primary site of cancer . Circulatory system diseases , encompassing chronic cardiac conditions was
+Context:of cancer . Circulatory system diseases , encompassing chronic cardiac conditions was the second most common underlying cause of death in COVID 19 related deaths .  
+ 14/4/2022    The
+
+Title : snapshot-nsw-2021.txt
+Context:. This was down from 68.5 % in 2016 . 
+ After English the most common languages used were Mandarin ( 3.4 % ) , Arabic ( 2.8 % )
+Context:% of people in NSW were affiliated with a non Christian religion . The most common were Islam ( 4.3 % ) , Hinduism ( 3.4 % ) and Buddhism
+Context:. This was a slight decrease from 72.0 % in 2016 . 
+ The most common type of family in NSW was families with children . In 2021 , 44.7
+
+Title : snapshot-tas-2021.txt
+Context:. This was down from 88.3 % in 2016 . 
+ After English the most common languages used were Mandarin ( 1.5 % ) , Nepali ( 1.3 % )
+Context:% of people in Tasmania were affiliated with a non Christian religion . The most common were Hinduism ( 1.7 % ) , Buddhism ( 1.0 % ) and Islam
+Context:. This was a slight increase from 67.1 % in 2016 . 
+ The most common type of family in Tasmania was families with no children . In 2021 ,
+
+Title : snapshot-vic-2021.txt
+Context:. This was down from 67.9 % in 2016 . 
+ After English the most common languages used were Mandarin ( 3.4 % ) , Vietnamese ( 1.8 % )
+Context:% of people in Victoria were affiliated with a non Christian religion . The most common were Islam ( 4.2 % ) , Hinduism ( 3.3 % ) and Buddhism
+Context:. This was a slight decrease from 70.8 % in 2016 . 
+ The most common type of family in Victoria was families with children . In 2021 , 45.5
+
+Title : spotlight-labour-account.txt
+Context:a labour specific lens to national accounts data . 
+ This is a straightforward and common question , however prior to the development of the Australian Labour Account , the
+
+Title : tasmania-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:.   For more information , see Housing suitability ( ) . 
+ The most common Tenure types ( ) for Aboriginal and Torres Strait Islander households in Tasmania were
+
+Title : education-australia-abc-bs-and-cs.txt
+Context:age ( 0.6 % of all 15 year olds ) , this transition became more common at 18 years of age , with 42.3 % of 18 to 24 year
+Context:] , 35.1 % of students in 2021 had no religious affiliation . The most common religious affiliations of students attending Other Non Government schools were Catholic ( 12.5 %
+Context:the tertiary level than people without those conditions . 
+ Of people in the most common age bracket for tertiary study ( 18 24 years ): 
+   17.6 % who
+Context:. 
+ In 2021 , qualifications at the certificate level continued to be the most common non school qualification for males , with 42.8 % ( 2.4 million ) of
+Context:million ) of males who reported having a qualification having a certificate . The most common non school qualification for females was a bachelor level degree , which has been
+Context:workforce . In 2021 , secondary and middle school teachers combined was the 12th most common occupation for males and 7th most common occupation for females . 
+ Primary school
+Context:middle school teachers combined was the 12th most common occupation for males and 7th most common occupation for females . 
+ Primary school teaching was less popular with males than
+Context:than secondary school teaching . In 2021 , primary school teacher was the 4th most common occupation reported for females and 51st most common occupation reported for males .  
+
+Context:primary school teacher was the 4th most common occupation reported for females and 51st most common occupation reported for males .  
+ In 2021 , one in every fifteen females
+Context:66.6 % of the general population aged 18 years and over . The next most common countries of birth were England ( 4.2 % ) , New Zealand ( 1.6
+Context:in Australia . Of the 41.1 % of tertiary educators born overseas , the most common countries of birth were England ( 14.6 % ) , China ( 9.2 %
+
+Title : employment-2021-census.txt
+Context:) similar to 2016 ( 25.9 % ) . 
+ Sales Assistant was the most common ANZSCO unit group ( four digit level ) occupation reported for both males and
+Context:66.0 % ) of this total occupation group . Registered Nurse was the second most common occupation for females , and for males it was Truck Driver . 
+ The
+

@@ -1,0 +1,580 @@
+Article Content:
+ Samenvatting
+
+De stikstofexcretie is gedaald van 489,4 miljoen kilogram in 2020 tot 471,0 miljoen kg in 2021. Dit is bijna 7 procent onder het productieplafond van 504,4 miljoen kilogram. De fosfaatexcretie in dierlijke mest is gedaald van 150,7 miljoen kilogram in 2020 tot 148,0 miljoen kilogram in 2021, ruim 14 procent onder het productieplafond van 172,9 miljoen kilogram.
+
+De stikstofexcretie in de melkveehouderij daalde in 2021 met 4,7 procent ten opzichte van het jaar daarvoor, met name door een lager stikstofgehalte van graskuil. Door een hoger fosforgehalte van graskuil nam de fosfaatexcretie van melkvee juist toe met 0,7 procent. De stikstof- en fosfaatexcretie van varkens, pluimvee en van de overige diercategorieën is gedaald door de afname van het aantal dieren.
+
+Rundvee
+
+Het aantal melkkoeien daalde in 2021 met ruim 20 duizend stuks en het vrouwelijk jongvee nam toe met 30 duizend stuks. De melkproductie per koe lag in 2021 met 8 845 kilogram 0,6% onder het niveau van 2020. Door de daling van het aantal melkkoeien en door lagere excretiefactoren kwam de stikstofexcretie van melkvee uit op 273,0 miljoen kilogram, 3,1 procent onder het sectorplafond van 281,8 miljoen kilogram. De lagere excretiefactoren van rundvee hangen samen met de daling van het stikstofgehalte van graskuil. De fosfaatproductie van de melkveesector nam in 2021 toe door een hoger fosforgehalte van het gras, maar ligt met 74,2 miljoen kilogram nog altijd ruim onder het sectorplafond van 84,9 miljoen kilogram.
+
+De stikstofexcretie van vleesrundvee daalde van 33,7 miljoen kilogram in 2020 naar 32,9 miljoen kilogram in 2021 door het lagere stikstofgehalte van gras. De fosfaatexcretie bleef in 2021 met 9,1 miljoen kilogram gelijk aan de excretie in 2020. De berekening van de excretie van witvleeskalveren is geactualiseerd door gebruik te maken van de meest recente cijfers van de Stichting Brancheorganisatie Kalversector (SBK). Hierdoor daalde de excretiefactor voor stikstof in 2021 met ruim 1 procent en die voor fosfaat met 4,5 procent.
+
+Varkens
+
+Het aantal vleesvarkens op de peildatum van de Landbouwtelling was in 2021 bijna 180 duizend stuks lager dan in 2020. Dat is een daling met 3,3 procent. Het aantal zeugen daalde met bijna 60 duizend stuks (6,7 procent). De stikstof- en fosforgehalten van het voer vielen in 2021 over het algemeen lager uit vergeleken met 2020. Wel werd er meer voer verstrekt per dier.
+
+De stikstofexcretie van de varkenssector daalde in 2021 met 2,9 miljoen kilogram (3,2 procent) naar 88,9 miljoen kilogram, ruim onder het sectorplafond van 99,1 miljoen kilogram. De fosfaatexcretie nam af met 2,2 miljoen kilogram tot 34,5 miljoen kilogram, eveneens ruim onder het sectorplafond van 39,7 miljoen kilogram. Beide dalingen hangen samen met de inkrimping van de varkensstapel als gevolg van de opkoop door de Subsidieregeling sanering varkenshouderij.
+
+Pluimvee
+
+De daling van de stikstof- en fosfaatexcretie van pluimvee hangt vooral samen met de daling van het aantal vleeskuikens. Het aantal vleeskuikens op de peildatum 1 april van de Landbouwtelling lag ruim 14 procent onder het niveau van 2020. Op andere peilmomenten zoals december 2020 en december 2021 was het aantal vleeskuikens vergelijkbaar met het aantal op 1 april. De lagere aantallen zijn het gevolg van het wegvallen van de binnenlandse afzet naar de horeca en de verminderde export door de coronapandemie. Ook de overschakeling van reguliere naar langzaamgroeiende vleeskuikens (conceptkuikens) en de overschakeling op het houden van vleeskuikens met één ster volgens het Beter Leven Keurmerk (BLK) spelen hierbij een rol. Deze dieren hebben meer ruimte en dus is de stalbezetting lager.
+
+In de pluimveesector daalde de stikstofexcretie met 0,7 procent en de fosfaatexcretie met 3,7 procent. De stikstofexcretie bedroeg in 2021 54,3 miljoen kilogram, de fosfaatexcretie 23,2 miljoen kilogram, beide onder de sectorplafonds.
+
+Overig vee
+
+Het overige vee bestond in 2021 uit schapen, geiten, paarden, pony’s en konijnen. De nertsen zijn uit deze groep verdwenen omdat het houden van nertsen met ingang van 2021 niet meer is toegestaan. De stikstofexcretie van het overige vee nam in 2021 af met 0,9 miljoen kilogram (3,9 procent) tot 21,9 miljoen kilogram. De fosfaatexcretie daalde met 0,2 miljoen kilogram. De dalingen zijn toe te schrijven aan het verbod op het houden van nertsen per 1 januari 2021. De excretie van overig vee draagt voor ongeveer 5 procent bij aan de totale excretie.
+
+Vanaf het begin van de jaren negentig stelt de Werkgroep Uniformering berekening Mest- en mineralencijfers (WUM) jaarlijks standaardfactoren vast per diercategorie voor de excretie van stikstof, fosfaat en kali en voor de hoeveelheid drijfmest en vaste mest. De totale excretie van stikstof, fosfaat en kali en de productie van drijfmest en vaste mest worden berekend door de standaardfactoren per diercategorie te vermenigvuldigen met het aantal dieren in de Landbouwtelling.
+
+Dit rapport geeft een kort overzicht van de rekenmethodiek, de uitgangspunten en de resultaten voor 2021 en enkele voorgaande jaren.
+
+
+
+Inleiding
+
+Het CBS berekent jaarlijks de mestproductie en de excretie van stikstof en fosfaat van de Nederlandse veestapel. De mestproductie en mineralenexcretie worden berekend door excretiefactoren in kilogram per dier en per jaar te vermenigvuldigen met het aantal dieren in de Landbouwtelling.
+
+De excretiefactoren worden jaarlijks vastgesteld door de Werkgroep Uniformering berekening Mest- en mineralencijfers (WUM). De resultaten worden gebruikt voor evaluatie van het Nederlandse mestbeleid en door de Emissieregistratie (ER). In de Emissieregistratie werkt een groot aantal organisaties samen met als doel het jaarlijks vaststellen van de uitstoot van verontreinigende stoffen naar lucht, water en bodem. De excretie van stikstof en fosfaat is hiervoor een belangrijk gegeven. Een teveel aan stikstof en fosfaat kan tot ongewenste effecten leiden zoals eutrofiëring van het oppervlaktewater, vermesting van natuurgebieden en verzuring van de bodem via emissies van ammoniak (NH 3 ) en stikstofoxiden (NO x ). Daarnaast vervluchtigt een deel van de uitgescheiden stikstof in de vorm van het broeikasgas lachgas (N 2 O). Ten slotte is de samenstelling van de gevoerde rantsoenen van belang voor berekeningen van de methaanemissie (CH 4 ) uit geproduceerde mest en door pens- en darmfermentatie.
+
+De WUM was tot 2021 onderdeel van het project Emissieregistratie maar aangezien de excretie van stikstof en fosfaat niet alleen gebruikt wordt voor de berekening van emissies uit de landbouw, valt de WUM met ingang van 2021 onder de Commissie Deskundigen Meststoffenwet (CDM). Het doel van de WUM is om jaarlijks excretiefactoren op te stellen volgens een vaste, uniforme, rekenmethodiek die vervolgens worden gebruikt in de berekening van de landelijke mineralenexcretie en mestproductie. De werkgroep is samengesteld uit medewerkers van Wageningen Economic Research, Wageningen Livestock Research en het Centraal Bureau voor de Statistiek (CBS). De leden van de werkgroep leveren de basisgegevens aan voor de berekening van excretiefactoren.
+
+Leeswijzer
+
+Hoofdstuk 2 bevat een beschrijving van de rekenmethodiek op hoofdlijnen.
+
+In Hoofdstuk 3 zijn de rekenmethodiek en de uitgangspunten weergegeven voor de berekening van de mestproductie van graasdieren.
+
+Hoofdstuk 4 beschrijft de rekenmethodiek en de uitgangspunten voor staldieren.
+
+Hoofdstuk 5 geeft een beschrijving van de Landbouwtelling als basis van het aantal bedrijven, de diercategorieën waarvoor de mestproductie wordt berekend en het aantal dieren per categorie.
+
+Hoofdstuk 6 toont de belangrijkste resultaten per diergroep en gaat kort in op de gasvormige verliezen die optreden tijdens mestopslag. Ten slotte zijn enkele resultaten van de stikstof- en fosfaatproductie weergegeven naar regio en bedrijfstype.
+
+
+
+Rekenmethodiek
+
+De hoeveelheden stikstof, fosfaat en kali die jaarlijks met dierlijke mest worden geproduceerd, worden sinds het begin van de jaren negentig volgens een vaste rekenmethodiek bepaald. De jaarlijkse actualisatie van de cijfers vindt plaats in een samenwerkingsverband met diverse belanghebbende organisaties.
+
+2.1 Mineralenbalans per dier
+
+De excretiefactoren voor de traditionele meststoffen in dierlijke mest (stikstof, fosfaat en kali) worden jaarlijks berekend op basis van een balans per dier:
+
+excretie = opname met voer – vastlegging in dierlijke producten.
+
+De basis voor de berekening van de excretiefactoren wordt gevormd door technische kengetallen. Dit zijn gegevens over het voerverbruik (krachtvoer en ruwvoer) en de dierlijke productie (melk, eieren, de groei van de dieren en het aantal geboren dieren). Daarnaast zijn gegevens nodig over de gehalten aan stikstof, fosfor en kalium van het voer en van dierlijke producten. Een aantal kengetallen wordt niet jaarlijks maar periodiek geactualiseerd omdat jaarlijkse informatie niet beschikbaar is. Met enige regelmaat worden in het kader van het mestbeleid studies uitgevoerd naar de forfaitaire stikstof- en fosfaatexcretie per diercategorie. De Werkgroep Uniformering berekening Mest- en mineralencijfers (WUM) maakt gebruik van alle relevante informatie die in deze studies wordt verzameld.
+
+De jaarlijks te actualiseren kengetallen worden ontleend aan statistieken en technische administraties van het betreffende jaar, zoals het Bedrijveninformatienet (BIN; Wageningen Economic Research), statistieken over graslandgebruik (Kringloopwijzer, CBS), melkaanvoer en zuivelproductie en Landbouwtellingen (Rijksdienst voor Ondernemend Nederland (RVO), CBS), kengetallen van de varkenshouderij (Wageningen Livestock Research; Agrovision) en de afzet van vochtrijke voeders (Overleggroep Producenten Natte Veevoeders; OPNV).
+
+Naast technische kengetallen wordt ook gebruik gemaakt van gegevens over de samenstelling van voedermiddelen en van dierlijke producten. Voor de samenstelling van geleverd mengvoer en mengvoergrondstoffen wordt gebruikgemaakt van het jaarlijkse overzicht van voerleveringen aan veehouderijen (RVO). De samenstelling van ruwvoer is gebaseerd op gegevens van Eurofins Agro en de samenstelling van vochtrijke voeders op gegevens van de OPNV. De vastlegging van mineralen in dierlijke producten is afhankelijk van het productieniveau van melk en vlees en van de mineralengehalten van die producten. De uitgangspunten voor eerdere jaren zijn beschreven in Van Bruggen en Gosseling (2019; 2020) en voor 2020 in Van Bruggen (2021).
+
+2.2 Gasvormige stikstofverliezen
+
+Tijdens de opslag van mest verandert de samenstelling onder invloed van processen zoals afbraak van organische stof, vervluchtiging van ammoniak en vervluchtiging van overige stikstofverbindingen door denitrificatie (lachgas N 2 O, stikstofoxide NO en moleculaire stikstof N 2 ). De hoeveelheid stikstof in de mest op het moment van uitrijden of toepassen, aangeduid met de term stikstofproductie, is dus gelijk aan de excretie verminderd met gasvormige verliezen die optreden in de stal en tijdens mestopslag onder en buiten de stal. Voor fosfaat en kali is er geen verschil tussen de excretie en de hoeveelheid in de mest op het moment van uitrijden of toepassen.
+
+Het vaststellen van de gasvormige stikstofverliezen is geen onderdeel van de werkzaamheden van de WUM maar van de taakgroep Landbouwemissies van de Emissieregistratie. De taakgroep Landbouwemissies maakt daarbij gebruik van de nationale rekenmethodiek voor de berekening van emissies naar lucht vanuit de landbouw (NEMA). Het CBS past de uitkomsten van het NEMA-model onder andere toe in de berekening van benuttingsgraden waarbij de berekende hoeveelheid stikstof en fosfaat in dierlijke mest wordt vergeleken met de plaatsingsruimte voor dierlijke mest.
+
+2.3 Mestproductiefactoren
+
+Mestproductiefactoren geven de mestproductie per dier en per jaar. De mestproductie per dier is gedefinieerd als de hoeveelheid mest (in kilogram) die na enkele maanden bewaring aanwezig is in de stalopslag, inclusief voerresten, schoonmaakwater en vermorst drinkwater, maar exclusief het gebruik van strooisel als stro, zaagsel en houtkrullen. Voor weidend vee komt daar nog de hoeveelheid mest bij die deze dieren produceren wanneer ze in de wei lopen. Alle weidemest wordt gerekend als dunne mest.
+
+De mestproductiefactoren voor rundvee zijn afgestemd op de resultaten van het Bedrijfsbegrotingsprogramma Rundveehouderij (BBPR) van Wageningen UR Livestock Research (zie ook Van Bruggen, 2011; Van Bruggen en Gosseling, 2019). De mestproductiefactoren van staldieren zijn geëvalueerd en waar nodig aangepast (Paragraaf 4.4).
+
+
+
+Graasdieren
+
+De grasoogst van 2021 bevatte beduidend minder stikstof maar meer fosfor vergeleken met voorgaande jaren.
+
+3.1 Ruwvoer en krachtvoer
+
+Runderen, schapen, geiten, paarden en pony’s gebruiken in hoofdzaak ruwvoer aangevuld met krachtvoer. Het ruwvoer wordt in Nederland geteeld en bestaat voornamelijk uit graskuil, hooi, snijmaïskuil en weidegras. Het krachtvoer omvat mengvoeders, enkelvoudige krachtvoergrondstoffen, melk(poeder) en vochtrijk krachtvoer. Bij schapen, geiten, paarden en pony’s wordt krachtvoer verstrekt in de vorm van mengvoer. Bij rundvee wordt het krachtvoer voor circa 90 procent verstrekt als mengvoer en voor de rest als enkelvoudige krachtvoergrondstoffen zoals sojaschroot en vochtrijk krachtvoer. Vochtrijk krachtvoer bestaat vooral uit bijproducten van de levensmiddelenindustrie met een lager drogestofgehalte dan het mengvoer.
+
+Het voerverbruik van graasdieren is gebaseerd op de voederbehoefte van het dier en de landelijke beschikbaarheid aan voedermiddelen. Bij het voerverbruik wordt rekening gehouden met 2 procent voerverliezen voor droge en vochtrijke krachtvoeders en 5 procent voor geconserveerd ruwvoer. De voerverliezen worden bij het voerverbruik opgeteld waarbij wordt aangenomen dat de voerverliezen in de mest terechtkomen (zie ook Van Bruggen en Gosseling, 2019).
+
+Omdat er in de melkveehouderij grote verschillen bestaan tussen de voerrantsoenen op zandgronden en in veen- en kleigebieden maakt de Werkgroep Uniformering berekening Mest- en mineralencijfers (WUM) voor de berekening van de excretiefactoren van melk- en kalfkoeien en het bijbehorende jongvee onderscheid in twee regio’s: Zuid-Oost Nederland en Noord-West Nederland. In regio Noord-West is het aandeel snijmaïs in het rantsoen relatief klein en in Zuid-Oost relatief groot. Regio Noord-West bestaat uit de provincies Groningen, Friesland, Utrecht, Noord-Holland en Zuid-Holland en de regio Zuid-Oost bestaat uit de provincies Drenthe, Overijssel, Flevoland, Gelderland, Zeeland, Noord-Brabant en Limburg. Figuur 3.1.1 laat het verschil zien in de rantsoensamenstelling van melkkoeien tussen de beide regio’s.
+
+Ruwvoer
+
+De totale beschikbaarheid en het verbruik van graskuil en hooi is gebaseerd op twee databronnen. Voor melkveebedrijven is dit de Kringloopwijzer en voor de overige bedrijven worden de resultaten van het CBS-onderzoek naar graslandgebruik toegepast. Het verbruik van snijmaïs wordt berekend op basis van de opbrengst per hectare in het Bedrijveninformatienet (BIN) van Wageningen Economic Research en het areaal snijmaïs (CBS), verminderd met 4 procent conserveringsverlies (Schröder et al ., 2018). Voor de berekening van het snijmaïsverbruik zijn gegevens over voorraadmutaties in het BIN niet tijdig beschikbaar. Daarom is besloten het verbruik niet enkel te baseren op de oogst in het voorgaande jaar maar te berekenen uit de gemiddelde opbrengst per hectare over de afgelopen vier jaar en deze te vermenigvuldigen met het areaal van het jaar voorafgaand aan het verslagjaar. Op deze manier wordt rekening gehouden met demping door voorraadmutaties.
+
+Het verbruik van weidegras wordt berekend uit de resterende voederbehoefte van graasdieren na vervoedering van alle andere verbruikte voeders. De weidegrasproductie wordt dus berekend als restpost waarin alle onnauwkeurigheden samenkomen. In de loop der jaren is het totale aandeel van geconserveerde ruwvoeders zoals graskuil en snijmaïskuil en van krachtvoer steeds verder toegenomen waardoor weidegras inmiddels een kleine voercomponent is. Hierdoor hebben kleine veranderingen in het verbruik van geconserveerd ruwvoer en krachtvoer al een sterk effect op de opname van weidegras. Dit is ook zichtbaar in de opname van weidegras in 2021 die lager uitviel dan verwacht gezien de goede groeiomstandigheden. Omdat de versgrasopname in omvang beperkt is, is de invloed daarvan op het eindresultaat gering.
+
+Naast het hogere verbruik van graskuil en snijmaïskuil in 2021, viel ook de afzet van vochtrijke producten hoger uit, met name de afzet van aardappels door het wegvallen van de vraag vanuit de horeca. Het is mogelijk dat een deel van deze afzet niet in 2021 is verbruikt. Om de plausibiliteit van het totale verbruik aan grasproducten te controleren, wordt jaarlijks de bruto graslandproductie per hectare vastgesteld en vergeleken met jaarproducties in het Handboek Melkveehouderij. De berekende graslandproducties blijken redelijk overeen te komen met de waarden in het Handboek. De bruto graslandproductie is voor alle jaren berekend door het verbruik aan graslandproducten standaard te verhogen met 20 procent voederwinnings- en conserveringsverliezen en 20 procent beweidingsverliezen.
+
+Hoewel er jaarlijks behoorlijke fluctuaties optreden in de productie van weidegras en geconserveerd gras, neemt de productie van weidegras per hectare sinds 1990 af ten gunste van geconserveerd gras (Figuur 3.1.2). Enkele oorzaken zijn een toename van de periode waarin de koeien op stal staan en mede daardoor een steeds groter verbruik van geconserveerd ruwvoer (snijmaïs, graskuil en hooi) in de weideperiode.
+
+Figuur 3.1.3 laat zien dat de opbrengst van snijmaïs per hectare sinds het begin van de jaren negentig is toegenomen van krap 12 ton droge stof per hectare tot ca. 16 ton per hectare. Het cijfer van 2021 is nog een voorlopig cijfer op basis van de CBS-oogstraming.
+
+De samenstelling van ruwvoer is gebaseerd op gegevens van Eurofins Agro. Dit bedrijf bepaalt van een zeer groot aantal monsters van kuilvoer en vers gras de voederwaarde en de mineralengehalten. Variaties in mineralengehalten tussen verschillende jaren worden veroorzaakt door weers- en groeiomstandigheden (temperatuur en vocht) en verschillen in bemesting. Voor hooi worden vaste voederwaarden aangehouden omdat het aandeel in het rantsoen zeer gering is.
+
+In Tabel 3.1.4 is de hoeveelheid van het verbruikte voer weergegeven en in Tabel 3.1.5 de samenstelling. Voor geconserveerd voer wordt er normaliter van uitgegaan dat tot en met de weideperiode voer wordt verstrekt dat in het voorgaande jaar is geoogst. In de stalperiode van circa half oktober tot en met 31 december wordt dan gerekend met de samenstelling van het voer dat in dat jaar is geoogst.
+
+In studies naar de forfaitaire stikstofexcretie is de ruwvoersamenstelling gedifferentieerd naar gangbaar en extensief graslandbeheer (Tamminga et al ., 2000; 2004; 2009; Heeres-van der Tol, 2002). De samenstelling van extensief beheerd grasland is toegepast in de excretieberekeningen van zoog-, mest- en weidekoeien, jongvee ouder dan 1 jaar en schapen. Vanaf 2015 is de samenstelling van graskuil bestemd voor schapen gebaseerd op de samenstelling van kuilmonsters die zijn geselecteerd op de maaidatum die geldt voor natuurgrasland (na 15 juni) en celwandgehalte (zie ook Van Bruggen, 2016).
+
+1) Inclusief voeders voor vleeskalveren.
+
+2) Inclusief aanvullende voeders en enkelvoudig vervoederde krachtvoedergrondstoffen.
+
+3) Eiwitkernvoeders en overig eiwitrijk voer met minimaal 120 g DVE (Darm Verteerbaar Eiwit) per kg droge stof.
+
+1) Voederwaarde uitgedrukt in Voedereenheden Melk (VEM).
+
+2) Mest-, weide- en zoogkoeien en schapen krijgen graskuil en hooi van laag bemest grasland.
+
+3) Jongvee ouder dan 1 jaar, mest-, weide- en zoogkoeien en schapen krijgen weidegras van laag bemest grasland.
+
+4) Inclusief aanvullende voeders en enkelvoudig vervoederde krachtvoedergrondstoffen.
+
+5) Eiwitkernvoeders en overig eiwitrijk voer met minimaal 120 g DVE (Darm Verteerbaar Eiwit) per kg droge stof.
+
+6) Gewogen gemiddelde samenstelling van diverse typen krachtvoeders.
+
+Krachtvoer
+
+Onder krachtvoer vallen mengvoer, enkelvoudig vervoederde krachtvoergrondstoffen, vochtrijk krachtvoer en kunstmelk(poeder).
+
+Voerleveranciers zijn verplicht om leveringen van mengvoer en enkelvoudig voer te rapporteren aan de Rijksdienst voor Ondernemend Nederland (RVO). In de leveringen van mengvoer wordt aangegeven voor welke diergroep het voer bestemd is. In de overzichten van mengvoerleveringen komen soms ook leveringen voor van ruwvoer en vochtrijk krachtvoer. Om gedeeltelijke dubbeltellingen met gegevens uit andere bronnen te vermijden, wordt hiervoor gecorrigeerd. Voor de afzet van vochtrijk krachtvoer en de verdeling over rundvee en varkens wordt geen gebruik gemaakt van de geregistreerde voerleveringen. Deze gegevens worden jaarlijks beschikbaar gesteld door de Overleggroep Producenten Natte Veevoeders (OPNV).
+
+Bij de berekening van excretiefactoren voor de stal- en weideperiode in de regio’s Noord-West en Zuid-Oost Nederland wordt voor melkvee onderscheid gemaakt in eiwitarm en eiwitrijk krachtvoer. Voor de bepaling van de afzetvolumes aan eiwitarm en eiwitrijk krachtvoer worden gegevens van Wageningen Economic Research gebruikt waarbij de afzet van mengvoer is ingedeeld naar het gehalte aan Darm Verteerbaar Eiwit (DVE). Voeders met een DVE-gehalte tot en met 115 gram DVE per kg zijn beschouwd als eiwitarm en voeders met 120 gram DVE of meer als eiwitrijk. De afzetgegevens zijn gecombineerd met gegevens over de stikstof-, fosfor- en kaliumgehalten van mengvoer per DVE-gehalte van Wageningen Livestock Research. Ten slotte is de berekende samenstelling van eiwitrijk en eiwitarm krachtvoer gekalibreerd met de samenstelling van melkveevoer in de gegevens van RVO.
+
+Voor de verschillende categorieën vleesvee wordt gewerkt met vaste hoeveelheden opfok- en afmestvoer in het rantsoen. De samenstelling van opfok- en afmestvoer voor rosévleeskalveren en vleesstieren is gebaseerd op gegevens van RVO. De gemiddelde samenstelling van het aan witvleeskalveren verstrekte voer is gebaseerd op informatie van de kalversector. Het kaliumgehalte van het mengvoer wordt incidenteel bijgesteld.
+
+3.2 Dierlijke productie
+
+De vastlegging van mineralen in dierlijke producten is afhankelijk van het productieniveau van melk en vlees en van de mineralengehalten van die producten. Het levend gewicht van graasdieren wordt incidenteel aangepast. De mineralengehalten van dierlijke producten worden jaarlijks afgestemd met de forfaitaire waarden in de Uitvoeringsregeling Meststoffenwet. Nieuwe gegevens over gehalten aan stikstof, fosfor en kalium in het levend gewicht van graasdieren komen incidenteel beschikbaar. De samenstelling van dierlijke producten is weergegeven Tabel 3.2.1.
+
+1) Wordt jaarlijks geactualiseerd.
+
+N.B. Het gewicht van dieren is het levend gewicht.
+
+[1] Tamminga et al. (2004).
+
+[2] Jongbloed et al. (1985).
+
+[3] Jongbloed et al. (1984).
+
+[4] Sebek et al. (2021).
+
+[5] KWIN (2020).
+
+[6] Heeres – van der Tol en Gerrits (1999).
+
+[7] Kemme et al. (2004).
+
+[8] Bikker et al. (2019).
+
+[9] Kemme et al. (2003).
+
+[10] Heeres – van der Tol (2001).
+
+[11] Kemme et al. (2005a).
+
+[12] Van der Hoek (1987).
+
+[13] Tamminga et al. (2000).
+
+[14] Handreiking Bedrijfsspecifieke Excretie melkvee, 2018.
+
+[15] IKC (1993).
+
+[16] Jongbloed en Kemme (2002b).
+
+[17] Kemme et al. (2005b).
+
+[18] Rijksdiest voor Ondernemend Nederland (RVO).
+
+[19] ZuivelNL.
+
+3.3 Mineralenexcretie
+
+De excretiefactoren voor graasdieren zijn weergegeven in Tabel 3.3.1.
+
+1) In de weideperiode van melkkoeien (mei-oktober) kan sprake zijn van opstallen of beweiden.
+
+2) Excretie per moederdier, inclusief de excretie van lammeren, mannelijke dieren en opfokdieren.
+
+Melk- en kalfkoeien
+
+De voederbehoefte, de samenstelling van het voerrantsoen en de vastlegging van stikstof worden jaarlijks geactualiseerd. Met ingang van 2017 wordt ook het fosforgehalte van de geproduceerde melk jaarlijks aangepast (Van Bruggen, 2018; Koning en Šebek, 2019). Voor de andere categorieën runderen, schapen en geiten worden alleen de voederwaarden en de mineralengehalten van het voer jaarlijks aangepast.
+
+De totale melkproductie is de som van de melkleveringen aan fabrieken en de melk die achterblijft op de boerderij voor bijvoorbeeld de productie van boerderijzuivel en de opfok van kalveren. Voor de melk die achtergehouden wordt op de boerderij werd tot dusver gebruik gemaakt van een schatting door RVO. Op basis van deze cijfers is het aandeel van de melkproductie die achterblijft op de boerderij de laatste jaren steeds verder gedaald tot ongeveer 1,5 procent. Voor 2019 en 2020 zijn cijfers over de totale melkproductie uit de Gecombineerde Opgave beschikbaar en op basis daarvan is het aandeel achtergehouden melk aanmerkelijk hoger, namelijk 4 à 5 procent. Een derde bron is het Bedrijveninformatienet (BIN) van Wageningen Economic Research. In het BIN is een langere tijdreeks beschikbaar van de totale melkproductie en het deel dat geleverd wordt aan fabrieken. De werkgroep geeft de voorkeur aan de cijfers van het BIN omdat deze afkomstig zijn van bedrijfsadministraties die bij individuele bedrijfsbezoeken worden verzameld. Het BIN heeft echter nog geen cijfer voor 2021 en daarom heeft de werkgroep WUM besloten om voor de achterhouding van melk op de boerderij uit te gaan van het gemiddelde van de laatste vijf jaar: 2,1 procent.
+
+De melkproductie per koe wordt normaliter berekend door de totale melkproductie te delen door het aantal melkkoeien in de Landbouwtelling. Er wordt daarbij van uitgegaan dat het aantal melkkoeien in de Landbouwtelling representatief is voor het gemiddeld aantal melkkoeien in het jaar. In jaren met een sterke toe- of afname van het aantal melkkoeien in de loop van het jaar wordt bij de berekening van de melkproductie per koe het gemiddeld aantal dieren gecorrigeerd (Van Bruggen en Gosseling, 2019).
+
+De uitgangspunten voor de berekening van de voederbehoefte van melkkoeien en jongvee en voor de vastlegging van mineralen in dierlijke producten zijn afgestemd met de Handreiking Bedrijfsspecifieke Excretie (BEX). Van het aantal kalveren dat gedurende het leven van de koe wordt geboren, wordt het eerste kalf berekend als vastlegging bij de vaars (jongvee van 1 jaar en ouder).
+
+Om het voerverbruik van melkkoeien te berekenen, wordt gebruik gemaakt van een voerbalans. Daarbij wordt uitgegaan van vaste kengetallen voor het voerverbruik van rundvee (exclusief melk- en kalfkoeien), schapen, geiten, paarden en pony’s (zie ook Van Bruggen et al ., 2019). Na verdeling van het benodigde krachtvoer en ruwvoer over rundvee (exclusief melk- en kalfkoeien) en over schapen, geiten, paarden en pony’s wordt de rest van het beschikbare voer (circa 70 procent) aan melk- en kalfkoeien toebedeeld. In de voederbehoefte die bij melk- en kalfkoeien dan nog resteert, wordt voorzien door weidegras. Het verbruik van weidegras door melkkoeien wordt dus berekend als restpost waarin alle onzekerheden in de aannames terechtkomen. Door de trend naar vaker opstallen van melkkoeien is het verbruik van weidegras door melkkoeien inmiddels een kleine voercomponent. Doordat het verbruik van weidegras relatief gering is en het bovendien een restpost is in de berekening van het voerverbruik, kan het verbruik van jaar op jaar forse schommelingen vertonen (zie ook Van Bruggen, 2018). Omdat de versgrasopname in omvang beperkt is, is de invloed daarvan op het eindresultaat gering. De excretie van melkkoeien is weergegeven in Tabel 3.3.2.
+
+1) Inclusief enkelvoudige krachtvoedergrondstoffen en mineralenmengsels.
+
+2) De omrekenfactor voor P in P2O5 is 2,29.
+
+3) De omrekenfactor voor K in K2O is 1,205.
+
+Excretie in stal en weide
+
+Om gasvormige stikstofverliezen uit opgeslagen mest en weidemest van melkkoeien te kunnen berekenen moet de excretie in de stal en in de wei afzonderlijk worden bepaald. Hiertoe worden voor de stal- en voor de weideperiode afzonderlijk excretiefactoren vastgesteld. In de weideperiode van melkkoeien zal een deel van de excretie in de stal plaatsvinden, afhankelijk van de toegepaste vorm van beweiding. De informatie over toegepaste beweiding is afkomstig uit de Landbouwtelling waarin jaarlijks wordt gevraagd naar de periode dat de melkkoeien een bepaalde vorm van beweiding hebben gekregen. De volgende beweidingssystemen worden hierbij onderscheiden: dag en nacht weiden, alleen overdag weiden en permanent opstallen. Bij dag en nacht weiden en bij overdag weiden wordt gevraagd naar het aantal uur weiden per etmaal. Er wordt van uitgegaan dat de hoeveelheid mest die in de stal terechtkomt evenredig is met het aantal uren per etmaal dat de dieren op stal staan.
+
+Gegevens over de weidegang in 2021 zijn gebaseerd op voorlopige cijfers van de Landbouwtelling van 2022 (Tabel 3.3.3).
+
+* Voorlopige cijfers.
+
+1) Het aandeel van jongvee op bedrijven zonder beweiding is in de cijfers verrekend.
+
+Vleeskalveren
+
+De excretieberekening van witvleeskalveren is geactualiseerd op basis van nieuwe informatie van de vleeskalversector. Uit informatie van de sector is gebleken dat een deel van de bedrijven uit aangevoerde grondstoffen zelf kunstmelk bereidt. Het drogestofgehalte van deze grondstoffen is niet bekend. Dit betekent dat er met de gegevens over voerleveringen (RVO) geen gemiddelde samenstelling berekend kan worden van het rantsoen, bestaande uit kunstmelk, kunstmelkvervanger (brok) en stro. Deze voerleveringen zijn namelijk niet uitgesplitst naar soort product en het drogestofgehalte is niet bekend. De stikstof- en fosforgehalten van het rantsoen zijn daarom gebaseerd op gegevens van de vleeskalversector. In Tabel 3.3.4 is de vorige en de huidige excretieberekening weergegeven.
+
+1) 2020: Sebek et al. (2021); 2021: SBK.
+
+2) 2020: Sebek et al. (2021); 2021: geslacht gewicht (SBK), aanhoudingspercentage (Sebek et al., 2021).
+
+3) Jongbloed et al. (1985).
+
+4) Heeres van der Tol en Gerrits (1999).
+
+5) Kemme et al. (2004).
+
+6) Per bij de landbouwtelling geteld dier (jaarrond aanwezig dier).
+
+7) De omrekenfactor voor P in P 2 O 5 is 2,29.
+
+De uitgangspunten voor overig rundvee, schapen, geiten, paarden en pony’s zijn beschreven in Van Bruggen en Gosseling (2019).
+
+3.4 Mestproductievolume
+
+De hoeveelheid mest (mestvolume) per dier is gedefinieerd als de hoeveelheid mest in kilogram die na enkele maanden bewaring aanwezig is in de stalopslag, inclusief voerresten, schoonmaakwater en vermorst drinkwater, maar exclusief het gebruik van strooisel als stro, zaagsel en houtkrullen. Voor weidend vee komt daar nog de hoeveelheid mest bij die deze dieren produceren wanneer ze in de wei lopen. Alle weidemest wordt gerekend als dunne mest. De mestproductiefactoren voor rundvee zijn afgestemd op de resultaten van het BedrijfsBegrotingsProgramma Rundveehouderij (BBPR) van Wageningen UR Livestock Research (Van Bruggen, 2011, zie ook Van Bruggen en Gosseling, 2019).
+
+De factoren voor de mestproductie per dier zijn weergegeven in Tabel 3.4.1.
+
+1) In de weideperiode van melkkoeien (mei-oktober) kan sprake zijn van opstallen of beweiden.
+
+2) Excretie per moederdier, inclusief de excretie van lammeren, mannelijke dieren en opfokdieren.
+
+N.B. De mest van rundvee is berekend als dunne mest uitgezonderd de stalmest van zoog-, mest- en weidekoeien. Stalmest van schapen, geiten, paarden en pony's is vaste mest, weidemest is berekend als dunne mest.
+
+Door afronding van de geringe mestproductie in de weideperiode van vrouwelijk jongvee jonger dan 1 jaar is alle mestproductie aan de stal toegerekend.
+
+
+
+Staldieren
+
+De stikstof- en fosfaatexcretie van varkens was in 2021 lager dan in 2020 door een daling van het aantal vleesvarkens en zeugen.
+
+4.1 Krachtvoer
+
+Het voer voor staldieren kan bestaan uit mengvoer, enkelvoudige krachtvoergrondstoffen en, voor sommige diercategorieën, vochtrijke bijproducten. In de toegepaste kengetallen van het voerverbruik van staldieren wordt het verbruik uitgedrukt als verbruik van droog voer met een drogestofgehalte van ongeveer 87 procent. Voor de voersamenstelling wordt gebruikgemaakt van de afzet van mengvoer en enkelvoudig voer die voerleveranciers jaarlijks moeten rapporteren aan de Rijksdienst voor Ondernemend Nederland (RVO). In de geregistreerde voerleveringen zijn echter ook leveringen van vochtrijk voer opgenomen. Het drogestofgehalte van deze voeders kan niet uit de voerleveringen worden afgeleid maar ligt voor de meest verbruikte soorten tussen 10 en 30 procent. Door het ontbreken van informatie over het drogestofgehalte is het niet mogelijk om de samenstelling van leveringen van vochtrijk voer om te rekenen naar de samenstelling van droog voer zoals die in kengetallen over het voerverbruik worden toegepast. Leveringen van vochtrijk voer zijn daarom uit de RVO-bestanden verwijderd om de gemiddelde stikstof- en fosforgehalten van droog voer te kunnen berekenen. Het stikstofgehalte van het geleverde voer is hierbij gebruikt als indicatie van de levering van vochtrijk voer. Het verbruik en de samenstelling van vochtrijk voer bestemd voor varkens is afkomstig van de OPNV.
+
+Bij pluimvee spelen vochtrijke voeders geen rol. Hierdoor is het mogelijk een gemiddelde samenstelling van het verstrekte voer te berekenen op basis van de geregistreerde leveringen van mengvoer en enkelvoudig voer. Een uitzondering hierop vormen de vleeskuikens vanwege het aandeel enkelvoudige tarwe in het rantsoen. Het aandeel enkelvoudige tarwe is in het Bedrijveninformatienet (BIN) van Wageningen Economic Research hoger dan in geregistreerde voerleveringen van RVO. De leveringen van akkerbouwer naar veehouder en het verbruik van tarwe van het eigen bedrijf zitten namelijk niet in de geregistreerde voerleveringen maar wel in het BIN. Om die reden is voor vleeskuikens uit de RVO-gegevens alleen de samenstelling van mengvoer berekend. Het verbruik van tarwe is gebaseerd op gegevens van Wageningen Economic Research. Van het kaliumgehalte in varkens- en pluimveemengvoer is geen jaarlijkse informatie beschikbaar. De samenstelling van het voer voor staldieren is weergegeven in Tabel 4.1.1.
+
+1) Inclusief vochtrijk krachtvoer en enkelvoudig vervoederde grondstoffen.
+
+2) Inclusief enkelvoudig vervoederde tarwe.
+
+4.2 Dierlijke productie
+
+De vastlegging van mineralen in dierlijke producten is afhankelijk van het productieniveau van vlees en eieren en van de mineralengehalten van die producten. Het levend gewicht van staldieren wordt incidenteel aangepast. De mineralengehalten van dierlijke producten worden jaarlijks afgestemd op de forfaitaire waarden in de Uitvoeringsregeling Meststoffenwet. Nieuwe gegevens over gehalten aan stikstof en fosfor in het levend gewicht van staldieren komen incidenteel beschikbaar. De samenstelling van dierlijke producten is weergegeven Tabel 4.2.1.
+
+1) Gemiddelde samenstelling van de dierlijke productie.
+
+2) In de berekening van de vastlegging wordt gerekend met de totale omvang van de eierproductie in kg.
+
+N.B. Het gewicht van dieren is het levend gewicht.
+
+[1] Coppoolse et al. (1990).
+
+[2] Jongbloed en Kemme (2002a).
+
+[3] Agrovision kengetallen vleesvarkens en zeugen (jaarlijks).
+
+[4] Evers et al. (2011).
+
+[5] Jongbloed (2010).
+
+[6] KWIN (2020).
+
+[7] Jongbloed en Kemme (2002b).
+
+[8] Jongbloed en Kemme (2005).
+
+[9] Ipema en Jongbloed (2011).
+
+[10] WPSA (1985).
+
+[11] Groenestein (2017).
+
+[12] Versteegh en Jongbloed (2000a).
+
+[13] Bedrijveninformatienet (BIN). Wageningen Economic Research.
+
+[14] Versteegh en Jongbloed (2000b).
+
+[15] Tabellen mestbeleid.
+
+[16] De Buisonjé et al. (2009).
+
+4.3 Mineralenexcretie
+
+De excretiefactoren voor staldieren staan in Tabel 4.3.1. Voor vleesvarkens, zeugen, leghennen en vleeskuikens is de berekening van de excretiefactoren in deze paragraaf opgenomen.
+
+1) Inclusief excretie van biggen.
+
+2) Inclusief excretie van vleeskonijnen.
+
+3) Inclusief excretie van mannelijke dieren en opfokdieren.
+
+N.B. De factoren gelden per bij de landbouwtelling geteld dier.
+
+Varkens
+
+De technische kengetallen van vleesvarkens en zeugen zijn gebaseerd op cijfers van Agrovision. De bij RVO geregistreerde leveringen van mengvoer en enkelvoudig voer in kilogrammen voer, stikstof en fosfor zijn gebruikt bij de bepaling van de mineralengehalten van droge voeders voor de onderscheiden categorieën varkens. Dit is gedaan door bedrijven waaraan varkensvoer is geleverd, te koppelen aan de gegevens in de Landbouwtelling. Vervolgens zijn de stikstof- en fosforgehalten van het voer voor een bepaalde categorie varkens zoals vleesvarkens of zeugen gebaseerd op de gemiddelde samenstelling van het geleverde voer aan bedrijven die alleen de betreffende categorie varkens houden. Deze werkwijze impliceert dat er bij de samenstelling geen onderscheid hoeft te worden gemaakt tussen verschillende typen voeders zoals startvoer, opfokvoer en afmestvoer bij vleesvarkens of tussen verschillende typen zeugenvoeders bij fokzeugen.
+
+De uitgangspunten en de excretieberekening voor vleesvarkens zijn weergegeven in Tabel 4.3.2 en voor fokzeugen in Tabel 4.3.3. Hoewel het aantal dieren is afgenomen, werd er per dier wel meer voer verbruikt. Het hogere voerverbruik kan te maken hebben met de grondstoffensamenstelling van het mengvoer of een groter aandeel welzijnsvoer. Daarnaast speelt bij zeugen de toegenomen biggenproductie een rol.
+
+1) De omrekenfactor voor P in P 2 O 5 is 2,29.
+
+2) De omrekenfactor voor K in K 2 O is 1,205.
+
+1) De omrekenfactor voor P in P 2 O 5 is 2,29.
+
+2) De omrekenfactor voor K in K 2 O is 1,205.
+
+Pluimvee en konijnen
+
+De technische kengetallen voor vleeskuikens en leghennen ouder dan circa 18 weken worden jaarlijks geactualiseerd op basis van de deeladministraties leghennen en vleeskuikens in het Bedrijveninformatienet (BIN) van Wageningen Economic Research. Bij de bepaling van de mineralengehalten van kippenvoer voor de onderscheiden categorieën kippen zijn de bedrijven waaraan kippenvoer is geleverd, gekoppeld aan de gegevens in de Landbouwtelling. De samenstelling van het voer voor een bepaalde pluimveecategorie is gebaseerd op de gemiddelde samenstelling van het voer dat geleverd is aan bedrijven die uitsluitend de betreffende pluimveecategorie houden. Op deze manier is de samenstelling bepaald van leghennenvoer, vleeskuikenvoer en voer voor vleeskuikenouderdieren. Voor eenden, kalkoenen en konijnen komen de voercategorieën in de overzichten van RVO overeen met de diercategorieën in de Landbouwtelling. Een nadere uitsplitsing van deze voercategorieën zoals bij varkens en kippen is dus niet nodig.
+
+De uitgangspunten en de excretieberekening voor vleeskuikens zijn weergegeven in Tabel 4.3.4.en voor leghennen in Tabel 4.3.5.
+
+1) De omrekenfactor voor P in P 2 O 5 is 2,29.
+
+2) De omrekenfactor voor K in K 2 O is 1,205.
+
+1) De omrekenfactor voor P in P 2 O 5 is 2,29.
+
+2) De omrekenfactor voor K in K 2 O is 1,205.
+
+4.4 Mestproductievolume
+
+De hoeveelheid mest per dier is gedefinieerd als de hoeveelheid mest in kilogram die na enkele maanden bewaring aanwezig is in de stalopslag, inclusief voerresten, schoonmaakwater en vermorst drinkwater.
+
+De mestproductiefactoren van staldieren worden periodiek geactualiseerd door de mestafvoer van grondloze bedrijven te vergelijken met het aantal dieren op het bedrijf. Voor de meeste categorieën staldieren is de mestproductiefactor geactualiseerd door de mestafvoer van grondloze bedrijven in 2019, 2020 en 2021 te vergelijken met het aantal dieren in die jaren. Een grondloos bedrijf zal in principe alle mest moeten afvoeren. Een bedrijf wordt als grondloos beschouwd als het meer dan 15 grootvee-eenheden per hectare heeft. De spreiding in de mestproductie per dier is doorgaans groot. Als de huidige mestproductiefactor buiten het 95% betrouwbaarheidsinterval valt van de berekende nieuwe waarde, wordt de nieuwe berekende waarde als mestproductiefactor overgenomen. Dit bleek alleen bij kalkoenen het geval. De mestproductiefactor van vleeskuikens is door Wageningen Livestock Research (WLR) geactualiseerd op basis van informatie uit het Bedrijveninformatienet (BIN) van Wageningen Economic Research en informatie van coöperatie DEP. Bij de berekening door WLR is uitgegaan van 6 weken productie en 1 week (15%) leegstand.
+
+1) Inclusief excretie van biggen.
+
+2) De nieuwe waarde is berekend door Wageningen Livestock Research met data van coöperatie DEP en van Wageningen Economic Research (Bedrijveninformatienet).
+
+3) Excretie per voedster inclusief excretie van mannelijke dieren, vleeskonijnen en opfokkonijnen.
+
+N.B. Varkensmest is dunne mest, pluimveemest is vaste mest.
+
+
+
+Landbouwtelling
+
+De Landbouwtelling is een integrale telling van landbouwhuisdieren in Nederland. Het aantal runderen, schapen, geiten en kippen hoeven veehouders niet meer zelf jaarlijks in te vullen. Deze aantallen worden afgeleid uit registers.
+
+5.1 Afbakening diercategorieën
+
+Factoren voor de mestproductie en mineralenexcretie per dier worden berekend voor elke diercategorie in de Landbouwtelling, met uitzondering van diersoorten die in zeer kleine aantallen worden gehouden zoals ezels, waterbuffels, herten en, ‘overig pluimvee’. Deze categorieën kunnen bestaan uit diverse diersoorten waardoor het lastig is om technische kengetallen over voerverbruik en dierlijke productie op te stellen. Daarbij is de bijdrage van deze diersoorten aan de totale mestproductie te verwaarlozen.
+
+Sommige diercategorieën in de Landbouwtelling worden bij de berekening van de mest- en mineralenexcretie samengevoegd tot één categorie om zo beter aan te sluiten bij de beschikbare kengetallen over voerverbruik en dierlijke productie. Zo zijn bij rundvee de leeftijdscategorieën van één tot twee jaar en van twee jaar en ouder samengevoegd tot één categorie dieren met een leeftijd van één jaar en ouder. Ook de gewichtsklassen van vleesvarkens en de eventuele verdeling in mannelijke en vrouwelijke dieren zijn samengevoegd tot één categorie vleesvarkens. De mest- en mineralenproductie van biggen is opgenomen in de factoren per zeug en bij schapen, geiten en konijnen zijn factoren berekend per moederdier waarin het aandeel van de mannelijke dieren en de jonge dieren is verrekend.
+
+5.2 Afbakening landbouwbedrijven
+
+Met ingang van 2016 wordt voor de afbakening van de Landbouwtelling gebruik gemaakt van informatie uit het Handelsregister. Inschrijving in het Handelsregister met een agrarische SBI (Standaard BedrijfsIndeling) is leidend bij de bepaling of er sprake is van een landbouwbedrijf. Met deze afbakening wordt zo nauw mogelijk aangesloten bij de statistische verordeningen van Eurostat en de (Nederlandse) implementatie van het begrip ‘actieve landbouwer’ uit het Gemeenschappelijk Landbouwbeleid (GLB).
+
+De afbakening van de Landbouwtelling op basis van informatie uit het Handelsregister betekende een vermindering van het aantal landbouwbedrijven. De invloed op arealen (behalve bij niet-cultuurgrond en natuurlijk grasland) en de dieraantallen (behalve bij schapen en bij paarden en pony’s) bleven beperkt. Dit heeft met name te maken met het soort bedrijven dat bij de afbakening wordt uitgesloten (zoals maneges, kinderboerderijen en natuurbeheersorganisaties).
+
+Door de afbakening op basis van informatie uit het Handelsregister valt een groter deel dan voorheen van de paarden, pony’s en schapen buiten de landbouw. Aangezien de mestproductie alleen wordt berekend voor dieren op landbouwbedrijven wordt voor een deel van de landbouwhuisdieren geen mestproductie berekend. Bij de berekening van ammoniakemissies en emissies van broeikasgassen wordt voor dit deel van de populatie de mestproductie wel berekend (Van der Zee et al ., 2021).
+
+5.3 Aantal dieren
+
+Peildatum 1 april
+
+Er wordt verondersteld dat het aantal dieren op de peildatum van de Landbouwtelling gelijk is aan het gemiddelde aantal aanwezige dieren in het betreffende jaar en dat dus de leegstand van de hokken tijdens de telling gelijk is aan de gemiddelde leegstand. Voor sommige diercategorieën zoals schapen en geiten is het aantal dieren op de teldatum niet representatief voor het gemiddelde aantal in het gehele jaar omdat er in het voorjaar en in de zomer meer dieren aanwezig zijn dan in de winterperiode. Bij de berekening van de excretiefactoren is hier rekening mee gehouden door het aantal geboren lammeren en het aantal opfokdieren te baseren op kengetallen en niet op het aantal dieren in de Landbouwtelling.
+
+Op de peildatum van de Landbouwtelling kan er sprake zijn van tijdelijke leegstand van stallen. In dat geval wordt met ingang van 2018 in de Landbouwtellingstabellen op de CBS-website het aantal vleeskalveren, vleesvarkens, kippen en kalkoenen verhoogd waarbij gebruik is gemaakt van de opgave van het voorgaande jaar. De reden voor deze bijtellingen is dat de Landbouwtelling een structuurtelling is waarvoor een juiste bepaling van bedrijfstypen en de economische omvang van de bedrijven van belang is. Tegelijkertijd leiden de bijtellingen tot overschatting van de omvang van de veestapels. Voor de berekening van de mestproductie is daarom uitgegaan van de dieraantallen op de peildatum van de Landbouwtelling zonder bijtellingen bij tijdelijke leegstand.
+
+Bijzondere omstandigheden
+
+In jaren met uitbraken van dierziekten of door andere oorzaken die leiden tot ingrepen in de veestapel zal het aantal dieren op de peildatum van de Landbouwtelling afwijken van het gemiddeld aantal aanwezige dieren. Bij de berekening van de stikstof- en fosfaatexcretie is hier zoveel mogelijk rekening mee gehouden. In 1997, 2001 en 2003 betrof het uitbraken van respectievelijk varkenspest, mond- en klauwzeer (MKZ) en vogelpest (Van Bruggen et al. , 2010). In 2017 leidde de Fipronil-affaire tot ruimingen en leegstand van pluimveestallen. Daarnaast daalde de omvang van de rundveestapel in de loop van dat jaar door de Subsidieregeling bedrijfsbeëindiging melkveehouderij en de Ministeriële regeling fosfaatreductieplan 2017 (Van Bruggen, 2018). De invoering van fosfaatrechten per 1 januari 2018 leidde tot verdere krimp van de rundveestapel gedurende dat jaar. Daarom is ook voor 2018 een correctie toegepast op het aantal runderen in de Landbouwtelling (Van Bruggen & Gosseling, 2019). Als gevolg van de coronapandemie waren er in 2020 gemiddeld minder vleeskalveren dan op 1 april, de peildatum van de Landbouwtelling. Het aantal vleeskalveren in 2020 is daarom gecorrigeerd op basis van kwartaaltellingen met het I&R-systeem voor rundvee. Daarnaast bedroeg het gemiddeld aantal aanwezige nertsen in 2020 als gevolg van ruimingen vanwege coronabesmettingen ongeveer de helft van het aantal in de Landbouwtelling. Ook hiervoor werd gecorrigeerd. De aantallen dieren tijdens de tellingen in december 2020, april 2021 en december 2021 laten over het algemeen geen grote schommelingen zien. Hieruit is geconcludeerd dat het aantal op de peildatum 1 april van de Landbouwtelling in 2021 een goede afspiegeling is van het aantal dieren in dat jaar, behalve bij eenden. Bij eenden is er sprake van een terugval door de coronapandemie door een stop op het inleggen van broedeieren gedurende een lange periode in 2020. Er is echter geen informatie over het verloop van het aantal eenden in 2021 en daarom is het aantal in de Landbouwtelling in de berekening gebruikt. Het effect op de totale uitkomsten is door de geringe bijdrage van eenden verwaarloosbaar.
+
+I&R-registers
+
+Met ingang van 2017 worden de dieraantallen in de Landbouwtelling in toenemende mate afgeleid uit I&R-registers (Identificatie en Registratie van dieren). De I&R-registers vallen onder verantwoordelijkheid van de Rijksdienst voor Ondernemend Nederland (RVO) en hebben als doel om, mede met het oog op de volksgezondheid, bij dierziekten een snelle tracering van dieren mogelijk te maken. Sinds 2017 wordt de omvang van de rundveestapel afgeleid uit I&R-rund (Van Os, 2017), en vanaf 2018 worden ook de pluimvee-aantallen en de aantallen schapen en geiten afgeleid uit de betreffende I&R-registers (Van Os et al ., 2019 en 2020). De registratie van rundvee, schapen en geiten vindt rechtstreeks bij RVO plaats. Pluimveegegevens worden ingewonnen via de aangewezen databank Koppel Informatiesysteem Pluimvee (KIP) van Avined. Avined is een brancheorganisatie voor de eier- en pluimveevleessector. Avined geeft de gegevens door aan de centrale database van RVO. Door de overgang naar het gebruik van I&R-registers is de onderverdeling van schapen en geiten in subcategorieën met ingang van 2018 veranderd.
+
+In het verleden is incidenteel nagegaan of de omvang van de veestapel niet werd onderschat of juist overschat Uit deze onderzoeken kwam geen eenduidig beeld naar voren (Van Bruggen et al ., 2010). Wel gaven enkele onderzoeken aan dat bij diercategorieën met meerdere productierondes per jaar, waarbij de productierondes gevolgd worden door enkele dagen of weken leegstand van stallen, de Landbouwtelling het aantal dieren mogelijk overschat. Het is denkbaar dat bij leegstand van de hokken op de peildatum de stalcapaciteit wordt opgegeven of het aantal dieren dat bij aanvang van een productieronde aanwezig is. Leegstand tussen productierondes en uitval van dieren gedurende de productieronde komen dan onvoldoende in de cijfers tot uitdrukking waardoor het gemiddeld aantal aanwezige dieren wordt overschat. Dit vermoeden werd bevestigd door het fors lagere aantal vleeskuikens in de Landbouwtelling van 2018 gebaseerd op I&R-gegevens, ten opzichte van het door pluimveehouders opgegeven aantal vleeskuikens in de Landbouwtelling van 2017. Dit betekent dat naar alle waarschijnlijkheid het aantal dieren in het verleden is overschat van die diercategorieën met meerdere productierondes per jaar en met een periode van leegstand tussen de productierondes.
+
+De resultaten van de Landbouwtelling van 2000 tot heden kunnen sinds de eerste publicatie op de CBS-website zijn aangepast. Dit kan bijvoorbeeld het gevolg zijn van een bijstelling of een met terugwerkende kracht doorgevoerde wijziging van de afbakening van landbouwbedrijven, waarbij bedrijven die uitsluitend natuurterreinen beheren zijn uitgesloten. Het verschil in dieraantallen is zeer gering en de invloed op de uitkomsten is te verwaarlozen.
+
+Het aantal dieren in de berekeningen van de mestproductie is opgenomen in Tabel 5.3.1.
+
+
+
+
+
+Noten
+
+in april en december:Resultaten
+
+De excretie van zowel stikstof als fosfaat lag in 2021 onder het mestproductieplafond dat door de Europese Commissie is vastgesteld.
+
+6.1 Stikstof- en fosfaatexcretie
+
+De stikstofexcretie daalde van 489,4 miljoen kilogram in 2020 tot 471,0 miljoen kilogram in 2021. Hierdoor lag de stikstofexcretie in 2021 bijna 7 procent onder het productieplafond van 504,4 miljoen kilogram. Het is het vierde achtereenvolgende jaar dat de stikstofexcretie onder het productieplafond ligt. Sinds 2017 is de stikstofexcretie van de veestapel afgenomen met 41 miljoen kilogram. De grootste bijdrage hieraan (30 miljoen kilogram) werd geleverd door de melkveehouderij, vooral door het houden van minder koeien en jongvee. Ondanks de daling van de stikstofexcretie van melkvee vanaf 2017 produceren de runderen nog ruim 7 miljoen kg stikstof meer vergeleken met 2010. In dezelfde periode is de stikstofexcretie in de mest van varkens verminderd met 17 miljoen kilogram en die van pluimvee met 10 miljoen kilogram.
+
+De fosfaatexcretie in dierlijke mest daalde van 150,7 miljoen kilogram in 2020 tot 148,0 miljoen kilogram in 2021. Door deze afname ligt de fosfaatexcretie nu 25 miljoen kilogram (ruim 14 procent) onder het niveau van het fosfaatplafond van 172,9 miljoen kilogram.
+
+In Tabel 6.1.1 is de excretie van stikstof en fosfaat naar diercategorie weergegeven.
+
+1) Schapen, geiten, paarden, pony's, konijnen en nertsen (nertsen alleen in 2020).
+
+Rundvee
+
+Het aantal melkkoeien daalde in 2021 met ruim 20 duizend stuks en het vrouwelijk jongvee nam toe met 30 duizend stuks. De melkproductie per koe lag in 2021 met 8 845 kilogram 0,6% onder het niveau van 2020. Door de daling van het aantal melkkoeien en door lagere excretiefactoren kwam de stikstofexcretie van melkvee uit op 273,0 miljoen kilogram, 3,1 procent onder het sectorplafond van 281,8 miljoen kilogram. De lagere excretiefactoren van rundvee hangen samen met de daling van het stikstofgehalte van graskuil. De fosfaatproductie van de melkveesector nam in 2021 toe door een hoger fosforgehalte van het gras, maar ligt met 74,2 miljoen kilogram nog altijd ruim onder het sectorplafond van 84,9 miljoen kilogram. Voor de verantwoording van het Nederlandse mestbeleid aan de Europese Unie mag voor de melkveesector gerekend worden met gemiddelde stikstof- en fosforgehalten van gras en maïs van de laatste vijf jaar, waarbij de jaren met de hoogste en de laagste gehalten buiten beschouwing blijven. Met deze zogeheten ruwvoercorrectie komt de excretie van de melkveesector uit op 278,1 miljoen kilogram stikstof en 77,6 miljoen kilogram fosfaat.
+
+De stikstofexcretie van vleesrundvee daalde van 33,7 miljoen kilogram in 2020 naar 32,9 miljoen kilogram in 2021 door het lagere stikstofgehalte van gras. De fosfaatexcretie bleef in 2021 met 9,1 miljoen kilogram gelijk aan de excretie in 2020. De berekening van de excretie van witvleeskalveren is geactualiseerd door gebruik te maken van de meest recente cijfers van de Stichting Brancheorganisatie Kalversector (SBK). Hierdoor daalde de excretiefactor voor stikstof in 2021 met ruim 1 procent en die voor fosfaat met 4,5 procent.
+
+Varkens en pluimvee
+
+Door afname van het aantal dieren is de excretie van stikstof en fosfaat via de mest van varkens en pluimvee in de afgelopen vijf jaar steeds verder gedaald. Het aantal vleesvarkens op de peildatum van de Landbouwtelling was in 2021 bijna 180 duizend stuks lager dan in 2020. Dat is een daling met 3,3 procent. Het aantal zeugen daalde met bijna 60 duizend stuks (6,7 procent). De stikstof- en fosforgehalten van het voer vielen in 2021 over het algemeen lager uit vergeleken met 2020. Wel werd er per dier meer voer verbruikt. Het hogere voerverbruik kan te maken hebben met de grondstoffensamenstelling van het mengvoer of een groter aandeel welzijnsvoer. Daarnaast speelt bij zeugen de toegenomen biggenproductie een rol.
+
+De stikstofexcretie van de varkenssector daalde in 2021 met 2,9 miljoen kilogram (3,2 procent) naar 88,9 miljoen kilogram. De fosfaatexcretie nam af met 2,2 miljoen kilogram tot 34,5 miljoen kilogram. Beide dalingen hangen samen met de krimp van de varkensstapel. De daling van het aantal varkens is mede het gevolg van de stoppersregeling Actieplan Ammoniak Veehouderij en de Subsidieregeling sanering varkenshouderij (SRV). De stikstof en fosfaat die varkens produceren liggen sinds 2016 onder de sectorplafonds.
+
+De daling van de stikstof- en fosfaatexcretie van pluimvee hangt vooral samen met de daling van het aantal vleeskuikens. Het aantal vleeskuikens op de peildatum 1 april van de Landbouwtelling lag ruim 14 procent onder het niveau van 2020. Op andere peilmomenten zoals december 2020 en december 2021 was het aantal vleeskuikens vergelijkbaar met het aantal op 1 april. De lagere aantallen zijn het gevolg van het wegvallen van de binnenlandse afzet naar de horeca en de verminderde export door de coronapandemie. Hierdoor werd vooral de reguliere markt getroffen. De markt voor langzaamgroeiende kuikens betreft vooral de binnenlandse afzet naar supermarkten en die had niet te maken met afzetproblemen. Ook de overschakeling van reguliere naar langzaamgroeiende vleeskuikens (conceptkuikens) en de overschakeling op het houden van vleeskuikens met één ster volgens het Beter Leven Keurmerk (BLK) spelen hierbij een rol. Deze dieren hebben meer ruimte en dus is de stalbezetting lager.
+
+In de pluimveesector daalde de stikstofexcretie met 0,7 procent en de fosfaatexcretie met 3,7 procent. De stikstofexcretie bedroeg in 2021 54,3 miljoen kilogram, de fosfaatexcretie 23,2 miljoen kilogram, beide onder de sectorplafonds.
+
+Overige vee
+
+Het overige vee bestond in 2021 uit schapen, geiten, paarden, pony’s en konijnen. De nertsen zijn uit deze groep verdwenen omdat het houden van nertsen met ingang van 2021 niet meer is toegestaan. De stikstofexcretie van het overige vee nam in 2021 af met 0,9 miljoen kilogram (3,9 procent) tot 21,9 miljoen kilogram. De fosfaatexcretie daalde met 0,2 miljoen kilogram. De dalingen zijn toe te schrijven aan het verbod op het houden van nertsen per 1 januari 2021. De excretie van overig vee draagt voor ongeveer 5 procent bij aan de totale excretie.
+
+In de periode 1990–2021 daalde de stikstofexcretie met 32 procent en de fosfaatexcretie met 35 procent (Figuur 6.1.2). Door invoering van fosfaatgebruiksnormen, de mestboekhouding en mestproductierechten eind jaren tachtig, werd de daling van de fosfaatexcretie al ingezet vóór de invoering van het mineralenaangiftesysteem Minas in 1998. Bij stikstof werd de sterkste afname juist gerealiseerd na 1997. Tijdens de laatste jaren waarin Minas nog van kracht was, stagneerde de daling van de stikstof- en fosfaatexcretie. Na de invoering van het stelsel van gebruiksnormen in 2006 zijn de mestproductie en de mineralenexcretie weer licht gestegen. In de periode 2013–2017 nam de stikstofexcretie toe door de groei van de melkveestapel en door hogere stikstofgehalten van ruwvoer. Door de krimp van de melkveestapel daalde de stikstofexcretie in 2018 en deze daling zette door in 2019, maar in 2020 was er weer sprake van een lichte toename. De fosfaatexcretie nam in de periode 2013–2015 toe door de groei van de melkveestapel en hoge fosforgehalten van ruwvoer maar in 2016 daalde deze door lagere fosforgehalten van ruwvoer en krachtvoer. Vanaf 2017 daalde de fosfaatexcretie door de krimp van de melkveestapel en lagere fosforgehalten van ruwvoer en krachtvoer.
+
+6.2 Gasvormige stikstofverliezen
+
+Tijdens de opslag van mest verandert de samenstelling door afbraak van organische stof, vervluchtiging van ammoniak en vervluchtiging van overige stikstofverbindingen (N 2 , N 2 O, NO) door denitrificatie. De stikstofexcretie verminderd met de stikstofverliezen in stal en opslag wordt aangeduid met stikstofproductie. In figuur 6.2.1 is de stikstofexcretie verdeeld in stikstofproductie, de gasvormige verliezen die optreden tijdens opslag binnen en buiten de stal en de afvoer van stikstof via het spuiwater van luchtwassers. De afvoer van stikstof via het spuiwater van luchtwassers wordt tot de verliezen uit dierlijke mest gerekend omdat deze stikstof niet langer beschouwd wordt als dierlijke mest maar als een anorganische meststof, vergelijkbaar met kunstmest.
+
+Bij de toediening van dierlijke mest aan de bodem, inclusief de mest die dieren produceren als ze in de wei lopen, vervluchtigt opnieuw een deel van de aanwezige stikstof in de vorm van ammoniak. Deze toedieningsverliezen zijn niet in Figuur 6.2.1 weergegeven. De cijfers in de figuur zijn berekend met de op TAN-gebaseerde rekenmethodiek zoals beschreven in Van der Zee et al . (2021).
+
+6.3 Stikstof- en fosfaatexcretie naar regio
+
+Er zijn grote regionale verschillen in de excretie van stikstof en fosfaat. Traditioneel is de stikstof- en fosfaatexcretie in Noord-Brabant het grootst, zowel in absolute hoeveelheid als per hectare cultuurgrond. In Zeeland is de mestproductie het kleinst door de geringe veedichtheid.
+
+Figuur 6.3.1 toont de bijdrage van de verschillende diergroepen in de totale stikstofexcretie per provincie. In alle provincies met uitzondering van Limburg is het aandeel van rundvee in de stikstofexcretie het grootst. In Figuur 6.3.2 is de stikstofexcretie weergegeven per hectare cultuurgrond (exclusief glastuinbouw). Uit de figuur blijkt dat Noord-Brabant en Limburg de provincies zijn met de hoogste excretie per hectare.
+
+6.4 Stikstof- en fosfaatproductie naar bedrijfstype
+
+Landbouwbedrijven in Nederland mogen onder voorwaarden meer dierlijke mest gebruiken per hectare landbouwgrond dan de 170 kilogram stikstof die de Nitraatrichtlijn voorschrijft (derogatie). Eén van de voorwaarden is dat minimaal 80 procent van het bedrijfsareaal bestaat uit grasland. In dat geval mag op percelen met zand- of lössgrond in Overijssel, Gelderland, Utrecht, Noord-Brabant en Limburg 230 kilogram stikstof per hectare per jaar in de vorm van graasdierenmest gebruikt worden. Voor de overige provincies is de norm verruimt tot 250 kilogram stikstof per hectare.
+
+Bij het berekenen van de plaatsingsruimte is uitgegaan van de hiervoor genoemde voorwaarden, ongeacht of bedrijven daadwerkelijk derogatie hebben aangevraagd. De plaatsingsruimte voor stikstof is in de loop van de tijd gedaald door aanscherping van de derogatievoorwaarden en door afname van de hoeveelheid cultuurgrond. De hoeveelheid stikstof in dierlijke mest die beschikbaar is voor toediening aan de bodem (stikstofproductie) is berekend door de stikstofexcretie te verminderen met stikstofverliezen die optreden in stallen en mestopslagen, inclusief de afvoer van stikstof via het spuiwater van luchtwassers. De verliezen in stallen en mestopslagen zijn berekend volgens de nationale rekenmethodiek voor emissies uit dierlijke mest (Van der Zee et al., 2021). De gasvormige stikstofverliezen van 2021 zijn nog voorlopige cijfers. In Figuur 6.4.1 is de stikstofproductie en de plaatsingsruimte voor stikstof uit dierlijke mest van enkele bedrijfstypen weergegeven. De indeling in bedrijfstypen is gebaseerd op het economisch zwaartepunt van de bedrijfsactiviteiten.
+
+In figuur 6.4.2 is voor enkele jaren de fosfaatproductie en de plaatsingsruimte weergegeven naar bedrijfstype.
+
+De plaatsingsruimte voor fosfaat is het wettelijk toegestane gebruik van fosfaat in kilogram per hectare (gebruiksnorm) vermenigvuldigd met de oppervlakte van het areaal in hectare. Voor grasland en bouwland gelden verschillende gebruiksnormen die geleidelijk zijn aangescherpt. Met ingang van 2010 zijn de gebruiksnormen voor fosfaat gedifferentieerd naar de fosfaattoestand van de bodem. De gemeten fosfaattoestand is hierbij ingedeeld in een aantal klassen met een bijbehorende fosfaatgebruiksnorm. Met ingang van 2020 is de klasse-indeling: arm, laag, neutraal, ruim of hoog. Als er geen gegevens zijn over de fosfaattoestand is in overeenstemming met het mestbeleid uitgegaan van een hoge fosfaattoestand en geldt dus de laagste fosfaatgebruiksnorm. Globaal is van 40 procent van de cultuurgrond de fosfaattoestand niet bekend. Vooral van bouwland ontbreken gegevens.
+
+6.5 Mestproductievolume
+
+De totale mestproductie in 2021 bedroeg 73,5 miljard kilogram tegen 74,3 miljard kilogram in 2020. In Figuur 6.5.1 is de ontwikkeling weergegeven van de mestproductie per diersoort. Tabel 6.5.2 toont de mestproductie per diersoort uitgesplitst naar dunne en vaste mest.
+
+1) De weidemest van schapen, paarden en pony's is gerekend als dunne mest.
+
+
+
+Literatuur
+
+Bikker, P., L.B. Šebek, C. van Bruggen & O. Oenema (2019). Stikstof- en fosfaatexcretie van gangbaar en biologisch gehouden landbouwhuisdieren. Herziening excretieforfaits Meststoffenwet 2019. Wettelijke Onderzoekstaken Natuur & Milieu, WUR, Wageningen. WOt-technical report 152.
+
+Bruggen, C. van, M.J.C. de Bode, A.G. Evers, K.W. van der Hoek, H.H. Luesink en M.W. van Schijndel (2010). Gestandaardiseerde berekeningsmethode voor dierlijke mest en mineralen. Standaardcijfers 1990–2008. Centraal Bureau voor de Statistiek, Den Haag/Heerlen.
+
+Bruggen, C. van (2011). Dierlijke mest en mineralen 2009. Centraal Bureau voor de Statistiek. Den Haag/Heerlen.
+
+Bruggen, C. van (2016). Dierlijke mest en mineralen 2015 (C. van Bruggen). Centraal Bureau voor de Statistiek, Den Haag/Heerlen.
+
+Bruggen, C. van (2018). Dierlijke mest en mineralen 2017. Centraal Bureau voor de Statistiek, Den Haag/Heerlen.
+
+Bruggen, C. van & M. Gosseling (2019). Dierlijke mest en mineralen 1990–2018. Centraal Bureau voor de Statistiek, Den Haag/Heerlen.
+
+Bruggen, C. van & M. Gosseling (2020). Dierlijke mest en mineralen 2019. Centraal Bureau voor de Statistiek. Den Haag/Heerlen.
+
+Bruggen, C. van (2021). Dierlijke mest en mineralen 2020. Centraal Bureau voor de Statistiek. Den Haag/Heerlen.
+
+Buisonjé, F.E. de, M.M. van Krimpen & J. Jochemsen (2009). Mineralenbalans van vleeseenden in praktijkstallen en mineralengehalten in ouderdieren en broedeieren. Rapport 226. Animal Sciences Group, Wageningen UR, Lelystad.
+
+Bruggen, C. van (2018). Dierlijke mest en mineralen 2017. Centraal Bureau voor de Statistiek, Den Haag/Heerlen.
+
+Coppoolse, J., A.M. van Vuuren, J. Huisman, W.M.M.A. Janssen, A.W. Jongbloed, N.P.Lenis, P.C.M. Simons. (1990). De uitscheiding van stikstof, fosfor en kalium door landbouwhuisdieren, Nu en Morgen. Wageningen, Dienst Landbouwkundig Onderzoek.
+
+Evers, A., B. Bosma, J. Heeres, H.H. Luesink, E. Schuiling en I. Vermeij (2011). Update kengetallen voor WUM. Rapport opdrachtgever 276. Wageningen UR Livestock Research, Lelystad.
+
+Groenestein, C.M. 2017. Mondelinge mededeling. Wageningen Livestock Research.
+
+Heeres-van der Tol, J.J., Gerrits W.J.J. (1999). N- en P-afvoer met blanke en rosé kalveren. Intern Rapport 370, Praktijkonderzoek Rundvee, Schapen en Paarden, Lelystad.
+
+Heeres-van der Tol, J.J. (2001). Vaste kengetallen rundvee, schapen en geiten herzien. Intern rapport 455. In opdracht van de Werkgroep Berekening Mest- en Mineralencijfers (WUM). Praktijkonderzoek Veehouderij. Lelystad.
+
+Heeres-van der Tol, J.J. (2002). Stikstof- en fosfaatuitscheiding rundvee. Praktijkrapport Rundvee nr. 10. Praktijkonderzoek Veehouderij. Lelystad.
+
+Hoek, K.W. van der (1987). Fosfaatproductienormen voor rundvee, varkens, kippen en kalkoenen. Consulentschap in Algemene Dienst voor Bodem, Water en Bemestingszaken in de Veehouderij.
+
+IKC (1993). Kwantitatieve Informatie Veehouderij 1992–1993. Publicatie nr. 6–92. Informatie en Kenniscentrum veehouderij. Ede.
+
+Ipema, B. & A.W. Jongbloed (2011). Forfaits vastlegging stikstof en fosfaat in eendagskuikens (kip en eend). Interne notitie t.b.v. update URM.
+
+Jongbloed, A.W. (1984). The effect of animal husbandry on the environment. Paper presented on the 35th annual meeting of the EAAP, 6–9 August, The Hague.
+
+Jongbloed, A.W., A. Steg, P.C.M. Simons, W.M.M.A. Janssen, N.P. Lenis, J.A.C. Meijs & K. Vreman (1985). Berekeningen over de mogelijke vermindering van de uitscheiding aan N, P, Cu, Zn en Cd via de voeding door landbouwhuisdieren in Nederland. Lelystad (IVVO). Mededelingen IVVO no. 3.
+
+Jongbloed, A.W. & P.A. Kemme (2002a). De gehalten aan stikstof, fosfor en kalium in varkens vanaf geboorte tot ca. 120 kg en van opfokzeugen. Rapport ID-Lelystad no. 2222.
+
+Jongbloed, A. W. and P. A. Kemme (2002b). Oriëntatie omtrent de gehalten aan stikstof, fosfor en kalium in landbouwhuisdieren. Rapport ID-Lelystad no. 2178.
+
+Jongbloed, A.W. & P.A. Kemme, 2005. De uitscheiding van stikstof en fosfor door varkens, kippen, kalkoenen, pelsdieren, eenden, konijnen en parelhoenders in 2002 en 2006. Rapport 05/I01077. Wageningen UR Livestock Research, Lelystad.
+
+Jongbloed, A.W. (2010). Gehalte en uitscheiding van fosfor en stikstof door opfokzeugen van ongeveer 130 kg. Rapport 364. Wageningen UR Livestock Research, Lelystad.
+
+Kemme, P. A., R.A. Dekker en A. W. Jongbloed (2003). De gehalten aan stikstof, fosfor en kalium in rosévleeskalveren. Rapport ASG02/0028498.
+
+Kemme, P.A., J.Th.M. van Diepen, P.L. van der Togt & A.W. Jongbloed (2004). De gehalten aan stikstof, fosfor en kalium in blanke vleeskalveren. Rapport ID-Lelystad nr. 04/0005643. Animal Sciences Group – Nutrition and Food, Lelystad.
+
+Kemme, P.A., J. Heeres-van der Tol, G. Smolders, H. Valk, J.D. van der Klis (2005a). Schatting van de uitscheiding van stikstof en fosfor door diverse categorieën graasdieren. Rapport no. 05/I00653. Animal Sciences Group – Nutrition and Food, Lelystad.
+
+Kemme, P.A., G. Smolders & J.D. van der Klis (2005b). Schatting van de uitscheiding van stikstof en fosfor door paarden, pony’s en ezels. Rapport no. 05/I01614. Animal Sciences Group – Nutrition and Food, Lelystad.
+
+Koning, L. & L.B. Šebek (2019). Jaarrond gemiddeld fosforgehalte in melk; Jaarrond monitoren van het P-gehalte in melk van de Nederlandse melkveestapel en de mogelijkheid het P-gehalte in melk te schatten uit andere melkbestanddelen. Wageningen Livestock Research, Rapport 1166.
+
+Kool, A., L. Kuling & H. Blonk (2020). Trendanalyse milieuprestaties Nederlands kalfsvlees. Blonk consultants, Gouda.
+
+KWIN (2020). Kwantitatieve Informatie Veehouderij 2020–2021. Wageningen UR. Handboek 43.
+
+Os, J. van, M.G.T.M. Bartholomeus, L.J.J. Jeurissen & C.G. van Reenen (2017). Rekenregels rundvee voor de Landbouwtelling; Verantwoording van het gebruik van het Identificatie & Registratiesysteem. Wettelijke Onderzoekstaken Natuur & Milieu, WOt-technical report 91.
+
+Os, J. van, L.J.J. Jeurissen & H.H. Ellen (2019). Rekenregels pluimvee voor de Landbouwtelling; Verantwoording van het gebruik van het Identificatie & Registratiesysteem. Wettelijke Onderzoekstaken Natuur & Milieu, WOt-technical report 154.
+
+Os, J. van (2020). Rekenregels schapen en geiten voor de Landbouwtelling; Verantwoording van het gebruik van het Identificatie & Registratiesysteem. Wettelijke Onderzoekstaken Natuur & Milieu, WOt-technical report 185.
+
+Schröder, J.J., L.B. Šebek, J. Oenema, J.G. Conijn & J. de Boer (2018). Rekenregels van de Kringloopwijzer 2017; Achtergronden van BEX, BEA, BEN, BEP en BEC: Actualisatie van de 2016‑versie. Wageningen Livestock Research, Rapport WPR-790.
+
+Sebek, L.B., C van Bruggen & I. Vermeij (2021). Actualisatie forfaitaire N- en P-excretie vleeskalveren (notitie in voorbereiding). Wageningen Livestock Research. Wageningen.
+
+Tamminga, S., A.W. Jongbloed, M.M. van Eerdt, H.F.M. Aarts, F. Mandersloot, N.J.P. Hoogervorst & H. Westhoek (2000). De forfaitaire excretie van stikstof door landbouwhuisdieren. Rapport ID Lelystad 00-2040R.
+
+Tamminga, S., F. Aarts, A. Bannink, O. Oenema & G.J. Monteny (2004). Actualisering van geschatte N en P excreties door rundvee. Reeks Milieu en Landelijk gebied 25. Wageningen.
+
+Tamminga, S. A.W. Jongbloed, P. Bikker, L. Šebek, C. van Bruggen & O. Oenema (2009). Actualisatie excretiecijfers landbouwhuisdieren voor forfaits regeling Meststoffenwet. Werkdocument 156 Wageningen.
+
+Versteegh, H.A.J., Jongbloed, A.W. (2000a). De hoeveelheid droge stof, as, stikstof, calcium, magnesium, fosfor, natrium, kalium, koper, zink en ijzer in eieren en in vleeskuikenouderdieren op twee leeftijden. Rapport ID-DLO no.99.059.
+
+Versteegh, H.A.J., Jongbloed, A.W. (2000b). Het gehalte aan droge stof, as, stikstof, calcium, fosfor, kalium, koper, zink in vleeskuikens op drie leeftijden. Rapport ID-DLO no. 99.042.
+
+WPSA (1985). Mineral requirements for poultry – Mineral requirements and recommendations for growing birds, Sub Committee on Mineral Requirement for Poultry of the working Group no. 2 –Nutrition – of the European Federation of Branches of the WPSA, WPSA Journal 41(3): 252–258.
+
+Zee, T. van der, A. Bannink, C. van Bruggen, C.M. Groenestein, J.F.M. Huijsmans, J.W.H. van der Kolk, L.A. Lagerwerf, H.H.Luesink, G.L. Velthof & J. Vonk (2021). Methodology for estimating emissions from agriculture in the Netherlands. Calculations of CH 4 , NH 3 , N 2 O, NO x , NMVOC, PM 10 , PM 2.5 and CO 2 with the National Emission Model for Agriculture (NEMA) – update 2021. RIVM report 2021–0008. Rijksinstituut voor Volksgezondheid en Milieu, Bilthoven.
+
+
+
+

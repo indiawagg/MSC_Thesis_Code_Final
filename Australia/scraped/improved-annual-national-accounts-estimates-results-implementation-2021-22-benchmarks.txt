@@ -1,0 +1,75 @@
+Date:
+2023-10-27
+Article Title:
+ Improved Annual National Accounts estimates: Results of the implementation of the 2021-22 benchmarks
+
+Article Content:
+This article outlines the key revisions to Gross Domestic Product (GDP) from the 2021 22 Supply Use benchmarking process and associated revisions to the 2022 23 estimate first published in the June 2023 quarterly national accounts. As more comprehensive and detailed data becomes available it is incorporated into the Australian System of National Accounts resulting in statistical revisions. The COVID 19 period and its immediate aftermath challenged many ABS survey collections, models, methods, and assumptions used in the compilation of the national accounts in a way not usually seen during periods of relative economic stability. Revisions to aggregate GDP have been driven by the reconciliation of the three measures of GDP in the Supply Use framework for 2021 22, and the incorporation of more complete annual source data.
+GDP is derived by three approaches: the income approach (I), the expenditure approach (E) and the production approach (P). On a quarterly basis each measure is compiled independently using differing source data, which results in three different estimates of GDP. The headline GDP figure is a simple average of the three measures.
+The Supply Use framework fully reconciles the three measures of GDP annually on an industry and product basis. This provides a coherent annual benchmark of GDP and the consistency of data sources across the three measures to be assessed. The framework confronts:
+The Supply Use framework also allows for an explicit measure of Total Intermediate Use (TIU) to be incorporated as well as a more detailed level of deflation.
+Supply Use balancing uses a much wider range of data sources than are available for quarterly GDP. These include:
+Detailed Supply Use tables can be found here: 
+  Australian production, imports, margins, taxes and subsidies on the supply side, for 302 products.
+  Intermediate, household, and government consumption, investment, change in inventories and exports on the demand side, for 302 products.
+  Income and production for 68 industries.
+  The Economic Activity Survey (EAS). EAS has a larger sample than the Quarterly Business Indicators Survey (QBIS) used for quarterly estimates, with more detailed income and expense breakdowns, a longer collection and editing process, and the advantage of being based on businesses' complete annual profit and loss statements.
+  Audited Annual Government Finance Statistics data, replacing quarterly reported estimates.
+  Annual and biennial data for intellectual property products, replacing modelled quarterly estimates.
+  Annual information on non market activity volumes such as healthcare and education services. For example, final data on student numbers, higher education employment data and the number of medical services provided.
+  Annual data on expenses by Australians abroad and non Australians in Australia from the National Visitor Survey (NVS) and the International Visitor Survey (IVS).
+  More detailed annual source data on financial and insurance services from the Australian Prudential Regulation Authority (APRA).
+The incorporation of the Supply Use benchmarks has revised both current price and volume GDP as shown in figures 1 and 2. Estimates from 2019 20 have been revised due to annual GDP balancing and historical revisions. Changes prior to 2019 20 are a result of historical revisions alone. Historical revisions had significant impacts on the level of GDP in current prices, but minor impacts on volumes. Further information can be found here: 
+Key revisions for 2021 22 include:
+  All three measures of GDP were revised upwards in 2021 22.
+  Current price GDP growth was revised upwards by 0.7 percentage points (ppt), from 11.0% to 11.7%.
+  Volume GDP growth was revised upwards by 0.7ppt, from 3.6% to 4.3%.
+  The larger revision to volumes in 2021 22 was offset by downward revisions in 2019 20 and 2020 21, which kept the economic position in level terms in 2022 23 relatively unchanged.
+  Growth in the Australian economy from pre COVID levels (2018 19) to 2021 22 was revised from 5.9% to 6.1% in volume terms.
+A useful way to examine revisions over time is to compare the time series that appear in successive publications. Tables 3 and 4 below contain annual growth rates of GDP for 2019 20 onwards, as published in the Australian System of National Accounts issues between October 2019 and October 2023. Each column contains the growth rate for a different reference period, and rows contain the time series from successive publications. A table of this form is referred to as a revisions triangle; comparing values within a column reveals how a reference period’s initial growth rate has been revised in subsequent publications.
+The drivers to the Expenditure approach revision in volumes for 2021 22 were:
+Household final consumption expenditure (HFCE), which was revised upwards 0.6ppt, from 3.7% to 4.3% and contributed 0.3ppt to the overall revision to GDP (E).
+Change in inventories was revised upwards by $7.1b, which contributed 0.4ppt to the overall revision to GDP (E).
+Gross fixed capital formation (GFCF) was revised upwards 1.0ppt, from 6.1% to 7.1% and contributed 0.2ppt to the overall revision to GDP (E).
+  Transport services upwards revisions were driven by Air passenger transport. More detailed data sources indicated a change in the pre COVID composition of flights towards longer, more expensive routes. Updated data sources increased the weighting of Australian nationals travelling compared to non nationals.
+  Food upwards revisions were caused by updated scanner data and the use of annual deflators.
+  Operation of vehicles downwards revisions were driven by the large fall in automotive petroleum consumed combined with a substitution of premium fuel with lower quality fuel due to price rises, which was more accurately captured by annual sources. Repair and maintenance of motor vehicles was also revised downwards based on comparison with supply data and reflects reduced household vehicle travel.
+  Farm inventories were revised upwards from a $3.7b drawdown to a $0.4b drawdown. Detailed annual data showed the rebuilding of the national herd of beef cattle was larger than initially estimated, which offset the drawdown in farm grain inventories.
+  Wholesale inventories were revised upwards from $2.4b to $4.8b. Updated annual source data reflected the strength in grains, petroleum, and chemical wholesaling was stronger than initial estimates.
+  Upwards revisions to GFCF were due to new source data across all the key Intellectual property products replacing modelled estimates. Revisions were concentrated in Private GFCF, however there were also upwards revisions to General Government GFCF due to updated Intellectual property products data.
+The Expenditure approach in volume terms for 2022 23 grew 2.9%. This has been revised down from the sum of four quarters estimate of 3.5%. The drivers of the  0.6ppt revision for 2022 23 were:
+  HFCE was revised down from 5.3% to 5.1% and contributed  0.2ppt of the revision. This was driven by downward revisions to Recreation and culture, clothing and footwear, Other goods and services and Insurance and other financial services due to confrontation with updated data sources.
+  Net trade, which contributed  0.2ppt to the revision of GDP (E). This was driven by downward revisions to exports of goods and services, led by non rural goods.
+  Change in Inventories, which contributed  0.2ppt to the revision of GDP (E). Wholesale inventories detracted from growth, revised from $1b to  $1.9b, while Farm inventories contributed less to the detraction, revised from $2.3b to $1.2b.
+  Total GFCF was unchanged from the sum of four quarters estimate published in the June quarter with a downward revision to private GFCF being offset by an upward revision to public GFCF.
+  Private GFCF was revised downwards from 1.0% to 0.8%. This was driven by downward revisions to Dwellings and Non dwelling construction, with the incorporation of updated data sources.
+  Public GFCF was revised upwards from 5.0% to 5.7%. This was driven by upward revisions to State and local general government and National public non financial corporations, with additional data sources and audited final data replacing quarterly estimates.
+The drivers to the upwards revision for the Production approach in volumes for 2021 22 were:
+Taxes less subsidies on products, which was revised upwards from 0.0% to 5.2%. The key drivers of this revision were:
+Estimates of Gross value added (GVA) based on annual source data from the EAS, audited annual GFS data and volume data for non market services. Industries which contributed to the upwards revisions included:
+Offsetting downwards revisions to industries included:
+  A significant increase in title transfers, which drove Stamp Duty volumes growth of 15.0%. Stamp duty was not captured in the quarterly indicator.
+  The shift of petroleum excises from domestic refinery excise to import duties was not captured in the quarterly indicator.
+  Public administration and safety. The annual method for estimating GVA was better able to capture the increase in government expenditure based on government final consumption expenditure (GFCE). The revision was driven by National Defence sustainment costs, Defence exercises, and increased expenditure from the Australian Electoral Commission, Department of Human Services, Department of Health and Aged Care and the Australian Trade Commission.
+  Financial and insurance services. Revisions were primarily driven by strong levels of mortgage brokerage activity related to refinancing, as well as increased stock market trading activity. Growth rates in loans and deposit balances were also revised upwards reflecting conceptual improvements as part of the historical review.
+  Professional, scientific and technical services. The revision was driven by Computer system design and related services as businesses benefitted from the continued strong demand for cloud based services, while being able to leverage off existing infrastructure and operations.
+  Agriculture. Revised estimates from the Australian Bureau of Agricultural and Resource Economics and Sciences (ABARES) and Hort Innovation showed a lower output volume for fruits, nuts, and vegetables and softer TIU volumes for key farm inputs such as fertilisers, pesticides, services to agriculture, and petroleum than the quarterly indicator.
+  Construction. Supply constraints and longer lead times of materials coupled with increased reliance on subcontractors due to skilled labour shortages and additional COVID compliance measures mandated for site safety resulted in increased TIU volumes compared to Output.
+The Production approach in volume terms for 2022 23 grew 3.1%. This has been revised down from the sum of four quarters estimate of 3.4%. The drivers of the  0.3ppt revision for 2022 23 were:
+  Taxes less subsidies on products in 2022 23 was revised downwards from 1.3% to  1.1%. This  2.4ppt revision reflects the inclusion of Stamp Duty and the import duties component of petroleum excises in the indicator derived from the sum of 4 quarters. A decrease in title transfers drove the decline in Stamp Duty volumes.
+  Total GVA was revised downwards from 3.5% to 3.4%.
+The drivers to the upwards revision for the Income approach in current prices for 2021 22 were:
+Compensation of employees (COE), which was revised upwards 1.5ppt, from 5.8% to 7.3%.
+Gross operating surplus and gross mixed income (GOSMI), which was revised 0.1ppt, from 9.8% to 9.9%.
+  The revision was driven by source data from EAS, which was compared with personal income tax data from the Australian Taxation Office (ATO) and single touch payroll data. The increase in COE aligned with compositional change in the labour market as people took advantage of a tight labour market and moved to higher paying jobs.
+  Revisions to GOSMI were driven by the historical revisions to Financial Intermediation Services Indirectly Measured (FISIM) and the implementation of the Census rents data.
+The income approach in current price terms for 2022 23 grew 9.8%. This has been revised up slightly from the sum of four quarters estimate of 9.6%.
+  Revisions to total COE from the sum of four quarters estimate were minimal. Annual industry growth rates were revised including:A downward revision in Accommodation and food services due to a reassessment of the strength of the recovery from COVID 19 pandemic, based on the levels from the 2021 22 Supply Use benchmarks.An upward revision in Agriculture, forestry and fishing due to incorporation of annual ABARES data.A downward revision in Public administration and safety due to incorporation of public sector employment and earnings data the ATO.
+  A downward revision in Accommodation and food services due to a reassessment of the strength of the recovery from COVID 19 pandemic, based on the levels from the 2021 22 Supply Use benchmarks.
+  An upward revision in Agriculture, forestry and fishing due to incorporation of annual ABARES data.
+  A downward revision in Public administration and safety due to incorporation of public sector employment and earnings data the ATO.
+  Gross operating surplus and mixed income was revised due to updated estimates for sectors and the incorporation of annual source data which replaced estimates based on linear extrapolation. These sectoral changes impacted financial and non financial corporations, and general government. There were no major changes to industry growth rates due to the 2021 22 Supply Use industry benchmarks.
+  Taxes less subsidies on production and imports was revised down 1.4% due to revisions in subsidies from the 2021 22 Supply Use benchmark. The revision in subsidies was driven by a historical revision to the treatment of Victoria’s Capital Asset Charge which has affected levels from 1998 99 onwards. All industry allocation of other subsidies on production in 2022 23 were updated due to the 2021 22 Supply Use benchmarks.
+21/11/2023   Minor changes to figures have been made to the publication after additional checks.
+27/10/2023   Identified a rounding error in revision to Household final consumption expenditure (HFCE). This has now been corrected.
+ 

@@ -1,0 +1,15 @@
+Date:
+2024-03-22
+Article Title:
+The Daily — Census of Environment: data portal
+Article Content:
+Released: 2024 03 22
+The new Census of Environment portal is now available and provides one central and easy to access location for all of our data.
+The Census of Environment (CoE) tracks the area of ecosystems across Canada, reports on their condition and highlights the services they provide to society, including benefits to human well being. The portal includes:
+• a page about the CoE, including information on the types of ecosystems that will be covered and the scope of ecosystem accounting efforts in Canada 
+• access to all CoE tables, articles, publications and geospatial files
+• a mapping tool that displays data from the CoE
+• information about our partners, engagement, related frameworks and reference materials
+The latest data and tools from the CoE will be made available on this portal.
+The product "Census of Environment Geospatial Explorer," part of Statistics Canada   Data Visualization Products (Catalogue number71 607 X), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

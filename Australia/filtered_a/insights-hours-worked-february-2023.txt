@@ -1,0 +1,10 @@
+Date:
+2023-03-16
+Article Title:
+ Insights into hours worked, February 2023
+
+Article Content:
+Hours worked increased by 72.1 million hours (3.9 per cent) in seasonally adjusted terms between January and February 2023 (following a 2.1 per cent decrease between December 2022 and January 2023), and employment increased by 64,600 people (0.5 per cent) over the same period. 
+Chart 1 shows a rise in hours worked in February. Both the hours worked and employment series have exceeded their pre pandemic levels, with hours increasing 8.4 per cent and employment increasing 6.5 per cent since March 2020. The continuing strength in hours worked and increases in employment demonstrates the continued tightness in the labour market.
+The main reasons people have worked fewer hours has fluctuated over recent years, and the ABS has highlighted these in previous iterations of this article. This has included economic reasons, bad weather, own illness, personal reasons and other reasons, depending on the external influences at the time. All of these measures are returning to near pre pandemic levels, and this data can be found in Data Cubes EM2a and EM2b.
+Chart 2 shows the number of people working fewer hours due to annual leave, flextime or long service leave decreased between January and February, in line with the usual seasonal pattern. The proportion of employed people taking annual leave in February 2023 has returned to pre pandemic levels.

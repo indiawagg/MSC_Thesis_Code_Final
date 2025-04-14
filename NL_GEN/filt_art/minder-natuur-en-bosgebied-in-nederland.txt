@@ -1,0 +1,14 @@
+Title: Minder natuur- en bosgebied in Nederland
+Date: 2024-05-02 22:00:00 UTC
+
+Lead Text:
+
+Erratum: 31-5-2024 09:59
+                        Onlangs zijn onvolkomenheden aan het licht gekomen in de dataset die ten grondslag ligt aan de StatLinetabel met betrekking tot de omvang van ecosysteemtypen in Nederland, en het op deze cijfers gebaseerde nieuwsbericht. Hierdoor zijn de afzonderlijke peiljaren niet goed onderling vergelijkbaar, en kunnen geen conclusies worden getrokken met betrekking tot verschuivingen tussen de hoofdcategorieën natuur, agrarisch, bebouwde omgeving en water. De inconsistenties hebben vooral betrekking op stedelijke groenvoorzieningen, wegbermen en enkele specifieke vormen van agrarisch natuurbeheer. Het CBS is een onderzoek gestart om binnen afzienbare tijd een consistente tijdreeks te publiceren. Daarbij wordt, binnen de kaders van de gebruikte internationale standaarden op dit gebied, zo dicht mogelijk aangesloten bij de in de Nederlandse beleidspraktijk gebruikte classificaties.
+                    
+
+
+Article Content:
+                In de periode 2013-2022 is de oppervlakte van natuur- en bosgebieden met bijna 2,5 procent (158 vierkante kilometer) afgenomen. Dat is vergelijkbaar met 1,5 keer de oppervlakte van Den Haag. Ook de hoeveelheid agrarisch gebied nam af. Een groter deel van Nederland is nu bebouwd gebied. Dit blijkt uit de Natuurlijk kapitaalrekeningen van het CBS. 
+            
+

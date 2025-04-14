@@ -1,0 +1,21 @@
+Date:
+2021-02-15
+Article Title:
+ Changes to New capital expenditure data files
+
+Article Content:
+There will be a number of changes to Capital Expenditure data for the December quarter 2020 publication to be released on Thursday 25 February 2021. These changes were described in the September quarter 2020 publication and include:
+  publishing seasonally adjusted chain volume estimates for Education and Training (ANZSIC Division P) and Health Care and Social Assistance (ANZSIC Division Q) for the first time
+  current price original estimates of Education and Training, and Health Care and Social Assistance will no longer be published separately as experimental estimates and are now integrated with all other industries and appear in all relevant totals
+  the broad industry groups will be changed from Mining, Manufacturing and Other Selected Industries; to Mining and Non Mining
+The names of the data download spreadsheets have been changed and the contents rearranged. Series identifiers that are identical to those released in previous spreadsheets will remain directly comparable. There are new unique identifiers for series that were not previously published.
+Users may need to review their current processes used to download and read the data as these changes may impact those processes. 
+To assist users in managing this change a concordance between the old and new spreadsheet names, and blank copies of new spreadsheet templates for December quarter 2020 are included in the data downloads section of this page. 
+The new spreadsheets contain:
+The following industries that were previously published as the aggregate 'Other Selected Services':
+  Total, including Education and Health   which replaces 'Total (Industry)'
+  Non Mining, including Education and Health   which replaces 'Other Selected Industries'
+  Accommodation and Food Services (ANZSIC Division H)
+  Administrative and Support Services (ANZSIC Division N)
+  Arts and Recreation Services (ANZSIC Division R)
+  Other Services (ANZSIC Division S) 

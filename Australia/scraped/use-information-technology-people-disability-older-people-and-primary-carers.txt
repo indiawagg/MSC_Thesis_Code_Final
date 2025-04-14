@@ -1,0 +1,80 @@
+Date:
+2020-07-21
+Article Title:
+ Use of information technology by people with disability, older people and primary carers
+
+Article Content:
+In 2018:
+  1.1 million (28.5%) people with disability did not use the Internet
+  Over 250,000 people with disability lacked confidence or knowledge to use the Internet
+  1.4 million (38.4%) older Australians did not use the Internet
+  1.0 million (27.1%) older people used social networking or chat rooms.
+Most Australians use the Internet for everyday activities such as communicating with friends and family, shopping, entertainment and education. In 2016 17, the Household Use of Information Technology survey showed that:
+  around nine in ten (87%) Australians aged 15 years and over (living in households) had used the Internet in the previous 3 months
+  Internet use generally decreased with age. 
+In 2018, there were 3.8 million Australians with disability aged 15 years and over living in households. Among these:
+  around seven in ten (71.5% or 2.7 million) accessed the Internet in the previous 3 months
+  28.5% (or 1.1 million) had not accessed the Internet in the previous 3 months
+  Internet use decreased with age, similar to the general population. 
+The most common reasons for those with disability not using the Internet were:
+  had no need or interest (73.9%)
+  lack of confidence or knowledge in accessing the Internet (23.4%)
+  no access to a computer or mobile technology (14.3%). 
+Whether a person used the Internet varied depending on their type of disability. In 2018, the Internet was used by:
+In contrast, 71.2% of those with psychosocial disability used the Internet.While the type of disability a person has may affect their use of the Internet, age is also likely to be a contributing factor, particularly considering the differing age profiles across disability groups. In 2018, the median age of people with disability (living in households) varied by disability group:
+  Three in five (61.9%) people with a sensory and speech disability
+  Three in five (61.5%) people with head injury, stroke or acquired brain injury.
+  70 years for those with a sensory and speech disability
+  64 years for those with a physical restriction
+  62 years for those with a head injury, stroke or acquired brain injury
+  51 years for those with psychosocial disability
+  32 years for those with an intellectual disability. 
+Lack of interest was the most common reason for not using the Internet regardless of disability group. A lack of confidence/knowledge was also common, particularly among those with disabilities that affect cognitive ability. Among people with disability who had not used the Internet:
+  Around one third of those with an intellectual disability (35.5%) and those with a head injury/stroke/acquired brain injury (33.3%) lacked the confidence or knowledge to use the Internet
+  15.3% of those with a physical restriction did not have access to a computer or mobile technology. 
+Among the 3.7 million older Australians in 2018 (living in households):
+Internet use decreased with age. The proportion of people using the Internet in the previous 3 months by age group were:
+The most common reasons older Australians did not use the internet were:
+  61.6% (or 2.3 million) had used the Internet in the previous 3 months
+  38.4% (or 1.4 million) had not used the Internet in the previous 3 months. 
+  74.5% of those aged 65 74 years
+  48.5% of those aged 75 84 years
+  26.7% of those aged 85 years and over.
+  had no need or interest (79.0%)
+  lack of confidence or knowledge in accessing the Internet (20.7%)
+  no access to a computer or mobile technology (14.4%). 
+Primary carer   refers to a person aged 15 years and over who provides the most informal assistance to a person with disability with one or more of the core activities of mobility, self care and communication.
+There were 861,600 primary carers in 2018. Of these:
+The most common reasons primary carers didn’t use the internet were:
+  85.5% (736,600) had used the Internet in the previous 3 months
+  14.4% (123,700) had not used the Internet in the previous 3 months.
+  had no need or interest (75.3%)
+  lack of confidence or knowledge in accessing the Internet (24.2%)
+  could rely on friends or family to use the internet for them (13.7%)
+  no access to a computer or mobile technology (13.4%). 
+Many Australians aged 15 years and over with disability use technology to communicate with family and friends living outside their household (i.e. non resident family and friends). Use of technology to stay connected varied according to the type of disability a person had.
+In 2018, of the 3.8 million Australians aged 15 years and over with disability (living in households), 61.9% used SMS/text message to contact non resident family and friends in the previous 3 months.Use of SMS/text message to contact non resident family and friends was most common among those with a physical restriction (59.7%) or a psychosocial disability (56.8%). This is in contrast to:
+  half (50.2%) of those with a head injury, stroke or acquired brain injury
+  half (50.9%) of those with an intellectual disability
+  just over half (52.3%) of those with a sensory or speech disability. 
+Around two in five (42.3%) people with disability used social networking or chat rooms to contact non resident family and friends. The following disability groups were less likely to use social networking or chat rooms:
+  30.3% of those with a head injury, stroke or acquired brain injury
+  32.2% of those with a sensory or speech disability. 
+Two in five (39.8%) people with disability used email to contact non resident family and friends, though people with an intellectual disability were considerably less likely to (20.1%). Other disability groups reporting low use of email contact with family and friends included those with:
+  a head injury, stroke or acquired brain injury (27.2%)
+  psychosocial disability (28.1%). 
+Many older Australians (living in households) use technology to communicate with non resident family and friends, though use typically decreases with age.Just over half (54.2% or 2.0 million people) of older Australians used SMS/text message to contact non resident family and friends in the previous 3 months. The proportion of people using SMS/text messages decreased with age:
+Just over one quarter (27.1% or 1.0 million people) of older people used social networking or chat rooms to contact non resident family and friends. As with SMS/text message contact, the use of social networking or chat rooms decreased with age:
+Almost half (45.2% or 1.7 million people) of older Australians used email to contact non resident family and friends. While use of email declined with age, it was the most common form of online contact for those aged 85 years and over (19.2%). Among other age groups:
+  67.4% of people aged 65 74 years
+  42.0% of people aged 75 84 years
+  15.3% of people aged 85 years and over.
+  over one third (35.3%) of those aged 65 74 years
+  17.9% of those aged 75 84 years
+  8.0% of those aged 85 years and over.
+  over half (53.9%) of those aged 65 74 years used email
+  over one third (37.3%) of people aged 75 84 years used email. 
+In 2018, many of the 861,600 primary carers used technology to contact family and friends in the previous 3 months:
+  three quarters (76.3%) used SMS/text message
+  just over half (53.8%) used social networking or chat rooms
+  almost half (49.0%) used email.

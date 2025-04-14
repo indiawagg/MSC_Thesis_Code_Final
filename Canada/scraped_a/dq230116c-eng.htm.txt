@@ -1,0 +1,10 @@
+Date:
+2023-01-16
+Article Title:
+The Daily — Experimental indexes of economic activity in the provinces and territories, September 2022
+Article Content:
+Released: 2023 01 16
+The three month moving averages for economic activity increased in 7 of the 10 provinces and territories reported for September 2022, according to the principal components analysis based experimental activity index. The largest gains were in Saskatchewan, Alberta and Manitoba. The largest declines were in Prince Edward Island and the Northwest Territories.
+From July to September 2022, real gross domestic product (GDP) growth for Canada was between 0.1% and 0.3% per month, and it was more positive than growth in employment, which declined in July and August. GDP growth came from goods industries and service industries from July to September, but mining, oil and gas as well as agriculture production were notable contributors. For the activity indexes, growth accelerated in August and September compared with June and July in the Prairie provinces where agriculture and mining, oil and gas extraction are important contributors to provincial economies. 
+Over the July to September period, growth in the activity indexes tended to rise with changes from month to month being positive for most provinces and territories. For September, 7 of 10 provinces and territories had an increase in the three month moving average growth rates compared with a month earlier.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

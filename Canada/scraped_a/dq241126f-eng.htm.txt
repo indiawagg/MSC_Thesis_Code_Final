@@ -1,0 +1,18 @@
+Date:
+2024-11-26
+Article Title:
+The Daily — Aircraft movement and civil aviation statistics, September 2024
+Article Content:
+Released: 2024 11 26
+In September, aircraft movements at Canada's major and select small airports totalled 521,288, up 2.3% from September 2023. Itinerant movements increased 1.1% year over year to 364,689 in September 2024 while local movements rose 5.3% to 156,599.
+At the same time, major Canadian airlines flew 7.1 million passengers on scheduled and charter services in September, with a passenger load factor of 82.9%.
+Consult the Aviation Data Visualization Hub to explore aircraft movement statistics and monthly civil aviation statistics in an interactive format.
+In September, there were 311,095 domestic movements, relatively unchanged from the previous year for the second consecutive month. Increases in flight training activities accounted for large gains at several airports; for example, movements at Red Deer Regional Airport almost doubled year over year (+85.0%). 
+In contrast, domestic movements at Vancouver International Airport were down, due in part to the cessation of operations of two carriers during the year. In addition, air traffic at the airports in Kamloops and Penticton was lower in September 2024, with fewer fire suppression activities when compared with the historic wildfires in 2023. 
+In September 2024, transborder movements (to and from the United States) rose 8.0% from the previous year to reach 38,545. Other international traffic (outside the United States) increased 5.8% year over year to 15,049. This level of activity was higher than the comparative pre COVID 19 pandemic level (+2.3%). 
+Airports in British Columbia reported the largest number of aircraft movements (143,668) in September 2024, virtually unchanged from the level reported in September 2023, while movements in Ontario fell 4.2% to 127,546. Toronto/Lester B. Pearson remained the busiest Canadian airport with traffic edging up slightly year over year (+0.9%) to reach 32,939 movements in September 2024. 
+The seven Canadian Level I air carriers flew 7.1 million passengers on scheduled and charter services in September 2024, 5.3% more than in September 2023, when there were six Level I carriers. One Level II air carrier was reclassified to Level I in 2024.
+In September, the number of passenger kilometres was 20.0 billion, with a capacity of 24.1 billion available seat kilometres. As a result, the passenger load factor (the ratio of passenger kilometres to available seat kilometres) was 82.9%, down sharply from the 87.2% recorded in the same month one year earlier.
+Each passenger travelled an average of 2,829 kilometres in September, down 1.0% from September 2023. 
+Level I carriers flew 183,000 hours in September 2024. Their total operating revenue was $2.5 billion, declining year over year.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

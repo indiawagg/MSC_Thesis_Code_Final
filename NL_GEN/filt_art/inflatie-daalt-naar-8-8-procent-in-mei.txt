@@ -1,0 +1,35 @@
+Title: Inflatie daalt naar 8,8 procent in mei
+Date: 2022-06-09 04:30:00 UTC
+
+Lead Text:
+                Consumentengoederen en -diensten waren in mei 8,8 procent duurder dan een jaar eerder, meldt het CBS. In april was de inflatie 9,6 procent. De prijsstijging op jaarbasis van energie was in mei minder groot dan in april. Daardoor valt de inflatie lager uit. 
+            
+
+Article Content:
+
+
+Prijsstijging energie minder groot
+De daling van de inflatie kwam vooral door de prijsontwikkeling van energie (elektriciteit, gas en stadsverwarming). In mei was energie 105 procent duurder dan een jaar eerder, in april was dit 136 procent.
+Energie levert momenteel een belangrijke bijdrage aan de totale inflatie. De prijsontwikkeling van energie wordt door het CBS gemeten op basis van nieuwe contracten. Het CBS voert een onderzoek uit naar het meten van de energieprijzen in de CPI.
+
+
+Stijging benzineprijzen
+Benzine had daarentegen een opwaarts effect op de inflatie. Benzine was in mei 23,8 procent duurder dan een jaar eerder, in april was dat 20,1 procent. Aan de pomp kostte een liter benzine in mei 2,19 euro, in april was dat 2,09 euro. In april was de benzineprijs nog gedaald ten opzichte van de maand daarvoor, als gevolg van de accijnsverlaging op motorbrandstoffen.
+Voeding duurder
+Ook de prijsontwikkeling van voedingsmiddelen had een verhogend effect op de inflatie. Voedingsmiddelen waren in mei 9,1 procent duurder dan een jaar eerder, in april was dat 8,5 procent. De prijsontwikkeling van vlees droeg hieraan het meeste bij. Vlees was in mei 13,9 procent duurder dan in dezelfde maand vorig jaar, in april was dat 10,5 procent. Ook suiker en zoetwaren, oliën en vetten en kaas- en kwarkproducten werden duurder.
+
+
+Verschil inflatie Nederland en eurozone neemt af
+Het CBS publiceert sinds 1996 twee verschillende cijfers voor inflatie. Een op basis van de consumentenprijsindex (CPI) en een op basis van de geharmoniseerde index van consumentenprijzen (HICP). Consumentengoederen en -diensten in Nederland waren volgens de HICP in mei 10,2 procent duurder dan een jaar eerder, in april was dat 11,2 procent. De inflatie in de eurozone nam toe van 7,4 procent in april naar 8,1 procent in mei.
+
+
+Verschil CPI en HICP
+Om de inflatie tussen landen te kunnen vergelijken, berekenen de lidstaten van de Europese Unie (EU) een consumentenprijsindex volgens internationaal afgesproken definities en methoden. De Europese Centrale Bank gebruikt de HICP voor het monetaire beleid in de eurozone. Daarnaast maken de meeste landen nog een eigen, nationale prijsindex.
+
+Het belangrijkste verschil tussen de CPI en de HICP voor Nederland is dat de HICP in tegenstelling tot de CPI geen rekening houdt met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. Dit is echter niet het enige verschil. In een publicatie worden deze verschillen verder toegelicht.
+Implicaties coronacrisis op de berekening van de inflatie
+Door de overheidsmaatregelen in verband met de coronacrisis zijn sommige diensten na maart 2020 tijdelijk niet of beperkt beschikbaar geweest. Hierdoor zijn voor een deel van deze diensten geen transacties geweest waarvan de prijzen gemeten konden worden. In aansluiting op de richtlijnen van Eurostat heeft het CBS per situatie gekozen voor de meest passende schattingsmethode. In een notitie worden alle keuzes toegelicht en in een maatwerktabel wordt aangegeven per artikelgroep of er een schatting is gemaakt. In mei 2022 werden er geen prijzen meer geschat in verband met corona, maar schattingen in dezelfde maand een jaar eerder werken nog wel door in de inflatie van deze maand.
+Dashboard consumentenprijzen
+Het dashboard consumentenprijzen toont de inflatie volgens de consumentenprijsindex (CPI) en voor een aantal groepen consumentengoederen en -diensten. Meer prijsindicatoren zijn te vinden in het prijzendashboard. De persoonlijke inflatiecalculator geeft inzicht in de ontwikkeling van de consumentenprijzen voor een individueel consumptieprofiel.
+
+

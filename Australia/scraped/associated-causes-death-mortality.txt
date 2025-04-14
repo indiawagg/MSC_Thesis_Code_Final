@@ -1,0 +1,34 @@
+Date:
+2020-10-23
+Article Title:
+ Associated causes of death in mortality
+
+Article Content:
+  Associated causes of death were identified for 90.0% of suicides.
+  Mood disorders (including depression) were identified for 40.6% of suicides.
+  Problems with spousal relationship circumstances were the most common psychosocial risk factor, identified among 25.9% of suicides.
+The national mortality dataset provides important information on underlying causes of death in Australia. It also provides in depth details on associated causes of death. The term 'associated causes' is used when referring to conditions other than the underlying cause of death when using the International Classification of Diseases (ICD). Associated causes can include diseases that are part of the chain of events leading to death, risk factors and co morbid conditions. 
+For deaths that are referred to the coroner, the ABS codes causes of death from information contained on the National Coronial Information System (NCIS), including police, autopsy, toxicology and coroners reports. These reports provide a breadth of information relating to these deaths, much of which is highly important from a public health perspective. The coding of underlying and associated causes for coroner referred deaths aims to capture all relevant details from these reports that sit within the framework of International Classification of Diseases (ICD).  In 2017, the ABS undertook a pilot study to extend the range of information captured using the ICD. The main focus of this study was to incorporate codes relating to psychosocial risk factors in the coding of coroner referred deaths. This work has since been extended through a collaboration between the ABS, the Australian Institute of Health and Welfare and the Department of Health as part of the Suicide and Self Harm Monitoring Project. Data is now available for both 2018 and 2019. Engagement on the concepts underpinning this work is ongoing, resulting in small refinements to processes over time.
+This report focusses on associated causes for coroner referred deaths, particularly those due to suicide and accidental drug overdose. When examining these data, it is important to note that not one factor causes a person to die by suicide or other external cause of death. Risk factors should therefore not be considered in isolation. Instead they provide an insight into the complex interaction between biological, psychological and psychosocial factors which have contributed to these deaths. Demographic information such as age, sex and socioeconomic factors also provide additional context which can help guide public health responses to diseases and injuries.
+It is important to note that the capture of information on associated causes of death (including psychosocial risk factors) is reliant on the documentation available for any given death. This in turn can be affected by the length of the coronial process for some types of death, the type of information available across different jurisdictions and administrative processes affecting report availability. As such, the information presented in this report reflects information contained within reports available on NCIS at the time of coding and does not necessarily reflect all causes associated with all deaths that have occurred.
+Further data on associated causes of death can be found in the suicide datacube in downloads section of this publication. 
+Deaths from external causes are grouped by intent, which includes accidents, assaults and suicides. Intent may also determine how a death is investigated and can therefore influence the type of information that can be captured and coded. High proportions of accidental drug overdoses and suicides have one or more associated causes. A much lower proportion of transport accidents have associated causes, as many risk factors for these deaths are environmental rather than health related and are therefore outside of the scope of ICD coding.  
+The table below outlines the number of deaths by intent for coroner certified deaths in 2019 with at least one contributing associated cause identified.
+Associated causes of death relating to suicide can be grouped into mental health conditions, chronic diseases and psychosocial risk factors. Each provide important insights that can help guide prevention and intervention activities. 
+  Mood disorders, including depression, were the most common co morbidity, mentioned in 38.7% of male suicides and 46.3% of female suicides.
+  Substance use disorders (including intoxication) were reported in 30.6% of male suicides. Alcohol and other substances in blood were recorded in 22.3%.
+  Problems in spousal relationship circumstances was the most commonly mentioned psychosocial risk factor in deaths due to suicide.
+  Previous self harm was reported in almost one third (30.5%) of female suicides.
+The profile of associated causes in suicide varies when examined by age group. 
+  Problems related to substance use, such as harmful use and addiction, are more common among deaths due to suicide in younger cohorts.
+  Suicides in people aged 85 and over were most commonly associated with Limitation of activities due to illness and disability (Z736). 
+  Associated causes relating to chronic health conditions such as musculoskeletal disorders, cancer and heart disease, typically increase with increasing age.
+  Associated causes relating to economic and employment circumstances are most common among people aged 25 64.
+This section provides information on associated causes for suicide deaths for 2017, 2018 and 2019. These are the three reference periods for which expanded coding of associated causes has been undertaken. Over these three years, there have been small changes to the capture of information for specific codes, mostly those relating to psychosocial risk factors. As such, caution should be exercised when comparing changes between years. 
+  Mood disorders were the most common associated cause for suicide deaths across each of the three years (2017 19).
+  Likewise, substance use disorders were the second most common associated cause in each year.
+  Problems with spousal relationship circumstances (Z630, Z635) were the most common psychosocial risk factor identified each year and the third most common associated cause 
+Associated causes of death also provide critical insights into deaths due to accidental drug poisonings.
+  Mental and behavioural disorders due to psychoactive substance use were recorded in over two thirds of male deaths and over half of female deaths.
+  Ischaemic heart diseases and chronic lower respiratory diseases were recorded as associated causes for over 10% of drug overdose deaths. This indicates that these conditions were exacerbated by drug toxicity.
+  Problems related to legal circumstances (including recent release from prison) was recorded for 7.1% of accidental drug overdoses.

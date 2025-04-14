@@ -1,0 +1,32 @@
+Title: Bedrijven nemen steeds meer cybersecuritymaatregelen
+Date: 2019-09-10 22:00:00 UTC
+
+Lead Text:
+                Bedrijven nemen steeds meer maatregelen om zich te weren tegen cyberaanvallen van buitenaf. Vooral middelgrote bedrijven maken een inhaalslag met de invoering van authenticatie via soft- of hardwaretokens. Daarnaast daalt het aantal ICT-veiligheidsincidenten door een aanval van buitenaf. Dit meldt het CBS op basis van de Cybersecuritymonitor 2019.
+            
+
+Article Content:
+In 2018 lag het percentage bedrijven dat aangaf meer dan zes  te nemen 5 procentpunt hoger dan een jaar eerder. Grotere bedrijven geven vaker aan meer cybersecuritymaatregelen te nemen dan kleinere bedrijven. Zij hebben vaak een grotere en complexere ICT-infrastructuur, meer ICT-experts in dienst en zijn vaak interessanter voor cybercriminelen om aan te vallen. Zo gaf in 2018 ruim 90 procent van de bedrijven met 500 en meer werknemers aan meer dan zes cybersecuritymaatregelen te hebben genomen. Voor bedrijven met twee werknemers was dat 17 procent.
+De grootste toename was te zien bij bedrijven met tien tot twintig werkzame personen. Bijna 40 procent gaf in 2018 aan meer dan zes cybersecuritymaatregelen te gebruiken. Een jaar eerder was dat nog 31 procent.
+
+
+
+Antivirussoftware meest gebruikt
+Antivirussoftware, een beleid voor sterke wachtwoorden en het opslaan van gegevens op een andere fysieke locatie zijn de meest gebruikte securitymaatregelen. Van de bedrijven met 500 of meer werkzame personen maakte 99 procent in 2018 gebruik van antivirussoftware, 95 procent had een sterk wachtwoordenbeleid en hetzelfde percentage sloeg gegevens ergens anders op. Bij bedrijven met twee werkzame personen was dit respectievelijk 82, 56 en 57 procent.
+Encryptie voor het opslaan van data werd het minst toegepast door bedrijven. Van de grote bedrijven maakte 69 procent hier gebruik van tegen 19 procent van de bedrijven met twee werkzame personen.
+
+
+Middelgrote bedrijven maken inhaalslag
+Middelgrote bedrijven maakten een inhaalslag ten opzichte van grote bedrijven in het gebruik van meer geavanceerde cybersecuritymaatregelen. Vooral het gebruik van authenticatie via een soft- of hardwaretoken en beleid voor sterke wachtwoorden nam in 2018 toe bij bedrijven van twintig tot vijftig werkzame personen (met 9 en 6 procentpunt). Grote bedrijven gingen vooral meer gebruik maken van encryptie voor opslag en voor het versturen van data.
+
+
+Afname aantal cybersecurityincidenten
+De meeste ICT-veiligheidsincidenten hebben een interne oorzaak, bijvoorbeeld een storing of onbedoeld handelen van eigen personeel. Grote bedrijven hebben vaker met  te maken dan kleine bedrijven. In 2017 respectievelijk 66 procent en 18 procent. Een jaar eerder was dat 73 procent en 21 procent.
+
+In grotere bedrijven werken vaak meer mensen met een computer en is er vaak een complexere ICT-infrastructuur. Dat vergroot de kans op incidenten. Ook werken er gemiddeld meer ICT-specialisten waardoor cybersecurityincidenten eerder opgemerkt worden.
+In 2017 had 30 procent van de bedrijven met 500 of meer werkzame personen te maken met een aanval van buitenaf. In 2016 was dat nog ruim 40 procent. Bijna de helft van deze aanvallen leidde tot kosten voor het bedrijf.
+
+
+
+
+

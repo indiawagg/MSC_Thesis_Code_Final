@@ -1,0 +1,43 @@
+Title: Inflatie stijgt naar 14,5 procent in september
+Date: 2022-10-06 04:30:00 UTC
+
+Lead Text:
+                Consumentengoederen en -diensten waren in september 14,5 procent duurder dan in dezelfde maand een jaar eerder, meldt het CBS. In augustus was de inflatie 12,0 procent. De stijging van de inflatie kwam vooral door de prijsontwikkeling van energie. 
+            
+
+Article Content:
+Het CBS berekent ook maandelijks de gemiddelde prijsontwikkeling als energie- en brandstofprijzen buiten beschouwing worden gelaten. De inflatie exclusief energie en motorbrandstoffen is toegenomen van 6,0 procent in augustus naar 6,5 procent in september.
+De inflatie wordt elke maand gemeten als de stijging van de consumentenprijsindex (CPI) ten opzichte van dezelfde maand in het voorgaande jaar. De consumentenprijsindex geeft het prijsverloop weer van een pakket goederen en diensten zoals dit gemiddeld wordt aangeschaft door de Nederlandse huishoudens. Een inflatie van 14,5 procent in september 2022 betekent dat de prijzen van consumentenproducten 14,5 procent hoger zijn dan in september 2021. De inflatie van 14,5 procent in september komt dus niet bovenop de inflatie van 12,0 procent in augustus.
+
+
+Energie duurder
+De prijzen van energie (elektriciteit, gas en stadsverwarming) zijn in september verder toegenomen. Dit heeft een verhogend effect op de inflatie. Energie was in september 200 procent duurder dan in dezelfde maand vorig jaar. In augustus was de stijging op jaarbasis 151 procent.
+
+
+Onderzoek naar energieprijzen vordert
+Energie levert momenteel een belangrijke bijdrage aan de totale inflatie. De prijsontwikkeling van energie wordt door het CBS gemeten op basis van nieuwe contracten. Er zijn echter ook huishoudens die een vast contract voor gas en elektriciteit hebben. Het CBS onderzoekt een nieuwe methode voor het meten en berekenen van de energieprijzen in de CPI, hierin worden actuele ontwikkelingen van energieprijzen verfijnder in kaart gebracht. Halverwege september is het CBS met  naar buiten gekomen. Het CBS maakt in het onderzoek gebruik van databestanden die aangeleverd zijn door de energiemaatschappijen. Van de huishoudens in deze databestanden had in augustus een derde nog een vast contract.
+Inmiddels zijn de eerste, voorlopige berekeningen uitgevoerd. Hieruit blijkt dat het inflatiecijfer met een nieuwe methode de afgelopen maanden significant lager zou zijn uitgevallen dan wat het CBS nu heeft gepubliceerd. Het CBS gebruikt de komende tijd voor verdere validatie en controle van de uitkomsten van deze berekeningen. Op maandag 31 oktober publiceert het CBS voorlopige onderzoeksresultaten.
+Inflatie ook hoger door onderwijs en kleding
+Ook de prijsontwikkelingen van onderwijs en kleding hadden een verhogend effect op de inflatie. Bij een opleiding in het studiejaar 2021-2022 aan vavo, mbo, hbo of universiteit kregen studenten 50 procent korting op het lesgeld, cursusgeld of collegegeld. Dit was een maatregel van de overheid in verband met de coronacrisis. In het studiejaar 2022-2023 is deze korting er niet meer. Hierdoor werd het volgen van onderwijs duurder. De prijzen van kleding waren in september 8,0 procent hoger dan een jaar eerder. In augustus was dat 3,3 procent.
+Lagere prijsstijging benzine en verblijf in bungalowpark
+De prijsontwikkeling van benzine had daarentegen een neerwaarts effect op de inflatie. Benzine was in september 6,7 procent duurder dan in dezelfde maand een jaar eerder, in augustus was dat 12,9 procent. Ook de prijsontwikkeling van een verblijf in een bungalowpark had een drukkend effect op de inflatie. De prijsstijging op jaarbasis nam af van 5,7 procent in augustus naar 1,0 procent in september.
+
+
+Ook inflatie zonder energie neemt toe
+Het CBS publiceert naast het algemene inflatiecijfer maandelijks ook wat de gemiddelde prijsstijging is als de ontwikkeling van de energie- en brandstofprijzen buiten beschouwing wordt gelaten. Bij de berekening van dit cijfer worden de prijsontwikkelingen van gas, elektriciteit, stadsverwarming en de motorbrandstoffen niet meegenomen. Ook de inflatie zonder energie- en brandstofprijzen neemt toe. In september waren consumentengoederen en –diensten exclusief energie en motorbrandstoffen 6,5 procent duurder dan in dezelfde maand vorig jaar. In augustus was de prijsstijging op jaarbasis 6,0 procent.
+
+
+Inflatie eurozone 10 procent
+Het CBS publiceert sinds 1996 twee verschillende cijfers voor inflatie. Een op basis van de consumentenprijsindex (CPI) en een op basis van de geharmoniseerde index van consumentenprijzen (HICP). Consumentengoederen en -diensten in Nederland waren volgens de HICP in september 17,1 procent duurder dan in dezelfde maand een jaar eerder, in augustus was dat 13,7 procent. Bij de eerste raming van de HICP op 30 september werd ook een prijsstijging van 17,1 procent gemeten. De inflatie in de eurozone nam toe van 9,1 procent in augustus naar 10,0 procent in september.
+
+
+Verschil CPI en HICP
+Om de inflatie tussen landen te kunnen vergelijken, berekenen de lidstaten van de Europese Unie (EU) een consumentenprijsindex volgens internationaal afgesproken definities en methoden. De Europese Centrale Bank gebruikt de HICP voor het monetaire beleid in de eurozone. Daarnaast maken de meeste landen nog een eigen, nationale prijsindex.
+
+Het belangrijkste verschil tussen de CPI en de HICP voor Nederland is dat de HICP in tegenstelling tot de CPI geen rekening houdt met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. Dit is echter niet het enige verschil. In een publicatie worden deze verschillen verder toegelicht.
+Implicaties coronacrisis op de berekening van de inflatie
+Door de overheidsmaatregelen in verband met de coronacrisis zijn sommige diensten na maart 2020 tijdelijk niet of beperkt beschikbaar geweest. Hierdoor zijn voor een deel van deze diensten geen transacties geweest waarvan de prijzen gemeten konden worden. In aansluiting op de richtlijnen van Eurostat heeft het CBS per situatie gekozen voor de meest passende schattingsmethode. In een notitie worden alle keuzes toegelicht en in een maatwerktabel wordt aangegeven per artikelgroep of er een schatting is gemaakt. In september 2022 werden er geen prijzen meer geschat in verband met corona, maar schattingen in dezelfde maand een jaar eerder werken nog wel door in de inflatie van deze maand.
+Dashboard consumentenprijzen
+Het dashboard consumentenprijzen toont de inflatie volgens de consumentenprijsindex (CPI) en voor een aantal groepen consumentengoederen en -diensten. Meer prijsindicatoren zijn te vinden in het prijzendashboard. De persoonlijke inflatiecalculator geeft inzicht in de ontwikkeling van de consumentenprijzen voor een individueel consumptieprofiel.
+
+

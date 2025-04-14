@@ -1,0 +1,27 @@
+Title: Kleine bedrijven innoveren minder vaak dan grote
+Date: 2022-12-07 23:00:00 UTC
+
+Lead Text:
+                Kleine bedrijven doen minder vaak aan innovatie dan grotere bedrijven. Naarmate de bedrijfsgrootte toeneemt, neemt ook het aandeel innovatieve bedrijven toe. Dit meldt het CBS in de Internationaliseringsmonitor op basis van voorlopige resultaten uit nieuw onderzoek.
+            
+
+Article Content:
+In het onderzoek is met een nieuwe methode meer inzicht verkregen in innovatie bij kleinere bedrijven. Daarnaast is ook gekeken naar de samenhang met internationale handel en productiviteit.
+ zijn bedrijven die hun producten of processen sterk verbeteren of een nieuwe technologie introduceren. Innovatie is een belangrijke motor achter productiviteit. Van het uitvinden van de stoommachine tot de computer en de mobiele telefoon, de grootste economische groei wordt gedreven door grote innovaties. Maar ook kleinere innovaties, bijvoorbeeld een product stapsgewijs verbeteren of langzaamaan een productieproces automatiseren, dragen bij aan economische groei.
+
+
+
+Bedrijven die exporteren vaker innovatief
+Het aandeel innovatieve bedrijven was voor alle bedrijfsgroottes in 2018 groter bij bedrijven die internationaal handelen, dan bij bedrijven die niet exporteren. Van de bedrijven die zowel diensten als goederen exporteerden deed bijna 50 procent aan innovatie, van bedrijven die niet exporteerden was dit 40 procent. Het aandeel innovatie bij de microbedrijven lag telkens lager dan bij de grootbedrijven.
+
+
+Productiviteit en innovatie
+Bij bedrijven met een hogere  zijn doorgaans ook wat meer bedrijven met innovatieve activiteiten. Deze trend geldt voor bedrijven tot 50 werkzame personen. Bij bedrijven met meer dan 50 werkzame personen is het aandeel innovatieve bedrijven bij de meest productieve categorie vergelijkbaar met dat bij de gemiddeld productieve bedrijven.
+
+
+Innovatie-indicatoren op basis van websites
+De informatie over innovatie-indicatoren van microbedrijven is nieuw. Tot nu toe werden innovatieve indicatoren bij 10 duizend bedrijven met de  (CIS-enquête) achterhaald. Microbedrijven worden hierin niet meegenomen. Dankzij nieuwe technieken als webscraping en supervised machine learning konden in totaal ruim 100 duizend bedrijven worden onderzocht. Dit webscrapingproces is in 2018 uitgevoerd en nu zijn deze gegevens voor het eerst in een nieuw onderzoek gebruikt, vandaar dat de verslagperiode niet recenter is dan 2018. Meer over dit onderzoek is te lezen in de Internationaliseringsmonitor.
+Internationaliseringsmonitor over productiviteit
+Productiviteit is een van de belangrijkste factoren voor economisch succes en welvaart. Hoe productiever bedrijven zijn, hoe meer waarde ze kunnen toevoegen aan de economie van een land. In de Internationaliseringsmonitor wordt productiviteit niet alleen beschouwd voor heel Nederland, maar wordt ook gekeken naar groepen bedrijven. Daarnaast wordt de relatie tussen productiviteit, globalisering en innovatie verder onderzocht. 
+
+

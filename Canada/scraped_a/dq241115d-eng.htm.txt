@@ -1,0 +1,10 @@
+Date:
+2024-11-15
+Article Title:
+The Daily — Traffic Flow Dashboard
+Article Content:
+Released: 2024 11 15
+Statistics Canada has launched the Traffic Flow Dashboard as a source of experimental statistics to provide information on the traffic flow on selected road segments in the cities of Calgary and Toronto.
+This dashboard shows traffic count data that are obtained from traffic camera imagery using a computer vision based system developed at Statistics Canada's Data Exploration and Integration Lab. 
+The Traffic Flow Dashboard, part of the series Statistics Canada   Data Visualization Products (Catalogue number71 607 X), has been updated.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

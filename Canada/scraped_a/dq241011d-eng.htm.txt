@@ -1,0 +1,10 @@
+Date:
+2024-10-11
+Article Title:
+The Daily — Detailed data on confirmed cases of COVID-19, January 15, 2020, to July 27, 2024 (revised data)
+Article Content:
+Released: 2024 10 11
+An updated set of data on the number of confirmed novel coronavirus (COVID 19) cases reported by provincial and territorial public health authorities to the Public Health Agency of Canada (PHAC) is now available. Along with this dataset are two aggregated tables that summarize the information available in the dataset. The updated information covers the period from January 15, 2020, to July 27, 2024. 
+The dataset and tables include information for 4,532,906 COVID 19 cases in Canada as of July 27, 2024. The data include detailed information received by PHAC from the provincial and territorial public health authorities, such as the clinical course and outcome, like hospitalization, intensive care admission and death. Data are also available by demographic characteristics, such as age group and sex.
+The "Dataset on confirmed cases of COVID 19, Public Health Agency of Canada" (Catalogue number13260003) provides detailed information on clinical course and outcome, such as hospitalization, intensive care admission and death. Data are also available by demographic characteristics, such as age group and sex.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

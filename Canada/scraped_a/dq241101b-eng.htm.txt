@@ -1,0 +1,12 @@
+Date:
+2024-11-01
+Article Title:
+The Daily — Municipal wastewater systems in Canada, 2021-2022
+Article Content:
+Released: 2024 11 01
+Canadian municipalities reported a 5.9% increase of wastewater volumes in 2022 to 5 661 million cubic metres, following a 7.7% decrease in 2021. 
+In 2022, just over 32 million people were served by municipal wastewater systems that have daily flows that process 100 cubic metres or more. Primary treatment systems (removing a portion of suspended solids and organic matter by physical and/or chemical processes) served 5 million people; secondary treatment systems (removing organic matter and suspended solids using biological treatment processes and secondary settlement) processed wastewater for 15.8 million people; and tertiary treatment systems (removing specific solids, nutrients and/or contaminants after secondary treatment using physical, chemical or biological processes) served 10.9 million people. Just over 321,000 people discharged their wastewater into systems that provide no treatment.
+The remaining 5.2 million Canadians either had their own on site wastewater system or were served by other systems with flows of less than 100 cubic metres per day, or by other facilities outside the scope of this statistical activity.
+In 2022, nearly 5 600 million cubic metres of wastewater received treatment prior to being discharged, while systems that provided no treatment discharged 82 million cubic metres of wastewater back into the environment.
+The total volume of untreated wastewater from systems that provided no treatment and combined sewer overflow that was discharged amounted to 223 million cubic metres in 2022. This is equivalent to 3.8% of all wastewater collected and discharged by municipal wastewater systems in Canada.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

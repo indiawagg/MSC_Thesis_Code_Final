@@ -1,0 +1,15 @@
+Date:
+2024-03-15
+Article Title:
+The Daily — Tracking Canada's evolving supply chain links and their effects: Knowns and unknowns
+Article Content:
+Released: 2024 03 15
+In recent decades, supply chains have been extended across international borders and over greater distances. Before the COVID 19 pandemic, globalization and participation in global supply chains were often associated with economic benefits. However, the pandemic and its aftermath have highlighted the risks associated with global supply chains, such as acute shortages of essential goods, disruptions to domestic production of goods, and higher inflation.
+A new presentation released today, titled "Research to Insights: Tracking Canada's Evolving Supply Chain Links and their Effects," provides an overview of Canada's integration into global supply chains, the steps Statistics Canada is taking to fill knowledge gaps, and some of the questions that remain. 
+Participation in global supply chains has been associated with higher productivity and wages. Manufacturing firms that participate in global value chains have, on average, 10% higher labour productivity (output per worker) and 6% higher wages than those that do not. 
+However, participation in global supply chains is also associated with risks. Canadian industries accounting for 25% of the country's economic output are exposed to potential external demand and supply shocks. Rising import prices accounted for about half of consumer inflation at its peak in the last three quarters of 2022. 
+While Canadian firms' reliance on global supply chains is increasing, so too are the risks of global trade. From 2002 to 2022, Canada's imports shifted away from the United States, whose import share declined from 62% to 49%. China's import share rose from 5% to 14% over the same period. 
+The share of input requirements sourced from abroad rose from 19% in 2007 to 23% in 2019. Furthermore, a rising share of manufacturers and wholesalers with 5 to fewer than 100 employees imported inputs used in the production of goods. These smaller firms, which have less capacity to absorb import supply chain shocks, had on average fewer than two suppliers for each imported intermediate product. 
+Statistics Canada and its federal partners are devoting efforts to improve supply chain measurement. These range from improvements to the measurement of both domestic trade flows and the Canada US supply chain and its integration with major trading partners. 
+The product "Research to Insights: Tracking Canada's Evolving Supply Chain Links and their Effects" is now available as part of A Presentation Series from Statistics Canada About the Economy, Environment and Society (Catalogue number11 631 X).
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

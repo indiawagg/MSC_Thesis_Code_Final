@@ -1,0 +1,40 @@
+Title: Macro-economische statistieken voor verslagjaar 2021 gereviseerd
+Date: 2024-05-22 22:00:00 UTC
+
+Lead Text:
+                Vandaag publiceren het CBS en De Nederlandsche Bank (DNB) de eerste resultaten van de revisie van de Nederlandse macro-economische statistieken. Het gaat hierbij om de betalingsbalans en internationale investeringspositie, de overheidsfinanciën en de nationale rekeningen. De eerste uitkomsten betreffen het verslagjaar 2021, waarop de revisie is uitgevoerd. Eind juni worden vervolgens naar verwachting de gereviseerde CBS-cijfers gepubliceerd voor de hele tijdreeks van 1995 tot en met het eerste kwartaal 2024. 
+            
+
+Article Content:
+Periodiek worden de macro-economische statistieken gereviseerd. Daarbij worden nieuwe bronnen, methoden en concepten doorgevoerd, zodat het beeld van de Nederlandse economie weer optimaal aansluit bij alle onderliggende statistieken, bronnen en internationale richtlijnen voor het samenstellen van macro-economische statistieken. De Europese Commissie heeft de aanbeveling aan lidstaten gedaan om minimaal elke vijf jaar te reviseren. Met deze revisie geeft Nederland hieraan invulling.
+In Nederland werken het CBS en De Nederlandsche Bank (DNB) nauw samen bij het opstellen van de macro-economische statistieken zoals de nationale rekeningen, de betalingsbalans en statistieken over de overheidsfinanciën. De kerncijfers van de nationale rekeningen en de door DNB opgestelde betalingsbalans en internationale investeringspositie sluiten hierdoor sinds 2018 volledig op elkaar aan. Ook de revisie van deze stelsels hebben het CBS en DNB gezamenlijk uitgevoerd. DNB gaat in een eigen publicatie in op de resultaten van . 
+
+De uitkomsten voor veelgebruikte macro-economische variabelen
+Door de revisie zijn er nieuwe ramingen voor 2021 van de macro-economische indicatoren. In een uitgebreide revisiepublicatie worden de grootste bijstellingen toegelicht, inclusief een  met een overzicht van de bijstellingen voor verslagjaar 2021. De publicatie gaat ook in op de vraag waarom macro-economische statistieken regulier (moeten) worden gereviseerd. 
+Hieronder volgt een kort overzicht van een aantal van de meest gebruikte indicatoren, gevolgd door de achtergronden bij deze bijstellingen:
+
+Het bruto binnenlands product (bbp) is opwaarts bijgesteld met 21 miljard euro tot een totaal van 892 miljard euro, een verhoging met 2,4 procent. 
+Het bruto nationaal inkomen (bni) is met 17,9 miljard euro opwaarts bijgesteld, een verhoging van 2,0 procent. 
+Het beschikbaar inkomen van huishoudens is met 1,3 miljard euro opwaarts bijgesteld. De consumptieve bestedingen van huishoudens zijn met 19,5 miljard euro verhoogd. Als gevolg hiervan is de spaarquote van huishoudens met 4,2 procentpunt omlaag bijgesteld naar 19,1 procent;
+Het vorderingensaldo van de overheid blijft vrijwel ongewijzigd op -20 miljard euro (-2,2 procent van het bbp). Ook de schuld van de overheid volgens de EMU-definitie is amper bijgesteld en bedraagt 450 miljard euro. Door de opwaartse bijstelling van het bbp komt de overheidsschuld, uitgedrukt als percentage van het bbp, nu uit op 50,4 procent. Voor revisie was de schuld 51,7 procent van het bbp;
+Het extern vermogen is met 181 miljard euro neerwaarts bijgesteld naar 632 miljard euro. 
+
+Achtergronden en belangrijkste aanpassingen bij deze revisie
+Veel van de bijstellingen bij deze revisie zijn het gevolg van vier overkoepelende thema’s:
+
+Aanbevelingen of actiepunten bij verificatie van de cijfers door Eurostat en de Europese Centrale Bank (ECB). Vanwege het belang van de macro-economische statistieken worden uitgebreide controles uitgevoerd op de cijfers. Hieruit kunnen aanbevelingen of actiepunten volgen.
+Nieuwe bronnen. De afgelopen jaren is er een aantal nieuwe bronnen beschikbaar gekomen bij het CBS en bij De Nederlandsche Bank (DNB). Het betreft veelal delen van de economie waar nog geen directe bron voor beschikbaar was en waar voorheen modelmatige schattingen gebruikt werden.
+Aansluiting op bestaande bronnen. Ook als voor deze revisie geen nieuwe bronnen worden ingezet, kan het opnieuw aansluiten op bestaande bronnen tot bijstellingen leiden. Dit heeft vaak direct of indirect te maken met de eis dat in de nationale rekeningen opeenvolgende ramingen vergelijkbaar zijn. Hierdoor kunnen ontwikkelingen uit de bronnen wel worden meegenomen, maar ontstaan er na verloop van tijd soms niveauverschillen met de bron.
+Herclassificaties van bedrijven en instellingen. Er is de afgelopen jaren veel aandacht geweest voor het verbeteren van de classificatie van bedrijven en instellingen naar economische activiteit (zoals de industrie, bouw en de zakelijke dienstverlening) en sector (zoals niet-financiële vennootschappen, financiële bedrijven en de overheid). Dit heeft geleid tot soms (grote) verschuivingen tussen economische activiteiten en/of sectoren. De impact hiervan op de macro-economische kerncijfers zoals bbp en bni is meestal van beperkte omvang.
+
+Nieuwe raming van de invloed van illegale activiteiten op de Nederlandse economie
+In de macro-economische statistieken dienen conform de Europese richtlijnen alle economische activiteiten te worden beschreven, dus ook de illegale economische activiteiten. Hiertoe worden drie illegale activiteiten geschat: de illegale productie en verkoop van drugs, prostitutie en de illegale handel in tabak. Deze activiteiten droegen in 2021 volgens een nieuwe raming in het kader van de revisie van de nationale rekeningen 4,5 miljard euro bij aan de Nederlandse economie (het bbp). Daarmee is het aandeel in de totale economie 0,5 procent. 
+Meer informatie over de raming van de illegale economie is  te vinden.
+Hoe verder, wanneer wordt wat gepubliceerd?
+Op 24 juni 2024 zullen, conform de reguliere publicatieplanning, gereviseerde jaarcijfers voor 1995 tot en met 2023 worden gepubliceerd op StatLine, de CBS-databank op internet, inclusief de gereviseerde kwartaalcijfers tot en met het eerste kwartaal van 2024. 
+De volgende revisie van de nationale rekeningen wordt conform het afgesproken Europese beleid naar verwachting gepubliceerd in 2029 en gaat over verslagjaar 2026. Bij deze revisie wordt ook aangesloten bij nieuwe internationale richtlijnen voor het samenstellen van macro-economische statistieken. Deze richtlijnen worden momenteel door internationale organisaties als de Verenigde Naties (VN), het Internationaal Monetair Fonds (IMF), de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) en Eurostat ontwikkeld. 
+Meer informatie over de revisie?
+Meer achtergronden en cijfers van de revisie zijn te vinden in de vandaag verschenen . 
+Voor vragen naar aanleiding van deze publicatie kunt u contact opnemen met de .
+
+

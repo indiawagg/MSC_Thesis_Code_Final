@@ -1,0 +1,25 @@
+Date:
+2020-09-02
+Article Title:
+ Insights into household consumption
+
+Article Content:
+Household consumption decreased 12.1% in the June quarter and 2.6% in the 2019 20 financial year. This is the largest quarterly fall in household consumption, and the first annual fall, recorded in the National Accounts.
+A 17.6% fall in household spending on services drove the fall, while consumption of goods declined 2.8%.
+COVID 19 restrictions on households and businesses were in place throughout the quarter. These restrictions included international and domestic border closures, trading restrictions on businesses, limits on public gatherings, and other government policies in specific areas. In response to the pandemic and to the restrictions, individuals increased their work and leisure from home, and took a range of health precautions. These changes were manifest in large changes to household consumption across both services and goods categories. Experimental ABS analysis using aggregated de identified data from major banks in Australia, provided additional detail to quality assure the data.
+ 
+These outcomes are consistent with the findings from the  (cat. no. 4940.0).
+The decline in household spending on services was also evident in large quarterly falls in industry gross value added. Significant falls were recorded for Air and Space Transport ( 96.4%), Accommodation and Food Services ( 39.0%) and Arts and Recreation Services ( 22.6%).
+Government policies around the delivery of healthcare and social assistance services also impacted household consumption this quarter.
+  Spending on transport services fell 88.2%. Restrictions on day to day mobility and holiday travel led to falls across all modes of passenger transport, most notably in air transport.
+  Movement restrictions combined with business trading regulations resulted in large falls in accommodation services (77.5%) and catering services (55.7%).
+  Limits on public gatherings impacted services such as sporting events, performing arts, gambling activity and cinema admissions. Spending on recreational and cultural services declined 54.5%.
+  The "Early Childhood Education and Care Relief Package”, which resulted in fee free child care for households, drove a 40.8% fall in Other Services through the year. This policy led to a notable reduction in out of pocket expenditure by households, as government are purchasing more child care services on behalf of households.
+  Governments in many jurisdictions temporarily halted elective surgeries to ensure public health capacity. This coupled with households limiting physical contact led to the deferral and reduced demand for health services. Household expenditure in health services decreased 25.6% through the year. 
+ 
+ABS analysis of supermarket scanner data shows that stockpiling eased during the quarter. This was evident across a range of products but particularly for expenditure on non food items.
+  Home improvement projects, gardening activity and home offices drove the large increases in spending on household tools (29.8%) and appliances (21.1%).
+  Increased leisure time at home resulted in a 20.9% higher spend on goods for recreation and culture such as audio visual and exercise equipment.
+  Increased working and schooling from home arrangements saw the expenditure on electricity, gas and other fuels rise 6.6%.
+  The trading restrictions placed on services provided by pubs, bars and clubs over the quarter led to a 17.6% increase in consumption of alcoholic beverages off licensed premises.
+  Household stockpiling of food subsided in the June quarter. Spending on food increased 3.1% through the year, as trading regulations on hospitality services led to increased meal preparation at home.

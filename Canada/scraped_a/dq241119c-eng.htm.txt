@@ -1,0 +1,16 @@
+Date:
+2024-11-19
+Article Title:
+The Daily — Monthly credit aggregates, September 2024
+Article Content:
+Released: 2024 11 19
+In September, the total credit liabilities of households rose 0.4% (+$10.5 billion) to reach $2,993.1 billion, following a 0.3% increase in August. Real estate secured debt, composed of both mortgage debt and home equity lines of credit, grew 0.4% (+$8.6 billion) in September. Household mortgage debt increased 0.4% (+$8.0 billion), an acceleration compared with August (+0.3%). In September, the policy interest rate decreased 25 basis points to 4.25%.
+Non mortgage loan debt increased 0.3% (+$2.5 billion) in September, following a 0.1% rise in August. In September, outstanding balances on home equity lines of credit increased 0.4% (+$0.7 billion) and credit card debt with chartered banks rose 0.7% (+$0.8 billion). The remaining non mortgage loan debt categories increased $1.0 billion following a $0.1 billion decrease in August.
+Total credit liabilities of private non financial corporations edged up 0.2% (+$4.6 billion) to reach $2,124.5 billion in September, a faster rise than in August (+0.1%). Non mortgage loans with chartered banks edged down 0.2% ( $1.4 billion) in September, a smaller decline than in August ( 0.4%;  $2.3 billion). The already reduced balance of bankers' acceptances remaining after the cessation of the Canadian Dollar Offered Rate's publication in June 2024 dropped further in September to $0.1 billion. Non mortgage loans from government lenders edged down 0.2% ( $0.1 billion), while debt securities rose 0.5% (+$3.8 billion).
+Overall borrowing by private non financial corporations, composed of the change in the level of seasonally unadjusted outstanding loans and the net transactions in debt securities, was $3.2 billion in September.
+As a complement to this release, the documents "Guide to the Monthly Credit Aggregates" and "An overview of revisions to the Financial and Wealth Accounts, 1990 to 2023," which are part of Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X), are available.
+As a complement to this release, the data visualization products "Financial accounts on a from whom to whom basis, selected financial instruments," "Distributions of Household Economic Accounts, Wealth: Interactive tool" and "Securities statistics," which are part of Statistics Canada – Data Visualization Products (Catalogue number71 607 X), are also available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, provides an up to date portrait of national and provincial economies and their structure.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

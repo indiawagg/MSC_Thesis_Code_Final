@@ -1,0 +1,27 @@
+Date:
+2020-09-24
+Article Title:
+ Insights into industry and occupation, August 2020
+
+Article Content:
+Between March and early May 2020, Australia saw unprecedented change in the labour market as a result of restrictions to slow the spread of COVID 19 and government support packages to mitigate its impact on individuals, households and businesses. These interventions affected industries and occupations to differing extents and in different ways.
+Between May and August, as employment and hours worked started to recover, there was less divergence in outcomes across the different industries and occupations, with the hardest hit industries and occupations showing recovery between May and August.
+Industry and occupation information for a person's ‘main job’ is collected in the Labour Force Survey in the months of February, May, August and November. This article presents insights into changes in employment and hours worked across industries and occupations between February and May and between May and August.
+In seasonally adjusted terms, between February and May, employment decreased by almost 900,000 people (or 6.7%) while hours worked decreased by 9.7%. Employment then increased by around 450,000 (3.8%) and hours worked increased by 5.6% between May and August.
+Chart 1 shows the movements in employment and average hours worked across industry divisions between February and May and May and August, in original terms.
+Most industries recorded an increase in both employment and average hours worked over the most recent quarter, with the largest increases recorded in Arts and recreation services (employment up 30% and average hours worked up 14%) and Accommodation and food services (employment up 17% and hours worked up 20%). These were also the industries that experienced the biggest declines between February and May. In contrast, there was a large decrease in employment in Electricity, gas, water and waste services (down 11%), following a large increase between February and May.
+Chart 2 shows that Community and personal service workers experienced the largest increase in both employment (up 13%) and average hours worked (up 5%) between May and August. This follows Community and personal service workers recording the largest decrease in employment (down 22%) and average hours worked (down 10%) between February and May. Some of the occupations which recorded particularly large decreases in employment by May saw large increases by August.
+Chart 3 shows that between May and August 2020, most industries recorded a decrease in people who worked zero hours. This followed large increases in many industries between February and May.
+Chart 4 shows the percentage change in the number of employed people who worked zero hours between May and August (and February and May), for each occupation group.
+In addition to looking at net changes in the number of people employed in each industry and occupation, it is also useful to look at the flows out of each industry and occupation. The following analysis, which repeats and builds on analysis in  in the May issue of this release, draws upon data from .
+Chart 5 shows, for people employed in each industry in May, the proportion who were:
+People employed in Wholesale trade in May were the most likely to remain employed in August, but were also the most likely to be employed in a different industry in August. Financial and insurance services, Health care and social assistance and Education and training had the highest proportion of people remaining employed in the same industry between May and August.
+Administrative and support services, Accommodation and food services and Arts and recreation services had the lowest proportion of people remaining employed in August.
+  still employed in the same industry in August;
+  still employed in August but in a different industry; or
+  no longer employed in August.
+Almost 20% of the people who moved from being not employed in May to being employed in August were working in Accommodation and food services in August (Chart 6). Retail trade (11%), Health care and social assistance (10%) and Education and training (9%) also employed a high proportion of the people who moved from not being employed in May.
+Chart 7 shows that 83% of people employed as Professionals in May were still in that occupation in August. Only 5% of people employed as Professionals or Managers were no longer employed in August. In contrast, 13% of people employed as Labourers in May were no employed in August.
+Managers and Sales workers were the most likely to change occupations over the period, with 23% employed in these occupations in may employed in a different occupation in August.
+Over 22% of the people who moved from being not employed in May to being employed in August were working as a Community and personal service worker in August (Chart 8). In contrast, Managers (6%) and Machinery operators and drivers (6%) had a relatively low share of all people moving from not employed in May to employed in August.
+For further information, please email labour.statistics@abs.gov.au.

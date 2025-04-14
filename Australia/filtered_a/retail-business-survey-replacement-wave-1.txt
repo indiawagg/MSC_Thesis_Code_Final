@@ -1,0 +1,17 @@
+Date:
+2024-03-06
+Article Title:
+ Retail Business Survey Replacement: Wave 1
+
+Article Content:
+On 23 November 2023 the ABS announced that it would cease the Retail Business Survey and Retail Trade publication in 2025 once it has transitioned to new data sources.   In the December quarter 2023, Australian National Accounts (ANA) release the first wave of this transition was implemented into the Household Final Consumption Expenditure (HFCE) estimates. More information can be found in the  article.
+This article provides an overview of wave 1 implementation, which replaced Retail Business Survey data  for Food and Miscellaneous goods and services. Data for these categories will now be sourced from the same bank transaction data that is used for the 
+HFCE is compiled using a range of different data sources, and the contribution of the Retail Business Survey (RBS) data to these categories varies. Until the December 2023 quarter, RBS was utilised to produce 8 out of the 12 broadest Household Final Consumption Expenditure categories. The contribution percentages in Figure 1 represents the extent to which the RBS served as the primary data source for each HFCE category.  However, for total HFCE, the average RBS contribution to the quarterly growth rate over the year to December 2023 was approximately 24%. This percentage reflects two things: the majority of household expenditure related to services rather than goods (not in scope of RBS), and that other data sources are used to estimate HFCE, such as supermarket scanner data.
+The ABS receives de identified, aggregated consumer transactions data from a range of Australian banks. The HFCE coverage in bank transactions data is considerable, and substantial analysis has been undertaken to ensure conceptual alignment with the Australian National Accounts (ANA) framework. 
+As bank data comprise of credit and debit card expenditure only, adjustments have been made to:
+The ABS has quality assured bank transactions data as a replacement data source for the RBS, ensuring that it yields coherent outputs to those derived from the RBS and that it is fit for purpose in HFCE compilation.
+The banks transactions data growth rates for the December 2023 quarter have been applied to September 2023 quarter levels for Food and Miscellaneous Goods and Services estimates. This means that there are no revisions due to the change in data source prior to the December 2023 quarter. 
+   account for cash spending and HFCE not captured through the existing set of bank data providers. Data sourced from the RBA’s comprehensive surveys of the banking sector is used to inform cash and other banking institutions adjustments.
+  Remove non resident spending (such as overseas students) and include residential spending whilst overseas. 
+Australian National Accounts: National Income, Expenditure and Product publication plan to provide RBS replacement updates as each wave is implemented over the next 12 months. 
+If you have any questions regarding these changes, please see  or contact 

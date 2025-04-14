@@ -1,0 +1,41 @@
+Title: Inflatie 9,6 procent in december
+Date: 2023-01-10 05:30:00 UTC
+
+Lead Text:
+                Consumentengoederen en -diensten waren in december 9,6 procent duurder dan in dezelfde maand een jaar eerder, meldt het CBS. In november was de inflatie 9,9 procent. De prijsontwikkeling van energie had een drukkend effect op de ontwikkeling van de inflatie, kleding en voeding hadden een verhogend effect. 
+            
+
+Article Content:
+Met het decembercijfer is ook  bekend. Consumentengoederen en –diensten waren in het afgelopen jaar 10,0 procent duurder dan in 2021.
+Het CBS publiceert naast het algemene inflatiecijfer maandelijks ook wat de inflatie is exclusief de prijsontwikkeling van energie (gas, elektriciteit en stadsverwarming) en brandstof. In december waren consumentengoederen en –diensten exclusief energie en motorbrandstoffen 7,5 procent duurder dan in dezelfde maand vorig jaar. In november was de prijsstijging op jaarbasis 6,8 procent.
+De inflatie wordt elke maand gemeten als de stijging van de consumentenprijsindex (CPI) ten opzichte van dezelfde maand in het voorgaande jaar. De CPI geeft het prijsverloop weer van een pakket goederen en diensten zoals dit gemiddeld wordt aangeschaft door de Nederlandse huishoudens. Een inflatie van 9,6 procent in december 2022 betekent dat de prijzen van consumentenproducten 9,6 procent hoger zijn dan in december 2021. De inflatie van 9,6 procent in december komt dus niet bovenop de inflatie van 9,9 procent in november.
+
+
+Kleinere prijsstijging energie
+De prijsontwikkeling van energie (elektriciteit, gas en stadsverwarming) had deze maand een drukkend effect op de inflatie. In december 2022 was energie 52 procent duurder dan in december 2021. In november was energie 70 procent duurder dan in diezelfde maand een jaar eerder.
+In het najaar van 2022 kondigde het kabinet twee maatregelen aan om de energiekosten van huishoudens te verlagen: de tijdelijke maatregel voor tegemoetkoming in de energieprijzen en het prijsplafond op energie. De tegemoetkoming, die in november en december 2022 is uitgekeerd, wordt gezien als een inkomenssteun en heeft daarom geen invloed op de CPI. Het prijsplafond per januari 2023 heeft wel een directe invloed op de prijs van geleverde elektriciteit of gas en wordt daarom vanaf januari wel meegenomen in de CPI. Dit wordt verder toegelicht in het artikel .
+
+
+Onderzoek naar energieprijzen
+Energie levert een belangrijke bijdrage aan de totale inflatie. De prijsontwikkeling van energie wordt gemeten op basis van nieuwe contracten. Een deel van de huishoudens heeft echter een bestaand contract voor gas en elektriciteit. Het CBS onderzoekt nieuwe methoden voor het meten en berekenen van de energieprijzen in de CPI en HICP, waarbij actuele ontwikkelingen van energieprijzen verfijnder in kaart worden gebracht. Eind oktober zijn de  gepubliceerd. Het CBS maakt in het onderzoek gebruik van databestanden die aangeleverd zijn door energiemaatschappijen. Het CBS zal de komende tijd bij de berichtgeving over inflatie regelmatig meer informatie geven over de voortgang en de uitkomsten van het onderzoek.
+Motorbrandstoffen goedkoper
+De prijsontwikkeling van motorbrandstoffen had een neerwaarts effect op de ontwikkeling van de inflatie. Motorbrandstoffen waren in december 7,0 procent goedkoper dan in dezelfde maand een jaar eerder. In november 2022 was de prijsdaling 0,6 procent op jaarbasis.
+Prijzen kleding en voeding stijgen
+De prijzen van kleding en voeding zijn in december verder gestegen. Kleding was in december 12,3 procent duurder dan in dezelfde maand vorig jaar. In november was de prijsstijging 6,6 procent. Voedingsmiddelen waren in december 17,0 procent duurder dan een jaar eerder. Vorige maand was de prijsstijging 15,7 procent. Dit verhogende effect van de voeding op de inflatie werd vooral veroorzaakt door brood- en graanproducten, en kaas en kwark.
+
+
+Inflatie eurozone daalde naar 9,2 procent
+Het CBS publiceert sinds 1996 twee verschillende cijfers voor inflatie. Een op basis van de consumentenprijsindex (CPI) en een op basis van de geharmoniseerde index van consumentenprijzen (HICP). Consumentengoederen en -diensten in Nederland waren volgens de HICP in december 11,0 procent duurder dan in dezelfde maand een jaar eerder, in november was dat 11,3 procent. De inflatie in de eurozone daalde van 10,1 procent in november naar 9,2 procent in december.
+
+
+Verschil CPI en HICP
+Om de inflatie tussen landen te kunnen vergelijken, berekenen de lidstaten van de Europese Unie (EU) een consumentenprijsindex volgens internationaal afgesproken definities en methoden. De Europese Centrale Bank gebruikt de HICP voor het monetaire beleid in de eurozone. Daarnaast maken de meeste landen nog een eigen, nationale prijsindex.
+Het belangrijkste verschil tussen de CPI en de HICP voor Nederland is dat de HICP in tegenstelling tot de CPI geen rekening houdt met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. Dit is echter niet het enige verschil. In een publicatie worden deze verschillen verder toegelicht.
+Snelle raming inflatie volgens de CPI
+Vanaf 2023 publiceert het CBS maandelijks ook een snelle raming van de inflatie volgens de CPI. Deze raming verschijnt elke maand tegelijkertijd met de gebruikelijke raming van de HICP. De snelle raming van de CPI werd voor het eerst gepubliceerd op 6 januari 2023, over verslagmaand december 2022. Net als bij de HICP is de snelle raming op basis van nog onvolledige brongegevens. Daarom is de snelle raming van de CPI niet geschikt om te gebruiken voor indexering. Lees hier meer over de .
+Implicaties coronacrisis op de berekening van de inflatie
+Door de overheidsmaatregelen in verband met de coronacrisis zijn sommige diensten na maart 2020 tijdelijk niet of beperkt beschikbaar geweest. Hierdoor zijn voor een deel van deze diensten geen transacties geweest waarvan de prijzen gemeten konden worden. In aansluiting op de richtlijnen van Eurostat heeft het CBS per situatie gekozen voor de meest passende schattingsmethode. In een notitie worden alle keuzes toegelicht en in een maatwerktabel wordt aangegeven per artikelgroep of er een schatting is gemaakt. In december 2022 werden geen prijzen meer geschat in verband met corona, maar schattingen in dezelfde maand een jaar eerder werken nog wel door in de inflatie van deze maand.
+Dashboard consumentenprijzen
+Het dashboard consumentenprijzen toont de inflatie volgens de consumentenprijsindex (CPI) en voor een aantal groepen consumentengoederen en -diensten. Meer prijsindicatoren zijn te vinden in het prijzendashboard. De persoonlijke inflatiecalculator geeft inzicht in de ontwikkeling van de consumentenprijzen voor een individueel consumptieprofiel.
+
+

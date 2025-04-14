@@ -1,0 +1,43 @@
+Date:
+2022-12-01
+Article Title:
+ Understanding ancestry, language and birthplace of the Norfolk Island population
+
+Article Content:
+Norfolk Island is an external territory of Australia located in the Pacific Ocean about 1,600km northeast of Sydney. While the island has been an Australian territory since 1914, in May 2015 legislation came into effect which provided for the Australian Government to assume responsibility for funding and delivering national and state level services for Norfolk Island.
+Norfolk Island was re included in the Australian Census of Population and Housing in 2016. Prior to this, the Norfolk Island administration conducted their own censuses from 1981 to 2011[1]. In the 2021 Census the usual resident population of Norfolk Island was 2,188, an increase from 1,748 people in 2016.
+The Census collects information that provides insight into the cultural background of our population. This information includes ancestry, country of birth, country of birth of parents, and languages used at home. Census data enables us to measure these changes over time.
+Ancestry data reported for Norfolk Island from the 2021 Census is not comparable with ancestry data reported from Norfolk Island censuses prior to and including 2011 because of the difference in the way the question was asked. The 2011 Norfolk Island Census asked one question relating to ancestry, specifically whether a person was of Pitcairn descent. In contrast, the Australian Census asked respondents to identify up to two ancestries, using either the tick box list provided or by writing in the text fields.
+See  for further information on the differences between the ancestry questions in the Norfolk Island Census and the Australian Census.
+The first European settlement was established on Norfolk Island in 1788 and used as a British penal colony. After the closure of the second convict settlement in 1856, the majority of the people of Pitcairn, an island in the South Pacific, relocated to Norfolk Island. An important part of Norfolk Islanders' identity and uniqueness is their Pitcairn heritage. Pitcairn Islanders are of British and Tahitian descent, as the island was settled in 1790 by British mutineers from the ship HMS Bounty and their Tahitian companions[2].
+In 2021, 550 people on Norfolk Island identified Pitcairn ancestry, representing one quarter (25.1%) of the population. While this was an increase from 484 people in 2016, the proportion of the resident population with Pitcairn ancestry decreased from 29.6%. The proportional decrease may be due to the migration of people of Pitcairn descent from Norfolk Island, and the increased migration of people without Pitcairn ancestry to Norfolk Island.
+In the 2016 Census (and prior), responses to the ancestry question were coded using the . While responses of Pitcairn were coded to ‘Pitcairn’, responses of Norfolk Island (and variations) were coded to ‘Australian’. Approximately 120 usual residents of Norfolk Island indicated that they had ‘Norfolk Island’ ancestry (approximately 7% of the Norfolk Island population).
+The ASCCEG was updated in 2019 to include ‘Norfolk Islander’. In the 2021 Census, responses of Norfolk Island (and variations) were coded to ‘Norfolk Islander’. 319 people on Norfolk Island identified Norfolk Islander ancestry representing 16.5% of the resident population. The introduction of this ancestry may have also contributed to the decrease in Pitcairn ancestry responses for Norfolk Island residents in 2021.
+People could provide up to two ancestries on their Census form in 2021. When a person reported one ancestry they were coded to 'One response' and when a person reported two ancestries they were coded to 'Two responses'. For this article, percentages are calculated as a proportion of the population, not the number of responses.
+The 2021 Census showed that the most common ancestries for usual residents of Norfolk Island were:
+Over one third (37.8%) of usual residents of Norfolk Island included only one response to the ancestry question, with Australian as the most common single response (11.2%). Just 5.8% had Pitcairn only and 1.2% had Norfolk Islander only.Just over half (50.5%) of usual residents of Norfolk Island provided two responses, with the most common combination being Pitcairn/Norfolk Islander (9.2%). Almost one fifth (19.2%) were Pitcairn and another response, while 13.6% were Norfolk Islander and another response.
+  Australian (28.3%)
+  English (27.4%)
+  Pitcairn (25.1%)
+  Norfolk Islander (14.6%)
+  Scottish (8.5%).
+From the 2016 Census Norfolk Island was added to the definition of geographic Australia. For the purposes of comparison in this article, references to Australia exclude Norfolk Island.
+For more information see  in the 2016 Census Dictionary.
+From 2016 to 2021 the number of usual residents in Australia who identified Pitcairn ancestry more than doubled, increasing from 260 to 567 people. Most were residents of New South Wales and Queensland (42.9% and 36.0% respectively).
+Some of this increase could have been prompted by the inclusion in 2021 of ‘Pitcairn’ as one of the example ancestries on the 2021 Census form.
+When looking at people in Australia who identified Pitcairn ancestry, 65 were born on Norfolk Island in 2021, down from 72 in 2016.
+In 2021 the number of people in Australia who reported Norfolk Islander ancestry was 655. Of these, 73 had a combination of Pitcairn and Norfolk Islander ancestry.
+In 2021, the most common place of birth of Norfolk Island residents was Australia (45.4%). This was an increase from 39.2% in 2016. The number of Norfolk Island born residents decreased from 21.8% of the resident population in 2016 to 15.9% in 2021. Maternity services on Norfolk Island ceased in 2013, therefore contributing to the decrease in the proportion of Norfolk Island residents who were born on the island.
+The most common birthplaces for parents of Norfolk Island residents were similar to their children with almost half (49.3%) of residents having one or both parents born in Australia. This was an increase from 47.2% in 2016. The next most common birthplaces of parents in 2021 were:
+Of Norfolk Island residents born on Norfolk Island, 254 who had one or both parents also born on the island, representing 11.6% of the population.
+251 people who were born on Norfolk Island were Australian residents in 2021. This was a decrease from 316 in 2016. In 2021 there were 506 Australian born people who had one or both parents born on Norfolk Island, an increase from 449 in 2016.
+  Norfolk Island (23.5%)
+  New Zealand (22.4%)
+  England (7.3%)
+  Fiji (2.1%).
+In 2021 the most common language used at home on Norfolk Island was English (52.4%). The most common language other than English was Norf'k Pitcairn. Norf’k Pitcairn (also known as ‘Pitkern Norf’k’ or ‘Norfolk’) is a blend of 18th century English and Tahitian which was introduced to Norfolk Island by the Pitcairn settlers[3]. There were 667 usual residents of Norfolk Island who used this language at home (30.5%), a small decrease from 709 people in 2016. In 2021, almost two thirds (62.2%) of Norfolk Island residents who spoke Norf’k Pitcairn had Pitcairn ancestry.
+Norf’k Pitcairn was also used by usual residents in Australia. In 2021, there were 244 people who used this language at home, down from 326 people in 2016.
+For summary statistics on Norfolk Island residents see .
+  Norfolk Island Regional Council, Census, , accessed 25 November 2022.
+  Pitcairn Immigration, History of Pitcairn Island, , accessed 7 November 2022.
+  Mühlhäusler, P. 2020. Pitkern Norf'k: The Language of Pitcairn Island and Norfolk Island. Berlin, Boston: De Gruyter Mouton.

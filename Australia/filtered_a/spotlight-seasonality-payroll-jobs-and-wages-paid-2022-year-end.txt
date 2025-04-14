@@ -1,0 +1,44 @@
+Date:
+2023-04-06
+Article Title:
+ Spotlight: Seasonality in payroll jobs and wages paid at 2022 year-end
+
+Article Content:
+Every year, increased variability in Weekly Payroll Jobs and Wages series can be seen across December and January. This is consistent with pronounced and longstanding seasonality in the Australian labour market over this period.  
+The annual pattern always shows an increase in labour market activity before Christmas, around a seasonal peak, which is then followed by a period when many people take their summer holidays, particularly around public and school holidays, and there is reduced business activity in many industries. The Weekly Payroll Jobs and Wages series, like other ABS labour statistics (such as Labour Force, Australia), therefore show increases towards the end of the calendar year, followed by a sharp seasonal fall.
+Estimates in the Weekly Payroll Jobs and Wages in Australia release are presented as an ‘original’ data series and do not yet include seasonally adjusted data. Generally, three to five years of stable data are required before seasonal patterns can be effectively identified and seasonally adjusted series can be produced.
+The longstanding seasonality adjusted Labour Force statistics series can aid in the interpretation of these statistics across periods of greater seasonality.
+The original Labour Force series shows a regular seasonal high in December followed by a fall in January each year, in both the number of employees and total weekly hours worked. Hours are particularly seasonal, given many people work reduced or no hours in late December and early January.
+At the end of 2022, indexes of payroll jobs and total wages both reflected similar seasonal patterns to that seen in previous years. The seasonal fall at the end of the year reflects a combination of jobs ending and people taking unpaid leave, with a reduced number of employees receiving payroll payments over that period.
+Pandemic related factors around the Delta variant and adverse weather events affected the seasonal change seen around the end of 2021, compared to other years, reflected in a slightly steeper fall in payroll jobs from mid December 2021.
+The seasonality in total wages seen around year end is greater than that seen in payroll jobs, given the influence of penalty rates around public holidays and end of year bonuses increasing wages paid during December, along with the pronounced seasonality in hours worked.
+To compare the seasonal falls seen at year end across states and territories, they have been separated into two groups based on their share of total payroll jobs; those jurisdictions which each account for more than a 10% share of payroll jobs; and those that each hold less than a 10% share.
+Among the larger states, which together account for almost 90% of total payroll jobs, the smallest seasonal fall at the end of 2022 was seen in Western Australia. Their smaller seasonal dip is partly explained by Western Australia’s higher proportion of payroll jobs in the Mining industry (around 7.5%), which sees less seasonality at year end than other industries.
+Among smaller jurisdictions, the Northern Territory saw the largest fall in payroll jobs at 2022 year end. This reflects their higher proportion of payroll jobs in the Education and training industry (around 11%), which sees the largest seasonal dip during the year end period.
+There are more pronounced differences in seasonal changes between industries than between states and territories.
+To compare the relative levels of seasonality seen in each industry at year end, they have been grouped according to the magnitude of seasonal change seen between their payroll job high in December 2020 and January 2021 low:
+ 
+  High seasonality – change was more than 12%
+  Moderate seasonality – change was between 4% and 10%
+  Low seasonality – change was less than 3%
+The Education and training, Construction and Administrative and support services industries all saw relatively high seasonal change at 2020 year end, which has continued in subsequent years.
+This reflects reduced business operations across this period. For example, the Education and training industry sees a large seasonal downturn in payroll jobs as students commence holidays, with a gradual rise into the new year until students return to classes around late January and early February.
+Industries that see a moderate seasonal change in payroll jobs include:
+Of these, Health care and social assistance and Information media and telecommunications see the smallest fall in payroll jobs at year end, while Manufacturing sees the largest seasonal dip.
+  Accommodation and food services
+  Agriculture, forestry and fishing
+  Arts and recreation services
+  Health care and social assistance
+  Information media and telecommunications
+  Manufacturing
+  Other services
+  Professional, scientific and technical services
+  Public administration and safety
+  Rental, hiring and real estate services
+  Retail trade
+  Transport, postal and warehousing
+  Wholesale trade
+The Mining, Electricity, gas, water and waste services and Financial and insurance services industries see the smallest seasonal change at year end. Within this group, the Financial and insurance services industry sees greater seasonality around public holidays than the other industries which tend to operate continuously across those periods.
+While seasonality in payroll jobs contributes to seasonality in wages data, there are also other factors that contribute to the seasonality in the total wages paid at various points in the year. Changes in hours worked, and payments of bonuses, allowances, or overtime will contribute to additional seasonal variation in wages paid, beyond the changes in payroll jobs.
+This is particularly pronounced in industries where seasonal variation in hours and periodic payments are more common. For example, the Financial and insurance services industry has low seasonality in payroll jobs but has high seasonality in wages paid at year end due to the payment of bonuses by some businesses around December.
+The Retail trade industry sees slightly higher seasonality in wages paid around the busy trading period at the end of the year. This is when employees are working more hours (due to extended trading or increased shift demands) and paid penalty rates around public holidays, changing the seasonality seen in wages around year end compared to that of payroll jobs.

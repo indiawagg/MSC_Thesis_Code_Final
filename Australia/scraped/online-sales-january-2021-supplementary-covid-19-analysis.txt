@@ -1,0 +1,24 @@
+Date:
+2021-03-04
+Article Title:
+ Online sales, January 2021 - Supplementary COVID-19 analysis
+
+Article Content:
+The Retail Trade survey has been collecting online sales since the March quarter 2013. The Online series is published as grouped industry split; a Food group (including the Food retailing, and Cafes, restaurants and takeaway food services), and a Non food group (all other industries). Due to the limitations of online data collection, a finer split by industry is not possible at this stage. 
+Online sales have become increasingly popular during the COVID 19 pandemic. Restrictions placed on the operation of physical retail stores saw both businesses and consumers turn to online retailing. 
+It is worth noting that retailers have had to adapt sales channels very quickly during the pandemic, and it is possible that the value of online purchases has been under reported since April 2020. Importantly, total retail sales will not be under reported.
+The Online series remains experimental, and caution should be used in interpreting the results, especially during this volatile period. 
+The total online series rose 1.6% in seasonally adjusted month on month terms, in January 2021, following a fall of 2.1% in December 2020, and a fall of 1.5% in November 2020. 
+The rise in online sales follows four consecutive falls in seasonally adjusted terms, however the series continues to maintain a new level following large rises during the outset of the COVID 19 pandemic, as consumer behaviours adjusted to physical distancing regulations.
+In through the year terms, the seasonally adjusted series rose 62.8% compared to January 2020. This is broadly consistent with levels seen throughout 2020 as online sales reached a new level following from April 2020. This coincides with the shift to online purchasing at the outset of the COVID 19 pandemic in Australia. Total online sales have averaged an annual rise of 65.5% from March 2020 to January 2021. 
+The seasonally adjusted level of online sales rose for both the Food group (4.8%), and the Non food group (0.3%), month on month in January 2021. 
+The rise for Food online sales follows a positive result of 6.4% in December. The rise in both months coincides with lockdowns and subsequent restrictions, with evidence of panic buying remaining prevalent in weekly supermarket turnover data following these events in Greater Brisbane and Western Australia this month. 
+Non food online sales rose 0.3% seasonally adjusted, following a 5.2% fall in December 2020. Non food online sales have plateaued since the middle of the year although maintain elevated levels. In seasonally adjusted terms, Non food sales remain up 57.8% compared to January 2020. 
+Due to January being a month where many families take a holiday, Online sales generally fall as a proportion of total sales in both December and January, although changes in consumer behaviour and sporadic lockdowns have kept the proportion of online sales well above pre pandemic levels.
+As a proportion of total grouped industry turnover, Non food online sales were 13.9% of total Non food sales in January 2021, in original terms. The proportion of total Food sales made online was 5.2% in January, in original terms.
+Total online sales were 9.1% of total sales in January, which is relatively unchanged from December 2020. It remains elevated as a proportion when compared to January 2020 (6.3%). 
+The data was previously published as an experimental series, in original data only, as an Appendix to the Retail Trade publication. It was disaggregated by whether the retailer was "Pure play" (online only) or "Multi channel" (mix of online and physical stores). 
+Over time, the split between Pure play and Multi channel remained stable, with Pure play online retailers averaging 38.0% of total online sales. 
+In January 2021, Pure play retailers made up 30.0% of online sales and 2.7% of total sales. Online sales for multi channel retailers made up 6.4% of total retail sales. 
+The online series continues to use the same source data, and represents purchases made via the internet from employing retail businesses who predominately sell to households. The series excludes direct imports (e.g. purchased directly from an overseas website) and sales from 'households to households' through third party websites for example. More information can be found in the information paper (cat. no. 8501.0.55.007).
+Seasonal adjustment has been calculated for the new series using the concurrent seasonal adjustment method, meaning that seasonal factors are re estimated each time a new data point becomes available. Unusual real world events, such as COVID 19, can distort estimates calculated using the method. Like the total retail series, trend cannot be calculated due to the volatility of the retail series during COVID 19. 

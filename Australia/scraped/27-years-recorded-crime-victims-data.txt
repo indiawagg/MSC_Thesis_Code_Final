@@ -1,0 +1,67 @@
+Date:
+2020-09-16
+Article Title:
+ 27 years of Recorded Crime – Victims data
+
+Article Content:
+For the first time, this release brings together information on victims of recorded crime over a 27 year period.
+Recorded Crime – Victims data was first published in 1993 and has since been released annually.  Data for the years 1993 to 2009 have, until this point, only been accessible separately through the earlier publications. 
+For the 2010 publication, significant changes to the basis of the collection were officially implemented and an expected break in series was noted. As such, subsequent releases only contained data from 2010 onwards. However, analysis of the data showed that changes finalised for the 2010 collection had only small and incremental impacts on resulting data. As a result, broad comparisons across data dating from 1993 onwards can be made. 
+The extended time series project has compiled data for all available years to produce statistics on victims of crime by selected offences as recorded by police spanning the 27 years of available publication data. 
+This data is intended to support analysis of the whole time series available, however, there are some changes to the data over time which need to be considered when using the extended series data. This information is provided for reference in the methodology section. 
+This article presents selected data on victims of crime from 1993 to 2019. Data for available offences over this time period includes:
+The statistics presented are available as data tables in an Excel spreadsheet format and can be downloaded. 
+  Homicide and related offences (including murder, attempted murder and manslaughter) 
+  Assault 
+  Sexual assault
+  Kidnapping/abduction
+  Robbery (including armed and unarmed)
+  Blackmail/extortion
+  Unlawful entry with intent
+  Motor vehicle theft 
+  Other theft
+The number of victims of homicide and related offences has decreased in Australia over the 27 years of data collection. In 1993 there were 697 recorded victims, by 2019 this had declined by two fifths (40% or 281 victims) to 416 victims. 
+In comparison to other offence types, the victimisation rate for homicide and related offences remained relatively low across the time series and ranged from about 4 victims per 100,000 persons to about 2 victims per 100,000 persons. This means that after accounting for population change, the victimisation rate for homicide has halved. 
+The largest recorded number of victims for this offence was 809 in 2001. From 2002 the number of victims declined across most years.
+Attempted murder was the most common homicide offence type between 1993 and 2005. From 2006, murder was the most common homicide offence recorded nationally.
+Accounting for population change from 1995 to 2019, the victimisation rate for assault almost doubled in:
+The victimisation rate also increased in: 
+The victimisation rate remained relatively stable in South Australia with 918 victims per 100,000 persons in 1995 and 923 victims per 100,000 persons in 2019.
+In the Australian Capital Territory, there was a slight decline in the victimisation rates from 583 victims in 1996 to 562 victims per 100,000 persons.
+  Northern Territory, from 1,377 victims to 2,737 victims per 100,000 persons 
+  Western Australia, from 633 to 1,186 victims per 100,000 persons 
+  New South Wales, from 620 to 836 victims per 100,000 persons 
+  Tasmania, from 430 to 629 victims per 100,000 persons 
+The number of recorded victims of sexual assault has increased nationally over a 27 year period. 
+Since 1993 the number of victims of this offence has more than doubled, reaching the largest number recorded nationally in 2019 (26,892 victims).
+Accounting for population growth, the national victimisation rate went up from 69 to 106 victims per 100,000 persons.
+The victimisation rate increased across most jurisdictions between 1993 and 2019, the largest of which occurred in: 
+South Australia was the only jurisdiction where the victimisation rate declined for sexual assault, down from 108 to 89 victims per 100,00 persons. 
+  New South Wales up 73 to 136 victims per 100,000 persons
+  Australian Capital Territory up 49 to 77 victims per 100,000 persons
+  Northern Territory up 32 to 144 victims per 100,000 persons 
+  Western Australia up 31 to 106 victims per 100,000 persons
+The number of victims of robbery have increased nationally over the last four years (between 2015 to 2019), following an eight year period of decreases. The highest number of victims of robbery over the 27 year period was recorded in 2001 (26,590 victims).
+There was generally more unarmed than armed robberies recorded. 
+Over 27 years, the number of victims of unlawful entry with intent more than halved (down 55%) to 173,344 victims in 2019.  
+From the mid 90’s to the mid 2000’s, property was stolen in about three out of four (76%) reports of unlawful entry with intent. 
+The number of motor vehicles stolen across Australia declined by almost half (48%) over 27 years to 58,021 victims. 
+Victims of this offence peaked nationally in 2001 (139,895 victims). Following this peak, records of vehicles stolen declined for nine consecutive years (down 61% or 85,076 victims by 2010). 
+The number of vehicles recorded as stolen between 2010 to 2019 have remained relatively stable (increasing by 6% or 3,202 victims). 
+Between 1993 and 2019, all states and territories recorded a decrease in the number of motor vehicle theft victims. The number decreased by more than half in:
+Victoria declined by 42% to 15,930 victims and the Australian Capital Territory was down by 32% (to 1,145 victims). Queensland, the Northern Territory and Tasmania recorded decreases under 10% (down 8%, 7% and 3%, respectively) across the 27 years. 
+  New South Wales down 68% to 12,642 victims
+  South Australia down 59% to 4,175 victims
+  Western Australia down 53% to 7,664 victims
+Between 1995 and 2019, victims of other theft offences increased nationally by 16% to 569,404 victims. Other theft includes offences such as theft from a person and theft from retail premises. 
+Similar to the two other property crime offences included in this collection (unlawful entry with intent and motor vehicle theft), victims of other theft peaked in the early 2000’s, with 700,140 victims in 2001. 
+The national increase over 25 years was contributed to by three jurisdictions:
+The other five jurisdictions recorded decreases over the same time period: 
+  Queensland up 61% to 136,877 victims
+  Victoria up 23% to 136,887 victims
+  Western Australia up 19% to 89,353 victims
+  Tasmania down 27% to 8,032 victims
+  Australian Capital Territory down 16% to 8,707 victims
+  Northern Territory down 11% to 6,285 victims
+  New South Wales down 4% to 133,666 victims
+  South Australia down 3% to 49,596 victims

@@ -1,0 +1,85 @@
+Date:
+2022-04-20
+Article Title:
+ COVID-19 Mortality in Australia: Deaths registered until 31 March 2022
+
+Article Content:
+  5,372 deaths where people died with or from COVID 19 that occurred by 31 March 2022 have been registered and received by the ABS. The ABS expects to receive further registrations for this period from the jurisdictional Registries of Births, Deaths and Marriages. 
+  The underlying cause of death for 4,876 (90.8%) of these people was COVID 19. 
+  There were a further 496 people who died of other causes (e.g. cancer) but were COVID 19 positive at the time of death.  
+  Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying cause of death. 
+The Coronavirus Disease 2019 (COVID 19) is a respiratory infection caused by a new coronavirus. On 11 March 2020 the World Health Organization (WHO) declared COVID 19 to be a pandemic. 
+There are 5,372 death registrations that have been received by the ABS where an individual is certified as having died from or with COVID 19 between the start of the pandemic and 31 March 2022. Of the 344,180 death registrations received by the ABS (both doctor and coroner certified) in Australia during the pandemic period, 1.6% are of people who have died with or from COVID 19. This number of deaths is a preliminary figure and represents only those deaths for which registration has been completed through the jurisdictional Registries of Births, Deaths and Marriages (the civil registration system). The number of deaths of people who have died from or with COVID 19 during this time period will increase as additional registrations are received by the ABS. Deaths which occurred in the most recent published months (i.e. March) will have the largest increases as more registrations are received. 
+Data published by the ABS is collected through the civil registration system. Civil registration based data is not directly comparable with that released from disease surveillance systems which are designed to release information rapidly on both infections and mortality. 
+Information about mortality sourced from the registration based system takes longer to receive than information reported through the surveillance system, but it is more comprehensive and can provide important additional insights into deaths from COVID 19. Cause of death information is sourced from the Medical Certificate of Cause of Death (MCCD), which enables identification of the underlying cause of death and other associated causes. These data sources also provide demographic information about the decedent (e.g. age, sex and country of birth).
+There were 5,479 deaths which occurred and were registered by 31 March 2022 and had COVID 19 written as a term on the death certificate. The composition of these 5,479 deaths is as follows: 
+Deaths due to COVID 19: 
+These 4,876 deaths are considered to be "due to" COVID 19 and are included in underlying cause mortality tabulations in this report.
+COVID 19 related deaths: 
+Other deaths include: 
+ 
+  4,815 with an underlying cause of death assigned to acute COVID 19 infection with the virus being laboratory confirmed. 
+  42 deaths that were due to long term effects of COVID 19 (e.g. long COVID 19). 
+  19 deaths that were certified as being due to suspected COVID 19 with the virus not confirmed in a laboratory at the time of certification. 
+  496 deaths which were COVID 19 related. This is where the person died with COVID 19 (confirmed or suspected) but it was not the underlying cause of death. These deaths are included in COVID 19 related death tabulations of this report (i.e. people dying with COVID 19) and are included in overall totals. 
+  55 deaths which had a negative COVID 19 result recorded on the death certificate. When a negative COVID 19 test result is recorded on a death certificate an ICD 10 code of ‘Z03.8 Examination and observation for other specified reasons’ is assigned to capture the information communicated by the doctor. These deaths are not included in COVID 19 mortality reporting. 
+  48 deaths which occurred in people who had COVID 19 but recovered and had no lasting complications. These mentions of COVID 19 on the death certificate are captured with an ICD 10 code of “U08.9 Personal history of COVID 19”. These deaths are not included in COVID 19 mortality reporting. 
+  4 deaths of neonates (infants aged under 28 days) where a personal history of COVID 19 was mentioned as a condition in the mother. The infant was not COVID 19 positive. All diseases in the infant and the mother certified on a Medical Certificate of Cause of Perinatal Death are assigned an ICD 10 code. These mentions of COVID 19 on the death certificate are captured with an ICD 10 code of “U08.9 Personal history of COVID 19”.  These deaths are not included in COVID 19 mortality reporting. 
+Australian cause of death data is coded to the International Classification of Diseases, 10th revision which is governed by the WHO. Case definitions, certification guidelines and coding rules have been implemented for international use. 
+A death directly due to COVID 19 is defined by the WHO as a death resulting from a clinically compatible illness, in a probable or confirmed COVID 19 case, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g. trauma). There should be no period of complete recovery from COVID 19 between illness and death.
+In response to the emergence of COVID 19 the WHO issued new emergency codes to be used when coding causes of death for statistical purposes. 
+This code is used when COVID 19 is confirmed by laboratory testing.
+This code is used for suspected or clinical diagnoses of COVID 19 where testing is not completed or inconclusive.
+This code is used when a person has recovered from COVID 19 and no long term effects have been certified as contributing to an individual’s death. These deaths are not included in COVID 19 mortality tabulations. 
+This code is used to link long term conditions including chronic lung conditions that are the result of the virus. These deaths are included in COVID 19 mortality tabulations. 
+This code is used to identify people who have died from COVID 19 where the virus has led to a multi inflammatory response syndrome. There have been no deaths due to this disorder in Australia. 
+A further code ‘Z03.8 Examination for observation and other specified reasons’ can be used to record a negative test result in order to capture this information on the death certificate. These deaths are not tabulated as being due to COVID 19. 
+The international rules and guidance for selecting the underlying cause of death for statistical tabulation apply when COVID 19 is reported on a death certificate. COVID 19 is not considered as due to, or as an obvious consequence of, other diseases and conditions. These rules are also applied to cause of death coding for Influenza and selected other infectious diseases. There is no provision in the classification to link COVID 19 to other causes or modify its coding in any way. 
+Almost all deaths due to COVID 19 in Australia have laboratory confirmation of the virus. Of the 4,876 registered COVID 19 deaths occurring by 31 March 2022, 4,857 (99.6%) were coded to U07.1, (laboratory confirmed) COVID 19, virus identified. There were 19 (0.4%) deaths where the doctor certified that it was a suspected case of COVID 19 with no laboratory confirmation recorded at the time the MCCD was completed.
+  U07.1 COVID 19 virus identified
+  U07.2 COVID 19 virus not identified
+  U08 Personal history of COVID 19
+  U09 Post COVID 19 condition
+  U10 Multisystem inflammatory syndrome associated with COVID 19
+The table below shows the number of registered deaths due to COVID 19 over the course of the pandemic by month of occurrence.  
+  The number of deaths occurring in February and March 2022 is not reflective of the true total and will increase as additional death registrations are received by the ABS. Other time periods may also change if the death registration process has been delayed. 
+  Cumulatively, the highest number of deaths occurred during the Delta and Omicron waves. This differs across jurisdictions. 
+Males had a higher number of registered deaths (2,855) due to COVID 19 than females (2,021 deaths).
+The highest number of COVID 19 deaths occurred among those aged 80 89 years (1,828). This was true for both males and females.
+Males aged under 80 years had a higher number of deaths than females (1,192 compared with 601).
+The median age for those who died from COVID 19 was 83.8 years (82.3 years for males, 86.0 years for females).
+  Males had a higher number of registered deaths (2,855) due to COVID 19 than females (2,021 deaths).
+  The highest number of COVID 19 deaths occurred among those aged 80 89 years (1,828). This was true for both males and females.
+  Males aged under 80 years had a higher number of deaths than females (1,192 compared with 601).
+  The median age for those who died from COVID 19 was 83.8 years (82.3 years for males, 86.0 years for females).
+As of 31 March 2022, the majority of registered deaths due to COVID 19 had occurred in Victoria (2,324). Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised. 
+COVID 19 was the underlying cause of death for 4,876 registered deaths that have been received by the ABS occurring up to 31 March 2022. The WHO defines the underlying cause of death as the disease or condition that initiated the train of morbid events leading to death. Diseases and conditions reported on the MCCD that are not the underlying cause of death are referred to as associated causes. Associated causes can be either: 
+Examining conditions in the causal sequence can provide insights into how a disease progresses and leads to death. Examining pre existing chronic conditions provides an understanding of risk factors that might contribute to death from a particular disease. Both can inform health prevention and intervention policies.
+Most deaths due to COVID 19 have other conditions listed on the death certificate (93.3%). The table below shows that half of all certificates had both a causal sequence and pre existing conditions listed on the certificate. 
+On average, deaths due to COVID 19 had 2.9 other diseases and conditions certified alongside the virus. 
+  Conditions listed in the causal sequence (the chain of events leading to death). These are conditions that were caused by COVID 19 and its complications; or 
+  Pre existing chronic conditions, often listed in Part II of the MCCD as ‘other conditions relevant to the death’. These are conditions that a person had before they contracted COVID 19.
+COVID 19 is a respiratory illness that weakens the immune system causing inflammation. This commonly leads to poor respiratory outcomes such as viral pneumonia and secondary infection. Other manifestations such as acute kidney injury and cardiac complications have also been reported but these are less common. 
+Disease progressions were described in a causal sequence by the certifier in 3,501 (71.8%) of the 4,876 deaths due to COVID 19 outlined in this report. Among these 3,501 deaths:
+  Acute respiratory diseases were the most commonly certified diseases listed as a consequence of COVID 19. 
+  Pneumonia was present as a consequence of COVID 19 in over two thirds of deaths where a causal sequence was certified by a doctor. 
+  Other acute outcomes including infections (e.g. sepsis) and renal complications were certified in 10.3% and 9.9% of deaths respectively.
+People with pre existing chronic conditions have greater risk of developing severe illness from COVID 19. While pre existing chronic conditions do not cause COVID 19, they increase the risk of COVID 19 complications and therefore increase the risk of death. 
+Pre existing chronic conditions were reported on death certificates for 3,580 (73.4%) of the 4,876 deaths due to COVID 19 deaths outlined in this report. Of these 3,580 deaths:
+  Chronic cardiac conditions including coronary atherosclerosis, cardiomyopathies and atrial fibrillation were the most commonly certified co morbidities, present in 37.2% of the 3,580 deaths. 
+  Dementia including Alzheimer's disease was certified as a pre existing condition in over 30% of deaths due to COVID 19.
+  Diabetes, a condition that weakens the immune system, was certified as a pre existing condition in 19.8% of deaths with a chronic condition mentioned. 
+  Cancer was a pre existing condition in 16.0% of the 3,580 deaths. Blood and lymph cancers (e.g. leukaemia) were the most commonly certified cancer type among those deaths.  
+  The type of comorbidities most commonly present in Australian deaths due to COVID 19 are consistent with those reported internationally. 
+  Those who died of COVID 19 with a country of birth overseas, had an age standardised death rate over two and a half times that of people who were born in Australia (12.3 deaths per 100,000 people versus 4.8 deaths).
+  Those with a country of birth in the Middle East had the highest age standardised death rate at 42.3 deaths per 100,000 people.
+  Those with a country of birth in the United Kingdom and Ireland had the lowest age standardised death rate after Australian born people at 4.9 per 100,000 people.
+  Those born in the Eastern European region had the highest median age at death at 91.3 years. Those born in the Oceania and Antarctic region (excluding Australia) had the lowest median age at death at 71.4 years. 
+Socio economic indexes rank areas in Australia according to relative socio economic advantage and disadvantage.
+  The number of people who died due to COVID 19 was over 3 times higher in those in quintile 1 (most disadvantaged) than those in quintile 5 (least disadvantaged). This was true for both males and females.
+  Proportions of COVID 19 mortality were similar for both males and females across each quintile.
+  People living in the least disadvantaged areas (quintile 5) had the lowest numbers of deaths due to COVID 19.
+For death registrations received by the ABS up to 31 March 2022, there were 496 people who died with COVID 19 rather than directly from the virus itself. In this article, these deaths are referred to as COVID 19 related deaths.
+A COVID 19 related death is one where there is a disease or injury pathway to death that is not directly caused by the virus. For example, a person may have late stage cancer that has metastasised extensively causing organ damage leading to death. This person may also have contracted COVID 19. While the virus may have negatively impacted health in an immuno compromised person, the virus itself did not cause the terminal event leading to death (e.g. organ failure caused by metastases). In this example, the underlying cause of death would be recorded as cancer and COVID 19 would be considered an associated cause of death.
+Most recorded COVID 19 related deaths (487 deaths, 98.2%) occurred during the Delta and Omicron waves. Of these COVID 19 related deaths occurring during the Delta and Omicron waves, there were 210 that occurred in January 2022. There were 9 COVID 19 related deaths (1.8%) recorded during wave 1 and 2 of the pandemic in Australia. The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS. 
+Of the 496 people who died with COVID 19, circulatory system diseases was the most common underlying cause of death. Ischaemic heart diseases were the most commonly certified circulatory conditions among these deaths. Cancer was the second most common underlying cause of death in COVID 19 related deaths. Blood and lymph cancers (e.g. leukaemia) were the most commonly certified cancer type among those deaths.

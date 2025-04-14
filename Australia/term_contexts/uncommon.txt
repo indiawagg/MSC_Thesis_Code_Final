@@ -1,0 +1,9 @@
+Title : producing-official-statistics-linked-data-technical-report.txt
+Context:in the TP group from the TN and FN groups .  
+   it is very uncommon to have compprod_bcs3 =3 , and   
+   extremely uncommon to have compprod_bcs3 = compprod_bcs2
+Context:groups .  
+   it is very uncommon to have compprod_bcs3 =3 , and   
+   extremely uncommon to have compprod_bcs3 = compprod_bcs2 =3 .  
+ This suggests that the occurrence of
+

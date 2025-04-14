@@ -1,0 +1,28 @@
+Date:
+2021-03-18
+Article Title:
+ Insights into hours worked, February 2021
+
+Article Content:
+Employment increased by 0.7% or 88,700 people (in seasonally adjusted terms) between January and February 2021, while hours worked increased by 6.1%. This large rise in seasonally adjusted hours worked in February followed a large decrease ( 4.9%) in January, when a larger than usual number of people took annual leave.
+Chart 1 shows changes in hours worked and employment, indexed to March 2020, while Chart 2 shows monthly changes in hours worked and employment since February 2016. Employment in February 2021 had returned to the level in March 2020, while hours worked was 99.3% of the level recorded in March 2020.
+Chart 3 shows the number of hours worked, and Chart 4 the monthly change in hours worked, in original and seasonally adjusted terms.
+While there is a seasonal fall in hours worked every January, and subsequent increase in February, the size of the fall in January is influenced by the timing of the January Labour Force Survey. The reference period can start on a Sunday as early as 31 December (as in January 2018) or a Sunday as late as 6 January (as in January 2019). The earlier the reference period, the closer to the New Year, and the larger the falls in hours worked.
+The seasonally adjusted monthly hours worked series makes specific allowance for the timing of the reference period, which is important to consider when using original data.
+The reference period of the January 2021 survey was the same as January 2016 (Sunday 3 January to Saturday 16 January). However, as Chart 4 shows, the fall in original hours worked in January 2021 was larger than January 2016 (26% compared to 22%).
+In contrast, the fall in hours worked in January 2021 was:
+The difference between the seasonally adjusted and original hours worked series, highlights that hours worked in January 2021 were lower than usual.
+  smaller than the falls in January 2017 (31%) and January 2018 (34%)   when the survey was conducted earlier in January; and 
+  larger than the falls in January 2019 (15%) and January 2020 (19%)   when the survey was conducted later in January.
+Chart 5 shows the distribution of employed people across the hours worked categories since February 2011.
+Table 1 shows the number of people in each of the hours worked categories in February by their hours worked in January.
+Of the employed people who worked zero hours in January, more than half (56%) worked full time hours in February, while only 9% worked zero hours again in February   highlighting both the large number of people taking leave in early January and the large number who had returned to work by February.
+Chart 6 shows the number of people working fewer (or no) hours:
+  for economic reasons   which, in February 2021, was almost 170,000 people (43%) above February 2020; and 
+  due to taking annual leave, holidays, flextime, or long service leave   which fell from its seasonal peak in January to around 680,000 people in February 2021, which was just over 100,000 (13%) below February 2020.
+Chart 7 shows the proportion of employed people who worked zero hours in February over the past 20 years.
+Chart 8 shows the number of people working zero hours for economic reasons, and due to taking annual leave, holidays, flextime, or long service leave. As with people working fewer hours, there is a distinct seasonal pattern to people taking leave, with large increases each January. There were 2.75 million employed people who worked zero hours in January 2021 due to taking annual leave, holidays, flextime, or long service leave   almost half a million more than recorded in January 2016. In February 2021, this was just over 320,000.
+The number of employed people working zero hours for economic reasons increased in February 2021 to 127,000, well below the peak of 767,000 in April 2020, but more than double February 2020 (60,000).
+Table 2 shows the number of employed people working zero hours for economic reasons in each state or territory, highlighting the very large increases in people working zero hours for economic reasons across the country in April, and the second wave impacts in Victoria in August and September. It also shows the effects of more recent lockdowns, including the lockdown in Western Australia in the first week of February.
+Chart 9 shows the proportion of employed people in each state and territory who worked zero hours for economic reasons.
+For further information, email .

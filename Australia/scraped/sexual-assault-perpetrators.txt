@@ -1,0 +1,402 @@
+Date:
+2022-02-02
+Article Title:
+ Sexual Assault - Perpetrators
+
+Article Content:
+  97% of sexual assault offenders proceeded against by police were male
+  27% of sexual assault offenders were proceeded against by police more than once in a 12 month period (for any offence)
+  94% of police proceedings against sexual assault offenders led to a court action
+  53% of sexual assault defendants were finalised in a Higher Criminal Court
+  76% of sexual assault defendants with a guilty outcome in Higher Criminal Courts were sentenced to custody in a correctional institution
+  For men, the sexual assault imprisonment rate steadily increased from 35.7 prisoners per 100,000 adult men in 2013, to 51.7 in 2019
+This article is the third in a new series exploring the nature and prevalence of sexual assault, sexual abuse, and sexual harassment in Australia. The first article, , focused on the experiences of sexual assault and sexual abuse victims. The second article, , focused on the prevalence and characteristics of sexual harassment.
+This third article examines the characteristics of sexual assault perpetrators and their outcomes in the criminal justice system. It brings together data collected through the Australian Bureau of Statistics' (ABS) Recorded Crime – Offenders, the Criminal Courts, and the Prisoners in Australia statistical collections.
+Within all three collections, sexual assault is defined as physical contact, or intent of contact, of a sexual nature directed towards another person where that person does not give consent, gives consent as a result of intimidation or deception, or consent is proscribed (i.e. the person is legally deemed incapable of giving consent because of youth, temporary/permanent (mental) incapacity or there is a familial relationship). This offence category is  subdivision 031 within division 03 Sexual assault and related offences.
+For more definitions of the terms used throughout the article, refer to the Glossary section.
+Header 3: Recorded Crime – Offenders
+Header 3: Criminal Courts
+Header 3: Prisoners in Australia
+Data from the Recorded Crime – Offenders collection provides statistics about the number and characteristics of alleged offenders aged 10 years and over who have been proceeded against by police during a 12 month financial year reference period. The Recorded Crime – Offenders statistics presented in this article cover the period 2010 11 to 2019 20.
+For more information about the collection methodology, refer to .
+Data from the Criminal Courts collection provides statistics about defendants aged 10 years and over finalised in the criminal jurisdictions of the Higher (Supreme and Intermediate), Magistrates', and Children's Courts across all Australian states and territories. The Criminal Courts statistics presented in this article cover the period 2010 11 to 2019 20.
+For more information about the collection methodology, refer to .
+Data collected in the Prisoner Census provides statistics on all persons serving time (whether on remand or sentenced) in an adult prison, under the supervision of state and territory corrective service agencies. The Prisoner Census is conducted on 30 June every year. The Prisoners statistics presented in this article cover the period 2010 to 2019.
+For more information about the collection methodology, refer to .
+Header 4: Sexual assault offenders recorded by police
+Header 4: Sexual assault defendants finalised in Criminal Courts
+Header 4: Sexual assault prisoners in the custody of adult corrective services
+Over the period 2010 11 to 2019 20:
+Over the period 2010 11 to 2019 20, a total of 46,131 sexual assault defendants were finalised across all Criminal Courts (excluding transfers to other court levels). Of these:
+The proportion of defendants whose case was finalised through a court adjudication (guilty outcome or acquittal), transfer to other court level, or through the case being withdrawn by the prosecution, varied by court level:
+The proportion of defendants with a guilty outcome who received a custodial sentence varied by court level:
+Over the period 2010 to 2019, as a time series average:
+  97% of sexual assault offenders proceeded against by police were male
+  27% were proceeded against by police more than once in a 12 month period (for any offence)
+  94% of police proceedings against sexual assault offenders were through a court action
+  For males, the sexual assault offender rate varied between a low of 43.9 offenders per 100,000 males in 2012 13, and a high of 54.6 in 2017 18
+  53% (24,580) were finalised in a Higher Criminal Court
+  36% (16,742) were finalised in a Magistrates’ Criminal Court
+  10% (4,811) were finalised in a Children’s Criminal Court
+  Higher Criminal Courts – adjudicated outcome (79%), withdrawn by the prosecution (20%)
+  Magistrates’ Criminal Courts – adjudicated outcome (29%), transfer to other court level (55%), withdrawn by the prosecution (16%)
+  Children’s Criminal Courts – adjudicated outcome (56%), transfer to other court level (19%), withdrawn by the prosecution (23%)
+  Higher Criminal Courts – 90% received a custodial sentence
+  Magistrates’ Criminal Courts – 42% received a custodial sentence
+  Children’s Criminal Courts – 27% received a custodial sentence
+  99% of sexual assault prisoners were male
+  80% of sexual assault prisoners were born in Australia
+  32% of sexual assault prisoners had been imprisoned previously (for any offence)
+  For men, the sexual assault imprisonment rate steadily increased from 35.7 prisoners per 100,000 adult men in 2013 to 51.7 in 2019
+Header 5: Age of sexual assault offenders proceeded against by police
+Over the period 2010 11 to 2019 20, police agencies recorded:
+  51,875 male sexual assault offenders, with a median age of 34 years
+  1,609 female sexual assault offenders, with a median age of 26 years
+Header 6: Number of times proceeded against within the reference period
+Of the 6,710 sexual assault offenders between the ages of 10 and 17 (youth offenders) proceeded against by police over the period 2010 11 to 2019 20:
+Of the 39,938 sexual assault offenders aged 18 years and over proceeded against by police over the period 2010 11 to 2019 20:
+  67% were proceeded against once in a 12 month period
+  14% were proceeded against twice in a 12 month period
+  20% were proceeded against three or more times in a 12 month period
+  The average number of times proceeded against in a 12 month period was 2.1
+  75% were proceeded against once in a 12 month period
+  14% were proceeded against twice in a 12 month period
+  11% were proceeded against three or more times in a 12 month period
+  The average number of times proceeded against in a 12 month period was 1.6
+Over the period 2010 11 to 2019 20:
+Males
+Females
+  The male sexual assault offender rate varied between a low of 43.9 offenders per 100,000 males aged 10 years and over in 2012 13, and a high of 54.6 in 2017 18.
+  Males aged between 18 and 24 years had the highest sexual assault offender rate over the ten year period, reaching a high of 78.4 offenders per 100,000 males aged 18 to 24 years in 2015 16.
+  The male youth sexual assault offender rate declined from 71.2 offenders per 100,000 males aged 10 to 17 years in 2014 15 to 58.0 in 2019 20.
+  For females, the sexual assault offender rate varied between a low of 1.2 offenders per 100,000 females aged 10 years and over in 2012 13, and a high of 1.8 in 2015 16.
+Of the 6,722 police proceedings against sexual assault youth offenders between the ages of 10 and 17 over the period 2010 11 to 2019 20:
+Of the 40,927 police proceedings against adult sexual assault offenders aged 18 years and above over the period 2010 11 to 2019 20:
+  61% were court actions
+  39% were non court actions
+  99% were court actions
+  Less than 1% were non court actions
+Header 10: Rate of sexual assault defendants finalised
+Over the period 2010 11 to 2019 20, a total of 46,131 sexual assault defendants were finalised across all Criminal Courts (excluding transfers to other court levels). Of these:
+  53% (24,580) were finalised in a Higher Criminal Court
+  36% (16,742) were finalised in a Magistrates’ Criminal Court
+  10% (4,811) were finalised in a Children’s Criminal Court
+Over the period 2010 11 to 2019 20:
+  For males, the rate of sexual assault defendants finalised (excluding transfers to other court levels) varied between 38.8 defendants per 100,000 males aged 10 years and over in 2013 14, and 47.8 in 2017 18.
+  For females, the rate of sexual assault defendants finalised (excluding transfers to other court levels) remained stable at around one defendant per 100,000 females aged 10 years and over.
+The rate of sexual assault defendants finalised varied by age group and was consistently the highest for persons aged 18 to 24 years over the entire ten year time series.
+Header 13: Characteristics of sexual assault defendants finalised in Higher Criminal Courts
+Header 13: Method of finalisation in Higher Criminal Courts
+Of the 24,580 sexual assault defendants finalised in Higher Criminal Courts over the period 2010 11 to 2019 20 (excluding transfers to other court levels):
+  98% were male
+  The median age of defendants was 40 years
+  Less than 1% were aged between 10 and 17 years
+  17% were between 18 and 24 years of age
+  21% were between 25 and 34 years of age
+  21% were between 35 and 44 years of age
+  18% were between 45 and 54 years of age
+  23% were aged 55 years and over
+Of the 24,635 sexual assault defendants finalised in Higher Criminal Courts over the period 2010 11 to 2019 20 (including transfers to other court levels):
+  79% had an adjudicated outcome (found guilty or acquitted by the court)
+  20% had their matter(s) withdrawn by the prosecution
+  Less than 1% were transferred to another court level
+Header 15: Adjudicated outcomes in Higher Criminal Courts
+Of the 19,353 adjudicated sexual assault defendants finalised in Higher Criminal Courts over the period 2010 11 to 2019 20:
+  75% had a guilty outcome, including 54% who pleaded guilty and 21% who were found guilty by the court
+  25% were acquitted
+Header 17: Sentencing outcomes in Higher Criminal Courts
+Of the 14,519 sexual assault defendants who had a guilty outcome in Higher Criminal Courts over the period 2010 11 to 2019 20:
+90% received a custodial order, including:
+10% received a non custodial order, including:
+The proportion of sexual assault defendants with a guilty outcome in Higher Criminal Courts who were sentenced to custody in a correctional institution increased from 71 per cent in 2010 11 to 80 per cent in 2019 20.
+  76% who were sentenced to custody in a correctional institution
+  13% who received a fully suspended sentence
+  1.9% who were sentenced to custody in the community
+  6.8% who received a community supervision or work order
+  Less than 1% who received a monetary order
+  2.4% who received another non custodial order
+Compared with defendants who were found guilty by the court, defendants who pleaded guilty were:
+  Less likely to be sentenced to custody in a correctional institution (71% compared with 89%)
+  More likely to receive a fully suspended sentence (15% compared with 5.7%)
+  More likely to receive a community supervision or work order (8.5% compared with 2.1%)
+Header 20: Sentence length in Higher Criminal Courts
+Of the 10,327 sexual assault defendants who were sentenced to custody in a correctional institution over the period 2010 11 to 2019 20 and who had a known sentence length (excluding life and indeterminate imprisonment):
+  The median sentence length was 45 months
+  2.1% received a sentence of under 6 months
+  5.0% received a sentence of 6 to less than 12 months
+  15% received a sentence of 1 to less than 2 years
+  40% received a sentence of 2 to less than 5 years
+  30% received a sentence of 5 to less than 10 years
+  6.9% received a sentence of 10 years and over
+The median sentence length was lower for those who pleaded guilty compared with those who were found guilty by the court, for the following sentencing outcomes:
+  Custody in a correctional institution (39 months compared with 54 months)
+  Custody in the community (21 months compared with 34 months)
+Header 23: Characteristics of sexual assault defendants finalised in Magistrates’ Criminal Courts
+Header 23: Method of finalisation in Magistrates’ Criminal Courts
+Of the 16,742 sexual assault defendants finalised in Magistrates’ Criminal Courts over the period 2010 11 to 2019 20 (excluding transfers to other court levels):
+  98% were male
+  The median age of defendants was 40 years
+  Less than 1% were aged between 10 and 17 years
+  16% were between 18 and 24 years of age
+  23% were between 25 and 34 years of age
+  22% were between 35 and 44 years of age
+  17% were between 45 and 54 years of age
+  22% were aged 55 years and over
+Of the 36,811 sexual assault defendants finalised in Magistrates’ Criminal Courts over the period 2010 11 to 2019 20 (including transfers to other court levels):
+  55% were transferred to another court level
+  29% had an adjudicated outcome (found guilty or acquitted by the court)
+  16% had their matter(s) withdrawn by the prosecution
+Header 25: Adjudicated outcomes in Magistrates’ Criminal Courts
+Of the 10,516 adjudicated sexual assault defendants finalised in Magistrates’ Criminal Courts over the period 2010 11 to 2019 20:
+  80% had a guilty outcome, including 62% who pleaded guilty and 17% who were found guilty by the court
+  20% were acquitted
+Header 27: Sentencing outcomes in Magistrates’ Criminal Courts
+Of the 8,391 sexual assault defendants who had a guilty outcome in Magistrates’ Criminal Courts over the period 2010 11 to 2019 20:
+42% received a custodial order, including:
+58% received a non custodial order, including:
+The proportion of sexual assault defendants with a guilty outcome in Magistrates’ Criminal Courts who were sentenced to custody in a correctional institution increased from 24 per cent in 2010 11 to 34 per cent in 2019 20.
+  26% who were sentenced to custody in a correctional institution
+  14% who received a fully suspended sentence
+  3.1% who were sentenced to custody in the community
+  18% who received a community supervision or work order
+  16% who received a monetary order
+  24% who received another non custodial order
+Compared with defendants who were found guilty by the court, defendants who pleaded guilty were:
+  Less likely to be sentenced to custody in a correctional institution (25% compared with 29%)
+  Twice as likely to receive a community supervision or work order (20% compared with 10%)
+Header 30: Sentence length in Magistrates’ Criminal Courts
+Of the 1,927 sexual assault defendants who were sentenced to custody in a correctional institution over the period 2010 11 to 2019 20 and who had a known sentence length (excluding life and indeterminate imprisonment):
+  The median sentence length was 12 months
+  22% received a sentence of under 6 months
+  27% received a sentence of 6 to less than 12 months
+  42% received a sentence of 1 to less than 2 years
+  8.7% received a sentence of 2 to less than 5 years
+The median sentence length was lower for those who pleaded guilty compared with those who were found guilty by the court, for the following sentencing outcomes:
+  Custody in a correctional institution (10 months compared with 12 months)
+  Fully suspended sentence (9 months compared with 12 months)
+Header 33: Characteristics of sexual assault defendants finalised in Children’s Criminal Courts
+Header 33: Method of finalisation in Children’s Criminal Courts
+Of the 4,811 sexual assault defendants finalised in Children’s Criminal Courts over the period 2010 11 to 2019 20 (excluding transfers to other court levels):
+  98% were male
+  The median age of defendants was 17 years
+  70% were between 10 and 17 years of age
+  30% were aged 18 years and over
+Of the 5,951 sexual assault defendants finalised in Children’s Criminal Courts over the period 2010 11 to 2019 20 (including transfers to other court levels):
+  56% had an adjudicated outcome (found guilty or acquitted by the court)
+  23% had their matter(s) withdrawn by the prosecution
+  19% were transferred to another court level
+Header 35: Adjudicated outcomes in Children’s Criminal Courts
+Of the 3,343 adjudicated sexual assault defendants finalised in Children’s Criminal Courts over the period 2010 11 to 2019 20:
+  83% had a guilty outcome, including 70% who pleaded guilty and 10% who were found guilty by the court
+  18% were acquitted
+Header 37: Sentencing outcomes in Children’s Criminal Courts
+Of the 2,760 sexual assault defendants who had a guilty outcome in Children’s Criminal Courts over the period 2010 11 to 2019 20:
+27% received a custodial order, including:
+73% received a non custodial order, including:
+  14% who were sentenced to custody in a correctional institution
+  8.4% who received a fully suspended sentence
+  4.5% who were sentenced to custody in the community
+  42% who received a community supervision or work order
+  1.8% who received a monetary order
+  30% who received another non custodial order
+Compared with defendants who were found guilty by the court, defendants who pleaded guilty were:
+  Half as likely to be sentenced to custody in a correctional institution (13% compared with 25%)
+  Half as likely to receive a fully suspended sentence (7.5% compared with 16%)
+  Twice as likely to receive another non custodial order (31% compared with 16%)
+Header 40: Sentence length in Children’s Criminal Courts
+Of the 342 sexual assault defendants who were sentenced to custody in a correctional institution over the period 2010 11 to 2019 20 and who had a known sentence length (excluding life and indeterminate imprisonment):
+  The median sentence length was 12 months
+  20% received a sentence of under 6 months
+  21% received a sentence of 6 to less than 12 months
+  36% received a sentence of 1 to less than 2 years
+  20% received a sentence of 2 to less than 5 years
+  1.5% received a sentence of 5 to less than 10 years
+The median sentence length was lower for those who pleaded guilty compared with those who were found guilty by the court, for the following sentencing outcomes:
+  Custody in a correctional institution (12 months compared with 14 months)
+  Fully suspended sentence (10 months compared with 12 months)
+Of sexual assault prisoners who were in custody on 30 June:
+By age:
+  99% were male
+  80% were born in Australia
+  32% had been imprisoned previously (includes imprisonment for any offence)
+  The median age of sexual assault prisoners was 44.3 years
+  The median age of sexual assault prisoners increased from 42.6 in 2010 to 45.4 in 2019
+  8% were between 18 and 24 years of age
+  20% were between 25 and 34 years of age
+  24% were between 35 and 44 years of age
+  23% were between 45 and 54 years of age
+  26% were aged 55 years and over
+Over the period 2010 to 2019:
+  For men, the sexual assault imprisonment rate steadily increased from 35.7 prisoners per 100,000 adult men in 2013 to 51.7 in 2019
+  For women, the sexual assault imprisonment rate has remained stable at less than one prisoner per 100,000 adult women
+Header 45: Aggregate sentence length
+[1] Median sentence length data (both aggregate sentence and expected time to serve) represent only prison sentences being served by prisoners on the night of 30 June of the reference year. They are not representative of all prison sentences imposed by the Criminal Courts. The median sentence length of prison sentences being served by prisoners on the night of 30 June will be longer compared to the median sentence length of all prison sentences handed down by the Criminal Courts. This is a consequence of the fact that prisoners sentenced to longer prison terms are more likely to be enumerated in the Prisoner Census. Prisoners that are sentenced to shorter prison terms over the course of a financial year are more likely to have completed their term by June 30, whilst prisoners that are sentenced to longer prison terms are more likely to remain in prison (including prisoners sentenced to imprisonment in previous financial years who are still serving their term).
+Of sentenced sexual assault prisoners who were in custody on 30 June:
+Nearly two thirds of prisoners were serving an aggregate sentence length of between 5 and 15 years:
+  The median aggregate sentence length was 7.4 years
+  The median aggregate sentence length increased from 7 years in 2010 to 8 years in 2019
+  2.4% were serving less than a year
+  4.2% were serving between 1 and less than 2 years
+  19% were serving between 2 and less than 5 years
+  41% were serving between 5 and less than 10 years
+  21% were serving between 10 and less than 15 years
+  6.9% were serving between 15 and less than 20 years
+  3.4% were serving 20 years or more
+Header 47: Expected time to serve
+Of sentenced sexual assault prisoners who were in custody on 30 June:
+Over two thirds of prisoners had an expected time to serve of between 2 and 10 years:
+  The median expected time to serve was 5.1 years
+  The median expected time to serve increased from 5 years in 2010 to 5.3 years in 2019
+  5.3% were expected to serve less than a year
+  10% were expected to serve between 1 and less than 2 years
+  32% were expected to serve between 2 and less than 5 years
+  36% were expected to serve between 5 and less than 10 years
+  12% were expected to serve between 10 and less than 15 years
+  2.8% were expected to serve between 15 and less than 20 years
+  Less than 1% were expected to serve 20 years or more
+Header 49: Age
+Header 49: Court action
+Header 49: Median
+Header 49: Method of proceeding
+Header 49: Non court action
+Header 49: Offender
+Header 49: Offender rate
+Header 49: Police proceeding
+Header 49: Principal offence
+Header 49: Sexual assault
+Header 49: Sexual assault offender
+Header 49: Youth offender
+Calculated at the earliest date a person was proceeded against by police during the reference period.
+A type of legal action initiated by police against an offender. Court actions largely comprise the laying of charges against an alleged offender that must be answered in court. Offenders may be taken into custody, granted bail, or issued with a summons for these charges pending an appearance in court.
+The middle value in a distribution when the values are arranged in ascending or descending order.
+The type of legal action (court or non court) initiated by police against a person as a result of an investigation of an offence(s). Offenders with multiple methods of proceeding are assigned a principal method of proceeding, which is the main legal action (court or non court) initiated by police for an offender based on the hierarchy of the method of proceeding classification (normally the method of proceeding associated with the principal offence).
+Method of proceeding data for Western Australia and the Northern Territory are not of sufficient quality for national reporting and are excluded from the national figures presented in this article.
+A type of legal action initiated by police against an offender. Non court actions comprise legal actions which do not require an appearance in court (e.g. informal or formal cautions/warnings and conferences).
+A person aged 10 years or over who is proceeded against and recorded by police for one or more criminal offences. An offender is only counted once during the reference period irrespective of the number of offences committed or the number of separate occasions that police proceeded against that offender.
+Sexual assault offender rates are expressed as the number of offenders with a principal offence of sexual assault who were proceeded against in a 12 month period, per 100,000 of the relevant population aged 10 years and over. Offender rates are useful for examining changes over time and enable comparisons of offending based on variables including sex and age.
+A legal action initiated against an alleged offender for an offence(s). Police proceedings represent a count for each separate occasion on which police initiate a legal action against an offender. Each proceeding is classified to a principal offence and principal method of proceeding. It does not represent a count of offences, as multiple offences can occur within a proceeding.
+Number of police proceedings data for Western Australia are not of sufficient quality for national reporting and are excluded from the national figures presented in this article.
+The offence category, based on the , which describes the most serious offence type for which a person has been proceeded against by police during the reference period. The principal offence is determined by the ranking of offences in the .
+Physical contact, or intent of contact, of a sexual nature directed towards another person where that person does not give consent, gives consent as a result of intimidation or deception, or consent is proscribed (i.e. the person is legally deemed incapable of giving consent because of youth, temporary/permanent (mental) incapacity or there is a familial relationship). This offence category is  subdivision 031 within division 03 Sexual assault and related offences.
+An offender with a principal (most serious) offence of sexual assault.
+An alleged offender aged between 10 and 17 years proceeded against by police during the reference period.
+Header 50: Acquitted
+Header 50: Adjudicated outcome
+Header 50: Age
+Header 50: Case
+Header 50: Children’s Court
+Header 50: Community supervision or work order
+Header 50: Court level
+Header 50: Custodial order
+Header 50: Custody in a correctional institution
+Header 50: Custody in the community
+Header 50: Defendant
+Header 50: Finalised defendant
+Header 50: Fully suspended sentence
+Header 50: Guilty outcome
+Header 50: Higher Court
+Header 50: Magistrates’ Court
+Header 50: Median
+Header 50: Method of finalisation
+Header 50: Monetary order
+Header 50: Non custodial order
+Header 50: Other non custodial order
+Header 50: Principal offence
+Header 50: Principal proven offence
+Header 50: Principal sentence
+Header 50: Sentence
+Header 50: Sexual assault
+Header 50: Sexual assault defendant
+Header 50: Transfer to another court level
+Header 50: Withdrawn by prosecution
+A determination made by the court that the defendant is not guilty of a criminal charge(s) due to sufficient evidence to demonstrate the defendant is not guilty, insufficient evidence presented by the prosecution (to infer guilt), or lack of criminal responsibility (i.e. mental illness or condition at the time the defendant was alleged to have committed an offence). Includes:
+A court outcome concluded through a judgement or decision by the court as to whether or not the defendant is guilty of the charge(s) against them. Includes:
+A defendant's age at the date their matter(s) was finalised in the criminal court.
+One or more criminal charges, relating to one or more individuals, which are heard together by the court as one unit of work.
+A lower court level which is presided over by a judge/magistrate and has the jurisdiction to hear cases and sentence criminal charges against persons (generally) aged less than 18 years at the time the offence occurred. May also determine some minor indictable offences and conduct committal proceedings in relation to young people who have been charged with major indictable offences.
+An order requiring a person to perform work within the community or report to a person nominated by the court (e.g. a justice official). Includes:
+The level (of court) in which a defendant's case(s) was finalised. Court levels can be distinguished from one another based on the extent of their legal powers. Court level has been grouped into the following three categories:
+A sentence that restricts the liberty of a defendant for a specified period of time (e.g. detainment in an institution or home, or regular supervision by corrections personnel while residing in the community). Includes custody in a correctional institution, custody in the community, and fully suspended sentence.
+Sentences that require a person to be detained within a facility, built especially for the purpose of incarceration. Includes:
+An alternative to full time imprisonment, requiring a person to have restricted liberty for the duration of their sentence which is carried out in an approved community location under strict supervision. Includes:
+A person against whom one or more criminal charges have been laid which are heard together as one unit of work by the court.
+A person for whom all charges relating to the one case have been formally completed (within the reference period) so that they cease to be an item of work to be dealt with by the court.
+A sentence which releases a person into the community, subject to them being of good behaviour for the length of the sentence. Includes:
+A category comprising defendants who pleaded guilty, were found guilty by the court, or were found guilty (in the defendant’s absence). Includes:
+A court presided over by a judge which has the jurisdiction to trial and sentence indictable (i.e. more serious) criminal matters. Includes intermediate court (District or County Court) and the Supreme Court.
+A lower court presided over by a magistrate which has the jurisdiction to hear and sentence summary (i.e. less serious) offences and to conduct preliminary (committal) hearings for indictable offences.
+The middle value in a distribution when the values are arranged in ascending or descending order.
+The method in which a criminal charge(s) for a defendant has been completed (finalised) by the court, so that it ceases to be an item of work for that particular court level.
+An order that requires a person pay a sum of money, usually in the form of a fine, or as recompense to victims. Includes:
+A sentence that does not involve being held in custody (e.g. fines, community service orders, good behaviour bonds). Includes community supervision or work orders, monetary orders, and other non custodial orders.
+Other non custodial orders not described elsewhere. Includes:
+The most serious offence (based on ) for a finalised defendant, based upon how the defendant’s offence(s) was finalised and the hierarchy of the .
+Principal proven offence refers to the offence associated with the ‘most serious’ sentence type (i.e. principal sentence) with the largest sentence length or fine amount (i.e. quantum). This is usually but not always the principal offence for the defendant.
+The most serious sentence dealt to a defendant who has been found guilty, based on the hierarchy of the . Sentence information presented in this article refers to the principal sentence type.
+A penalty or order imposed by a court upon a defendant who is found guilty of a criminal offence.
+Physical contact, or intent of contact, of a sexual nature directed towards another person where that person does not give consent, gives consent as a result of intimidation or deception, or consent is proscribed (i.e. the person is legally deemed incapable of giving consent because of youth, temporary/permanent (mental) incapacity or there is a familial relationship). This offence category is  subdivision 031 within division 03 Sexual assault and related offences.
+A defendant with a principal (most serious) offence of sexual assault.
+A court outcome ordering that a criminal charge(s) be transferred to another court level (within the same state/territory) to be adjudicated and/or sentenced.
+The formal withdrawal of a criminal charge(s) by the prosecution (i.e. Police, Director of Public Prosecutions, Attorney General, or another initiating agency). Includes Nolle Prosequi and No True Bill.
+  Acquitted by the court   A determination made by the court that the defendant is not guilty, or is free from a criminal charge(s).
+  Not guilty by reason of mental illness/condition   A determination by the court that the defendant is not guilty of a criminal charge(s) by reason of mental illness/condition.
+  No case to answer at committal   A determination by the court (at a committal hearing) that there is insufficient evidence to commit the defendant to a Higher Court for trial.
+  Charge not proven (not elsewhere classified)   An outcome of criminal proceedings whereby a criminal charge(s) has not been proven, for reasons not described elsewhere. For example, where the charge is struck out, or dismissed by a member of the judiciary due to delays in proceedings or insufficient evidence provided by the prosecution.
+  Guilty outcome
+  Acquitted
+  Community service orders   An order requiring a person to undertake a specified number of hours of unpaid work for the community.
+  Probation orders   An order requiring a person to report periodically to an authorised officer. Excludes orders that contain periods of restricted liberty.
+  Treatment orders   An order requiring a person to undertake a specified rehabilitation program aimed at behavioural or attitudinal modification e.g. drug or alcohol treatment programs.
+  Referral to conference   An order requiring a person to attend a group, family or community conference.
+  Higher Court (Intermediate and Supreme Court)
+  Magistrates' Court (Court of Summary Jurisdiction)
+  Children's Court
+  Life and indeterminate imprisonment   A sentence requiring a person to serve time in custody for a minimum time, specified by the court or other administrative body (e.g. Parole Board).
+  Imprisonment   A sentence requiring a person to be detained within a facility built especially for the purpose of incarceration.
+  Periodic detention   A sentence requiring a person to be in custody for two consecutive days in a week (e.g. weekends) and remain at liberty during the rest of the week.
+  Juvenile detention   A sentence requiring a juvenile person to be detained within a facility built especially for the purpose of incarceration.
+  Intensive corrections orders   A sentence, served in the community, that places restrictions on the liberty of the person and requires them to report to a correctional services officer on a regular basis for a specified period of time.
+  Home detention   A sentence requiring a person to be confined to their home or another approved place of residence for the duration (or part) of the sentence of imprisonment. Involves restrictions to liberty and strict supervision (e.g. electronic monitoring).
+  Other custody in the community (not elsewhere classified)   A sentence, served in the community, which restricts the liberty of a person for a specified period of time, while they reside within an approved location   which has not been described elsewhere.
+  Fully suspended adult sentence   A sentence which releases a person into the community, subject to them being of good behaviour for the length of the sentence. Excludes fully suspended sentences that have added conditions other than good behaviour.
+  Fully suspended juvenile sentence   A sentence which releases a juvenile person into the community, subject to them being of good behaviour for the length of the sentence.
+  Guilty finding by the court   An outcome of criminal proceedings whereby the court (i.e. Jury, Judge, Magistrate etc.) has determined that the defendant is guilty of a criminal charge(s).
+  Guilty plea by defendant   An admission of guilt by the defendant in relation to a criminal charge(s).
+  Guilty ex parte   A determination of guilt made by the court, in the absence of the defendant, based on the evidence presented in relation to a criminal charge(s).
+  Fine   A monetary penalty requiring a person to pay a sum of money to the Crown.
+  Orders as recompense to victim   An order requiring a person to pay a sum of money for a purpose, other than a fine, usually in relation to reparation to a victim. Includes restitution and compensation orders.
+  Other monetary orders (not elsewhere classified)   Other monetary orders, not described elsewhere, such as vehicle impoundment costs.
+  Good behaviour bonds   An order requiring a person to be of good behaviour for a specified period of time. May include additional conditions that must be obeyed for the term of the order. Includes Recognisance orders – a condition or obligation undertaken by a defendant whereby they acknowledge, before the court, that they owe a personal debt to the state.
+  Licence disqualification/suspension/amendment   An order relating to the cancellation/suspension or amendment of a licence/permit, or the review, or modification of conditions associated with it.
+  Forfeiture of property order   An order that deprives a person of his/her property as a penalty for some act or omission.
+  Nominal penalties   An order which releases a person without a specific penalty, which may or may not have conditions attached. Includes discharge/dismissal and Rising of Court, in which a defendant who has a guilty outcome for a criminal charge(s) is sentenced to remain in custody until the final adjournment of the court for the term, usually only momentarily.
+  Other non custodial orders (not elsewhere classified)   Other non custodial orders that have not been described elsewhere.
+Header 51: Aggregate sentence length
+Header 51: Expected time to serve
+Header 51: Imprisonment rate
+Header 51: Indeterminate sentences
+Header 51: Life with minimum
+Header 51: Median
+Header 51: Most serious offence/charge
+Header 51: Prior imprisonment
+Header 51: Prisoner
+Header 51: Sentenced prisoner
+Header 51: Sexual assault
+Header 51: Sexual assault prisoner
+The longest period that the convicted prisoner may be detained for the current sentenced offences in the current episode. This is also the maximum sentence length for a convicted prisoner for the current episode.
+The period of imprisonment that a convicted prisoner is expected to serve. In most cases this refers to the time between the date of reception for this episode and the earliest date of release. This is also the minimum sentence length for a convicted prisoner for the current episode.
+Sexual assault imprisonment rates are expressed as the number of prisoners with a most serious offence/charge of sexual assault who were in custody on 30 June, per 100,000 of the adult population. Imprisonment rates are useful for examining changes over time and enable comparisons of imprisonment based on variables including sex and age.
+Types of sentences where persons are sentenced to life imprisonment with no prescribed minimum time to serve. This does not necessarily mean, however, that the person will be held in custody for the term of their natural life. Includes:
+A type of sentence where persons are sentenced to life imprisonment, where a minimum time to serve in custody has been specified by the court.
+The middle value in a distribution when the values are arranged in ascending or descending order.
+For unsentenced prisoners: the most serious offence/charge is determined by applying the . The NOI is a tool which provides an ordinal ranking of the offence categories in the  according to perceived seriousness in order to determine a principal offence.
+For sentenced prisoners: the most serious offence/charge is the offence for which the prisoner has received the longest sentence in the current episode for a single count of the offence, except for Tasmania as the longest sentence cannot be attributed to a single offence, and the most serious offence/charge is instead determined by applying the NOI.
+Refers to prisoners who are known to have previously been imprisoned under sentence (for any offence) in an adult prison. Prior sentence of periodic detention is included as prior imprisonment. Prisoners who have had previous adult imprisonment in another state or territory may not be counted as having prior imprisonment.
+A person held in custody. For the purposes of the Prisoner Census, prisoners are those whose imprisonment is the responsibility of a corrective services agency.
+A prisoner who has received a term of imprisonment from a court. This includes offenders who have been given an indeterminate sentence or custodial order, those who have received a life sentence, and detainees on periodic detention prior to 2017.
+Physical contact, or intent of contact, of a sexual nature directed towards another person where that person does not give consent, gives consent as a result of intimidation or deception, or consent is proscribed (i.e. the person is legally deemed incapable of giving consent because of youth, temporary/permanent (mental) incapacity or there is a familial relationship). This offence category is  subdivision 031 within division 03 Sexual assault and related offences.
+A prisoner with a most serious offence/charge of sexual assault.
+ 
+  Indeterminate – life
+  Indeterminate – Governor's/HM Pleasure
+  Indeterminate – subject to ministerial/administrative decision

@@ -1,0 +1,11 @@
+Date:
+2024-04-17
+Article Title:
+The Daily — Labour market outcomes for college and university graduates
+Article Content:
+Released: 2024 04 17
+Today, Statistics Canada is releasing data on labour market outcomes for college and university graduates for the graduating classes of 2010 to 2020. This release includes information on the median employment income by educational qualification, field of study, gender, age group and status of student in Canada, and is available at the national, provincial and territorial levels. 
+The data used for the calculation of graduate outcome indicators are derived from the Postsecondary Student Information System integrated with the T1 Family File and the Administrative Personal Income Masterfile.
+The technical reference guide for this release, entitled "Labour market outcomes for college and university graduates, 2010 to 2020" (37200001), is now available.
+The data visualization tool, entitled "Labour market outcomes for college and university graduates: Interactive tool," is also available, as part of the series Statistics Canada ― Data Visualization Products (Catalogue number71 607 X).
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

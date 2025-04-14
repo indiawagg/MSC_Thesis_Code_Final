@@ -1,0 +1,21 @@
+Date:
+2021-02-24
+Article Title:
+ Labour Price Index: Changing labour costs through COVID-19, Dec 2020
+
+Article Content:
+Following an increase in the cost of labour between June and September quarters 2020, based mainly around the end of payroll tax waivers, the Labour Price Index (LPI) rose a further 4.5% in December quarter 2020. While labour costs are increasing, they remain 5.9% lower than the pre COVID levels recorded in March quarter 2020.
+The growth in the LPI was predominantly driven by the reduction in the number of jobs eligible for the Jobkeeper subsidy, changes in the JobKeeper wage subsidy itself and the winding back of temporary wage reductions first experienced in June quarter 2020.
+The private sector saw a rise in labour costs of 6.0% while the public sector recorded a rise of 0.2% in December quarter 2020. Private sector growth was driven mainly by the factors mentioned above, while the public sector was influenced by wage freezes.
+Private sector labour cost increases in the December quarter 2020 were primarily driven by changes in the Wages component, with the other components contributing minimally (see Figure 1). When considering that improved business conditions have seen changes in the eligibility of businesses for wage subsidies, coupled with the move to a two tier payment schedule, the reduction in fiscal support has been a main contributor to the increase in businesses wage costs.
+Labour costs were affected differently across the states and territories by the introduction of fiscal programs in responding to the COVID 19 pandemic. The state and territory governments treatment of payroll tax waivers and business eligibility for wage subsidies has meant that the reduction in labour costs has been varied across the jurisdictions. 
+The largest falls in the LPI were recorded in Queensland and Tasmania over the June quarter, with both states recording a drop of 20%. Payroll tax waivers ceasing through September quarter and wage based increases recorded in December quarter show labour costs returning almost halfway back to pre COVID index levels. 
+Most other states and territories have seen labour costs move closer to pre COVID index levels.
+Figure 2, and Figure 3 below, display the difference in the index between each quarter listed and March quarter 2020. The smaller points changes in December indicate that the index has moved back towards pre COVID levels (ie. December quarter 2020   March quarter 2020)
+The industries most affected by the pandemic have seen their labour costs fall the furthest and are the slowest to return to pre pandemic levels. While the largest increases in labour costs over December quarter 2020 were recorded in the Other services (15.6%), Accommodation and food services (13.0%), and Arts and recreation services (12.9%) industries, these were returning from large falls in the LPI in June quarter 2020. As shown in Figure 3 labour costs for these industries remain the furthest from their pre COVID levels.
+The two industries least impacted by COVID 19 business restrictions and therefore less likely to access fiscal support (Electricity, gas, water and waste services and Mining) have seen labour costs return to pre COVID index levels in the December quarter.
+In response to the COVID 19 pandemic the Commonwealth government implemented the JobKeeper wage subsidy while state and territory governments introduced measures through payroll taxes.
+The JobKeeper wage subsidy initially provided a fixed $1,500 per employee per fortnight for eligible businesses and employees. ()
+State and territory governments introduced changes to payroll taxes, deferring or waiving payments for a fixed period of time as well as changing payment thresholds.
+The scope of the Wage Price Index (WPI) survey does not include subsidies and own account workers (self employed). To assist with understanding the impacts on employing business labour costs, from the JobKeeper subsidy and payroll tax changes, the ABS reconstructed the Labour Price Index (LPI) based on data collected from the WPI survey. The LPI represents the changes in the price of all labour costs including subsidies.  
+The LPI was last published in September quarter 2011 on a financial year basis. Where possible the same sources and methods have been used to construct a quarterly series. (see )

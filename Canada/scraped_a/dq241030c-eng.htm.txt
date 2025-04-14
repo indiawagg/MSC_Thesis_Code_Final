@@ -1,0 +1,15 @@
+Date:
+2024-10-30
+Article Title:
+The Daily — Energy consumption by the manufacturing sector, 2023
+Article Content:
+Released: 2024 10 30
+Energy consumption by the manufacturing sector decreased by 1.5% from 2022 to 2 148.9 petajoules in 2023. 
+For context, one petajoule equals approximately the amount of energy required to operate the Montréal subway system for one full year.
+Real sales for the manufacturing sector increased by 2.1% from 2022 to 2023, and the annual average capacity utilization rate rose 0.6% during this period. 
+In 2023, the top energy consumers were paper manufacturing (532.8 petajoules) and primary metal manufacturing (521.4 petajoules), which together accounted for almost half (49.1%) of all energy consumed by the manufacturing sector. Petroleum and coal product manufacturing (302.8 petajoules) and chemical manufacturing (258.6 petajoules) accounted for another 26.1% of energy consumption in the sector. 
+The consumption of energy in the manufacturing sector is not necessarily indicative of sales volumes. Despite making up close to half of energy consumption in 2023, paper manufacturing and primary metal manufacturing accounted for 10.8% of total real sales of goods manufactured (shipments).
+Natural gas and electricity, the most common sources of energy, are used in all manufacturing industries. 
+In 2023, 723.2 petajoules of natural gas were consumed, accounting for slightly over one third (33.7%) of the total energy used by the manufacturing sector. The largest consumers of natural gas were chemical manufacturing (160.7 petajoules) and primary metal manufacturing (135.3 petajoules), which together accounted for 40.9% of total natural gas consumed. Electricity accounted for 630.7 petajoules (29.3%) of total energy consumed by the manufacturing sector. Primary metal manufacturing (273.7 petajoules) and paper manufacturing (112.1 petajoules) were the largest electricity consumers, accounting for 61.2% of total electricity consumed. 
+Spent pulping liquor was consumed solely by paper manufacturing. Spent pulping liquor accounted for 9.9% (211.9 petajoules) of total energy consumed in 2023. Wood and wood waste, which were primarily used by wood product manufacturing and paper manufacturing, accounted for 8.3% (178.9 petajoules) of total energy consumed. Coals and cokes accounted for 8.2% (176.7 petajoules) of total energy consumed. Primary metal manufacturing, petroleum and coal product manufacturing, and non metallic mineral product manufacturing were the primary users of coals and cokes. Refinery fuel gas, mainly consumed by petroleum and coal product manufacturing, made up 6.5% (139.0 petajoules) of total energy consumed. All other energy sources combined accounted for the remaining 4.1% of total energy consumed. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

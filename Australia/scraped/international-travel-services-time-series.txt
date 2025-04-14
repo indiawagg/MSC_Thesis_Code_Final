@@ -1,0 +1,35 @@
+Date:
+2020-07-02
+Article Title:
+ International travel services time series
+
+Article Content:
+This article looks at the impact of the COVID 19 pandemic on time series for International Trade in Services.
+During the COVID 19 period, to maintain the quality and interpretability of ABS statistics, the ABS is reviewing and providing advice on a number of areas, including time series analysis.
+As is standard practice, the ABS decomposes time series into three components: trend, seasonal and irregular. The trend captures the medium to long term movements, the seasonal captures systematic calendar related effects and the irregular, short term non systematic fluctuations.
+This article focuses on the implications of COVID 19 for the seasonal adjustment of International Travel Services. Trend estimates for this series were suspended in April 2020 consistent with the ABS approach where the medium to long term impacts of extreme events are uncertain.
+Analysis of seasonally adjusted series allows users to better compare different months or quarters because the predictable influences of the calendar have been removed. This can be used, for example, to compare overseas visitor numbers in November and December, because seasonal adjustment removes the regular predictable increase in visitors over Christmas.
+To produce seasonally adjusted estimates, the ABS uses concurrent seasonal adjustment, which is reliable under normal circumstances. This means that the seasonal factors are re estimated as each new data point becomes available. During extreme, unusual events, such as COVID 19, many parts of the economy are seeing unusually large impacts, which in turn is adversely affecting the stability of the seasonal component between years.
+The ABS has previously announced that for time series showing significant and anticipated prolonged COVID 19 impacts the seasonal adjustment approach will be changed to forward factors. Forward factors prevent temporary impacts from distorting the seasonal component by estimating the seasonal component pre COVID 19 and projecting seasonal factors for the next year. Again, this assumes that the pre COVID 19 seasonal pattern continues.
+If the usual seasonal influences in a time series are significantly affected by the COVID 19 pandemic, it will reduce the appropriateness of seasonal factors based on the pre COVID 19 period and not provide useful interpretation of the short term behaviour in the time series. In this case, the original series provides more useful information for users on the short term changes.
+Movements in original time series are composed of changes in the long term behaviour, the seasonal pattern, and short term events. If a time series is dominated by seasonal movements, then users could mistakenly interpret predictable seasonality as an indicator of the long term direction of the series or the effect of a short term event.
+International travel restrictions have had an enormous impact on Australia’s overseas arrivals and departures (OADS). April 2020 OADS data (ABS cat log 3401.0) showed a 99.7% fall (to 2,250) in visitors arriving in Australia for short term trips. Australian residents returning from short term overseas trips fell 96.8% (to 17,000).
+With the likelihood that Australian travel restriction will be in place for several months, overseas arrivals and departures are not expected to vary significantly from month to month. Monthly OADS data are a primary input into the estimation of debits and credits of International Travel Services estimates.
+International Travel Services credits estimate the expenditure of non residents on travel services (e.g. accommodation, entertainment, sightseeing tours) while in Australia.
+International Travel service debits estimate the expenditure of Australian residents on travel services while overseas.
+On 4 June, the ABS advised users that it had moved to forward factors to seasonally adjust International Travel services to prevent temporary impacts from distorting the seasonal component of the series.
+Chart 1 shows the impact of COVID 19 travel restrictions on Australia’s credits of International travel services, with large declines in March and April 2020.
+The latest May data shows that credits of International Travel Services recorded:
+Credits of travel services have not been as severely affected by COVID related travel restriction as debits (see Chart 2). This is because the majority of international students had already arrived in Australia when travel restrictions were introduced.
+  a slight fall of $27 million in original terms; but
+  a small increase of $100 million in the seasonally adjusted data. 
+Australia’s Debits of International travel services have also recorded large declines (see Chart 2) due to COVID 19 related travel restrictions. Very few Australian residents are travelling overseas.
+In addition to substantially reducing inbound and outbound international travel, COVID restrictions may also have affected seasonal patterns. In these circumstances and with uncertainty about how long these impacts will continue, the original series for international travel services may provide more useful information for users on the short term changes in International Travel Services data.
+As a result, the ABS will focus commentary on the movements in the original series for international travel services from the May month publication onwards.
+Current ABS (and international practice) is that at least three years of data to assess whether a change in the seasonal pattern has occurred. Should COVID 19 result in a long term change to the seasonal pattern, revisions to these series may occur in the future. The ABS will consult with users on any future methods changes to seasonal adjustment and potential revisions.
+International travel services are a component of trade aggregates (such as the Balance on Goods and Services). Users may choose to adopt an unconventional approach to analysis of the headline seasonally adjusted aggregates and include the original series travel services estimates in place of the usual seasonally adjusted estimates. Caution should be exercised in using this approach as there is no evidence of a change in seasonal patterns as yet.
+Table 1 illustrates the differences in aggregate trade estimates when using the original Travel Services series in their calculation rather than seasonally adjusted data. The reason for the difference in the Balance of Goods and Services ( $395 m) estimates is primarily related to differences in the Travel Services credits series on an original and seasonally adjusted basis ( $398 m).
+This information has been provided for comparative purposes only.
+The ABS has published information that assists users in the understanding and interpreting Time Series methods. These include:
+  
+   

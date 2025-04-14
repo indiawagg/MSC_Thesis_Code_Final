@@ -1,0 +1,24 @@
+Date:
+2022-06-28
+Article Title:
+ Non-binary sex in the 2021 Census
+
+Article Content:
+  For the first time, the 2021 Census allowed all respondents to select from three response options for the sex question: male, female and non binary sex.
+  The 2021 Census did not have a question on gender or variations in sex characteristics.
+  Data output from the sex question will be reported in Census products as male and female only.
+  Data about the population who reported non binary sex on the Census will be released in an article in September 2022, including analysis of the optional write in text responses.
+For the first time, the 2021 Census allowed all respondents to select from three response options for the sex question: male, female and non binary sex. The purpose of this change was to allow respondents to participate in the Census when the male and female sex categories did not accurately describe their sex.
+This question and this new category were not intended or designed to collect data on gender. Therefore, the number of people who reported a sex of non binary on the 2021 Census cannot be used as a measure of gender diversity, non binary gender or transgender communities.
+Information that is collected on the Census is outlined in the , which is part of the Census and Statistics Act 1905. The topics that are included on the regulation, and therefore collected on the Census, are decided by the Australian Parliament. The regulation specifies that the Census should collect data on sex.
+Sex is defined as being based upon a person's sex characteristics, such as their chromosomes, hormones and reproductive organs. A person’s gender is about social and cultural differences in identity, expression and experience as a man, woman or non binary person. As gender is not currently listed as a topic on the Census and Statistics Regulation, the ABS did not ask this question on the 2021 Census.
+The most recent documents the ABS’s complete definitions for both sex and gender. The Standard outlines that the current best practice approach to accurately capture the concepts of sex and gender requires three separate questions. The three questions (sex at birth, gender and variations of sex characteristics) together provide a comprehensive method of understanding a person’s sex, gender identity and if they have variations of sex characteristics.
+This Standard is being implemented in ABS surveys that are currently or soon to be in the field, including the suite of surveys included in the . These surveys will collect data on sex at birth, gender and variations in sex characteristics and will provide information about sex and gender diversity.
+Following consultation in advance of the 2021 Census, the ABS communicated at the time of the Census that data output from the sex question in most Census data releases will be reported as male and female only. The intention is to minimise misinterpretation of this data.
+Information on the non binary sex responses will be released in an article in September 2022 that will include analysis on the write in responses and provide appropriate supporting explanatory materials.
+For all other data released from the Census, a sex variable with male and female categories will be used. Where a respondent provided a male or female response in combination with a non binary sex response, the male or female response has been used to assign a binary sex value. In cases where only non binary sex was selected, sex was derived in our statistical processes using random allocation. This process was designed following consultation, including with representative bodies from the LGBTIQ+ communities, and consideration of the statistical uses of the Census.
+Allowing respondents to report a sex outside of male or female binary options has been an evolution for the Census.
+  Prior to the 2016 Census there was no form that allowed people to report sex as anything other than male or female, and the Census produced no data on people that reported sex as other than male or female.
+  In 2016, only an online form was available to report a sex other than male or female and people were required to follow special procedures to request this special form. The ABS released an article that contained data on the people that followed this special procedure.
+  As described above, in 2021 the non binary sex category was available to everyone in both the online and paper form.
+  Following the release of 2021 Census data, the ABS will undertake community and stakeholder consultation on potential changes to the 2026 Census, including the introduction of new topics. This consultation will inform ABS recommendations to Government on any 2026 Census topic changes.

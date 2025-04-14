@@ -1,0 +1,19 @@
+Date:
+2021-03-02
+Article Title:
+ Classifying COVID-19 policy interventions in macroeconomic statistics
+
+Article Content:
+The impact of the COVID 19 pandemic continues to drive the largest fiscal response to an event in modern Australian history, with the focus of new policy interventions now shifting to support economic recovery. This spotlight provides a summary of the conceptual classification of key COVID 19 policies in place during the December quarter 2020.
+The ABS continue to undertake extensive consultation with stakeholders and subject matter experts to determine appropriate classifications for COVID 19 policy interventions. These classifications are based on well established conceptual frameworks (footnote 1), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to Government Finance Statistics (GFS) and the National Accounts (NA).
+The COVID 19 policies are grouped into five broad categories (footnote 2):
+  Increased healthcare and frontline services spending
+  Provision of assistance to households
+  Provision of assistance to corporations, unincorporated enterprises and non profit institutions
+  Relaxation of tax and non tax revenue obligations
+  Capital injections, establishment of new, or extended, lending facilities and provision of guarantees
+The majority of fiscal support continues to be targeted towards healthcare spending and provision of assistance to households, businesses and non profit institutions.
+Spending on subsidies by the Commonwealth and state governments remained at historically elevated levels but decreased sharply during the December quarter, driven primarily by the tapering of JobKeeper and Boosting Cash Flow for Employers payments. 
+Spending on current monetary transfers to eligible households by the Commonwealth government has also decreased this quarter, driven by a reduction in Economic Support Payments and the Coronavirus Supplement rate as well as improving labour market conditions.
+Health and aged care spending remained elevated as a result of ongoing COVID 19 health response expenditure on frontline staff, personal protective equipment (PPE) and additional aged care support. The roll out of COVID 19 vaccines will begin affecting government final consumption expenditure from March quarter 2021 onwards.
+IMF (2020), "COVID 19: How to Record Government Policy Interventions in Fiscal Statistics", Special Series on Statistical Issues in Response to COVID 19, IMF publication, viewed at 

@@ -1,0 +1,12 @@
+Date:
+2024-11-25
+Article Title:
+The Daily — Monthly estimates of business openings and closures, August 2024
+Article Content:
+Released: 2024 11 25
+In August, the business closure rate rose 0.2 percentage points to 4.8%, following a decline by a similar amount in July. The closure rate was 0.2 percentage points above its 2015 to 2019 monthly historical average in August. The business opening rate held relatively steady at 4.6% for the third consecutive month in August 2024 and was 0.1 percentage points below its historical average. 
+As the number of business closures exceeded the number of business openings, the number of active businesses dropped by 0.1% ( 930 businesses) in August. In the same month, payroll employment was little changed and real gross domestic product was essentially unchanged. 
+The increase in closures in the business sector in August was mainly driven by health care and social assistance (+194 closures compared with July; 35.0% contribution to the decrease in business sector closures), construction (+118; 21.3%) and other services (except public administration) (+82; 14.8%). In the remaining sectors, business closures were little changed.
+Business openings remained relatively unchanged in most sectors in August. In addition, the 0.1 percentage points decline in the reopening rate (from 3.0% in July to 2.9% in August) was offset by the 0.1 percentage points increase in the entry rate (from 1.6% to 1.7%). In August, the reopening rate was equal to its historical average, while the entry rate was 0.1 percentage points below its historical average.
+In August, the number of active businesses dropped or changed little across sectors, with the exception of health care and social assistance (+212 active businesses compared with July). The decline in the number of active businesses in the business sector was led by retail trade ( 111 businesses compared with July; 27.3% contribution to the decline in the number of active businesses in the business sector), accommodation and food services ( 106; 26%) and construction ( 102; 25.1%).
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,15 @@
+Date:
+2023-10-05
+Article Title:
+ Monthly international trade in services compilation guide
+
+Article Content:
+The ABS reviews and makes changes to its Forward Work Program to ensure it continues to appropriately measure the Australian economy, environment, and society. As outlined in the , the increased appreciation of the value of data is generating significant additional demand for services of the ABS. As the growth in opportunities exceeds the capacity of the ABS, statistical outputs are prioritised.
+From September 2023 reference month, International Trade in Services data will no longer be available on a monthly basis. International Trade in Services data will continue to be available in the quarterly  publication.
+This article is a guide for users to compile monthly international trade in services estimates.
+The measurement of international trade in services is complex due to their intangible and heterogenous nature. Constructing Australia’s international trade in services statistics requires multiple data sources and a series of statistical models.
+The ABS models monthly international trade in services statistics from a combination of data from its quarterly Survey of International Trade in Services (SITS) and over 20 different alternative data sources.
+Available source data are received at different frequencies, predominantly quarterly. The remaining data are monthly, annual, and bi annual, and are lagged from the reference period. Monthly international trade in services statistics is generally nowcasted (projected using historical data) due to data availability. Nowcasted estimates may be in place for several months before published statistics are revised with actual input data.
+Table 1 provides information on the main data sources used to compile international trade in services statistics, the frequency with which they are received and the lag between publishing the statistics and receiving input data.
+Tables 2 and 3 provide an overview of the compilation methods used to estimate monthly international trade in services statistics for both credits (exports) and debits (imports).
+In addition to the usual compilation methods outlined below, the ABS makes ad hoc adjustments to categories as required to account for one off or unusual events that may impact estimates. For example, for the FIFA Women’s World Cup, held in Australia in August 2023, adjustments were made to the credit series for Business and Other personal Travel, Passenger Transport and Charges for the use of intellectual property. These adjustments reflected the increase in spend and activity expected from players, staff, officials, and spectators who travelled to Australia to participate in the event or watch the matches locally and the value of the broadcasting rights for the tournament.

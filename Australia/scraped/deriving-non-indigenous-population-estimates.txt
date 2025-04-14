@@ -1,0 +1,24 @@
+Date:
+2024-07-24
+Article Title:
+ Deriving non-Indigenous population estimates
+
+Article Content:
+After each Census, the ABS produces estimates of the Aboriginal and Torres Strait Islander population for the Census year only by using information from the Census (together with some adjustments, the largest being for people missed in the Census). Using 2001 Census data, the ABS for the first time concurrently produced Aboriginal and Torres Strait Islander and non Indigenous population estimates constrained to total population estimates for 30 June 2001. Accordingly, non Indigenous population estimates correspond to the difference between the Aboriginal and Torres Strait Islander population estimates and the total population estimates. The ABS uses Census year estimates of the Aboriginal and Torres Strait Islander population and relevant assumptions on fertility, mortality and migration to compile backcast estimates and projections of this population group.
+Coherent data on births, deaths and migration of the Aboriginal and Torres Strait Islander population are not available for intercensal years. Due to this reason, it is not possible to produce credible annual estimates of the Aboriginal and Torres Strait Islander population and subsequently the non Indigenous population for intercensal years using a components based approach. However, the demand for such estimates, particularly as comparisons for measuring and monitoring differences between various Aboriginal and Torres Strait Islander and non Indigenous rates, has substantially increased in recent years.
+This article discusses 2 options for deriving non Indigenous population estimates for intercensal years, advantages and disadvantages of these options and then provides a recommendation about the optimal approach.
+Option 1 involves deriving non Indigenous population estimates by subtracting Aboriginal and Torres Strait Islander backcast estimates and projections from the total Australian estimated resident population (ERP) for a given year. This option is currently being used for national reporting purposes. The advantages and disadvantages are covered below.
+Advantages:
+Disadvantages:
+  This option uses the best available number for each population.
+  A mixture of methods is being used   ERP for the total population and projections and backcast estimates for the Aboriginal and Torres Strait Islander population.
+Option 2 involves deriving non Indigenous population estimates by subtracting Aboriginal and Torres Strait Islander backcast estimates and projections from total population projections. The advantages and disadvantages of this option are detailed below.
+Advantages:
+Disadvantages:
+  The methods for calculating each population are comparable as both populations are projections.
+  Both sets of projections are derived from the same base point and at approximately the same point in time.
+  Both sets of projections are based on assumptions of future levels of fertility, mortality and migration (that is, it is not measured data).
+  Non Indigenous population is more likely to change demographically (through fluctuations in net overseas migration (NOM)) than the projections can effectively foresee.
+Non Indigenous population estimates derived using Options 1 and 2 are used in calculating child (0 to 4 years) and age standardised death rates for NSW, Qld, SA, WA, NT and the total of these 5 jurisdictions for the periods 2016 to 2020, 2017 to 2021 and 2018 to 2022. The method of calculation is the same as that used for the Health Performance Framework (HPF) reporting (that is, the average of 5 years of deaths is divided by the mid point population estimates and multiplied by 100,000). Results show that the difference between the rates based on non Indigenous population derived using Option 1 and Option 2 is minimal (around  5.7%). This suggests that the non Indigenous death rates are not particularly sensitive to the methods used in deriving non Indigenous population estimates.
+The ABS consulted a number of expert stakeholders who agreed that Option 1 is the preferred method for deriving non Indigenous population estimates (that is, by subtracting Aboriginal and Torres Strait Islander backcast estimates and projections from total population ERP). This option uses the best available number for each population and hence yields better quality estimates for non Indigenous population. However, Option 1 cannot be used when total population ERP is not available (for example, when considering future trends). In such situations, Option 2 should be used.
+As with all advice the ABS provides, advice given in this article should be considered in relation to the specific requirements of data users and the appropriateness of the advice for their needs.

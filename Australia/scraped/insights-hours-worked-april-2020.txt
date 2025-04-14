@@ -1,0 +1,43 @@
+Date:
+2020-05-14
+Article Title:
+ Insights into hours worked, April 2020
+
+Article Content:
+Early impacts of COVID 19 were seen in hours worked data in early March, prior to the extensive social distancing measures, shut downs of non essential services and trading restrictions that came into effect later in the month.
+While these major changes had a considerable impact on employment, the effect on hours worked was particularly pronounced. Hours worked reduced by 9.2% between March and April in seasonally adjusted terms, which was double the decrease in employed people (4.6%).
+Charts 1, 2 and 3 show the monthly changes in seasonally adjusted hours worked and employment, with the large, unprecedented drop in hours worked in April.
+ 
+The reductions in hours worked were greater for women than for men, with female hours reducing by 11.5%, compared to a 7.5% reduction in male hours worked.
+ 
+The overall reductions in hours worked can also be considered in terms of changes in the number of people working within various hours ranges.
+Table 1 shows the distribution of employed men and women across the hours worked categories in April, compared with the previous 5 years, to control for seasonality. Controlling for seasonality in April data is more difficult than in other months, because of variation in the timing of Easter, and school holidays (and the effect these holidays have on hours worked).
+There was a larger percentage of employed males and females who worked zero hours in April 2020, compared to previous years. Smaller proportions were seen across all other categories, with the decline more pronounced in the 1 19 and 20 34 hours ranges.
+ 
+Chart 4 shows that the proportions of employed males and females who worked zero hours were greater in April 2020 than in any April over the past 20 years.
+The impact of the reduction in hours can also be seen in the underemployment rate, which increased by 4.9 pts to a historical high of 13.7%. The number of underemployed people increased by over 600,000 in April 2020, to 1.8 million people.
+Historically, the female underemployment rate has been noticeably higher than the male underemployment rate. However, the increase in the male underemployment rate (5.5 pts) between March and April was much larger than the increase in the female underemployment rate (4.2 pts). As a result, the male and female underemployment rates in April were closer than they were previously, with the female rate at 14.8%, and the male rate at 13.7%.
+The much larger rise in underemployment for men can largely be attributed to the full time/part composition of the workforce and the make up of the underemployed population. Employed people are considered underemployed if:
+As women are far more likely than males to work part time, many more females are underemployed according to the first of the two criteria. As more men are employed full time, more males than females are underemployed due to the second criterion.
+Given the major change in hours worked in April, much of the increase in underemployment can be attributed to an increase in full time people working part time (or no) hours for economic reasons.
+  they are part time and would like to work more hours and are available to do so; or
+  they usually work full time, but worked part time (i.e. less than 35 hours) in the reference week, for economic reasons (e.g. they were stood down, or there was insufficient work or no work available).
+While underemployment helps to provide an indication of spare capacity in the labour market, and demonstrates some of the large impacts on the labour market between March and April, it does not include all people whose hours were reduced.
+In addition to the two groups highlighted earlier, there is an additional group of employed people who worked less than their usual hours for economic reasons. These are employed people who:
+The following chart shows the number of males and females working fewer than their usual hours, or no hours at all. There were around 1.8 million people who worked fewer than their usual hours for economic reasons in April 2020. This comprises:
+  worked less than their usual hours for economic reasons, but still worked 35 hours or more (i.e. they were still full time); and
+  part time and worked less than their usual hours, for economic reasons.
+  around 750,000 'underemployed full time workers';
+  over 150,000 full time workers who remained full time; and
+  almost 900,000 part time workers.
+Of these 1.8 million employed people who worked less than their usual hours for economic reasons:
+The number of people working zero hours for economic reasons accounted for roughly half of the total number of people working fewer hours, as shown in chart 7.
+  over 750,000 did not work at all; and
+  over 1 million people worked some hours, but fewer hours than they would usually work.
+Table 2 shows the proportion of people in each of the hours worked categories in April by their hours of work in the previous month.
+It shows that of the employed people who worked zero hours in April:
+  13% also worked zero hours in March (indicating that they must have been paid for at least some of the past 4 weeks);
+  half (50%) had worked part time hours (i.e. less than 35 hours) in March;
+  around one in five (22%) worked 35 44 hours in March; and
+  one in ten (10%) worked 45 or more hours in March.
+For further information, email .

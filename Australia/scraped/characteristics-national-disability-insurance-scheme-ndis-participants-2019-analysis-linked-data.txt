@@ -1,0 +1,354 @@
+Date:
+2021-09-22
+Article Title:
+ Characteristics of National Disability Insurance Scheme (NDIS) participants, 2019: Analysis of linked data
+
+Article Content:
+ABS recently linked National Disability Insurance Scheme (NDIS) data to the Multi Agency Data Integration Project (MADIP). The MADIP is a secure data asset combining information on health, education, government payments, income and taxation, employment, and population demographics (including the Census) over time. NDIS data in scope of this linkage included data for all active Scheme participants as at 31 December 2019. The aim of this linkage was to test the feasibility of including NDIS data in the enduring MADIP and to showcase the utility of linked NDIS data. This analysis presents insights about the service use and sociodemographic characteristics of NDIS participants in scope using a selection of key MADIP datasets. For more information on the scope and technical details of the linkage, see the .
+Header 2: Key definitions
+A key piece of linking infrastructure that serves as a base dataset representing the Australian population between 2006 and 2020. Connected to the Spine are several analytical datasets providing information about various aspects of the lives of Australians, some of which have been used in the following analysis.
+Refers to active NDIS participants as at 31 December 2019 who linked to the MADIP spine (for more information on linkage rates, see the ).
+Refers to the estimated Australian population based on 2016 Census data (where the Census record linked to the MADIP spine) excluding NDIS participants (as defined above). Note this population includes people with disability who were not NDIS participants, as well as people without disability.
+Age variables have been selected to reflect a person's age during the analytical dataset reference period and therefore differ depending on the analytical dataset.
+For more information on the analytical datasets, age and other factors to consider when interpreting results, see the relevant notes at the beginning of each section, along with more detailed information in the .
+The NDIS largely provides support to people aged under 65 years() with permanent and significant disability. 
+In comparing NDIS participants to the ‘rest of population’, it is important to note the differing age distributions, especially given the correlation between age and many factors such as health service use and housing circumstances that have been analysed in this publication.
+Of the 337,300 NDIS participants as of 31 December 2019 (who linked to the MADIP spine), almost two thirds (65.5%) were aged under 35 years, compared to 41.0% of the rest of population.
+Almost two thirds (62.0%) of the 337,300 NDIS participants were male, largely due to the significant number of people among the NDIS population with autism, and the higher prevalence of autism among males(). In comparison, among the rest of population there were a fairly even number of males and females (48.9% of the rest of population were male).
+When comparing results within the NDIS population, it is important to understand the population’s profile across primary disability type. While NDIS participants may have one or more disabilities for which they need assistance, their primary disability is the disability that impacts most on a person’s daily life().
+The most common primary disability types among NDIS participants (in scope of this analysis) were:
+The age profiles differ considerably across primary disability types, with some disability types made up entirely of younger people. This is important to keep in mind when interpreting results.
+  autism (30.9% of all participants)
+  intellectual disability (20.2%)
+  psychosocial disability (9.1%)
+The MADIP is a secure data asset combining information on health, education, government payments, income and taxation, employment, and population demographics (including Census) over time.
+Analysis in this publication uses linked NDIS data, in conjunction with the following four MADIP datasets to provide a range of high level insights about NDIS participants’ use of health services and medications, support needs, housing circumstances and sociodemographic characteristics:
+Some comparative analysis for the ‘rest of population’ is also included.
+The potential of linked NDIS MADIP data is far broader than what is included in the following high level analysis. Interested researchers should visit the  for further details around applying for access to linked NDIS MADIP data.
+  2019 20 Medicare Benefits Schedule (MBS)
+  2019 20 Pharmaceutical Benefits Scheme (PBS)
+  2016 Census of Population and Housing (Census)
+  2020 Social Security Related Information (SSRI)
+The rest of population has a much older profile than the NDIS population (that is, there are proportionally more people over the age of 65 in the rest of population compared with a younger NDIS population). Given the differing age profiles and the correlation between service use and age, some MBS analysis has been presented for the 0 to 64 year cohort, in addition to analysis for all ages. The intention is for these comparisons to aid interpretation in the way the differing age profiles may influence results.
+In 2019 20, of the 337,300 linked NDIS participants of all ages, nearly all (95.6%) accessed an MBS service at least once, compared with 87.1% of the rest of population (when limited to those aged 0 to 64 years, 95.5% of NDIS participants and 86.8% of the rest of population).
+The services most likely to be accessed (at least once) by NDIS participants in 2019 20 were:
+When compared to the rest of population, the most commonly accessed services were similar for the two populations. While overall a larger proportion of NDIS participants (of all ages) accessed GP services, specialists and GP enhanced primary care services, those in the rest of population were more likely to have used pathology tests and collection services, diagnostic imaging and optometry services.
+  General Practitioner (GP) services (91.1%)
+  Pathology tests (53.3%)
+  Pathology collection (52.7%)
+  Specialists (53.2%)
+Among NDIS participants (of all ages) who used at least one MBS service in 2019 20, the average number of visits to all MBS services (21.0 visits) was higher than the rest of the population (18.4 visits) (when limited to those aged 0 to 64 years, the average number of visits was 20.5 for NDIS participants and 14.5 for the rest of population).
+This was consistent across all age groups. The difference was largest for:
+For both populations, the average number of visits to MBS services generally increased with age.
+  those aged 45 54 years where NDIS participants had almost twice the number of average visits to MBS services (33.6 visits) compared with the rest of population (16.9 visits)
+  those aged 35 44 years (average of 29.5 visits for NDIS participants compared with 15.3 visits for the rest of population).
+The two most commonly accessed MBS services (GP attendances and pathology tests) were also the most frequently used services. Among NDIS participants (of all ages) in 2019 20:
+  there were almost 2.5 million GP attendances, averaging 8.0 visits per NDIS participant who accessed this service (compared with an average of 6.5 visits for those who used this service in the rest of population)
+  there were almost 1.4 million pathology tests, averaging 7.6 tests per NDIS participant who accessed this service (compared with an average of 6.7 tests for those who used this service in the rest of population).
+There was little variation across disability type in terms of overall use of MBS services, with more than 90% of all NDIS participants accessing at least one service in 2019 20, regardless of their primary disability. However, people with some primary disability types were more likely to access specific services compared with others.
+Among NDIS participants (of all ages) in 2019 20:
+People with psychosocial disability accessed the highest average number of MBS services in 2019 20 (an average of 40.5 visits per person), followed by those with multiple sclerosis (an average of 38.1 visits per person). It is important to take into consideration the different age profiles of primary disability groups when interpreting results (see ).
+  those with multiple sclerosis were most likely (of any primary disability type) to have seen a specialist (78.7%), while those with a hearing impairment were least likely to have visited a specialist (42.5%)
+  those with psychosocial disability or stroke were most likely to have accessed GP enhanced primary care (63.2% and 62.5% respectively).
+MBS service use generally increased with age among both NDIS participants and the rest of population. However, use of specialists among NDIS participants showed a different pattern.
+NDIS participants (of all ages) were 1.7 times more likely to attend a specialist at least once (53.2%) than the rest of population (31.7%) (when limited to those aged 0 to 64 years a larger difference was observed, 53.0% of NDIS participants compared with 26.1% of the rest of population). This was particularly the case among young children. In 2019 20:
+  almost two thirds (63.7%) of NDIS participants aged 0 6 years had seen a specialist at least once, almost 4 times the rate of the rest of population aged 0 6 years (16.7%)
+  over half (58.6%) of NDIS participants aged 7 14 years had seen a specialist at least once, almost 4 times higher than the rest of population aged 7 14 years (15.6%).
+Although a higher proportion of young NDIS participants accessed specialist services at least once (compared with the rest of population), the average number of visits to specialists generally increased with age, similar to other services. Of NDIS participants who accessed specialist services in 2019 20:
+  children aged 7 14 years had the lowest average number of specialist visits (2.9 visits per person) followed by children aged 0 6 years (3.1 visits per person)
+  those aged 55 64 years had an average of 5.2 specialist visits per person.
+The rest of population has a much older profile than the NDIS population (that is, there are proportionally more people over the age of 65 in the rest of population compared with a younger NDIS population). Given the differing age profiles and the correlation between medicine use and age, some PBS analysis has been presented for the 0 to 64 year cohort, in addition to analysis for all ages. The intention is for these comparisons to aid interpretation in the way the differing age profiles may influence results.
+In 2019 20, of the 337,300 NDIS participants (of all ages) 79.7% accessed at least one PBS subsidised medicine, compared with 66.3% of the rest of population (when limited to those aged 0 to 64 years, 79.2% of NDIS participants and 61.7% of the rest of population).
+Overall NDIS participants (of all ages) accessed a total of 5.1 million subsidised medicines. Among NDIS participants who accessed at least one PBS medicine in 2019 20, the average number of scripts was 18.9, compared with 14.5 for those in the rest of population (when limited to those aged 0 to 64 years, the average number of scripts was 18.5 for NDIS participants and 9.9 for the rest of population).
+In 2019 20, among NDIS participants:
+The difference between the two populations in the proportion of people who accessed PBS medicines generally diminished with increasing age.
+  the use of PBS medicines was higher than the rest of population across all age groups
+  the greatest difference was among those aged 7 14 years (70.2% of NDIS participants accessed PBS medicines, compared with 42.1% for the rest of population).
+When compared to the rest of population, not only did a greater proportion of NDIS participants access PBS medicines, they also accessed a higher average number of scripts across all age groups. NDIS participants in the age groups from 7 to 44 years had an average number of scripts almost three times higher than those of the same age in the rest of population.
+There was some variation in the types of medicines accessed by NDIS participants compared to the rest of population. In 2019 20, of the 337,300 NDIS participants (of all ages), the most common types of PBS medicines by body system accessed (at least once) were:
+For more information about the PBS body system classification of medicines see the .
+  Anti infectives for systemic use e.g. antibiotics (44.4% compared with 37.0% of the rest of population)
+  Other nervous system medicines e.g. to help quit smoking, and to assist with other nervous system conditions (27.2% compared with 16.5% of the rest of population)
+  Nervous system antidepressants used to alleviate depression (26.4% compared with 13.4% of the rest of population)
+  PBS medicines for the cardiovascular system were accessed by around one quarter of both NDIS participants (25.0%) and the rest of population (24.5%).
+Among NDIS participants (of all ages), people with the following primary disability types were most likely to have accessed at least one PBS medicine in 2019 20:
+Of those who accessed at least one PBS medicine, those with the following primary disability types had the highest average number of scripts in 2019 20:
+It is important to take into consideration the different age profiles of primary disability groups when interpreting results (see  section).
+  Multiple sclerosis (97.5% of whom accessed at least one PBS medicine in 2019 20)
+  Stroke (96.1%)
+  Psychosocial disability (95.7%)
+  Spinal cord injury (95.5%)
+  Stroke (33.6 prescriptions)
+  Psychosocial disability (30.7)
+  Multiple sclerosis (28.4)
+Disability is generally associated with lower rates of employment and labour force participation(). Among the 153,600 NDIS participants within the scope of this analysis (living in households/private dwellings) aged 15 64 years:
+  27.3% were in the labour force, less than half the rate of the rest of population (76.9%)
+  23.4% were employed, less than one third the rate of the rest of population (71.7%)
+  4.0% were unemployed, compared to 5.3% of the rest of population.
+Of NDIS participants within the scope of this analysis (living in all dwelling types aged 15 years and over), around one in six (15.8%) had volunteered for an organisation or group in the previous 12 months, compared with one in five people (20.3%) of the same age in the rest of population.
+Rates of volunteering among NDIS participants varied according to primary disability type:
+  one quarter (24.4%) of those with visual impairment had volunteered
+  around one in five (21.0%) of those with hearing impairment had volunteered.
+NDIS participants generally lived in households with a lower level of equivalised household income.
+Among NDIS participants within the scope of this analysis (people of all ages living in households/private dwellings):
+  over half (56.6%) lived in households with an equivalised income under $800 per week, compared with 38.4% of the rest of population
+  9.2% lived in households with an equivalised income of over $1,500 per week, less than half that of the rest of population (20.5%).
+Results showed some variation in household income across age. The likelihood of living in a household with a low (reported) equivalised weekly income:
+The disparity between the two populations increased across age (up to 54 years).
+  increased with age for NDIS participants (up to 35 years and then remained relatively stable)
+  decreased with age for the rest of population (up to 54 years).
+Given the range of impacts that different disabilities can have on an individual or carer’s ability to work, certain disabilities were associated with lower household incomes. Of NDIS participants within the scope of this analysis (people of all ages living in households/private dwellings), those with the following primary disability types were more likely than those with other primary disability types to be living in households with an equivalised weekly income under $800:
+  Psychosocial disability (73.4%)
+  Acquired brain injury (63.8%)
+  Intellectual disability (61%).
+Of NDIS participants within the scope of this analysis (people of all ages living in all dwelling types) most (94.6%) lived in a private dwelling, with around one in twenty (5.3%) living in non private dwellings() (compared with around 2.6% of the rest of population).
+The likelihood of living in a non private dwelling increased for certain disability types. Of NDIS participants within the scope of this analysis:
+It is important to take into consideration the different age profiles of primary disability groups when interpreting these results (see  section).
+  almost one in seven with psychosocial disability (15.2%) or acquired brain injury (14.7%) lived in non private dwellings
+  around one in 8 (12.2%) with disability associated with stroke lived in non private dwellings.
+Linked NDIS MADIP data showed that NDIS participants were more likely to be living in rental accommodation than the rest of population.
+Of NDIS participants within the scope of this analysis (people of all ages living in households/private dwellings):
+In general, the likelihood of living in rental accommodation was higher among those with a low household income and this was particularly pronounced among NDIS participants. Among NDIS participants within the scope of this analysis (people of all ages living in households/private dwellings):
+  39.7% were living in a rented home, compared with 28.7% of the rest of population
+  36.6% were living in a home owned with a mortgage, compared with 41.1% of the rest of population
+  around one in five (19.6%) lived in a home that was owned outright, compared with 26.5% of the rest of population.
+  almost two thirds (62.0%) of those in a household with an equivalised weekly income below $400 per week were renting, compared to 45.9% of the rest of population living in a household with an equivalised weekly income below $400 per week
+  almost half (45.8%) of those in a household with an equivalised weekly income between $400 $799 per week were renting, compared to 32.7% of the rest of population with that income.
+Tenure type also varied across age, in particular the likelihood of living in rental accommodation.
+NDIS participants within the scope of this analysis (people of all ages living in households/private dwellings):
+The disparity between the two populations in the rate of those living in rental accommodation generally increased with age.
+  were more likely to be living in rental accommodation than the rest of population among all age groups (except those aged 15 34 years)
+  those aged 35 44 years were most likely to be living in rental accommodation (45.0%) followed by those aged 45 54 years (44.1%, almost twice as high as the rest of population for this age group, 22.7%).
+Housing suitability() is an indicator of whether a private household is living in suitable accommodation for the number of people living there. A home with spare bedrooms suggests the occupants live in relative comfort.
+Of NDIS participants within the scope of this analysis (people of all ages living in households/private dwellings):
+  59.1% were living in a home with spare bedrooms, compared with 66.7% of the rest of population
+  just 7.7% were living in a home where extra bedrooms were needed, compared to 6.7% of the rest of population.
+People with disability may be eligible for financial support, with varying eligibility requirements for different social support payments. The Disability Support Pension (DSP)() is a payment for people with permanent physical, intellectual or psychological disability that stops them working and is limited to people aged 16 years and over. Children under 16 with disability may be eligible for other financial supports paid to their parents/carers.
+The following analysis is limited to NDIS participants who were in the Scheme at 31 December 2019 (and who linked to the MADIP spine) and does not include information about social support payments received by parents/carers of people with disability. Therefore, it is likely this analysis does not represent the full picture of income supports provided to NDIS participants, particularly for children under 16 years and for the primary disability groups predominantly made up of younger people.
+Among NDIS participants of all ages who were in the Scheme at 31 December 2019 (and who linked to the MADIP spine), half (50.3%) received some form of social support payment in 2020, comprising:
+Given DSP eligibility, the proportion of NDIS participants who received DSP increased to 75.5% when limiting to those aged 16 years and over.
+Across primary disability types, the proportion who received a social security payment varied. Of NDIS participants (of all ages) who were in the Scheme at 31 December (and who linked to the MADIP spine), those most likely to be receiving a social security related support payment were:
+  Disability Support Pension (45.3%)   these people may or may not have also received other support payments
+  Other support payment (5.0%)
+  people with psychosocial disabilities (94.6%)
+  people with acquired brain injury (80.6%)
+  people with disabilities associated with stroke (80.9%)
+Technical note describes the data sources, scope, preparation, and method used to link 2019 National Disability Insurance Scheme (NDIS) administrative data to the Multi Agency Integration Project (MADIP).
+NDIS data was linked to the MADIP spine and then analysed, in conjunction with other MADIP datasets, to provide insights into the sociodemographic characteristics, and use of health services, medicines and receipt of social security payments by NDIS participants.
+The following technical information is relevant only to the results published in Characteristics of NDIS participants – analysis of linked data, 2019, and may not necessarily be relevant for other linkages involving NDIS data.
+Header 29: National Disability Insurance Scheme (NDIS) administrative data
+Header 29: MADIP person linkage spine
+Header 29: 2016 ABS Census of Population and Housing
+Header 29: Medicare Benefits Schedule administrative data
+Header 29: Pharmaceutical Benefits Scheme administrative data
+Header 29: Social Security and Related Information administrative data
+The data for this publication were produced using the following data sources:
+Administrative data for active participants in the NDIS as at 31 December 2019, including demographic and NDIS plan characteristics. The National Disability Insurance Agency collect information about participants in order to administer the Scheme and disseminate statistics for research and evaluation(). Data for this linkage was provided by the NDIA to the ABS under a Public Interest Certificate.
+Linking infrastructure that serves as a base dataset representing the population ever resident in Australia between 2006 and 2020.
+The 2016 Census measured the number and key characteristics of people who were in Australia on Census night, 9 August 2016.
+Medicare Benefits Schedule (MBS) administrative data for the 2019 20 financial year.
+Department of Human Services collects data on the activity of all persons making claims through the MBS and provides this information to the Department of Health. Information collected includes the type of service provided (MBS item number) and the benefit paid by Medicare for the service. The item numbers and benefits paid by Medicare are based on the MBS which is a listing of the Medicare services subsidised by the Australian Government. Analysis in this publication includes MBS subsidised services, grouped by Broad Type of Service (see ).
+Pharmaceutical Benefits Scheme (PBS) data for the 2019 20 financial year.
+Department of Human Services provides data on prescriptions funded through the PBS to the Department of Health. The PBS lists all medicines available to be dispensed to patients at a Government subsidised price. Analysis in this publication includes PBS subsidised mental health related medications, grouped by PBS Body System (see ).
+Social Security and Related Information administrative data for the 2020 calendar year.
+Australia collects information on the benefits claimed through Centrelink and provides this to the Department of Social Services for administration, research and evaluation purposes. Information collected includes type and amount of benefit(s) received.
+Header 30: Medicare Benefits Schedule
+Header 30: Pharmaceutical Benefits Scheme
+Header 30: Social Security and Related Information
+The scope of the data is restricted to:
+‘NDIS population’: active NDIS participants as at 31 December 2019 where the NDIS record linked to the MADIP spine.
+‘Rest of population’: people who responded to the 2016 Census of Population and Housing where the Census record linked to the MADIP spine.
+The following exclusions apply where additional administrative data is used:
+  Services that qualify for a benefit under the Department of Veterans' Affairs National Treatment Account.
+  Persons who accessed services only through programs that do not use the Medicare processing system, for example, Aboriginal and Torres Strait Islander Health Programs.
+  The Repatriation Pharmaceutical Benefits Scheme, subsidised by the Department of Veterans’ Affairs.
+  Persons who were supplied medications through programs not subsidised by the PBS;
+  Persons accessing private prescription drugs, over the counter drugs, and drugs that cost less than the co payment.
+  Persons who were indirect beneficiaries, i.e. if a parent received a benefit on behalf of their child, the parent will be included in the dataset while the child will not.
+Header 31: Name
+Header 31: Geography
+Header 31: Date of Birth
+The NDIS variables used for linking were name, geographies, date of birth and sex or gender.
+NDIS names were cleaned, standardised and anonymised.
+Names were cleaned by removing nonsense values, removing special characters and titles. The cleaned names were then standardised by converting common nicknames, abbreviations, misspellings or variations on a first name to their 'origin name'. Any first name that could not be standardised was retained in its original form. Names were then anonymised.
+The ABS Address Register provides a comprehensive list of all physical addresses in Australia and includes an Address Register ID (ARID) for each physical address. An anonymised version of ARID is used in data linkage projects. Addresses were geocoded to ARID, Mesh block, SA1, SA2, and SA4, according to the ASGS 2016 classification().
+Full date of birth, as well as day and year of birth were used in the NDIS linkage.
+Header 32: Deterministic Example
+Header 32: NDIS Linkage Results
+NDIS linkage was completed using deterministic linking. Deterministic linkage involves locating record pairs across the two datasets that match exactly or closely (according to pre defined rules) on common variables. The deterministic linkage employed was designed using a three stage approach. The matching rules and criteria were gradually broadened with each stage to tolerate greater differences in a field or expanding the geographic area in which a match can occur.
+A total of 337,347 links were achieved in the NDIS to MADIP spine linkage, resulting in a total NDIS linkage rate of 99.52%.
+Linkage rates by sex, age and state are presented in Table 1. Very High linkage rates were achieved across all demographics, with slightly lower rates for persons living in the Northern Territory.
+Header 33: MADIP linkage spine and datasets
+Information about the MADIP linkage spine and MADIP datasets can be found on the ABS .
+Table 2 shows the number of NDIS records (of the 337,347 which linked to the MADIP spine) where a corresponding record in the specified analytical dataset was available.
+There are two reasons why NDIS records may not have a corresponding record in an analytical dataset:
+ 
+  They did not have a record in the relevant dataset (e.g. Medicare Benefits Schedule – they did not use any MBS subsidised services in the specified reference period); or
+  Their record in that specific dataset (e.g. MBS) did not link to the MADIP spine.
+Header 34: Age
+Header 34: Disability
+Header 34: Primary disability
+Header 34: Rest of population
+Header 34: Medicare Benefits Schedule (MBS)
+Header 34: MADIP Linkage Spine
+Header 34: Pharmaceutical Benefits Scheme (PBS)
+Header 34: Social Support and Related Information (SSRI)
+Age has been adjusted to better reflect a person’s age during the analytical data reference period. For analysis using 2016 Census data, a person's age is as of August 2016; for MBS, PBS and SSRI data, the following ages have been used to more closely align with the 2019 20 (MBS and PBS) and 2020 (SSRI) reference periods:
+NDIS participants are people with an active NDIS plan as at 31 December 2019, whose record linked with the MADIP spine.
+A physical, intellectual, cognitive, neurological, visual, hearing, or psycho social impairment that:
+See the  for more information.
+Primary disability refers to the impairment that impacts most on a person’s daily functioning.
+People with a Census record which linked with the MADIP spine, excluding people with a linked NDIS record.
+The Medicare Benefits Schedule (the MBS) is a list of the medical services for which the Australian Government will pay a Medicare rebate, to pro vide patients with financial assistance towards the costs of their medical services.
+MADIP is a secure data asset combining information on health, education, government payments, income and taxation, employment, and population demographics (including the Census) over time.
+It provides whole of life insights about various population groups in Austral ia, such as the interactions between their characteristics, use of services like healthcare and education, and outcomes like improved health and employment.
+The Person Linkage Spine links all MADIP datasets to the Spine once and then datasets are combined via the Spine as needed for multiple projects. The Spine enables more efficient and higher quality linkage. By keeping the spine separate from the main body of the data, we also improve privacy and security.
+The spine is based on the combined population from three core datasets:
+The spine aims to cover all people who were resident in Australia at any point during January 2006 to June 2020.
+The Pharmaceutical Benefits Scheme (PBS) is an Australian Government program that subsidises medicines, to provide Australians with financial assistance towards the cost of their treatments.
+Information about people who have interacted with the Australian Government social security system.
+  NDIS participants   age as at 31 Dec 2019 (based on NDIS data)
+  Rest of population   age at 2016 Census (i.e. 9 August 2016) adjusted by 3 years to reflect age in 2019 and allow for comparability across age with NDIS participants.
+  is (or is likely to be) permanent
+  substantially reduces ‘functional capacity’ in one or more of the following areas: mobility, communication, social interaction, self management, learning and self care
+  restricts ability to participate in work/study, engage with peers and/or interact with the wider community (i.e. has a clear social and/or economic impact)
+  Medicare Consumer Directory (MCD)   Services Australia
+  DOMINO Centrelink Administrative Data (DOMINO CAD)   Department of Social Services
+  Personal Income Tax (PIT)   Australian Taxation Office
+Header 35: Broad type of service ()
+Header 35: General Practitioner attendances
+Header 35: Specialist attendances
+Header 35: Pathology tests
+Header 35: Pathology collection
+Header 35: General Practitioner enhanced primary care
+Header 35: Diagnostic imaging
+Header 35: Other Allied health
+Header 35: Optometry
+Header 35: Operations
+Header 35: Other (non referred attendances)
+Header 35: Practice nurse
+Header 35: Other MBS services
+1 4, 13 14, 19 20, 23 26, 33, 35 40, 43 44, 47 51, 193, 195, 197, 199, 585, 594 597, 599, 601 603, 2497 2501, 2503 2504, 2506 2507, 2509, 2517 2518, 2521 2522, 2525 2526, 2546 2547, 2552 2553, 2558 2559, 2574 2575, 2577 2578, 5000, 5003, 5007, 5010, 5020, 5023, 5026, 5028, 5040, 5043, 5046, 5049, 5060, 5063 5064, 5067, 10660, 90001, 90005 90051, 90250 90253, 90264, 90271 90274, 90279 90280, 91721 91790, 91795, 91800 91802, 91809 91811, 91890 91891, 92146 92149, 92154 92157, 92170, 92176, 92182 92184, 92194 92196, 92210, 92216, 92715, 92718, 92721, 92724, 92731, 92734, 92737, 92740, 93624 93625, 93634 93635, 93644 93645, 93653 93654
+85, 88, 94, 99 100, 102 152, 154 159, 288 289, 291 293, 296 297, 299 338, 342 353, 355 359, 361, 364, 366 367, 369 370, 384 389, 410 417, 501 503, 507, 511, 515, 519 520, 530, 532, 534, 536, 801, 803, 805, 807 809, 811, 813, 815, 820, 822 823, 825 826, 828, 830, 832, 834 835, 837 838, 851 852, 855, 857 858, 861, 864, 866, 871 872, 880, 887 890, 893, 2799, 2801, 2806, 2814, 2820, 2824, 2832, 2840, 2946 2949, 2954, 2958, 2972 2978, 2984 3003, 3005, 3010, 3014 3015, 3018, 3023, 3028 3032, 3040, 3044, 3051 3055, 3062, 3069, 3074 3078, 3083, 3088, 3093, 5001, 5004, 5011 5014, 5016 5017, 5019, 5039, 5041, 5906 5912, 6004, 6007 6009, 6011 6016, 6018 6019, 6023 6026, 6028 6029, 6031 6032, 6034 6035, 6037 6038, 6042, 6051 6052, 6057 6060, 6062 6065, 6067 6068, 6071 6075, 6080 6082, 6084, 10801 10816, 17603 17690, 90260 90263, 90266 90269, 90300, 91822 91841, 92140 92145, 92162 92167, 92172 92173, 92178 92179, 92422 92712
+1001 2094, 2096 2099, 2101 2120, 2123 2124, 2127 2136, 2139 2142, 2145 2146, 2148 2149, 2151 2178, 2181 2192, 2201 2219, 2221 2399, 65001 73844, 74990 74991
+73899 73940, 74992 74999
+177, 224 233, 235 240, 243 245, 249, 272, 276 277, 279, 281 283, 285 287, 371 372, 699 710, 712 732, 734 736, 738 740, 742 744, 746 747, 749 750, 757 759, 762, 765, 768, 771, 773, 775, 778 779, 900, 903, 941 942, 2700 2702, 2710, 2712 2713, 2715, 2717, 2719, 6087, 91283 91372, 91820 91821, 91844 91845, 92004 92135, 93291 93292, 93306 93311, 93400 93479
+791, 793 794, 910 911, 913, 990 993, 995, 999, 2400 2460, 2502, 2505, 2508, 2512 2516, 2520, 2524, 2528 2545, 2548 2551, 2554 2557, 2560 2573, 2576, 2579 2597, 2599, 2601, 2604, 2607 2609, 2611, 2614, 2617, 2621, 2625 2630, 2634, 2638 2657, 2665, 2672, 2676, 2678 2699, 2703, 2706, 2709, 2711, 2714, 2716, 2718, 2720, 2722, 2724, 2726, 2728, 2730, 2732, 2734, 2736 2798, 2800, 2802 2805, 2807 2813, 2815 2819, 2823, 2825 2831, 2833 2839, 2841 2859, 2960 2971, 2980 2981, 5861, 8712 8713, 8716 8717, 8720 8721, 8723 8724, 8727 8849, 8851 8874, 9066, 9341 9344, 55000 55054, 55056 64991
+10950 10977, 80000 82035, 82300 87777, 90003 90004, 91000 91176, 91181 91188, 93000 93137, 93284 93286, 93312 93386, 93501 93620
+180, 182, 184, 186, 10900 10948
+924, 3004, 3006, 3012, 3016, 3022, 3027, 3033 3039, 3041, 3046 3050, 3058, 3063, 3073, 3082, 3087, 3092, 3098 3101, 3104 3113, 3116, 3120 3124, 3130, 3135 3142, 3148 3173, 3178 3183, 3194 3226, 3233 3237, 3247 3253, 3261 3265, 3271 3281, 3289, 3295 3330, 3332 3384, 3391, 3399, 3404 3425, 3431 3455, 3459, 3465, 3468 3472, 3477 3480, 3495 3496, 3505, 3509 3516, 3526 3988, 4012 4838, 4844 4860, 4864 4999, 5002, 5006, 5009, 5015, 5018, 5024, 5029, 5034, 5038, 5045, 5048, 5050 5059, 5062, 5066, 5068 5196, 5201, 5205, 5210 5217, 5229 5237, 5241 5242, 5245, 5254, 5264, 5268 5270, 5277 5280, 5284, 5288, 5292 5855, 5864 5905, 5916 6001, 6005 6006, 6010, 6017, 6022, 6027, 6030, 6033, 6036, 6039 6041, 6044 6050, 6053 6056, 6061, 6066, 6069 6070, 6077 6079, 6083, 6085 6086, 6089 6918, 6922 7126, 7129 7133, 7135 7143, 7147 7397, 7410 7483, 7505 7719, 7721 7722, 7725, 7727 7728, 7739 7743, 7749, 7764 7766, 7774 7803, 7808 7809, 7815 7817, 7821 7823, 7828, 7834, 7839, 7844 7847, 7853 7886, 7898 7902, 7911 8003, 8009 8173, 8179 8458, 8462, 8466 8467, 8470 8478, 8480 8481, 8483 8504, 8508 8512, 8515 8519, 8521 8557, 8560, 8564, 8568 8570, 8574, 8578, 8582 8636, 8640, 8644, 8648, 8652, 8655 8658, 8660, 8662, 8664, 8666, 8668, 8670, 8672, 8674 8699, 9401 9409, 9415 9435, 9438, 9441 9449, 9458, 9476 9478, 30000 30524, 30526 30632, 30634 41868, 41870 42824, 42833 51171
+5 12, 15 18, 21 22, 27 32, 34, 41 42, 45 46, 52 84, 86 87, 89 93, 95 98, 101, 160 173, 179, 181, 183, 185, 187 189, 191, 202 203, 206, 212, 214 215, 218 223, 251 257, 259 266, 268 271, 444 449, 588 591, 598, 600, 696 698, 733, 737, 741, 745, 761, 763, 766, 769, 772, 776, 788 789, 792, 812, 827, 829, 867 869, 873, 876, 881, 885, 891 892, 894, 896, 898 899, 901, 905 906, 980, 996 998, 2095, 2100, 2121 2122, 2125 2126, 2137 2138, 2143 2144, 2147, 2150, 2179 2180, 2193 2199, 2220, 2461 2483, 2598, 2600, 2603, 2606, 2610, 2613, 2616, 2620, 2622 2624, 2631 2633, 2635, 2664, 2666 2668, 2673 2675, 2677, 2704 2705, 2707 2708, 2721, 2723, 2725, 2727, 2729, 2731, 2733, 2735, 4001, 5021 5022, 5027, 5030 5033, 5035 5036, 5042, 5044, 5200, 5203, 5207 5208, 5220 5228, 5240, 5243, 5247 5248, 5260 5263, 5265 5267, 10661, 17600, 90002, 90092 90212, 90254 90257, 90265, 90275 90278, 90281 90282, 91792 91794, 91797 91799, 91803 91808, 91812 91819, 91842 91843, 91892 91893, 92136 92139, 92150 92153, 92158 92161, 92171, 92177, 92186 92188, 92198 92200, 92211, 92217, 92716 92717, 92719 92720, 92722 92723, 92725 92726, 92732 92733, 92735 92736, 92738 92739, 92741 92742, 93287 93288, 93300 93305, 93626 93627, 93636 93637, 93646 93647, 93655 93656
+711, 10983 10984, 10986 10989, 10993 10999, 93200 93203
+190, 192, 194, 196, 198, 200 201, 204 205, 207 211, 213, 216 217, 234, 241 242, 246 248, 250, 258, 267, 273 275, 278, 280, 284, 290, 295, 298, 354, 360, 362 363, 365, 368, 383, 9011, 15999, 16399 16636, 91850 91858, 401 409, 443, 450 500, 505 506, 509 510, 513 514, 517 518, 521 529, 531, 533, 535, 537 577, 748, 751 756, 760, 764, 767, 787, 790, 9021 9042, 13006 13009, 17500 17506, 17701 18298, 20100 25205, 2951 2953, 2955 2957, 51300 51318, 2861 2945, 8850, 8875 8886, 9381 9392, 15000 15900, 16000 16018, 153, 340, 770, 774, 777, 780 786, 795 800, 802, 804, 806, 810, 814, 816 819, 821, 824, 831, 833, 836, 839 850, 853 854, 856, 859 860, 862 863, 865, 870, 874 875, 877 879, 882 884, 886, 895, 897, 902, 904, 907 909, 912, 915 923, 925 940, 944 979, 981 989, 994, 3059, 3068, 3095, 3103, 3114, 3117, 3128, 3134, 3147, 3175, 3187, 3229 3230, 3245, 3258, 3268, 3284, 3290, 3331, 3386, 3393, 3400, 3427, 3456, 3462, 3466, 3475, 3483, 3500, 3507, 3521, 4003, 4841, 4862, 5249, 5259, 5274, 5282, 5286, 5291, 6920, 7128, 7134, 7146, 7402, 7485, 7720, 7723 7724, 7726, 7729 7731, 7745, 7753, 7770, 7804, 7812, 7818, 7824, 7831, 7836, 7841, 7849, 7888, 7907, 8006, 8175, 8460, 8464, 8468, 8479, 8482, 8506, 8514, 8520, 8558, 8562, 8566, 8572, 8576, 8580, 8638, 8642, 8646, 8650, 8654, 8659, 8661, 8663, 8665, 8667, 8669, 8671, 8673, 8700 8711, 8714 8715, 8718 8719, 8722, 8725 8726, 8901 8990, 9061 9065, 9067, 9410 9414, 9436 9437, 9439, 9450 9457, 9459 9475, 10981 10982, 10985, 10990 10992, 11000 13003, 13012 14288, 18350 18379, 30525, 30633, 41869, 42827 42830, 51700 54004, 55055, 75000 75854, 82100 82225, 91178 91180, 91189 91222, 88000, 88011 88943
+ 
+Header 36: PBS body system()
+Header 36: Alimentary tract and metabolism
+Header 36: Blood and blood forming organs
+Header 36: Cardiovascular system
+Header 36: Dermatologicals
+Header 36: Genito urinary system and sex hormones
+Header 36: Systemic hormonal preparations, excluding sex hormones and insulins
+Header 36: Anti infectives for systemic use
+Header 36: Musculo skeletal system
+Header 36: Nervous system
+Header 36: Respiratory system
+Header 36: Sensory organs
+Header 36: Other, including:
+Header 36: Antineoplastic and immunomodulating agents
+Header 36: Antiparasitic products, insecticides and repellents
+Header 36: Various
+A01   Stomatological preparations
+A02   Drugs for acid related disorders
+A03   Drugs for functional gastrointestinal disorders
+A04   Antiemetics and antinauseants
+A05   Bile and liver therapy
+A06   Drugs for constipation
+A07   Antidiarrheals, intestinal antiinflammatory/antiinfective agents
+A08   Antiobesity preparations, excl. diet products
+A09   Digestives, incl. enzymes
+A10   Drugs used in diabetes
+A11   Vitamins
+A12   Mineral supplements
+A16   Other alimentary tract and metabolism products
+B01   Antithrombotic agents
+B02   Antihemorrhagics
+B03   Antianemic preparations
+B05   Blood substitutes and perfusion solutions
+B06   Other haematological agents
+C01   Cardiac therapy
+C02   Antihypertensives
+C03   Diuretics
+C04   Peripheral vasodilators
+C05   Vasoprotectives
+C07   Beta blocking agents
+C08   Calcium channel blockers
+C09   Agents acting on the renin angiotensin system
+C10   Lipid modifying agents
+D01   Antifungals for dermatological use
+D02   Emollients and protectives
+D04   Antipruritics, incl. antihistamines, anaesthetics, etc.
+D05   Antipsoriatics
+D06   Antibiotics and chemotherapeutics for dermatological use
+D07   Corticosteroids, dermatological preparations
+D08   Antiseptics and disinfectants
+D10   Anti acne preparations
+D11   Other dermatological preparations
+G01   Gynecological anti infectives and antiseptics
+G02   Other gynaecological
+G03   Sex hormones and modulators of the genital system
+G04 – Urologicals
+H01   Pituitary and hypothalamic hormones and analogues
+H02   Corticosteroids for systemic use
+H03   Thyroid therapy
+H04   Pancreatic hormones
+H05   Calcium homeostasis
+J01   Antibacterials for systemic use
+J02   Antimycotics for systemic use
+J04   Antimycobacterials
+J05   Antivirals for systemic use
+J07 – Vaccines
+M01   Antiinflammatory and antirheumatic products
+M02   Topical products for joint and muscular pain
+M03   Muscle relaxants
+M04   Antigout preparations
+M05   Drugs for treatment of bone diseases
+M09   Other drugs for disorders of the musculo skeletal system
+N01 – Anaesthetics
+N02   Analgesics
+N03   Antiepileptics
+N04   Anti Parkinson drugs
+N05   Psycholeptics
+N06   Psychoanaleptics
+N07   Other nervous system drugs
+R01   Nasal preparations
+R03   Drugs for obstructive airway diseases
+R05   Cough and cold preparations
+R06   Antihistamines for systemic use
+R07   Other respiratory system products
+S01   Ophthalmologicals
+S02   Otologicals
+S03   Ophthalmological and otological preparations
+L01   Antineoplastic agents
+L02   Endocrine therapy
+L03   Immunostimulants
+L04 – Immunosuppressants
+P01   Antiprotozoals
+P02   Anthelmintics
+P03   Ectoparasiticides, incl. scabicides, insecticides and repellents
+V01   Allergens
+V03   All other therapeutic products
+V04   Diagnostic agents
+V06   General nutrients
+V07   All other non therapeutic products
+  People who apply to access the NDIS before they turn 65 and who are found eligible can remain in the NDIS beyond age 65. For more information see the . 
+  ABS ‘Autism in Australia’, Disability, Ageing and Carers Australia: Summary of Findings, 2018,  , accessed 23 August 2021.
+  NDIS, 'What is considered good evidence of disability?', , accessed 16 September 2021.
+  Commonwealth Department of Health, 'The Australian health system', , accessed 16 September 2021.
+  ABS Disability, Ageing and Carers, Australia, 2018: Summary of Findings: , accessed 16 September 2021.
+  Non private dwellings are establishments which provide communal or transitory type accommodation and include hostels for people with disability, accommodation for the retired or aged (not self contained) such as nursing homes, hospitals, childcare institutions and others. For more information see the .
+  For more information about housing suitability, see the .
+  Services Australia, 'Who can get it', , accessed 16 September 2021.
+  NDIS, 'Research and evaluation', , accessed 16 September 2021.
+  ABS, 1270.0.55.001   Australian Statistical Geography Standard (ASGS): Volume 1   Main Structure and Greater Capital City Statistical Areas, July 2016, , accessed 21 September 2021
+  Services Australia, 'Mapping of Medicare items to Broad Type of Service', , accessed 16 September 2021.
+  Commonwealth Department of Health, The PBS, , accessed 16 September 2021.

@@ -1,0 +1,14 @@
+Date:
+2023-03-06
+Article Title:
+The Daily — Canadian Tourism Activity Tracker, December 2022
+Article Content:
+Released: 2023 03 06
+In December, overall tourism activity in Canada had recovered more than nine tenths of its 2019 pre COVID 19 pandemic level, largely on the strength of domestic travel.
+Visit the Canadian Tourism Activity Tracker visualization tool to interact with the data.
+A preview of more recent international travel can be found in the release "Leading indicator of international arrivals to Canada" for the January 2023 reference period.
+Overall tourism activity in December reached 91.9% of the December 2019 level, before the pandemic. While domestic activity (i.e., from Canadian residents travelling within Canada) reached 96.0% of its pre pandemic level, inbound activity (i.e., from international visitors) was less robust, at 80.6% of the December 2019 level. 
+All provinces have recovered roughly 85% or more of their overall tourism activity levels from December 2019. 
+The Canadian Tourism Activity Tracker was an experimental product designed in 2021 to assess recovery of tourism activity in Canada. As currently designed, the Tracker has fulfilled this purpose and will no longer be updated after this December 2022 release. 
+The product "Canadian Tourism Activity Tracker," part of the Data Visualization Products series (Catalogue number71 607 X), is now available. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

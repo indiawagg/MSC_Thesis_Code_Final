@@ -1,0 +1,10 @@
+Date:
+2024-06-14
+Article Title:
+The Daily — Canadian Community Health Survey: Public use microdata file, 2019/2020
+Article Content:
+Released: 2024 06 14
+The 2019/2020 "Canadian Community Health Survey: Public Use Microdata File" is now available.
+The file provides data for health regions or combined health regions across Canada, including physical activity, smoking, alcohol consumption, general health, chronic health conditions and use of health care services.
+The product "Canadian Community Health Survey: Public Use Microdata File," 2019/2020 (Catalogue number82M0013X), is now available from the Data module of the Statistics Canada website under the Public use microdata tab.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

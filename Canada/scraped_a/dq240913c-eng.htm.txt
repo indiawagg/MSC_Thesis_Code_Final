@@ -1,0 +1,16 @@
+Date:
+2024-09-13
+Article Title:
+The Daily — Industrial capacity utilization rates, second quarter 2024
+Article Content:
+Released: 2024 09 13
+Canadian industries operated at 79.1% of their production capacity in the second quarter, up slightly from 78.6% in the first quarter of 2024, which was revised up slightly by 0.1 percentage point. 
+Capacity utilization in the mining, quarrying, and oil and gas extraction sector rose 1.6 percentage points to 77.2% in the second quarter. This increase coincided with higher activity in both oil sands extraction after production resumed in a number of facilities following maintenance and turnarounds late in the first quarter and support activities for mining, and oil and gas extraction.
+In contrast, the capacity utilization rate in the construction sector edged down 0.2 percentage points to 82.4% in the second quarter, following a downturn in residential building construction.
+The capacity utilization rate in the manufacturing sector rose 0.5 percentage points to 77.6% in the second quarter. This increase was driven by computer and electronic product manufacturing (+5.1 percentage points) and wood product manufacturing (+2.9 percentage points).
+The data visualization product "Overview of the industrial capacity utilization rate: Interactive tool," which is part of the Statistics Canada   Data Visualization Products series (Catalogue number71 607 X), is now available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure.
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available. 
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

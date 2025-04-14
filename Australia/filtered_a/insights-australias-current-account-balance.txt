@@ -1,0 +1,28 @@
+Date:
+2023-06-06
+Article Title:
+ Insights into Australia’s current account balance
+
+Article Content:
+This article provides insights into recent trends in Australia’s current account, trade balance and net primary income position using detailed data from the  publication.
+The current account reflects Australia’s transactions with the rest of the world in a given period. It consists of two components:
+Countries which record a trade surplus have greater exports than imports in a given reference period (net exporter); while countries which record a trade deficit have greater imports than exports in a given reference period (net importer). Trade balances are then measured against the balance of income payments into and out of the country to provide the current account balance.
+Australia’s current account surplus increased by $581m to $12.3b in the March quarter 2023. This reflected a higher trade surplus partly offset by an increase in the net primary income deficit.
+  goods and services (imports and exports); and
+  income (primary and secondary).
+In recent quarters there has been a greater divergence between strong trade balances and record levels of net primary income. The reasons for this can be traced back prior to the COVID 19 pandemic.
+March quarter 2019 represented the final quarter of a 44 year period where Australia ran a current account deficit. This relatively small deficit of $2.9 billion, which represented the narrowest current account deficit since June 1997, was generated off the back of a then record trade surplus of $13.6 billion. For context, only four times across the six decades of the time series had the trade surplus surpassed $6 billion, and those only happened after 2016.
+This record trade surplus was driven by strong exports and high bulk commodity prices, specifically iron ores and minerals. These trade figures reflected the elevated levels of foreign direct investment into Australian mining companies   at its peak in 2012, mining investment grew to more than 8% of GDP¹. This substantial investment enabled the construction of mining facilities, which in turn enabled increased exports of these commodities, generating significant profits² and taking advantage of the increased terms of trade.
+There has been substantial growth in exports across these bulk commodities since March quarter 2019. Since that quarter, exports of Metal ores and minerals grew by 80%, Coal, coke and briquettes by 80%, and Other mineral fuels by 78%. This unprecedented growth in exports of bulk commodities was largely driven by high commodity prices, which laid the foundation for the sustained strength in Australia’s trade balance. These high prices translated into a rise in Mining profits, which resulted in record income payments to non resident investors.³
+Primary income represents earnings from the provision of a factor of production – compensation of employees for the provision of labour and investment income for the provision of financial capital. In Australia’s , investment income represents the majority of total primary income.
+Primary income credits represent the economic return to Australian workers and investors from non residents for the provision of labour and financial capital. Primary income debits measure the inverse, the economic return to non residents for the provision of foreign labour and foreign financial capital.
+Net primary income is derived by primary income credits less primary income debits.
+Australia’s net primary income was relatively stable until the onset of the COVID 19 pandemic. In March quarter 2020, there was a steep reduction in primary income debits reflecting lower levels of income payments to non residents throughout 2020. During this time, financial and non financial corporations deferred dividend payments to investors. Since December quarter 2021, record primary income debits have been reported reflecting high commodity prices and high returns to investors.
+Estimates can also be disaggregated by industry to provide further insights on an annual basis.
+Manufacturing has remained steady since 2012, falling marginally from 7% of total primary income debits in 2012 to 5% in 2022. Financial and insurance services decreased in this period, from 32% of total primary income debits in 2012 to 18% in 2022. In level terms, Financial and insurance services remained fairly consistent over the past decade, with the exception of a contraction in 2020 21 reflecting policy changes⁴ through the COVID 19 pandemic.
+Mining was the largest contributor to income debits and grew the most over the past decade. From 2012, Mining grew from contributing 21% of the total to 43% in 2022. In level terms this represented a $65.9 billion increase in the same period, or 388% increase on 2012 figures. This shift reflects the level of income payments flowing out of the country to non resident companies who have invested in these industries, having returns on their investment paid out through dividends and profits. Though these are often reinvested back into the Australian enterprises, the sheer size of recent profits earned⁵ has seen these levels of income outflows to non resident investors grow substantially.
+  
+  
+  
+  
+  

@@ -1,0 +1,21 @@
+Date:
+2020-04-21
+Article Title:
+ People under 20 experience the largest drop in jobs
+
+Article Content:
+The Australian Bureau of Statistics (ABS) today released new statistics on jobs and wages based on Single Touch Payroll data from the Australian Taxation Office. The estimates in Weekly Payroll Jobs and Wages in Australia provide additional information on the economic impact of COVID 19 and complement monthly Labour Force statistics.
+The new data showed that between 14 March and 4 April (the three weeks after Australia recorded its 100th confirmed COVID 19 case) jobs decreased by 6.0%.
+Head of Labour Statistics at the ABS, Bjorn Jarvis, said: “The largest impact of net job losses, in percentage terms, was for people aged under 20, for whom jobs decreased by 9.9%.
+“Tasmania and Victoria had the largest decreases in jobs, down by 7.3% and 6.8%.
+“The Accommodation and food services industry saw the largest reduction in jobs (decreasing by 25.6%), followed by the Arts and recreation services industry (decreasing by 18.7%).”
+Total wages paid by businesses decreased by 6.7% over the period.
+“Looking at the week to week changes, the decrease in jobs in the week ending 4 April 2020 was 5.5%, significantly larger than the 0.5% decrease in the week ending 28 March 2020,” Mr Jarvis said.
+Further information is available in Weekly Payroll Jobs and Wages in Australia (cat. no. 6160.0.55.001).
+The ABS would like to acknowledge the critical support from the Australian Taxation Office in enabling the ABS to produce these statistics, which provide fresh weekly insights into the Australian labour market.
+  This release includes information on employee jobs where a payment was made in the reference week through Single Touch Payroll enabled software and reported to the Australian Taxation Office.
+  Approximately 99% of substantial employers (those with 20 or more employees) and 71% of small employers (19 or less employees) are currently reporting through Single Touch Payroll. Further information on the release can be found in the Methodology.
+  Further information on the suite of labour statistics that provide insights into the impact of COVID 19 can be found in .
+  The additional ABS products being published to understand the economic impact of the coronavirus can be found on the ABS 
+  When reporting ABS data, the Australian Bureau of Statistics (ABS) must be attributed as the source.
+  For media requests and interviews, contact the ABS Media Team on 1300 175 070 (8:30am   5:00pm Mon Fri)

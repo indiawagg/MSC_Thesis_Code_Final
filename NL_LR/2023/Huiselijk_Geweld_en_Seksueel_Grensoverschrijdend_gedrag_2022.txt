@@ -1,0 +1,1400 @@
+Article Content:
+ Opgedragen aan
+
+Dit rapport is opgedragen aan Ellen Laan, seksuoloog en hoogleraar Bio-psychosociale determinanten van seksuele gezondheid aan de Universiteit van Amsterdam (UvA). Ellen zat de begeleidingscommissie voor die de ontwikkeling van de deelvragenlijst over slachtofferschap van seksueel geweld en seksuele intimidatie begeleidde en zij was ook de voorzitter van de commissie die de eerste meting van de Prevalentiemonitor Huiselijk Geweld en Seksueel Geweld (2020) begeleidde. Wij zijn haar bijzonder veel dank verschuldigd en kijken terug op een ontzettend waardevolle samenwerking.
+
+
+
+Samenvatting
+
+In deze samenvatting komen achtereenvolgens aan de orde:
+
+Aanleiding voor het onderzoek
+
+Opzet van het onderzoek
+
+Onderwerp van het onderzoek
+
+Antwoorden op de onderzoeksvragen
+
+Aanvullende thema's
+
+Maatschappelijke context van het onderzoek.
+
+1. Aanleiding voor het onderzoek
+
+De aanleiding van deze Prevalentiemonitor Huiselijk Geweld en Seksueel Grensoverschrijdend gedrag (PHGSG) was de aanbieding aan de Tweede Kamer van het onderzoek naar de prevalentie van huiselijk geweld en kindermishandeling (Ten Boom & Wittebrood, 2019). De minister van Volksgezondheid, Welzijn en Sport (VWS) en de minister voor Rechtsbescherming gaven aan dat zij het van belang vinden dat er frequenter dan voorheen onderzoek wordt gedaan naar de prevalentie van huiselijk geweld (en kindermishandeling) (brief d.d. 5 februari 2019). Daarnaast is naar aanleiding van het maatschappelijke #MeToo debat en het debat in de Tweede Kamer over het rapport van de Onderzoekscommissie seksuele intimidatie en misbruik in de sport (Commissie de Vries), een motie aangenomen waarin onder meer wordt vastgesteld dat er geen goed beeld is van de omvang en ontwikkeling van gevallen van seksuele intimidatie en seksueel geweld. De motie verzoekt de regering onder andere om periodiek kwantitatief wetenschappelijk onderzoek te laten verrichten zodat de ontwikkelingen (primair van de omvang) van seksuele intimidatie en seksueel geweld blijvend worden gemonitord en het effect van preventiebeleid kan worden onderzocht. De PHGSG is voor het eerst uitgevoerd in 2020. In 2022 heeft de tweede meting van deze monitor plaatsgevonden. Dit rapport beschrijft de resultaten hiervan.
+
+2. Opzet van het onderzoek
+
+De cijfers in deze PHGSG 2022 zijn gebaseerd op een internetenquête onder een steekproef van de Nederlandse bevolking van 16 jaar en ouder (bijna 14,5 miljoen personen). Voor het onderzoek zijn honderdduizend personen benaderd. Ruim 24 duizend personen hebben de vragenlijst ingevuld, een respons van 24,2 procent. Dit grote aantal respondenten maakt het mogelijk om betrouwbare en gedetailleerde uitspraken te doen over de prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag in Nederland.
+
+3. Onderwerp van het onderzoek
+
+De PHGSG beschrijft de aard en de mate waarin huiselijk geweld en seksueel grensoverschrijdend gedrag in Nederland voorkomen. De data zijn gebaseerd op zelfrapportage, dat wil zeggen dat de respondent verslag doet van zijn eigen gevoelens en ervaringen. Bij huiselijk geweld gaat het om vormen van geweld als dwingende controle, stalking door ex-partner, fysiek geweld en seksueel grensoverschrijdend gedrag die gepleegd worden door iemand uit de huiselijke kring. De term ‘huiselijke kring’ heeft betrekking op de sociale relatie tussen slachtoffer en pleger. Tot de huiselijke kring worden gezins- en familieleden en ook eventuele (ex-)partners gerekend. Met ‘huiselijke kring’ wordt niet de locatie bedoeld: de voorvallen hoeven niet per se thuis te hebben plaatsgevonden. Seksueel grensoverschrijdend gedrag omvat alle vormen van seksuele intimidatie en seksueel geweld. Seksueel grensoverschrijdend gedrag kan binnen en buiten de huiselijke kring plaatsvinden, zowel online als offline, in de ‘echte wereld’.
+
+In deze monitor worden de volgende vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag afzonderlijk besproken: verbale agressie in huiselijke kring, fysiek geweld in huiselijke kring, dwingende controle in huiselijke kring, stalking door ex-partner, offline seksuele intimidatie, online seksuele intimidatie, en fysiek seksueel geweld. Gevraagd is naar voorvallen die hebben plaatsgevonden in de periode van vijf jaar respectievelijk 12 maanden voorafgaand aan het onderzoek. Het slachtofferschap staat centraal. Aangezien het veldwerk van dit onderzoek in maart en april 2022 plaatsvond heeft de jaarprevalentie van slachtofferschap betrekking op de periode maart/april 2021 tot en met maart/april 2022. Ook komt aan de orde in welke mate dit slachtofferschap een structureel karakter heeft (dat wil zeggen ten minste maandelijks plaatsvindt).
+
+Verder wordt beschreven wie de plegers zijn, wat de gevolgen voor de slachtoffers zijn, en met wie de slachtoffers over hun ervaringen hebben gepraat. Aanvullende onderwerpen zijn slachtofferschap van huiselijk geweld en seksueel grensoverschrijdend gedrag in de kinderjaren, het zelf plegen van huiselijk geweld en seksueel grensoverschrijdend gedrag, en vermoedens over het plaatsvinden van huiselijk geweld bij iemand in de omgeving. Het slachtofferschap van huiselijk geweld en seksueel grensoverschrijdend gedrag is uitgesplitst naar relevante kenmerken van slachtoffers zoals de persoonskenmerken geslacht, leeftijd, seksuele oriëntatie en migratieachtergrond, en achtergrondkenmerken zoals de positie van de persoon in het huishouden, het welvaartsniveau van het huishouden en de stedelijkheid van de gemeente. Ook de samenhangen tussen de prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag enerzijds en de ervaren invloed van de coronapandemie op het eigen leven en de veranderingen in de werk- en thuissituatie tijdens de pandemie anderzijds komen aan de orde.
+
+4. Antwoorden op de onderzoeksvragen
+
+Voor de PHGSG zijn in overleg met het WODC een aantal doelstellingen en daaraan gekoppelde onderzoeksvragen geformuleerd. Deze worden hieronder weergegeven en beantwoord.
+
+Wat is de aard en omvang, gemeten over de periode van een jaar, van slachtofferschap van huiselijk geweld, seksuele intimidatie en seksueel geweld onder de Nederlandse bevolking van 16 jaar en ouder?
+
+Jaarprevalentie huiselijk geweld
+
+In 2022 gaf 9 procent van de bevolking van 16 jaar en ouder (bijna 1,3 miljoen personen) aan in de afgelopen 12 maanden slachtoffer te zijn geweest van een of meerdere vormen van huiselijk geweld . Bij dit prevalentiecijfer van huiselijk geweld is verbale agressie niet meegeteld. Als verbale agressie meegeteld zou worden, zou 33 procent slachtoffer zijn van huiselijk geweld. Zes procent van de 16‑plussers (ruim 850 duizend personen) is structureel slachtoffer geweest van huiselijk geweld, dat wil zeggen dat ze in de afgelopen 12 maanden ten minste één bepaalde vorm van huiselijk geweld (bijna) dagelijks, wekelijks of maandelijks hebben meegemaakt. Ook hierbij is verbale agressie niet meegeteld.
+
+Uitgesplitst naar de verschillende vormen van huiselijk geweld werd 32 procent slachtoffer van verbale agressie in huiselijke kring (bijna 4,6 miljoen personen). Twaalf procent van de slachtoffers had hier structureel mee te maken. Bij verbale agressie gaat het bijvoorbeeld om hoogoplopende meningsverschillen waarbij geschreeuwd of gegild wordt, treiteren of pesten, of kleineren of vernederen.
+
+Vier procent van de 16‑plussers (bijna 560 duizend personen) zei in de afgelopen 12 maanden slachtoffer te zijn geweest van fysiek geweld in huiselijke kring , waarvan 10 procent aangaf dat dit geweld structureel van aard was. Fysiek geweld betreft ervaringen waarbij werd gedreigd met geweld, het slachtoffer werd verwond of een poging daartoe werd gedaan. De voorvallen lopen uiteen van dreigen met pijn doen tot poging tot verstikking of verwondingen door het gebruik van wapens.
+
+Vijf procent van de 16‑plussers (bijna 730 duizend personen) werd in de afgelopen 12 maanden slachtoffer van dwingende controle in huiselijk kring . Door het herhaalde karakter is deze vorm van huiselijk geweld per definitie structureel: het gaat om geweld waarbij een of meer personen een ander sterk domineren en controleren. Het slachtoffer kan daarbij bepaalde vrijheden worden ontzegd door de ander(en), zoals het onderhouden van sociale contacten of het hebben van eigen geld. Ook kan/kunnen de pleger(s) dreigen zichzelf, het slachtoffer, of geliefden iets aan te doen.
+
+Twee procent van de 16‑plussers met een ex-partner (ruim 170 duizend personen) gaf aan in de afgelopen 12 maanden slachtoffer te zijn geweest van stalking door een ex-partner. Door het herhaalde karakter gaat het bij stalking net zoals bij dwingende controle per definitie om een structurele vorm van huiselijk geweld.
+
+Jaarprevalentie seksueel grensoverschrijdend gedrag
+
+In 2022 werd 13 procent van de bevolking van 16 jaar en ouder (ruim 1,8 miljoen personen) slachtoffer van een of meer vormen van seksueel grensoverschrijdend gedrag in de afgelopen 12 maanden. Twee procent van de 16‑plussers (270 duizend personen) werd hiervan structureel slachtoffer.
+
+Uitgesplitst naar de verschillende vormen van seksueel grensoverschrijdend gedrag gaf 9 procent van de 16‑plussers (bijna 1,3 miljoen personen) aan in de afgelopen 12 maanden slachtoffer te zijn geweest van offline seksuele intimidatie Bij 14 procent van de slachtoffers had de intimidatie een structureel karakter. Offline seksuele intimidatie betreft ervaringen met seksuele intimidatie die in de ‘echte wereld’, dus niet online plaatsvonden en waarbij er geen lichamelijk contact tussen pleger en slachtoffer was. Deze vorm van seksuele intimidatie kan verschillen van seksueel getinte opmerkingen tot het moeten aanschouwen van seksuele handelingen.
+
+Zes procent van bevolking van 16 jaar en ouder (930 duizend personen) gaf aan dat ze in de afgelopen 12 maanden slachtoffer zijn geweest van online seksuele intimidatie . Van de slachtoffers zei 13 procent structureel hiermee te maken hebben gehad. Bij online seksuele intimidatie gaat het om ongewenst seksueel gedrag dat via het internet, bijvoorbeeld via sociale media, WhatsApp, (video)chat of e-mail, plaatsvond. Voorbeelden zijn seksueel kwetsende opmerkingen of gedwongen worden om online seksuele handelingen te verrichten.
+
+Vier procent van de 16‑plussers (bijna 510 duizend personen) zei in de afgelopen 12 maanden slachtoffer te zijn geweest van fysiek seksueel geweld . Bij 6 procent van de slachtoffers was dit geweld structureel van aard. Het gaat om voorvallen waarbij grensoverschrijdend lichamelijk contact plaatsvond, variërend van ongewenste aanrakingen tot verkrachting.
+
+Overlap tussen huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+Huiselijk geweld kan seksueel grensoverschrijdend van aard zijn, en andersom kan seksueel grensoverschrijdend gedrag in huiselijke kring plaatsvinden. Deze overlap tussen huiselijk geweld en seksueel grensoverschrijdend gedrag is relatief klein: 2 procent van de 16‑plussers werd slachtoffer van huiselijk seksueel grensoverschrijdend gedrag, terwijl 8 procent slachtoffer werd van huiselijk geweld dat geen seksueel grensoverschrijdend karakter had. Omgekeerd vindt seksueel grensoverschrijdend gedrag voor het grootste deel niet in huiselijke kring plaats: 12 procent van de 16‑plussers is slachtoffer geweest van seksueel grensoverschrijdend gedrag buiten de huiselijke kring. Bij 2 procent gebeurde dit binnen de huiselijke kring.
+
+Wat is de trend van de jaarprevalentie van huiselijk geweld, seksuele intimidatie en seksueel geweld?
+
+Ontwikkeling huiselijk geweld 2020–2022
+
+De jaarprevalentie van huiselijk geweld in 2022 (9 procent) verschilt niet significant van die van 2020 (8 procent). Dit geldt ook voor de onderliggende vormen van huiselijk geweld: fysiek geweld in huiselijke kring (4 procent in beide jaren), dwingende controle in huiselijke kring (5 procent in beide jaren) en stalking door ex-partner (2 procent in beide jaren). Ook de jaarprevalentie van verbale agressie in huiselijke kring in 2022 (32 procent) is vergelijkbaar met die van 2020 (31 procent). Verbale agressie in huiselijke kring is niet meegeteld in het totaalcijfer van huiselijk geweld.
+
+Ontwikkeling seksueel grensoverschrijdend gedrag 2020–2022
+
+De jaarprevalentie van seksueel grensoverschrijdend gedrag in 2022 daarentegen verschilt wel significant van die van 2020. Deze is gestegen van 11 naar 13 procent. Met name ervaringen van seksuele intimidatie werden vaker gerapporteerd: tussen 2020 en 2022 steeg de jaarprevalentie van offline seksuele intimidatie significant van 7 naar 9 procent en die van online seksuele intimidatie significant van 5 naar 6 procent. De jaarprevalentie van fysiek seksueel geweld is niet significant gewijzigd (namelijk van 3,3 procent in 2020 naar 3,5 procent in 2022).
+
+Wie zijn de plegers van huiselijk geweld, seksuele intimidatie en seksueel geweld?
+
+Huiselijk geweld wordt het vaakst door een partner of ex-partner gepleegd. Bij dwingende controle in huiselijke kring zijn deze percentages iets hoger dan bij fysiek geweld in huiselijke kring. Bij seksueel grensoverschrijdend gedrag zijn de plegers voor het overgrote deel afkomstig van buiten de huiselijke kring. Bij offline en online seksuele intimidatie geeft ruim de helft van de slachtoffers aan dat een onbekende de pleger is. Bij fysiek seksueel geweld daarentegen kennen de meesten (ruim 70 procent) de pleger.
+
+Plegers van buiten de huiselijke kring die relatief vaak genoemd worden zijn kennissen van uitgaan/feestjes, collega’s, dates, goede vrienden/vriendinnen, en – bij online seksuele intimidatie – online kennissen.
+
+Bij seksueel grensoverschrijdend gedrag zijn de plegers voor het overgrote deel man. Ook bij fysiek geweld in huiselijke kring, dwingende controle in huiselijke kring en stalking door (ex-)partner is de pleger vaker man dan vrouw, maar hier is het verschil kleiner dan bij seksueel grensoverschrijdend gedrag. Bij verbale agressie in huiselijke kring is er geen man-vrouwverschil in plegerschap.
+
+Wat zijn de door de slachtoffers ervaren gevolgen van huiselijk geweld, seksuele intimidatie en seksueel geweld?
+
+In 2022 zegt 44 procent van de slachtoffers van fysiek geweld in huiselijk kring in de afgelopen 12 maanden gevolgen te hebben (gehad). Van de slachtoffers van dwingende controle in huiselijk kring en van de slachtoffers van stalking door ex-partner geeft een ruime meerderheid van 67 procent dit aan. De percentages bij seksueel grensoverschrijdend gedrag liggen lager: voor online seksuele intimidatie, offline seksuele intimidatie en fysiek seksueel geweld bedragen deze respectievelijk 24, 19 en 38 procent. Bij fysiek seksueel geweld moet worden opgemerkt dat wanneer enkel naar de slachtoffers van seksuele handelingen zoals ongewenste geslachtsgemeenschap of gedwongen prostitutie wordt gekeken (en de voorvallen ongewenst aanraken op een seksuele manier en ongewenst zoenen buiten beschouwing worden gelaten), een ruime meerderheid (71 procent) hiervan gevolgen heeft gehad.
+
+Voor zowel huiselijk geweld en seksueel grensoverschrijdend gedrag in totaal als voor de meeste onderliggende vormen geldt dat vrouwen vaker gevolgen ervaren dan mannen.
+
+Uitgesplitst naar de aard van de gevolgen komen bij huiselijk geweld psychische problemen het meest voor, gevolgd door relatieproblemen. Ook bij seksueel grensoverschrijdend gedrag zijn psychische problemen het meest genoemde gevolg, met op de tweede plaats seksuele problemen.
+
+Bij de interpretatie van de cijfers over de gevolgen moet er rekening mee worden gehouden dat binnen de onderscheiden vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag de voorvallen qua ernst en impact op het slachtoffer sterk kunnen verschillen. Bij fysiek seksueel geweld variëren de onderzochte voorvallen van bijvoorbeeld ongewenst zoenen tot geslachtsgemeenschap. Het moge duidelijk zijn, en dat blijkt ook uit de cijfers, dat de gevolgen voor de slachtoffers van het eerstgenoemde voorval anders zijn dan die voor de slachtoffers van het laatstgenoemde voorval.
+
+In hoeverre spreken slachtoffers van huiselijk geweld, seksuele intimidatie en seksueel geweld met anderen over hun ervaringen?
+
+De meerderheid van de slachtoffers van huiselijk geweld en seksueel grensoverschrijdend gedrag praat met iemand over hun ervaringen. Slachtoffers van huiselijk geweld zoeken vaker contact dan slachtoffers van seksueel grensoverschrijdend gedrag. Van de slachtoffers van huiselijk geweld zegt, afhankelijk van het soort delict, grofweg 70 tot 90 procent met iemand te hebben gepraat, van de slachtoffers van seksueel grensoverschrijdend gedrag zegt 60 tot 70 procent dit.
+
+Het meest wordt gesproken met personen in het eigen, informele circuit: vooral met vrienden/vriendinnen, partner, en – bij huiselijk geweld – met andere gezins- of familieleden. Bij huiselijk geweld worden, in tegenstelling tot bij seksueel grensoverschrijdend gedrag, ook professionele hulpverleners zoals (huis)artsen, psychologen of maatschappelijk werkers relatief vaak geconsulteerd.
+
+In hoeverre worden huiselijk geweld, seksuele intimidatie en seksueel geweld door slachtoffers zelf gemeld bij Veilig Thuis of de politie?
+
+Met andere instanties zoals de politie, Veilig Thuis en het Centrum Seksueel Geweld wordt naar verhouding weinig contact gelegd. Met de politie wordt, afhankelijk van de delictsoort, door grofweg 5 á 10 procent van de slachtoffers van huiselijk geweld gepraat en door grofweg 1 á 2 procent van de slachtoffers van seksueel grensoverschrijdend gedrag. Met medewerkers van Veilig Thuis praten, afhankelijk van de delictsoort, 3 á 5 procent van de slachtoffers van huiselijk geweld en 0,2 procent of minder van de slachtoffers van seksueel grensoverschrijdend gedrag. Met hulpverleners van het Centrum Seksueel Geweld praten 0,2 á 0,3 procent van de slachtoffers van seksuele intimidatie en 0,6 procent van de slachtoffers van fysiek seksueel geweld.
+
+Bestaan er verschillen in de aard en omvang van slachtofferschap van huiselijk geweld, seksuele intimidatie en seksueel geweld tussen verschillende bevolkingsgroepen (geslacht, leeftijd, migratieachtergrond, en andere relevante groepen)?
+
+Verschillen in slachtofferschap huiselijk geweld tussen bevolkingsgroepen
+
+Jongeren zijn vaker slachtoffer van huiselijk geweld dan oudere leeftijdsgroepen. In 2022 werd 25 procent van de 16- tot 18‑jarigen in de afgelopen 12 maanden slachtoffer van huiselijk geweld en 16 procent van de 18- tot 24‑jarigen. Van de 65‑plussers was 3 procent slachtoffer. Vrouwen zijn iets vaker slachtoffer dan mannen (10 tegen 8 procent). Heteroseksuele personen zijn minder vaak slachtoffer dan personen met een andere seksuele oriëntatie. Verder zijn alleenstaande ouders relatief vaak slachtoffer van huiselijk geweld. Ook het welvaartsniveau is gerelateerd aan huiselijk geweld: slachtofferschap in huiselijke kring komt vaker voor bij personen in huishoudens met een lager welvaartsniveau. Het slachtofferschap van huiselijk geweld verschilt niet naar migratieachtergrond.
+
+Verschillen in slachtofferschap seksueel grensoverschrijdend gedrag tussen bevolkingsgroepen
+
+Ook van seksueel grensoverschrijdend gedrag zijn jongeren vaker slachtoffer dan oudere leeftijdsgroepen. Het verschil naar leeftijd is nog groter dan bij huiselijk geweld: in 2022 was 30 procent van de 16- tot 18‑jarigen en 33 procent van de 18- tot 24‑jarigen slachtoffer, tegen 3 procent van de 65‑plussers. Ook het man-vrouw-verschil is (veel) groter: vrouwen zijn meer dan dubbel zo vaak slachtoffer van seksueel grensoverschrijdend gedrag als mannen (18 tegen 8 procent). Van de jonge vrouwen van 16 tot 18 jaar is bijna de helft (46 procent) slachtoffer geweest, van de jonge vrouwen van 18 tot 24 jaar ruim de helft (52 procent). Homoseksuele en biseksuele personen zijn vaker slachtoffer van seksueel grensoverschrijdend gedrag dan heteroseksuele personen. Vooral biseksuele vrouwen zijn met 46 procent relatief vaak slachtoffer. Verder krijgen personen zonder partner vaker met seksueel grensoverschrijdend gedrag te maken. Net zoals bij huiselijk geweld verschilt ook bij seksueel grensoverschrijdend gedrag het slachtofferschap niet naar migratieachtergrond.
+
+5. Aanvullende thema’s
+
+Huiselijk en seksueel grensoverschrijdend gedrag in de kinderjaren
+
+In 2022 gaf 22 procent aan dat zij in de kinderjaren, dat wil zeggen voor de leeftijd van 12 jaar, slachtoffer zijn geweest van een of meerdere vormen van huiselijk geweld en/of seksueel grensoverschrijdend gedrag. Het percentage dat zei met seksueel grensoverschrijdend gedrag in de kinderjaren geconfronteerd te zijn is in 2022 hoger dan in 2020: het percentage voor online seksuele intimidatie in de kinderjaren steeg van 2 naar 3 procent, en dat van offline seksuele intimidatie en van fysiek seksueel geweld in beide gevallen van 5 naar 6 procent. Het percentage dat huiselijk geweld in de kinderjaren meemaakte veranderde niet tussen beide jaren. In 2022 geeft het grootste deel (17 procent) aan in de kinderjaren te maken te hebben gehad met fysiek geweld in huiselijke kring.
+
+Het slachtofferschap in de kinderjaren hangt samen met het recente slachtofferschap. Zo had ruim een derde (36 procent) van de slachtoffers van fysiek geweld in huiselijke kring hier voor hun twaalfde levensjaar ook mee te maken. Van de personen die in 2022 geen slachtoffer hiervan zijn geweest is dit 16 procent.
+
+Zelf pleger van huiselijk geweld en/of seksueel grensoverschrijdend gedrag
+
+Twee procent van de personen van 16 jaar of ouder geeft aan dat het in de afgelopen 12 maanden weleens is voorgekomen dat zijzelf binnen de huiselijke kring lichamelijk agressief, controlerend en/of intimiderend zijn geweest. Ook kan het gaan om ongewenst seksueel gedrag of het stalken van een ex-partner. Dit zijn ongeveer 320 duizend personen. Tussen 2020 en 2022 is het percentage zelfplegerschap niet gewijzigd.
+
+Vermoeden van huiselijk geweld bij iemand anders in omgeving
+
+In totaal geeft 15 procent aan weleens een vermoeden te hebben gehad of weleens getuige te zijn geweest van huiselijk geweld bij iemand in de omgeving. Vrouwen zeggen dit vaker dan mannen: 18 tegen 13 procent.
+
+Ruim 8 op de 10 zeggen met iemand te hebben gepraat over hun vermoeden of dat ze getuige zijn geweest. Het grootste deel geeft aan hierover met het slachtoffer zelf te hebben gepraat of met iemand die het slachtoffer kent. Met de (vermoedelijke) pleger of iemand die de (vermoedelijke) pleger kent is minder vaak gepraat.
+
+6. Maatschappelijke context onderzoek: corona en (media-)aandacht
+
+Impact coronapandemie
+
+De eerste meting van de PHGSG vond plaats in maart en april 2020, toen de coronapandemie net was uitgebroken en de overheid de mensen adviseerde om zoveel mogelijk thuis te blijven. De referentieperiode van 12 maanden voorafgaand aan het onderzoek die in de PHGSG 2020 werd gehanteerd om de jaarprevalentie te bepalen viel evenwel voor het grootste deel buiten de coronaperiode, en van beperkingen en lockdowns was toen vanzelfsprekend nog geen sprake.
+
+De vervolgmeting van de PHGSG vond plaats in maart en april 2022. Hoewel in deze periode de meeste beperkende coronamaatregelen werden losgelaten omvat de referentieperiode van 12 maanden op basis waarvan de jaarprevalentie wordt bepaald juist wel nog momenten van beperkende coronamaatregelen en lockdowns. Dit betekent dat de cijfers over de jaarprevalentie van huiselijk en seksueel grensoverschrijdend gedrag voor 2022 voor het grootste deel betrekking hebben op de coronaperiode, terwijl de prevalentiecijfers voor 2020 dit voor het grootste deel niet hadden.
+
+De coronapandemie in algemene zin en meer specifiek op punten zoals veranderingen in de werk- of thuissituatie blijkt samen te hangen met de gerapporteerde prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag in die periode.
+
+Personen die zeggen dat de coronapandemie hun leven heeft beïnvloed zijn vaker slachtoffer geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen die zeggen dat dat niet het geval was. Ook personen voor wie de coronapandemie heeft geleid tot een andere werksituatie – bijvoorbeeld meer thuiswerken, minder werken, meer werken – geven vaker aan slachtoffer te zijn geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen bij wie de werksituatie ongewijzigd bleef. En ook voor de thuissituatie geldt dat personen voor wie er wel iets is veranderd tijdens de coronapandemie vaker slachtoffer zijn geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen voor wie de thuissituatie niet is veranderd.
+
+Bij seksueel grensoverschrijdend gedrag zijn de verschillen tussen personen die door de coronapandemie wel of geen invloed op hun leven hebben ervaren respectievelijk wel of geen wijzigingen in hun werk- of thuissituatie hebben ervaren groter dan bij huiselijk geweld.
+
+Als het gaat om de aard van de invloed van corona op het leven en met name de aard van de verandering in de werk- en thuissituatie tijdens de pandemie zijn de uitkomsten echter minder eenduidig en soms ogenschijnlijk contra-intuïtief. Zo zeggen bijvoorbeeld personen die tijdens de coronapandemie zelf minder thuis waren vaker slachtoffer te zijn geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen die zelf meer thuis waren tijdens de pandemie. Hierbij kan echter meespelen dat ook andere omstandigheden een rol speelden, zoals het feit dat de partner, kinderen of andere gezinsleden tijdens de pandemie juist meer thuis waren.
+
+Media-aandacht voor seksueel grensoverschrijdend gedrag
+
+Vlak voor de enquêtering in april/mei 2022 speelde er nog een ander maatschappelijk thema dat in 2020 niet in die mate aan de orde was: de aandacht voor seksueel grensoverschrijdend gedrag in de media, onder andere naar aanleiding van een aflevering van het televisieprogramma BOOS in januari 2022 over gebeurtenissen rondom het programma The Voice of Holland. Het publieke debat hieromtrent kan invloed hebben gehad op de manier waarop mensen seksuele intimidatie en seksueel geweld – ook retrospectief – percipiëren en zichzelf als slachtoffer ervan zien. Hoewel het niet mogelijk is de in de PHGSG 2022 gemeten toename van slachtofferschap van seksueel grensoverschrijdend gedrag 1‑op-1 toe te schrijven aan deze media-aandacht (er kan immers ook sprake zijn van een feitelijke toename van het slachtofferschap) zijn er toch indicaties dat de aandacht rondom dit thema tot een verhoogde rapportage van seksueel grensoverschrijdend gedrag heeft geleid.
+
+Zo blijkt uit de PHGSG-data dat het percentage dat zegt in de kinderjaren slachtoffer te zijn geweest van seksueel grensoverschrijdend gedrag tussen 2020 en 2022 is toegenomen, terwijl de rapportage van slachtofferschap van huiselijk geweld in de kinderjaren onveranderd is gebleven. Het lijkt onwaarschijnlijk dat binnen een interval van twee jaar tussen de PHGSG-onderzoeken het ervaren slachtofferschap van seksueel grensoverschrijdend gedrag in de kinderjaren feitelijk is toegenomen. Waarschijnlijker is het dat de grotere bewustwording naar aanleiding van de media-aandacht rondom dit thema retrospectief tot een verhoogde rapportage van seksueel grensoverschrijdend gedrag in de kinderjaren heeft geleid.
+
+Iets vergelijkbaars speelt bij de gerapporteerde vijfjaarsprevalentie van slachtofferschap. Hier blijkt dat het percentage 16‑plussers dat zegt in de afgelopen vijf jaar slachtoffer te zijn geweest van seksueel grensoverschrijdend gedrag tussen 2020 en 2022 duidelijk is toegenomen, terwijl dat wederom niet voor het slachtofferschap van huiselijk geweld geldt. Ook in dit geval lijkt het – ten minste voor een deel – onwaarschijnlijk dat binnen een interval van twee jaar tussen beide PHGSG-onderzoeken het ervaren slachtofferschap van seksueel grensoverschrijdend gedrag over de langere referentieperiode van vijf jaar feitelijk duidelijk is toegenomen. Ook hier ziet het ernaar uit dat grotere bewustwording rondom dit thema ertoe heeft geleid dat verder in de tijd terug liggend slachtofferschap van seksueel grensoverschrijdend gedrag alsnog vaker wordt gerapporteerd.
+
+Ook bij meldpunten en organisaties komen er meer meldingen over seksueel grensoverschrijdend gedrag binnen dan voor de onthullingen rond The Voice of Holland (Nu.nl, 2 oktober 2022). Zo ontving Slachtofferhulp Nederland tot oktober 2022 meer dan tienduizend meldingen. Dat is ruim 10 procent meer dan de jaren ervoor. Centrum Seksueel Geweld (CSG) meldt sinds de BOOS-aflevering een stijging van 35 procent in het aantal acute slachtoffers en een toename van 80 procent in het aantal niet-acute slachtoffers. Ook Mores, het meldpunt voor ongewenste omgangsvormen voor de Nederlandse culturele en creatieve sector, constateert een toename. Zo waren er in 2020 in totaal 97 meldingen, in het jaar erna mede door de pandemie 57, en in 2022 tot en met juni al 180 meldingen. De organisatie Perspectief Herstelbemiddeling waar onder andere slachtoffers van zedendelicten terecht kunnen behandelt jaarlijks zo’n veertienhonderd zaken. In 2020 ging 10 procent daarvan over seksueel misbruik en seksueel grensoverschrijdend gedrag. In 2022 geldt dat voor ruim 33 procent van de zaken.
+
+In 2022 is er weliswaar ook verhoogde media-aandacht geweest voor huiselijk geweld, onder andere aan het begin van dit jaar naar aanleiding van de vermeende mishandeling door rapper Lil Kleine van zijn vriendin, maar deze aandacht lijkt niet dezelfde impact te hebben gehad als de verhoogde aandacht voor seksueel grensoverschrijdend gedrag. Indicatief daarvoor is dat de gerapporteerde prevalentie van huiselijk geweld tussen 2020 en 2022 niet is toegenomen.
+
+
+
+
+
+Noten
+
+De in 2020 gehanteerde naamgeving van de ‘Prevalentiemonitor Huiselijk geweld en Seksueel Geweld’ is in 2022 veranderd in ‘Prevalentiemonitor Huiselijk geweld en Seksueel Grensoverschrijdend gedrag’. Dit is gedaan omdat het bij de seksuele voorvallen niet alleen gaat om seksueel geweld maar ook om seksuele intimidatie. Seksueel grensoverschrijdend gedrag is een betere overkoepelende term om deze verschillende soorten seksuele voorvallen te omschrijven.
+
+Offline seksuele intimidatie is seksuele intimidatie die niet via internet plaatsvindt. Het is dus de tegenhanger van online seksuele intimidatie. Om dit te benadrukken is de naamgeving veranderd: in de PHGSG 2020 heette deze vorm van seksuele intimidatie ‘niet-fysieke seksuele intimidatie’.Inleiding
+
+Hoeveel Nederlanders zijn in 2022 slachtoffer geweest van huiselijk geweld en van seksueel grensoverschrijdend gedrag? Wie zijn de plegers van dit geweld? Wat zijn de gevolgen ervan voor het slachtoffer? Praten ze over hun ervaringen? En hoe heeft het slachtofferschap van huiselijk geweld en van seksueel grensoverschrijdend gedrag zich tussen 2020 en 2022, een periode waarin de coronapandemie domineerde, ontwikkeld? Deze vragen, en nog meer, worden in deze Prevalentiemonitor Huiselijk Geweld en Seksueel Grensoverschrijdend gedrag (PHGSG) 2022 beantwoord.
+
+De PHGSG heeft als doel de jaarprevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag in Nederland systematisch in beeld te gaan brengen, en ook te onderzoeken of de jaarprevalentie in de tijd aan verandering onderhevig is. Na de eerste meting in 2020 is dit de eerste vervolgmeting. In 2024 zal een tweede vervolgmeting plaatsvinden; over herhaling in 2026 en 2028 wordt op een later moment besloten. Dit onderzoek van 2022 zal de kortetermijnontwikkelingen in beeld brengen en het onderzoek van 2024 en die van de eventuele volgende jaren zullen langetermijntrends in de ontwikkeling van huiselijk geweld en seksueel grensoverschrijdend gedrag zichtbaar kunnen maken.
+
+De aanleiding om in 2020 te starten met de PHGSG was de aanbieding aan de Tweede Kamer van het recentste onderzoek naar de prevalentie van huiselijk geweld en kindermishandeling (Ten Boom & Wittebrood, 2019). De minister van VWS en de minister voor Rechtsbescherming gaven aan dat zij het van belang vinden dat er frequenter dan voorheen onderzoek wordt gedaan naar de prevalentie van huiselijk geweld (en kindermishandeling) (brief d.d. 5 februari 2019 ). Daarnaast is naar aanleiding van het maatschappelijke #MeToo debat en het debat in de Tweede Kamer over het rapport van de Onderzoekscommissie seksuele intimidatie en misbruik in de sport (Commissie de Vries) een motie aangenomen waarin onder meer wordt vastgesteld dat er geen goed beeld is van de omvang en ontwikkeling van gevallen van seksuele intimidatie en seksueel geweld. De motie verzoekt de regering onder andere om kwantitatief wetenschappelijk onderzoek te laten verrichten, dat periodiek herhaald wordt, zodat de ontwikkelingen (primair van de omvang) van seksuele intimidatie en seksueel geweld blijvend worden gemonitord en het effect van preventiebeleid kan worden onderzocht.
+
+Maatschappelijke context onderzoek: corona en (media-)aandacht
+
+Impact coronapandemie
+
+De eerste meting van de PHGSG vond plaats in maart en april 2020, toen de coronapandemie net was uitgebroken en de overheid de mensen adviseerde om zoveel mogelijk thuis te blijven. De referentieperiode van 12 maanden voorafgaand aan het onderzoek die in de PHGSG 2020 werd gehanteerd om de jaarprevalentie te bepalen viel evenwel voor het grootste deel buiten de coronaperiode, en van beperkingen en lockdowns was toen vanzelfsprekend nog geen sprake.
+
+De vervolgmeting van de PHGSG vond plaats in maart en april 2022. Hoewel in deze periode de meeste beperkende coronamaatregelen werden losgelaten omvat de referentieperiode van 12 maanden op basis waarvan de jaarprevalentie wordt bepaald juist wel nog momenten van beperkende coronamaatregelen en lockdowns. Dit betekent dat de cijfers over de jaarprevalentie van huiselijk en seksueel grensoverschrijdend gedrag voor 2022 voor het grootste deel betrekking hebben op de coronaperiode, terwijl de prevalentiecijfers voor 2020 dit voor het grootste deel niet hadden.
+
+Media-aandacht voor seksueel grensoverschrijdend gedrag
+
+Vlak voor de enquêtering in april/mei 2022 speelde er nog een ander maatschappelijk thema dat in 2020 niet in die mate aan de orde was: de aandacht voor seksueel grensoverschrijdend gedrag in de media, onder andere naar aanleiding van een aflevering van het televisieprogramma BOOS in januari 2022 over gebeurtenissen rondom het programma The Voice of Holland. Het publieke debat hieromtrent kan invloed hebben gehad op de manier waarop mensen seksuele intimidatie en seksueel geweld – ook retrospectief – percipiëren en zichzelf als slachtoffer ervan zien.
+
+In 2022 was er ook verhoogde media-aandacht voor huiselijk geweld, onder andere aan het begin van dit jaar naar aanleiding van de vermeende mishandeling door rapper Lil Kleine van zijn vriendin. Deze kwestie kan van invloed zijn geweest op de gerapporteerde prevalentie van huiselijk geweld.
+
+De samenhang tussen de impact van de coronapandemie en de media-aandacht voor seksueel grensoverschrijdend gedrag en huiselijk geweld enerzijds en het gerapporteerde slachtofferschap van seksueel grensoverschrijdend gedrag en huiselijk geweld anderzijds wordt in deze publicatie beschreven.
+
+Doelstelling en onderzoeksvragen
+
+Om aan de toezegging en motie die de aanleiding voor het onderzoek vormden tegemoet te komen, heeft het WODC op verzoek van het ministerie van Justitie en Veiligheid (JenV) en het ministerie van VWS aan het CBS gevraagd een tweejaarlijkse monitor te ontwikkelen naar de jaarprevalentie van huiselijk geweld, seksuele intimidatie en seksueel geweld onder de Nederlandse bevolking van 16 jaar en ouder. Deze PHGSG heeft voor 2020 en volgende jaren als doelstelling:
+
+inzicht krijgen in de aard en omvang, gemeten over de periode van een jaar, van slachtofferschap van huiselijk geweld, seksuele intimidatie en seksueel geweld onder de Nederlandse bevolking van 16 jaar en ouder; en
+
+inzicht krijgen in de trend van de jaarprevalentie van huiselijk geweld, seksuele intimidatie en seksueel geweld.
+
+Daarnaast dient de PHGSG antwoord te geven op de volgende vragen:
+
+Wie zijn de plegers van huiselijk geweld, seksuele intimidatie en seksueel geweld?
+
+Wat zijn de door slachtoffers ervaren gevolgen van huiselijk geweld, seksuele intimidatie en seksueel geweld?
+
+In hoeverre spreken slachtoffers van huiselijk geweld, seksuele intimidatie en seksueel geweld met anderen over hun ervaringen?
+
+In hoeverre worden huiselijk geweld, seksuele intimidatie en seksueel geweld door slachtoffers zelf gemeld bij Veilig Thuis of de politie?
+
+Bestaan er verschillen in de aard en omvang van slachtofferschap van huiselijk geweld, seksuele intimidatie en seksueel geweld tussen verschillende bevolkingsgroepen (geslacht, leeftijd, migratieachtergrond, en andere relevante groepen)?
+
+Er komt ook een aantal aanvullende thema’s aan de orde. Het gaat om slachtofferschap in de kinderjaren en zelfplegerschap. Nieuw hierbij is de vraag of mensen vermoedens hebben over of getuige zijn geweest van huiselijk geweld tegen iemand in hun omgeving. De PHGSG 2022 geeft verder antwoord op de vraag in welke mate er samenhang bestaat tussen de ervaren gevolgen van de coronapandemie en de gerapporteerde prevalentie van huiselijk geweld, seksuele intimidatie en seksueel geweld.
+
+Huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+Bij huiselijk geweld gaat het om vormen van geweld als fysiek geweld, dwingende controle, stalking en seksueel grensoverschrijdend gedrag dat gepleegd worden door iemand uit de huiselijke kring. De term ‘huiselijke kring’ heeft betrekking op de sociale relatie tussen slachtoffer en pleger. Tot de huiselijke kring worden gezins- en familieleden en ook eventuele (ex-)partners gerekend. Met ‘huiselijke kring’ wordt niet de locatie bedoeld: de voorvallen hoeven niet per se thuis te hebben plaatsgevonden. Seksueel grensoverschrijdend gedrag omvat alle vormen van seksuele intimidatie en geweld. Seksueel grensoverschrijdend gedrag kan binnen en buiten de huiselijke kring plaatsvinden, zowel offline als online.
+
+Tussen huiselijk geweld en seksueel grensoverschrijdend gedrag bestaat overlap: seksuele voorvallen die in huiselijke kring plaatsvinden vallen ook onder huiselijk geweld. Ondanks deze overlap is er in deze publicatie voor gekozen de prevalentie van huiselijk geweld en de prevalentie van seksueel grensoverschrijdend gedrag apart te beschrijven. Het samenvoegen ervan zou geen recht doen aan de inhoudelijke en beleidsmatig relevante verschillen tussen beide vormen van geweld.
+
+Opzet van het onderzoek
+
+De cijfers in deze PHGSG 2022 zijn gebaseerd op een internetenquête onder de Nederlandse bevolking van 16 jaar en ouder (bijna 14,5 miljoen personen). Het onderzoek is gehouden van begin maart tot eind april 2022. Voor het onderzoek zijn honderdduizend personen benaderd. Ruim 24 duizend personen hebben de vragenlijst ingevuld, een respons van 24,2 procent. Dit grote aantal respondenten maakt het mogelijk om betrouwbare en gedetailleerde uitspraken te doen over de prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag in Nederland.
+
+Vragenlijst
+
+De vragenlijstblokken die huiselijk geweld meten zijn ontwikkeld door het WODC. Dat is gebeurd op basis van bestaande vragenlijsten voor huiselijk geweld en het concept van de vragenlijst is voorgelegd aan een groep experts op het gebied van huiselijk geweld.
+
+De vragenlijstblokken die seksuele intimidatie en seksueel geweld meten, zijn in opdracht van het WODC ontwikkeld door Rutgers (De Graaf en Marra, 2019), waarbij de ontwikkeling is begeleid door een commissie bestaande uit een aantal deskundigen op het gebied van seksualiteit en seksueel grensoverschrijdend gedrag.
+
+Opdrachtgever, opdrachtnemer en begeleidingscommissie
+
+De PHGSG is uitgevoerd door het CBS in opdracht van het WODC. De begeleiding van het onderzoek vond plaats door een commissie die naast vertegenwoordigers van het WODC bestaat uit inhoudelijke en methodologische experts van wetenschappelijke kennisinstellingen (Erasmus Universiteit Rotterdam, Tilburg University, Universiteit Utrecht en Verwey-Jonker Instituut) en vertegenwoordigers van het ministerie van JenV en het ministerie van VWS.
+
+De publicatie wordt uitgebracht als webpublicatie en in pdf-vorm, en is beschikbaar via de website van het CBS en het WODC.
+
+1.1 Concepten en operationaliseringen
+
+In deze paragraaf worden de belangrijkste concepten die in deze PHGSG centraal staan en de operationalisering ervan toegelicht. Hieronder volgt een overzicht van de bevraagde vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag en voorbeelden van onderzoeksitems waarmee deze in de vragenlijst zijn geoperationaliseerd. In totaal zijn er meer dan zestig items aan de respondenten voorgelegd. Deze zijn alle beschreven in de afzonderlijke hoofdstukken. Voor de exacte formulering van de items kan de worden geraadpleegd.
+
+Iemand beledigde u en/of vloekte tegen u
+
+Iemand schreeuwde en/of gilde tegen u
+
+Iemand kleineerde of vernederde u
+
+Iemand dreigde een mes of ander wapen tegen u te gebruiken
+
+Iemand heeft u geschopt
+
+Iemand heeft geprobeerd om u te verstikken of te wurgen
+
+Iemand hield u de hele tijd weg bij uw familie en/of vrienden
+
+Iemand bepaalde voor u waaraan u uw geld mocht uitgeven
+
+Iemand controleerde regelmatig of de hele tijd uw post, telefoontjes, berichten, e-mails, of sociale media
+
+Een ex-partner belde u regelmatig, terwijl u dit niet wilde (inclusief opgehangen, voicemail en berichten)
+
+Een ex-partner bespioneerde u bijvoorbeeld met een verborgen camera, opnameapparatuur of andere technologie
+
+Een ex-partner is uw auto of huis binnen gegaan zonder uw toestemming, of heeft dit geprobeerd
+
+Iemand bleef aandringen op een date, terwijl u dat niet wilde
+
+Iemand staarde naar u op een seksuele manier, terwijl u dat niet wilde
+
+Iemand maakte een naaktfoto of seksfilmpje van u, terwijl u dat niet wilde
+
+Iemand maakte online seksueel kwetsende opmerkingen of grapjes
+
+Iemand bleef online aandringen op seks met hem/haar, terwijl u dat niet wilde
+
+Iemand maakte online een naaktfoto of seksfilmpje van u, terwijl u dat niet wilde
+
+Iemand zoende u, terwijl u dat niet wilde
+
+Orale seks (seks met de mond), terwijl u dat niet wilde
+
+Iemand dwong u om seks met iemand anders te hebben voor geld en/of goederen
+
+In de Onderzoeksverantwoording is beschreven hoe op basis van deze afzonderlijke vormen van huiselijk geweld, seksuele intimidatie en seksueel geweld de bredere concepten ‘huiselijk geweld’ en ‘seksueel grensoverschrijdend gedrag’ zijn geoperationaliseerd.
+
+1.2 Leeswijzer
+
+In de hoofdstukken 2 tot en met 8 passeren de afzonderlijke vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag de revue: verbale agressie in huiselijke kring, fysiek geweld in huiselijke kring, dwingende controle in huiselijke kring, stalking door ex-partner, offline seksuele intimidatie, online seksuele intimidatie en fysiek seksueel geweld. In hoofdstuk 9 komen aanvullende thema’s aan bod: slachtofferschap in de kinderjaren, zelfplegerschap, en vermoedens van huiselijk geweld in de omgeving. Hoofdstuk 10 geeft een totaalbeeld van huiselijk geweld en seksueel grensoverschrijdend gedrag. De maatschappelijke context waarin het PHGSG 2022‑onderzoek heeft plaatsgevonden wordt geschetst in hoofdstuk 11. Afgesloten wordt met conclusies en aanbevelingen voor toekomstig onderzoek in hoofdstuk 12.
+
+Elk hoofdstuk heeft in grote lijnen dezelfde opbouw. Eerst wordt de prevalentie beschreven: welk deel van de Nederlandse bevolking van 16 jaar en ouder is in de afgelopen 5 jaar en in de afgelopen 12 maanden slachtoffer geweest van een of meerdere vormen van huiselijk geweld of seksueel grensoverschrijdend gedrag? Vervolgens is beschreven welk deel van deze slachtoffers heeft aangegeven structureel slachtoffer te zijn geweest. Ook het aantal vormen van geweld en de mate waarin slachtoffers daarmee werden geconfronteerd komen aan de orde. Verder is beschreven wie de plegers waren, wat de gevolgen voor het slachtoffer zijn, en met wie het slachtoffer over de ervaringen heeft gepraat.
+
+Incidenteel wordt van deze opbouw iets afgeweken. Bij voorvallen zoals verbale agressie ontbreken de passages over gevolgen en praten over de ervaringen. Bij voorvallen zoals fysiek seksueel geweld daarentegen zijn extra thema’s toegevoegd, zoals de pressiemiddelen die de pleger tegenover het slachtoffer heeft gebruikt en de reactie van het slachtoffer op het geweld.
+
+De bijlage bevat tabellen met de belangrijkste cijfers uit deze publicatie, een onderzoeksverantwoording, een verwijzing naar meer cijfermateriaal, een Engelstalige versie van de samenvatting, literatuurreferenties, en een lijst van personen die aan deze publicatie hebben meegewerkt.
+
+Significante verschillen tussen bevolkingsgroepen en over de tijd
+
+In deze monitor worden verschillen in de aard en omvang van slachtofferschap van huiselijk geweld en seksueel grensoverschrijdend gedrag tussen verschillende bevolkingsgroepen en over de tijd beschreven. Met behulp van significantietoetsing middels betrouwbaarheids­intervallen is nagegaan of de geschatte waarde voor een groep (bijvoorbeeld jongeren) significant afwijkt van de geschatte waarde van een andere groep (bijvoorbeeld ouderen). Vervolgens is bekeken of de gevonden verschillen in stand blijven wanneer gecorrigeerd wordt voor andere achtergrondkenmerken (bijvoorbeeld welvaartsniveau van het huishouden). De in deze monitor beschreven verschillen zijn statistisch significant en blijven bestaan na correctie voor andere achtergrondkenmerken. Ook bij de vergelijking tussen 2020 en 2022 is significantietoetsing middels betrouwbaarheidsintervallen toegepast.
+
+
+
+
+
+Noten
+
+Kamerstukken II, 2018-2019, 28345, nr. 207.
+
+Kamerstukken II, 2017-2018, 34843, nr. 32.
+
+Het vragenlijstdocument bevat naast de vraagteksten ook informatie die noodzakelijk is voor het ontwerp van de internetvragenlijst. De vragenlijst zelf is alleen digitaal afgenomen. Een papieren versie is daarom niet beschikbaar.Verbale agressie in huiselijke kring
+
+In dit hoofdstuk staat verbale agressie in de huiselijke kring centraal. Verbale agressie varieert van hoogoplopende meningsverschillen waarbij geschreeuwd of gegild wordt, van treiteren of pesten, tot kleineren of vernederen. Agressie met een fysieke component blijft hierbij buiten beschouwing. Deze komt in het volgende hoofdstuk aan de orde. Tot de huiselijke kring worden alle gezins- en familieleden en ook eventuele (ex-)partners gerekend. Met ‘huiselijke kring’ wordt niet de locatie bedoeld: voorvallen hoeven niet per se thuis te hebben plaatsgevonden.
+
+2.1 Slachtofferschap verbale agressie in huiselijke kring
+
+In 2022 gaf bijna de helft (45 procent) van de bevolking van 16 jaar en ouder aan in de afgelopen vijf jaar een of meerdere vormen van verbale agressie door iemand uit de huiselijke kring te hebben meegemaakt. Een op de drie (32 procent) maakte dit ook in de afgelopen 12 maanden mee; dit komt neer op bijna 4,6 miljoen personen. In de meeste gevallen ging het om schreeuwen of gillen (21 procent), boos weglopen tijdens een ruzie (20 procent), of beledigen en/of vloeken (18 procent). Het percentage dat in 2022 aangaf in de afgelopen 12 maanden slachtoffer te zijn geweest van verbale agressie in huiselijke kring is vergelijkbaar met dat van 2020 (31 procent). Dit geldt eveneens voor de afzonderlijke vormen ervan en voor het slachtofferschap van verbale agressie in de afgelopen vijf jaar (in 2020 46 procent; in 2022 45 procent).
+
+Slachtoffers verbale agressie in huiselijke kring naar kenmerken
+
+Jongeren worden naar verhouding vaak slachtoffer van verbale agressie in huiselijke kring. Zo kreeg de helft van de 16- tot 18‑jarigen en van de 18- tot 24‑jarigen hier in de afgelopen 12 maanden mee te maken, tegen 13 procent van de 65‑plussers. Vrouwen maken iets vaker verbale agressie mee dan mannen (33 tegen 30 procent). Biseksuele mannen (45 procent) en vooral biseksuele vrouwen (55 procent) hebben vaker last van verbale agressie in huiselijke kring dan homoseksuele en heteroseksuele personen.
+
+Personen met kinderen in het huishouden zijn vaker slachtoffer van verbale agressie dan personen zonder kinderen in het huishouden (zie tabel 1b in bijlage A). Alleenstaanden geven het minst vaak aan slachtoffer te zijn geweest. Verder geven personen met een Nederlandse achtergrond met 33 procent vaker aan met verbale agressie in huiselijke kring geconfronteerd te worden dan personen met een niet-westerse migratieachtergrond (26 procent).
+
+Aantal vormen van verbale agressie in huiselijke kring
+
+Een op de drie slachtoffers (32 procent) heeft in de afgelopen 12 maanden één vorm van verbale agressie in huiselijke kring meegemaakt, en twee op de drie (68 procent) dus meerdere vormen. Bij de helft ging het om twee of drie verschillende vormen van verbale agressie en bij ruim een op de zes (18 procent) om meer dan drie verschillende vormen.
+
+2.2 Structurele verbale agressie in huiselijke kring
+
+De overgrote meerderheid van de personen die in de afgelopen 12 maanden te maken hadden met verbale agressie in huiselijke kring zegt dat deze incidenteel – dat wil zeggen eenmalig of enkele malen – plaatsvond. Van structurele verbale agressie is sprake als de voorvallen ten minste één keer per maand voorkomen; bij bijna een op de acht slachtoffers (12 procent) is dit het geval (zie ook tabel 2 in bijlage A). Dit is 3,8 procent van de bevolking van 16 jaar en ouder. Omgerekend gaat het dan om ruim 550 duizend personen. Twee procent van de slachtoffers maakt (bijna) dagelijks een vorm van verbale agressie mee, 4 procent wekelijks en 6 procent maandelijks. Treiteren of pesten heeft het vaakst een structureel karakter. Zo geeft ruim een op de zes (18 procent) slachtoffers die in de afgelopen 12 maanden getreiterd of gepest zijn aan dat dit maandelijks of vaker gebeurde.
+
+2.3 Plegers verbale agressie in huiselijke kring
+
+Verbale agressie in huiselijke kring komt het vaakst van de eigen partner (zie ook tabel 3 in bijlage A). Ruim een kwart (respectievelijk 27 en 25 procent) van de personen die aangeven in de afgelopen 12 maanden verbale agressie te hebben meegemaakt, zegt dat de mannelijke of vrouwelijke partner dit deed. Andere gezinsleden worden allen door tussen de circa 10 en 15 procent van de slachtoffers genoemd: moeder (14 procent), vader (12 procent), zoon of dochter (beiden 11 procent), zus of broer (respectievelijk 10 en 9 procent).
+
+
+
+
+
+Noten
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft meegemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Wanneer degenen die de vragen niet beantwoord hebben als slachtoffer worden meegeteld, zou het slachtofferpercentage voor verbale agressie in de afgelopen 5 jaar 48 procent bedragen, en het slachtofferpercentage in de afgelopen 12 maanden 35 procent. Zie ook de Onderzoeksverantwoording (in paragraaf 4 het aandachtspunt Ontbrekende waarden).Fysiek geweld in huiselijke kring
+
+In dit hoofdstuk gaat het om geweld in huiselijke kring waarbij de pleger dreigde met geweld, het slachtoffer verwondde of een poging daartoe deed. Fysiek geweld loopt uiteen van dreigen met pijn doen tot poging tot verstikking of verwondingen door het gebruik van wapens.
+
+3.1 Slachtofferschap fysiek geweld in huiselijke kring
+
+In 2022 gaf 7 procent van de bevolking van 16 jaar en ouder aan dat zij in de afgelopen vijf jaar slachtoffer zijn geweest van een of meerdere vormen van fysiek geweld door iemand uit de huiselijke kring. Vier procent werd ook in de afgelopen 12 maanden slachtoffer; dit komt neer op bijna 560 duizend personen. Dezelfde percentages werden gevonden in 2020. Ook de prevalentie van de onderliggende vormen van fysiek geweld is niet gewijzigd tussen 2020 en 2022. In de meeste gevallen werden de slachtoffers geslagen (1,5 procent) of dreigde de pleger met lichamelijke pijn (1,4 procent).
+
+Slachtoffers fysiek geweld in huiselijke kring naar kenmerken
+
+Jongeren tussen de 16 en 18 jaar geven naar verhouding vaak aan slachtoffer te zijn geweest van fysiek geweld in huiselijke kring, gevolgd door jongeren tussen de 18 en 24 jaar. Zo kreeg 15 procent van de 16- tot 18‑jarigen en 9 procent van de 18- tot 24‑jarigen hier in de afgelopen 12 maanden mee te maken, tegen 1 procent van de 65‑plussers. Slachtofferschap van fysiek geweld in de huiselijke kring komt nagenoeg even vaak voor bij vrouwen als bij mannen. Biseksuele personen zijn vaker slachtoffer dan heteroseksuele personen.
+
+Alleenstaande ouders zijn met 5 procent naar verhouding vaak slachtoffer (zie ook tabel 1b in bijlage A). Personen in huishoudens met een lager welvaartsniveau komen in gelijke mate met fysiek geweld in aanraking als personen in huishoudens met een hoge welvaart.
+
+Aantal vormen van fysiek geweld in huiselijke kring
+
+De helft van de slachtoffers heeft in de afgelopen 12 maanden één vorm van fysiek geweld meegemaakt in huiselijke kring, de andere helft was dus slachtoffer van meerdere vormen. Bij ruim een derde (34 procent) ging het om twee of drie verschillende vormen en bijna een vijfde (17 procent) kreeg met meer dan drie verschillende vormen te maken.
+
+3.2 Structureel fysiek geweld in huiselijke kring
+
+Bij de overgrote meerderheid van de slachtoffers vond het fysieke geweld incidenteel – dat wil zeggen eenmalig of enkele malen – plaats. Van structureel fysiek geweld is sprake als de voorvallen tenminste één keer per maand voorkomen; bij 10 procent van de slachtoffers is dit het geval (zie ook tabel 2 in bijlage A). Dit is 0,3 procent van de bevolking van 16 jaar en ouder. Omgerekend gaat het dan om ongeveer 56 duizend personen. Twee procent van de slachtoffers maakt (bijna) dagelijks fysiek geweld mee, 4 procent wekelijks en 4 procent maandelijks. Dreigen met lichamelijke pijn en stompen hebben naar verhouding vaak een structureel karakter. Zo geeft 14 procent van de slachtoffers die in de afgelopen 12 maanden gestompt zijn aan dat dit maandelijks of vaker gebeurde.
+
+3.3 Plegers fysiek geweld in huiselijke kring
+
+Bijna een derde van de personen die aangeven in de afgelopen 12 maanden slachtoffer te zijn geweest van fysiek geweld in de huiselijke kring, zegt dat de partner dit deed. Dit betreft vrijwel even vaak een vrouwelijke als mannelijke partner. Ook broers worden naar verhouding vaak genoemd als pleger van fysiek geweld (zie ook tabel 3 in bijlage A). De pleger(s) van fysiek geweld verschillen nagenoeg niet tussen mannelijke en vrouwelijke slachtoffers. Wel krijgen vrouwelijke slachtoffers vaker met geweld van hun ex-partner te maken dan mannelijke slachtoffers.
+
+De plegers zijn vaker man dan vrouw: van de slachtoffers is 47 procent door een man gewelddadig behandeld en 31 procent door een vrouw. Tien procent had zowel met mannelijke als met vrouwelijke plegers te maken; 12 procent heeft niet aangegeven wie de pleger was. Bij vrouwelijke slachtoffers is de pleger vaker man (63 procent) dan vrouw (14 procent), terwijl voor mannelijke slachtoffers de pleger vaker vrouw is (29 procent man als pleger tegen 49 procent vrouw). Het percentage dat zowel met mannelijke als vrouwelijke plegers te maken krijgt verschilt niet naar geslacht.
+
+Aantal plegers fysiek geweld in huiselijke kring
+
+Bij bijna driekwart van de slachtoffers gebeurt het fysieke geweld door één pleger. Ruim een op de tien (14 procent) heeft te maken met meerdere plegers, waarvan de meesten met twee. Eveneens ruim een op de tien (12 procent) geeft geen antwoord op de vraag wie uit de huiselijke kring hen fysiek gewelddadig heeft behandeld.
+
+3.4 Gevolgen fysiek geweld in huiselijke kring
+
+De helft van de slachtoffers zegt dat het fysieke huiselijke geweld in de afgelopen 12 maanden geen gevolgen voor hen heeft gehad (zie ook tabel 4 in bijlage A); 44 procent geeft aan dat dit wel gevolgen heeft gehad en zes procent heeft geen antwoord gegeven. Vrouwelijke slachtoffers van fysiek geweld ervaren vaker gevolgen dan mannelijke slachtoffers, namelijk 53 tegen 35 procent.
+
+Het percentage dat gevolgen heeft ondervonden van het fysieke geweld in huiselijke kring is bij structurele slachtoffers groter dan bij incidentele slachtoffers (49 tegen 44 procent), maar door het te kleine aantal waarnemingen van structurele slachtoffers is dit verschil niet statistisch significant.
+
+Dertig procent van de slachtoffers heeft als gevolg van het fysieke geweld psychische problemen. Vrouwelijke slachtoffers ervaren deze problemen ongeveer twee zo vaak als mannelijke slachtoffers (39 tegen 20 procent). Ook relatieproblemen worden met 22 procent relatief vaak genoemd, evenals problemen met (een deel van) de familie (13 procent). Negen procent heeft lichamelijke problemen overgehouden aan het fysieke geweld. Van hen heeft 65 procent hierbij weleens een snee, blauwe plek, kneuzing, botbreuk of andere verwonding opgelopen. Voor 31 procent geldt dit niet en vier procent geeft geen antwoord. Zeven procent geeft aan seksuele problemen te hebben ervaren als gevolg van het fysieke geweld.
+
+3.5 Praten over fysiek geweld in huiselijke kring
+
+Bijna een kwart (23 procent) van de personen die in de afgelopen 12 maanden slachtoffer waren van fysiek huiselijk geweld heeft met niemand gesproken over wat hen overkomen is (zie ook tabel 5 in bijlage A). Een ruime meerderheid van 73 procent heeft er wel met iemand over gepraat; 4 procent wil niet zeggen of ze er met iemand over gesproken hebben. Vrouwelijke slachtoffers praten er vaker over dan mannelijke slachtoffers (79 tegen 67 procent). Structurele slachtoffers en slachtoffers die incidenteel met fysiek geweld te maken hebben gehad, verschillen hierin niet van elkaar.
+
+Slachtoffers die erover praten doen dit met name binnen hun informele netwerk: met de partner (36 procent), een ander familie- of gezinslid (31 procent) of een vriend(in) (32 procent). Ruim een vijfde (21 procent) praat erover met een hulpverlener zoals een (huis)arts, psycholoog of maatschappelijk werker. Minder vaak is er contact met een medewerker van Veilig Thuis (4 procent). Zeven procent heeft erover gesproken met de politie, waarvan de helft aangifte heeft gedaan van een of meer ervaringen.
+
+
+
+
+
+Noten
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft mee­gemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Wanneer degenen die de vragen niet beantwoord hebben als slachtoffer worden meegeteld, zou het slachtofferpercentage voor fysiek geweld in de afgelopen vijf jaar 9 procent bedragen, en het slachtofferpercentage in de afgelopen twaalf maanden 6 procent. Zie ook de Onderzoeksverantwoording (in paragraaf 4 het aandachtspunt Ontbrekende waarden).
+
+Het gaat hier om pleger(s) in de huiselijke kring met dezelfde relatie tot het slachtoffer. Het kan voorkomen dat het slachtoffer met meerdere individuele plegers van doen heeft maar dat deze dezelfde relatie tot het slachtoffer hebben, bijvoorbeeld twee broers. In dat geval zijn deze twee broers geteld als 1 pleger. Wanneer daarentegen een broer en een zus pleger zijn dan zijn deze beide, dus als 2 plegers geteld.Dwingende controle in huiselijke kring
+
+Dwingende controle is een vorm van huiselijk geweld waarbij een of meer personen een ander sterk domineren en controleren. Het slachtoffer kan daarbij bepaalde vrijheden worden ontzegd door de ander(en), zoals het onderhouden van sociale contacten of het hebben van eigen geld en zelf te bepalen waaraan dit uit te geven. Ook kan/kunnen de pleger(s) dreigen zichzelf, het slachtoffer, of haar of zijn geliefden iets aan te doen. Het kan daarbij gaan om zowel fysiek als psychisch geweld. Alle vormen van dwingende controle hebben een zich herhalend, structureel karakter.
+
+4.1 Slachtoffers van dwingende controle in huiselijke kring
+
+In 2022 zei bijna 10 procent van de bevolking van 16 jaar of ouder dat zij in de afgelopen vijf jaar slachtoffer zijn geweest van een of meerdere vormen van dwingende controle door iemand uit de huiselijke kring. Vijf procent werd in de afgelopen 12 maanden slachtoffer; dit komt neer op bijna 730 duizend personen. Regelmatig of de hele tijd gekleineerd of vernederd worden kwam het vaakst voor (2 procent). Het percentage dat in de afgelopen 12 maanden slachtoffer was van dwingende controle is tussen 2020 en 2022 niet veranderd (in beide jaren 5 procent), alsook de prevalentie van de onderliggende vormen. Dit geldt eveneens voor het percentage slachtoffers dat aangaf in de afgelopen vijf jaar met dwingende controle te maken te hebben gehad (9 procent in 2020; 10 procent in 2022).
+
+Met behulp van een Principale Componenten Analyse (PCA) zijn de 12 bevraagde vormen van dwingende controle gereduceerd tot een drietal hoofdcomponenten: sociale controle (weghouden bij familie/vrienden, bepalen met wie te praten, hele tijd bijhouden waar men was, communicatie controleren), dreiging/intimidatie (dreigen om geliefden iets aan te doen, dreigen zichzelf iets aan te doen, bang maken of intimideren, kleineren of vernederen, op een andere manier controleren of intimideren) en het wegnemen van zelfstandigheid (verbieden huis te verlaten, bepalen waaraan geld uit te geven, verbieden hebben eigen geld of bankrekening). Van dreiging/intimidatie werd bijna 4 procent van alle 16‑plussers in de afgelopen 12 maanden slachtoffer, van sociale controle ruim 2 procent en van het wegnemen van zelfstandigheid 1 procent.
+
+Slachtoffers dwingende controle in huiselijke kring naar kenmerken
+
+Er bestaat een duidelijke relatie tussen leeftijd en het slachtofferschap van dwingende controle door iemand uit de huiselijke kring: jongeren krijgen hier vaker mee te maken dan ouderen. Van de jongeren in de leeftijd van 16 tot 18 jaar geeft 14 procent aan hier in de afgelopen 12 maanden slachtoffer van te zijn geweest; van de 65‑plussers is dit 2 procent. Vrouwen geven iets vaker aan slachtoffer van dwingende controle te zijn geweest dan mannen: 6 tegen 4 procent. Verder zijn biseksuele vrouwen (11 procent) vaker slachtoffer dan heteroseksuele vrouwen en heteroseksuele mannen (respectievelijk 5 en 4 procent).
+
+Wanneer er specifiek wordt gekeken naar de onderliggende hoofdcomponenten van dwingende controle blijkt dat vrouwen iets vaker slachtoffer zijn van dreiging/intimidatie (5 procent) dan van sociale controle (3 procent). Bij mannen is er geen verschil tussen beide componenten van dwingende controle. Verder zijn met name 16- tot 18‑jarigen en 18- tot 24‑jarigen met respectievelijk 5 procent en 2 procent vaker dan gemiddeld (1 procent) slachtoffer van het wegnemen van zelfstandigheid.
+
+Personen in huishoudens met een lager welvaartsniveau krijgen vaker met dwingende controle te maken dan personen in huishoudens met een hoger welvaartsniveau. Zo is 8 procent van de personen in huishoudens met de laagste welvaart slachtoffer, tegen 4 procent van de personen in huishoudens met de hoogste welvaart (zie ook tabel 1b in bijlage). Ook alleenstaande ouders en personen die nog bij hun ouders thuis wonen zijn relatief vaak slachtoffer van dwingende controle (beide 10 procent).
+
+Aantal vormen van dwingende controle in huiselijke kring
+
+De helft van de slachtoffers heeft in de afgelopen 12 maanden één vorm van dwingende controle meegemaakt. Bij 35 procent ging het om 2 of 3 vormen, bij 13 procent om 4 tot en met 7 vormen, en 2 procent van de slachtoffers kreeg met 8 of meer vormen te maken.
+
+4.2 Plegers dwingende controle in huiselijke kring
+
+Van de personen die aangeven in de afgelopen 12 maanden slachtoffer te zijn geweest van dwingende controle, zegt 20 procent dat hun mannelijke partner dit heeft gedaan (zie ook tabel 3 in bijlage A). Vrouwelijke partners worden door 17 procent als pleger genoemd. Ook ouders worden relatief vaak genoemd (moeder door 18 procent; vader door 16 procent).
+
+Het zijn vaker mannen die dwingende controle uitoefenen. Van de slachtoffers is 42 procent dwingend gecontroleerd door een man en 33 procent door een vrouw. Vijftien procent had zowel met mannelijke als met vrouwelijke plegers te maken. Tien procent van de slachtoffers heeft niet aangegeven wie de pleger(s) waren. Bij vrouwelijke slachtoffers is de pleger vaker man (61 procent) dan vrouw (15 procent), terwijl voor mannelijke slachtoffers het omgekeerde geldt (16 procent man als pleger tegen 58 procent vrouw). Het percentage dat zowel met mannelijke als vrouwelijke plegers te maken krijgt verschilt niet naar geslacht.
+
+Aantal plegers dwingende controle in huiselijke kring
+
+Bij ruim 7 op de 10 slachtoffers vindt de dwingende controle plaats door één pleger. Bijna 2 op de 10 hebben te maken met meerdere plegers, waarvan de meesten met twee. Een op de tien geeft geen antwoord op de vraag wie uit hun huiselijke kring de pleger is van dwingende controle.
+
+4.3 Gevolgen dwingende controle in huiselijke kring
+
+Ruim twee derde (67 procent) van de slachtoffers van dwingende controle in de afgelopen 12 maanden zegt dat dit gevolgen heeft gehad (zie ook tabel 4 in bijlage A). Vrouwelijke slachtoffers ervaren met 73 procent vaker gevolgen dan mannelijke slachtoffers (58 procent).
+
+Psychische problemen worden met 47 procent het vaakst ondervonden, vooral door vrouwelijke slachtoffers (55 procent tegen 35 procent van de mannelijke slachtoffers). Ook relatieproblemen (30 procent) en problemen met familie (21 procent) worden door slachtoffers van dwingende controle relatief vaak genoemd. 7 procent heeft geen antwoord gegeven.
+
+4.4 Praten over dwingende controle in huiselijke kring
+
+Bijna acht op de tien (78 procent) slachtoffers van dwingende controle in de afgelopen 12 maanden heeft met iemand gesproken over wat hen overkomen is (zie ook tabel 5 in bijlage A). Bij vrouwen is dat aandeel groter dan bij mannen (81 tegen 73 procent).
+
+Een vriend of vriendin wordt met 42 procent het vaakst in vertrouwen genomen. Ook met de partner (34 procent) en (andere) gezins- of familieleden (32 procent) wordt relatief vaak gepraat over wat er is gebeurd. Dat geldt ook voor hulpverleners zoals een (huis)arts of psycholoog (32 procent). Met de politie (5 procent) of een medewerker van Veilig Thuis (3 procent) wordt duidelijk minder vaak gepraat over de ervaringen.
+
+
+
+
+
+Noten
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft meegemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Wanneer degenen die de vragen niet beantwoord hebben als slachtoffer worden meegeteld, zou het slachtofferpercentage voor dwingende controle in de afgelopen 5 jaar 12 procent bedragen, en het slachtofferpercentage in de afgelopen 12 maanden 8 procent. Zie ook de Onderzoeksverantwoording (in paragraaf 4 het aandachtspunt Ontbrekende waarden).
+
+Wanneer een slachtoffer regelmatig of altijd gekleineerd wordt, zonder dat dit gebeurt in combinatie met andere voorvallen van dwingende controle, kan dit ook gezien worden als een vorm van psychisch geweld in plaats van dwingende controle. Als de prevalentie van dwingende controle wordt berekend exclusief de gevallen dat enkel sprake is van regelmatig gekleineerd of vernederd worden, bedraagt het percentage slachtoffers van dwingende controle in de afgelopen 12 maanden 4,4 procent. Bij deze operationalisering van dwingende controle verandert het patroon van de uitkomsten over plegers, gevolgen en het praten over de ervaringen zoals weergegeven in de paragrafen 4.2 tot en met 4.4 niet.
+
+Voor meer informatie over PCA en de analyses in deze publicatie, zie de onderzoeksverantwoording.
+
+Het gaat hier om pleger(s) in de huiselijke kring met dezelfde relatie tot het slachtoffer. Het kan voorkomen dat het slachtoffer met meerdere individuele plegers van doen heeft maar dat deze dezelfde relatie tot het slachtoffer hebben, bijvoorbeeld twee broers. In dat geval zijn deze twee broers geteld als 1 pleger. Wanneer daarentegen een broer en een zus pleger zijn dan zijn deze beide, dus als 2 plegers geteld.Stalking door ex-partner
+
+Bijna zes op de tien personen van 16 jaar of ouder geven aan dat zij in het verleden een (andere) relatie hebben gehad; ruim vier op de tien zeggen geen eerdere relatie te hebben gehad, met name jongeren. Sommige personen die een relatie hadden krijgen te maken met stalking door hun ex-partner, dat wil zeggen dat zij herhaaldelijk en opzettelijk door hem of haar worden lastiggevallen. Deze structurele vorm van intimidatie staat in dit hoofdstuk centraal. Stalking kan ook plaatsvinden door andere personen. Dit is in dit onderzoek niet meegenomen. Er wordt dus geen volledig beeld geschetst van de prevalentie van stalking in Nederland, maar enkel van stalking door een ex-partner.
+
+5.1 Slachtofferschap stalking door ex-partner
+
+In 2022 gaf 7 procent van de 16‑plussers met een ex-partner aan in de afgelopen vijf jaar door hem of haar gestalkt te zijn en 2 procent was hier in de afgelopen 12 maanden slachtoffer van (omgerekend ruim 170 duizend personen). Het stalken vindt het vaakst plaats in de vorm van het regelmatig ontvangen van berichtjes en mailtjes (1 procent) en telefoontjes (1 procent) van de ex-partner. Andere vormen van stalking zoals alles volgen of in de gaten houden, opwachten bij woning, werk of school, ongewenst cadeautjes sturen, auto of woning proberen binnen te gaan, bespioneren, of vreemde voorwerpen achterlaten vinden minder vaak plaats. Het percentage dat aangeeft in de afgelopen 12 maanden met stalking door een ex-partner te maken te hebben gehad, is niet veranderd tussen 2020 en 2022 (in beide jaren 2 procent). Ook het percentage dat zegt in de afgelopen vijf jaar door een ex-partner gestalkt te zijn is in 2022 met 7 procent vergelijkbaar met dat van 2020 (6 procent).
+
+Slachtoffers stalking door ex-partner naar kenmerken
+
+Van degenen bij wie ooit een relatie is geëindigd verschilt het slachtofferschap van stalken naar leeftijd: hoe ouder, des te kleiner het percentage slachtoffers van stalking door een ex-partner. Zo kreeg 8 procent van de 16- tot 18‑jarigen hier in de afgelopen 12 maanden mee te maken tegen 0,4 procent van de 65‑plussers. Daarnaast worden vrouwen iets vaker gestalkt door een ex-partner dan mannen (3 tegen 2 procent). Stalking treft dan ook vooral jonge vrouwen (10 procent van de 16- tot 18‑jarige vrouwen). Verder krijgen biseksuele vrouwen wat vaker met stalking door een ex-partner te maken dan heteroseksuele personen en homoseksuele mannen.
+
+Vooral alleenstaande ouders hebben last van een ex-partner: 6 procent geeft aan in de afgelopen 12 maanden te zijn gestalkt (zie ook tabel 1b in bijlage A). Personen met een nieuwe partner met wie zij samenwonen hebben hier minder last van: van hen kreeg bijna 1 procent met stalking door een ex-partner te maken. Verder geven personen in huishoudens met een lage welvaart iets vaker aan slachtoffer te zijn geweest dan personen in huishoudens met een hoge welvaart.
+
+Aantal vormen van stalking door ex-partner
+
+Ongeveer de helft van de slachtoffers van stalking werd in de afgelopen 12 maanden op één manier lastiggevallen door hun ex-partner; de andere helft werd op meerdere manieren gestalkt. Vaak gaat het dan om twee of drie verschillende vormen (43 procent). Zeven procent was slachtoffer van meer dan drie vormen.
+
+5.2 Stalker: man of vrouw?
+
+In de meeste gevallen was de ex-partner die stalkte een man: twee derde van de personen die hier in de afgelopen 12 maanden mee te maken hebben gehad gaf dit aan. Bij 31 procent ging het om een vrouw en bij 1 procent om een man en een vrouw; 2 procent wilde of kon niet zeggen wat het geslacht van de stalker was.
+
+5.3 Gevolgen stalking door ex-partner
+
+Voor de meeste slachtoffers (67 procent) heeft het stalken door de ex-partner gevolgen gehad (zie ook tabel 4 in bijlage A). Vaak gaat het dan om psychische problemen (51 procent) of om relatieproblemen (25 procent). Ruim een kwart (28 procent) geeft aan dat het stalken hen geen problemen heeft opgeleverd. Vijf procent heeft geen antwoord gegeven. Het percentage dat gevolgen heeft ondervonden van het stalken verschilt niet significant tussen mannelijke en vrouwelijke slachtoffers. Wel geven vrouwelijke slachtoffers relatief vaak aan psychische problemen te hebben gehad als gevolg van het stalken (59 procent tegen 35 procent van de mannelijke slachtoffers).
+
+5.4 Praten over stalking door ex-partner
+
+Over het stalkgedrag van een ex-partner wordt vaak met anderen gesproken; 91 procent van de slachtoffers heeft hun ervaringen gedeeld (zie ook tabel 5 in bijlage A). Acht procent heeft hierover met niemand gesproken en één procent wil of kan dit niet zeggen.
+
+Met een vriend of vriendin wordt met 62 procent het vaakst gesproken over het stalkgedrag van een ex-partner (63 procent). Ruim 30 procent bespreekt het met de partner, 41 procent zoekt (ook) andere gezins- of familieleden of. Bijna een derde heeft contact gezocht met een hulpverlener zoals een (huis)arts, psycholoog of maatschappelijk werker. Medewerkers van Veilig Thuis worden met 5 procent minder vaak benaderd. Verder heeft 9 procent van de slachtoffers hierover met de politie gepraat. Van alle slachtoffers zegt 6 procent aangifte te hebben gedaan.
+
+
+
+
+
+Noten
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft mee­gemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Wanneer degenen die de vragen niet beantwoord hebben als slachtoffer worden meegeteld, zou het slachtofferpercentage voor stalking in de afgelopen 5 jaar 9 procent bedragen, en het slachtofferpercentage in de afgelopen 12 maanden 5 procent. Zie ook de Onderzoeksverantwoording (in paragraaf 4 het aandachtspunt Ontbrekende waarden).Offline seksuele intimidatie
+
+Dit hoofdstuk gaat over ervaringen met seksuele intimidatie waarbij er geen lichamelijk contact was. Het betreft uitsluitend ervaringen die in de ‘echte wereld’ (offline), dus niet online plaatsvonden. Online seksuele intimidatie komt in hoofdstuk 7 aan de orde en fysiek seksueel geweld in hoofdstuk 8. Offline seksuele intimidatie kan variëren van ongewenste seksueel getinte opmerkingen tot het moeten aanschouwen van seksuele handelingen. De incidenten kunnen binnen en buiten de huiselijke kring hebben plaatsgevonden.
+
+6.1 Slachtofferschap offline seksuele intimidatie
+
+In 2022 gaf 15 procent van de bevolking van 16 jaar en ouder aan in de afgelopen vijf jaar weleens op een seksuele manier geïntimideerd te zijn, waarbij er geen lichamelijk contact was met de pleger maar de pleger wel fysiek aanwezig was. Dit percentage is hoger dan in 2020, toen dit op 12 procent lag. Negen procent (bijna 1,3 miljoen personen) zei in de afgelopen 12 maanden online seksuele intimidatie te hebben meegemaakt. Ook dit percentage is hoger dan in 2020 (7 procent).
+
+In de meeste gevallen werden ongewenste seksueel kwetsende opmerkingen of grapjes gemaakt of werden de slachtoffers aangestaard met een wellustige blik (beide 5 procent). Het zijn ook deze vormen van offline seksuele intimidatie die in 2022 relatief de grootste stijging laten zien ten opzichte van 2020.
+
+Slachtoffers offline seksuele intimidatie naar kenmerken
+
+Vrouwen zijn vaker slachtoffer van offline seksuele intimidatie dan mannen, respectievelijk 14 procent van de vrouwen en 4 procent van de mannen. Daarnaast zijn jongeren, en dan met name 18- tot 24‑jarigen, vaker slachtoffer dan ouderen. Jonge vrouwen maken dit het vaakst mee: 41 procent van de vrouwen in de leeftijd van 18 tot 24 jaar geeft aan in de afgelopen 12 maanden geïntimideerd te zijn. Dit is vijf keer zo vaak als hun mannelijke leeftijdsgenoten.
+
+Heteroseksuele personen worden minder vaak seksueel geïntimideerd dan personen met een andere seksuele oriëntatie. Biseksuele vrouwen maken seksuele intimidatie het vaakst mee: bijna 4 op de 10 (37 procent) van hen werd in het afgelopen jaar geïntimideerd; bij homoseksuele vrouwen is dit 21 procent en bij heteroseksuele vrouwen 12 procent. Er is geen significant verschil tussen biseksuele en homoseksuele mannen. Van de heteroseksuele mannen werd 3 procent slachtoffer.
+
+Alleenstaanden en alleenstaande ouders krijgen ongeveer twee keer zo vaak te maken met offline seksuele intimidatie als personen met een partner, ongeacht of er kinderen in het huishouden zijn (ongeveer 10 tegen 5 procent) (zie ook tabel 1b in bijlage A).
+
+Aantal vormen van offline seksuele intimidatie
+
+Van de slachtoffers maakte 55 procent in de afgelopen 12 maanden één vorm van seksuele intimidatie mee. Dat betekent dat 45 procent op meerdere manieren werd geïntimideerd. Bij 35 procent ging het om 2 of 3 van de onderzochte vormen en 10 procent maakte meer dan 3 verschillende vormen mee.
+
+6.2 Structurele offline seksuele intimidatie
+
+Bij 14 procent van de slachtoffers in de afgelopen 12 maanden had de intimidatie een structureel karakter, dat wil zeggen dat ze ten minste één keer per maand werden geïntimideerd (zie ook tabel 2 in bijlage A). Omgerekend gaat het om 175 duizend personen. Dat is 1 procent van de bevolking van 16 jaar en ouder. De meeste slachtoffers, 7 procent, gaven aan dat de intimidatie maandelijks gebeurde, 5 procent kreeg hier wekelijks mee te maken en 2 procent (bijna) elke dag. Het seksueel aangestaard worden en het met opmerkingen gekwetst worden hadden het vaakst een structureel karakter: respectievelijk 15 en 14 procent van de slachtoffers gaf aan dat dit structureel gebeurde.
+
+6.3 Plegers offline seksuele intimidatie
+
+Verreweg de meeste slachtoffers (87 procent) worden alleen door personen buiten de huiselijke kring geïntimideerd. Bij 6 procent gebeurt het alleen binnen de huiselijke kring, en bij 5 procent zowel binnen als buiten de eigen kring. Meestal zijn de plegers man: 81 procent van de slachtoffers werd geïntimideerd door een man (of meerdere mannen), 8 procent door een vrouw (of meerdere vrouwen). Zeven procent had zowel met mannelijke als met vrouwelijke plegers te maken. Vier procent heeft niet aangegeven wie de pleger was (zie ook tabel 3 in bijlage A).
+
+Meer dan de helft van de slachtoffers (53 procent) geeft aan door een onbekende geïntimideerd te zijn. Daarnaast worden collega’s (19 procent) of iemand uit het uitgaansleven (15 procent) relatief vaak genoemd. Ook goede vrienden (11 procent), nieuwe dates (8 procent), medestudenten (7 procent), online contacten (6 procent) en losse sekspartners (4 procent) werden genoemd als plegers van offline seksuele intimidatie (zie ook tabel 3 in bijlage A).
+
+6.4 Gevolgen van offline seksuele intimidatie
+
+Voor bijna een kwart (24 procent) van de slachtoffers heeft de intimidatie gevolgen gehad (zie ook tabel 4 in bijlage A). Psychische problemen werden het vaakst genoemd: 16 procent van alle slachtoffers kreeg hier last van. Zeven procent noemde seksuele problemen en 6 procent relatieproblemen als gevolg van offline seksuele intimidatie. Het ervaren van gevolgen verschilt niet tussen mannelijke en vrouwelijke slachtoffers.
+
+6.5 Praten over offline seksuele intimidatie
+
+Twee derde van de slachtoffers heeft met iemand over de seksuele intimidatie gesproken (zie ook tabel 5 in bijlage A). Een derde heeft er dus met niemand over gepraat. Degenen die structureel werden geïntimideerd praten vaker over de voorvallen: 74 procent van hen sprak erover tegen 64 procent van degenen die incidenteel zijn lastiggevallen.
+
+Meestal praat men met een vriend of vriendin (41 procent), partner (28 procent) of een ander gezins- of familielid (15 procent). Professionele hulpverlening wordt bij offline seksuele intimidatie verhoudingsgewijs weinig ingeschakeld, namelijk door 7 procent van de slachtoffers.
+
+Vrouwen praten vaker over hun ervaringen dan mannen: van de vrouwelijke slachtoffers hebben 7 op de 10 met iemand gepraat over wat hen overkomen is, van de mannen deed de helft dat (zie ).
+
+
+
+
+
+Noten
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft meegemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Wanneer degenen die de vragen niet beantwoord hebben als slachtoffer worden meegeteld, zou het slachtofferpercentage voor offline seksuele intimidatie in de afgelopen 5 jaar 17 procent bedragen, en het slachtofferschap in de afgelopen 12 maanden 11 procent. Zie ook de Onderzoeksverantwoording (in paragraaf 4 het aandachtspunt Ontbrekende waarden).Online seksuele intimidatie
+
+Vervelende seksueel getinte opmerkingen, ongewenste aanrakingen of gedwongen worden om seksuele dingen te doen: dit zijn allemaal voorbeelden van ongewenst seksueel gedrag. Dit kan thuis of op straat gebeuren (zie hoofdstuk 6) maar ook via het internet, bijvoorbeeld via sociale media, WhatsApp, (video)chat of e-mail. In dit hoofdstuk gaat het over ongewenste seksuele ervaringen op het internet.
+
+7.1 Slachtofferschap online seksuele intimidatie
+
+In 2022 gaf ruim een op de tien personen van 16 jaar of ouder (11 procent) aan dat zij in de afgelopen vijf jaar online een of meerdere ongewenste seksuele ervaringen hebben meegemaakt. Ruim 6 procent overkwam dit in de afgelopen 12 maanden; dit zijn ongeveer 930 duizend personen. Ten opzichte van 2020 is in 2022 zowel het slachtofferschap van online seksuele intimidatie in de afgelopen vijf jaar (9 procent in 2020) als in de afgelopen 12 maanden (5 procent in 2020) toegenomen.
+
+Het maken van seksueel kwetsende opmerkingen of grapjes of het ongewenst naaktfoto’s of seksfilmpjes sturen zijn de vormen van online seksuele intimidatie die het vaakst voorkwamen (beide 3 procent). Ook gebeurde het regelmatig dat iemand bleef aandringen op een date of aandrong op het toesturen van persoonlijke seksuele foto’s of filmpjes (beide 2 procent).
+
+Slachtoffers online seksuele intimidatie naar kenmerken
+
+Vrouwen geven bijna twee keer zo vaak als mannen aan dat zij in de afgelopen 12 maanden ongewenst seksueel gedrag hebben meegemaakt op internet (8 tegen 4 procent). Daarbij krijgen biseksuele en homoseksuele personen er vaker mee te maken dan heteroseksuele personen. Jongeren zijn duidelijk het vaakst slachtoffer van online seksuele intimidatie, en dan met name jonge vrouwen: 35 procent van de 16- tot 18‑jarige vrouwen en 28 procent van de 18- tot 24‑jarige vrouwen geven aan hier in de afgelopen 12 maanden mee te zijn geconfronteerd, tegen 9 procent van hun mannelijke leeftijdgenoten.
+
+Personen met een partner zijn met ongeveer 3 procent het minst vaak slachtoffer van online seksuele intimidatie, ongeacht of er kinderen in het huishouden zijn. Alleenstaanden (8 procent) en alleenstaande ouders (9 procent) krijgen hier vaker mee te maken (zie ook tabel 1b in bijlage A).
+
+Aantal vormen van online seksuele intimidatie
+
+Bijna de helft (49 procent) is in de afgelopen 12 maanden slachtoffer geweest van één vorm van online seksuele intimidatie, de overige 51 procent kreeg met meerdere vormen te maken. Bij 30 procent ging het om 2 of 3 vormen en bij 21 procent om meer dan drie vormen.
+
+7.2 Structurele online seksuele intimidatie
+
+Ruim een op de tien slachtoffers (13 procent) van online seksuele intimidatie in de afgelopen 12 maanden heeft structureel, dat wil zeggen minstens één keer per maand, hiermee te maken gehad (zie ook tabel 2 in bijlage A). Dit is 0,8 procent van de bevolking van 16 jaar en ouder, en omgerekend 93 duizend personen. Het gaat naar verhouding vaak om seksueel kwetsende opmerkingen of grapjes, om het laten zien van billen, geslachtsdelen of borsten door de pleger en om het blijven aandringen op seks. Bij 7 procent van de slachtoffers betreft het maandelijkse ervaringen, bij 4 procent wekelijkse ervaringen, en bij 2 procent (bijna) dagelijkse ervaringen.
+
+7.3 Plegers online seksuele intimidatie
+
+De pleger(s) van online seksueel gedrag behoren vaak niet tot de huiselijke kring van gezin, familie, partner of ex-partner. Bij 92 procent van de slachtoffers komt de pleger van buiten deze kring. Bij 3 procent gaat het wel om een gezins- of familielid of om een (ex)-partner. Eveneens 3 procent geeft aan dat zij met plegers binnen en buiten de huiselijke kring te maken heeft gehad. Een procent heeft geen antwoord gegeven.
+
+Meer dan de helft van de slachtoffers (54 procent) van online seksuele intimidatie geeft aan dat de pleger(s) onbekenden zijn. De rest kent de pleger(s) wel. Het gaat naar verhouding vaak om iemand die ze niet in het echt hebben ontmoet maar enkel via het internet kennen (32 procent), om iemand die ze niet goed kennen zoals een date of iemand die ze net hebben ontmoet (14 procent) of om iemand die ze kennen van het uitgaan of een feestje (13 procent).
+
+Vaak gaat het om mannelijke plegers. Bijna 70 procent van de slachtoffers zegt dat een man of meerdere mannen hen online seksueel geïntimideerd hebben. Bij 10 procent ging het om een vrouwelijke pleger of plegers. Acht procent kreeg te maken met zowel mannelijke als vrouwelijke pleger(s). Verder wil of kan een relatief groot deel van 12 procent niet aangeven wat het geslacht van de pleger(s) is.
+
+7.4 Gevolgen online seksuele intimidatie
+
+Drie kwart (76 procent) van de slachtoffers gaf aan geen gevolgen te hebben ondervonden van de ongewenste seksuele ervaringen die zij online hebben opgedaan. Bij 19 procent was dit wel het geval (zie ook tabel 4 in bijlage A). Vijf procent heeft geen antwoord gegeven. Vrouwen geven vaker dan mannen aan gevolgen te hebben ondervonden, respectievelijk 23 en 13 procent.
+
+Het percentage dat gevolgen ondervindt van online seksuele intimidatie verschilt naar de frequentie waarmee dit voorkomt: van de structurele slachtoffers ondervindt 21 procent gevolgen, tegen 11 procent van de incidentele slachtoffers.
+
+Bij 14 procent van de slachtoffers heeft de online seksuele intimidatie geleid tot psychische problemen. Seksuele, relatie- en lichamelijke problemen komen minder vaak voor.
+
+7.5 Praten over online seksuele intimidatie
+
+Ruim zes op de tien slachtoffers (63 procent) hebben met iemand gesproken over wat ze op het internet hebben meegemaakt (zie ook tabel 5 in bijlage A). 35 procent heeft deze ervaringen voor zich gehouden en 2 procent wil of kan niet zeggen of ze er met iemand over hebben gepraat. Het percentage dat met iemand gesproken heeft over de ongewenste seksuele gebeurtenissen op het internet verschilt niet tussen structurele en incidentele slachtoffers.
+
+Vooral met personen uit het informele netwerk wordt over online seksuele intimidatie gesproken: 41 procent heeft erover gepraat met een vriend of vriendin, 22 procent met de partner en 12 procent met een ander gezins- of familielid. Met hulpverleners zoals een (huis)arts, psycholoog of maatschappelijk werker (5 procent), het Centrum Seksueel Geweld (0,3 procent), Veilig Thuis (0,2 procent) en met de politie (2 procent) wordt duidelijk minder vaak contact gezocht. Een procent van de slachtoffers zegt aangifte te hebben gedaan.
+
+
+
+
+
+Noten
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft meegemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Wanneer degenen die de vragen niet beantwoord hebben als slachtoffer worden meegeteld, zou het slachtofferpercentage voor online seksuele intimidatie in de afgelopen 5 jaar 13 procent bedragen, en het slachtofferpercentage in de afgelopen 12 maanden 9 procent. Zie ook de Onderzoeksverantwoording (in paragraaf 4 het aandachtspunt Ontbrekende waarden).Fysiek seksueel geweld
+
+Bij fysiek seksueel geweld gaat het om alle vormen van seksueel grensoverschrijdend gedrag waarbij lichamelijk contact plaatsvond, variërend van ongewenste aanrakingen tot verkrachting. Dit fysieke seksuele geweld kan gebeuren binnen of buiten de huiselijke kring.
+
+8.1 Slachtofferschap fysiek seksueel geweld
+
+In 2022 gaf 9 procent van de 16‑plussers aan in de afgelopen vijf jaar slachtoffer te zijn geweest van fysiek seksueel geweld. Dit percentage is iets hoger dan in 2020, toen 8 procent aangaf slachtoffer te zijn geweest in de afgelopen vijf jaar. Vier procent zei in 2022 dat ze in de afgelopen 12 maanden fysiek seksueel geweld hebben meegemaakt. Dit is vergelijkbaar met 2020 (3 procent). In 2022 ging het omgerekend om bijna 510 duizend personen.
+
+Ongewenst op een seksuele manier aangeraakt worden komt het vaakst voor (3 procent), gevolgd door ongewenst zoenen (1 procent). Seksuele handelingen zoals aftrekken, geslachtsgemeenschap en orale of anale seks worden minder vaak genoemd.
+
+Slachtoffers fysiek seksueel geweld naar kenmerken
+
+Jongeren (met name 18- tot 24‑jarigen) worden vaker slachtoffer van fysiek seksueel geweld dan ouderen, en vrouwen vaker dan mannen. Jonge vrouwen maken dit het vaakst mee: 21 procent van de vrouwen in de leeftijd van 18 tot 24 jaar heeft in de afgelopen 12 maanden fysiek seksueel geweld meegemaakt (zie ook tabel 1b in bijlage A). Dit is vijf keer zo vaak als hun mannelijke leeftijdgenoten.
+
+Heteroseksuele personen maken minder vaak fysiek seksueel geweld mee dan personen met een andere seksuele oriëntatie. Biseksuele vrouwen worden het vaakst slachtoffer: 17 procent van hen was in het afgelopen jaar slachtoffer van fysiek seksueel geweld; van de homoseksuele vrouwen en heteroseksuele vrouwen was dit 4 procent.
+
+Alleenstaanden en alleenstaande ouders zijn vaker slachtoffer van fysiek seksueel geweld dan mensen met een partner, ongeacht of er kinderen in het huishouden zijn (zie ook tabel 1b in bijlage A).
+
+Aantal vormen van fysiek seksueel geweld
+
+Twee derde van de personen die in de afgelopen 12 maanden slachtoffer zijn geweest van fysiek seksueel geweld hebben één vorm meegemaakt. Bij 27 procent ging het om twee of drie van de onderzochte vormen en bij 7 procent om meer dan drie.
+
+8.2 Structureel fysiek seksueel geweld
+
+Bij 6 procent van de slachtoffers in de afgelopen 12 maanden had het fysieke seksuele geweld een structureel karakter, dat wil zeggen dat ze dit ten minste één keer per maand meemaakten (zie ook tabel 2 in bijlage A). Omgerekend gaat het om 30 duizend personen; dit is 0,2 procent van de totale bevolking van 16 jaar en ouder. De meesten van hen gaven aan dat het maandelijks (3 procent) of wekelijks (3 procent) gebeurde en minder dan een half procent zei dat het (bijna) elke dag plaatsvond.
+
+8.3 Plegers fysiek seksueel geweld
+
+Een op de tien slachtoffers zegt dat fysiek seksueel geweld is gebruikt door de partner. Ruim drie kwart van de slachtoffers (78 procent) heeft fysiek seksueel geweld ervaren door personen buiten de huiselijke kring. Bij 15 procent gebeurde het alleen door personen binnen de huiselijke kring, en bij 4 procent door personen zowel binnen als buiten de eigen kring. De plegers zijn meestal van het mannelijk geslacht: 79 procent van de slachtoffers werd slachtoffer door een man (of meerdere mannen), 15 procent door een vrouw (of meerdere vrouwen). Drie procent had zowel met mannelijke als met vrouwelijke plegers te maken en 3 procent heeft niet aangegeven wie de pleger was (zie ook tabel 3 in bijlage A).
+
+Binnen de huiselijke kring zei een op de tien slachtoffers dat fysiek seksueel geweld is gebruikt door de partner. Buiten de huiselijke kring gaven drie op de tien slachtoffers aan dat het fysiek seksueel geweld gepleegd werd door een onbekende (29 procent). Daarnaast kenden de slachtoffers de pleger vaak uit het uitgaansleven (26 procent). Verder werden nieuwe dates (13 procent) of goede vrienden (11 procent) relatief vaak genoemd. Drie procent van de slachtoffers gaf aan dat het fysieke seksuele geweld gepleegd is door iemand in een hogere hiërarchische positie buiten de huiselijke kring, zoals een leidinggevende, docent, coach of religieus leider.
+
+Aan slachtoffers van geweld waarbij seksuele handelingen werden gepleegd, is gevraagd wat de pleger deed voordat het gebeurde, dus welke pressiemiddelen werden aangewend. In de meeste gevallen ging het om aandringen of zeuren; dit werd door twee derde (66 procent) van de slachtoffers genoemd. Bij ruim een op de vijf slachtoffers werd er misbruik van gemaakt dat het slachtoffer zelf onder invloed van alcohol of drugs was toen het gebeurde (22 procent), of werd de pleger agressief (22 procent). Een op de tien werd gedrogeerd (10 procent) en bij een vergelijkbaar deel was er sprake van gebruik van geweld (11 procent) of van chantage (11 procent). Bij 4 procent van de slachtoffers werd gedreigd met geweld.
+
+8.4 Reactie en gevolgen fysiek seksueel geweld
+
+Op het moment van de ervaring met fysiek seksueel geweld was de meest voorkomende reactie ‘wegdraaien’: meer dan 4 op de 10 slachtoffers (44 procent) zeggen instinctief het hoofd of lichaam te hebben weggedraaid. Andere naar verhouding vaak voorkomende reacties waren wachten tot het voorbij was (34 procent), bevriezen (31 procent), schreeuwen of duidelijk ‘nee’ zeggen (29 procent), overhalen te stoppen (21 procent) en duwen of vechten (15 procent).
+
+Bijna 4 op de 10 slachtoffers (38 procent) gaven aan dat het fysieke seksuele geweld gevolgen heeft gehad. Vrouwen gaven dit vaker aan dan mannen, respectievelijk 42 en 24 procent. Het meest genoemd werden psychische problemen (27 procent), gevolgd door seksuele problemen (16 procent), relatieproblemen (12 procent) en lichamelijke problemen (7 procent).
+
+Wanneer enkel de ongewenste ervaringen met aftrekken of vingeren, orale seks, geslachtsgemeenschap, anale seks of gedwongen prostitutie worden beschouwd (dus exclusief aanraken op een seksuele manier en ongewenst zoenen), blijkt dat die grotere gevolgen hebben: zeven op de tien slachtoffers (71 procent) hiervan zei gevolgen te ondervinden. Ook hierbij werden psychische problemen (52 procent) het vaakst genoemd, gevolgd door seksuele problemen (43 procent), relatieproblemen (40 procent) en lichamelijke problemen (19 procent).
+
+8.5 Praten over fysiek seksueel geweld
+
+Zeven op de tien slachtoffers van fysiek seksueel geweld hebben met iemand gesproken over hun ervaringen. Meestal praatte men met een vriend of vriendin (49 procent), gevolgd door de partner (25 procent) of een ander gezins- of familielid (12 procent). Door ruim 10 procent van de slachtoffers van fysiek seksueel geweld werd professionele hulpverlening ingeschakeld. De meesten van hen praatten met een (huis)arts, psycholoog of maatschappelijk werker (10 procent). Minder dan 1 procent heeft met iemand van Veilig Thuis of met iemand van het Centrum Seksueel Geweld gepraat. Met de politie heeft 1 procent gesproken en heeft 1 procent aangifte gedaan.
+
+
+
+
+
+Noten
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft meegemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Wanneer degenen die de vragen niet beantwoord hebben als slachtoffer worden meegeteld, zou het slachtofferpercentage voor fysiek seksueel geweld in de afgelopen 5 jaar 12 procent bedragen, en het slachtofferschap in de afgelopen 12 maanden 6 procent. Zie ook de Onderzoeksverantwoording (in paragraaf 4 het aandachtspunt Ontbrekende waarden).
+
+Bij vrouwelijke slachtoffers is de pleger bijna altijd een man (94 procent). Bij mannelijke slachtoffers is de pleger vaker een vrouw dan een man (62 tegen 28 procent).
+
+Hiermee worden bedoeld tegen de eigen wil aftrekken of vingeren, orale seks, geslachtsgemeenschap, anale seks, en gedwongen prostitutie. Tegen de eigen wil aanraken op een seksuele manier en tegen de eigen wil zoenen blijven buiten beschouwing.
+
+Vanwege de fysieke component bij deze vorm van seksueel grensoverschrijdend gedrag is ook gevraagd naar de reactie van het slachtoffer op het geweld. Het kan gaan om fight-, flight- en/of freeze-reacties. Hoe iemand ook reageert op het geweld, het moge duidelijk zijn dat het nooit de schuld van het slachtoffer is.Aanvullende thema’s
+
+In de hoofdstukken 2 tot en met 8 zijn de onderzochte vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag achtereenvolgens de revue gepasseerd. In dit hoofdstuk komt een aantal aanvullende thema’s aan de orde. Het gaat om slachtofferschap in de kinderjaren, zelfplegerschap, en vermoedens over het plaatsvinden van huiselijk geweld bij iemand in de omgeving.
+
+9.1 Slachtofferschap huiselijk geweld en seksueel grensoverschrijdend gedrag in de kinderjaren
+
+Ruim een op de vijf (22 procent) personen van 16 jaar of ouder geeft aan dat hij of zij in de kinderjaren, dat wil zeggen voor de leeftijd van 12 jaar, slachtoffer is geweest van een of meerdere vormen van huiselijk geweld en/of seksueel grensoverschrijdend gedrag.
+
+Van fysiek geweld in huiselijke kring was 17 procent in hun kinderjaren slachtoffer. Negen procent gaf aan voor het 12e levensjaar slachtoffer te zijn geweest van dwingende controle in huiselijk kring. Ongeveer 6 procent van de 16‑plussers was in hun kinderjaren slachtoffer van respectievelijk offline seksuele intimidatie en van fysiek seksueel geweld. Online seksuele intimidatie kan alleen de relatief jongere generaties hebben getroffen omdat er vroeger nog geen internet was, en werd door 3 procent van de 16‑plussers als kind meegemaakt.
+
+In vergelijking met 2020 geven in 2022 geven meer 16‑plussers aan in hun kinderjaren slachtoffer te zijn geweest van offline seksuele intimidatie, fysiek seksueel geweld, en online seksuele intimidatie. Het percentage dat zegt in de kinderjaren slachtoffer te zijn geweest van fysiek geweld in huiselijke kring en van dwingende controle in huiselijke kring is in 2022 vergelijkbaar met dat van 2020.
+
+Van de personen die in 2022 aangaven in de afgelopen 12 maanden slachtoffer te zijn geweest van huiselijk geweld en/of seksueel grensoverschrijdend gedrag gaf 43 procent aan ook in de kinderjaren hiervan slachtoffer te zijn geweest. Van degenen die in de afgelopen 12 maanden geen slachtoffer zijn geweest, gaf 18 procent dit aan.
+
+Wanneer gekeken wordt naar de verschillende vormen van geweld blijkt dat 36 procent van de personen die in de afgelopen 12 maanden slachtoffer zijn geweest van fysiek geweld in huiselijke kring hiervan ook in de kinderjaren slachtoffer zijn geweest. Bij dwingende controle in huiselijke kring is dit 30 procent, en bij offline seksuele intimidatie, fysiek seksueel geweld en online seksuele intimidatie respectievelijk 19, 16 en 12 procent.
+
+9.2 Zelf pleger van huiselijk geweld en/of seksueel grensoverschrijdend gedrag
+
+Twee procent van bevolking van 16 jaar en ouder geeft aan in de afgelopen 12 maanden zelf weleens lichamelijk agressief, controlerend en/of intimiderend te zijn geweest tegen iemand in de huiselijke kring, een ex-partner te hebben gestalkt of ongewenst seksueel gedrag te hebben vertoond. Dit zijn ongeveer 320 duizend personen. Het gaat hier om een totaalbeeld. Er is niet naar gevraagd om welk gedrag het nu precies ging. Daarbij zullen niet alle plegers van huiselijk geweld en seksueel grensoverschrijdend gedrag open zijn over hun gedrag, mogelijk ook door een verschil in perceptie van de gebeurtenis, resulterend in een onderschatting van het percentage plegers.
+
+Personen onder de 45 jaar geven met ruim 3 procent vaker aan dat zij in de afgelopen 12 maanden weleens agressief, controlerend of intimiderend gedrag hebben vertoond in de huiselijke kring dan 45- tot 65‑jarigen (1,8 procent) en 65‑plussers (0,5 procent). Verder blijken biseksuele vrouwen zich naar verhouding vaak schuldig te maken aan agressief, controlerend of intimiderend gedrag in de huiselijke kring. Opvallend is dat jongeren en biseksuele vrouwen ook relatief vaak aangeven slachtoffer te zijn geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag.
+
+Wanneer het slachtofferschap en het plegerschap van huiselijk geweld en/of seksueel grensoverschrijdend gedrag in de huiselijke kring aan elkaar worden gerelateerd, blijkt dat er inderdaad een relatie is. Veertien procent van de personen die zeggen slachtoffer te zijn geweest van huiselijk geweld, geeft aan zelf ook agressief, controlerend of intimiderend gedrag te hebben vertoond in de huiselijke kring. Van de personen die geen slachtoffer zijn geweest is dit 1 procent.
+
+9.3 Vermoeden van huiselijk geweld bij iemand anders in omgeving
+
+In totaal geeft 15 procent van de Nederlanders van 16 jaar of ouder aan weleens een vermoeden te hebben gehad of weleens getuige te zijn geweest van huiselijk geweld bij iemand in de omgeving. Vrouwen geven dit vaker aan dan mannen, respectievelijk 18 en 13 procent (zie ).
+
+Ruim 8 op de 10 (82 procent) zeggen met iemand te hebben gepraat over hun vermoeden of dat ze getuige zijn geweest. Het grootste deel geeft aan hierover met het slachtoffer zelf te hebben gepraat of met iemand die het slachtoffer kent. Met de (vermoedelijke) pleger of iemand die de (vermoedelijke) pleger kent is minder vaak gepraat.
+
+
+
+Totaalbeeld huiselijk geweld en seksueel grens­overschrijdend gedrag
+
+Dit hoofdstuk geeft een totaalbeeld van het slachtofferschap van huiselijk geweld en seksueel grensoverschrijdend gedrag. Er worden geen totaalcijfers voor huiselijk geweld en seksueel grensoverschrijdend gedrag samen gegeven want een dergelijke samenvoeging zou geen recht doen aan de inhoudelijke en beleidsmatig relevante verschillen tussen beide fenomenen. Ook wordt een totaalbeeld geschetst van de plegers, de gevolgen en het praten over huiselijk geweld en seksueel grensoverschrijdend gedrag.
+
+10.1 Slachtofferschap huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+Van de onderzochte vormen van huiselijk geweld kwam, net zoals in 2020, dwingende controle (5 procent) het vaakst voor, gevolgd door fysiek geweld (4 procent) en ten slotte stalking door ex-partner met 2 procent. Bij de onderzochte vormen van seksueel grensoverschrijdend gedrag waren er met 9 procent de meeste slachtoffers van offline seksuele intimidatie. Van online seksuele intimidatie was 6 procent van de personen van 16 jaar of ouder in de afgelopen 12 maanden slachtoffer en van fysiek seksueel geweld 4 procent. Hierbij dient opgemerkt te worden dat er een overlap is in het slachtofferschap van huiselijk geweld en het slachtofferschap van seksueel grensoverschrijdend gedrag.
+
+In vergelijking met 2020 is het percentage slachtoffers van offline seksuele intimidatie en online seksuele intimidatie toegenomen. Fysiek seksueel geweld en alle vormen van huiselijk geweld laten geen significante veranderingen zien.
+
+In de periode maart-april 2022 gaf 9 procent van de personen van 16 jaar en ouder aan in de afgelopen 12 maanden slachtoffer te zijn geweest van een of meerdere vormen van huiselijk geweld een percentage dat vergelijkbaar is met dat van 2020 (8 procent). Het gaat om omgerekend bijna 1,3 miljoen personen. Huiselijk geweld omvat een of meer vormen van fysiek geweld in huiselijke kring, dwingende controle in huiselijke kring, stalking door ex-partner en seksueel grensoverschrijdend gedrag in huiselijke kring.
+
+Van seksueel grensoverschrijdend gedrag zei in de periode maart-april 2022 13 procent van de bevolking van 16 jaar en ouder in de afgelopen 12 maanden slachtoffer te zijn geweest, een toename ten opzichte van 2020 (11 procent). Het gaat in totaal om ruim 1,8 miljoen personen. Seksueel grensoverschrijdend gedrag omvat een of meer vormen van offline seksuele intimidatie, online seksuele intimidatie en fysiek seksueel geweld. Hierbij worden zowel de voorvallen die binnen als buiten de huiselijke kring voorkwamen meegenomen.
+
+Huiselijk geweld kan seksueel van aard zijn, en andersom kan seksueel grensoverschrijdend gedrag in huiselijke kring plaatsvinden. In totaal werd 2 procent van de bevolking van 16 jaar en ouder slachtoffer van seksueel grensoverschrijdend gedrag door iemand uit de huiselijke kring, terwijl 8 procent slachtoffer werd van huiselijk geweld dat geen seksueel karakter had. Omgekeerd vindt seksueel grensoverschrijdend gedrag voor het grootste deel niet in de huiselijke kring plaats. Twaalf procent van de bevolking van 16 jaar en ouder is slachtoffer geweest van seksueel grensoverschrijdend gedrag buiten de huiselijke kring; dit is meer dan in 2020 (10 procent). Bij 2 procent gebeurde dit binnen de huiselijke kring, een percentage vergelijkbaar met dat van 2020. De toename van seksueel grensoverschrijdend gedrag in totaliteit tussen 2020 en 2022 is dus toe te schrijven aan de toename van intimidatie en geweld dat buiten de huiselijk kring plaatsvindt.
+
+10.2 Structureel slachtofferschap
+
+Bijna 6 procent van de personen van 16 jaar of ouder geeft aan in de afgelopen 12 maanden tenminste een van de vormen van huiselijk geweld structureel, dat wil zeggen (bijna) dagelijks, wekelijks of maandelijks te hebben meegemaakt. Dit percentage is vergelijkbaar met dat van 2020. Het betreft ruim 850 duizend personen. 0,2 procent was structureel slachtoffer van seksueel grensoverschrijdend gedrag door iemand uit de huiselijke kring (32 duizend personen).
+
+Met structureel seksueel grensoverschrijdend gedrag – ook hier gaat het om intimidatie en geweld dat ten minste eens per maand plaatsvond – had in de afgelopen 12 maanden ten minste 2 procent van de bevolking van 16 jaar en ouder te maken. Dit is meer dan in 2020 toen dit 1,3 procent was. Het gaat om omgerekend ongeveer 270 duizend personen. 0,2 procent was structureel slachtoffer van seksueel huiselijk geweld. Dit is dezelfde groep slachtoffers als die van structureel seksueel grensoverschrijdend gedrag door iemand uit de huiselijke kring, zoals beschreven in de laatste zin van de vorige alinea.
+
+10.3 Slachtofferschap huiselijk geweld en seksueel grensoverschrijdend gedrag naar kenmerken
+
+Slachtofferschap van huiselijk geweld komt vaker voor bij jongeren dan bij ouderen. Zo werd 25 procent van de 16- tot 18‑jarigen in de afgelopen 12 maanden slachtoffer, bij de 18- tot 24‑jarigen was dat 16 procent en bij 65‑plussers 3 procent. Vrouwen zijn iets vaker slachtoffer dan mannen (10 tegen 8 procent). Heteroseksuele personen zijn minder vaak slachtoffer dan personen met een andere seksuele oriëntatie. Verder zijn alleenstaande ouders relatief vaak slachtoffer van huiselijk geweld (zie tabel 1b in bijlage A). Ook het welvaartsniveau is gerelateerd aan huiselijk geweld: slachtofferschap komt vaker voor bij personen in huishoudens met een lager welvaartsniveau.
+
+Niet alleen met huiselijk geweld krijgen jongeren vaker te maken dan ouderen, maar ook met seksueel grensoverschrijdend gedrag. Waar 16- tot 18‑jarigen en 18- tot 24‑jarigen met respectievelijk 30 en 33 procent vaak slachtoffer zijn, is het slachtofferschap onder 65‑plussers 3 procent. Vrouwen zijn meer dan dubbel zo vaak slachtoffer van seksueel grensoverschrijdend gedrag als mannen (18 tegen 8 procent). Heteroseksuele personen zijn minder vaak slachtoffer dan homoseksuele en biseksuele personen. Vooral biseksuele vrouwen zijn met 46 procent vaak slachtoffer van seksueel grensoverschrijdend gedrag. Verder krijgen personen zonder partner vaker met seksueel grensoverschrijdend gedrag te maken (zie tabel 1b in bijlage A). Ook inwoners van meer verstedelijkte gemeenten zijn relatief vaak slachtoffer.
+
+10.4 Plegers huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+Huiselijk geweld wordt het vaakst door een partner of ex-partner gepleegd. Bij dwingende controle zijn deze percentages iets hoger dan bij fysiek geweld. Bij seksuele voorvallen zijn de plegers voor het overgrote deel afkomstig van buiten de huiselijke kring (zie tabel 3 in bijlage A). Bij ruim de helft van de gevallen van offline seksuele intimidatie en van online seksuele intimidatie en bij 3 op de 10 gevallen van fysiek seksueel geweld gaat het om onbekenden. Andere plegers van buiten de huiselijke kring die relatief vaak worden genoemd zijn dates, goede vrienden/vriendinnen, collega’s, kennissen van het uitgaan/feestjes en – bij online seksuele intimidatie – online kennissen.
+
+Bij seksueel grensoverschrijdend gedrag zijn de plegers voor het overgrote deel man (zie tabel 3 in bijlage A en ). Ook bij fysiek geweld in huiselijke kring, dwingende controle in huiselijke kring en stalking door (ex-)partner is de pleger vaker man dan vrouw, maar hier is het verschil relatief kleiner dan bij seksueel grensoverschrijdend gedrag. Bij verbale agressie in huiselijke kring is er geen man-vrouwverschil in plegerschap.
+
+10.5 Gevolgen huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+Bij de interpretatie van de cijfers over de gevolgen moet er rekening mee worden gehouden dat de onderliggende vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag qua ernst van de ervaring en de impact ervan op het slachtoffer sterk uiteenlopen. Ze variëren bij fysiek seksueel geweld bijvoorbeeld van voorvallen zoals ongewenste aanrakingen tot vergrijpen als fysieke mishandeling.
+
+Bij huiselijk geweld zeggen meer slachtoffers dat de ervaringen gevolgen voor hen hebben gehad dan bij seksueel grensoverschrijdend gedrag. Zo zegt een meerderheid van de slachtoffers van dwingende controle in huiselijk kring gevolgen te hebben gehad (67 procent); hetzelfde geldt voor de slachtoffers van stalking door ex-partner (67 procent). De percentages bij offline seksuele intimidatie, online seksuele intimidatie en fysiek seksueel geweld zijn met respectievelijk 24, 19 en 38 procent duidelijk lager. Bij fysiek seksueel geweld moet worden opgemerkt dat van de slachtoffers van seksuele handelingen (ongewenste ervaringen met aftrekken of vingeren, orale seks, geslachtsgemeenschap, anale seks of prostitutie) een ruime meerderheid (71 procent) hiervan gevolgen heeft gehad. In het algemeen komen psychische problemen het meest voor.
+
+Voor zowel huiselijk geweld en seksueel grensoverschrijdend gedrag in totaal als voor de meeste onderliggende vormen geldt dat vrouwen vaker gevolgen ervaren dan mannen.
+
+10.6 Praten over huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+De meerderheid van de slachtoffers van huiselijk geweld en seksueel grensoverschrijdend gedrag praat met iemand over hun ervaringen. Slachtoffers van huiselijk geweld zoeken meer contact dan slachtoffers van seksueel grensoverschrijdend gedrag. Van de slachtoffers van huiselijk geweld zeggen, afhankelijk van het soort delict, grofweg 7 à 9 op de 10 met iemand te hebben gepraat, van de slachtoffers van seksueel grensoverschrijdend gedrag zeggen 6 à 7 op de 10 dit.
+
+Het meest wordt gesproken met personen in het eigen, informele circuit: vooral met vrienden/vriendinnen, partner, en – bij huiselijk geweld – met andere gezins- of familieleden. Bij huiselijk geweld worden ook professionele hulpverleners zoals (huis)artsen, psychologen of maatschappelijk werkers relatief vaak geconsulteerd. Met andere instanties zoals de politie, Veilig Thuis en het Centrum Seksueel Geweld wordt naar verhouding weinig contact gelegd.
+
+
+
+
+
+Noten
+
+Verbale agressie is hierbij niet meegeteld. Het percentage huiselijk geweld inclusief verbale agressie bedraagt 33 procent.
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft ingevuld wordt verondersteld dat hij/zij dit item niet heeft meegemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Daarnaast is niet altijd een antwoord gegeven op de vraag of de pleger uit de huiselijke kring kwam of niet. Dit resulteert in een lichte, door de combinatie van voorvallen niet te bepalen onderschatting.
+
+Indien seksueel grensoverschrijdend gedrag buiten de huiselijke kring plaatsvindt, wil dit niet per definitie zeggen dat de dader een onbekende van het slachtoffer is.
+
+Verbale agressie in huiselijke kring is niet meegeteld. Het percentage structureel huiselijk geweld inclusief structurele verbale agressie bedraagt 8 procent.
+
+Alle vormen van dwingende controle en stalking door ex-partner zijn als structureel meegeteld.
+
+Het betreft een minimumschatting omdat personen meermaals slachtoffer kunnen zijn van meerdere delictsvormen, en daar is in deze schatting geen rekening mee gehouden. Hetzelfde geldt voor seksueel grensoverschrijdend gedrag.Maatschappelijke context onderzoek: corona en media-aandacht
+
+In dit hoofdstuk staat de maatschappelijke context centraal waarin de metingen van de PHGSG 2020 en 2022 plaatsvonden. Enerzijds gaat het om de coronapandemie die in Nederland begin maart 2020 haar intrede deed en anderzijds om de media-aandacht en het daaropvolgende publieke debat van begin 2022 over seksueel grensoverschrijdend gedrag, onder andere naar aanleiding van een aflevering van het televisieprogramma BOOS over gebeurtenissen rondom het programma The Voice of Holland.
+
+11.1 Impact coronapandemie
+
+De eerste meting van de PHGSG vond plaats in maart en april 2020, toen de coronapandemie net was uitgebroken en de overheid de mensen adviseerde om zoveel mogelijk thuis te blijven. De referentieperiode van 12 maanden voorafgaand aan het onderzoek die in de PHGSG 2020 werd gehanteerd om de jaarprevalentie te bepalen viel evenwel voor het grootste deel buiten de coronaperiode, en van beperkingen en lockdowns was toen vanzelfsprekend nog geen sprake.
+
+De vervolgmeting van de PHGSG vond plaats in maart en april 2022. Hoewel in deze periode de meeste beperkende coronamaatregelen werden losgelaten omvat de referentieperiode van 12 maanden op basis waarvan de jaarprevalentie wordt bepaald juist wel nog momenten van beperkende coronamaatregelen en lockdowns. Dit betekent dat de cijfers over de jaarprevalentie van huiselijk en seksueel grensoverschrijdend gedrag voor 2022 voor het grootste deel betrekking hebben op de coronaperiode, terwijl de prevalentiecijfers voor 2020 dit voor het grootste deel niet hadden.
+
+Om een beeld te krijgen van de samenhang tussen de impact van de coronapandemie en de gerapporteerde prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag is de respondenten gevraagd hoe de coronapandemie hun leven in het algemeen beïnvloed heeft, en of er tijdens de pandemie iets veranderd is in hun werksituatie en thuissituatie. Bij deze vragen kon men ook aangeven wat de aard van de invloed van de pandemie op het leven is geweest (bijvoorbeeld negatief of positief) en wat de aard was van de verandering in de werksituatie (bijvoorbeeld meer thuiswerken, meer werk, minder werk, ontslag) en in de thuissituatie (bijvoorbeeld zelf meer/minder thuis, partner meer/minder thuis, kinderen meer/minder thuis).
+
+De meesten (82 procent) gaven aan dat de coronapandemie hun leven heeft beïnvloed; 15 procent gaf aan dat dat niet het geval was (het resterende percentage gaf geen antwoord). Twee derde (66 procent) zei dat er tijdens de pandemie iets veranderd is in hun werksituatie, 29 procent zei van niet. Bijna drie kwart (73 procent) gaf aan dat er iets veranderd is in hun thuissituatie, 25 procent zei dat dit niet het geval was.
+
+De ervaren invloed van de coronapandemie op het leven in het algemeen en de veranderingen tijdens de pandemie in de werk- of thuissituatie blijken samen te hangen met de gerapporteerde prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag in die periode.
+
+Personen die zeggen dat de coronapandemie hun leven heeft beïnvloed zijn vaker slachtoffer geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen die zeggen dat dat niet het geval was. Ook personen voor wie de coronapandemie heeft geleid tot een andere werksituatie – bijvoorbeeld meer thuiswerken, minder werken, meer werken – geven vaker aan slachtoffer te zijn geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen bij wie de werksituatie ongewijzigd bleef. En ook voor de thuissituatie geldt dat personen voor wie er wel iets is veranderd tijdens de coronapandemie vaker slachtoffer zijn geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen voor wie de thuissituatie niet is veranderd.
+
+Bij seksueel grensoverschrijdend gedrag zijn de verschillen tussen personen die door de coronapandemie wel of geen invloed op hun leven hebben ervaren respectievelijk wel of geen wijzigingen in hun werk- of thuissituatie hebben ervaren groter dan bij huiselijk geweld.
+
+Opgemerkt moet worden dat het causaal verband tussen de ervaren impact van de coronapandemie en het slachtofferschap van huiselijk geweld en seksueel grensoverschrijdend gedrag onbekend is. De ervaren impact van de pandemie kan van invloed zijn geweest op het slachtofferschap, maar omgekeerd kan het slachtofferschap ook de manier waarop de pandemie is ervaren hebben beïnvloed.
+
+Als het gaat om de aard van de invloed van corona op het leven en met name de aard van de verandering in de werk- en thuissituatie tijdens de pandemie zijn de uitkomsten echter minder eenduidig en soms ogenschijnlijk contra-intuïtief. Zo zeggen personen die tijdens de coronapandemie zelf minder thuis waren vaker slachtoffer te zijn geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen die zelf meer thuis waren tijdens de pandemie. Hierbij kan echter meespelen dat ook andere omstandigheden een rol speelden, zoals het feit dat de partner, kinderen of andere gezinsleden tijdens de pandemie juist meer thuis waren.
+
+11.2 Media-aandacht voor seksueel grensoverschrijdend gedrag
+
+Nadat eind 2017 de Me Too-beweging begon die sindsdien wereldwijd en ook in Nederland voor veel aandacht rondom seksueel grensoverschrijdend gedrag zorgde, ontstond er in Nederland vlak voor de enquêtering van de PHGSG in april/mei 2022 in de media en daarbuiten extra aandacht voor dit thema. Aanleiding was met name een aflevering van het televisieprogramma BOOS in januari 2022 over gebeurtenissen rondom het programma The Voice of Holland. Het publieke debat hieromtrent kan invloed hebben gehad op de manier waarop mensen seksuele intimidatie en seksueel geweld – ook retrospectief – percipiëren en zichzelf als slachtoffer ervan zien. Hoewel het niet mogelijk is de in de PHGSG 2022 gemeten toename van slachtofferschap van seksueel grensoverschrijdend gedrag 1‑op-1 toe te schrijven aan deze media-aandacht (er kan immers ook sprake zijn van een feitelijke toename van het slachtofferschap) zijn er toch indicaties dat de aandacht rondom dit thema tot een verhoogde rapportage van seksueel grensoverschrijdend gedrag heeft geleid.
+
+Zo blijkt uit de PSGHG-data dat het percentage 16‑plussers dat zegt in de kinderjaren slachtoffer te zijn geweest van seksueel grensoverschrijdend gedrag tussen 2020 en 2022 is toegenomen, terwijl de rapportage van slachtofferschap van huiselijk geweld in de kinderjaren onveranderd is gebleven. Het lijkt onwaarschijnlijk dat binnen een interval van twee jaar tussen de PHGSG-onderzoeken het ervaren slachtofferschap van seksueel grensoverschrijdend gedrag in de kinderjaren feitelijk is toegenomen. Waarschijnlijker is het dat de grotere bewustwording naar aanleiding van de media-aandacht rondom dit thema retrospectief tot een verhoogde rapportage van seksueel grensoverschrijdend gedrag in de kinderjaren heeft geleid.
+
+Iets vergelijkbaars speelt bij de gerapporteerde vijfjaarsprevalentie van slachtofferschap. Hier blijkt dat het percentage 16‑plussers dat zegt in de afgelopen vijf jaar slachtoffer te zijn geweest van seksueel grensoverschrijdend gedrag tussen 2020 en 2022 duidelijk is toegenomen, terwijl dat wederom niet voor het slachtofferschap van huiselijk geweld geldt. Ook in dit geval lijkt het – ten minste voor deel – onwaarschijnlijk dat binnen een interval van twee jaar tussen beide PHGSG-onderzoeken het ervaren slachtofferschap van seksueel grensoverschrijdend gedrag over de langere referentieperiode van vijf jaar feitelijk duidelijk is toegenomen. Ook hier ziet het ernaar uit dat grotere bewustwording rondom dit thema ertoe heeft geleid dat verder in de tijd terug liggend slachtofferschap van seksueel grensoverschrijdend gedrag alsnog vaker wordt gerapporteerd.
+
+Ook bij meldpunten en organisaties komen er meer meldingen over seksueel grensoverschrijdend gedrag binnen dan voor de onthullingen rond The Voice of Holland (Nu.nl, 2 oktober 2022). Zo ontving Slachtofferhulp Nederland tot oktober 2022 meer dan tienduizend meldingen. Dat is ruim 10 procent meer dan de jaren ervoor. Centrum Seksueel Geweld (CSG) meldt sinds de BOOS-aflevering een stijging van 35 procent in het aantal acute slachtoffers en een toename van 80 procent in het aantal niet-acute slachtoffers. Ook Mores, het meldpunt voor ongewenste omgangsvormen voor de Nederlandse culturele en creatieve sector, constateert een toename. Zo waren er in 2020 in totaal 97 meldingen, in het jaar erna mede door de pandemie 57, en in 2022 tot en met juni al 180 meldingen. De organisatie Perspectief Herstelbemiddeling waar onder andere slachtoffers van zedendelicten terecht kunnen behandelt jaarlijks zo’n veertienhonderd zaken. In 2020 ging 10 procent daarvan over seksueel misbruik en seksueel grensoverschrijdend gedrag. In 2022 geldt dat voor ruim 33 procent van de zaken.
+
+In 2022 is er weliswaar ook verhoogde media-aandacht geweest voor huiselijk geweld, onder andere aan het begin van dit jaar naar aanleiding van de vermeende mishandeling door rapper Lil Kleine van zijn vriendin, maar deze aandacht lijkt niet dezelfde impact te hebben gehad als de verhoogde aandacht voor seksueel grensoverschrijdend gedrag. Indicatief daarvoor is dat de gerapporteerde prevalentie van huiselijk geweld tussen 2020 en 2022 niet is toegenomen.
+
+
+
+Conclusies en aanbevelingen
+
+Dit afsluitende hoofdstuk bevat de belangrijkste conclusies van de PHGSG 2022 en een aantal aanbevelingen voor toekomstig onderzoek.
+
+12.1 Conclusies
+
+1,3 miljoen Nederlanders van 16 jaar of ouder slachtoffer huiselijk geweld, 1,8 miljoen slachtoffer seksueel grensoverschrijdend gedrag
+
+In 2022 gaf 9 procent van de bevolking van 16 jaar en ouder (bijna 1,3 miljoen personen) aan in de afgelopen 12 maanden slachtoffer te zijn geweest van een of meerdere vormen van huiselijk geweld. Zes procent van de personen van 16 jaar of ouder (ruim 850 duizend personen) werd structureel slachtoffer, dat wil zeggen dat ze in de afgelopen 12 maanden ten minste één vorm van huiselijk geweld (bijna) dagelijks, wekelijks of maandelijks hebben meegemaakt. De meest voorkomende vorm van huiselijk geweld was dwingende controle, gevolgd door fysiek geweld en stalking door ex-partner.
+
+In 2022 werd 13 procent van de bevolking van 16 jaar en ouder (ruim 1,8 miljoen personen) slachtoffer van een of meer vormen van seksueel grensoverschrijdend gedrag in de afgelopen 12 maanden. Twee procent van de 16‑plussers (270 duizend personen) werd structureel slachtoffer. De meest voorkomende vorm was offline seksuele intimidatie, gevolgd door online seksuele intimidatie, en fysiek seksueel geweld.
+
+In het overgrote deel van de gevallen is huiselijk geweld van niet-seksuele aard en vindt seksueel grensoverschrijdend gedrag buiten de huiselijke kring plaats.
+
+Huiselijk geweld in afgelopen twee jaar gelijk gebleven, seksueel grensoverschrijdend gedrag toegenomen
+
+De jaarprevalentie van huiselijk geweld in 2022 (9 procent) verschilt niet significant van die van 2020 (8 procent). Dit geldt ook voor de onderliggende vormen van huiselijk geweld. De jaarprevalentie van seksueel grensoverschrijdend gedrag in 2022 daarentegen verschilt wel significant van die van 2020. Deze is toegenomen van 11 naar 13 procent. De stijging is hoofdzakelijk toe te schrijven aan de toegenomen rapportage van seksuele intimidatie. De jaarprevalentie van fysiek seksueel geweld is niet significant gewijzigd. Er zijn indicaties dat de toename van seksueel grensoverschrijdend gedrag in de afgelopen twee jaar (deels) toe te schrijven is aan de impact van de coronapandemie en aan de media-aandacht rondom dit thema, waardoor de bewustwording van slachtoffers is vergroot en tot een verhoogde rapportage van seksueel grensoverschrijdend gedrag heeft geleid.
+
+Jongeren, vrouwen, bi- en homoseksuele personen, en alleenstaanden vaakst slachtoffer van huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+Jongeren zijn vaker slachtoffer van huiselijk geweld dan oudere leeftijdsgroepen; bij seksueel grensoverschrijdend gedrag is dit verschil groter. Bij huiselijk geweld zijn vrouwen slechts iets vaker slachtoffer dan mannen, terwijl er bij het slachtofferschap van seksueel grensoverschrijdend gedrag een relatief groot man-vrouw-verschil bestaat. Heteroseksuele personen zijn minder vaak slachtoffer van huiselijk geweld en seksueel grensoverschrijdend gedrag dan personen met een andere seksuele oriëntatie. Ook alleenstaande ouders en alleenstaanden zijn relatief vaak slachtoffer. Slachtofferschap van huiselijk geweld komt ook vaker voor bij personen in huishoudens met een lager welvaartsniveau. Het slachtofferschap verschilt niet naar migratieachtergrond.
+
+Extra kwetsbaar: helft jonge vrouwen en biseksuele vrouwen rapporteren seksueel grensoverschrijdend gedrag
+
+Van de jonge vrouwen van 16 tot 18 jaar is in 2022 bijna de helft (46 procent) slachtoffer geweest van seksueel grensoverschrijdend gedrag, van de jonge vrouwen van 18 tot 24 jaar ruim de helft (52 procent). Van de biseksuele vrouwen rapporteerde 46 procent slachtofferschap van seksuele grensoverschrijding.
+
+Huiselijk geweld het vaakst gepleegd door (ex-)partner, seksuele intimidatie het vaakst door onbekenden
+
+Huiselijk geweld wordt het vaakst door een partner of ex-partner gepleegd. Bij seksueel grensoverschrijdend gedrag zijn de plegers voor het overgrote deel afkomstig van buiten de huiselijke kring. Bij offline en online seksuele intimidatie geeft ruim de helft van de slachtoffers aan dat een onbekende de pleger is. Bij fysiek seksueel geweld daarentegen kennen de meesten (ruim 70 procent) de pleger.
+
+Bij seksueel grensoverschrijdend gedrag zijn de plegers voor het overgrote deel man. Ook bij fysiek geweld in huiselijke kring en bij dwingende controle in huiselijke kring is de pleger vaker man dan vrouw.
+
+Twee op de drie slachtoffers van dwingende controle in huiselijke kring en van stalking door ex-partner ervaren gevolgen
+
+Bijna de helft van de slachtoffers van fysiek geweld in huiselijk kring zegt in de afgelopen 12 maanden gevolgen te hebben (gehad). Van de slachtoffers van dwingende controle in huiselijk kring en van de slachtoffers van stalking door ex-partner geven twee op de drie dit aan. De percentages bij seksueel grensoverschrijdend gedrag liggen lager: afhankelijk van de soort grofweg tussen de 20 en 40 procent. Wanneer bij fysiek seksueel geweld echter wordt ingezoomd op ervaringen met seksuele handelingen zoals ongewenste geslachtsgemeenschap of gedwongen prostitutie is het aandeel slachtoffers dat gevolgen ervaart met ruim 70 procent aanzienlijk hoger.
+
+Uitgesplitst naar de aard van de gevolgen komen bij huiselijk geweld psychische problemen het meest voor, gevolgd door relatieproblemen. Ook bij seksueel grensoverschrijdend gedrag zijn psychische problemen het meest genoemde gevolg, met op de tweede plaats seksuele problemen.
+
+Voor zowel huiselijk geweld en seksueel grensoverschrijdend gedrag in totaal als voor de meeste onderliggende vormen geldt dat vrouwen vaker gevolgen ervaren dan mannen.
+
+Meerderheid slachtoffers huiselijk geweld en seksueel grensoverschrijdend gedrag praat over ervaringen
+
+Zowel bij huiselijk geweld als bij seksueel grensoverschrijdend gedrag praat een meerderheid van de slachtoffers met iemand over hun ervaringen, maar bij huiselijk geweld gebeurt dit vaker dan bij seksueel grensoverschrijdend gedrag. Van de slachtoffers van huiselijk geweld zeggen, afhankelijk van het soort delict, grofweg 70 á 90 procent met iemand gepraat te hebben, van de slachtoffers van seksueel grensoverschrijdend gedrag zegt 60 á 70 procent dit.
+
+Het meest wordt gesproken met personen in het eigen, informele circuit: vooral met vrienden/vriendinnen, partner, en – bij huiselijk geweld – met andere gezins- of familieleden. Bij huiselijk geweld worden ook professionele hulpverleners zoals (huis)artsen, psychologen of maatschappelijk werkers relatief vaak geconsulteerd.
+
+Huiselijk geweld en seksueel grensoverschrijdend gedrag relatief weinig gemeld bij instanties
+
+Met instanties zoals de politie, Veilig Thuis en het Centrum Seksueel Geweld wordt naar verhouding weinig contact gelegd. Met de politie wordt, afhankelijk van de delictsoort, door grofweg 5 á 10 procent van de slachtoffers van huiselijk geweld gepraat en door grofweg 1 á 2 procent van de slachtoffers van seksueel grensoverschrijdend gedrag. Met medewerkers van Veilig Thuis praten, afhankelijk van de delictsoort, 3 á 5 procent van de slachtoffers van huiselijk geweld en 0,2 procent of minder van de slachtoffers van seksueel grensoverschrijdend gedrag. Met hulpverleners van het Centrum Seksueel Geweld praten 0,2 á 0,3 procent van de slachtoffers van seksuele intimidatie en 0,6 procent van de slachtoffers van fysiek seksueel geweld.
+
+12.2 Aanbevelingen voor toekomstig onderzoek
+
+Op basis van de onderzoeksbevindingen, suggesties van experts zoals die onder andere naar voren komen in recent onderzoek van Rutgers Expertisecentrum Seksualiteit (Joemmanbaks en de Graaf, 2022) en inzichten van de begeleidingscommissie worden de volgende aanbevelingen voor toekomstig onderzoek gedaan.
+
+Kwetsbaarheid van jonge vrouwen voor seksueel grensoverschrijdend gedrag
+
+Tegen de achtergrond van het seksisme in onze samenleving en daarmee samenhangende waarden en normen kan de relatieve kwetsbaarheid van jonge vrouwen voor seksueel grensoverschrijdend gedrag al voor een deel worden geduid. Zo blijkt uit recent onderzoek dat jonge vrouwen zich vaker op grond van hun sekse gediscrimineerd voelen dan anderen (Akkermans en Kloosterman, 2022). Twee op de drie jonge vrouwen hadden in 2020/2021 te maken met straatintimidatie (Reep, Akkermans en Kloosterman, 2022). Niettemin dringen zich vragen op die vervolgonderzoek vereisen zoals: welke korte- en langetermijnontwikkelingen in deze kwetsbaarheid zijn waarneembaar en hoe zijn die te duiden? Is er samenhang met de relatief lage en sterk verminderende mentale gezondheid van met name jonge vrouwen zoals die uit recente onderzoeken naar voren komt (CBS, 2022; Boer et al., 2022; Kloosterman, Akkermans, Tummers-van der Aa, Wingen en Reep, 2021; Reep en Hupkens, 2021)? Welke interventies zijn op dit terrein bekend en welke lijken de meeste kans op succes te hebben?
+
+Kwetsbaarheid biseksuele vrouwen voor seksueel grensoverschrijdend gedrag
+
+De relatieve kwetsbaarheid van biseksuele personen, en vooral biseksuele vrouwen komt in veel onderzoek naar voren (Huijnk, Damen en van Kampen, 2022; Nikkelen, Tijdink, de Graaf en Bakker, 2019). Net als bij de kwetsbaarheid van jonge vrouwen is ook hier meer inzicht gewenst zoals antwoord op de vraag waarom binnen de groep niet-heteroseksuele personen juist biseksuele personen en met name biseksuele vrouwen vaker dan homoseksuele personen slachtoffer zijn van seksueel grensoverschrijdend gedrag. En in bredere zin: wat zijn de overeenkomsten en verschillen met seksueel grensoverschrijdend gedrag dat gericht is tegen andere groepen? Wat is het profiel van de plegers?
+
+Slachtoffer-pleger-relatie bij seksueel grensoverschrijdend gedrag
+
+Vrijwel alle experts benadrukken dat machtsmisbruik (bijna) altijd een rol speelt in seksueel grensoverschrijdend gedrag en dat het in dat kader van belang is om te kijken naar de relatie tussen het slachtoffer en de pleger(s). Deze relatie wordt nu al uitgevraagd (bijvoorbeeld door te vragen of de pleger een leidinggevende of docent is) maar ze zou nog beter in kaart kunnen worden gebracht, bijvoorbeeld door te kijken naar leeftijdsverschillen tussen slachtoffers en daders. Ook wordt geadviseerd om te kijken naar de bewegingsruimte van slachtoffers. Hierbij gaat het om het verzamelen van informatie over het aanpassings- en vermijdingsgedrag van (potentiële) slachtoffers van seksuele grensoverschrijding.
+
+Contextuele factoren bij seksueel grensoverschrijdend gedrag
+
+Meerdere experts benadrukken het belang van de context, de setting waarbinnen seksuele grensoverschrijding plaatsvindt. Het gaat hier niet alleen om het in kaart brengen van de daadwerkelijke locatie, maar ook wat er voorafgaand aan het incident gebeurt, wat de culturele context is (bijvoorbeeld seksueel grensoverschrijdend gedrag op werk, in vrije tijd, in uitgaansleven) en of er sprake is geweest van wederzijdse toestemming. Ook wordt geadviseerd om te kijken naar middelengebruik, dat wil zeggen of slachtoffers (en plegers) onder invloed waren van alcohol en/of drugs toen het incident plaatsvond.
+
+Verloop en interactieprocessen bij huiselijk geweld
+
+Een literatuurstudie van Daru, Mejdoubi, de Vaan en Visser (2016) geeft aan dat uit onderzoek blijkt dat mannen en vrouwen even vaak verbaal agressief zijn tegen hun partner, maar dat mannen vaker geweld gebruiken en ook vaker angst bij hun partner kunnen genereren (Felson en Outlaw, 2007). Dit wordt bevestigd door ander onderzoek waaruit blijkt dat vrouwelijke slachtoffers vaker angst ervaren tijdens een conflict waarbij er sprake is van geweld (Caldwell, Swan en Woodbrown, 2012). Mannelijke plegers kunnen daarom vaker geweld gebruiken om controle op het slachtoffer uit te oefenen (Römkens, 1992). Vrouwelijke plegers gebruiken vaak fysiek geweld als reactie op het geweld van de man (Fulu, Warner, Miedema, Jewkes, Roselli en Lang, 2013). Ook de PHGSG-data laten zien dat vrouwen vaker dan mannen gevolgen ervaren van wat hen overkomen is. Dit roept vragen op over het gendergebonden verloop en de interactionele processen van de voorvallen die plaatsvinden, zoals: wat zijn aanleidingen voor het geweld? wie initieert het geweld? hoe wordt op het geweld gereageerd, wordt bijvoorbeeld escalatie tegengegaan? Aanbevolen wordt verdiepend onderzoek naar dit soort vraagstukken te doen.
+
+Melding van huiselijk geweld en seksueel grensoverschrijdend gedrag bij instanties
+
+Huiselijk geweld en vooral seksueel grensoverschrijdend gedrag wordt relatief weinig gemeld bij instanties. Aanbevolen wordt te onderzoeken wat de redenen voor deze lage meldingsbereidheid zijn. Dit zou kunnen door hier in de PHGSG-vragenlijst naar te vragen, bijvoorbeeld op een vergelijkbare manier waarop dit gebeurt in de , een grootschalige landelijke slachtofferschaps- en veiligheidsenquête van het CBS en het ministerie van JenV.
+
+De meldingsbereid hangt samen met de aard en ernst van het voorval. Een mogelijkheid om meer inzicht hierin te krijgen (die ook in de Veiligheidsmonitor wordt toegepast) is om bij bepaalde voorvallen het slachtoffer te vragen hoe hij/zij dit heeft ervaren (bijvoorbeeld als strafbaar/misdrijf, als verkeerd maar niet strafbaar, als iets dat toevallig gebeurde, als eigen schuld). Los van de context van meldingsbereidheid zou een bijkomend voordeel van een dergelijke vraagstelling zijn dat er meer informatie beschikbaar komt over hoe slachtoffers de ernst ervaren van wat hen overkomen is.
+
+Inhoud/samenstelling constructen huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+De inhoud en samenstelling van de constructen om huiselijk geweld en seksueel grensoverschrijdend gedrag in beeld te brengen is in de PHGSG 2022 – vooral omwille van de vergelijkbaarheid van de uitkomsten in de tijd – dezelfde als die in de PHGSG 2020. Zowel de onderzoekers, leden van de begeleidingscommissie als externe experts bepleiten echter aanpassingen hiervan.
+
+Een voorbeeld is het construct ‘dwingende controle in huiselijke kring’. Wanneer een slachtoffer enkel regelmatig of altijd gekleineerd wordt, dus zonder dat dit gebeurt in combinatie met andere voorvallen van dwingende controle, kan dit ook gezien worden als een vorm van psychisch geweld in plaats van dwingende controle. Aanbevolen wordt te onderzoeken of dwingende controle met ingang van de PHGSG 2024 geconstrueerd moet worden exclusief de gevallen dat enkel sprake is van regelmatig gekleineerd of vernederd worden. De gevallen waarin uitsluitend sprake is van regelmatig of altijd gekleineerd of vernederd worden zouden eventueel ondergebracht kunnen worden in een nieuw construct ‘psychisch geweld’.
+
+Een ander voorbeeld is het construct ‘fysiek seksueel geweld’: dit is samengesteld uit voorvallen die variëren van ‘aanraken op een seksuele manier’ en ‘ongewenst zoenen’ tot ‘geslachtsverkeer’, ‘orale seks’ en ‘anale seks’. Door het combineren van deze totaal verschillende voorvallen in één construct wordt onvoldoende recht gedaan aan de verschillen in impact die ze op de persoonlijke integriteit van het slachtoffer hebben. Consequentie hiervan is dat wanneer op het niveau van het construct (in dit voorbeeld fysiek seksueel geweld) de gevolgen voor het slachtoffer in kaart worden gebracht deze een te weinig genuanceerd beeld geven (slachtoffers van ongewenst zoenen bijvoorbeeld zullen andere gevolgen ervaren dan slachtoffers van ongewenste geslachtsgemeenschap). Om dit soort redenen stellen onderzoekers van Rutgers Expertisecentrum Seksualiteit voor om een onderscheid te maken tussen verbale en non-verbale vormen van seksuele intimidatie, en tussen fysiek seksueel geweld met en zonder penetratie.
+
+Ook wordt door Rutgers voor toekomstige onderzoeken geadviseerd om voor de constructen altijd een opsplitsing te maken op basis van geslacht, aangezien vrouwen veel vaker het slachtoffer zijn van seksueel grensoverschrijdend gedrag dan mannen, en mannen overwegend de plegers zijn zowel naar vrouwen als naar mannen.
+
+Referentieperiode onderzoek
+
+In de PHGSG 2020 en 2022 is het slachtofferschap van huiselijk geweld en seksueel grensoverschrijdend gedrag gemeten en in kaart gebracht voor de periode van vijf jaar en van 12 maanden voorafgaand aan het onderzoek, en voor de kinderjaren (dat wil zeggen jonger dan 12). Op basis van met name de jaarprevalentie kan goed gemonitord worden hoe het slachtofferschap zich ontwikkelt.
+
+Om een compleet beeld van het fenomeen te krijgen is het echter wenselijk om ook te onderzoeken welke deel van de bevolking ooit slachtoffer is geweest van huiselijk geweld en seksueel grensoverschrijdend gedrag, en vervolgens in welke levensfase dit gebeurde (behalve als kind bijvoorbeeld als jongere, jongvolwassene, volwassene met daarbinnen eventueel onderscheid naar leeftijdsgroepen). Verondersteld mag worden dat ook personen die langer dan vijf jaar geleden met huiselijk geweld of seksueel grensoverschrijdend gedrag te maken hebben gehad zich mogelijk nog steeds als slachtoffer voelen en beschouwen. In de huidige vragenlijst kunnen zij hun ervaringen niet kwijt. Ook kan overwogen worden voor dit ‘slachtofferschap ooit’ te onderzoeken wie de plegers waren, wat de gevolgen voor de slachtoffers waren/zijn en met wie erover gepraat is/bij wie het gemeld is.
+
+Leeftijdgrens onderzoek
+
+De huidige ondergrens voor deelname aan het onderzoek is 16 jaar. Voor deze leeftijdsgrens is gekozen met het oog op de inhoud van de vragenlijst en de belastbaarheid van de respondent. Experts doen de suggestie om te onderzoeken via welke methodieken de prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag onder 12- tot 16-jarigen onderzocht kan worden.
+
+
+
+Bijlage A. Tabellen
+
+1) Het gaat hier om personen van 16 jaar of ouder met een ex-partner.
+
+2) Verbale agressie in huiselijke kring is bij huiselijk geweld niet meegeteld.
+
+1) Het gaat hier om personen van 16 jaar of ouder met een ex-partner.
+
+2) Verbale agressie in huiselijke kring is bij huiselijk geweld niet meegeteld.
+
+1) Het gaat hier om personen van 16 jaar of ouder met een ex-partner.
+
+2) Verbale agressie in huiselijke kring is bij huiselijk geweld niet meegeteld.
+
+1) Op logische gronden is bij sommige vormen van huiselijk geweld (in dit geval bij dwingende controle in huiselijke kring en bij stalking door de ex-partner) niet gevraagd naar de frequentie van het slachtofferschap. Deze vormen hebben altijd een zich herhalend, structureel karakter.
+
+1) Op logische gronden is bij stalking door de ex-partner niet gevraagd naar de pleger.
+
+1) Bij verbale agressie in huiselijke kring is niet gevraagd naar de gevolgen.
+
+2) Het gaat hier om personen van 16 jaar of ouder met een ex-partner.
+
+1) Bij verbale agressie in huiselijke kring is niet gevraagd naar het praten over de ervaringen.
+
+2) Het gaat hier om personen van 16 jaar of ouder met een ex-partner.
+
+
+
+Bijlage B. Onderzoeks­verantwoording
+
+In deze onderzoeksverantwoording worden de opzet en uitvoering van de Prevalentiemonitor Huiselijk Geweld en Seksueel Grensoverschrijdend Gedrag 2022 beknopt beschreven. Achtereenvolgens komen aan de orde:
+
+Dataverzameling
+
+Vragenlijst
+
+Operationalisering huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+Aandachtspunten bij onderzoeksresultaten
+
+Gebruikte analysemethoden
+
+Plausibiliteit: vergelijking met ander onderzoek.
+
+Toegang tot databestanden.
+
+Over deze en andere onderwerpen die te maken hebben met de opzet en uitvoering van de PHGSG 2022 is meer informatie beschikbaar in de .
+
+1 Dataverzameling
+
+Doelpopulatie en steekproef
+
+De doelpopulatie bestaat uit alle in Nederland woonachtige personen van 16 jaar of ouder bij de start van het veldwerk, die geregistreerd zijn als ingezetene in de Basisregistratie Personen (BRP) en die deel uitmaken van particuliere huishoudens. De institutionele bevolking, dat zijn personen in inrichtingen, instellingen of tehuizen (IIT), worden voor dit onderzoek niet benaderd. Er is een aselecte steekproef getrokken. Deze bestaat uit 100 duizend personen. Naar verwachting zou een respons van 26 procent worden gerealiseerd, hetgeen dus 26 duizend responsen zou opleveren. Het minimumaantal vereiste responsen bedraagt 23 duizend, hetgeen een respons van 23 procent betekent.
+
+Veldwerk
+
+Het veldwerk vond plaats van begin maart tot en met eind april 2022. De steekproefpersonen ontvingen een aanschrijfbrief met daarin het verzoek om via internet deel te nemen aan het onderzoek en de bijbehorende inloggegevens. Daarnaast werd in de brief ingegaan op het doel van het onderzoek. Bij de aanschrijfbrief werd een folder bijgevoegd waarin stond beschreven hoe het CBS omgaat met de privacy van respondenten en dat anonimiteit is gewaarborgd. Drie weken na de aanschrijfbrief werd aan steekproefpersonen een eerste rappelbrief verstuurd met daarin opnieuw het verzoek om via internet deel te nemen aan het onderzoek. Deze brief werd alleen verstuurd aan steekproefpersonen waarvan geen respons is ontvangen. Zes weken na de aanschrijfbrief werd aan steekproefpersonen een tweede rappelbrief verstuurd met opnieuw het verzoek om via internet deel te nemen aan het onderzoek. Ook deze brief werd alleen verstuurd aan steekproefpersonen waarvan nog geen respons is ontvangen. In de brief stond een uiterste datum tot wanneer de vragenlijst kon worden ingevuld.
+
+Respons
+
+Van de 100 duizend personen die voor het onderzoek zijn benaderd hebben in totaal 24 237 personen meegedaan, een responspercentage van 24,2 procent. Dit is ruim 1 procentpunt boven de minimumvereiste respons van 23 procent maar bijna 2 procentpunten lager dan de voor 2022 verwachte respons van 26 procent en ruim 6 procentpunten lager dan de in 2020 gerealiseerde respons van 30,5 procent. Een mogelijke verklaring voor met name het achterblijven van de respons ten opzichte van die van 2020 is dat de respons in dat jaar waarschijnlijk extra hoog was door de coronamaatregelen – zoals de oproep om zoveel mogelijk thuis te werken en de sluiting van onder andere horeca – die net waren ingegaan toen het enquêteren begon. Mensen waren toen meer thuis en hadden waarschijnlijk meer tijd om aan het onderzoek deel te nemen. Tijdens de periode van enquêteren in 2022 daarentegen waren de coronamaatregelen grotendeels verdwenen en de mensen niet meer aan huis gebonden.
+
+Uit de responsanalyse van de data van 2022 is gebleken dat er sprake is van een selectieve respons die overeenstemt met de selectiviteit van respons in andere CBS-onderzoeken. Zo nemen jongeren minder deel dan ouderen, personen met een niet-westerse migratieachtergrond minder dan personen met een westerse migratieachtergrond of met een Nederlandse achtergrond, en personen met een lager huishoudensinkomen minder dan personen met een hoger huishoudensinkomen. Voor deze selectiviteit in de respons is door weging zodanig gecorrigeerd dat de deelnemers aan het onderzoek een representatieve vertegenwoordiging vormen van de doelpopulatie (voor meer informatie over de selectiviteit van de respons en de weging zie de ).
+
+2 Vragenlijst
+
+De vragenlijst heeft betrekking op ervaringen met geweld en intimidatie in de huiselijke kring en ongewenste seksuele ervaringen (zowel binnen als buiten de huiselijke kring). De vragenlijstblokken die huiselijk geweld (inclusief stalking door ex-partner) meten zijn ontwikkeld door het WODC. Dat is gebeurd op basis van bestaande vragenlijsten voor huiselijk geweld en het concept van de vragenlijst is voorgelegd aan een groep experts op het gebied van huiselijk geweld. Van die bijeenkomst is een verslag gemaakt, maar er is geen uitgebreider onderzoeksverslag beschikbaar. De vragenlijstblokken die seksuele intimidatie en seksueel geweld meten, zijn in opdracht van het WODC ontwikkeld door Rutgers en een aantal deskundigen op het gebied van seksualiteit en seksueel geweld. Het verslag dat over de ontwikkeling van dat deel is geschreven, is te vinden. De vragenlijst bestaat in totaliteit uit de volgende blokken met voorbeelden van vragen c.q. ervaringen:
+
+Iemand beledigde u en/of vloekte tegen u
+
+Iemand schreeuwde en/of gilde tegen u
+
+Iemand kleineerde of vernederde u
+
+Iemand dreigde een mes of ander wapen tegen u te gebruiken
+
+Iemand heeft u geschopt
+
+Iemand heeft geprobeerd om u te verstikken of te wurgen
+
+Iemand hield u de hele tijd weg bij uw familie en/of vrienden
+
+Iemand bepaalde voor u waaraan u uw geld mocht uitgeven
+
+Iemand controleerde regelmatig of de hele tijd uw post, telefoontjes, berichten, e-mails, of sociale media
+
+Een ex-partner belde u regelmatig, terwijl u dit niet wilde (inclusief opgehangen, voicemail en berichten)
+
+Een ex-partner bespioneerde u bijvoorbeeld met een verborgen camera, opname apparatuur of andere technologie
+
+Een ex-partner is uw auto of huis binnen gegaan zonder uw toestemming, of heeft dit geprobeerd
+
+Iemand maakte online seksueel kwetsende opmerkingen of grapjes
+
+Iemand bleef online aandringen op seks met hem/haar, terwijl u dat niet wilde
+
+Iemand maakte online een naaktfoto of seksfilmpje van u, terwijl u dat niet wilde
+
+Iemand bleef aandringen op een date, terwijl u dat niet wilde
+
+Iemand staarde naar u op een seksuele manier, terwijl u dat niet wilde
+
+Iemand maakte een naaktfoto of seksfilmpje van u, terwijl u dat niet wilde
+
+Iemand zoende u, terwijl u dat niet wilde
+
+Orale seks (seks met de mond), terwijl u dat niet wilde
+
+Iemand dwong u om seks met iemand anders te hebben voor geld en/of goederen
+
+In de vragenlijst wordt aan respondenten gevraagd of ze in de afgelopen 5 jaar slachtoffer zijn geweest van een of meer van bovenstaande ervaringen (zie rechterkolom van het overzicht). En zo ja, hoe vaak dit in de afgelopen 12 maanden is voorgekomen en wie de pleger was. Deze vragen worden per ervaring gesteld. Eventuele gevolgen van het slachtofferschap en het praten met anderen (inclusief de politie en Veilig Thuis) over het slachtofferschap zijn ook onderwerpen die aan bod komen in de vragenlijst. Deze vragen worden aan het einde van elk blok over alle ervaringen in dat blok tezamen gesteld.
+
+Na de bovenstaande vragenlijstblokken is ook een vraag gesteld of men zelf pleger is geweest van huiselijk geweld in de afgelopen 12 maanden. Nieuw in de vragenlijst van 2022 is dat er helemaal aan het einde op verzoek van de Begeleidingscommissie enkele vragen zijn opgenomen over vermoedens die men heeft over huiselijk geweld bij iemand in de omgeving, en vragen over de invloed van corona op het leven en veranderingen die tijdens de coronapandemie zijn opgetreden in werk en thuissituatie. De data die zijn verkregen op basis van de corona-gerelateerde vragen zijn gebruikt om de samenhang tussen de prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag enerzijds en de ervaren invloed van de coronapandemie op het eigen leven en veranderingen in de werk- en thuissituatie tijdens de pandemie anderzijds in beeld te brengen.
+
+Ten slotte is de (achtergrond)vraag naar seksuele oriëntatie uitgebreid met enkele antwoordcategorieën, zodat ook panseksuele personen onderscheiden kunnen worden.
+
+De vragenlijst PHGSG 2022 is beschikbaar.
+
+3 Operationalisering huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+De concepten huiselijk geweld en seksueel grensoverschrijdend gedrag zijn gebaseerd op samenvoegingen en selecties van 6 afzonderlijke vormen van intimidatie en geweld. Verbale agressie in huiselijke kring is hierbij niet meegeteld omdat het twijfelachtig is of bij deze vorm van agressie, die vaak voorkomt, wel altijd sprake is van geweld.
+
+Fysiek geweld in huiselijke kring
+
+Dwingende controle in huiselijke kring
+
+Stalking door ex-partner
+
+Offline seksuele intimidatie in huiselijke kring
+
+Online seksuele intimidatie in huiselijke kring
+
+Fysiek seksueel geweld in huiselijke kring
+
+Fysiek geweld in huiselijke kring
+
+Dwingende controle in huiselijke kring
+
+Stalking door ex-partner
+
+Offline seksuele intimidatie in huiselijke kring
+
+Online seksuele intimidatie in huiselijke kring
+
+Fysiek seksueel geweld in huiselijke kring
+
+Offline seksuele intimidatie
+
+Online seksuele intimidatie
+
+Fysiek seksueel geweld
+
+Offline seksuele intimidatie buiten huiselijke kring
+
+Online seksuele intimidatie buiten huiselijke kring
+
+Fysiek seksueel geweld buiten huiselijke kring
+
+Offline seksuele intimidatie in huiselijke kring
+
+Online seksuele intimidatie in huiselijke kring
+
+Fysiek seksueel geweld in huiselijke kring
+
+4 Aandachtspunten bij onderzoeksresultaten
+
+Hieronder volgt een aantal aandachtspunten waarmee bij de interpretatie van de onderzoeksresultaten rekening moet worden gehouden.
+
+Samenstelling afzonderlijke vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag
+
+De samenstelling van de zeven vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag (verbale agressie in huiselijke kring, fysiek geweld in huiselijke kring, dwingende controle in huiselijke kring, stalking door ex-partner, offline seksuele intimidatie, online seksuele intimidatie, fysiek seksueel geweld is gebaseerd op een set van onderliggende items die in het betreffende vragenblok in de PHGSG-vragenlijst zijn uitgevraagd. Deze items kunnen fors variëren in ernst van de gebeurtenis/ervaring. Bij fysiek geweld in huiselijke kring bijvoorbeeld lopen de gevraagde items uiteen van voorvallen als iemand stompen tot misdrijven als pogingen om iemand te verstikken of te verwonden met een wapen. Bij fysiek seksueel geweld variëren de voorvallen van ongewenst gezoend worden tot pogingen tot verkrachting. In overleg met de opdrachtgever is bepaald dat de gepresenteerde onderzoeksresultaten voor de totalen van de afzonderlijke vormen van huiselijk geweld en seksueel grensoverschrijdend gedrag gebaseerd zijn op de complete set van onderliggende items, en dat dus geen onderzoeksresultaten voor selecties van items worden gepresenteerd. Er is ook in overleg besloten dat verbale agressie in huiselijke kring niet meegeteld wordt bij het totaalcijfer huiselijk geweld, omdat – zoals ook in paragraaf 3 beschreven – het twijfelachtig is of bij deze vorm van agressie, die vaak voorkomt, wel altijd sprake is van geweld. Het is niet aan onderzoekers om te bepalen wat ernstig is en wat minder erg. Alleen in hoofdstuk 7 bij fysiek seksueel geweld is hierop bij de bespreking van de gevolgen voor de slachtoffers een uitzondering gemaakt.
+
+Ontbrekende waarden
+
+Indien een respondent de vraag over slachtofferschap bij een item niet heeft beantwoord wordt verondersteld dat hij/zij dit item niet heeft meegemaakt. Deze veronderstelling zal niet altijd juist zijn omdat sommige slachtoffers om hun moverende redenen die vragen niet hebben willen of kunnen beantwoorden. Hierdoor zijn de gepresenteerde slachtofferpercentages waarschijnlijk een onderschatting. Deze omgang met ontbrekende waarden is in Nederland gebruikelijk is voor slachtofferschapsenquêtes, en deze wordt gehanteerd in alle edities van de PHGSG, zodat de onderzoeksresultaten vergelijkbaar zijn. Om toch een beeld te geven van deze onderschatting is in de hoofdstukken 2 tot en met 8 in de betreffende paragraaf in een voetnoot aangegeven wat de slachtofferpercentages zouden zijn wanneer degenen die de vragen niet beantwoord hebben allemaal als slachtoffer worden meegeteld. Daarbij is het niet ondenkbaar dat respondenten slachtofferschapsitems ontkennend beantwoorden, terwijl zij het wel hebben meegemaakt. Dit leidt ook tot een onderschatting van de percentages.
+
+5‑jaarsprevalentie en jaarprevalentie slachtofferschap
+
+In deze publicatie staan de cijfers over het slachtofferschap in de afgelopen 12 maanden – de jaarprevalentie – centraal. Aangezien het veldwerk in maart–april 2022 heeft plaatsgevonden hebben de jaarprevalenties dus betrekking op de periode maart/april 2021 tot maart/april 2022. Daarnaast zijn in beperkte mate ook cijfers opgenomen over het slachtofferschap in afgelopen vijf jaar. Bekend is dat naarmate de referentieperiode langer wordt, de kans op foreward telescoping toeneemt. Dit betekent dat de respondent geneigd is om voorvallen die verder in het verleden liggen als recenter gebeurd in te schatten. Met name bij de langere referentieperiode van 5 jaar bekent dit dat er mogelijk sprake is van een overschatting van het slachtofferschap in deze periode.
+
+Prevalentieschattingen naar achtergrondkenmerken
+
+Een van de onderzoeksvragen bij de start van het onderzoek was: is er verschil in aard en omvang van slachtofferschap tussen de verschillende bevolkingsgroepen? De prevalentieschattingen zijn daarom uitgesplitst naar geslacht, leeftijd, geslacht x leeftijd, migratieachtergrond, seksuele oriëntatie, positie van de persoon in het huishouden, het welvaartsniveau van het huishouden en de stedelijkheid van de gemeente. De uitsplitsing naar migratieachtergrond was in de meeste gevallen weinig zeggend omdat degenen met een niet-westerse migratieachtergrond relatief vaak de prevalentievragen niet beantwoordden. Het is niet duidelijk wat hier speelt: wellicht taalproblemen, wellicht gevoeligheden. Alleen bij de vormen van intimidatie of geweld waarbij personen met een niet-westerse migratieachtergrond zelfs na includeren van ontbrekende antwoorden nog duidelijk afwijken van personen met een andere achtergrond is dit kenmerk beschreven.
+
+In de vragenlijst zijn geen vragen opgenomen over het opleidingsniveau van de respondenten. Bovendien is het opleidingsniveau voor oudere respondenten niet altijd beschikbaar in registers. Daarom zijn de onderzoeksresultaten niet uitgesplitst naar opleidingsniveau.
+
+Bij de prevalentieschattingen uitgesplitst naar achtergrondkenmerken zijn ook analyses uitgevoerd waarbij gecorrigeerd is voor de onderlinge samenhang tussen bepaalde kenmerken (zie ook paragraaf 5, gebruikte analysemethoden).
+
+Nieuw in de PHGSG 2022 is dat de jaarprevalentie ook is uitgesplitst naar de ervaren invloed van de coronapandemie op het leven en naar de veranderingen in de werk- en thuissituatie tijdens de pandemie.
+
+Schatting structureel slachtofferschap en zelfplegerschap
+
+In navolging van eerder onderzoek (Ten Boom & Wittebrood, 2019) is ook in dit onderzoek ‘structureel geweld’ gedefinieerd als geweld dat ten minste één keer per maand voorkomt. Twee huiselijke vormen van geweld, dwingende controle en stalking, hebben per definitie een structureel karakter.
+
+De gepresenteerde cijfers voor structureel slachtofferschap van huiselijk geweld en seksueel grensoverschrijdend gedrag zijn minimumschattingen. Personen kunnen meermaals slachtoffer zijn van meerdere vormen van huiselijk geweld of van seksueel grensoverschrijdend gedrag, en daar is in deze schattingen geen rekening mee gehouden.
+
+In de enquête is gevraagd of de respondent zelf huiselijk geweld of seksueel grensoverschrijdend gedrag in huiselijke kring heeft gepleegd. Verwacht wordt dat niet iedereen dit toegeeft en dat het ook bij deze cijfers om een onderschatting gaat.
+
+Betrouwbaarheidsmarges
+
+De PHGSG is gebaseerd op steekproefonderzoek. Dit betekent dat de gepresenteerde cijfers schattingen zijn, waarvan de werkelijke uitkomsten binnen betrouwbaarheidsmarges (aangegeven met een boven- en ondergrens) liggen. In dit onderzoek is een betrouwbaarheidsniveau van 95 procent gekozen. Dit betekent dat de werkelijke waarde in 95 van de 100 steekproeven zal liggen tussen de boven- en ondergrens die hoort bij de schatting. De betrouwbaarheidsmarges behorende bij de in deze publicatie gepresenteerde cijfers zijn opgenomen in de die aan de publicatie is toegevoegd.
+
+Prevalentie huiselijk geweld en seksueel grensoverschrijdend gedrag in relatie tot de coronapandemie en maatschappelijke context
+
+De vraag is in hoeverre maatregelen in het kader van de coronapandemie het beantwoorden van vragen over huiselijk geweld en seksueel grensoverschrijdend gedrag heeft beïnvloed én in hoeverre die maatregelen invloed hebben (gehad) op de feitelijke prevalentie van huiselijk geweld en seksueel grensoverschrijdend gedrag. In 2020 toen de enquêtering grotendeels plaatsvond in een periode waarin eerste coronamaatregelen werden getroffen zoals de oproep om zoveel mogelijk thuis te werken en sluiting van horeca waren veel respondenten vaker aan huis gebonden, daardoor vaker niet alleen, en keek er bij het beantwoorden van de vragen waarschijnlijk vaker iemand over de schouder mee. Dit kan hebben geleid tot meer sociaal wenselijke antwoorden. Ook is de feitelijke prevalentie van de onderzochte vormen van geweld waarschijnlijk veranderd, binnenshuis mogelijk in ongunstige zin omdat de mensen door de coronamaatregelen meer op elkaars huid zaten, en buitenshuis mogelijk in gunstige zin omdat mensen door de maatregelen minder op straat kwamen en daardoor minder risico op slachtofferschap liepen. In 2022 waren de coronamaatregelen tijdens de periode van enquêteren grotendeels opgeheven en dat kan effecten hebben gehad die tegengesteld zijn aan de hierboven beschreven effecten in 2020.
+
+Vlak voor de enquêtering in 2022 speelde er nog een andere maatschappelijke kwestie die in 2020 niet in die mate aan de orde was: de aandacht voor seksueel grensoverschrijdend gedrag in met name de media (onder andere naar aanleiding van de gebeurtenissen rondom het televisieprogramma The Voice of Holland). Deze aandacht, het publieke debat daaromtrent en de ermee gepaard gaande toenemende erkenning van het probleem kunnen van invloed zijn geweest op de manier waarop mensen met name seksueel geweld en intimidatie – ook retrospectief – percipiëren en zichzelf als slachtoffer ervan zien, zich beter zijn gaan realiseren wat hen overkomen is, en dientengevolge dit slachtofferschap vaker rapporteren met als resultante verhoogde prevalentiecijfers van seksueel geweld en intimidatie in 2022.
+
+In 2022 was er ook verhoogde media-aandacht voor huiselijk geweld, onder andere aan het begin van dit jaar naar aanleiding van de vermeende mishandeling door rapper Lil Kleine van zijn vriendin. Deze kwestie kan van invloed zijn geweest op de gerapporteerde prevalentie van huiselijk geweld.
+
+Harde conclusies hierover kunnen weliswaar niet worden getrokken, maar het ligt voor de hand dat veranderingen in de maatschappelijke context en kijk op de bevraagde onderwerpen in monitoringonderzoeken, zoals de PHGSG er een is, tot dit soort contexteffecten in de onderzoeksresultaten kunnen leiden. In hoofdstuk 11 is beschreven of, en zo ja, welke indicaties hiervoor bestaan.
+
+5 Gebruikte analysemethoden
+
+De analysemethoden waarvan in deze PHGSG gebruik is gemaakt worden hieronder kort toegelicht.
+
+Bivariate analyses
+
+In bivariate analyses is de relatie tussen twee variabelen bekeken, in dit geval de relatie tussen de doelvariabelen van huiselijk geweld en seksueel grensoverschrijdend gedrag en de achtergrondkenmerken. Met behulp van significantietoetsing is onderzocht of het verband tussen twee variabelen in de populatie statistisch significant is op basis van het steekproefresultaat.
+
+Principale Componenten Analyse (PCA)
+
+In hoofdstuk 5 (Dwingende controle in huiselijke kring) is een PCA gebruikt om de variatie in de dataset samen te vatten en samenhang tussen de gegevens zichtbaar te maken. Op een exploratieve manier is bekeken of een hoeveelheid aspecten te reduceren is tot een beperkt aantal componenten. De Cronbach’s alpha (CA) van die componenten meet de interne consistentie (op een schaal tussen 0 en 1; vanaf 0,7 wordt een component als acceptabel gezien). Met de PCA zijn de twaalf (5‑jaars-) indicatoren voor dwingende controle in huiselijke kring ingedikt tot drie constructen: sociale controle (CA van 0,95), dreiging/intimidatie (CA van 0,91), en het wegnemen van zelfstandigheid (eveneens CA van 0,81). In onderstaand schema is voor elk van deze drie indikkingen weergegeven wat de achterliggende indicatoren hiervoor zijn:
+
+Iemand hield u de hele tijd weg bij uw familie en/of vrienden
+
+Iemand bepaalde voor u met wie u wel of niet mocht praten
+
+Iemand hield de hele tijd bij waar u was en wat u deed
+
+Iemand controleerde regelmatig of de hele tijd uw post, telefoontjes, berichten, e-mails, of sociale media
+
+Iemand dreigde regelmatig om uw kinderen of iemand van wie u houdt iets aan te doen
+
+Iemand dreigde regelmatig om zichzelf iets aan te doen of zelfmoord te plegen als hij of zij boos op u was
+
+Iemand maakte u regelmatig bang of intimideerde u, bijvoorbeeld door te schreeuwen, iets van u met opzet kapot te maken of hard op de muren of tafel te slaan
+
+Iemand kleineerde of vernederde u regelmatig of de hele tijd
+
+Iemand heeft u op een andere manier regelmatig of de hele tijd gecontroleerd of geïntimideerd
+
+Iemand verbood u regelmatig of de hele tijd om het huis te verlaten
+
+Iemand verbood u om eigen geld of bankrekening te hebben
+
+Iemand bepaalde voor u waaraan u uw geld mocht uitgeven
+
+Een PCA is uitgevoerd op alle (5‑jaars) vragen per hoofdstuk, maar alleen bij hoofdstuk 5 (dwingende controle in huiselijke kring) werden eenduidige constructen gevonden.
+
+Logistische regressieanalyse
+
+Voor elke hoofdvorm van slachtofferschap (i.e. verbale agressie in huiselijke kring, fysieke agressie in huiselijke kring, dwingende controle in huiselijke kring, stalking door ex-partner, offline seksuele intimidatie, online seksuele intimidatie en fysiek seksueel geweld) en voor huiselijk geweld totaal en voor seksueel grensoverschrijdend gedrag is onderzocht welke achtergrondkenmerken typerend kunnen zijn voor het al dan niet slachtoffer worden. Hierbij moet opgemerkt worden dat hiervoor enkel achtergrondenmerken in aanmerking komen die bekend zijn voor zowel slachtoffers als niet-slachtoffers. De opzet en de uitkomsten van de logistische regressieanalyse zijn te vinden.
+
+6 Plausibiliteit: vergelijking met PHGSG 2020 en andere onderzoeken
+
+Bij de eerste editie van de PHGSG in 2020 is getracht een vergelijking te maken met de resultaten van ander onderzoek op hetzelfde gebied dat in het verleden is gedaan (Akkermans, Gielen, Kloosterman, Moons, Reep en Wingen, 2020). Het gaat dan onder andere om het CBS-onderzoek ‘Persoonlijke veiligheid’ (PV) uit 2017 en om de externe onderzoeken ‘Huiselijk geweld’ (HG), een online (panel)enquête onder ruim 6 duizend mannen en vrouwen van 18 jaar of ouder, in 2009 uitgevoerd door Intomart (Van Dijk, van Veen en Cox, 2010) en ‘Violence against women’, een face-to-face enquête in 2012 uitgevoerd in de EU door FRA– European Union Agency for Fundamental Rights (FRA, 2015). De conclusie moest worden getrokken dat de uitkomsten van deze onderzoeken naar seksueel grensoverschrijdend gedrag of geweld in de huiselijke kring niet goed vergeleken konden worden met de PHGSG. De onderzoeken leken qua vraagstelling weliswaar sterk op elkaar maar de afbakening van de hoofdgebeurtenissen is in de PHGSG iets anders. Daarnaast was het onderzoeksdesign niet hetzelfde, werden verschillende doelgroepen benaderd en waren de onderzoeken in andere jaren uitgevoerd.
+
+Met het beschikbaar komen van de data van de PHGSG 2022 is het wel mogelijk een indicatie van de plausibiliteit van de uitkomsten te verkrijgen door een vergelijking te maken met de resultaten van de vorige 2020‑editie van de PHGSG. Het volgende overzicht toont de uitkomsten van de 12‑maanden prevalenties voor 2020 en 2022. Het beeld is dat de cijfers van huiselijk geweld min of meer gelijk zijn gebleven tussen beide onderzoeksjaren. De cijfers van seksueel grensoverschrijdend gedrag zijn in 2022 gestegen, met name die van seksuele intimidatie. Uit een vergelijking van de 5‑jaarsprevalenties voor 2020 en 2022 komt een soortgelijk beeld naar voren (zie ). In de meeste gevallen wijken de uitkomsten van de meting van 2022 weinig af van die van 2020.
+
+Vergelijking PHGSG 2020 – 2022, prevalenties afgelopen 12 maanden
+
+*significant verschillend
+
+Het beeld dat uit de PHGSG 2022 naar voren komt past in het beeld dat andere actuele onderzoeken laten zien. Zo blijkt uit cijfers van Veilig Thuis dat het aantal meldingen over (vermoedens van) huiselijk geweld en kindermishandeling niet veel veranderd is (in 2021 was sprake van een lichte daling) (CBS Statline, 2022a). Uit de Nationale Enquête Arbeidsomstandigheden, een gezamenlijk onderzoek van TNO en CBS, komt naar voren dat zowel de interne seksuele intimidatie op het werk (door leidinggevenden en collega’s) als de externe seksuele intimidatie op het werk (door klanten, patiënten en dergelijke) in 2021 is gestegen (CBS StatLine, 2022b). Deze bevindingen zijn in lijn met die van de PHGSG 2022 en zijn indicatief voor plausibiliteit van de uitkomsten.
+
+7 Toegang tot databestanden
+
+Onderzoekers kunnen op de volgende manieren toegang krijgen tot 2 verschillende databestanden:
+
+RA-bestand. Dit een remote access bestand vergelijkbaar met het microbestand, en is beschikbaar bij het Centrum voor Beleidsstatistiek (CvB). Daar kunnen instellingen met een instellingsmachtiging via RA (tegen betaling) op werken.
+
+DANS-bestand. Dit is een ingedikt bestand (bijvoorbeeld leeftijd in klassen, regio’s ingedikt enz.). Dat is beschikbaar bij DANS (Data Archiving & Network Services) en hier kunnen instellingen en studenten onder bepaalde voorwaarden toegang toe krijgen.
+
+
+
+
+
+Noten
+
+Het vragenlijstdocument bevat naast de vraagteksten ook informatie die noodzakelijk is voor het ontwerp van de internetvragenlijst. De vragenlijst zelf is alleen digitaal afgenomen. Een papieren versie ervan is daarom niet beschikbaar.Bijlage C. Meer cijfers
+
+Het achterliggende cijfermateriaal dat behoort bij de in deze publicatie gepresenteerde uitkomsten is inclusief 95% betrouwbaarheidsmarges (boven- en ondergrens) opgenomen in een die aan deze publicatie is toegevoegd.
+
+
+
+Bijlage D. Summary
+
+This summary covers the following:
+
+Reason for the study
+
+Design of the study
+
+Subject of the investigation
+
+Answers to the research questions
+
+Additional topics
+
+Social context of the research.
+
+1. Reason for the study
+
+In 2019, a study into the prevalence of domestic violence and child abuse (Ten Boom & Wittebrood, 2019) was presented to the Dutch parliament. This triggered a process that resulted in the creation of this Prevalence Monitor for Domestic Violence and Sexually Inappropriate Behavior (PHGSG). The Dutch Minister for Health, Welfare and Sport and the Dutch Minister for Legal Protection indicated that they believed it is important that research into the prevalence of domestic violence (and child abuse) is conducted more frequently than previously was the case (letter dated 5 February 2019). In addition, in response to the social #MeToo debate and the debate in the Dutch parliament on the Committee of Inquiry’s report into Sexual Harassment and Abuse in Sports (De Vries Committee), a motion was passed in which, one of the conclusions was that there is no clear picture of the scale and development of cases of sexual harassment and sexual violence. One of the recommendations was that the government should periodically conduct quantitative scientific research, so that the extent of sexual harassment and sexual violence are continuously monitored and the effect of prevention policy can be established. The PHGSG was first conducted in 2020. The second measurement of this monitor has taken place in 2022. This report describes the results.
+
+2. Design of the study
+
+The figures in this PHGSG are based on an internet survey among a sample of the Dutch population aged 16 years and older (approximately 14.5 million people). One hundred thousand people were approached for the investigation. About 24 thousand people have completed the questionnaire, a response of 24.2 percent. This large number of respondents enables us to make reliable and detailed statements about the prevalence of domestic violence and sexually inappropriate behavior in the Netherlands.
+
+3. Subject of the investigation
+
+The PHGSG describes the nature and extent to which domestic violence and sexually inappropriate behavior occur in the Netherlands. The data are based on self-reporting, this means that the respondent reports about his/her own feelings and experiences. Domestic violence involves acts of violence such as coercive control, stalking by ex-partner, physical violence and sexually inappropriate behavior committed by someone in the domestic circle. The term “domestic circle” refers to the social relationship between victim and perpetrator, i.e. family members, relatives and (ex-)partners. “Domestic circle” does not refer to the location: the incidents do not necessarily have to have happened at home. Sexually inappropriate behavior includes all acts of sexual harassment and violence. Sexually inappropriate behavior can occur inside and outside the domestic circle, both in the “real world” and online.
+
+In this monitor the following acts of domestic violence and sexually inappropriate behavior are discussed separately: verbal aggression in the domestic circle, physical violence in the domestic circle, coercive control in the domestic circle, stalking by an ex-partner, offline sexual harassment, online sexual harassment and physical sexual violence. The questions asked refer to violence experienced during a period of 5 years or in the 12 months previous to the survey. Since the fieldwork of this survey took place in March and April 2022, the annual prevalence of victimization relates to the period from March/April 2021 to March/April 2022. In addition, it is addressed to what extent this victimization is structural (i.e. at least monthly).
+
+Further, it is described who the perpetrators are, what the consequences are for the victims, and with whom the victims talked about their experiences. Additional subjects are victimization of domestic violence and sexually inappropriate behavior during childhood, being a perpetrator of domestic violence or conducting sexually inappropriate behavior, and suspicion of domestic violence in the vicinity.
+
+Victimization of domestic violence and sexually inappropriate behavior is broken down by relevant respondent characteristics such as gender, age, sexual orientation and migration background, as well as background characteristics such as position in the household, the household’s prosperity level and urbanity of the municipality.
+
+The relationship between the prevalence of domestic violence and sexually inappropriate behavior on the one hand and the perceived influence of the corona pandemic on one’s own life and the changes in the work and home situation during the pandemic on the other hand is also discussed.
+
+4. Answers to the research questions
+
+A number of objectives and related research questions have been formulated for this research in consultation with the WODC. These are answered below.
+
+What is the nature and extent, measured over a period of one year, of victimization of domestic violence, sexual intimidation and sexual violence among the Dutch population aged 16 and older?
+
+Annual prevalence of domestic violence
+
+In 2022, 9 percent of the population aged 16 and older (nearly 1.3 million people) reported having been the victim of one or more forms of domestic violence in the past 12 months. Verbal aggression is not included in this prevalence figure. If verbal aggression were included, 33 percent would be victims of domestic violence. Six percent of the 16‑plus population (more than 850 thousand people) has been a structural victim of domestic violence, i.e. they have experienced at least one form of domestic violence (almost) daily, weekly or monthly in the past 12 months. Also here, verbal aggression was not included in the prevalence figure.
+
+If broken down into the various forms of domestic violence, 32 percent were victims of verbal aggression in the domestic circle (almost 4.6 million people). Twelve percent of the victims had to deal with this on a structural basis. Verbal aggression involves, for example, heated disagreements involving screaming or yelling, taunting or bullying, or belittling or humiliating.
+
+Four percent of the 16‑plus population (nearly 560 thousand people) said they had been the victim of physical violence in the domestic circle in the past 12 months, of which 10 percent indicated that this violence was of a structural nature. Physical violence refers to experiences in which violence was threatened, the victim was injured or attempted. The incidents range from threats of harm to attempted suffocation or injury from the use of weapons.
+
+Five percent of the 16‑plus population (nearly 730 thousand people) were victim of coercive control in the domestic circle in the past 12 months. Due to its repeated nature, this form of domestic violence is by definition structural: it involves violence in which one person strongly dominates and controls the other. The victim may be denied certain freedoms by the other person, such as maintaining social contacts or having their own money. The perpetrator can also threaten to harm himself, the victim, or loved ones.
+
+Two percent of the 16‑plus population with an ex-partner (more than 170,000 people) indicated that they had been a victim of stalking by an ex-partner in the past 12 months. Due to its repeated nature, stalking is by definition a structural form of domestic violence, just like coercive control.
+
+Annual prevalence of sexually inappropriate behavior
+
+In 2022, 13 percent of the population aged 16 and older (more than 1.8 million people) was victim of one or more forms of sexually inappropriate behavior in the past 12 months. Two percent of the 16‑plus population (270,000 people) was a structural victim of this.
+
+Looking at the specific forms of sexually inappropriate behavior, 9 percent of the 16‑plus population (almost 1.3 million people) reported having been a victim of offline sexual harassment in the past 12 months. For 14 percent of the victims, the intimidation was of a structural nature. Offline sexual harassment concerns experiences with sexual harassment that took place in the ‘real world’, i.e. not online, and without physical contact between the perpetrator and the victim. Examples from this form of sexual harassment range from sexually suggestive comments to having to witness sexual acts.
+
+Six percent of the population aged 16 years and older (930 thousand people) indicated that they have been victim of online sexual harassment in the past 12 months. Of the victims, 13 percent said they had been structurally affected by this. Online sexual harassment concerns unwanted sexual behavior that took place via the internet, for example via social media, WhatsApp, (video)chat or e-mail. Examples are sexually offensive comments or being forced to perform online sexual acts.
+
+Four percent of the 16‑plus population (almost 510 thousand people) said they have been a victim of physical sexual violence in the past 12 months. For 6 percent of the victims, this violence was of a structural nature. It concerns incidents in which transgressive physical contact took place, ranging from unwanted touching to rape.
+
+Overlap between domestic violence and sexually inappropriate behavior
+
+Domestic violence can be sexually inappropriate behavior, and vice versa, sexually inappropriate behavior can take place in the domestic circle. This overlap between domestic violence and sexually inappropriate behavior is small: 2 percent of the 16‑plus population were victim of domestic sexually inappropriate behavior, while 8 percent were victims of domestic violence without sexually inappropriate behavior. Conversely, sexually inappropriate behavior for the most part does not take place in the domestic circle: 12 percent of the 16‑plus population has been a victim of sexually inappropriate behavior outside the domestic circle. In 2 percent this happened within the domestic circle.
+
+What is the trend of the annual prevalence of domestic violence, sexual harassment and sexual violence?
+
+Development domestic violence 2020–2022
+
+The annual prevalence of domestic violence in 2022 (9 percent) does not differ significantly from that of 2020 (8 percent). This also applies to the underlying forms of domestic violence: physical violence in the domestic circle (4 percent in both years), coercive control in the domestic circle (5 percent in both years) and stalking by an ex-partner (2 percent in both years). Also the annual prevalence of verbal aggression in a domestic environment in 2022 (32 percent) is comparable to that of 2020 (31 percent). Verbal aggression in a domestic environment is not included in the total figure for domestic violence.
+
+Development sexually inappropriate behavior 2020–2022
+
+On the contrary, the annual prevalence of sexually inappropriate behavior in 2022 differs significantly from that in 2020. It has increased from 11 to 13 percent. Especially experiences of sexual intimidation have been reported more often: between 2020 and 2022, the annual prevalence of offline sexual harassment increased significantly from 7 to 9 percent and that of online sexual harassment significantly from 5 to 6 percent. The annual prevalence of physical sexual violence has not changed significantly (from 3.3 percent in 2020 to 3.5 percent in 2022).
+
+Who are the perpetrators of domestic violence, sexual intimidation and sexual violence?
+
+Domestic violence is most often committed by a partner or ex-partner. For coercive control in the domestic circle the percentages are slightly higher than for physical violence in the domestic circle. In the case of sexually inappropriate behavior, the perpetrators for the most part come from outside the domestic circle. For offline and online sexual harassment, more than half of the victims report that the perpetrator is unknown. On the contrary, for physical sexual violence, most of the victims (more than 70 percent) knows the perpetrator.
+
+Perpetrators from outside the domestic circle that are mentioned relatively often are acquaintances from parties/going out, colleagues, dates, close friends, and – in the case of online sexual harassment||online acquaintances.
+
+In the case of sexually inappropriate behavior, the majority of the perpetrators are male. Also, for physical violence in the domestic circle, for coercive control in the domestic circle and for stalking by ex-partner the perpetrator is more often male than female. Though the difference is smaller here than in the case of sexually inappropriate behavior. In the case of verbal aggression in a domestic environment, there is no difference in gender of the perpetrator.
+
+What are the consequences for the victims of domestic violence, sexual intimidation and sexual violence?
+
+In 2022, 44 percent of the victims of physical violence in the domestic circle say that they (have) experienced consequences in the past 12 months. A large majority of 67 percent of the victims of coercive control in the domestic circle and of the victims of stalking by an ex-partner indicate this. The percentages for sexually inappropriate behavior are lower: for online sexual harassment, offline sexual harassment and physical sexual violence these are 24, 38 and 19 percent respectively. For physical sexual violence it should be noted that when only victims of sexual acts, such as unwanted sexual intercourse or forced prostitution (and the experiences of unwanted sexual touching and unwanted kissing are left aside) are taken into consideration, a large majority (71 percent) of the victims have experienced consequences.
+
+For both domestic violence and sexually inappropriate behavior in total, and for most underlying forms, women are more likely to experience consequences than men.
+
+With regard to the nature of the consequences, psychological problems are the most common in domestic violence, followed by relationship problems. Psychological problems are also the most frequently mentioned consequence of sexually inappropriate behavior, with sexual problems in second place.
+
+When interpreting the figures on the consequences, it must be taken into account that within the various forms of domestic violence and sexually inappropriate behavior, the incidents can differ greatly in terms of seriousness and impact on the victim. For physical sexual violence, the investigated incidents range from, for example, unwanted kissing to sexual intercourse. It should be clear, and this is also apparent from the figures, that the consequences for the victims of the former incident are different from those for the victims of the latter incident.
+
+To what extent do victims of domestic violence, sexual harassment and sexual violence talk to others about their experiences?
+
+The majority of victims of domestic violence and sexually inappropriate behavior talk to someone about their experiences. Victims of domestic violence seek contact more often than victims of sexually inappropriate behavior. Depending on the type of crime, roughly 70 to 90 percent of the victims of domestic violence say that they have talked to someone, and 60 to 70 percent of the victims of sexually inappropriate behavior say this.
+
+Victims mostly talk to people in their own informal circuit: especially with friends, partner, and – in the case of domestic violence – with other family members or relatives. Contrary to sexually inappropriate behavior, in the case of domestic violence, victims relatively often consult professional care providers such as (general) doctors, psychologists or social workers.
+
+To what extent do victims of domestic violence, sexual intimidation and sexual violence report the violence themselves to Veilig Thuis or the police?
+
+Relatively little contact is made with other institutes such as the police, Veilig Thuis and Centrum Seksueel Geweld. Depending on the type of offence, roughly 5 to 10 percent of the victims of domestic violence talk to the police, and roughly 1 to 2 percent of the victims of sexually inappropriate behavior do this. Depending on the type of offence, 3 to 5 percent of the victims of domestic violence and 0.2 percent or less of the victims of sexually inappropriate behavior talk to employees of Veilig Thuis. Professionals of Centrum Seksueel Geweld are consulted by 0.2 to 0.3 percent of the victims of sexual harassment and 0.6 percent of the victims of physical sexual violence.
+
+Are there differences in the nature and extent of victimization of domestic violence, sexual harassment and sexual violence between different population groups (gender, age, migration background, and other relevant groups)?
+
+Differences in victimization of domestic violence between population groups
+
+Young people are more often victims of domestic violence than older age groups. In 2022, 25 percent of 16 to 18 year olds have experienced domestic violence in the past 12 months; 16 percent of 18 to 24 year olds; and 3 percent of the 65‑plus group were victims. Women are slightly more likely to be victims than men (10 to 8 percent). Heterosexual persons are less often victims than persons with a different sexual orientation. Furthermore, single parents are relatively often victims of domestic violence. The level of prosperity is also related to domestic violence: victimization in the domestic circle is more common among people in households with a lower level of prosperity. The victimization of domestic violence does not differ according to migration background.
+
+Differences in victimization of sexually inappropriate behavior between population groups
+
+Young people are also more often victims of sexually inappropriate behavior than older age groups. The difference between age groups is even larger than for domestic violence: in 2022, 30 percent of 16 to 18 year olds; 33 percent of 18 to 24 year olds were victims; and 3 percent of those over 65. The male-female difference is also (much) greater: women are more than twice as likely to be victims of sexually inappropriate behavior than men (18 against 8 percent). Almost half (46 percent) of young women aged 16 to 18 have been victims, and more than half (52 percent) of young women aged 18 to 24 years. Homosexual and bisexual persons are more often victims of sexually inappropriate behavior than heterosexual persons. Bisexual women in particular are relatively more likely to be a victim at 46 percent. Furthermore, people without a partner are more often confronted with sexually inappropriate behavior. People in households with a lower level of prosperity are also relatively often victims. Just as with domestic violence, the victimization of sexually inappropriate behavior does not differ according to migration background.
+
+5. Additional topics
+
+Domestic and sexually inappropriate behavior in childhood
+
+In 2022, 22 percent indicated that they have been the victim of one or more forms of domestic violence and/or sexually inappropriate behavior in childhood, i.e. before the age of 12. The percentage who said they had experienced sexually inappropriate behavior in childhood was higher in 2022 than in 2020: the percentage of online sexual harassment in childhood increased from 2 to 3 percent, and that of offline sexual harassment and physical sexual violence in childhood both from 5 to 6 percent. The percentage who experienced domestic violence in childhood did not change between the two years. In 2022, the major part (17 percent) indicate that they had experienced physical violence in the domestic circle during childhood.
+
+Childhood victimization is related to recent victimization. For example, more than a third (36 percent) of the victims of physical violence in a domestic environment, also experienced this before the age of 12. Of people who were not a victim in 2022, this is 16 percent.
+
+Perpetrator of domestic violence and/or sexually inappropriate behavior
+
+Two percent of the persons aged 16 years or older indicate that they have been physically aggressive, controlling and/or intimidating within the domestic circle in the past 12 months. This may also involve unwanted sexual behavior or stalking by an ex-partner. This is about 320 thousand persons. The percentage of self-perpetrators has not changed between 2020 and 2022.
+
+Suspicion of domestic violence by someone else in the vicinity
+
+In total, 15 percent indicate that they have suspected or witnessed domestic violence of someone close to them. Women say this more often than men: 18 to 13 percent.
+
+More than 8 in 10 say they have talked to someone about their suspicion or that they have witnessed it. The majority indicate that they have discussed this with the victim itself or with someone who knows the victim. People talked less often to the (suspected) perpetrator or to someone who knows the (suspected) perpetrator.
+
+6. Social context of the research: covid and (media) attention
+
+Impact corona pandemic
+
+The first measurement of the PHGSG took place in March and April 2020, when the corona pandemic had just broken out and the government advised people to stay at home as much as possible. However, the reference period of 12 months prior to the study, used in the PHGSG 2020 to determine annual prevalence, was for the most part outside the corona period, and there were obviously no restrictions and lockdowns at that time.
+
+The follow-up measurement of the PHGSG took place in March and April 2022. Although most restrictive corona measures were released during this period, the reference period of 12 months on which the annual prevalence was determined did include moments of restrictive corona measures and lockdowns. This means that the figures for the annual prevalence of domestic and sexually inappropriate behavior for 2022 mainly relate to the corona period, while the prevalence figures for 2020 did not for the most part.
+
+The corona pandemic in general and more specifically changes in the work or home situation appear to be related to the reported prevalence of domestic violence and sexually inappropriate behavior during that period.
+
+People who say the corona pandemic has affected their lives, are more likely to be victims of domestic violence and sexually inappropriate behavior, than those who say it hasn’t. People for whom the corona pandemic has led to a different work situation – for example, working more from home, working less, working more – also more often indicate that they have been victims of domestic violence and sexually inappropriate behavior, than people whose work situation remained unchanged. And also valid for the situation at home; people for whom something has changed at home during the corona pandemic have been more often victims of domestic violence and sexually inappropriate behavior, than people for whom the home situation did not changed.
+
+With regard to sexually inappropriate behavior, the differences between people who have or have not experienced any influence on their lives as a result of the corona pandemic and who have or have not experienced changes in their work or home situation are greater than with domestic violence.
+
+However, when it comes to the nature of the impact of corona on life and in particular the nature of the change in work and home situations during the pandemic, the results are less clear-cut and sometimes seemingly counter-intuitive. For example, people who were less at home during the corona pandemic say that they were more often victims of domestic violence and sexually inappropriate behavior, than people who were at home more during the pandemic. However, it could also be that other circumstances were of influence, such as the fact that the partner, children or other family members were at home more during the pandemic.
+
+Media attention for sexual harassment
+
+Just before the survey in April/May 2022, there was another social theme which in 2020 was less topical: the attention for sexually inappropriate behavior in the media. This was partly in response to an episode of the television program BOOS in January 2022, about events surrounding the program The Voice of Holland. The public debate about this may have influenced the way in which people perceive sexual harassment and sexual violence – also retrospectively – and will consider themselves as victims of it. Although it is not possible to fully attribute the increase in victimization of sexually inappropriate behavior measured in the PHGSG 2022 to this media attention (after all, there may also have been an actual increase in victimization), there are indications that the attention to this theme has led to an increased reporting of sexually inappropriate behavior.
+
+For instance, the PSGHG data show that the percentage of the people who claim to have been a victim of sexually inappropriate behavior in childhood, increased between 2020 and 2022., while the reporting of victimization of domestic violence in childhood has remained unchanged. It seems unlikely that within a two-year period between the PHGSG studies, the perceived victimization of sexually inappropriate behavior in childhood actually increased. It is more likely that the increased awareness as a result of the media attention on this theme has retrospectively led to an increased reporting of sexually inappropriate behavior in childhood.
+
+Something similar applies to the reported five-year prevalence of victimization. Here the percentage of people aged 16 and older who say they have been a victim of sexually inappropriate behavior in the last five years has clearly increased between 2020 and 2022. While this again is not the case for the victimization of domestic violence. In this case too, it seems – at least partly – unlikely that within a two-year period between the two PHGSG studies, the perceived victimization of sexually inappropriate behavior over the longer reference period of five years would clearly increase. Here too, it seems that greater awareness of this theme has led to the fact that victimization of sexually inappropriate behavior in the past is still more frequently reported.
+
+Help organizations also see an increase in reports of sexually inappropriate behavior since the revelations surrounding The Voice of Holland (Nu.nl, 2 October 2022). For instance, up until October 2022 Slachtofferhulp Nederland received more than ten thousand reports. That is an increase of more than 10 percent compared to previous years. Since the BOOS episode, Centrum Seksueel Geweld (CSG) has reported a 35 percent increase in the number of acute victims and an 80 percent increase in the number of non-acute victims. Mores, the helpline for unwanted behavior for the Dutch cultural and creative sector, has also noticed an increase. For example, in 2020 there were a total of 97 reports in 2020, the following year, partly due to the pandemic, only 57, and in 2022 up to and including June already 180 reports. The organization Perspectief Herstelbemiddeling, for victims of sexual offenses, deals with about fourteen hundred cases each year. In 2020, 10 percent of these were about sexual abuse and sexually inappropriate behavior. In 2022, this applies to more than 33 percent of the cases.
+
+Although there was also increased media attention for domestic violence in 2022, for instance at the beginning of the year when a famous Dutch rapper, Lil Kleine, was accused of abuse of his girlfriend, yet this media attention does not seem to have had the same impact as the increased attention to sexually inappropriate behavior. Indicative of this is that the reported prevalence of domestic violence has not increased between 2020 and 2022.
+
+
+
+
+
+Noten
+
+In 2020 the monitor was named ‘Prevalence Monitor for Domestic Violence and Sexual Violence’. In 2022 its name has changed to ‘Prevalence Monitor for Domestic Violence and Sexually Inappropriate Behavior’. This change took place because the occurrences that measure sexual inappropriate behavior are not only about sexual violence, but also about sexual harassment. Sexually inappropriate behavior is a better all-encompassing term to describe these different sexual occurrences.
+
+Offline sexual harassment is sexual harassment/intimidation that does not take place via internet. It is the counterpart of online sexual harassment. To emphasize this, the name of this specific form of violence has changed: in the PHGSG 2020 this form of sexual harassment was called ‘non-physical sexual harassment’.Bijlage E. Referenties
+
+Akkermans, M., Gielen, W., Kloosterman, R., Moons, E., Reep, C., en Wingen, M. (2020). . Den Haag: Wetenschappelijk Onderzoek- en Documentatie Centrum/Centraal Bureau voor de Statistiek.
+
+Akkermans, M., en Kloosterman, R. (2022). . Statistische Trends, juli 2022.
+
+Boer, M., Dorsselaer S. van, Looze M. de, Roos S. de, Brons, H., Eijnden G. van den, Monshouwer, K., Huijnk, W., Ter Bogt, T., Vollebergh, W., en Stevens, G. (2022). . Universiteit Utrecht/Trimbos-instituut/Sociaal en Cultureel Planbureau/HBSC.
+
+Boom, A. ten, en Wittebrood, K. (2019). . WODC – Meer ruimte in je hoofd, Den Haag. Cahier 2019-1.
+
+Caldwell,J.E., Swan, S.C., en Woodbrown, V.D. (2012). Gender differences in intimate partner violence outcomes. Psychology of Violence, 2(1), 42.
+
+CBS (2022, 1 juni). . CBS-nieuwsbericht.
+
+CBS Statline, 2022a. . Gewijzigd op 20 april 2022.
+
+CBS StatLine, 2022b. . Gewijzigd op 29 april 2022.
+
+Daru, S., Mejdoubi, J., Vaan, K. de, en Visser, A. (2016). . Literatuurstudie. Utrecht: Movisie/Regioplan/Atria.
+
+Dijk, T. van, Veen, M. van, en Cox, E. (2010). . Intomart GFK, Hilversum.
+
+Felson, R.B., en Outlaw, M.C. (2007). The control motive and marital violence. Violence and victims, 22(4), 387–407.
+
+FRA– European Union Agency for Fundamental Rights, 2015. . Luxembourg: Publications Office of the European Union.
+
+Fulu, E., Warner, X., Miedema, S., Jewkes, R., Roselli, T., en Lang, J. (2013). . Bangkok: United Nations Development Programme, United Nations Population Fund, United Nations Women and United Nations Volunteers.
+
+Graaf, H. de, en Marra, E. (2019). . Rutgers Kenniscentrum Seksualiteit, Utrecht.
+
+Huijnk, W., Damen, R., Kampen, L. van. (2022). . Den Haag: Sociaal en Cultureel Planbureau.
+
+Joemmanbaks, M. en Graaf, H. de. (2022). . Rutgers Expertisecentrum seksualiteit.
+
+Kloosterman, R., Akkermans, M., Tummers-van der Aa, M., Wingen, M., Reep, C. (2021). . Centraal Bureau voor de Statistiek, Den Haag/Heerlen/Bonaire.
+
+Nikkelen, S., Tijdink, S., Graaf, H. de, en Bakker, B. (2019). . Utrecht: Rutgers.
+
+NU.nl (2022, 2 oktober). .
+
+Reep, C. (2013). . Centraal Bureau voor de Statistiek, Heerlen.
+
+Reep, C., Akkermans, M. en Kloosterman, R. (2022). . Statistische Trends, februari 2021.
+
+Reep, C. en Hupkens, C. (2021). . Statistische Trends, september 2021.
+
+Römkens, R.G. (1992). Gewoon geweld? Omvang, aard, gevolgen en achtergronden van geweld tegen vrouwen in heteroseksuele relaties. Amsterdam: Swets & Zeitlinger.
+
+TK (2018/2019). , 2018–2019, 28345, nr. 207.
+
+TK (2017/2018). , 2017–2018, 34843, nr. 32.
+
+
+
+

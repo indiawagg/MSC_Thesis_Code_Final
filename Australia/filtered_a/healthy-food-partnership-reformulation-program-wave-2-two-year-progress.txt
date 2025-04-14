@@ -1,0 +1,94 @@
+Date:
+2024-05-22
+Article Title:
+ Healthy Food Partnership Reformulation Program: Wave 2, two-year progress
+
+Article Content:
+  Of 249 participating products in scope for sodium reformulation, 16% recorded a decrease in sodium content between June 2021 and June 2023. 
+  The consumption impact from the sodium reformulation was estimated to be a reduction of less than 1 mg per capita per day, equivalent to 3.3 tonnes of sodium over the year to June 2023.
+  Of the 199 participating products in scope for sugar reformulation, 32% recorded a decrease in their sugar content between June 2021 and June 2023. 
+  The reduction in sugar from the participating products was less than 0.1 gram per capita per day. However, over the year to June 2023, this equates to the removal of 261 tonnes of sugar from the food supply. 
+In 2015, the Australian Government established the  (HFP) as a voluntary collaboration between the food industry, the public health sector and government. Its goal is to enhance health and reduce overweight and obesity by improving the food environment and influencing Australians' ability to make healthier food choices. A key initiative of the HFP is the  (PRP) which aims to reduce the Australian population’s consumption of sodium, saturated fat and sugar from processed food products.
+The reformulation phase of the PRP is being conducted from 2020 to 2026 with eligible food categories being divided into waves. Each wave specifies targets for the maximum levels of sodium, saturated fat and total sugars content within specified food categories that Australian companies can voluntarily work towards over a four  or five  year period. 
+The four year implementation period for Wave 1 of the PRP commenced on 1 July 2020 following the introduction of voluntary reformulation targets for:
+Information on progress towards the reformulation targets at the two year mark of Wave 1 (from June 2020 to June 2022) can be found at the .
+The implementation period for Wave 2 of the PRP commenced on 1 July 2021 following the introduction of voluntary reformulation targets for:
+This article provides an update on the progress towards the Wave 2 reformulation targets at the two year mark (from June 2021 to June 2023) based on reporting by participating manufacturers. The analysis includes the number of participating products that met sodium or sugar targets at each period, the change in average sodium or sugar content (per 100g) and the reformulation impact at the population level. For details on the methods and assumptions used to measure population impact see the  section.
+  Sodium (across 27 food categories)
+  Saturated fat (across 5 food categories)
+  Sodium (across 5 food categories)
+  Sugar (across 9 food categories) 
+Sodium data was provided for 249 products across 5 categories of processed foods. The majority of these products (180) were ready meals, with the remaining products consisting of breakfast cereals and popcorn.
+When the data from participating manufacturers was integrated with 2022 23 scanner data sales, it was estimated that the participating products contributed a total of 14.5 mg sodium per capita per day at baseline (June 2021), equivalent to 0.5% of total dietary sodium consumption at baseline (3,093 mg per capita per day).  
+If 100% of eligible products within the 5 selected food categories participated in this wave of sodium reformulation, these categories would account for 2.4% of total dietary sodium consumption. 
+  Total daily per capita sodium consumption in 2022 23 based on the sodium available from participating products (using the June 2021 formulation) + the non participating products (using AUSNUT values). 
+The proportion of total sodium consumption within each category that could be accounted for by participating products varied from 5.4% (plain puffed, flaked or extruded cereals) to 27.1% (ready meals). 
+Almost one in six (15.7%) participating products in Wave 2 PRP recorded a decrease in sodium content between June 2021 and June 2023. Breakfast cereals had the greatest proportion recording a reduction with around 21% (12 products) having less sodium in 2023 than in 2021.  
+The overall proportion of participating products exceeding their respective sodium targets fell from 29% in June 2021 to 27% in June 2023. 
+By individual food category, sodium targets were exceeded by:
+  42% of popcorn products in 2023 (up from 33% in 2021)
+  31% of ready meals in 2023 (down from 35% in 2021)
+  8.8% of breakfast cereals in 2023 (down from 10.5% in 2021).
+On average, sodium content decreased by 4.6 mg per 100 grams (or 2.0%) across all participating products.
+The greatest relative reduction in average sodium was seen for plain puffed, flaked or extruded cereals ( 9.1%). The average sodium content of plain cereal biscuits and all other ready to eat cereals remained relatively unchanged, while popcorn products saw a 6.7% increase in sodium content over the two year period.
+The average sodium content of popcorn products exceeded the target in both June 2021 and June 2023. All other categories had average sodium content values below their respective targets for these periods.
+Taking account of the sales volumes of products to estimate the apparent consumption impact of reformulation from industry supplied data shows that on average, consumption of sodium for the Australian population fell by 0.3 mg per capita per day between June 2021 and June 2023. This is equivalent to a 0.01% decrease in the estimated total consumption of 3,093 mg of sodium per capita per day in June 2021.
+Most of the decrease in population sodium consumption came from ready meals, which decreased by 0.3 mg per capita per day.
+Although 0.3 mg of sodium per person per day is a relatively modest reduction of the total dietary sodium available for consumption, over a year that amounts to 3.3 tonnes of sodium (or just over 8 tonnes of table salt) being removed from the food supply.
+Sugar data was provided for 199 products across 9 categories of processed foods and beverages. The leading categories by number of products provided were:
+  Ready to eat cereals without dried fruit (57)
+  Fruit drinks (34)
+  Muesli and snack bars (29)
+  Soft drinks and energy drinks (27).
+When manufacturers’ information was integrated with the 2022 23 scanner data sales, it was estimated that participating products contributed just over 2 grams of sugar per capita per day in each period, representing around 2% of total dietary sugar consumption (109 g). However, the majority (82%) of total dietary sugar consumption comes from products that were beyond the scope of the 9 food categories selected for sugar reformulation in the Wave 2 PRP. 
+  Total daily per capita sugar consumption in 2022 23 based on the sugar available from participating products (using the June 2021 formulation) + the non participating products (using AUSNUT values). 
+Participating products accounted for 11.2% of sugar from all products within in scope categories. By food category, the greatest coverage levels of sugar from the participating products were:
+  Flavoured dairy milk alternatives (73%)
+  Fruit drinks (30%)
+  Ready to eat cereals without dried fruit (17.5%).
+Wave 2 of the Product Reformulation Program has two sugar targets:
+  A maximum sugar content (g per 100g/100mL), applicable to all in scope food categories except for soft drinks and energy drinks, and 
+  A relative reduction (%) in sugar content for products that exceed a specified threshold sugar content, applicable to ready to eat cereals, muesli bars and soft drinks.
+Almost one third (32%) of participating products recorded a decrease in sugar content between June 2021 and June 2023. This resulted in a drop in the proportion of applicable products exceeding their relevant maximum sugar content target, from 30% of all participating products in June 2021 to 22% in June 2023.
+The food categories with the lowest proportion of products exceeding their relevant maximum sugar content target in June 2023 were:
+  18% of breakfast cereals (down from 23%)
+  27% of fruit drinks (down from 50%)
+  35% of muesli snacks and bars (no change).
+The average sugar content of all participating products decreased by 3.8% (from 13.7 to 13.2 grams per 100 g) between June 2021 and June 2023.  This decrease was driven by:
+  Sweetened yoghurts, with a 1.1 grams (or 10.3%) average drop in sugar from 10.7 to to 9.6 g per 100 g
+  Ready to eat cereals without dried fruit, decreasing by an average 1.1 grams (or 7.7%) to 13.1 g per 100 g
+  Muesli and snack bars, which decreased by 0.3 grams (or 1.4%) on average to 23.7 g per 100 g. 
+The relative reduction sugar target for Wave 2 applies to products in 4 food categories when they exceed a category specific threshold sugar content level. The relative reduction targets and threshold levels are:
+In June 2021, these relevant threshold sugar content levels were exceeded by 16% of the participating products (where applicable) across the 4 in scope food categories. By category:
+The majority of products (81%) that exceeded their threshold levels in June 2021 had not met their relative reduction targets as of June 2023.
+  A relative reduction of 20% for ready to eat breakfast cereals with dried fruit, when the sugar content of a product exceeds 28g per 100g
+  A relative reduction of 20% for ready to eat breakfast cereals without dried fruit, when the sugar content of a product exceeds 25g per 100g
+  A relative reduction of 15% for muesli and snack bars, when the sugar content of a product exceeds 28.5g per 100g
+  A relative reduction of 10% for soft drinks and energy drinks, when the sugar content of a product exceeds 10g per 100g
+  41% of soft drinks and energy drinks exceeded their threshold sugar content (10g per 100g)
+  14% of muesli bars and snack bars exceeded their threshold (28.5 g per 100g)
+  11% of ready to eat breakfast cereals without dried fruit exceeded their threshold (25 g per 100g)
+  No ready to eat breakfast cereals with dried fruit exceeded their threshold (28 g per 100g)
+To measure the impact of reformulation on consumption, this analysis uses 2022 23 sales to compare the total sugar available for the participating products at baseline (June 2021) with the June 2023 formulations. 
+The reformulation of participating products resulted in a 1.3% decrease in total sugars between June 2021 and June 2023. In per capita terms this amounted to a decrease of less than 0.1 gram per day from the estimated total sugar consumption of 109 grams per capita, per day. 
+Although the daily per capita reduction appears negligible, over a year (2022 23) the sugar reformulation resulted in a total of 261 fewer tonnes of sugar being consumed compared to the baseline levels. 
+This analysis estimates the difference in sodium and sugar consumption from approximately 410 products for which Australian companies provided their nutrient composition data at baseline (June 2021) and at the mid point of Wave 2 (June 2023) of the PRP.  Incorporating the June 2021 and June 2023 composition data from participating products into the existing 2022 23 scanner data sales makes an ‘all else being equal’ comparison by effectively isolating the effect of a single independent variable of interest (nutrient composition). 
+Participating Australian food manufacturers provided sodium/sugar data for foods in scope for Wave 2 reformulation program to the Healthy Food Partnership secretariat, who with the permission of the manufacturers, shared the data with ABS. The information supplied and used for all participating products included:
+The participating products were linked to scanner data sales via their barcodes (or where barcodes or product identifiers were not supplied, by using the brand product name description to find the equivalent product in the scanner data).  The latter process was used in a minority of cases and relied on probabilistic matching of text strings. 
+The analysis only retained and used the supplied product information where the product was matched to the equivalent product which recorded sales in 2022 23. Of the product information supplied, this resulted in:  
+Once the process of linking the participating products to sales was complete, the matches were incorporated into the existing Apparent Consumption of Selected Foodstuffs (ACSF) coding database of around 120,000 foods. The existing database simultaneously connects the product barcodes/SKUs to supermarket sales and the 2011 13 AUSNUT food nutrient database (for nutrient values).  Four new columns were added to the database to hold the 2021 and 2023 sodium/sugar values provided. For the majority of participating products which were already in the ACSF coding database, their 2021 and 2023 sodium/sugar values were updated with the actual mg/g per 100g values supplied by the manufacturer.  For the non participating products, their existing AUSNUT values were used to fill both the 2021 and 2023 values.
+For further information about the ASCF concepts, data sources and methods, please see the ACSF .
+Summary of assumptions and limitations of the method
+  Applicable Food category (see  for a summary of the food categories and targets) 
+  Brand and product name
+  Product barcode (or other unique identifier/product code)
+  Weight/volume of the product
+  Sodium and sugar values at June 2021 and June 2023 for products
+  249 products being in scope for sodium reformulation 
+  199 products being in scope for sugar reformulation
+  This analysis assumes that all variables other than the relevant nutrients are held constant. That is, the products have the same volume of consumption (i.e. both based on total sales in 2022 23). It also assumes that similar products from non participating manufacturers have not undergone reformulation between 2021 and 2023.
+  Total sodium and sugar intakes in this analysis may differ slightly from those published in the 2022 23 ACSF. This is due to this analysis incorporating product specific sodium and sugar data (for the reformulated products) in place of the 2011 13 AUSNUT values (the default nutrient values).
+  Apparent consumption of food and nutrients in ACSF data are weighted from the major supermarkets to represent non supermarket stores such as small independent supermarkets, convenience stores, Asian grocers and delis. For more detail about the weighting method, please see Data sources and Estimation sections from the ACSF  notes.
+  Although all participating products were manufactured in Australia, the same may not be true for all the non participating products within the in scope food categories. Uncertainty about the proportion of manufactured foods which are processed outside of Australia suggests that the measure of nutrient coverage by participating products should be considered with caution. 
+  While the coding database is reviewed annually to ensure coding integrity, it is possible that inaccuracies remain among some products.  Any such inaccuracies if significant enough may impact the total amount of sodium/sugar in the food categories used as denominators to measure coverage of nutrients in the participating products. 
+  A further limitation of the coding database may be the 2011 13 reference period which AUSNUT was designed to represent. The food supply has continued to evolve over the last decade with new products appearing and others being removed. Some of the new products in relevant categories may already conform or be closer to the targets for sodium/sugar despite not being a PRP participating product.  Any significant drop in the average sodium/sugar content over the decade for any given AUSNUT food category could artificially inflate the denominator of all foods. This could result in an underestimate of the proportion of total sodium intake from PRP participating foods for each relevant food category, as well as the contribution to estimated total sodium or sugar intakes from all foods included in the scanner data.

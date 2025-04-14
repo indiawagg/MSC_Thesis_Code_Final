@@ -1,0 +1,24 @@
+Date:
+2024-03-04
+Article Title:
+The Daily — Software development and computer services, 2022
+Article Content:
+Released: 2024 03 04
+The total operating revenue of the software development and computer services industries reached $133.8 billion in 2022, up 17.0% from 2021. This represents one of the most robust growth trends observed over the past 10 years. 
+The software development and computer services industries include businesses in the following industries: computer systems design and related services; software publishers; and computing infrastructure providers, data processing, web hosting, and related services.
+The software development and computer services industries serve a wide market and an expanding customer base that operates in a quickly evolving, technology driven economy in Canada and abroad.
+Businesses in the computer systems design and related services industry reported total operating revenue of $98.6 billion in 2022, up 18.1% from 2021. The largest share of operating revenue came from Ontario (51.3%), followed by Quebec (24.2%). 
+In line with previous years, 32.8% of the industry's sales came from information technology technical consulting services in 2022, with other custom software development services accounting for 10.2% of sales. Other custom software may include software for customer management, human resource management and inventory management.
+Businesses in Canada represented 60.9% of the industry's client base in 2022, while clients outside Canada made up 25.5%.
+Operating expenses increased 21.4% to $91.8 billion in 2022. Salaries, wages, commissions and benefits continued to be the largest expense, making up 46.1% of total expenses. This was followed by the cost of goods sold, at 11.5%.
+The operating profit margin of this industry decreased from 9.4% in 2021 to 6.9% in 2022.
+Software publishers saw their operating revenue increase 13.2% from 2021 to $20.4 billion in 2022, with application software generating 42.8% of sales. The next largest source of revenue was system software which accounted for 24.3% of sales.
+E commerce sales continued to grow in 2022, increasing to 60.5% of all sales compared with 55.4% in 2021.
+Similar to 2021, the highest proportion of sales in 2022 was made to clients outside Canada (69.7%), while 24.5% of sales were to businesses in Canada.
+Operating expenses increased 18.7% to $22.0 billion in 2022, and the largest expense item continued to be salaries, wages, commissions and benefits (35.9%).
+The computing infrastructure providers, data processing, web hosting, and related services industry generated $14.8 billion in operating revenue in 2022, up 15.0% from 2021.
+In 2022, hosting and information technology infrastructure provisioning services accounted for 53.4% of sales revenue, followed by information and document transformation services (24.7%). Canadian businesses were the main clients, accounting for 63.4% of total sales, while exports made up 31.4%. 
+E commerce represented 54.4% of total sales in 2022, an increase of 1.1 percentage points from 2021.
+Operating expenses reached $14.5 billion in 2022, an increase of 15.4% over 2021. The operating profit margin in 2022 was 2.0%, 0.3 percentage points lower than in 2021.
+After a period of robust growth, informatics services faced some headwinds and a slowing economy in Canada and globally in 2023. While there was downsizing in the software publishing industry, job creation was moderate for the computing infrastructure providers, data processing, web hosting, and related services as well as the computer systems design and related services industries in 2023. Detailed financial information for the software development and computer services industries in 2023 will be provided following survey data collection in 2024. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

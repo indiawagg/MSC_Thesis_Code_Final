@@ -1,0 +1,49 @@
+Date:
+2021-12-16
+Article Title:
+ Insights into hours worked, November 2021
+
+Article Content:
+Hours worked increased by 4.5% (in seasonally adjusted terms) between October and November 2021, while employment increased by 2.9% or 366,100 people.
+Chart 1 shows changes in hours worked and employment, indexed to March 2020, while Chart 2 shows monthly changes in hours worked and employment since November 2017. They highlight the extent to which hours worked provide a more comprehensive indication of the extent of labour market impacts over the pandemic than employment, given some employed people temporarily have reduced hours or no work, without necessarily losing their jobs. 
+Over the COVID period, hours worked have been impacted when jurisdictions move into and out of lockdowns and other restrictions. This was again evident in changes in hours worked across many of the states and territories in November.
+Monthly hours worked in New South Wales rose by 30.1 million hours (5.6%) between October and November. This increase brought hours worked to 0.8% below May 2021, before the Delta outbreak, and around the level in March 2020.
+Monthly hours worked in Victoria increased by 41.2 million hours (9.7%) between October and November, following the 4.1% fall between September and October 2021. In November they were 1.7% lower than May 2021 and 1.6% higher than March 2020.
+Monthly hours worked in the Australian Capital Territory increased by 2.9 million hours (10.0%) between October and November, following the 3.0% increase between September and October. In November they were 0.8% lower than May 2021 and 0.4% higher than March 2020.
+Chart 3 shows the changes in monthly hours worked for New South Wales, Victoria and Australian Capital Territory indexed to March 2020. 
+Chart 4 shows the number of people working fewer (or no) hours in November 2021:
+When assessing the impacts of lockdowns, it is important to consider larger than seasonal changes in people reporting ‘economic reasons’ (that is, people reporting having no work, not enough work or being stood down) and ‘other reasons’. People reporting other reasons has increased during periods of lockdowns, indicating that some respondents feel that the longstanding categories do not fully capture the complexity of the restrictions and/or that it is difficult for them to attribute the reasons to a single category.
+In addition to economic reasons and other reasons, some people who are impacted by lockdowns may also report different reasons, such as taking annual leave or holidays or using flextime during the lockdown period. All reasons are available from data cubes EM2a and EM2b.
+  due to taking annual leave, holidays, flextime, or long service leave   which was 1,248,600 people
+  due to economic reasons   which was 418,100 people. This was a decrease of 345,600 from October 2021
+  due to other reasons   which was 417,800 people. This was a decrease of 336,200 from October 2021
+Chart 4a shows the number of people working fewer (or no) hours in November 2021 in New South Wales:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 226,300 people
+  due to economic reasons   which was 147,100 people. This was a decrease of 172,800 from October 2021
+  due to other reasons   which was 116,100 people. This was a decrease of 191,600 from October 2021
+Chart 4b shows the number of people working fewer (or no) hours in November 2021 in Victoria:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 685,200 people. This was an increase of 420,900 from October 2021 due to Melbourne Cup public holiday in Victoria
+  due to economic reasons   which was 136,700 people. This was a decrease of 162,000 from October 2021
+  due to other reasons   which was 173,800 people. This was a decrease of 88,800 from October 2021
+Chart 4c shows the number of people working fewer (or no) hours in November 2021 in the Australian Capital Territory:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 16,100 people
+  due to economic reasons   which was 6,800 people. This was a decrease of 7,000 from October 2021
+  due to other reasons   which was 6,000 people. This was a decrease of 13,500 from October 2021
+Chart 5 shows the proportion of employed males and females who worked zero hours in November over the past 20 years. In November 2021, 5.9% of employed people in Australia worked zero hours (5.5% in New South Wales and 5.7% in Victoria).
+Chart 6 shows the number of people working zero hours for economic reasons, due to taking annual leave, holidays, flextime, or long service leave and due to other reasons. As with people working fewer hours, there is a distinct (although dampened over the COVID 19 period), seasonal pattern to people taking leave, with large increases each January and during school holiday periods. In November 2021:
+  281,200 employed people worked zero hours due to taking annual leave, holidays, flextime, or long service leave
+  78,500 employed people worked zero hours for economic reasons. This was a decrease of 110,400 from October 2021
+  60,000 employed people worked zero hours for other reasons. This was a decrease of 139,300 from October 2021
+Chart 6a shows the number of employed people who worked zero hours in New South Wales in November 2021:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 68,300 people
+  due to economic reasons   which was 32,600 people. This was a decrease of 38,200 from October 2021
+  due to other reasons   which was 26,300 people. This was a decrease of 58,800 from October 2021
+Chart 6b shows the number of employed people who worked zero hours in Victoria in November 2021:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 74,200 people
+  due to economic reasons   which was 27,100 people. This was a decrease of 69,500 from October 2021
+  due to other reasons   which was 15,400 people. This was a decrease of 81,800 from October 2021
+Chart 6c shows the number of employed people who worked zero hours in the Australian Capital Territory in November 2021:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 2,900 people
+  due to economic reasons   which was 500 people. This was a decrease of 1,500 from October 2021
+  due to other reasons   which was 900 people. This was a decrease of 3,300 from October 2021
+For further information, email .

@@ -1,0 +1,25 @@
+Date:
+2021-05-19
+Article Title:
+ Labour Price Index: Changing labour costs through COVID-19, Mar 2021
+
+Article Content:
+In March quarter 2021 labour costs continued to grow, though at the slowest rate since June quarter 2020, at 1.5%. While labour costs have steadily increased over the past 3 quarters, they remain 4.5% lower than the pre COVID levels.
+The increase in employers labour costs over the quarter were driven by the falling number of jobs eligible for the JobKeeper subsidy, reductions in the subsidy itself and wages growth, predominantly affecting the private sector.
+The private sector saw a rise in labour costs of 2.0% while the public sector recorded a rise of 0.5% in March quarter 2021. The public sector rate of growth was influenced by a combination of continuing wage freezes and lower wage increases offsetting enterprise agreement driven wages growth.
+Private sector labour cost increases in the March quarter 2021 were primarily driven by changes in the Wages component, with minimal contributions from the other components (see Figure 1).
+A reduction in the level of fiscal support through the final stage of the JobKeeper support package, which included a lowering of the subsidy, has been a main contributor to the increase in businesses’ wage costs, as has a return to more typical March quarter wage growth.
+Across all states and territories there continued to be an increase in the cost of labour for businesses, albeit at different rates. No state or territory reported labour costs returning to the same levels as they were at the onset of COVID19, indicating the continued use of wage subsidy support for each jurisdiction.
+The two states that the recorded the largest falls in labour costs after the first wave of COVID 19 related business and community restrictions remain the slowest to return to previous levels. Queensland and Tasmania continued to be the furthest away from pre COVID index levels, being 9.0% and 8.5% lower respectively. 
+Other state and territory labour costs moved closer to pre COVID index levels (between 3.6% to 6.6% lower than March quarter 2020).
+Figure 2, and Figure 3 below, display the difference in the index between each quarter listed and March quarter 2020. The smaller points changes in March indicate that the index is moving back towards pre COVID levels (ie. March quarter 2021   March quarter 2020).
+The industries most affected by the pandemic have seen their labour costs fall the furthest and are continuing to be the slowest to return to pre pandemic levels. While the largest increases in labour costs over March quarter 2021 were recorded in the Arts and recreation services (7.2%), Accommodation and food services (4.1%), and Other services (3.9%) these were returning from large falls in the LPI in June quarter 2020 after a high JobKeeper take up. As shown in Figure 3 labour costs for these industries remain the furthest from their pre COVID levels.
+The two industries least impacted by COVID 19 business restrictions, Electricity, gas, water and waste services and Mining, are the only two industries to see labour costs exceed pre COVID index levels in the March quarter by 0.1 and 0.2 index points respectively.
+In response to the COVID 19 pandemic the Commonwealth government implemented the JobKeeper wage subsidy while state and territory governments introduced measures through payroll taxes.
+The JobKeeper wage subsidy initially provided a fixed $1,500 per employee per fortnight for eligible businesses and employees. ()
+State and territory governments introduced changes to payroll taxes, deferring or waiving payments for a fixed period of time as well as changing payment thresholds.
+The scope of the Wage Price Index (WPI) survey does not include subsidies and own account workers (self employed). To assist with understanding the impacts on employing business labour costs, from the JobKeeper subsidy and payroll tax changes, the ABS reconstructed the Labour Price Index (LPI) based on data collected from the WPI survey. The LPI represents the changes in the price of all labour costs including subsidies.  
+The LPI was last published in September quarter 2011 on a financial year basis. Where possible the same sources and methods have been used to construct a quarterly series. (see )
+ (Dec 20)
+ (Sep 20)
+ (Jun20)

@@ -1,0 +1,10 @@
+Date:
+2023-11-24
+Article Title:
+The Daily — National Travel Survey: Public use microdata file, 2022
+Article Content:
+Released: 2023 11 24
+The National Travel Survey (NTS) public use microdata file (PUMF) for 2022 is now available.
+This PUMF contains data for a wide variety of variables collected from the 2022 NTS that cover the characteristics of Canadian residents travelling within Canada and abroad: travel expenditures, length of stay, type of transportation, purpose of trip, accommodation used, places visited, and expenditures by category.
+The product National Travel Survey microdata file, 2022 (Catalogue number24250001), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

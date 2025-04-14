@@ -1,0 +1,31 @@
+Title: GGD-testdata: 6,7 miljoen mensen deden minstens één coronatest
+Date: 2021-06-20 22:00:00 UTC
+
+Lead Text:
+                Tussen 1 augustus 2020 en medio april 2021 hebben de GGD’en 11,3 miljoen coronatesten afgenomen bij 6,7 miljoen mensen. Jongeren en jongvolwassenen lieten zich het meest testen, ouderen het minst vaak. Onder mensen die werken in het onderwijs was het percentage testen het hoogst. Werknemers lieten zich vaker testen dan mensen met een bijstandsuitkering of een pensioen. Mensen die buiten de GGD’en om zijn getest, zitten niet in deze cijfers. Dit meldt het CBS op basis van een eerste statistische analyse van de GGD-testdata.
+            
+
+Article Content:
+Uit de  blijkt dat tussen 1 augustus 2020 en medio april 2021 er 11,3 miljoen  op het coronavirus zijn afgenomen bij zo’n 6,7 miljoen inwoners van Nederland. Het betekent dat 38 procent van de Nederlandse bevolking zich in deze periode bij de GGD’en ten minste één keer heeft laten testen. Van hen heeft 59,6 procent zich één keer laten testen, 24,5 procent twee keer en 15,9 procent drie of meer keren. In de helft van de Nederlandse huishoudens heeft minimaal één persoon in het huishouden zich minstens eenmaal laten testen bij de GGD’en. Van alle bij de GGD geteste personen in deze periode heeft 17 procent minstens één keer een positieve testuitslag gehad.
+Eerste analyse van GGD-testdatabestand
+Het CBS heeft de analyse uitgevoerd op verzoek van het ministerie van Volksgezondheid, Welzijn en Sport en in nauw overleg met het RIVM, de GGD’en en GGD GHOR Nederland. De geanalyseerde testdata komen uit CoronIT, het registratiesysteem voor het testen op COVID-19 waarin alle GGD’en samenwerken. Het CBS heeft de testdata verrijkt met gegevens over onder andere type huishouden, huishoudensinkomen, onderwijsniveau, bedrijfstak, arbeidspositie, stedelijkheid, voertuigbezit, op basis van de situatie in . 
+Vooropgesteld moet worden dat de GGD-data niet het volledige beeld geven van het deel van de bevolking dat zich heeft laten testen. Het is ook mogelijk dat mensen zich buiten de GGD om laten testen, bijvoorbeeld in het ziekenhuis, verpleeghuis of bij de huisarts. Mensen kunnen zich ook laten testen via de werkgever en via commerciële teststraten. Veel zorgmedewerkers zijn getest in de zorginstellingen waar zij werken. Al deze testuitslagen zitten niet in het hier geanalyseerde GGD-databestand. Het is niet bekend hoeveel testen er buiten de GGD omgaan.
+Veel jongeren, weinig ouderen
+Uit de eerste analyse van de GGD-gegevens blijkt dat jongeren (12 tot 18 jaar) en jongvolwassenen (18 tot 25 jaar) zich het meest lieten testen, ouderen het minst. 
+De grote aantallen tests die kinderen in de basisschoolleeftijd lieten doen zijn van recente datum. Vanaf 6 januari 2021 geldt ook voor hen het advies om zich laten testen als zij verkoudheidsklachten hebben, of als zij met een besmette persoon in contact zijn geweest. De heropening van de basisscholen verklaart het sterk oplopende aantal geteste kinderen vanaf februari 2021.
+
+
+Mensen met bijstand en laagopgeleiden testen minder vaak via GGD
+Werknemers (48 procent getest) en kinderen, scholieren en studenten (43 procent) hebben zich het meest laten testen, gepensioneerde ouderen het minst vaak (20 procent). Laagopgeleiden (vanaf 18 jaar, 29 procent) en mensen met een bijstandsuitkering (24 procent) hebben zich minder vaak laten  dan hoogopgeleiden (45 procent) en mensen met banen (48 procent). Ten slotte testen mensen met een eigen auto vaker via de GGD dan mensen die geen auto hebben.
+
+
+
+
+Meest getest via de GGD in onderwijs
+
+De sectorgegevens laten zien dat mensen die werken in het onderwijs zich het meest hebben laten testen. In de andere sectoren liggen deze percentages ruwweg tussen 40 en 50 procent. 
+
+
+ Dit is de eerste CBS publicatie op basis van de GGD-testdata. In de komende weken zullen publicaties volgen over onder andere de relatie met afstand tot testlocaties, testen op huishoudensniveau en met regionale informatie.
+
+

@@ -1,0 +1,51 @@
+Date:
+2021-06-11
+Article Title:
+ Aboriginal and Torres Strait Islander people with disability
+
+Article Content:
+In 2018, the SDAC found that there were 581,400 Aboriginal and Torres Strait Islander people in Australia living in households (excluding those in very remote areas and discrete Aboriginal and Torres Strait Islander communities). Of these people, almost one quarter (24.0% or 139,700 people) had disability, similar to 2015 (23.9% or 125,000 people).
+Of Aboriginal and Torres Strait Islander people (within the scope of this analysis):
+  the proportion with disability was similar for males and females (23.7% and 24.3% respectively)
+  disability generally increased with age, with over half (53.5%) of those aged 55 years and over having disability.
+Among Aboriginal and Torres Strait Islander people in 2018 (within the scope of this analysis):
+  8.8% had a profound or severe limitation, similar to 2015 (7.3%)
+  the proportion with profound or severe limitation was similar for males and females (8.5% and 9.7% respectively)
+  profound or severe limitation was most common among older people (those aged 55 years and over, 17.9%)
+  one in nine (11.0%) children aged 0 14 years had a profound or severe limitation, up from 5.9% in 2015.
+Among Aboriginal and Torres Strait Islander people in 2018 (within the scope of this analysis):
+  13.3% had a physical disability, the most commonly reported disability
+  those aged 55 years and over were more likely to have a physical disability (39.2%) than other age groups
+  females were more likely to have a physical disability (15.2%) than males (10.6%)
+  males were almost twice as likely to report a sensory and speech disability (7.8%) than females (3.9%)
+  males were also more likely to report an intellectual disability (10.1%) than females (5.9%).
+In 2018, the proportion of Aboriginal and Torres Strait Islander people with disability varied somewhat by where people lived. Among Aboriginal and Torres Strait Islander people (within the scope of this analysis):
+  29.6% of those living in inner regional areas had disability
+  almost a quarter of those living in major cities (23.8%) or outer regional areas (22.0%) had disability
+  18.1% of those living in remote areas had disability.
+Of the 139,700 Aboriginal and Torres Strait Islander people identified in the SDAC with disability, over two thirds (68.9% or 96,300 people) needed assistance with at least one activity of daily life. Most of these (92.7%) received assistance with at least one activity (similar to 2015, 91.4%).
+In 2018, the highest level of educational attainment among Aboriginal and Torres Strait Islander people aged 15 years and over with disability (within the scope of this analysis) was similar to 2015:
+  15.8% had completed year 11 or 12
+  over one quarter (27.7%) had completed an advanced diploma, diploma or certificate
+  7.2% had completed a Bachelor degree or higher
+  less than half (44.3%) had completed Year 10 or below, similar to 2015 (46.4%) but significantly lower than in 2012 (59.7%).
+Aboriginal and Torres Strait Islander people with disability were less likely to be participating in the labour force than those without disability. In 2018, among Aboriginal and Torres Strait Islander people with disability aged 15 64 years (within the scope of this analysis):
+These rates were similar to those in 2015.
+  over half (56.2%) were not in the labour force, compared with 24.3% of Aboriginal and Torres Strait Islander people of the same age with no disability
+  one third (33.1%) were employed, compared with 64.5% of Aboriginal and Torres Strait Islander people of the same age with no disability
+Among Aboriginal and Torres Strait Islander people with disability in 2018 (within the scope of this analysis):
+See the  for a definition of equivalised weekly gross household income quintile.
+  34.4% lived in households with an equivalised weekly gross income in the lowest quintile (Quintile 1)
+  Just 3.4% lived in households with an income in the highest quintile (Quintile 5)
+The 2018 SDAC included questions about experiences of discrimination in the previous 12 months in relation to a person’s disability.
+In 2018, among Aboriginal and Torres Strait Islander people aged 15 years and over with disability (within the scope of this analysis):
+These rates were similar to those in 2015.
+  18.1% reported experiencing discrimination due to their disability
+  46.2% reported they had avoided situations due to their disability
+The SDAC is designed to collect extensive national and state level data on disability, and to provide accurate prevalence rates of disability for the total Australian population. It was not developed and tested to collect data for the Aboriginal and Torres Strait Islander population specifically, so there are limitations in the collection of disability data for this population:
+See the  for further information.
+  Population weights in the SDAC are not separately calibrated (or benchmarked) to the Aboriginal and Torres Strait Islander estimated resident population (ERP). This means that when the SDAC sample is weighted to the total population, no compensation is made to correct any sampling bias that may occur in the Aboriginal and Torres Strait Islander population estimates. See the  for information on survey design, sampling and weighting of the SDAC.
+  The scope of the survey is limited to those living in households, and excludes people living in very remote areas of Australia and discrete Aboriginal and Torres Strait Islander communities, who account for approximately 17% of the Aboriginal and Torres Strait Islander population. This analysis makes no assessment of the disability prevalence in those areas excluded from the survey.
+  The 2018 SDAC sample had an under representation of young Aboriginal and Torres Strait Islander females compared with previous surveys. Given that disability is closely correlated with age, the smaller proportion of young females may have the effect of increasing the overall disability prevalence rate for the Aboriginal and Torres Strait Islander population in 2018. ABS analysis has found that any increase is small and within the margin of error.
+  Reductions to the overall sample collected in 2018, compared with 2015, mean that comparisons between estimates for some populations may be challenging due to increased margins of error. Caution should be used when comparing estimates for small populations.
+The Australian Bureau of Statistics gratefully acknowledges and thanks Dr Scott Avery, Western Sydney University, for his valuable contribution in peer reviewing this analysis.

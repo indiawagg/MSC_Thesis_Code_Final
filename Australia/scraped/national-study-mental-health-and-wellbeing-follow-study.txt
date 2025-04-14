@@ -1,0 +1,123 @@
+Date:
+2024-06-05
+Article Title:
+ National Study of Mental Health and Wellbeing: Follow up Study
+
+Article Content:
+This article presents information from the Follow up Study component of the 2020–2022 National Study of Mental Health and Wellbeing (NSMHW).
+The NSMHW was conducted between December 2020 and October 2022. Respondents in the NSMHW were invited to participate in a short Follow up Study, conducted by web form or telephone around 12 months after each respondent had completed their NSMHW interview.
+Questions asked in the Follow up Study focussed on the 12 month period prior to the Follow up Study. Topics included how respondents rated their mental health, consultations with health professionals for their mental health, and strategies they had employed for their mental health in that period. For the Data Item List and microdata for the Follow up Study, see .
+The ABS would like to thank participants for their involvement in the Follow up Study. 
+There were 1,019 people aged 18 85 years in the Follow up Study who had a 12 month mental disorder according to their responses in their NSMHW interview. Results in this article represent only those 1,019 people and not all people with a 12 month mental disorder. While these results provide insights into Follow up Study respondents’ experiences over time, care should be exercised when making inferences about these results more broadly.
+Respondents in the Follow up Study were asked to rate their current mental health and compare it with their mental health one year earlier.
+Of the 1,019 people in the Follow up Study who had a 12 month mental disorder, around one quarter (27%) reported in their Follow up Study that they had excellent or very good mental health, one third (33%) reported good mental health, and two in five (40%) reported fair or poor mental health.
+Of the 1,019 people in the Follow up Study who had a 12 month mental disorder, around two in five (38%) said that their mental health was a lot or a little better than one year earlier. A similar proportion reported that their mental health was the same (41%), while around one in five (21%) said their mental health was a little or a lot worse.
+Respondents in the Follow up Study were asked about their consultations with health professionals for mental health in the last 12 months.
+Of the 1,019 people in the Follow up Study who had a 12 month mental disorder, almost half (47%) saw a health professional for their mental health in the 12 months prior to their Follow up Study. This is the same as the proportion who had seen a health professional for their mental health in the 12 months prior to their NSMHW interview (47%). More than one third (36%) saw a health professional for their mental health in both 12 month periods, while around two in five (41%) did not see a health professional for their mental health in either 12 month period.
+Respondents in the Follow up Study were also asked about other services for their mental health they accessed using phone, internet or other digital technologies.
+Of the 1,019 people in the Follow up Study who had a 12 month mental disorder, slightly more than one in five (22%) accessed other services for their mental health using phone, internet, or another digital technology in the 12 months prior to their Follow up Study. Almost one in five (18%) accessed other services for their mental health using phone, internet, or another digital technology in the 12 months prior to their NSMHW interview. 
+Of the 1,019 people in the Follow up Study who had a 12 month mental disorder, more than a third (37%) were dispensed at least one Pharmaceutical Benefits Scheme (PBS) subsidised mental health related medication in the 12 months prior to their Follow up Study, similar to the proportion who had been dispensed at least one PBS subsidised mental health related medication in the 12 months prior to their NSMHW interview (36%). Almost one third (31%) were dispensed at least one PBS subsidised mental health related medication in both 12 month periods, while almost three in five (58%) were not dispensed a PBS subsidised mental health related medication in either 12 month period.
+Respondents in the Follow up Study were asked about self management strategies they used for their mental health in the past 12 months.
+Of the 1,019 people in the Follow up Study who had a 12 month mental disorder, around nine in ten (89%) had used self management strategies for their mental health in the previous 12 months. This is the same as the proportion who had used self management strategies for their mental health in the 12 months prior to their NSMHW interview (89%).
+Of the 1,019 people in the Follow up Study who had a 12 month mental disorder:
+  Just over half (51%) increased their level of exercise or physical activity in the 12 month period prior to the Follow up Study
+  Half (50%) practised thinking positively and setting achievable goals in the 12 month period prior to the Follow up Study.
+The 2020–2022 National Study of Mental Health and Wellbeing (NSMHW) was conducted by the Australian Bureau of Statistics (ABS) between December 2020 and October 2022 and provides prevalence estimates of mental disorders among Australians aged 16 85 years.
+All participants of the NSMHW were asked if they would be willing to be contacted for a follow up survey. Of those who consented, a subset were contacted on average, 12 months after the completion of the NSMHW. These people were asked to complete the Health and Wellbeing Follow up Survey (HWFUS).
+The aim of the HWFUS was to provide a longitudinal perspective on whether people use health services for their mental health and the impact, or otherwise, of the use of services on mental health.
+Data from the HWFUS is disseminated as the Follow up Study.
+For further information about the NSMHW see .
+People who were asked to complete the Follow up Study were aged over 18 years and met at least one of the following criteria based on their responses to the NSMHW:
+The NSMHW asked respondents about their experiences and symptoms of mental ill health throughout their life. Their responses to the questionnaire were then classified using the International Classification of Diseases   Tenth Revision (ICD 10) and the Diagnostic and Statistical Manual of Mental Disorders (DSM IV) to produce population estimates of the prevalence of mental health disorders among Australians aged 16 85 years. The term mental disorder is used in this publication to align with these definitions and criteria.
+People who were classified as having a ‘lifetime disorder with 12 month symptoms’ met the diagnostic criteria for a mental disorder at some time in their life and had sufficient symptoms of that disorder in the 12 months prior to their NSMHW interview.
+People who were classified as having a ‘lifetime disorder with no 12 month symptoms’ met the diagnostic criteria for a mental disorder at some time in their life. This does not imply that these people had a mental disorder throughout their entire life.
+People who were classified as having ‘no lifetime disorder with 12 month symptoms’ did not meet the diagnostic criteria for having a mental disorder at any time in their life but reported symptoms of a disorder in the 12 months prior to their NSMHW interview.
+People who had a ‘lifetime disorder with 12 month symptoms’, had a ‘lifetime disorder but no 12 month symptoms’ or had ‘no lifetime disorder with 12 month symptoms’ for the following disorders were in scope for the Follow up Study: 
+The ‘without hierarchy’ versions of the ICD 10 and DSM IV classifications were used.
+  Had a lifetime disorder with 12 month symptoms
+  Had a lifetime disorder but no 12 month symptoms
+  Had no lifetime disorder with 12 month symptoms
+  Reported suicidal thoughts or behaviours
+  Reported self harm
+  Reported disordered eating behaviours
+  Had a consultation with a health professional for mental health in the 12 months prior to interview
+  Were hospitalised for mental health problems in the 12 months prior to interview.
+  DSM IV Substance Use Disorder (includes Alcohol Abuse, Alcohol Dependence, Drug Abuse (includes Cannabis Abuse, Stimulant Abuse, Sedative Abuse, Opioid Abuse) and Drug Dependence (includes Cannabis Dependence, Stimulant Dependence, Sedative Dependence, Opioid Dependence))
+  ICD 10 Substance Use Disorder (includes Alcohol Harmful Use, Alcohol Dependence, Drug Harmful Use (includes Cannabis Harmful Use, Stimulant Harmful Use, Sedative Harmful Use, Opioid Harmful Use) and Drug Dependence (includes Cannabis Dependence, Stimulant Dependence, Sedative Dependence, Opioid Dependence))
+  DSM IV Dysthymia
+  ICD 10 Dysthymia
+  DSM IV Minor Depressive Disorder
+  ICD 10 Minor Depressive Episode
+  DSM IV Major Depressive Disorder
+  ICD 10 Moderate Depressive Episode
+  DSM IV Major Depressive Episode
+  ICD 10 Major Depressive Episode
+  DSM IV Obsessive Compulsive Disorder
+  ICD 10 Obsessive Compulsive Disorder
+  DSM IV Panic Attack
+  ICD 10 Panic Attack
+  DSM IV Panic Disorder
+  ICD 10 Panic Disorder
+  DSM IV Generalised Anxiety (includes Generalised Anxiety Disorder (12 months) 1mth duration and Generalised Anxiety Disorder (12 months) 3mth duration
+  ICD 10 Generalised Anxiety
+  DSM IV Social Phobia
+  ICD 10 Social Phobia
+  DSM IV Post Traumatic Stress Disorder
+  ICD 10 Post Traumatic Stress Disorder
+  DSM IV Agoraphobia with or without Panic Disorder
+  DSM IV Agoraphobia without Panic Disorder
+  ICD 10 Agoraphobia with/without Panic Disorder
+  ICD 10 Bipolar Affective Disorder
+  DSM IV Bipolar Affective Disorder (includes Bipolar I and Bipolar II Disorder)
+  DSM IV Bipolar Subthreshold Disorder
+  DSM IV Hypomania
+  ICD 10 Hypomania
+  DSM IV Sub Hypomania
+  DSM IV Mania
+  ICD 10 Mania.
+At the time of completing the NSMHW, respondents were told that the ABS may conduct future surveys to aid in understanding Australia’s health. Those who agreed to participate in a follow up survey were asked to provide their contact details. These contact details were used to invite respondents to participate in the Follow up Study. To minimise bias in the results, the detailed criteria for the Follow up Study were not shared with respondents. 
+Respondents had the option to self complete the survey online or with an ABS interviewer over the phone. 
+As the NSMHW was collected from two cohorts, the Follow up Study was also collected from two cohorts. Cohort 1 was collected between April 2022 and November 2022. Cohort 2 was collected between April 2023 and September 2023. Participation was voluntary.
+The ABS thanks all participants for their involvement in the Health and Wellbeing Follow up Survey. The information collected is critical to mental health policy, program development and evaluation in Australia. 
+Of those that participated in the NSMHW, 9,199 people met the scope criteria for the Follow up Study. 3,079 people, or 33.5%, of the in scope sample completed the Follow up Study. 
+Most of the Follow up Study content comprised a reduced set of questions from the NSMHW, including:
+As was done for the NSMHW, Pharmaceutical Benefits Scheme (PBS) mental health related medications data was sourced from the PBS instead of being collected directly from survey respondents.
+More detailed information about the content collected in both the NSMHW and the Follow up Study is available in the .
+See the  for full details of the content collected for the Follow up Study.
+  Education, employment, and financial stress
+  Self assessed health and mental health status, psychological distress, and functioning
+  Suicidality
+  Self harm
+  Use of health services for mental health
+  Social connections
+  Strategies used for mental wellbeing.
+Unlike the NSMHW, the Follow Up Study was not designed to provide nationally representative estimates for the Australian population aged 16 85 years. Data collected from the Follow up Study have not been weighted and represent only those people who participated. Care should be taken when generalising the results to the broader population. 
+This release presents selected results from the Follow up Study.
+Detailed microdata is available on DataLab for users who want to undertake complex analysis of the microdata in the secure ABS environment. A  is available.
+The Census and Statistics Act 1905 authorises the ABS to collect statistical information and requires that information is not published in a way that could identify a particular person or organisation. The ABS must make sure that information about individual respondents cannot be derived from published data.
+Some techniques used to guard against identification or disclosure of confidential information in statistical output are suppression of sensitive data, random adjustments to very small values, and aggregation of data. To protect confidentiality within this publication, some data have been aggregated.
+The NSMHW interview measured the prevalence of mental disorders among Australians aged 16–85 years using the World Health Organization Composite International Diagnostic Interview (CIDI 3.0). Respondents were asked about their experiences and symptoms of mental ill health throughout their lifetime, from which two key measures were analysed:
+In the NSMHW, three groups of mental disorders were assessed ­– Anxiety, Affective and Substance Use disorders ­– based on definitions and criteria of the  (ICD 10) and the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM IV). Results in this article are based on the ICD 10 classifications, and the term 'mental disorder' is used to align with these definitions and criteria.
+See the  for more information.
+  Lifetime mental disorders, which refers to the number of people who met the diagnostic criteria for having a mental disorder at some time in their life. This does not imply that a person has had a mental disorder throughout their entire life
+  12 month mental disorders, which refers to the number of people who met the diagnostic criteria for having a mental disorder at some time in their life and had sufficient symptoms of that disorder in the 12 months prior to when they completed their NSMHW interview. The term ‘had a 12 month mental disorder’ refers to people in this group. 
+Type of health professional seen for mental health includes:
+  General practitioner
+  Psychiatrist
+  Psychologist
+  Mental health nurse
+  Other mental health professional, including social worker, counsellor, occupational therapist
+  Hospital admissions for mental health.
+Services include:
+  Crisis support or counselling services
+  Online treatment programs, training, assessments or other tools to improve mental health
+  Mental health support groups, forums or chat rooms
+  Information about mental illness, treatment options or services.
+Medications data was sourced from the Pharmaceutical Benefits Scheme (PBS). Data relates to mental health related medications dispensed to the respondent in the 12 months prior to the respective survey, and not how or if they were used. While these medications are commonly prescribed for treating mental health conditions, they may also be prescribed to treat other conditions.
+PBS medication types are classified using the 2023 Anatomical Therapeutic Chemical (ATC) classification system which is maintained by the World Health Organization (WHO) and widely used internationally.
+Mental health related medications included in NSMHW and Follow up Study data are:
+  Antipsychotics (N05A)
+  Anxiolytics (N05B)
+  Hypnotics and sedatives (N05C)
+  Antidepressants (N06A)
+  Psychostimulants, agents used for ADHD and nootropics (N06B).

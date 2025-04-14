@@ -1,0 +1,34 @@
+Date:
+2023-10-27
+Article Title:
+ Improved estimates of the Annual National Accounts: results of the 2023 historical revisions
+
+Article Content:
+Changes to key economic indicators, such as gross domestic product (GDP), are relatively small as a consequence of historical revisions in 2023. The largest changes are to the household final consumption expenditure (HFCE) current price Rent series, resulting from the incorporation of Census data.
+The suite of 2023 historical revisions will appear in the following economic releases:
+  27 October 2023
+   21 November 2023
+   6 December 2023
+ – 15 November 2023
+ – 13 December 2023
+Updates to the HFCE rent series in the National Accounts will flow through to the Consumer Price Index (CPI) and the Selected Living Cost Indexes (SLCIs) via the annual re weighting process. The updated weights will be implemented in the monthly CPI indicator in January 2024 and will apply from the March quarter 2024 for the quarterly CPI and SLCIs.
+Australian National Accounts data are regularly revised. New and updated data sources, classification changes, and changes in methods can all contribute to National Accounts revisions. Figure 1 shows the evolution of an annual estimate, from the first time it is published as the sum of four quarters when the June quarter national accounts are released, through to an estimate which is not revised, unless impacted by a historical revision.
+Note: The (T) period referred to in the example year above is 2021 22. 
+The Annual National Accounts introduce revisions for the three open years as part of the benchmarking process. As such, the impact of the historical revisions can be difficult to isolate for the open three years. This article has separated out historical revisions impacts for all years up to 2021 22. Revisions in 2021 22 incorporate both revisions coming from the Supply and Use benchmarking and historical revisions.
+The 2023 round of historical revisions incorporates four improvements:
+The ABS has aligned the value of household final consumption expenditure (HFCE) on Rent with estimates from the 2021 Census for the period 2016 17 to 2020 21 (inclusive). The rent series in the National Accounts is updated every five years when the latest Census data is available. In the intervening years, rent estimates are produced using indicators based on information of the number of dwellings in Australia from the Building Activity Survey (BACS) and information on rental price growth in capital cities from the Consumer Price Index (CPI).
+The ABS has reclassified payments and receipts related to the Victorian Capital Asset Charge (CAC) across impacted sectors. The CAC was previously classified as Sales of goods and services revenue received by the General Government (GG) sector and has now been reclassified to Other taxes on production. These changes bring the National Accounts in alignment with  as detailed in the April 2023 Government Finance Statistics 2021 22 annual publication.
+The ABS has improved the treatment of personal and loan dwelling balances, offset accounts, “buy now, pay later” services and the International Investment Financial Intermediation Services Indirect Measured (FISIM) model in the Finance industry estimates, in addition to updated source data.
+An individual business entity is assigned to an industry based on its predominant activity according to the Australian and New Zealand Standard Industrial Classification (ANZSIC). The ABS routinely reviews the ANZSIC classification of business entities to ensure they are classified to the correct industry for statistical purposes. A targeted review of businesses in the software design and software publishing industries has resulted in a shift of economic activity between industry estimates in the National Accounts, particularly from ANZSIC 7000 Computer system design and related services (in Division M Professional, scientific and technical services) to ANZSIC 5420 Software publishing (in Division J Information media and telecommunications).
+Figure 2 provides the overall impact of revisions to annual percentage change in GDP in volume terms. All years prior to 2021 22 incorporate the impacts of historical revisions only, while 2021 22 incorporates the impacts of the Supply and Use benchmarking and the historical revisions.  
+From 1994 95 to 2021 22, the average annual growth rate has been revised from 3.0% to 3.1%. This was driven by the 2021 22 period which was revised upwards 0.7 percentage points due to the addition of the latest Supply and Use benchmark. For more detail on the 2021 22 Supply Use benchmark revisions see . 
+The incorporation of the latest Census data resulted in revisions to HFCE current price growth in the most recent five years. The Census revisions did not impact HFCE rent volume estimates as housing stock estimates are compiled independently from the Census.
+Revisions to the finance industry resulted in small revisions to volume growth throughout the time series, of less than 0.1 percentage points.
+Figure 3 provides the overall impact of the revisions to annual percentage change in HFCE in volume terms.
+Revisions to HFCE Rent in current prices are shown in Figure 4.
+The Census estimates provide a complete picture of rental growth in both capital city and regional areas. HFCE rent estimates in intervening years are based on prices measured in the CPI, which does not include regional areas. The upward revisions reflect strong growth of rent in regional areas, particularly in New South Wales and Victoria. 
+The GFCE time series is similar to previously published estimates as shown in Figure 5. GFCE revisions were minor and mostly driven by the reclassification of the Victorian CAC. Revisions range from  0.1 percentage points to +0.4 percentage points. The largest change is in 1998 99 which is the year the Victorian CAC was introduced.  
+The largest revisions to Gross Value Added (GVA) occurred in:
+Figures 6, 7 and 8 shows the impact on volume growth for these industries.
+  Division J Information media and telecommunications and Division M Professional, scientific and technical services, due to the review of the ANZSIC classification of a number of software related businesses.
+  Division K Financial and insurance services due to improvements to the measurement of the Finance industry and source data revisions.

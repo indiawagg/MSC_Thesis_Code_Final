@@ -1,0 +1,22 @@
+Date:
+2021-01-29
+Article Title:
+ Digital activity in the Australian economy, 2018-19
+
+Article Content:
+This article provides an update on the size, growth and nature of digital activity in Australia for 2018 19. These experimental estimates incorporate data from the most recent .
+The ABS measures digital activity in Australia as the production of:
+This article supplements the previous  article which provides analysis of experimental data back to 2011 12.
+More details on the ABS digital activity framework are covered in the .
+  Digital enabling infrastructure, such as computer hardware, software, telecommunications equipment and support services that form and facilitate the use of computer networks;
+  Digital media, which covers digital audio, video and advertisement broadcasting services that can be created, accessed, stored or viewed on digital devices; and
+  E commerce, which incorporate retail and wholesale services and margins from digitally ordered or platform enabled online transactions. 
+Digital activity value added increased by 1.9% ($1.8 billion) however the digital activity share in the Australian economy reduced by 0.2% due to strong growth in non digital activities, such as Mining. In 2018 19, digital activity accounted for 5.5% ($101.0 billion) of aggregate value added ($1,826.4 billion), compared to 5.8% ($99.2 billion) in 2017 18 (Graph 1).
+In 2018 19, the digital activity share of aggregate value added was higher than 12 industry divisions, but below traditional economic drivers such as Mining (10.6%), Finance (9.0%), Construction (7.9%) and Health (7.6%) (Graph 2).
+Mining has the largest share in aggregate value added in the Australian economy. Mining aggregate value added increased by 27.7% ($41.9 billion) in 2018 19, increasing its share of the Australian economy by 1.8%.
+Within digital activity, the share in production was dominated by demand for Support services (43.8%), Telecommunications (23.7%) and Wholesale e commerce (17.8%) (Graph 3).
+In 2018 19, the Support services share of total digital activity value added increased by 0.7% and the Telecommunications share of total digital activity value added decreased by 1.2%.
+In 2018 19, digital activity expanded by 1.9% in current price terms, below aggregate value added growth for the total economy (5.9%) (Graph 4).
+Within digital activity, the largest increases were in Hardware (6.4%) and Support services (6.0%), which experienced similar growth to the total economy.
+Growth in Support services continues to be driven by demand for both computer systems design related services and data processing storage services.
+Digital media showed a reduction of 12.5% driven by a decrease in free to air radio and tv broadcasting services, which was partially offset by an increase in internet publishing and broadcasting services.

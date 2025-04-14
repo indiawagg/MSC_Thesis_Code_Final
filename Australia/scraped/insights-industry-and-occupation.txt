@@ -1,0 +1,32 @@
+Date:
+2020-06-25
+Article Title:
+ Insights into industry and occupation
+
+Article Content:
+Between March and early May 2020, Australia saw unprecedented change in the labour market as a result of restrictions to slow the spread of COVID 19 and government support packages to mitigate its impact on individuals, households and businesses. These interventions affected industries and occupations to differing extents and in different ways.
+Industry and occupation information for a person’s ‘main job’ is collected in the Labour Force Survey in February, May, August and November. This article presents insights into the changes between February and May.
+Since February, employment has decreased by over 800,000 people, or 6.5% (in seasonally adjusted terms), while total hours worked has decreased by 9.4%.
+Chart 1 shows the movements in employment and average actual hours worked per person across industry divisions between February and May. The largest falls in employment were in the Arts and recreation services (down 35%) and Accommodation and food services (down 31%) industries. However, the decrease in average actual hours worked was largest in Accommodation and food services (down 24%).
+The large decrease in employment in these industries was broadly consistent with decreases in payroll jobs from , sourced from Single Touch Payroll data from the ATO. Between 14 March and 30 May, payroll jobs decreased by 29% in Accommodation and food services and by 26% in Arts and recreation services.
+Labour Force Survey data showed double digit falls in employment in Information media and telecommunications (down 15%), Other services (down 11%) and Administrative and support services (down 10%).
+In contrast, there was a large increase in employment in Electricity, gas, water and waste services (up 24%), although this did not lead to an increase in average actual hours worked (and Electricity, gas, water and waste services is a relatively small employing industry).
+There were smaller increases in Agriculture, forestry and fishing (up 9%), Financial and insurance services (up 4%) and Public administration and safety (up 3%).
+There were also pronounced differences between occupations. Chart 2 shows that Community and personal service workers experienced the largest decrease in both employment (down 22%) and average actual hours worked (down 9%) between February and May.
+While Community and personal service workers, Labourers and Sales workers had much larger decreases in employment than average actual hours worked, the remaining occupations recorded larger decreases in average actual hours worked.
+There were particularly large decreases in the number of Hospitality workers (down 54%) and Sports and Personal service workers (down 42%), which are two sub categories of Community and personal service workers who are commonly found in the Accommodation and food services and Arts and recreation services industries. There was a large decrease hours worked, with total hours worked reducing by two thirds in both occupations.
+Chart 3 shows that Other services and Arts and recreation services had particularly large increases in the number of people within those industries who worked zero hours between February and May 2020.
+In addition to looking at net changes in the number of people employed in each industry and occupation, it is also useful to look at the flows out of each industry and occupation. The following analysis draws upon data from .
+Chart 5 shows, for people employed in each industry in February, the proportion who were:
+In Arts and recreation services and Accommodation and food services, the two industries most heavily impacted by COVID 19, a relatively large proportion (around one third) of people employed in these industries in February were no longer employed in May. Interestingly, of those remaining in employment in May, there was a noticeably higher proportion of people from the Arts and recreation services industry who had changed industries, compared to Accommodation and food services.
+The Wholesale trade industry is a notable outlier within this data. Only 52% of people employed in Wholesale trade in February remained employed in Wholesale trade in May. However, the proportion of people employed in Wholesale trade who remained employed in May was 94%, indicating that most of the people no longer working in Wholesale trade were able to move into a job in a different industry. While many people moved out of Wholesale trade (predominantly into Manufacturing or Retail trade), a large number also moved into Wholesale trade, mainly from Manufacturing and Transport, Postal and Warehousing.
+  still employed in the same industry in May;
+  still employed in May but in a different industry; or
+  no longer employed in May.
+Overall, the flows out of employment and the proportion of people changing industry were higher in 2020 than 2019.
+Chart 6 shows that 21% of people who were employed as Community and personal services workers in February were no longer employed in May. There were also a relatively high proportion of people employed as Labourers (16%) and Sales workers (16%) who were no longer employed in May.
+Managers were the most likely to change occupations over the period, with a quarter of Managers in February employed in a different occupation in May (predominantly Professionals or Clerical and administrative workers).
+While there was a broadly similar level of churn between occupations to that seen in early 2019, there was:
+  a higher proportion of people moving out of employment for all occupations in 2020 compared to 2019; and
+  a lower proportion of people employed as Managers, Sales workers or Labourers who moved into another job in 2020 compared to 2019.
+For further information, please email.

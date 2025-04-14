@@ -1,0 +1,30 @@
+Title: Ruim 2 duizend bedrijven in 2021 de dupe van ransomware
+Date: 2023-08-03 22:00:00 UTC
+
+Lead Text:
+                Ruim 2 duizend bedrijven met minstens 2 werkzame personen zijn in 2021 slachtoffer geworden van afpersing met behulp van gijzelsoftware (ransomware). Gemiddeld betaalde 11 procent losgeld om weer toegang te krijgen tot de bedrijfsgegevens, 38 procent gaf aan dat er andere kosten zijn gemaakt. Daarnaast kregen 4 duizend zzp’ers te maken met datagijzeling, maar zij betaalden nauwelijks losgeld.
+            
+
+Article Content:
+Dat meldt het CBS in de vandaag verschenen .
+
+
+Bij een aanval met gijzelsoftware worden de ICT-systemen van een bedrijf of particulier geïnfecteerd met een computerprogramma dat de gegevens in het systeem versleutelt. Die zijn daarna niet meer toegankelijk voor de getroffenen. Door betaling van losgeld (ransom) is de versleuteling op te heffen.
+
+Grote bedrijven naar verhouding vaker getroffen
+
+Verhoudingsgewijs zijn grote bedrijven vaker slachtoffer dan kleine: 4 procent van de bedrijven met 250 of meer  kreeg in 2021 te maken met datagijzeling, tegen 0,5 procent van de bedrijven met 2 tot 10 werkzame personen.  vormden met 4 duizend getroffenen in absolute zin de grootste groep slachtoffers, maar het gaat daarbij om 0,3 procent van alle zelfstandigen zonder personeel.
+
+Van de getroffen kleine bedrijven (met 2 tot 10 werkzame personen) betaalde een relatief groot deel losgeld (14 procent). Bij grote bedrijven (met 250 of meer werkzame personen) ging het om ruim 4 procent. Overigens heeft betaling lang niet altijd het verlangde resultaat. In meer dan de helft van de gevallen werden de bedrijfsgegevens niet of maar gedeeltelijk vrijgegeven. Dit kwam vooral voor bij de kleine bedrijven.
+
+Losgeld bij kleine bedrijven soms meer dan helft omzet
+
+In meer dan de helft van de betalingen bedraagt het losgeld meer dan de helft van de jaaromzet van het bedrijf. Dit hangt samen met het feit dat het voornamelijk kleine bedrijven zijn die losgeld betalen. Zij zetten over het algemeen minder om, zodat het losgeld als percentage van de omzet hoger uitvalt. Na zzp’ers, die nagenoeg nooit losgeld betalen, betalen bedrijven met 250 of meer werknemers in dienst het minst vaak. Bij 1 op de 4 grote bedrijven die losgeld betalen, gaat het om 1 tot 2 procent van de omzet.
+
+
+
+Vaker andere kosten dan losgeld
+
+Van de bedrijven met 2 of meer werkenden die te maken kregen met een ransomware-aanval, gaf 38 procent aan andere kosten gehad te hebben, bijvoorbeeld voor het vervangen van ICT-systemen of het inhuren van ICT-specialisten. Ook leden ze soms omzetverlies, doordat het bedrijf tijdelijk niet volledig functioneel was. Verder schakelde 39 procent de hulp in van een cybersecuritybedrijf en 13 procent (ook) van de politie.
+
+

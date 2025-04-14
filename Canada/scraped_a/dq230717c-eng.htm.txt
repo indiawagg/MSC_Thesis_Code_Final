@@ -1,0 +1,12 @@
+Date:
+2023-07-17
+Article Title:
+The Daily — Spatial measures of access by public transit and active transportation
+Article Content:
+Released: 2023 07 17
+Over the last year, Statistics Canada and Infrastructure Canada collaborated on the creation of a set of spatial measures of access to services and amenities using active and public modes of transportation. 
+The Spatial Access Measures are a set of indicators that quantify the ease of reaching destinations of varying levels of attractiveness from an origin dissemination block. In total, the Spatial Access Measures contain 28 measures of access for seven types of amenities and four modes of transportation.
+The amenity categories within the Spatial Access Measures include primary and secondary educational facilities, postsecondary educational facilities, health care facilities, places of employment, grocery stores, cultural and arts facilities, and sports and recreational facilities.
+The four modes of transportation for each amenity are access via public transit during peak hours, access via public transit during off peak hours, access via cycling and access via walking.
+The Spatial Access Measures are now available online.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

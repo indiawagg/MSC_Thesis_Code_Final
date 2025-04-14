@@ -1,0 +1,13 @@
+Date:
+2021-05-10
+Article Title:
+ Supermarket spending, March 2021 - Supplementary COVID-19 analysis
+
+Article Content:
+To enhance the understanding of the economic impacts of COVID 19, scanner data was used to conduct analysis on supermarkets and grocery stores spending.
+The data presented is in original terms, and may differ from the data presented in the Retail publication. This is because scanner data is only collected from large providers and, to enhance this analysis, certain product types sold by supermarkets are excluded.  Please note, analysis of annual data has not been adjusted for the leap year in 2020.
+For the purpose of this analysis, supermarket products were split into three categories. Perishable goods contain fresh food items such as fruit, vegetables, meat and dairy. Non perishable goods contain food items with a long shelf life such as flour, sugar, canned fruit, canned vegetables, canned and dry mix soups, confectionary and long life milk products. All other products contain non food items such as cleaning products, medicinal products, toiletries and toilet paper.
+Turnover rose for Perishable goods (8.1%), Non perishable goods (14.8%) and All other products (8.0%) in March 2021 compared to February 2021, in original terms.
+Annually, Perishable goods fell  10.1%, Non perishable goods  17.4%, and All other products fell  19.4%. This follows a period of strong annual rises for all three categories and but the dramatic change in annual sales reflects the sharp rise in March 2020 due to stockpiling associated with the first nationwide lockdown. 
+Annual revenue percentage movements at the capital city, state and territory level are showing falls across all of Australia. Of the capital cities, Melbourne ( 20.7%) and Sydney ( 20.6%) recorded the largest annual falls. For the rest of state and territory areas, Rest of Northern Territory ( 12.3%) and Rest of Victoria ( 11.5%) recorded the largest annual falls.
+Monthly revenue percentage movements at the capital city, state and territory levels are showing rises across all of Australia. Of the capital cities, Perth (12.4%) and Brisbane (12.2%) recorded the largest monthly rises. For the rest of state and territory areas, Rest of South Australia (14.4%), and Rest of Northern Territory (12.6%) recorded the largest monthly rises. Lockdown restrictions were re instated for Greater Brisbane on the 29th of March following an increase in community transmissions. Stronger rises were observed in Queensland in comparison to other states and territories in the later weeks of March 2021

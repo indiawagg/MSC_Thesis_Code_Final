@@ -1,0 +1,11 @@
+Date:
+2024-09-12
+Article Title:
+The Daily — Business Ownership Diversity Dashboard
+Article Content:
+Released: 2024 09 12
+Today, the Centre for Special Business Projects released the ''Business Ownership Diversity Dashboard." This dynamic dashboard covers the entire population of business owners in Canada and provides equity and diversity indicators including visible minority status, age, immigrant status, Indigenous peoples, and gender.
+These statistics are based on a recent data linkage of Statistics Canada's Business Linkable File Environment with the Census of Population and the Longitudinal Immigration Database. Linking social data with business data allows for the examination of equity and diversity indicators by business variable dimensions such as location of business operations, revenue size, employee size, or industry sector.
+This dashboard supports Statistics Canada's ongoing efforts to provide disaggregated data to better understand diversity and inclusion related statistics.
+The interactive dashboard, "Business Ownership Diversity Dashboard" (Catalogue number71 607 X), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

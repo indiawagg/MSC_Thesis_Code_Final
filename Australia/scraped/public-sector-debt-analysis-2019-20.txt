@@ -1,0 +1,36 @@
+Date:
+2021-04-27
+Article Title:
+ Public sector debt analysis 2019-20
+
+Article Content:
+  All Australia net public sector debt reached $637.9 billion in 2019 20.
+  As a percentage of GDP, All Australia net public sector debt has risen from a low of  6.4% in 2007 08 to a high of 32.1% in 2019 20. 
+  Commonwealth net public sector debt increased 21.9% in 2019 20.  The main components of this were debt securities and provisions for defined benefit superannuation.
+  State net public sector debt increased 142.9% in 2019 20. The main components of this were provisions for defined benefit superannuation and loans.
+  State percentage share of All Australia net public sector debt increased, with all states and territories rising in 2019 20 except for Western Australia.
+Net public sector debt for the All Australia general government sector in 2019 20 was $637.9 billion, an increase of $161.0 billion (33.8%) since 2018 19.  It has increased every year from a net lending position of $75.7 billion in 2007 08, which coincides with the beginning of the Global Financial Crisis (GFC). 
+Net public sector debt as a percentage of GDP can be used as an indicator of the ability of governments to make future payments on its debt. All Australia net public sector debt as a percentage of GDP has increased rapidly in 2019 20 to 32.1%, as a result of all levels of Government responding to the health and economic impacts of COVID 19.
+In 2019 20 All Australia net public sector debt was comprised of:
+The Commonwealth sector’s share of net public sector debt is at its lowest since 2013 14 while that of the State sector is at its highest.
+  Commonwealth sector net public sector debt contributed 87.0%, a fall from 95.8% in 2018 19;
+  State general net public sector debt contributed 15.6%, an increase from 8.2% in 2018 19;
+  Local general net public sector debt contributed  3.0%, an increase from  4.1% in 2018 19; and
+  Control not further defined (c) net public sector debt contributed 0.3%, an increase from 0.1% in 2018 19.
+Commonwealth net public sector debt increased $99.5 billion (21.9%) to $553.4 billion in 2019 20. By comparison, Commonwealth net public sector debt increased $38.7 billion during the GFC, from 2007 08 to 2008 09.
+As a percentage of GDP, Commonwealth net public sector debt has risen annually from a low of  4.5% in 2007 08 to a high of 27.9% in 2019 20.
+  The net public sector debt position for debt securities has been rising since 2007 08 and in 2019 20 increased $106.4 billion (20.3%) to reach $631.6 billion. This is due to significant amounts of debt securities being issued by the Commonwealth government to fund expenditure to support the economy during the COVID 19 pandemic.
+  The net public sector debt position for Provisions for defined benefit superannuation has seen significant increases over the past two years – $101.7 billion (32.4%) in 2018 19 followed by a further $14.9 billion (3.6%) in 2019 20.  The increases are largely due to increases in life expectancy of defined benefit superannuation members, as well as reductions in the bond rate.
+Total State net public sector debt increased $59.6 billion (142.9%) in 2019 20 to reach $101.3 billion, its highest level since 1998 99, the beginning of the time series on an accruals basis. 
+Western Australia’s net public sector debt decreased $1.3 billion in 2019 20. This was primarily driven by a range of COVID 19 impacts (such as early border closures to avoid lockdowns) and other non COVID factors such as an increase in royalties from iron ore and transitional GST funding.
+  All States increased their level of net public sector debt during 2019 20, except for Western Australia.
+  The largest annual increases were in New South Wales ($23.7 billion), Victoria ($21.1 billion) and Queensland ($11.6 billion).
+The ratio of State net public sector debt to GSP can be used as an indicator of the ability of State and Territory governments to make future payments on their debt. 
+  Northern Territory had the highest net public sector debt to GSP ratio of 15.4%, followed by Victoria (8.5%) and South Australia (8.3%).
+  Australian Capital Territory had the lowest net public sector debt to GSP ratio of  3.9% followed by Tasmania ( 0.9%).
+ 
+  The net public sector debt position for total state provisions for defined benefit superannuation rose by $25.5 billion (17.6%) in 2018 19 to $170.4 billion followed by a more modest increase in 2019 20 of $2.4 billion (1.4%).  As seen in the Commonwealth, the decrease in the discount rate has led to a higher valuation of superannuation liabilities for the State general government sector.
+  The net public sector debt position for total state loans and placements in 2019 20 increased $40.3 billion (35.5%) to $153.7 billion. This is indicative of the increase in state borrowings by their respective treasuries from the Public Financial Corporation (PFC) sector as a method of maintaining funding.
+(a) The focus of this article will be on the L2 measure of debt which is the measure most comparable to government reporting of net debt under the UPF.  It comprises debt securities, loans, Special Drawing Rights and currency and deposits.
+(b) Based on GDP at current prices as published in , December Quarter 2019 (Cat. no. 5206.0), Table 36 Expenditure on Gross Domestic Product (GDP), Chain Volume Measures and Current Prices, Annual; and Gross State Product (GSP), current prices, as published in the annual release of , Table 1 Gross State Product, Chain Volume Measures and Current Prices.
+(c) Control n.f.d. refers primarily to public universities, as per the AGFS15 Concepts, Sources and Methods.

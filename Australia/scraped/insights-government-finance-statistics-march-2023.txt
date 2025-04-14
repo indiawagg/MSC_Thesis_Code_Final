@@ -1,0 +1,79 @@
+Date:
+2023-06-06
+Article Title:
+ Insights into Government Finance Statistics, March 2023
+
+Article Content:
+Government fiscal support in March quarter 2023 fell. The main contributors were falls in:
+  energy and electricity assistance across states (a) following their introduction in the September and December 2022 quarters, as average wholesale electricity prices decreased from historically elevated levels (b)
+  COVID 19 health response and support compared to the March quarter 2022, as pandemic response payments including business support programs and support payments to households ceased as restrictions and lockdowns ended
+  Commonwealth and state government disaster recovery payments following the impact of higher flooding and storm events in the prior quarters.
+  ‘States’ refers to the state sector in macroeconomic statistics, which covers all eight state and territory jurisdictions in Australia
+  Australian Energy Market Operator, Quarterly Energy Dynamics, Q1 2023
+  Interest revenue and expenses of all levels of general government increased, due to the Reserve Bank of Australia raising the cash rate target by a total of 50 basis points in March quarter 2023 to 3.6%.
+  Stamp duties on conveyances revenue fell in most jurisdictions, as sale volumes and dwellings prices fell over the past 12 months (c).
+  Taxation revenue rose from March quarter 2022, due to increased personal and company income tax, and payroll tax. This was partially offset by weakness in stamp duties on conveyances, due to a weaker property market.
+  The increase in personal income tax and payroll taxes across most states and territories was driven by low unemployment and reduced impacts from COVID 19 restrictions.
+  The cessation of payroll tax waivers implemented by many states during the COVID 19 pandemic also contributed to the through the year increase in payroll taxes.
+  CoreLogic Monthly Housing Chart Pack, April 2023
+Total Commonwealth and state health expenses fell $0.5 billion from December quarter 2022 and $0.6 billion through the year from March quarter 2022. The main contributors were falls in:
+COVID 19 vaccinations, COVID testing, availability of free rapid antigen tests, and other health benefits in the March quarter 2023
+reported COVID 19 cases leading to fewer hospitalisations and reduction in health response by Commonwealth and State Governments in the March quarter 2023
+the availability of oral COVID 19 antivirals treatments through the Pharmaceutical Benefits Scheme compared to the December quarter 2022.
+  COVID 19 vaccinations, COVID testing, availability of free rapid antigen tests, and other health benefits in the March quarter 2023
+  reported COVID 19 cases leading to fewer hospitalisations and reduction in health response by Commonwealth and State Governments in the March quarter 2023
+  the availability of oral COVID 19 antivirals treatments through the Pharmaceutical Benefits Scheme compared to the December quarter 2022.
+In response to record average wholesale electricity prices through June and September quarters 2022 (d), Commonwealth and state governments provided electricity bill relief through:
+State energy and electricity assistance (e) fell 29.6% from the December quarter 2022, after these rebates and other energy assistance peaked during the September quarter 2022.
+Pressure on power prices eased in March quarter 2023 following the introduction of caps on thermal coal prices and black coal generators.
+Recently announced Commonwealth and state 2023 24 Budgets continued to focus on higher inflation and cost of living pressures. Budget announcements outlined further energy and electricity assistance through the 2023 24 financial year.
+Australian Energy Market Operator, Quarterly Energy Dynamics, Q1 2023
+Includes social benefits to households in goods and services, subsidies, and current monetary transfers to households
+  subsidisation programs to corporations
+  social benefits to households
+  current monetary transfers to households.
+  Australian Energy Market Operator, Quarterly Energy Dynamics, Q1 2023
+  Includes social benefits to households in goods and services, subsidies, and current monetary transfers to households
+Both the public and private sector experienced tight labour market conditions due to continued low unemployment (f). Increased inflation also applied upwards pressure on private and public wages with rises in the cost of living.
+Public sector wages rose (g) due to:
+The strong labour market and improvements in business conditions due to ceased restrictions and lockdowns increased taxation revenue through the year for Commonwealth and state governments:   
+The cessation of payroll tax waivers implemented by many states during the COVID 19 pandemic also contributed to the through the year increase.
+  wage bonuses, pay rises, and backpay across several states
+  newly negotiated enterprise bargaining agreements and changes to public sector wage caps.
+  Personal income tax rose 14.1%
+  Payroll taxes rose 18.3%
+  Labour Force, Australia, March 2023
+  Wage Price Index, Australia, March 2023
+Assistance to households impacted by pandemic related lockdowns, COVID 19 cases, and natural disasters fell 72.1% (down $2.1 billion) from March quarter 2022 (h).
+Pandemic response payments fell significantly as restrictions and lockdowns ended.
+Severe flooding events continued across several states in March quarter 2023, however flooding was not as widespread as the December quarter 2022. Government disaster recovery payments and other support from the Commonwealth and states decreased from December quarter 2022.
+Includes current transfers to households for social exclusion n.e.c., natural disaster relief, and social protection n.e.c.
+  Includes current transfers to households for social exclusion n.e.c., natural disaster relief, and social protection n.e.c.
+The ABS continues to determine the appropriate classification for new government policies. These classifications are based on well established conceptual frameworks (i), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to Government Finance Statistics (GFS) and the National Accounts (NA).
+These policies are grouped into five broad categories (j):
+The following presents a summary of the ABS classification of major new government policies that began during December quarter 2022 and March quarter 2023 (k).
+  Frontline services
+  Provision of assistance to households
+  Provision of assistance to corporations, unincorporated enterprises, and non profit institutions
+  Capital injections, establishment of new, or extended, lending facilities and provision of guarantees
+  Changes in tax and non tax revenue
+These frameworks are supported by international standards such as the International Monetary Fund (IMF) Government Finance Statistics Manual 2014 (GFSM 2014) and the System of National Accounts 2008 (2008 SNA)
+The categories are broadly based on the recommendations in “COVID 19: How to Record Government Policy Interventions in Fiscal Statistics” (IMF, 2020)
+This table summarises key policies with an impact on the macroeconomic accounts and does not cover every specific government policy in Australia
+NA includes the gross domestic product (GDP) accounts, which are measured using the expenditure approach (GDP (E)), the income approach (GDP (I)) or the production approach (GDP (P)).  NA also includes income accounts, capital accounts, financial accounts, and balance sheets
+  These frameworks are supported by international standards such as the International Monetary Fund (IMF) Government Finance Statistics Manual 2014 (GFSM 2014) and the System of National Accounts 2008 (2008 SNA)
+  The categories are broadly based on the recommendations in “COVID 19: How to Record Government Policy Interventions in Fiscal Statistics” (IMF, 2020)
+  This table summarises key policies with an impact on the macroeconomic accounts and does not cover every specific government policy in Australia
+  NA includes the gross domestic product (GDP) accounts, which are measured using the expenditure approach (GDP (E)), the income approach (GDP (I)) or the production approach (GDP (P)).  NA also includes income accounts, capital accounts, financial accounts, and balance sheets
+ (September 2022)
+ (June 2022)
+ (March 2022)
+ (December 2021)
+ (September 2021)
+ (June 2021)
+ (March 2021)
+ (December 2020)
+ (September 2020)
+ (2021 22)
+ (2020 21)
+ (2019 20)

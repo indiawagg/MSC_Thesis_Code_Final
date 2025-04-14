@@ -1,0 +1,11 @@
+Date:
+2024-06-18
+Article Title:
+The Daily — Consumer Price Index: New basket weights, 2024 update
+Article Content:
+Released: 2024 06 18
+Updated basket weights for the goods and services in the Consumer Price Index (CPI), representing consumer spending patterns in 2023, are now available. The 2023 basket will combine expenditure data from the Household Final Consumption Expenditures, the Survey of Household Spending and alternative data sources to account for shifts in spending. 
+The updated weights will be incorporated into the May 2024 CPI, which will be released on June 25, 2024. They will replace the previous weights, which were based on 2022 expenditure patterns.
+The weight reference period for the new basket is 2023. The index base period for the all items CPI remains 2002=100.
+For more detailed information, consult the document entitled "An Analysis of the 2024 Consumer Price Index Basket Update, Based on 2023 Expenditures." 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,24 @@
+Date:
+2023-12-05
+Article Title:
+ Insights into Government Finance Statistics, September 2023
+
+Article Content:
+This Insights article compares data from Government Finance Statistics across September quarters for the Commonwealth, states (a), and local general government sector. All data are current prices, original series.
+Total general government expenditures increased 6.9% through the year to September 2023. This was an increase of $15.5 billion to $241.1 billion.
+The main contributors to the rise in total general government expenditure (b) were rises in:
+Each area of expenditure is considered in more detail further down this article.
+  benefits to households in goods and services
+  compensation of employees
+  acquisitions of new non financial assets.
+Commonwealth Social Benefits to Households increased by 23.1 per cent from the June quarter and 15.1 per cent through the year. This growth was driven in part by increases in Aged Care subsidies, Child Care subsidies, and NDIS services; and offset by falls in other expenses such as pharmaceutical and medical benefits.  
+ 
+State Social Benefits to Households increased by 32.1 per cent from June quarter 2023 and 7.9 per cent through the year. This growth was driven in part by increases in state energy rebates (including for example the Energy Bill Relief program) and transport concessions.
+Total general government CoE (superannuation expenses, wages and salaries, and other employee expenses) decreased by 1.8 per cent from the June quarter and increased 6.2 per cent through the year to September 2023. The through the year increase was driven by both wage increases (from newly negotiated enterprise bargaining agreements and changes to public sector wage caps) and higher levels of staffing for frontline services in health, education and public order and safety.
+State government CoE grew 6.4 per cent ($2.4 billion) through the year and was the largest contributor to total growth, with around 80 per cent of total public sector employees employed in state government (c). In addition to this Commonwealth increased 6.2 per cent ($630 million) and universities 7.8 per cent ($370 million).
+The total general government acquisition of new assets rose 15.3 per cent ($2.9 billion) through the year to September 2023, with increases across all sectors of general government. The largest contributor to growth was State and local general government (S&L GG) which rose 15.5 per cent ($2.3 billion) over the same period. Increases in S&L GG investment in new assets were driven by road, rail, health, and education projects across New South Wales, Victoria, and Queensland.
+Commonwealth general government investment in new assets rose 8.9 per cent ($0.3 billion) through the year to September 2023. The main contributors to this rise were investment in Defence projects, machinery and equipment, and buildings.
+  States refers to the state sector in macroeconomic statistics, which covers all eight state and territory jurisdictions in Australia.
+  Expenditure is the sum of GFS expenses and the net acquisition of non financial assets. GFS expenses are decreases in net worth from transactions.
+  Employment and Earnings, Public Sector, Australia, 2021 22.
+The ABS acknowledges the continued support of the Department of Finance, State Treasury Departments, universities, and public non financial corporations in enabling the ABS to produce Government Finance Statistics.

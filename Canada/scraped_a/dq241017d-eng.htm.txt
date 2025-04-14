@@ -1,0 +1,13 @@
+Date:
+2024-10-17
+Article Title:
+The Daily — Research and development in Canadian industry: Intellectual property, 2022 (final)
+Article Content:
+Released: 2024 10 17
+In 2022, businesses in Canada that were engaged in research and development (R&D) activities reported technology receipts of $13.0 billion from the sale of software related products, technical assistance and know how, and intellectual property. This represents an increase of 46% (+$4.1 billion) from 2021 ($8.9 billion). By contrast, payments to purchase intellectual property, software, and technical assistance and know how by R&D active businesses were unchanged at $2.2 billion.
+The rise in receipts was primarily driven by software related transactions, which increased $3.0 billion from 2021 to $9.5 billion in 2022 ($8.4 billion from the sale of original software and $1.1 billion from the sale of off the shelf software). This was followed by sales of technical assistance and know how ($2.1 billion) and intellectual property ($1.4 billion). 
+Payments for intellectual property amounted to $1.1 billion in 2022, half of the $2.2 billion spent on total technology purchases. Intellectual property payments surpassed purchases of software ($752 million) and technical assistance and know how ($409 million). These intellectual property payments were attributed to the use of patents, copyrights, trademarks, industrial design, and integrated circuit topography. The largest shares of intellectual property payments were for the use of trademarks ($676 million) and patent protected ideas ($330 million).
+In terms of domestic and international flows of funds for technology payments, receipts from sales to organizations outside Canada reached $10.1 billion in 2022, far surpassing the $1.5 billion in payments to foreign organizations. This resulted in a substantial net inflow of $8.6 billion in 2022.
+Technology transactions can occur within a corporate network of related businesses or with entirely unrelated businesses or organizations. In 2022, receipts came predominantly from sales to unaffiliated organizations, totalling $10.0 billion compared to $3.0 billion from affiliated companies. In contrast, payments were evenly divided by business affiliation, with $1.1 billion going to affiliated businesses, and the same amount going to unaffiliated businesses.
+The new interactive dashboard "Characteristics of research and development in Canadian industry" (Catalogue number71 607 X) is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,216 @@
+Date:
+2022-11-22
+Article Title:
+ ANZSCO maintenance strategy: core components
+
+Article Content:
+The ABS and Stats NZ have performed minimal revision of the Australian and New Zealand Standard Classification of Occupations (ANZSCO) over the last 20 years. The classification no longer reflects the changes in the labour market caused by emerging, declining and evolving occupations. With the 2021 and 2022 ANZSCO updates, the ABS demonstrated that a targeted and user focused approach could be applied to maintaining official statistical classifications.
+This strategy draws from, and expands upon, this pioneering work. It outlines how more frequent and timely updates can be made to ensure ANZSCO reflects the contemporary labour market.
+This strategy presents a cyclical maintenance model that balances stability of time series data with the need to reflect ongoing changes to the labour market. The model achieves this balance by separating minor updates, to be released annually, and major updates, to be released every five years. This cycle supports timely adoption by the Census of Population and Housing (Census).
+This strategy also presents two frameworks to support ongoing maintenance. Reviewers will prioritise requests for change using the first framework. The second framework focuses on the assessment of the suitability of supplementary data sources to support improved analytical methods.
+The ABS demonstrates a commitment to transparent consultation by locating biannual consultation rounds and communication at the heart of the maintenance strategy. This strategy also recognises the importance of stakeholders’ ongoing input.
+This strategy will continue to be shaped by the stakeholder engagement from the comprehensive review and update being undertaken over the next two years. A final version of this maintenance strategy will be released in early 2025.
+The Australian and New Zealand Standard Classification of Occupations (ANZSCO) provides the basis for standardised collection, analysis, and dissemination of occupation data for Australia. It is an integrated framework for storing, organising, and reporting occupation related information in both statistical and other analytical applications. Census, Labour Force Surveys (LFS), Employee Earnings and Hours (EEH), and other ABS surveys use ANZSCO for measuring and understanding the Australian labour market.
+The ABS and Stats NZ jointly developed the classification in 2006 when the Australian and New Zealand occupation classifications were combined to form the ANZSCO First Edition. Since then, ANZSCO has only undergone minor revisions in 2009, 2013 and 2019 to address selected emerging occupations, specialisations, and region specific issues. It remains largely out of date compared to the current labour market.
+In 2021, the ABS trialed a new, targeted approach to updating ANZSCO, designed to deliver more regular and timely future updates. The ABS released targeted updates in November 2022 focused on construction related trades and emerging occupations.
+In March 2022, the Australian Government announced a significant investment as part of the 2022 23 Budget to undertake the first comprehensive update since ANZSCO’s formation in 2006. The ABS will release this update towards the end of 2024. The ANZSCO update will transition into an annual, ongoing maintenance model from 2025.
+In June 2022, the ABS consulted on the core components of a strategy for annual, ongoing maintenance of ANZSCO. The ABS received feedback from industry, government, and academia. Contributors gave unanimous support to ongoing, annual maintenance. However, there were differing views on the details of the model, particularly around the prioritisation and frequency of major updates. The ABS has drawn from this feedback to enhance the core components of the annual maintenance strategy presented here.
+This strategy provides a roadmap for the ongoing maintenance of ANZSCO, to ensure official labour market statistics will provide occupation based data relevant to the contemporary Australian labour market.
+The ABS proposes two frameworks to address the issues related specifically to annual ANZSCO maintenance. The frameworks are discussed in  and . These frameworks and supporting components will be refined through the course of the comprehensive review and update. A timeline for development of the strategy is presented in Figure 1.
+Large but irregular updates to classifications are costly and limit the ability of the classification to reflect current or emerging trends in the labour market.
+The objective of the maintenance strategy is to provide for sustainable, ongoing maintenance, without compromising the accuracy of the classification. The strategy also aims to balance the need for timely revision with long term stability. Measures to ensure the long term stability of the classification include statistical balancing, and the application of repeatable decision making, and careful management of structural changes.
+The ABS is engaging with a range of key partners to develop a modern approach to updating ANZSCO and address the shortcomings of large scale, costly reviews. Through incremental, targeted review and updates, this strategy achieves the following objectives:
+The reviewers will limit annual changes to only those that do not affect time series. Changes that affect the scope and counts above the six digit occupation level will be stockpiled and implemented later in a one in five year release, timed to align with the Census. The ABS will draw on a prioritised set of submissions, data analysis, and structural review processes to ensure that all categories in the classification are reviewed by the end of the five year cycle. In this way, the ABS will ensure that each Census uses a contemporary version of ANZSCO which includes relevant updates to all levels of the classification’s hierarchy.
+  increased frequency of reviews to better identify emerging, evolving, and declining occupations
+  improved coherence and alignment to an increasingly dynamic labour market through collaborations with industry and government partners
+  improved evidence base for decisions by identifying and using new data sources and methods, including machine learning
+  effective management of impacts to time series and analyses of occupation data over time.
+The ABS and external stakeholders use ANZSCO to classify labour market data. The main purpose is to classify occupation statistics produced by the ABS through the Census, LFS, EEH, and other ABS surveys.
+Other organisations use ANZSCO to categorise and describe non statistical data to support policy development, design, and implementation. Targeted engagement with key stakeholders from these organisations has informed the development of this strategy, and specifically the model outlined in . Use cases can be categorised into three broad key areas, described below.
+The ABS, other government and non government organisations produce statistics on the labour market to support analysis and inform decisions. Examples of these include analyses of wages, availability of skills, career transitions, education requirements, areas of growth, unemployment and underemployment, and barriers to entry into the labour force. Labour market analysis plays a critical role in understanding current and emerging trends within the labour force. Labour market analysis underpins workforce planning, mobility, and the creation of educational pathways, including those aimed at reskilling. ANZSCO provides a skills based framework for categorising jobs, enabling assessments of labour market supply and demand, and the formulation of policy and program responses.
+Labour market analysts have indicated a particularly strong need for the ABS to adopt a balanced approach to annual maintenance. Ensuring consistency and stability of the classification for time series purposes is of paramount importance to limit costs and ensure coherency.
+One of the mechanisms for addressing skilled labour shortages is through skilled migration. The Department of Home Affairs grants visas to foreign workers on the basis they qualify to work or train in an eligible skilled ANZSCO occupation. ANZSCO is a critical component in the development of the National Skills Commission’s (NSC) Skilled Migration Occupation Lists, which form the basis of government and employer sponsored visa programs. To ensure employers can respond to unmet labour demand through skilled migration, it is essential ANZSCO reflects the contemporary labour market.
+ANZSCO supports policies and programs that address skills shortages through education and training pathways. The NSC uses ANZSCO occupations to classify current and future demand through the Skills Priority List (SPL). Numerous entities in the education and training sector map courses to occupations within ANZSCO providing links between skills, qualifications, and occupational outcomes.
+The ANZSCO based SPL also plays a strong role in informing future investment in education and training development, as well as prioritising financial incentives for the provision of apprenticeships.
+Balancing the need for urgent changes with long term maintenance goals becomes more challenging with the introduction of annual, targeted updates. The ABS has developed a prioritisation framework to enable efficient delivery of the maintenance schedule and manage stakeholder expectations. Reviewers drew on several different prioritisation models in preparing this component. The framework proposes a set of factors (see Table 1) to enable the appropriate prioritisation and scheduling of review work.
+External ANZSCO users will be able to contribute to the review process by providing submissions during biannual consultation rounds. For more information on the consultation model see . The ABS will provide supporting material to guide users through the process required to make submissions. These supporting materials include prompts to provide information that can best assist reviewers to prioritise and action change requests. The current preferred platform for public consultation is the .
+Reviewers will assess new submissions against the prioritisation factors as soon as practicable after they are submitted. Reviewers will also reassess the priority of unresolved submissions towards the end of every year to inform the scope of the next year’s targeted update.
+The prioritisation framework guides the reviewers through an internal and repeatable process to achieve fair and consistent treatment of ANZSCO change requests. Reviewers must consider each prioritisation factor in Table 1 separately when prioritising changes. Minor changes will involve a small investment. However, considerable resources may be required to understand the effect and evidence base for major changes that could alter the structure of the classification above the occupation level.
+Participants bear the onus for providing information to support the ranking of submissions. The ABS will endeavour to supplement and verify the information provided in submissions wherever possible. However, due to resource constraints and limited subject matter expertise, this may not always be possible.
+Header 13: Benefits
+Header 13: Risk
+Header 13: Complexity
+Header 13: Urgency
+Header 13: Reach
+The ABS encourages users to provide an outline of the benefits of the proposal, including benefits that are non statistical. Clearly articulated benefits aligned to policy, program or statistical need will receive strong considerations during assessment.
+Reviewers will give strong consideration to requests that identify the risk(s) of negative impacts if the concerns raised in the submission are not addressed. Evidence of the risk will aid prioritisation. These risks could include outcomes that undermine confidence in ANZSCO and lead to poor decision making, as well as risks that could result in large economic impacts. Reviewers will consider the relative effect on small, but important, sectors of the labour market when considering this factor.
+The ABS strongly encourages users to declare any potential adverse effects from the changes they are requesting.
+Some requested changes may have dependencies on other elements of ANZSCO that need to be considered holistically. There may be complexity regarding implementation and use in labour market analysis. Complex change requests may require significantly greater stakeholder engagement and lead time. A complex change will consequently receive a lower ranking compared to an equally important but less complex change.
+The targeted maintenance strategy aims to achieve a comprehensive update of ANZSCO once every five years. All categories in the classification will be reviewed within the five year cycle, regardless of urgency. Submissions will increase in urgency as they age within the cycle. Other external drivers may increase the urgency. These could include policy drivers to address issues of national significance. The ABS will review the urgency, along with the other factors, at least once per year during annual priority review.
+Reach considers the number of users (individuals or groups) affected by the change, with the relative weight of the review increased by the number of beneficiaries. Submissions that affect a narrower segment of the labour market may not be prioritised over other submissions with far reaching impact.
+In addition to the five prioritisation factors, the ABS will also consider the following during the annual priority review:
+  the time since the area of classification was last reviewed
+  the holistic set of requests for the next annual cycle (to identify economies of scale).
+ANZSCO was developed from a bottom up clustering of self reported job descriptions based on the 2001 Census. Since its first edition in 2006, ANZSCO has only undergone periodic, targeted review. Census data remains the primary data source for review work and continues to inform decisions on classification updates, including minimum size thresholds for inclusion or exclusion of occupations and changes to the way occupations are described.
+The Census dataset has several limitations, most notably its five yearly frequency, seasonal bias, and inability to clearly delineate between some cross sectoral job titles (for instance, managers and public servants). The detailed data from Census is often only available to the reviewers when it is released publicly, approximately one year after collection. These issues with the timeliness of Census data will be further exacerbated with the adoption of the annual maintenance strategy.
+The ABS recognises that it is necessary to incorporate supplementary data sources (such as Personal Income Tax data or job advertisement data) and new methods into the traditional review process to ensure currency. Supplementation will improve the relevance, timeliness and alignment with labour market and other statistical and non statistical occupation classifications and lists.
+New data sources and methods provide opportunities to improve the way reviews are conducted, reduce cost, and mitigate any potential risks that accompany a targeted, user driven identification approach.
+The ANZSCO Data Source Suitability Framework serves to ensure that potential data sources are evaluated consistently with regard to their intended purposes, such as:
+The ABS has developed a set of criteria to assist assessment of potential data sources. These criteria are based on the quality dimensions codified in the . They guide reviewers through a framework that considers quality and usefulness to arrive at an overall assessment of suitability. Many data sources may provide useful insight into aspects of the labour market without being of high statistical quality. For instance, a dataset may only be suitable for qualitative research purposes or for representing a narrow sector of the labour market.
+The assessment against each dimension will feed into subsequent considerations around feasibility and value of using the data source, building the tools to transform and organise the data, and developing the analytical methods to extract actionable insights. Data source assessments will inform a recommendation, for instance, to commence a trial process or to reassess in 12 months when the data are considered more mature. Acquisition of any new data sources will be undertaken in accordance with ABS legislation, policy and processes.
+  ensuring skill levels requirements are current
+  reflecting the contemporary usage and understanding of titles, descriptions, and tasks
+  identifying and creating new occupations and specialisations, including the review of ‘not elsewhere classified’ categories
+  dividing categories with large populations to improve granularity
+  forecasting or modelling population counts to support review work
+  forward monitoring areas with high potential for change to inform future priorities.
+Reviewers will explore the application of new methods to enhance or replace existing qualitative and quantitative review processes. Examples of analytical approaches that will be explored as part of the ANZSCO maintenance strategy include:
+  natural language processing of unstructured data to support identification of groups for review and or to improve structure
+  similarity clustering of groups to identify new structures around emerging occupations (potentially including Sub Major, Minor and Unit Groups)
+  modelling to identify trends in counts of persons to provide near time insights to support decision making.
+Reviewers will use the data suitability framework to assess datasets against each suitability criterion and arrive at decision on the suitability of each data source based on that source’s specific purpose. Examples of these purposes include assessments of indicative size of a new occupation, identification of principal tasks, predominant skill level or licensing and qualification requirements). This allows that some data sources will only be suitable for narrow purposes while others will have broad and long term application.
+Early case studies indicate assessments may need to be staged, as the ability to assess the suitability of a data source without access to sample data is limited. An example of this staged assessment would be:
+Reviewers will continue to develop the processes for acquiring sample data and iterating the suitability assessment over the course of the current comprehensive review and update.
+Reviewers will explore the framework’s effectiveness for assessing unstructured or semi structured data, such as job advertisement data and sector specific data sources as well as more traditional survey and structured administrative datasets.
+  desktop research and initial approach to custodians to gain access to detailed metadata and sample data
+  assess the suitability and compare results with other equivalent data sources if available
+  procure long term access and incorporate these sources into standard review workflows.
+The ABS designed the update model to ensure that the highest priority areas of the classification are reviewed every year. The model ensures that all categories in ANZSCO are reviewed, at a minimum, every five years, and that a major change version is published in time to support adoption by the Census.
+Analyses of labour market trends are usually based on time series at the four digit (Unit Group) level. In order to preserve these series, the ABS will hold changes that are anticipated to require backcasting for release at the end of the cycle.
+Backcasting imposes substantial time and resource cost on the ABS and external users, and is unsustainable at high frequencies. The ABS will endeavour to balance the cost of backcasting with the need for changes to reflect the contemporary labour market. It should be noted that not all impacts to time series data will require backcasting in ABS official labour force statistics.
+This strategy will manage competing demands on ANZSCO to be coherent and contemporary.
+The ABS aims to ensure the classification reflects the contemporary Australian labour market without disrupting ANZSCO based time series. If changes are not able to be implemented by key users across government and industry, policy and program delivery will be undermined. To prevent scope from being affected, the ABS will limit annual changes to the occupation level (defined as ‘minor’ changes).
+Allowable annual changes include:
+These changes will not affect time series data at the Unit Group level. As a result, most data users will not see any change in their time series or data outputs apart from improved accuracy. The cost of implementation in systems and programs will be minimal and likelihood of adoption will be maximised.
+To meet the need of users, annual changes will include the creation of new six digit occupations, including from the ‘Not Elsewhere Classified’ occupations. This is particularly important for the users of ANZSCO that need accurate occupation level details to address undersupply. Minor changes will be released annually (see ). Minor changes represent the bulk of changes users will require within the five year cycle.
+  text only changes, such as the description of an occupation (at the six digit level)
+  retirement of an occupation (at the six digit level), provided records contributing to it continue to be coded to other occupations in the same Unit Group
+  splitting existing occupations, with and without retirement of the existing occupation, including ‘not elsewhere classified’ occupations, provided they remain within the same Unit Group.
+Through each of the first four years of the five year cycle, proposed changes that do not meet the definition of ‘minor’ would be considered ‘major’. Reviewers will stockpile major changes for broad consultation in the fifth year of the update cycle.
+Examples of major changes include:
+The end of cycle major release will be timed to support the five yearly Census. Data based on the latest major ANZSCO update will be available towards the end of the year following Census enumeration. This will ensure minimum delay between the major structural update and the availability of national statistics coded and classified to the new version.
+  an occupation change that significantly increases or decreases the scope of an existing Unit Group
+  structural changes to create or retire Major, Sub Major, Minor and Unit Groups
+  changes to ANZSCO’s conceptual basis.
+The types of changes permitted under the proposed model of minor or major updates are described in detail in . Changes that have an inconsequential effect on Unit Group statistics will be considered minor. As a result, they will be implemented on an annual basis without requiring backcasting for most time series outputs.
+Changes that affect statistics at the Unit Group level or above are considered major. Reviewers will stockpile and include these changes in the end of cycle major update.
+Stakeholders are concerned the model does not handle urgent and exceptional major updates outside of the end of cycle review. 
+Reviewers will monitor this issue through the course of the current comprehensive review and update. The ABS will track the statistical or policy impacts that could warrant an extraordinary major update.
+ABS collections (Census, LFS, EEH, and other ABS surveys) will implement the latest ANZSCO version as soon as practicable. The timing will vary depending on the lead time required for field testing and resources required to support the backcasting of breaking changes introduced in an end of cycle update.
+These collections all currently use an index based coder to automatically and manually code labour force question responses.
+As part of the comprehensive update, the ABS is developing a whole of government coding solution that will use machine learning. Making the coder service available to more users will streamline the adoption of updates. Until the machine learning based coder is available, the current index based coder will be updated and released annually.
+Changes to the coding index can impact the time series independently of changes to the classification itself. In particular, changes that have a measurable effect on statistics at the Unit Group level or above, may be stockpiled for inclusion in a major update.
+LFS will be the first to adopt both the annual and five yearly updates to the coding index. The minimum period to allow for dual coding and validation is six months. As Figure 2 in  shows, the January quarter of labour force data each calendar year will be published on the previous version of ANZSCO.
+Once adopted by LFS, the latest coder (minor or major version) is used by the ABS household surveys program. The ABS will use the latest major release version in the Census. This strategy minimises the delay between updates and the release of detailed national statistics coded and classified to the latest version of ANZSCO.
+How the updates are implemented by other government agencies, education providers and industry groups is outside the scope of this strategy. However, the ABS recognises that moving to an annual review model could impose significant challenges for users who implement policies which involve reliance on ANZSCO.
+The ABS will continue to collaborate with stakeholders to develop supporting material to complement classification releases. These materials will be included along with the existing suite of concordances published with every classification update.
+The five yearly update cycle will commence once the current comprehensive review and update of ANZSCO is completed and released at the end of 2024. Figure 2 describes the proposed timeline of the review cycle. This will be refined based on learnings through the comprehensive review and update. Please note that the actual release timeline for LFS may vary depending on the findings of annual benchmarking and modernisation processes.
+The targeted updates (2021 and 2022) and current comprehensive review and update will inform the communication plan that underpins the annual maintenance strategy. Transparency and active engagement will ensure that ANZSCO updates support diverse policy needs, whilst maintaining the integrity of the classification.
+The ABS is currently trialling the secure service of the ABS Consultation Hub to request and receive submissions as part of the comprehensive review and update. If successful, the ABS will adopt this consultation process when ANZSCO shifts to the ongoing maintenance model in 2025.
+The plan presents a biannual consultation process where the ABS will encourage users to submit change requests. Each round of public consultation will have a different focus, especially in the fifth year where major changes stockpiled across the previous four years will be integrated and presented for feedback. The timing and scope of public consultation will be further refined and made public in early 2025.
+The consultation model proposed to support more frequent updates to ANZSCO is shown in Figure 3, noting that the ABS welcomes submissions at any time.
+Header 28: Prioritise Submissions and Set Annual Focus
+Header 28: Scoping
+Header 28: Proposed Updates
+Header 28: End of Cycle
+The ABS will review submissions and determine the focus areas for the next year in the five year cycle in accordance with the framework set out in . The schedule of review work (or focus areas for review) will be released annually.
+In partnership with policy and industry leads, reviewers will develop a preliminary set of focus areas. Focus areas will be informed by previously prioritised submissions and the need to achieve full coverage of all categories in ANZSCO every five years. While the ABS will only implement minor changes in years one to four, submissions regarding major changes will be accepted and considered in year five of the cycle. This is intended to reduce provider burden by limiting the number of times ABS consults on an area of the classification.
+The ABS will seek feedback on proposed changes and any unintended or significant effects. In an annual update year, only minor changes will be presented for feedback. Stockpiled changes will be withheld until the end of the update cycle (year five).
+The fifth year contains two rounds of public consultation. The first round will present the set of stockpiled major changes from the previous four years of consultation. The second round will provide a final opportunity to validate the complete set of changes, incorporating the feedback from the earlier round before their release.
+The ABS will undertake targeted stakeholder consultation outside of the public consultation rounds as part of the reviewers’ work to develop proposed changes.
+In response to user feedback, ANZSCO will be released at the beginning of each year. The classification will be published on the ABS website with correspondences to the previous version of ANZSCO and the current version of the International Standard Classification of Occupations (currently ISCO 08). The correspondences will include richer provenance information than is currently provided. This information will reduce the burden on users in applying ANZSCO for their purposes. For example, provenance information can enhance the conceptual mapping of ANZSCO codes to educational courses. The ABS will continue to refine the release documentation to support user understanding and implementation.
+Figure 3 (in ) presents the proposed five year cycle including the implementation of the updates in Census and LFS data (noting the actual release timing is subject to annual benchmarking and modernisation processes).
+The first annual update (for calendar year one) will occur in late 2025 after the comprehensive review and update ends in 2024. Subsequently, three more annual updates will occur before the first major update, under the proposed strategy, is released at the beginning of 2030.
+The products released on an annual basis under the maintenance strategy will include:
+  updates to the current version of the classification
+  updates to the current ANZSCO coder (noting this will be superseded by a whole of government coding solution due to be delivered by the end of 2024)
+  provenance information, including sufficient explanation of the rationale for the change to support interpretation
+  correspondences to the previous versions of ANZSCO and the current version of ISCO
+  when applicable, updates to the conceptual underpinnings of the classification as outlined on the ABS website.
+The primary role of the governance structure will be to manage the risks introduced through a targeted (rather than comprehensive) maintenance model. The ABS will refine the governance structure based on the experiences from the comprehensive review and update.
+The Australian Statistician or their delegate has the authority to update official statistical classifications. To support decision making regarding changes, the delegate will use the insight and advice of reference groups formed from a panel of expert users and policy or program delivery areas.
+The Australian Statistician or their delegate will rely on additional processes including quality assurance undertaken by classification and user experts.
+Reviewers use decision trees as the primary tool to ensure the consistency of updates. Reviewers can use them to determine whether changes would violate the core requirement of exclusivity between groups.
+Decisions trees also introduce a minimum size threshold, which ensures that the ABS can produce reliable national estimates at the four digit Unit Group level in LFS statistics. These tools underpin the update model by increasing the objectivity of the review process and enabling consistent decision making.
+The principles of statistical classifications will continue to guide maintenance of ANZSCO, regardless of the increased frequency and targeted scope of updates. This is essential to maintaining the relevance of ANZSCO as Australia’s standard for classifying occupations.
+These principles require that ANZSCO be owned, helpful, representative, well structured, clearly defined, comparable and robust. They are described in detail in .
+Beyond the immediate priority of a comprehensive review and update, there is a need to ensure the ongoing maintenance of the classification. The ABS has outlined a strategy to maintain ANZSCO that balances the stability of time series data with the need to reflect contemporary changes in the labour market. The update model defines minor updates to be made annually, and major updates to be released every five years in time to support adoption by the Census.
+As noted throughout this strategy, the details of this new model reflect learnings from the targeted reviews of ANZSCO during 2021 and 2022 and dedicated use case workshops with stakeholders.
+The structure of ANZSCO has five hierarchical levels:
+Occupations are grouped to form Unit Groups, which are grouped to form Minor Groups. Minor Groups are grouped to form Sub Major Groups. Sub Major Groups are grouped to form Major Groups.
+  Major Group
+  Sub Major Group
+  Minor Group
+  Unit Group
+  Occupation.
+Header 36: Text Only Changes
+Header 36: Skill Level Changes
+Header 36: Created
+Header 36: Created from ‘Not Elsewhere Classified’
+Header 36: Retired
+Header 36: Split, retiring the original code
+Header 36: Split, without retiring the original code
+Header 36: Moved between Unit Groups
+The ABS rarely publishes statistics below the Unit Group level. Labour Force time series are produced at the Unit Group level. Changes to the time series outside of a scheduled major annual update can be prohibitively costly to backcast.
+As a consequence, the most restrictive requirement for a minor, annual updates is that changes cannot affect the Unit Group time series data. This largely limits minor annual updates to Occupation level changes.
+The changes that can be made to groups (which includes all levels of the ANZSCO hierarchy) are:
+Text only changes refer to changes in the descriptions and to selected attributes. Examples of selected attributes are tasks, specialisations, titles and alternative titles.
+Textual change improves visibility and reflect contemporary terminology to enhance the utility of the classification. Changes to codes and changes that affect the scope of Unit Groups or above fall outside the definition of text only. Text only changes can be made during a minor annual update.
+Occupations are grouped by skill level and skill specialisation. When an Occupation group is deemed to contains jobs at different skill levels, the ABS will likely create a new Occupation.
+Because predominant skill level defines each of ANZSCO’s Major Groups, the new Occupation may be classified in a different branch. In most cases, a skill level change will result in retirement or splitting of the original occupation.
+As a result, skill level changes will often result in changes to the scope of Unit Groups and be stockpiled for an end of cycle major update.
+This is where a group becomes warrants separate identification within ANZSCO, such as emerging occupations. Creating new Occupations is possible during a minor annual update as long as the scope of the parent Unit Group remains unchanged. In some cases, the creation of new groups will need to be required at a Unit Group level or above. These changes will be applied during a major, end of cycle update. 
+This is where Occupations are split from ‘Not Elsewhere Classified’ NEC categories. NEC occupation categories are often where emerging occupations will be included until they reach a size where they can be separately identified.
+Since they are ‘residual’ categories, NECs are often less specific, less homogeneous and harder to describe. They are often excluded from the skilled visa program and time series analyses.
+The ABS will perform a comprehensive review of all NECs every five year cycle.
+Where a group no longer describes a sufficient number of workers it may be retired, and the code discontinued. This commonly effects Occupations and less commonly Unit Groups.
+The remaining workers would be coded to another relevant group, most likely a ‘Not Elsewhere Classified’ (NEC) category. This is done to ensure a manageable, balanced classification. If the retirement of an Occupation does not affect the scope of its parent Unit Group, the change can be implemented during an annual minor update.
+This is where the original group and code is retired and new groups and codes are created. In most cases, splitting with retirement occurs at the Occupation level. Splitting and retiring the original code is done to meet demand for increased detail.
+If the new Occupation groups stay within the original Unit Group then the split can be made during a minor annual update.
+This is where groups are created within the same parent group without retiring the original category and code. Workers previously coded to the existing occupation are now coded to a new occupations within the same parent group. For example, of splitting without retirement is when a specialisation of an existing occupation is separately identified as a discrete occupation.
+Occupation splits without retirement that do not affect the scope of the Unit Group can be made during a minor annual update.
+There are constraints on the number of codes that can fit within a given Unit Group. As a result, some Occupation groups may change codes and Unit Groups without any conceptual change. These changes will have no significant impact on time series data at the Unit Group level (apart from a change in code).
+Header 37: Owned
+Header 37: Helpful for statistical analysis
+Header 37: Representative
+Header 37: Well structured
+Header 37: Clearly defined
+Header 37: Comparable
+Header 37: Robust
+Statistical classifications are ordered sets of related, mutually exclusive categories which should not exist in isolation from a supporting statistical standard. Statistical classifications allow data to be presented in a standard way by ordering data for specific subject matter needs, thereby enabling data coherence across statistical collections.
+Practicable   can be easily implemented in the real world
+Will be relevant for a period of time
+Can be used in a variety of applications
+Meets the needs of data collections, analysis, and dissemination simultaneously
+For a more detailed discussion on the principles and best practices for statistical classifications, see  on the United Nations Statistics Division website.
+  Has a custodian
+  Stakeholders have been documented and consulted with
+  Has a maintenance schedule
+  Meets statistical user needs
+  Has been tested
+  Allows for output that conforms to the ABS’s mission statement of accurate, reliable, relevant, and timely
+  Supports output of meaningful data for analysis
+  Results allow for extrapolation
+  Current and relevant
+  Provides a basis for explanations
+  As inclusive as possible of the units intended to be observed under the concept
+  Does not skew sample results
+  As statistically balanced as possible,   categories at the same level are similar in size
+  Flat or hierarchical
+  Arranged logically and sequentially
+  The classification is exhaustive of the units it is intended to cover.
+  Mutually exclusive categories at the same level are clearly defined and do not overlap with each other.
+  Uses a consistent conceptual basis
+  Can be used in the collection, production, and presentation of statistics
+  Uses numeric and/or alpha code identifiers
+  Scope, conceptual basis, and objectives are documented
+  Category names are precise, unique, and reflective of the category scope
+  Definitions are clear and unambiguous
+  Units being measured are defined
+  Uses standard international and/or ABS definitions where appropriate
+  All documentation relevant to the classification are consistent
+  Content of each category in the classification is clearly defined
+  Promotes international and national comparability or harmonisation
+  Correspondence to similar international and domestic classifications are available if applicable
+  Comparable over time – maintains time series
+  Comparable across collections

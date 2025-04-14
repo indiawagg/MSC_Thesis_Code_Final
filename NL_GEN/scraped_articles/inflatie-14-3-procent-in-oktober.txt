@@ -1,0 +1,42 @@
+Title: Inflatie 14,3 procent in oktober
+Date: 2022-11-08 05:30:00 UTC
+
+Lead Text:
+                Consumentengoederen en -diensten waren in oktober 14,3 procent duurder dan in dezelfde maand een jaar eerder, meldt het CBS. In september was de inflatie 14,5 procent. De prijsontwikkeling van energie had een neerwaarts effect op de inflatie, voeding zorgde voor een verhogend effect. 
+            
+
+Article Content:
+[video: https://www.cbs.nl/nl-nl/video/452c50a7ebc3457e957d2bafe01d840d]
+Het CBS publiceert naast het algemene inflatiecijfer maandelijks ook wat de inflatie is exclusief de prijsontwikkeling van energie (gas, elektriciteit en stadsverwarming) en brandstof. In oktober waren consumentengoederen en –diensten exclusief energie en motorbrandstoffen 6,9 procent duurder dan in dezelfde maand vorig jaar. In september was de prijsstijging op jaarbasis 6,5 procent.
+De inflatie wordt elke maand gemeten als de stijging van de consumentenprijsindex (CPI) ten opzichte van dezelfde maand in het voorgaande jaar. De consumentenprijsindex geeft het prijsverloop weer van een pakket goederen en diensten zoals dit gemiddeld wordt aangeschaft door de Nederlandse huishoudens. Een inflatie van 14,3 procent in oktober 2022 betekent dat de prijzen van consumentenproducten 14,3 procent hoger zijn dan in oktober 2021. De inflatie van 14,3 procent in oktober komt dus niet bovenop de inflatie van 14,5 procent in september.
+
+
+Kleinere prijsstijging energie
+De prijsontwikkeling van energie (elektriciteit, gas en stadsverwarming) had afgelopen maand een drukkend effect op de inflatie. Energie was in oktober 173 procent duurder dan in dezelfde maand een jaar eerder. In september 2022 was energie 200 procent duurder dan in september 2021.
+
+
+Onderzoek naar energieprijzen vordert
+Energie levert momenteel een belangrijke bijdrage aan de totale inflatie. De prijsontwikkeling van energie wordt door het CBS gemeten op basis van nieuwe contracten. Veel huishoudens hebben echter momenteel een bestaand contract voor gas en elektriciteit. Het CBS onderzoekt nieuwe methoden voor het meten en berekenen van de energieprijzen in de CPI en HICP, hierin worden actuele ontwikkelingen van energieprijzen verfijnder in kaart gebracht. Inmiddels zijn de eerste, voorlopige berekeningen uitgevoerd en eind oktober zijn  gepubliceerd. Het CBS maakt in het onderzoek gebruik van databestanden die aangeleverd zijn door energiemaatschappijen.
+Het CBS zal de komende tijd bij de berichtgeving over inflatie regelmatig meer informatie geven over de voortgang en de uitkomsten van het onderzoek. De verwachting is dat het onderzoek in januari ver is gevorderd. Dan kan er ook meer duidelijkheid komen over de waarnemingsmethode van energieprijzen die gaat worden ingevoerd en over de datum waarop de nieuwe methode wordt geïmplementeerd. De reeds gepubliceerde cijfers worden bij het moment van de overstap naar een nieuwe methode niet aangepast.
+Neerwaarts effect motorbrandstoffen
+De prijsontwikkeling van motorbrandstoffen had een drukkend effect op de inflatie. Motorbrandstoffen waren in oktober 7,5 procent duurder dan in dezelfde maand een jaar eerder. In september was de prijsstijging op jaarbasis 11,4 procent.
+Voeding en kleding duurder
+Prijzen van voedingsmiddelen namen verder toe in oktober. Voeding was 14,0 procent duurder dan in oktober 2021. In september was de prijsstijging op jaarbasis 12,8 procent. Deze stijging kwam met name door brood, granen en zuivel. Ook kleding had een verhogend effect op de inflatie. Kleding was in oktober 9,4 procent duurder dan in dezelfde maand een jaar eerder. In september was dit 8,0 procent.
+
+
+Inflatie eurozone blijft stijgen
+Het CBS publiceert sinds 1996 twee verschillende cijfers voor inflatie. Een op basis van de consumentenprijsindex (CPI) en een op basis van de geharmoniseerde index van consumentenprijzen (HICP). Consumentengoederen en -diensten in Nederland waren volgens de HICP in oktober 16,8 procent duurder dan in dezelfde maand een jaar eerder, in september was dat 17,1 procent. De inflatie in de eurozone nam toe van 9,9 procent in september naar 10,7 procent in oktober.
+
+
+Verschil CPI en HICP
+Om de inflatie tussen landen te kunnen vergelijken, berekenen de lidstaten van de Europese Unie (EU) een consumentenprijsindex volgens internationaal afgesproken definities en methoden. De Europese Centrale Bank gebruikt de HICP voor het monetaire beleid in de eurozone. Daarnaast maken de meeste landen nog een eigen, nationale prijsindex.
+
+Het belangrijkste verschil tussen de CPI en de HICP voor Nederland is dat de HICP in tegenstelling tot de CPI geen rekening houdt met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. Dit is echter niet het enige verschil. In een publicatie worden deze verschillen verder toegelicht.
+Eerste raming inflatie volgens de CPI
+Het CBS publiceert al enige tijd een raming van de inflatie volgens de HICP. Per 6 januari 2023 wordt zowel een eerste raming van de inflatie volgens de CPI als de gebruikelijke raming van de inflatie volgens de HICP gepubliceerd. Dit betreft eerste ramingen op basis van nog onvolledige brongegevens. De geraamde cijfers voor de CPI en de HICP worden gepubliceerd op hoofdniveau en een beperkt aantal speciale aggregaten. Enkele werkdagen na deze raming worden de reguliere cijfers gepubliceerd.
+Implicaties coronacrisis op de berekening van de inflatie
+Door de overheidsmaatregelen in verband met de coronacrisis zijn sommige diensten na maart 2020 tijdelijk niet of beperkt beschikbaar geweest. Hierdoor zijn voor een deel van deze diensten geen transacties geweest waarvan de prijzen gemeten konden worden. In aansluiting op de richtlijnen van Eurostat heeft het CBS per situatie gekozen voor de meest passende schattingsmethode. In een notitie worden alle keuzes toegelicht en in een maatwerktabel wordt aangegeven per artikelgroep of er een schatting is gemaakt. In oktober 2022 werden er geen prijzen meer geschat in verband met corona, maar schattingen in dezelfde maand een jaar eerder werken nog wel door in de inflatie van deze maand.
+Dashboard consumentenprijzen
+Het dashboard consumentenprijzen toont de inflatie volgens de consumentenprijsindex (CPI) en voor een aantal groepen consumentengoederen en -diensten. Meer prijsindicatoren zijn te vinden in het prijzendashboard. De persoonlijke inflatiecalculator geeft inzicht in de ontwikkeling van de consumentenprijzen voor een individueel consumptieprofiel.
+
+

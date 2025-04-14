@@ -1,0 +1,21 @@
+Date:
+2021-10-29
+Article Title:
+ Digital activity in the Australian economy, 2019-20
+
+Article Content:
+This article provides an update on the size, growth and nature of digital activity in Australia for 2019 20. These experimental estimates incorporate data from the most recent .
+The ABS measures digital activity in Australia as the production of:
+This article supplements the previous  article which provides analysis of experimental data back to 2011 12.
+More details on the ABS digital activity framework are covered in the .
+  Digital enabling infrastructure, such as computer hardware, software, telecommunications equipment and support services that form and facilitate the use of computer networks;
+  Digital media, which covers digital audio, video and advertisement broadcasting services that can be created, accessed, stored or viewed on digital devices; and
+  E commerce, which incorporate retail and wholesale services and margins from digitally ordered or platform enabled online transactions. 
+Digital activity value added increased by 7.4% ($7.5 billion) in 2019 20, compared with a 2.0% increase for the total Australian economy. This growth was driven by increases in online sales from retailers and wholesalers.   
+Digital activity accounted for 5.9% ($109.0 billion) of total economy value added ($1,857.0 billion), compared to 5.6% ($101.5 billion) in 2018 19 (Graph 1).
+In 2019 20, the digital activity share of aggregate value added (5.9%) was higher than 13 industry divisions, but below traditional drivers of economic activity like Mining (10.9%), Finance (8.1%), Construction (7.6%) and Health (7.8%) (Graph 2).
+Within digital activity, the share in production was dominated by demand for Support services (44.0%), Telecommunications (21.7%) and Wholesale e commerce (18.9%) (Graph 3).
+In 2019 20, the shares of E Commerce   Retail and E Commerce   Wholesale in total digital activity value added increased by 0.8% while the shares of Telecommunications and Digital media decreased by  1.3% and  0.8% respectively.
+In 2019 20, digital activity value added grew by 7.4% in current price terms, compared to a 2.0% increase in total economy value added (Graph 4).
+Within digital activity, the largest increases were in E commerce   Retail (25.1%) and E commerce   Wholesale (12.3%) driven by growing online trade. Digital media showed a fall of 6.8%, driven by a decrease in free to air radio and TV broadcasting services, which was partially offset by an increase in internet publishing and broadcasting services.
+Some estimates of digital activity have been revised in line with the updates made through the revisions applied to the Australian National Accounts, see the  for further information.  Additionally, revisions have been made to estimates in 2017 18 and 2018 19, resulting from new and updated information.

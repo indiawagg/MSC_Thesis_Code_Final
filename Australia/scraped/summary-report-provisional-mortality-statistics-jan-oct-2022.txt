@@ -1,0 +1,11 @@
+Date:
+2023-01-24
+Article Title:
+ Summary report - Provisional Mortality Statistics, Jan - Oct 2022
+
+Article Content:
+In 2022, there were 159,965 deaths that occurred by 31 October and were registered by 31 December 2022.
+14,407 deaths where people died with or from COVID 19, that occurred by 31 December 2022, have been registered and received by the ABS. The ABS expects to receive further registrations for this period from the jurisdictional Registries of Births, Deaths and Marriages.
+The underlying cause of death for 11,696 (81.2%) of these people was COVID 19. 
+There were a further 2,711 people (18.8%) who died of other causes (e.g. cancer) but COVID 19 contributed to their death.
+Of the 488,810 death registrations received by the ABS (both doctor and coroner certified) in Australia during the pandemic period, 3.0% are of people who have died with or from COVID 19.

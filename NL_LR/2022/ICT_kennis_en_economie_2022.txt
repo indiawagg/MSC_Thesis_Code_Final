@@ -1,0 +1,1300 @@
+Article Content:
+ Samenvatting
+
+In deze twaalfde editie van ICT, kennis en economie beschrijft het CBS de meest actuele gegevens over de Nederlandse kenniseconomie in brede zin. Officiële statistieken over de thema’s ICT, R&D en innovatie vormen de leidraad voor de structuur van deze publicatie. De onderlinge raakvlakken van deze thema’s komen aan bod en ontwikkelingen in Nederland worden vergeleken met die in het buitenland. In de oneven jaren ligt het accent van deze publicatiereeks op kennisontwikkeling, in de even jaren op technologie en toepassing. ICT, kennis en economie 2022 omvat een inleidend hoofdstuk en vijf statistisch inhoudelijke hoofdstukken.
+
+Hoofdstuk 1 Inleiding
+
+In 2021 had Nederland de derde meest geavanceerde digitale economie van Europa. Finland en Denemarken gingen Nederland voor. Dat Nederland tot de best presterende landen in Europa behoort, komt onder andere doordat digitale technologieën breed worden ingezet door bedrijven, de grote beschikbaarheid van online diensten en een groot aandeel inwoners dat over digitale vaardigheden beschikt.
+
+Het nieuwe kabinet-Rutte IV dat in 2022 aantrad, beoogt een veilige, inclusieve en kansrijke digitale samenleving voor alle Nederlanders. Het kabinetsbeleid richt zich op het bouwen van een sterk digitaal fundament. Andere belangrijke thema’s zijn digitale overheid, digitale samenleving en digitale economie.
+
+Digitalisering houdt niet op bij de landsgrenzen. Het beleid van de Europese Commissie richt zich op het digitaal vaardiger maken van de bevolking en er is blijvend aandacht voor de digitale infrastructuur. Twee andere beleidsvelden vormen de digitale transformatie van bedrijven en de inzet van ICT om overheidsdiensten te moderniseren.
+
+In het coalitieakkoord 2021–‍2024 is afgesproken om het Topsectorenbeleid te continueren. In de voorbije jaren is de innovatiekracht van de topsectoren aan het oplossen van maatschappelijke uitdagingen gekoppeld waarbij de nadruk van innovaties niet alleen op technologieontwikkeling ligt, maar bijvoorbeeld ook op het veranderen van gedrag en regelgeving.
+
+In Europa spelen onderzoek en innovatie een belangrijke rol bij de realisatie van de ‘European Green Deal’: een klimaatneutraal Europa tegen 2050. Vier van de vijf missies uit het investeringsprogramma voor onderzoek en innovatie in de EU, ‘Horizon Europe’, zijn hierop gericht.
+
+Hoofdstuk 2 ICT en economie
+
+In het vierde kwartaal van 2021 bestond de Nederlandse ICT-sector uit ruim 87 duizend bedrijven, 5 duizend meer dan het jaar ervoor. De meeste bedrijven in de ICT-sector zijn actief als ICT-dienstverlener. Gezamenlijk hadden ICT-bedrijven een aandeel van 4,3 procent in het totale aantal Nederlandse bedrijven. In 2021 zijn veel minder ICT-bedrijven opgeheven dan in 2020, toen het aantal opheffingen juist veel hoger lag dan in eerdere jaren.
+
+De bruto toegevoegde waarde van de ICT-sector groeide in 2020 vergeleken met een jaar eerder. In de Nederlandse economie als geheel kromp de toegevoegde waarde juist. In 2020 investeerde de ICT-sector 9,9 procent meer dan in 2019.
+
+In 2021 waren 556 duizend ICT’ers werkzaam in diverse bedrijfstakken van de Nederlandse economie. Van hen had 68 procent een vaste arbeidsrelatie met vaste uren. Eind december 2021 bedroeg het aantal openstaande vacatures in de ICT-sector bijna 23 600. Het aantal vacatures ligt daarmee hoger dan het niveau van voor corona.
+
+In 2020 was het volume van de ICT-investeringen 1,9 procent groter dan in 2019. Zowel in computerhardware, software als elektronische netwerken werd meer geïnvesteerd. Gezamenlijk investeerden Nederlandse bedrijven en overheden in 2020 ruim 32,1 miljard euro in ICT. ICT-investeringen vertegenwoordigden 18 procent van de totale investeringen in Nederland.
+
+In 2020 importeerde Nederland voor 64,7 miljard euro aan ICT-goederen en -diensten. Dat is 4,6 procent meer dan in 2019. Nederland exporteerde voor 30,7 miljard euro aan ICT-goederen en -diensten in 2020 (exclusief wederuitvoer). Dat is 3,5 procent minder dan een jaar eerder. Naast de export van ICT-goederen en -diensten van Nederlandse makelij, bestaat een groter deel van de Nederlandse ICT-export uit wederuitvoer. In 2020 realiseerde Nederland voor 40,7 miljard euro aan ICT-wederuitvoer.
+
+Hoofdstuk 3 ICT-gebruik bij personen
+
+In 2021 had 97 procent van de Nederlanders van 12 jaar of ouder thuis toegang tot internet en was bijna 9 op de 10 dagelijks of vrijwel dagelijks online. Van de Nederlanders van 12 jaar of ouder zei 6 procent in 2021 nooit internet te hebben gebruikt. Het vaakst gebruikte men een smartphone voor internettoegang.
+
+E-mailen en tekstberichten sturen, via onder meer WhatsApp, zijn de meest voorkomende vormen van online communicatie. Onder alle leeftijdsgroepen nam het (Whats)appen de laatste jaren toe, maar de grootste groei is te zien bij 65‑plussers. Jongeren waren het meest actief op sociale netwerken. Binnen Europa loopt Nederland, samen met Cyprus, voorop met bellen via internet.
+
+Internet is ook een belangrijke bron van informatie, nieuwsgaring en vermaak. Nederland behoort samen met Finland tot de kopgroep van de EU als het gaat om online informatie zoeken over goederen en diensten. In toenemende mate gebruikten Nederlanders het internet om te zoeken naar gezondheidsinformatie en leefstijl. Online televisiekijken heeft de laatste jaren een hoge vlucht genomen. Bijna 7 op de 10 Nederlanders van 12 jaar en ouder keken in 2021 televisie via internet.
+
+In 2021 maakte 87 procent van de Nederlandse bevolking van 16 tot 75 jaar minstens één keer per jaar gebruik van een overheidswebsite; een even groot aandeel als een jaar eerder. Nederland behoort tot de top vijf van EU-landen met het grootste aandeel inwoners dat gebruikmaakt van de digitale overheid in 2021. In de eerste helft van 2021 maakte 43 procent van de personen van 12 jaar of ouder online een afspraak met een huisarts of medisch specialist; een jaar eerder was dat nog 31 procent.
+
+In 2021 gaf 77 procent van de Nederlanders van 12 jaar of ouder, omgerekend ongeveer 11,7 miljoen mensen, aan iets online gekocht te hebben gedurende de drie maanden voorafgaand aan het onderzoek. Er werden vooral kleding, schoenen en accessoires online aangeschaft. Niet alleen kopen steeds meer mensen iets online, ook het bedrag dat ze besteden neemt toe.
+
+Van de internetgebruikers van 12 jaar of ouder gaf 89 procent in 2021 aan maatregelen te hebben genomen om persoonlijke gegevens op internet te beschermen. Dit is hetzelfde percentage als een jaar eerder. Internetgebruikers van 65 jaar of ouder beschermen persoonsgegevens op internet minder vaak dan personen jonger dan 65 jaar.
+
+Samen met Finland had Nederland van de EU-landen het hoogste percentage inwoners dat ten minste over digitale basisvaardigheden beschikte in 2021, namelijk 79 procent. Het meest vaardig waren Nederlanders op het gebied van online communiceren. Het gaat dan om e-mailen, bellen via internet, sociale netwerken gebruiken en online een mening geven over maatschappelijke of politieke kwesties. Relatief minder vaardig waren Nederlanders op het gebied van softwaregebruik. Wat mensen met internet en computers kunnen, verschilt sterk naar leeftijd en opleidingsniveau.
+
+DAB‍+ is de digitale opvolger van FM. Met DAB‍+ is het mogelijk om via de digitale ether radio te luisteren. In 2021 had 49 procent van de Nederlanders van 12 jaar of ouder weleens van DAB‍+ gehoord. Dit percentage is flink hoger dan in 2016, toen 29 procent bekend was met DAB‍+. 22 procent van de Nederlandse huishoudens had een DAB‍+-apparaat in bezit.
+
+Hoofdstuk 4 ICT-gebruik bij bedrijven
+
+Praktisch alle bedrijven met 10 of meer werkzame personen gebruiken een hoogwaardige vaste of mobiele internetverbinding zoals glasvezel, kabel, DSL of 4G/5G. Vaste verbindingen met een snelheid van ten minste 30 Mbit per seconde zijn tegenwoordig de standaard bij bedrijven. Ruim 1 op de 10 bedrijven beschikte in 2021 over een internetverbinding met een downloadsnelheid van ten minste 1 Gbit per seconde. Nederlandse bedrijven beschikken over snellere internetverbindingen dan gemiddeld in Europa.
+
+Bijna 2 op de 3 bedrijven verstrekten in 2021 draagbare apparatuur aan het personeel voor mobiel internet, waarmee via mobiel breedband (zoals 4G) kon worden geïnternet voor het werk. In 2021 had 93 procent van de Nederlandse bedrijven met 10 of meer werkzame personen een eigen website, die relatief vaak gebruikt werd om goederen of diensten te beschrijven of prijzen te tonen. Bijna 8 van de 10 bedrijven met 10 of meer werkzame personen maakten gebruik van een sociaal netwerk, zoals Facebook of LinkedIn.
+
+In 2021 gebruikte 77 procent van het personeel bij bedrijven met 10 of meer werkzame personen geregeld een computer met internet voor het werk. In Nederland werkt een aanzienlijk groter deel van de werkzame personen met internet dan gemiddeld in de EU. In 2021 had 36 procent van het personeel van Nederlandse bedrijven met 10 of meer werkzame personen een laptop, tablet of smartphone met mobiel internet van het bedrijf. In 2021 ondersteunde 83 procent van de bedrijven met 10 of meer werkzame personen telewerken. Als een bedrijf telewerken ondersteunt, hebben vaak niet alle medewerkers die mogelijkheid. Het type werk laat dat immers niet altijd toe. In 2021 werkte de helft van de werkzame personen regelmatig buiten de bedrijfsvestiging en hadden van daaruit toegang tot het ICT-systeem van het bedrijf. In 2020 had 12 procent van de bedrijven vacatures voor ICT-specialisten. Deze bedrijven hebben personeel aangenomen, of hadden dat willen doen, voor functies waarvoor specifieke ICT-vaardigheden vereist waren. Bijna 6 op de 10 bedrijven met ICT-vacatures hadden moeite deze te vervullen. In 2021 bood 22 procent van de bedrijven met 10 of meer werkzame personen hun personeel ICT-cursussen aan.
+
+In 2020 heeft 26 procent van de Nederlandse bedrijven elektronisch verkocht. Vooral bedrijven actief in de toeristische sector kennen een relatief groot aandeel bedrijven dat elektronisch verkoopt. Van de logiesaccommodaties, zoals hotels en campings, verkocht 60 procent via e-commerce in 2020. Het aandeel bedrijven in Nederland met elektronische verkopen ligt boven het EU-gemiddelde.
+
+Clouddiensten en Internet of Things (IoT) zijn vormen van relatief nieuwe ICT-toepassingen die inmiddels hun weg hebben gevonden in het ICT-landschap van bedrijven. In 2021 maakte 66 procent van de bedrijven met 10 of meer werkzame personen gebruik van betaalde clouddiensten. De meest gebruikte vormen van clouddiensten zijn opslag van bestanden, opslag (hosting) van databases van het bedrijf en e-mail. Internet of Things (apparaten of systemen die via een netwerk aan elkaar verbonden zijn, vaak aangeduid met het voorvoegsel ‘smart’ of ‘slim’), werd door 20 procent van de bedrijven toegepast in 2021. De slimme apparaten werden het vaakst toegepast voor beveiliging en energiebesparing.
+
+De coronacrisis heeft in 2020 en 2021 invloed gehad op het ICT-gebruik bij bedrijven in Nederland. Vooral bedrijven in de horeca gaven aan dat ze een toename zagen van de online verkoop als gevolg van de tijdelijke gedwongen sluitingen tijdens de corona-epidemie. 1 op de 5 horecabedrijven (met 10 of meer werkzame personen) haalde in 2020 minimaal een kwart van de omzet uit online verkoop. Begin 2021 deed de helft van de werkzame personen bij bedrijven met 10 of meer werkzame personen regelmatig aan telewerken, en had daarbij toegang tot de ICT-systemen van het bedrijf. Bijna driekwart van de bedrijven meldde dat in 2020 meer online vergaderingen gehouden werden dan het jaar daarvoor.
+
+Bijna driekwart van de zzp’ers gebruikte in 2021 zijn laptop, telefoon of tablet zowel zakelijk als privé. 27 procent van de zzp’ers gebruikte ICT-voorzieningen van bedrijven waarvoor zij opdrachten uitvoerden. Van de zzp’ers beschikte 79 procent over een eigen vaste internetverbinding in 2021. Openbare wifi werd door 17 procent van de zzp’ers gebruikt voor zakelijke werkzaamheden. In 2021 maakte 28 procent van de zzp’ers gebruik van (betaalde) clouddiensten. Zij sloegen bijvoorbeeld bestanden op in de cloud of gebruikten office software die draaide in de cloud.
+
+Hoofdstuk 5 Research & Development
+
+In 2020 hebben Nederlandse bedrijven en instellingen bijna 18,5 miljard euro uitgegeven aan R&D met eigen en ingeleend personeel. Door Nederlandse bedrijven en instellingen werden ruim 166 duizend arbeidsjaren besteed aan R&D.
+
+De R&D-intensiteit in Nederland bedroeg 2,31 procent in 2020. Nederland mist daarmee de in 2011 gestelde doelstelling om de R&D-intensiteit in 2020 2,5 procent te laten bedragen.
+
+De industrie nam in 2020 de helft van de R&D-uitgaven van de bedrijvensector voor haar rekening.
+
+In 2020 was 19 procent van alle bedrijven die aan R&D deden een ICT-bedrijf. Gezamenlijk waren deze bedrijven goed voor 16 procent van de R&D-uitgaven en 22 procent van het R&D-personeel in de bedrijvensector in dat jaar.
+
+Bedrijven financierden meer dan de helft van de R&D in Nederland in 2020. De overheid is de tweede grote financier van R&D. In 2020 werd 30 procent van de R&D gefinancierd door de overheid.
+
+Hoofdstuk 6 Innovatie
+
+In de periode 2018–‍2020 was 40 procent van de bedrijven innovatief. Het merendeel van deze bedrijven kon de innovatie in die periode ook succesvol afronden: 95 procent. Het aandeel bedrijven dat succesvol innoveerde in de periode 2018–‍2020 was in de industrie groter dan onder dienstverleners: respectievelijk 52 tegen 37 procent. Binnen de industrie zijn bedrijven actief in de elektrotechnische en machine-industrie het meest innovatief.
+
+Van alle bedrijven die succesvolle innovaties hebben doorgevoerd in de periode 2018–‍2020 deed 8 procent uitsluitend aan productinnovatie. Bij ruim de helft van de innovatoren kwam alleen procesinnovatie voor. De overige 42 procent combineerde procesinnovatie met productinnovatie.
+
+In 2020 was 8 procent van de omzet van bedrijven met 10 of meer werkzame personen (inclusief bedrijven die niet geïnnoveerd hebben) afkomstig van nieuwe of sterk verbeterde producten.
+
+In de periode 2018–‍2020 werkte 38 procent van de innovatoren samen met andere bedrijven of instellingen om te innoveren. Vooral samenwerking met leveranciers is in trek: 19 procent van de innovatoren werkte samen met leveranciers aan nieuwe producten of processen.
+
+
+
+Inleiding
+
+Auteur: Ron de Heij
+
+In 2021 was corona volop actueel. Mede door de hoogwaardige digitale infrastructuur en het grote aandeel inwoners dat over digitale vaardigheden beschikt, kon, wanneer nodig, snel geschakeld worden tussen het fysieke en digitale domein. Nederland is al een van de meest geavanceerde digitale economieën van Europa. In de komende jaren wordt door de overheid verder gewerkt aan een veilige en kansrijke digitale samenleving voor alle Nederlanders.
+
+1.1 Beleidskader ICT en innovatie
+
+ICT speelt, als sleuteltechnologie, een belangrijke rol bij onderzoek en ontwikkeling (R&D) en innovatie. Voor de open Nederlandse economie zijn R&D en innovatie van groot belang met het oog op de concurrentiepositie van Nederland. Bijzonder aan 2021 was dat corona volop actueel was. Dat Nederland over een hoogwaardige digitale infrastructuur en groot aandeel inwoners beschikt met digitale vaardigheden, maakte dat ons land relatief goed in staat was te reageren op de snel wisselende omstandigheden gedurende de coronacrisis.
+
+Nederland derde meest geavanceerde digitale economie
+
+In 2021 had Nederland de derde meest geavanceerde digitale economie van Europa (figuur 1.1.1). Finland en Denemarken gingen Nederland voor (Europese Commissie, 2022). De overallscore waarmee landen worden gerangschikt is gebaseerd op een samengestelde index van indicatoren voor digitale prestaties. Dat Nederland tot de best presterende landen in Europa behoort, komt onder andere doordat digitale technologieën breed worden ingezet door bedrijven, de grote beschikbaarheid van online diensten en een groot aandeel inwoners dat over digitale vaardigheden beschikt. Nederland steeg een plaats ten opzichte van de ranglijst van 2020.
+
+Op de indicator ‘connectiviteit’ behoorde Nederland tot de best presterende landen in Europa (tweede positie). Nederland kent een fijnmazige infrastructuur waar het gaat om snelle internetverbindingen. Op het terrein van ‘menselijk kapitaal’ bekleedde Nederland eveneens de tweede positie van de 27 landen in de EU. De basis en gevorderde digitale vaardigheden van Nederlanders liggen in Nederland ruim boven het gemiddelde van inwoners in de EU. Het aandeel vrouwelijke ICT-specialisten blijft echter achter bij het EU-gemiddelde, ondanks een lichte toename in de afgelopen jaren. Ook het aandeel afgestudeerde ICT’ers ligt onder het gemiddelde in de EU. Van alle afgestudeerden in Nederland rondde 3,4 procent een ICT-opleiding af tegen gemiddeld 3,9 procent in Europa. Wat betreft ‘integratie van digitale technologieën’ stond Nederland op een vierde plaats in 2021. Driekwart van het midden- en kleinbedrijf had ten minste een basisniveau van digitale intensiteit. Het gebruik van Artificial Intelligence-technologie (13,1 procent) lag boven het EU-gemiddelde, maar blijft ver achter bij de EU-doelstelling dat in 2030 van alle bedrijven 75 procent AI gebruikt. De inzet van ICT om groene maatregelen (bijvoorbeeld het beperken van het energieverbruik of het zakelijk reizen) te gaan gebruiken, bleef wat achter ten opzichte van andere landen in Europa. Op de indicator ‘digitale overheidsdienstverlening’ bekleedde Nederland een vierde positie.
+
+Nederland: digitale transitie aan de hand van vier thema’s
+
+Het nieuwe kabinet-Rutte IV dat in 2022 aantrad, beoogt een veilige, inclusieve en kansrijke digitale samenleving voor alle Nederlanders. Het beleid wordt vormgegeven rondom vier thema’s die sterk met elkaar verbonden zijn (TK, 2022). Allereerst wordt verder gebouwd aan een sterk digitaal fundament waar zaken als cyberveiligheid, privacy, inclusie, digitale vaardigheden en infrastructuur een belangrijke rol spelen. Naast deze digitale basis zijn digitale overheid, digitale samenleving en digitale economie andere belangrijke thema’s. Digitalisering bij de overheid heeft tot doel mensen maximaal te ondersteunen en te komen tot structurele verbeteringen in de informatiehuishouding van overheden. Om deze doelen te bereiken wordt ingezet op een moderne IT-architectuur en het aantrekken en behouden van digitaal talent. Op het thema digitale samenleving gaat het om het benutten van geboden kansen door technologieën op diverse maatschappelijke terreinen zoals gezondheidszorg, onderwijs en wetenschap. Ook de inzet van moderne technieken bij mobiliteit- en klimaatvraagstukken zijn andere speerpunten binnen dit thema. De digitale economie vormt het laatste thema van de digitale transitie. De overheid stimuleert een digitale economie die open, eerlijk en veilig is, waarin bedrijven goed kunnen innoveren, consumenten goed beschermd zijn en die bijdraagt aan duurzame economische groei.
+
+Europa: digitaal kompas 2030
+
+Digitalisering houdt niet op bij de landsgrenzen. In het ‘Digitaal Kompas 2030’ heeft de Europese Commissie (EC) vier kernpunten vastgelegd voor de periode tot 2030 (Europese Commissie, 2021). De Commissie stelt dat in 2030 van de personen tussen 16 en 79 jaar minstens 80 procent over digitale basisvaardigheden (zie paragraaf 3.7) moet beschikken en dat er 20 miljoen ICT-specialisten aan het werk moeten zijn, met een gelijke verdeling tussen mannen en vrouwen. Naast een digitaal vaardige bevolking is er blijvend aandacht voor de digitale infrastructuur. Het streven is om in 2030 alle Europese huishoudens toegang te laten hebben tot een gigabitnetwerk. Tevens is het doel om alle bevolkte gebieden gedekt te laten zijn met 5G. Op dit thema zijn onder andere ook de productie van halfgeleiders in Europa en de zorg voor toegang tot snelle datadiensten speerpunten. Een ander spoor richt zich op de digitale transformatie van bedrijven. In 2030 moet 75 procent van de Europese ondernemingen clouddiensten, big data en Artificial Intelligence gebruiken. Waar het gaat om kleine en middelgrote ondernemingen is de doelstelling dat ten minste 90 procent een basisniveau van digitale intensiteit (onder meer gebruik ICT-specialisten, website met geavanceerde functies, snel breedband) behaalt. Ook een betere toegang tot financiering voor innovatieve scale-ups valt binnen dit thema. Ten slotte is de doelstelling overheidsdiensten te moderniseren zodanig dat ze beantwoorden aan de behoeften van de samenleving. Het gaat onder andere om het altijd online beschikbaar zijn van essentiële overheidsdiensten voor burgers en bedrijven, maar ook de online toegang tot medische dossiers valt binnen dit thema.
+
+Topsectorenbeleid voortgezet
+
+In het coalitieakkoord 2021–‍2024 is afgesproken om het Topsectorenbeleid te continueren. Sinds 2011 wordt er door ondernemers, wetenschappers en overheid in topsectoren gewerkt aan (kennis)ontwikkeling en innovatie in Nederland. In de voorbije jaren is de innovatiekracht van de topsectoren aan het oplossen van maatschappelijke uitdagingen gekoppeld. Bij deze missiegedreven aanpak ligt de nadruk van de innovatie niet alleen op technologieontwikkeling, maar bijvoorbeeld ook op veranderen van gedrag en regelgeving. Het doel hiervan is om de transitie naar een duurzame, gezonde, veilige en klimaatneutrale samenleving te versnellen en de concurrentiekracht van Nederland te vergroten. De publiek-private samenwerking op het terrein van kennis en innovatie blijft een belangrijk onderdeel hierbij. Gezamenlijk zetten publieke en private partijen zich in voor 25 missies op de maatschappelijke thema’s: Energietransitie en Duurzaamheid; Gezondheid en Zorg; Landbouw, Water, Voedsel en Veiligheid. Dit doen zij met een gezamenlijke jaarlijkse inzet van 4,9 miljard euro (Ministerie van Economische Zaken en Klimaat, 2021). Onderzoek en ontwikkeling is een van de drie pijlers van het Nationaal Groeifonds. Met dit fonds investeert het kabinet 20 miljard euro tussen 2021 en 2025 in projecten die zorgen voor economische groei voor de lange termijn.
+
+Onderzoek en innovatie cruciaal voor Green Deal
+
+Met ‘Horizon Europe’ wil de Europese Commissie het concurrentievermogen van Europa vergroten door wetenschap en innovatie te stimuleren, maar daarbij maatschappelijke uitdagingen niet uit het oog verliezen. Onderzoek en innovatie spelen daarom een cruciale rol bij de realisatie van de ‘European Green Deal’: een klimaatneutraal Europa tegen 2050. Het investeringsprogramma voor onderzoek en innovatie in de EU, ‘Horizon Europe’, is hierop sterk gericht (Europese Commissie, 2020). Vier van de vijf missies uit ‘Horizon Europe’ zijn direct gerelateerd aan de ‘Green Deal’ namelijk gezonde oceanen, klimaatneutrale en slimme steden, bodemgezondheid en aanpassing aan klimaatverandering. ‘Horizon Europe’ levert instrumenten die nodig zijn voor het aanbrengen van systematische veranderingen om het doel – een klimaatneutraal Europa – te bereiken. Het programma loopt van 2021 tot en met 2027 en minstens 35 procent uit het budget is beschikbaar voor klimaatdoelen.
+
+1.2 Doel van de publicatie
+
+Het doel van ICT, kennis en economie is om een actueel en samenhangend beeld van de Nederlandse kenniseconomie te schetsen. Statistieken over het ICT-gebruik bij bedrijven, ICT-gebruik bij personen, research en development (R&D) en innovatie vormen hierbij de kern. Tevens worden gegevens uit de nationale rekeningen, de kwartaalenquête vacatures en de enquête beroepsbevolking gebruikt. De ontwikkelingen op deze terreinen in Nederland worden veelvuldig in internationaal perspectief geplaatst. De publicatie beoogt een breed overzicht te geven van beschikbaar cijfermateriaal en de samenhang te tonen tussen de beschreven onderwerpen. Daarmee is ook deze editie van ICT, kennis en economie weer een waardevolle informatiebron voor onderzoekers, beleidsmakers en andere geïnteresseerden.
+
+De begrippen en statistische gegevens in deze publicatie zijn grotendeels vastgesteld in overleg met andere statistische bureau in de Europese Unie (EU). Eurostat, het statistische bureau van de EC, vervult hierbij een coördinerende rol. Hierdoor is een vergelijking van de prestaties van Nederland met andere Europese landen goed mogelijk. De definities die worden gehanteerd door Eurostat, sluiten vaak aan op die van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO). Dit maakt het mogelijk om cijfers over Nederland ook te vergelijken met niet-EU-landen.
+
+1.3 Leeswijzer
+
+In ICT, kennis en economie zijn drie thema’s met elkaar verweven. Het eerste thema is gebaseerd op de economische betekenis van de ICT-sector voor de Nederlandse economie. Langlopende statistieken over onder andere productie, werkgelegenheid en aantal bedrijven in de ICT-sector zijn aangevuld met de laatste inzichten. Het tweede thema gaat over de wijze waarop personen en bedrijven ICT gebruiken. Beide thema’s komen jaarlijks aan bod. Kennis, waartoe in deze context R&D, innovatie en kennispotentieel worden gerekend, vormt het derde thema. De inhoud van dit thema wisselt per editie. Nieuwe uitkomsten over R&D verschijnen jaarlijks. Waar het gaat om innovatie worden in de even jaren de nationale cijfers over innovatie uitvoerig besproken, in de oneven jaren zijn ook de internationale uitkomsten van de innovatie-enquête beschikbaar. Het onderwerp kennispotentieel maakt in de even jaren geen deel uit van de publicatie, maar komt in de oneven jaren uitgebreid aan bod. De afwisseling van onderwerpen resulteert in een publicatiereeks waarvan het accent in de oneven jaren ligt op kennisontwikkeling en in de even jaren op technologie en toepassing.
+
+De editie 2022 is als volgt opgebouwd. Hoofdstuk 2 behandelt de bijdrage van ICT aan de Nederlandse economie. Het heeft als onderwerpen de ICT-sector en de Nederlandse economie, ICT-gerelateerde werkgelegenheid, ICT-bestedingen en de internationale handel in ICT- goederen en –diensten. Hoofdstuk 3 richt zich op het internetgebruik bij personen. Er wordt achtereenvolgens ingegaan op online communicatie, informatie zoeken en vermaak via internet en het gebruik van online diensten zoals overheidswebsites en internetbankieren. Ook online winkelen en privacy op internet komen aan bod. Het hoofdstuk sluit af met paragrafen over digitale vaardigheden en digitale radio DAB‍+. Hoofdstuk 4 bespreekt hoe bedrijven ICT toepassen. Wat voor internetverbindingen hebben bedrijven en hoe worden websites ingezet? Ook hoe het personeel van bedrijven ICT gebruikt komt aan de orde. Vervolgens wordt aandacht besteed aan e‑commerce, clouddiensten en slimme apparaten (Internet of Things). Na een paragraaf over de invloed van de coronacrisis op het ICT-gebruik completeert een beschrijving van het ICT-gebruik door zzp’ers dit hoofdstuk. Hoofdstuk 5 over R&D beschrijft de investeringen in kennis. Er wordt ingegaan op R&D in Nederland, met specifiek aandacht voor R&D in de bedrijvensector. Ook wordt beschreven in welke mate verschillende partijen R&D in Nederland financieren. Het afsluitende hoofdstuk gaat in op de uitkomsten van het meest recente CBS-onderzoek naar innovatie bij Nederlandse bedrijven. Onderwerpen als het percentage innovatieve bedrijven en het omzetaandeel uit nieuwe of sterk verbeterde producten komen aan bod.
+
+1.4 Literatuur
+
+
+
+Europese Commissie (2020). . Europese Commissie, Brussel.
+
+Europese Commissie (2021). . Europese Commissie, Brussel.
+
+Europese Commissie (2022). . Europese Commissie, Brussel.
+
+Ministerie van Economische Zaken en Klimaat (2021). . Ministerie van Economische zaken en Klimaat, Den Haag.
+
+TK (2022). . Brief van de staatsecretaris van Koninkrijksrelaties en Digitalisering, de minister van Economische Zaken, de minister van Justitie en Veiligheid en de minister van Rechtsbescherming. Tweede Kamer, vergaderjaar 2021–‍2022, 26 643, nr. 842.
+
+
+
+
+
+Noten
+
+De overallscore van landen is bepaald met de volgende gewichten: connectiviteit (25 procent), menselijk kapitaal (25 procent), integratie van digitale technologieën (25 procent) en digitale overheidsdienstverlening (25procent).
+
+Een basisniveau van digitale intensiteit houdt in dat minstens 4 technologieën worden gebruikt uit een lijst van 12. Enkele voorbeelden van technologieën die op deze lijst staan zijn het gebruik van sociale media, het gebruik van clouddiensten en CRM. Voor de volledige lijst, zie pagina 5 van .ICT en economie
+
+De ICT-sector groeide in 2020, in termen van bruto toegevoegde waarde, terwijl de totale economie dat jaar kromp. Het volume van de ICT-investeringen was in 2020 groter dan in het jaar ervoor. De importwaarde van ICT-goederen en -diensten nam toe, de waarde van de export van ICT-goederen (exclusief wederuitvoer) nam af. Er waren in 2021 opnieuw meer ICT’ers aan het werk in de Nederlandse economie. Het aantal openstaande vacatures in de ICT-sector is sterk toegenomen.
+
+2.1 De ICT-sector en de Nederlandse economie
+
+De ICT-sector wordt gevormd door bedrijven afkomstig uit de ICT-industrie, de groothandel in ICT-apparatuur en de ICT-dienstensector. De ICT-industrie omvat bedrijven die voornamelijk informatie- en communicatieapparatuur ontwerpen en produceren. Tot de groothandel in ICT-apparatuur behoren bedrijven die handelen in software, computers en overige elektronica, zoals telecommunicatieapparatuur. Ze leveren deze producten hoofdzakelijk aan dealers en andere niet-eindgebruikers. De ICT-dienstensector bestaat uit bedrijven die het proces rondom elektronische informatieverwerking en communicatie ondersteunen. Zij maken bijvoorbeeld software, verzorgen de telecommunicatie of leveren advies.
+
+De Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) heeft de ICT-sector exact gedefinieerd (tabel 2.1.1). Veel landen gebruiken deze definitie in hun statistische publicaties. Dit maakt het eenvoudiger om cijfers over de ICT-sector internationaal te vergelijken. Ook dit hoofdstuk gebruikt deze OESO-definitie, tenzij anders vermeld is.
+
+Bron: OESO / CBS
+
+Deze paragraaf gaat in op de economische betekenis van de ICT-sector voor de Nederlandse economie.
+
+Aantal ICT-bedrijven neemt verder toe
+
+Het aantal bedrijven in de ICT-sector is in 2021 met ruim 5 100 (6,3 procent) toegenomen ten opzichte van het jaar ervoor. In het vierde kwartaal van 2021 bestond de Nederlandse ICT-sector uit ruim 87 duizend bedrijven (figuur 2.1.2). Ook het totale aantal bedrijven in Nederland nam toe in deze periode, met bijna 146 duizend tot 2,0 miljoen. Gezamenlijk hadden ICT-bedrijven een aandeel van 4,3 procent in het totale aantal Nederlandse bedrijven.
+
+De meeste bedrijven in de ICT-sector zijn actief als ICT-dienstverlener; eind 2021 waren dit er ruim 81 duizend. Daarnaast waren er 5 185 ICT-groothandelsbedrijven en 920 bedrijven in de ICT-industrie. Ten opzichte van 2020 steeg het aantal bedrijven in de ICT-diensten (+5 165) en nam het aantal bedrijven in de ICT-groothandel licht toe (+35). Het aantal bedrijven in de ICT-industrie daalde daarentegen (–‍40).
+
+Tussen 2011 en 2021 is het aantal ICT-bedrijven gestaag gestegen. Elk jaar werden er meer ICT-bedrijven opgericht dan opgeheven. In de periode 2011–2021 groeide het aantal ICT-bedrijven in Nederland met gemiddeld 4,0 procent per jaar. De groei in ‘coronajaar’ 2020 viel wel aanzienlijk lager uit dan in de voorgaande jaren (1,6 procent).
+
+In de loop der jaren is met name het aantal ICT-dienstverleners sterk toegenomen. Eind 2021 waren er 57 procent meer dienstverlenende ICT-bedrijven in vergelijking met 2011. Ook het aantal bedrijven in de ICT-industrie nam in deze periode toe: met 13 procent. In het vierde kwartaal van 2021 waren er ruim 1 160 ICT-groothandelsbedrijven minder dan in 2011. Dit betekent een daling van 18 procent.
+
+Eind 2021 bestond 93 procent van de ICT-sector uit dienstverlenende bedrijven. Ten opzichte van 2011 is hun aandeel in de ICT-sector gegroeid. In dat jaar was nog 88 procent van de bedrijven in de ICT-sector een dienstverlener. Het aandeel van de ICT-groothandel en de ICT-industrie was respectievelijk 6 en 1 procent in 2021. In 2011 omvatten zij respectievelijk 11 en (eveneens) 1 procent van het totale aantal ICT-bedrijven.
+
+Bijna tienduizend ICT-bedrijven opgericht
+
+In 2021 zijn er 9 800 bedrijven opgericht in de ICT-sector (figuur 2.1.3). Het aantal oprichtingen in de ICT-sector maakte daarmee 4,2 procent uit van het totale aantal oprichtingen in Nederland, dat ruim 232 duizend bedroeg. Nieuwe ICT-bedrijven zijn vooral ICT-dienstverleners: het betrof 9 470 oprichtingen in 2021. In de ICT-industrie werden in dat jaar 100 bedrijven opgericht; in de ICT-groothandel 230 bedrijven. Van alle opgerichte ICT-bedrijven in 2021 had negen op de tien 1 werkzame persoon of minder.
+
+In 2021 zijn 4 285 ICT-bedrijven opgeheven. Dit zijn er veel minder dan in 2020, toen het aantal opheffingen veel hoger lag dan in eerdere jaren. Ten opzichte van 2020 werden 48 procent minder bedrijven in de ICT-sector opgeheven, tegen 35 procent meer opheffingen in alle sectoren. In totaal stopten 92 duizend Nederlandse bedrijven hun activiteiten. Het aantal opheffingen in de ICT-sector maakte 4,7 procent uit van het totaal.
+
+ICT-sector groeit ondanks krimp totale economie
+
+De bruto toegevoegde waarde van de ICT-sector groeide in 2020 vergeleken met een jaar eerder. In de Nederlandse economie als geheel kromp de toegevoegde waarde juist. In de ICT-sector groeide de bruto toegevoegde waarde (volume) met 4,8 procent terwijl die in de totale economie met 4,1 procent daalde (tabel 2.1.4).
+
+De groothandel in ICT-apparatuur en de ICT-dienstensector zagen een stijging van hun toegevoegde waarde in 2020, met respectievelijk 4,8 en 5,4 procent. Binnen de ICT-dienstensector was het voornamelijk de IT- en informatiedienstverlening waar de toegevoegde waarde steeg; in de telecommunicatie daalde de toegevoegde waarde juist licht ten opzichte van een jaar eerder. Ook in de ICT-industrie daalde de toegevoegde waarde (–1,2 procent).
+
+Een klein aantal multinationals bepaalt het beeld van de Nederlandse ICT-industrie. Deze grote, vaak internationaal opererende, bedrijven vallen deels onder de Nederlandse industrie, al is een flink deel ervan gevestigd in het buitenland. Cijfers over de Nederlandse economie geven alleen een beschrijving van bedrijven of bedrijfsonderdelen die gevestigd zijn in Nederland. Of een bedrijf eigendom is van Nederlandse partijen, speelt hierbij geen rol. Niet alle kosten en opbrengsten komen dan tot uitdrukking in tabel 2.1.4. Dit kan een vertekend beeld geven.
+
+Daling productiewaarde ICT-industrie
+
+Dat strategische keuzes van bedrijven van grote invloed kunnen zijn op de cijfers van de ICT-industrie, is terug te zien in de forse daling van de productiewaarde in 2019. Vooral doordat activiteiten naar het buitenland werden verplaatst, daalde de productiewaarde – de waarde van het totaal van goederen en diensten dat is geproduceerd – van de ICT-industrie in 2019 met ruim 35 procent vergeleken met een jaar eerder. Ook in 2020 daalde de productiewaarde van de ICT-industrie weer, zij het minder hard (12,1 procent). De productiedaling in de ICT-industrie is een trend die al enkele jaren gaande is.
+
+ICT-dienstverleners realiseerden in 2020 gezamenlijk een 1,3 procent hogere productiewaarde dan in 2019. Binnen de ICT-diensten waren vooral bedrijven in de IT- en informatiedienstverlening de aanjagers van de groei; de productiewaarde van telecommunicatiebedrijven daalde juist licht ten opzichte van 2019.
+
+De productiewaarde van de ICT-sector als geheel daalde in 2020 met 0,6 procent vergeleken met 2019. De daling is minder sterk dan een jaar eerder, toen de productiewaarde 5,2 procent kromp. De productiewaarde van de Nederlandse economie als geheel nam in 2020 af met 3,6 procent.
+
+Bron: CBS
+
+1) Bruto investeringen.
+
+Meer geïnvesteerd door ICT-sector
+
+In 2020 investeerde de ICT-sector 9,9 procent meer dan in 2019. De investeringen van de totale economie namen juist af: met 2,6 procent. Vooral de ICT-dienstensector kende meer investeringen (13,2 procent). De investeringen in de ICT-groothandel bleven ongeveer gelijk (+0,6 procent). In de ICT-industrie daalden de investeringen in 2020 met 5,1 procent vergeleken met een jaar eerder.
+
+Arbeidsvolume ICT-sector neemt verder toe
+
+Het arbeidsvolume in de ICT-sector steeg in 2020 met 2,8 procent. Dit betekent dat in 2020 meer arbeidsjaren gewerkt zijn dan een jaar eerder. In de ICT-industrie daalde het arbeidsvolume (–‍3,9 procent). Hoewel binnen de ICT-dienstensector het arbeidsvolume steeg, is wel een wisselend beeld zichtbaar in de onderliggende bedrijfstakken. Zo steeg het arbeidsvolume bij IT- en informatiedienstverleners (4,9 procent), maar daalde het bij telecommunicatiebedrijven (–‍4,2 procent). Het totale arbeidsvolume in Nederland nam toe met 0,3 procent.
+
+Aandeel ICT-sector internationaal vergeleken
+
+Figuur 2.1.5 vergelijkt de toegevoegde waarde van de ICT-sector in Nederland met de waarde in andere landen. Het laatste jaar waarvoor cijfers voor voldoende landen beschikbaar waren, was 2018. De Nederlandse ICT-sector had toen een aandeel van 4,7 procent in de totale toegevoegde waarde in Nederland. In Zuid-Korea droegen ICT-bedrijven voor 11,7 procent bij aan de totale toegevoegde waarde van het land. Daarmee was het belang van de ICT-sector in Zuid-Korea voor de nationale economie groter dan in Nederland en veel andere landen.
+
+Vergeleken met de omringende landen lag het aandeel van de ICT-sector in de totale toegevoegde waarde in Nederland hoger dan in Duitsland (4,4 procent) en België (3,8 procent), maar lager dan in het Verenigd Koninkrijk (5,0 procent). De Spaanse ICT-sector is relatief klein, met 3,1 procent van de totale toegevoegde waarde van het land.
+
+ICT-dienstverleners waren verantwoordelijk voor 90 procent van de toegevoegde waarde van de Nederlandse ICT-sector in 2018. In de meeste landen uit figuur 2.1.5 namen bedrijven in ICT-diensten een groter deel van de toegevoegde waarde voor hun rekening dan bedrijven in de ICT-industrie. Uitzondering is Zuid-Korea, waar de ICT-industrie belangrijker is. In 2017 zorgden Zuid-Koreaanse industriële ICT-bedrijven voor 66 procent van de toegevoegde waarde van de ICT-sector in dat land. Ook in Hongarije en Finland is het aandeel van de ICT-industrie hoger dan in de meeste landen.
+
+Bijdrage telecomsector aan Nederlandse bbp stabiel
+
+De bijdrage van de telecomsector aan het bbp nam licht toe in 2020. De bruto toegevoegde waarde van telecombedrijven bedroeg bijna 7,8 miljard euro (tabel 2.1.6). Dit komt overeen met 0,98 procent van het bruto binnenlands product (bbp). Daarmee was het belang van de telecomsector ongeveer even groot als in 2019. De productiewaarde van de Nederlandse telecomsector bedroeg 14,4 miljard euro. Er werd voor bijna 3,4 miljard euro geïnvesteerd door de telecombedrijven in 2020. Dat is 3,2 procent meer dan in het jaar ervoor.
+
+Telecombedrijven namen 1,9 procent van de investeringen in vaste activa van de totale economie voor hun rekening in 2020. Het arbeidsvolume in de telecombranche bedroeg 25 duizend arbeidsjaren. Ten opzichte van 2019 is het aantal arbeidsjaren afgenomen (–‍1 000). Bedrijven in de telecomsector hadden in 2020 een aandeel van 0,32 procent in het totale arbeidsvolume in Nederland. Dit aandeel neemt al een aantal jaren af.
+
+Bron: CBS
+
+1) SBI 2008-groep 61 (telecommunicatie).
+
+2.2 ICT en werkgelegenheid
+
+Deze paragraaf besteedt aandacht aan de werkgelegenheid in de ICT-sector. In welke bedrijfstakken zijn ICT’ers werkzaam, en wat zijn hun achtergrondkenmerken? Ook het aantal vacatures in de ICT-sector komt aan bod.
+
+Meer dan een half miljoen ICT’ers werkzaam
+
+In 2021 waren 556 duizend ICT’ers werkzaam in diverse bedrijfstakken van de Nederlandse economie, 17 procent meer dan een jaar eerder (figuur 2.2.1). Deze toename, die veel sterker is dan in eerdere jaren, is deels het gevolg van een verandering in de waarneemmethode van het CBS. Echter, ook wanneer dit effect er niet zou zijn, zou er sprake zijn van een toename van het aantal ICT’ers. De exacte omvang van de stijging kan echter niet bepaald worden.
+
+In 2021 beschikte 68 procent van de ICT’ers over een vaste arbeidsrelatie met vaste uren. Het betrof 379 duizend personen. ICT’ers hebben relatief vaak een vast dienstverband. Ter vergelijking, in 2021 beschikte 57 procent van de totale Nederlandse beroepsbevolking over een vaste arbeidsrelatie. Het aantal zelfstandige ICT’ers bedroeg 73 duizend personen, 13 procent van alle ICT’ers. Het aantal ICT’ers met een flexibele arbeidsrelatie (een arbeidsovereenkomst voor bepaalde tijd óf een flexibel aantal uren per week) kwam uit op 104 duizend personen (19 procent).
+
+De schijnbare verdubbeling van het aantal ICT’ers met een flexibele arbeidsrelatie in 2021 in vergelijking met 2020 hangt samen met de eerdergenoemde wijziging in de waarneemmethode, en is geen reële ontwikkeling. Meer informatie over deze wijziging is te vinden.
+
+De statistische bijlage bij deze publicatie bevat een uitgebreide tabel met achtergrondkenmerken van werkzame ICT’ers (tabel 2.2.1a). Daaruit blijkt onder andere dat 85 procent van hen een man is en dat 79 procent ten minste 35 uur per week werkt. De tabel bevat ook cijfers over beroepsgroepen, leeftijdscategorieën en onderwijsniveaus van ICT’ers.
+
+Ruim derde ICT’ers werkt in informatie en communicatie
+
+Meer dan een derde van alle ICT’ers werkt in de bedrijfstak informatie en communicatie. In 2021 waren er 201 duizend ICT’ers werkzaam in deze bedrijfstak (tabel 2.2.2). Van hen verrichtte het merendeel dienstverlenende activiteiten op het terrein van informatietechnologie (86 procent). Circa twee op de drie ICT’ers werkten in andere sectoren. Onder andere bij energiebedrijven, financiële instellingen en het openbaar bestuur werken relatief veel ICT’ers.
+
+Bron: CBS
+
+1) Internationale definitie.
+
+In 2021 maakten ICT’ers 5,1 procent uit van de totale beroepsbevolking. In sommige bedrijfstakken zijn ICT’ers sterker vertegenwoordigd dan dit gemiddelde. Van alle personen werkzaam in de bedrijfstak informatie en communicatie had bijna 40 procent een ICT-baan. Ook bij energiebedrijven en financiële instellingen werkten relatief veel ICT’ers: ongeveer 1 op de 10 had een ICT-beroep. In de horeca (0,3 procent) en landbouw, bosbouw en visserij (0,6 procent) maakten ICT’ers naar verhouding juist een relatief klein deel uit van de werkzame beroepsbevolking in die bedrijfstakken.
+
+Relatief veel ICT-specialisten in Zweden
+
+In Zweden was 8,0 procent van de werkzame beroepsbevolking actief als ICT-specialist in 2021 (figuur 2.2.3). Dit aandeel was in Nederland kleiner: 6,7 procent. Ook in Finland maakten ICT-specialisten een groter deel uit van de werkzame beroepsbevolking dan in Nederland in dat jaar.
+
+Het aandeel ICT-specialisten in Nederland ligt ruim boven het gemiddelde in de EU. Het gemiddelde aandeel ICT-specialisten in de beroepsbevolking in de EU bedroeg 4,5 procent. Van de landen in de EU kenden Griekenland en Roemenië het kleinste aandeel ICT-specialisten in de werkzame beroepsbevolking. In alle EU-landen is het aandeel ICT-specialisten in 2021 hoger dan in 2015.
+
+36 procent ICT’ers jonger dan 35 jaar
+
+In 2021 was 36 procent van alle werkzame ICT’ers jonger dan 35 jaar. Dit aandeel is de afgelopen vijf jaar licht toegenomen (figuur 2.2.4); in 2016 was nog 33 procent van de ICT’ers jonger dan 35 jaar. Ook het aandeel werkzame ICT’ers van 55 tot 75 jaar nam toe in vergelijking met vijf jaar eerder; het bedroeg 15 procent in 2021, tegenover 14 procent in 2016. In 2011 had deze groep nog pas een aandeel van 10 procent.
+
+Het aandeel 35- tot 55‑jarige ICT’ers nam af. In 2016 behoorde 54 procent tot deze leeftijdscategorie; in 2021 gold dit voor 49 procent van de personen met een ICT-beroep.
+
+Werkzame personen in ICT-beroepen zijn gemiddeld nog steeds jonger dan in de totale economie. Het aandeel 45‑plussers in de gehele Nederlandse beroepsbevolking bedroeg 43 procent in 2021 tegen 40 procent van de werkzame personen met een ICT-baan.
+
+Aantal vacatures ICT-sector herstelt
+
+Eind december 2021 bedroeg het aantal openstaande vacatures in de ICT-sector bijna 23 600, ruim 9 duizend meer dan in dezelfde periode in het jaar ervoor (figuur 2.2.5). Het aantal openstaande vacatures vertoonde herstel. Als gevolg van de coronacrisis was het aantal vacatures bij ICT-bedrijven in het tweede kwartaal van 2020 teruggelopen tot 11 600. Aan het einde van 2021 waren er al weer twee keer zo veel vacatures. Het aantal vacatures lag in 2021 ook hoger dan het niveau van voor de coronacrisis.
+
+Ook in de economie als geheel zette in 2021 herstel in op de arbeidsmarkt, zij het iets minder sterk dan in de ICT-sector. Eind 2021 stonden in de gehele economie 376 duizend vacatures open. Dat was 88 procent meer dan aan het einde van het tweede kwartaal 2020, toen het aantal vacatures teruggelopen was tot 200 duizend. In het eerste kwartaal van 2022 steeg het aantal vacatures in de economie als geheel door naar 448 duizend. Het aantal vacatures in de ICT-sector in het eerste kwartaal van 2022 is op het moment van samenstellen van dit hoofdstuk nog niet bekend.
+
+Aandeel vacatures ICT-sector neemt toe
+
+Doordat het aantal openstaande vacatures in de ICT-sector sneller herstelde dan in de gehele economie, nam het aandeel van ICT-bedrijven in het totale aantal openstaande vacatures toe. Het bedroeg 7,0 procent in het eerste kwartaal van 2021. Dat is het hoogste niveau sinds het eerste kwartaal van 2016 (figuur 2.2.6). Het aandeel van de ICT-sector in het totale aantal vacatures was het grootst in het vierde kwartaal van 2015. Het bedroeg toen 8 procent.
+
+Vanaf het tweede kwartaal van 2021 steeg ook het aantal vacatures in de gehele economie sterk, waardoor het aandeel van de ICT-sector terugliep naar waardes vergelijkbaar met die van voor de coronacrisis.
+
+In paragraaf 4.2 van deze publicatie wordt ook aandacht besteed aan cijfers over ICT-vacatures (figuur 4.2.6). Daar gaat het echter om vacatures voor ICT-specialisten in alle bedrijfstakken, niet om alle vacatures in de ICT-sector zoals in dit hoofdstuk.
+
+2.3 ICT-bestedingen
+
+De binnenlandse bestedingen aan ICT-goederen en -diensten omvatten drie categorieën:
+
+De investeringen van bedrijven en overheden in ICT zoals hardware, software en elektronische netwerken.
+
+Het intermediair verbruik zoals de uitgaven van bedrijven en overheid aan goederen en diensten die in een productieproces gebruikt worden (loonkosten, afschrijvingen en investeringen vallen hier niet onder).
+
+De consumptie door huishoudens, zoals de aankoop van computers, tablets en smartphones.
+
+In deze paragraaf komt elk van deze categorieën aan bod.
+
+Investeringen in ICT groeien
+
+In 2020 was het volume van de ICT-investeringen 1,9 procent groter dan in 2019 (tabel 2.3.1). Zowel in computerhardware, software als elektronische netwerken werd meer geïnvesteerd. In 2020 groeide het volume van de investeringen in computerhardware het meest (6,9 procent). Ook het volume van de investeringen in elektronische netwerken en software was groter dan in 2019 (respectievelijk 3,1 en 0,9 procent).
+
+Gezamenlijk investeerden Nederlandse bedrijven en overheden ruim 176,8 miljard euro in 2020. Van dit bedrag betrof ruim 32,1 miljard euro investeringen in ICT. ICT-investeringen vertegenwoordigden daarmee 18 procent van de totale investeringen in Nederland. Binnen de ICT-investeringen zijn de investeringen in software het grootst. In 2020 investeerden Nederlandse bedrijven en overheden samen 24,8 miljard euro in software. Dat kwam overeen met 77 procent van de totale investeringen in ICT.
+
+Bron: CBS
+
+Aandeel ICT-investeringen verschilt sterk per bedrijfstak
+
+In de informatie- en communicatiebranche was ruim 57 procent van alle investeringen een investering in ICT in 2020 (figuur 2.3.2). Het aandeel is ten opzichte van 2016 kleiner geworden. In dat jaar maakten de ICT-investeringen nog 82 procent uit van alle investeringen in deze bedrijfstak. Ook financiële instellingen investeren relatief veel in ICT. In 2020 omvatten de ICT-investeringen daar 38 procent van het totaal. In de industrie beslaan ICT-investeringen een minder groot aandeel dan in ICT-intensieve bedrijfstakken zoals de informatie en communicatie en financiële sector. In 2020 betrof 20 procent van alle investeringen in de industrie een ICT-investering.
+
+De statistische bijlage bij deze publicatie bevat een tabel die het aandeel van ICT-investeringen laat zien voor meer bedrijfstakken (tabel 2.3.2a).
+
+ICT-uitgaven nemen weer toe
+
+In 2020 gaven bedrijven, overheden en consumenten samen ruim 61,9 miljard euro uit aan ICT-goederen en -diensten (tabel 2.3.3). Er werd 0,7 procent meer uitgegeven dan in 2019. Deze stijging wordt voornamelijk veroorzaakt door een toename van de bestedingen van huishoudens aan ICT. Deze zogenaamde consumptie bedroeg 11,9 miljard euro in 2020. Dit is 4,0 procent meer dan een jaar eerder. De waarde van ICT-goederen en -diensten die bedrijven en overheden in het productieproces verbruikten, het ‘intermediair verbruik’, bleef ongeveer gelijk. Hieronder vallen bijvoorbeeld de uitgaven die samenhangen met het onderhoud van software.
+
+Bedrijven en overheden gaven ruim 4 keer zo veel uit aan ICT als huishoudens. Het aandeel van bedrijven en overheden in de totale ICT-uitgaven is de laatste jaren stabiel gebleven. Het schommelde rond 81 à 82 procent in de periode 2017–2020.
+
+Bron: CBS
+
+De uitgaven aan ICT-goederen bedroegen 17,6 miljard euro in 2020. Dat was 4,9 procent minder dan in het jaar ervoor. Vooral bedrijven en overheden besteedden in 2020 minder aan ICT-goederen. De uitgaven van huishoudens aan ICT-goederen namen juist toe met 9,3 procent.
+
+Aan ICT-diensten werd 3,1 procent meer besteed in 2020. Deze stijging kwam vooral voor rekening van bedrijven en overheden die 3,5 procent meer uitgaven aan ICT-diensten dan in 2019. Maar ook consumenten besteedden meer aan ICT-diensten (0,7 procent).
+
+De totale consumptie van huishoudens daalde in 2020 naar 543 miljard euro. Hun ICT-uitgaven stegen echter, zoals hierboven al vermeld. Het aandeel uitgaven aan ICT in de totale consumptie door huishoudens steeg daardoor naar 2,2 procent.
+
+2.4 Internationale handel in ICT
+
+Fysieke afstanden zijn door digitalisering minder relevant geworden waardoor het voor bedrijven gemakkelijker geworden is om hun producten of diensten over de grens te verkopen. In deze paragraaf staat de handel in ICT tussen Nederland en andere landen centraal.
+
+ICT-import neemt toe, ICT-export neemt af
+
+In 2020 importeerde Nederland voor 64,7 miljard euro aan ICT-goederen en -diensten (tabel 2.4.1). Dat is 4,6 procent meer dan in 2019. De totale Nederlandse import nam juist af, met 8,1 procent ten opzichte van 2019. In 2020 maakte de import van ICT-goederen en -‍diensten 11,9 procent uit van de totale Nederlandse import. In 2019 was dit nog 10,4 procent. Vooral de import van ICT-diensten steeg hard (11,4 procent). De import van ICT-goederen steeg minder hard (3,0 procent).
+
+Nederland exporteerde in 2020 voor 30,7 miljard euro aan ICT-goederen en -diensten (exclusief wederuitvoer). Dat is 3,5 procent minder dan een jaar eerder. De daling is echter veel minder groot dan het jaar daarvoor, toen de ICT-export met 19 procent daalde. De daling van de ICT-export werd veroorzaakt doordat er minder ICT-goederen werden geëxporteerd (–‍12,7 procent), de export van ICT-diensten groeide wel (4,4 procent). In 2020 werd voor ruim 382 miljard euro geëxporteerd door Nederland. ICT-goederen en -diensten maakten hiervan 8,0 procent uit.
+
+Bron: CBS
+
+Groot deel ICT-export is wederuitvoer
+
+Naast de export van ICT-goederen en -diensten van Nederlandse makelij, bestaat een veel groter deel van de Nederlandse ICT-export uit wederuitvoer. Er is sprake van wederuitvoer als een ingezetene van Nederland een product (of dienst) importeert om dat vervolgens weer te exporteren, zonder het te bewerken. Nederlandse distributiecentra zijn voorbeelden van bedrijven die op deze manier werken. In 2020 realiseerde Nederland voor 40,7 miljard euro aan ICT-wederuitvoer. Dit komt overeen met 57,0 procent van de totale ICT-export. Het aandeel van wederuitvoer in de totale ICT-export is in de periode 2017–2020 ieder jaar toegenomen.
+
+Het aandeel van ICT-goederen en -diensten in de totale Nederlandse wederuitvoer is in 2020 toegenomen. In 2019 omvatte het 14,8 procent van de totale Nederlandse wederuitvoer. In 2020 bedroeg dit aandeel 16,7 procent.
+
+Aandeel wereldwijde exportwaarde ICT-diensten Nederland neemt af
+
+In 2020 nam Nederland 4,6 procent van de wereldwijde exportwaarde van ICT-diensten voor zijn rekening (figuur 2.4.2). Het aandeel van Nederland is afgenomen ten opzichte van 2015. Destijds had Nederland nog een marktaandeel van 6,7 procent in de wereldwijde export­waarde van ICT-diensten. Vooral Ierland is een grote exporteur op dit terrein. In 2020 had Ierland een aandeel van 20,4 procent. Ierland is al jarenlang een grote ICT-dienstenexporteur vanwege de aanwezigheid van grote buitenlandse ICT-bedrijven. Het aandeel van het land stijgt nog steeds gestaag. Het aandeel van een andere grote ICT-dienstenexporteur, India, is de laatste jaren gekrompen. China heeft juist aandeel gewonnen: het aandeel bedroeg 5,4 procent in 2015 tegen 7,9 procent in 2020.
+
+Sterke groei ICT-dienstenexport in Japan en Ierland
+
+Japan, Ierland en Zuid-Korea kenden een sterke gemiddelde jaarlijkse groei van de exportwaarde van ICT-diensten tussen 2017 en 2020. Gemiddeld nam de exportwaarde in Japan per jaar met 26,3 procent toe in deze periode; in Ierland met 25,5 procent (figuur 2.4.3). In Nederland groeide de waarde van de ICT-dienstenexport ook: gemiddeld met 10,6 procent per jaar. De gemiddelde groei van de ICT-dienstenexport van de EU als geheel bedroeg 13,2 procent in de periode 2017–2020.
+
+Figuur 2.4.3 toont ook de groei van de export van ICT-goederen. In een aantal landen was de gemiddelde groei van de exportwaarde van ICT-goederen in de periode 2017–2020 negatief. Ierland (+12,5 procent) en Polen (+9,5 procent) kenden nog wel een sterke groei van de ICT-goederenexport. Ook de waarde van de Nederlandse ICT-goederenexport groeide, met gemiddeld 3,9 procent per jaar. De gemiddelde groei binnen de EU was 4,7 procent per jaar.
+
+Importwaarde ICT-diensten in Zuid-Korea en Ierland sterk gegroeid
+
+Zuid-Korea en Ierland hadden in de periode 2017–‍2020 een sterke gemiddelde jaarlijkse groei van de importwaarde van ICT-diensten. In Zuid-Korea nam deze met 24,9 procent per jaar toe. In Ierland nam de importwaarde van ICT-diensten met gemiddeld 20,2 procent per jaar toe (figuur 2.4.4). De cijfers van Ierland worden sterk beïnvloed door de aanwezigheid van grote multinationals. Nederland zag de import van ICT-diensten gemiddeld met 11,7 procent stijgen in die periode. In de Verenigde Staten nam de import van ICT-diensten juist af (–‍3,6 procent).
+
+Figuur 2.4.4 toont naast de import van ICT-diensten ook de groei van de import van ICT-goederen. Ierland kende tussen 2017 en 2020 de hoogste gemiddelde groei van de importwaarde van ICT-goederen (12,6 procent). In Nederland steeg de import van ICT-goederen met gemiddeld 4,7 procent. Ook Polen kende een hoge gemiddelde groei (10,8 procent). De EU als geheel zag een groei van 1,3 procent per jaar.
+
+China belangrijkste ICT-importland
+
+Begin 2022 was rond 30 procent van de waarde van ICT-goederen die Nederland importeerde afkomstig uit China (figuur 2.4.5). China is met afstand de belangrijkste leverancier van ICT-goederen met een importwaarde van ruim 26,8 miljard euro in 2021. Ruim de helft van de waarde van alle ingevoerde goederen uit China bestond uit ICT-goederen in dat jaar. Het aandeel van China in de Nederlandse ICT-goederenimport kende in de periode 2012–‍2022 een vrij grillig verloop. Medio 2014 piekte het aandeel van China, met bijna 34 procent, om daarna terug te vallen naar 24 tot 28 procent. Begin 2020 daalde het aandeel van China naar 22,1 procent door het grotendeels stilvallen van de Chinese export als gevolg van de uitbraak van de coronapandemie (CBS, 2020a). Snel daarna steeg het aandeel van China echter weer.
+
+De op één na belangrijkste handelspartner van Nederland voor de invoer van ICT-goederen is Duitsland. Begin 2022 kwam rond 10 procent van de importwaarde van ICT-goederen uit Duitsland. Ook de Verenigde Staten, Hongkong en Maleisië zijn op dit terrein belangrijke handelspartners voor Nederland, hoewel het aandeel van Maleisië in 2021 en begin 2022 iets teruggelopen is.
+
+Vooral door de opkomst van China als ‘fabriek van de wereld’ importeert Nederland steeds minder ICT-goederen uit Europa. In 1996 was 55 procent van de importwaarde van ICT-goederen afkomstig uit Europa. Begin 2022 was dit teruggelopen naar rond 39 procent. Vanuit Azië kwamen juist steeds meer ICT-goederen naar Nederland: 54 procent aan het begin van 2022, tegen 33 procent in dezelfde periode in 1996.
+
+ICT-goederen vooral naar Duitsland
+
+Het aandeel van Duitsland in de totale ICT-goederenexport van Nederland bedroeg rond de 22 procent begin 2022 (figuur 2.4.6). Dat is rond het gemiddelde in de periode 2012–‍2021. Alle in 2021 naar Duitsland uitgevoerde ICT-goederen vertegenwoordigden samen een waarde van 17,5 miljard euro. Duitsland is al jarenlang de belangrijkste exportbestemming van ICT-goederen voor Nederland. Dit komt onder andere door de centrale ligging van Duitsland in Europa, de zeer grote omvang van de Duitse economie en het grote aantal buurlanden dat Duitsland heeft. Bovendien fungeert Nederland, en met name de haven in Rotterdam, als overslagpunt van veel goederen die Duitsland als bestemming hebben (CBS, 2020b).
+
+Frankrijk en het Verenigd Koninkrijk waren begin 2022 elk goed voor rond de 9 procent van de uitvoerwaarde van Nederlandse ICT-goederen. België en Polen gelden als twee andere belangrijke handelspartners van Nederland voor de Nederlandse ICT-goederenexport. Opvallend is dat de export van ICT-goederen naar Polen begin 2022 wat is teruggelopen.
+
+Terwijl Azië bij de import van ICT-goederen door Nederland een grote rol speelt, is dat bij de export veel minder het geval. Begin 2022 had de ICT-goederenuitvoer naar Azië een aandeel van 10 procent in de totale exportwaarde van ICT-goederen, terwijl Europese bestemmingen een aandeel van meer dan 80 procent hadden.
+
+2.5 Literatuur
+
+
+
+CBS (2020a). . Centraal Bureau voor de Statistiek, Heerlen, Den Haag, Bonaire.
+
+CBS (2020b). . Centraal Bureau voor de Statistiek, Heerlen, Den Haag, Bonaire.
+
+
+
+
+
+Noten
+
+Een oprichting is het ontstaan van een nieuw bedrijf. Dit betekent dat voldaan moet zijn aan economische criteria voor een bedrijf: er moet informatie beschikbaar zijn over werkgelegenheid of omzet van het bedrijf. Verder is het van belang dat het bedrijf daadwerkelijk nieuw is. De voortzetting van een of meerdere bestaande bedrijven is dan ook geen oprichting.
+
+Een opheffing is de beëindiging van een bestaand bedrijf. Dit betekent dat er geen sprake is van voortzetting van een belangrijk deel van de activiteiten door een ander bedrijf. Er is pas sprake van een opheffing als het bedrijf (met bijbehorende werkgelegenheid) niet meer tot de populatie behoort. Het bekendste voorbeeld hiervan is het faillissement.
+
+Bruto toegevoegde waarde is het verschil tussen de productie en het intermediair verbruik. Met productie worden in grote lijnen de inkomsten (omzet) van bedrijven en overheden bedoeld; met intermediair verbruik worden de uitgaven van bedrijven en overheden aangeduid, exclusief bijvoorbeeld loonkosten, afschrijvingen en investeringen.
+
+Totale economie: bedrijven en overheid.
+
+Een arbeidsjaar is een fulltime-equivalent (fte).
+
+Dit cijfer is gebaseerd op een andere van ICT-specialist dan in de figuren 2.2.1 en 2.2.4 en tabel 2.2.2. Deze wijkt af van de nationale definitie waardoor de uitkomst anders is.ICT-gebruik bij personen
+
+Van de Nederlandse bevolking vanaf 12 jaar was 88 procent dagelijks online in 2021. Tekstberichten versturen, internetbankieren en informatie zoeken waren de meest voorkomende online activiteiten. Ruim drie kwart van de Nederlanders deed in de eerste helft van 2021 online aankopen. Het verkopen van goederen via internet nam sterk toe. Nederland behoorde tot de Europese landen met het grootste aandeel inwoners dat vaardig is in internet-, computer- en softwaregebruik.
+
+3.1 Internettoegang en -gebruik
+
+Internet is niet meer weg te denken uit het dagelijks leven van de meeste Nederlanders. Dankzij de goede kwaliteit van de Nederlandse ICT-infrastructuur kan men vrijwel altijd en overal online zijn. De coronacrisis, die velen dwong thuis te studeren of te werken gedurende 2020 en 2021, heeft het gebruik van internet nog eens extra gestimuleerd.
+
+Het CBS doet jaarlijks onderzoek naar het ICT- en internetgebruik van de Nederlandse bevolking vanaf 12 jaar. Deze paragraaf beschrijft de toegankelijkheid van internet thuis en de mate waarin internet wordt gebruikt anno 2021. Trends worden vanaf 2016 weergegeven.
+
+Enquête ‘ICT-gebruik van huishoudens en personen’
+
+Om informatie te krijgen over hoe huishoudens en personen ICT en internet gebruiken, voert het CBS sinds 2005 jaarlijks de enquête ‘ICT-gebruik van huishoudens en personen’ uit. Elk jaar nemen gemiddeld 5 duizend personen deel aan dit onderzoek. In 2021 deden 5 950 personen mee.
+
+De onderzoekspopulatie bestaat uit alle inwoners van Nederland in de leeftijd van 12 jaar of ouder. In dit hoofdstuk wordt vanwege het leesgemak gesproken over ‘Nederlanders’, waar het eigenlijk gaat om inwoners van Nederland, ongeacht hun nationaliteit.
+
+De lidstaten van de Europese Unie (EU) zijn overeengekomen dat zij het ICT-onderzoek geharmoniseerd uitvoeren; alle landen gebruiken (in principe) dezelfde vragen en definities. Het Europese onderzoek richt zich op de bevolking van 16 tot 75 jaar. Het CBS werkt met een uitgebreidere populatie voor Nederland, namelijk inwoners vanaf 12 jaar. Hierdoor kunnen de Nederlandse cijfers in internationale vergelijkingen iets afwijken van de nationale cijfers.
+
+De dataverzameling vindt via internet en telefoon plaats. Het CBS vraagt in eerste instantie of de deelnemers de vragenlijst via internet willen invullen. Bij degenen die geen gehoor geven aan deze uitnodiging neemt het CBS de vragenlijst, indien mogelijk, telefonisch af.
+
+Vrijwel iedereen heeft thuis toegang tot internet
+
+In 2021 had 97 procent van de Nederlanders van 12 jaar of ouder thuis toegang tot internet. Het percentage personen met internettoegang thuis groeit niet veel meer de laatste jaren. Vijf jaar eerder bedroeg het al 94 procent. Van de groep personen die thuis géén toegang tot internet had in 2021 (3 procent), bestond het leeuwendeel uit 75‑plussers.
+
+Bijna 9 op de 10 dagelijks online
+
+In 2021 was 88 procent van de Nederlanders van 12 jaar of ouder dagelijks of vrijwel dagelijks online (figuur 3.1.1). In 2016 gold dit voor 82 procent van de bevolking. Vooral het dagelijks gebruik van internet onder 75‑plussers nam sterk toe. In 2021 ging 52 procent van hen dagelijks online, tegen 28 procent in 2016. Ook het aandeel 55- tot 75‑jarigen dat dagelijks internette nam toe. Personen tussen 25 en 45 jaar waren het vaakst dagelijks online: 95 procent maakte elke dag gebruik van het internet.
+
+Hoogopgeleiden zijn vaker dagelijks online dan lager opgeleiden. In 2021 (evenals in 2020) was 96 procent van de hoogopgeleiden dagelijks online tegen 76 procent van de laagopgeleiden. Met name onder laagopgeleiden is het percentage personen dat dagelijks internet gebruikt sterk gegroeid: in 2016 was het nog 67 procent.
+
+Nederland behoort, samen met Denemarken, Ierland, Luxemburg, Finland en Zweden, tot de kopgroep van EU-landen met inwoners van 16 tot 75 jaar die dagelijks online zijn. In 2021 gebruikte 9 op de 10 Nederlanders dagelijks het internet. Het EU-gemiddelde bedroeg 80 procent.
+
+Cijfers over dagelijks internetgebruik in de afzonderlijke EU-landen zijn opgenomen in deze .
+
+Zes procent maakt nooit gebruik van internet
+
+Van de Nederlanders van 12 jaar of ouder zei 6 procent in 2021 (evenals in 2020) nooit internet te hebben gebruikt (figuur 3.1.2). Dat zijn 852 duizend mensen. In 2016 gaf 8 procent aan nooit online te zijn geweest. Vooral onder ouderen daalde het aandeel dat nooit online was. In 2016 gaf bijna de helft van de 75‑plussers aan nooit internet te hebben gebruikt. In 2021 gold dit nog maar voor een kwart van hen. Ook onder de 65- tot 75‑jarigen nam het aandeel dat nooit online is geweest fors af, namelijk van 16 procent in 2016 tot 7 procent in 2021. Personen in de leeftijd van 12 tot 65 jaar maakten bijna allemaal gebruik van internet in 2021. Slechts 3 procent deed dat niet.
+
+Onder 75‑plussers zijn het vaker vrouwen dan mannen die geen internet gebruiken. In 2021 gaf 31 procent van de vrouwen en 18 procent van de mannen van 75 jaar of ouder aan nooit online te zijn geweest. Laagopgeleide 75‑plussers behoren vaker tot niet-internetters dan hoogopgeleide leeftijdsgenoten (37 tegen 4 procent). Ook in de andere leeftijdscategorieën zijn het vooral laagopgeleiden die aangeven nooit online te zijn geweest.
+
+Meer informatie over personen die nooit internet gebruiken, is opgenomen in deze .
+
+Smartphone meest gebruikt voor internettoegang
+
+Van de Nederlanders van 12 jaar of ouder gebruikten bijna negen op de tien een smartphone voor internettoegang. Ook laptops (74 procent) en tablets (52 procent) werden relatief vaak gebruikt om te internetten. Een desktopcomputer was minder populair (41 procent).
+
+Meer informatie over apparaten voor internettoegang, ook naar persoonskenmerken, is opgenomen in deze .
+
+3.2 Online communicatie
+
+Internet wordt veel gebruikt voor communicatie, zoals het versturen van berichten, bellen of deelnemen aan een sociaal netwerk. In deze paragraaf komen deze vormen van online communicatie aan bod.
+
+E-mailen en appjes sturen het meest populair
+
+E-mailen en tekstberichten sturen, via onder meer WhatsApp, zijn de meest voorkomende vormen van online communicatie (tabel 3.2.1). Bijna negen op de tien personen van 12 jaar of ouder gebruikten een van deze digitale communicatievormen in 2021. In alle leeftijdsgroepen tot 75 jaar waren e-mailen en appjes sturen even populair; 75‑plussers e-mailen vaker dan dat ze appen.
+
+Ten opzichte van 2016 gold voor alle vormen van online communicatie dat het gebruik ervan toenam. Vooral bellen via internet heeft een hoge vlucht genomen. In 2021 gebruikte 78 procent van de Nederlanders het internet om te bellen; in 2016 bedroeg dit aandeel nog 35 procent. Het gebruik van e-mail nam nauwelijks meer toe. In 2021 maakte, net als in 2020, 89 procent van de Nederlanders gebruik van e-mail tegen 85 procent in 2016. 88 procent wisselde in 2021 berichten uit via diensten als WhatsApp (2016: 75 procent). Ook zijn steeds meer mensen actief op sociale netwerken. In 2016 maakte 58 procent van de Nederlandse bevolking gebruik van sociale netwerken zoals Facebook, Twitter, Instagram of Snapchat. Dit aandeel nam toe tot 69 procent in 2021.
+
+Bron: CBS
+
+Vooral 12- tot 45‑jarigen bellen via internet
+
+Van de 12- tot 45‑jarigen belde 88 procent in 2021 via internet (figuur 3.2.2). Van de 75‑plussers deed 42 procent dit. Door 66 procent van de 65- tot 75‑jarigen werd aangegeven dat in 2021 via internet gebeld was. Hoogopgeleiden belden vaker online dan laagopgeleiden, 88 tegen 66 procent in 2021. Mannen en vrouwen maakten even vaak gebruik van bellen via internet.
+
+Nederland voorop met internetbellen in de EU
+
+In 2021 stond Nederland, na Cyprus, met 82 procent tweede op de ranglijst van EU-landen als het gaat om het percentage inwoners dat belt via internet (figuur 3.2.3). Ierland volgde met 79 procent; Zweden, Spanje en Malta met 76 procent. Het laagst was het percentage internetbellers in Polen en Duitsland (beide 56 procent). Het EU-27 gemiddelde bedroeg 65 procent in 2021.
+
+Steeds meer 65‑plussers appen
+
+Onder alle leeftijdsgroepen nam het (whats)appen de laatste jaren toe, maar de grootste groei is te zien bij 65‑plussers. Bij 65- tot 75‑jarigen nam het percentage gebruikers tussen 2016 en 2021 toe van 46 naar 83 procent; bij 75‑plussers, in dezelfde periode, van 15 naar 51 procent. Van de 12- tot 65‑jarigen appte meer dan 90 procent in 2021 (figuur 3.2.4). Het gebruik van appberichten verschilt niet naar geslacht.
+
+Jongeren meest actief op sociale netwerken
+
+In 2021 was 87 procent van de 12- tot 25‑jarigen actief op sociale netwerken zoals Facebook, Twitter, Instagram of Snapchat. De laatste jaren zijn ook steeds meer ouderen actief: onder 65- tot 75‑jarigen steeg het percentage socialenetwerkgebruikers tussen 2016 en 2021 van 29 naar 44 procent, en bij de 75‑plussers van 12 naar 22 procent. Laagopgeleiden maakten in 2021 minder vaak gebruik van sociale netwerken dan hoog- en middelbaar opgeleiden. Vrouwen waren vaker op sociale netwerken actief dan mannen.
+
+Meer informatie over communiceren via internet is opgenomen in deze .
+
+3.3 Informatie zoeken en vermaak
+
+Internet is ook een belangrijke bron van informatie, nieuwsgaring en vermaak. Deze paragraaf beschrijft welk soort informatie wordt gezocht, hoe vaak nieuwssites worden geraadpleegd, en hoe het internet als bron van vermaak wordt gebruikt.
+
+Nederland koploper in EU met online informatie zoeken
+
+Nederland behoort samen met Finland tot de kopgroep van de EU als het gaat om online informatie zoeken over goederen en diensten. In 2021 zochten negen op de tien Nederlanders en Finnen van 16 tot 75 jaar hierover op internet naar informatie (figuur 3.3.1). Ook in Ierland, Denemarken en Zweden was het aandeel inwoners dat online informatie zocht relatief hoog. Het EU-gemiddelde bedroeg 66 procent. Roemenië en Bulgarije scoorden met respectievelijk 44 en 46 procent het laagst.
+
+Online gezondheidsinformatie zoeken populair
+
+Bijna drie kwart van de Nederlanders van 12 jaar of ouder zocht in 2021 online naar informatie over gezondheid en leefstijl (figuur 3.3.2). Het gaat hierbij bijvoorbeeld om informatie over ziekten, voeding of beweging. Het gebruik van internet voor het zoeken naar gezondheidsinformatie is de laatste jaren toegenomen. In 2016 bedroeg het aandeel Nederlanders dat dit deed nog 58 procent.
+
+Het percentage vrouwen dat online naar dit soort informatie zocht, was hoger dan het percentage mannen (77 tegen 69 procent). Vooral 25- tot 45‑jarigen en 45- tot 65‑jarigen zochten in 2021 vaak online naar gezondheidsinformatie; respectievelijk 83 en 77 procent van de personen in deze leeftijdsgroepen. Jongeren van 12 tot 25 jaar en ouderen van 65 tot 75 jaar deden dit minder vaak. 75‑plussers zochten het minst vaak online naar gezondheidsinformatie. Wel is er een sterke toename bij deze groep; in 2021 zocht bijna de helft van de 75‑plussers online naar gezondheidsinformatie, een jaar eerder was dat 39 procent en in 2016 nog slechts 26 procent. Het aandeel hoogopgeleide Nederlanders dat online naar gezondheidsinformatie zoekt (85 procent), was groter dan het aandeel van middelbaar opgeleiden (78 procent) en laagopgeleiden (59 procent) in 2021.
+
+Nederlanders voorop in EU met online gezondheidsinformatie zoeken
+
+Nederland behoort samen met Finland tot de EU-kopgroep als het gaat om het online zoeken naar gezondheidsinformatie (figuur 3.3.3). 77 procent van de Nederlanders van 16 tot 75 jaar deed dit in 2021. In Finland was dit 80 procent. Het EU-gemiddelde bedroeg 55 procent in 2021. Vergeleken met 2020 is het aandeel mensen dat gezondheidsinformatie zoekt in drie EU-lidstaten (Duitsland, België en Slovenië) gedaald. De grootste toename vond plaats in Roemenië en op Cyprus.
+
+Meer cijfers over het online zoeken naar gezondheidsinformatie van de afzonderlijke EU-landen zijn opgenomen in deze .
+
+Internet belangrijke nieuwsbron
+
+In 2021 las 75 procent van de Nederlanders van 12 jaar of ouder online nieuws (tabel 3.3.4). Dit percentage is flink gestegen ten opzichte van 2016, toen nog 64 procent online nieuwsberichten, nieuwsbladen of kranten las of downloadde. Van de 18- tot 65‑jarigen nam in 2021 ruim 80 procent het nieuws tot zich via internet. Jongeren van 12 tot 18 jaar deden dit veel minder vaak: 44 procent. Ook onder 75‑plussers was het percentage dat in 2021 op internet nieuws las veel lager dan gemiddeld (46 procent). Ten opzichte van 2020 nam het online nieuwslezen in deze leeftijdsgroep wel toe. Het bedroeg toen 39 procent.
+
+Bron: CBS
+
+Nederland staat met Finland, Denemarken, Ierland en Tsjechië in de EU-top als het gaat om het online lezen of downloaden van nieuwsberichten, kranten en nieuwsbladen. In 2021 gebruikten acht op de tien Nederlanders van 16 tot 75 jaar het internet hiervoor. Het EU-gemiddelde bedroeg 64 procent.
+
+Cijfers over online nieuws lezen of downloaden voor afzonderlijke EU-landen zijn opgenomen in deze .
+
+Steeds vaker televisie via internet
+
+Online televisiekijken heeft de laatste jaren een hoge vlucht genomen. 69 procent van de Nederlanders van 12 jaar of ouder keek in 2021 televisie via internet (figuur 3.3.5). In 2016 was dat nog 45 procent. Televisiekijken via internet is populair bij 12- tot 65‑jarigen . Ouderen kijken minder online televisie. Van de 65- tot 75‑jarigen deed 55 procent dit; van de 75‑plussers 36 procent.
+
+Videowebsites, -apps en on demand streamingdiensten populair
+
+Bijna 8 op de 10 personen vanaf 12 jaar keken in 2021 naar filmpjes of video’s via een videowebsite of -app zoals YouTube. Ruim 2 op de 3 (68 procent) keken on demand films, series of programma’s via streamingdiensten als Netflix. Van de 12- tot 25‑jarigen keek 84 procent films of series via dit soort streamingdiensten. Video’s of filmpjes kijken via een videowebsite of -app is nóg populairder bij deze groep (91 procent).
+
+Behalve online TV kijken en online films kijken is ook het online muziek luisteren/downloaden of online spelletjes (af)spelen/downloaden toegenomen, namelijk van 57 procent in 2016 naar 75 procent in 2021. Ook hier geldt dat dit vooral bij jongeren een zeer populaire activiteit is: 91 procent van de 12- tot 25‑jarigen deed dat in 2021.
+
+3.4 Online dienstverlening
+
+Deze paragraaf beschrijft het gebruik van overheidswebsites en gezondheidsdiensten anno 2021. Ook internetbankieren komt aan bod.
+
+Gebruik overheidswebsites stabiliseert
+
+In 2021 maakte 87 procent van de Nederlandse bevolking van 16 tot 75 jaar minstens één keer per jaar gebruik van een overheidswebsite; een even groot aandeel als een jaar eerder. In 2019 was dat nog 81 procent. De sites werden vooral gebruikt om informatie te zoeken en om officiële documenten te versturen.
+
+Overheidswebsites en websites van publieke instanties
+
+Onder overheidswebsites vallen websites van overheidsinstanties zoals websites voor het doen van belastingaangifte, aanvragen van uitkeringen en subsidies, doorgeven van adreswijzigingen of maken van een afspraak voor bijvoorbeeld een paspoort of rijbewijs. Websites van publieke instanties zoals waterleveranciers, gezondheids- of onderwijsinstellingen of van bibliotheken, worden ook tot overheidssites gerekend.
+
+Nederland behoort tot de top vijf van EU-landen met het grootste aandeel inwoners dat gebruikmaakt van de digitale overheid in 2021 (figuur 3.4.1). Alleen Denemarken, Zweden, Ierland en Finland scoorden hoger. Het gebruik van de digitale overheid was het laagst in Roemenië en Bulgarije. Het EU-gemiddelde was 58 procent in 2021.
+
+Overheidswebsites vooral gebruikt voor informatie zoeken
+
+Nederlanders maken vooral gebruik van de overheidssites om informatie op te zoeken; 82 procent van hen had dit gebruiksdoel (figuur 3.4.2). Drie kwart bezocht overheidssites om documenten in te vullen en te versturen. 60 procent downloadde of printte een document van een overheidswebsite. Het versturen van ingevulde documenten via een overheidswebsite nam het meest toe tussen 2019 en 2021.
+
+Vooral 25- tot 55‑jarigen gebruiken overheidswebsites
+
+Negentig procent van de 25- tot 55‑jarigen maakte in 2021 gebruik van een overheidswebsite. Jongeren (16- tot 25‑jarigen) en 55- tot 65‑jarigen deden dat iets minder (respectievelijk 84 en 85 procent). Het percentage gebruikers van de digitale overheid was, met 79 procent, het laagst onder 65- tot 75‑jarigen (figuur 3.4.3).
+
+In 2021 gebruikte 96 procent van de hoogopgeleiden een overheidswebsite. Van de middelbaar opgeleiden deed dit 90 procent dit, van de laagopgeleiden 74 procent. Het percentage mannen dat gebruikmaakt van de digitale overheid is iets hoger dan het percentage vrouwen dat dit doet: 89 tegen 85 procent in 2021.
+
+Belangrijkste reden om geen documenten via digitale overheid te versturen: ‘omdat het niet nodig was’
+
+Van de Nederlanders die geen overheidsdocumenten via internet verstuurden, was voor bijna 80 procent een reden dat zij helemaal geen documenten hoefden in te dienen. Verder gaf 13 procent aan dat iemand anders de documenten online voor hen indiende. 4 procent wist niet hoe een overheidsdocument via internet moest worden verstuurd.
+
+Meer dan 4 op de 10 maken online afspraak met zorgverlener
+
+In de eerste helft van 2021 maakte 43 procent van de personen van 12 jaar of ouder online een afspraak met een huisarts of medisch specialist; een jaar eerder was dat nog 31 procent. Van de 75‑plussers maakte 33 procent online een medische afspraak. Van de jongeren van 12 tot 25 jaar, die relatief gezien de minste medische klachten hebben, deed 31 procent dit.
+
+Of mensen via internet een afspraak maken met een zorgverlener verschilt sterk naar opleidingsniveau. Het percentage hoogopgeleiden dat via internet een afspraak maakt met de huisarts of een medisch specialist was met 50 procent hoger dan dat van laagopgeleiden (34 procent). Van de middelbaar opgeleiden maakte 45 procent online een medische afspraak. Er is op dit punt weinig verschil tussen mannen en vrouwen.
+
+Meer dan 3 op de 10 gebruiken online gezondheidsdiensten
+
+In 2021 gebruikte 32 procent van de Nederlanders van 12 jaar of ouder online diensten van de huisarts of van het gezondheidscentrum. Een online consult of het online aanvragen van een herhaalrecept zijn voorbeelden van dit soort diensten. Een jaar eerder gold dat voor een kwart van de bevolking (figuur 3.4.4). 45- tot 75‑jarigen maakten het vaakst gebruik gemaakt van deze online diensten (35 procent). Hoog- en middelbaar opgeleiden verschilden in 2021 niet in het gebruik van online diensten van de huisarts of het gezondheidscentrum. Laagopgeleiden maakten wel minder vaak gebruik van dergelijke diensten.
+
+In 2021 bekeek 33 procent medische gegevens van henzelf of van gezinsleden online. Een jaar eerder was dat nog 18 procent.
+
+Internetbankieren onverminderd populair
+
+Internetbankieren is gemeengoed onder Nederlanders. In 2021 internetbankierde, net als in 2020, 85 procent van de Nederlanders van 12 jaar of ouder (figuur 3.4.5). In 2016 deed 77 procent de bankzaken online. Van de 25- tot 45‑jarigen deed bijna iedereen (94 procent) online bankzaken in 2021. Van de 75‑plussers internetbankierde 55 procent in dat jaar. Mannen deden vrijwel even vaak aan internetbankieren als vrouwen (86 tegen 85 procent). Hoog- en middelbaar opgeleiden maakten vaker gebruik van internetbankieren (respectievelijk 96 en 91 procent) dan laagopgeleiden (70 procent).
+
+Nederland in EU top-3 met internetbankieren
+
+Nederland had, na Denemarken (95 procent) en Finland (93 procent), met 91 procent het grootste aandeel inwoners van 16 tot 75 jaar dat internetbankiert van de EU in 2021 (figuur 3.4.6). Inwoners van Roemenië en Bulgarije internetbankierden nauwelijks (beide 15 procent). Het EU-gemiddelde in 2021 was 58 procent.
+
+3.5 Online winkelen
+
+Nederlanders kopen steeds vaker en meer via internet. Online winkelen staat in deze paragraaf centraal.
+
+Ruim drie kwart winkelt online
+
+In 2021 gaf 77 procent van de Nederlanders van 12 jaar of ouder, omgerekend ongeveer 11,7 miljoen mensen, aan iets online gekocht te hebben gedurende de drie maanden voorafgaand aan het onderzoek (figuur 3.5.1). In 2020 gold dat voor 71 procent van de 12‑plussers; in 2019 voor 64 procent van hen.
+
+Vooral kleding, schoenen en accessoires online aangeschaft
+
+In 2021 kocht 59 procent van de personen van 12 jaar of ouder online kleding, sportkleding, schoenen of accessoires zoals tassen en sieraden. Hiermee stonden deze goederen in de top van online aankopen door Nederlanders in 2021. Bijna de helft van de bevolking bestelde maaltijden bij een restaurant, fastfoodketen of cateraar. Rond de 30 procent kocht meubels, woonaccessoires of tuinartikelen, cosmetica of sportartikelen. De grootste groei tussen 2020 en 2021 vond plaats in de categorieën kleding/schoenen en maaltijden (figuur 3.5.2).
+
+Bijna een kwart kocht één of meer van de goederen online van een privépersoon, bijvoorbeeld via Marktplaats.
+
+Goederen en online producten/diensten
+
+Bij online winkelen wordt onderscheid gemaakt tussen enerzijds het leveren van fysieke, tastbare goederen zoals meubels, kleding, gedrukte boeken, en anderzijds het leveren van online producten of diensten zoals e-books, online spellen, online kaartjes en apps. Een voorbeeld: gedrukte boeken horen bij goederen en e-books bij online producten of diensten.
+
+Films en series vaakst gekochte online producten/diensten
+
+Van de 12‑plussers kocht bijna de helft (46 procent) in de drie maanden voorafgaand aan het onderzoek films of series via een streamingdienst. 35 procent kocht muziek via een streamingsdienst. Een abonnement voor internet of mobiele telefoon werd door een net zo groot aandeel aangekocht. Het online kaartjes kopen voor de bioscoop, concert of cultureel evenement is tussen 2020 en 2021 sterk gedaald van 29 naar 8 procent. In deze periode waren vanwege de coronacrisis forse beperkingen in de culturele sector van kracht (figuur 3.5.3).
+
+Vaker online aankopen voor een hoger bedrag
+
+Niet alleen kopen steeds meer mensen iets online, ook het bedrag dat ze besteden neemt toe. Van de mensen die in 2021 online iets kochten gaf 26 procent aan in totaal 500 euro of meer te hebben uitgegeven. Een jaar eerder was dit 21 procent (figuur 3.5.4). Mannen geven meer geld uit aan online aankopen dan vrouwen. 30 procent van de mannen tegen 22 procent van de vrouwen zei in totaal 500 euro of meer aan online producten of diensten te hebben uitgegeven.
+
+Het vaakst lag het bedrag dat aan internetaankopen wordt besteed tussen de 100 en 500 euro; in 2021 deed 42 procent aankopen in die prijsklasse. Niet alleen het aankoopbedrag, maar ook de frequentie van online aankopen is tussen 2020 en 2021 toegenomen. 42 procent van de Nederlanders kocht afgelopen jaar 6 keer of vaker iets via internet, tegen 33 procent in 2020.
+
+Online winkelen populairst onder 25- tot 45‑jarigen
+
+Vooral 25- tot 45‑jarigen kopen via internet: in 2021 kocht 89 procent van hen online goederen of diensten. De toename was het grootst bij 75‑plussers. Van hen deed 35 procent in 2021 online aankopen, tegen 25 procent een jaar eerder. Ook bij 65- tot 75‑jarigen werd online winkelen populairder: 68 procent van deze groep winkelde via internet in 2021 tegen 59 procent in 2020 (figuur 3.5.5).
+
+Mensen met weinig inkomen winkelen minder vaak online
+
+Tussen mensen met een hoog- en laag (gestandaardiseerd) inkomen bestaan grote verschillen wat betreft online winkelen. Van personen in de hoogste inkomensgroep (vierde kwartiel) winkelde 89 procent online in 2021. Van degenen in de laagste inkomensgroep (eerste kwartiel) deed 61 procent aankopen via internet.
+
+Het aandeel mannen en vrouwen dat aan e-shoppen doet is even groot: 77 procent van beide seksen winkelde in 2021 online.
+
+Klachten over online aankopen toegenomen, vooral over te late levering
+
+Van de Nederlanders die in 2021 online winkelden heeft 56 procent problemen ervaren. In 2019 was dit nog 51 procent. Te late levering van de bestelde producten was de meest genoemde klacht onder online shoppers; 40 procent klaagde hierover. In 2019 deed 34 procent dat (figuur 3.5.6). Op de tweede en derde plaats van meest genoemde klachten in 2021 volgden technische problemen bij het bestellen of betalen (19 procent) en het ontvangen van verkeerde of beschadigde goederen en moeilijkheden bij het vinden van informatie over garantie (beide 13 procent). Het percentage slachtoffers van digitale koopfraude, omdat goederen of diensten niet werden geleverd, en de klacht dat de uiteindelijke kosten hoger waren, zijn nauwelijks veranderd sinds 2019.
+
+Soms liever naar de fysieke winkel
+
+Ongeveer 1,9 miljoen Nederlanders gaven aan in de drie maanden voorafgaand aan het onderzoek géén online aankopen gedaan te hebben. De meesten, 85 procent, van hen gaven als belangrijkste reden hiervoor op dat ze liever een winkel bezoeken, bijvoorbeeld om het product in het echt te zien. Ruim 60 procent had geen behoefte aan online winkelen. 40 procent was bezorgd over de veiligheid en privacy en wilde geen creditcard- of persoonlijke gegevens afgeven. Een net zo groot aandeel zei niet te weten hoe je online kunt winkelen.
+
+Nederland koploper in Europa met e-shoppen
+
+Nederland heeft van alle EU-landen het hoogste percentage personen dat in de eerste helft van 2021 online winkelde; 83 procent van de 16- tot 75‑jarige Nederlanders deed dit. Ook in Denemarken, Ierland en Zweden is online winkelen relatief populair (figuur 3.5.7). Het EU-gemiddelde bedroeg 57 procent. Inwoners van Bulgarije en Roemenië winkelden met respectievelijk 20 en 23 procent het minst online.
+
+Verkopen van goederen of diensten: de andere kant van e-commerce
+
+Nederland staat in de EU ook aan kop als het gaat om het online verkopen van goederen of diensten via sites als Marktplaats en eBay in 2021: 43 procent van de 16- tot 75‑jarige Nederlanders deed dit in dat jaar. Malta en Denemarken volgden als nummer twee en drie, met respectievelijke 35 en 34 procent. Inwoners van Cyprus (2 procent), Griekenland (3 procent) en Roemenië (5 procent) gebruikten het internet nauwelijks voor dit doel. Het EU-gemiddelde bedroeg 18 procent in 2021.
+
+Cijfers over het verkopen via internet voor de afzonderlijke Europese landen zijn opgenomen in deze .
+
+3.6 Privacy op internet
+
+Doordat Nederlanders het internet steeds vaker gebruiken, neemt ook de kans op blootstelling aan online risico’s toe. Deze paragraaf gaat in op hoe internetgebruikers hun persoonlijke gegevens beschermen.
+
+9 op de 10 internetters beschermen hun persoonsgegevens
+
+Van de internetgebruikers van 12 jaar of ouder gaf 89 procent in 2021 aan maatregelen te hebben genomen om persoonlijke gegevens op internet te beschermen. Dit is hetzelfde percentage als een jaar eerder. In 2016 was dat nog 79 procent (figuur 3.6.1). In 2021 beschermde 77 procent persoonlijke gegevens op internet door de toegang tot locatiegegevens te beperken of te weigeren, en stond 74 procent niet toe dat persoonlijke gegevens werden gebruikt voor commerciële doeleinden. Zes op de tien controleerden de veiligheid van de website voordat zij persoonlijke gegevens achterlieten, en beperkten de toegang tot profielgegevens. Minder dan de helft (43 procent) las het privacy statement vóór het invullen van persoonlijke gegevens. In vergelijking met 2016 is het beperken of weigeren van toegang tot locatiegegevens het sterkst toegenomen.
+
+Ouderen beschermen persoonsgegevens minst vaak
+
+Internetgebruikers van 65 jaar of ouder beschermen persoonsgegevens op internet minder vaak dan personen jonger dan 65 jaar. In 2021 was 79 procent van de 65‑plussers actief bezig met de bescherming van persoonlijke informatie, terwijl 92 procent van de 12- tot 65‑jarigen dit deed. 75‑plussers doen het minst vaak aan bescherming van persoonlijke informatie op internet, namelijk 70 procent in 2021, tegen 83 procent van de 65- tot 75‑jarigen (figuur 3.6.2). Gemiddeld beschermde 89 procent van de internetgebruikers persoonlijke gegevens op internet.
+
+Nederland EU-koploper in beperking toegang persoonsgegevens op internet
+
+In 2021 had Nederland, samen met Finland, met 91 procent het hoogste percentage 16- tot 75‑jarige internetgebruikers dat maatregelen nam om persoonlijke informatie op internet te beschermen. Het EU-gemiddelde was 73 procent. Roemenië scoorde met 56 procent het laagst (figuur 3.6.3).
+
+Van de Nederlandse 16- tot 75‑jarige internetgebruikers had 80 procent in 2021 de toegang tot locatiegegevens beperkt of geweigerd. Dit is verreweg het hoogste percentage in de EU, waar het gemiddelde 50 procent was. Ook stonden Nederlanders het vaakst niet toe dat persoonlijke gegevens voor commerciële doeleinden worden gebruikt. In 2021 zei 77 procent van de Nederlandse internetters dat niet toe te staan, tegen 56 procent gemiddeld in de EU.
+
+3.7 Digitale vaardigheden
+
+Digitale vaardigheden worden steeds belangrijker in de samenleving. Wie niet om kan gaan met een computer of internet, heeft bijvoorbeeld minder mogelijkheden op de arbeidsmarkt. Daarnaast kan op sociaal gebied een gebrek aan digitale vaardigheden leiden tot minder contacten. Deze paragraaf beschrijft de digitale vaardigheden van Nederlanders.
+
+Indicatoren digitale vaardigheden
+
+Digitale vaardigheden worden bepaald aan de hand van het aantal activiteiten op volgende vijf gebieden:
+
+informatie en digitale geletterdheid
+
+online communicatie
+
+computers en online diensten
+
+privacybescherming
+
+softwaregebruik
+
+Iemand heeft digitale basisvaardigheden als hij/zij ten minste één activiteit uitvoert op de gebieden informatie en communicatie en één of twee op de andere gebieden. Meer dan digitale basisvaardigheden heeft iemand als er twee of meer activiteiten worden uitgevoerd op de gebieden informatie en communicatie en drie of meer op de andere gebieden.
+
+Nederland en Finland aan kop in EU met minimaal basisvaardigheden
+
+Samen met Finland had Nederland het hoogste percentage inwoners dat ten minste over digitale basisvaardigheden beschikte in 2021, namelijk 79 procent (figuur 3.7.1). Hiermee heeft Nederland het Europese doel voor 2030 al bijna bereikt. In dat jaar moet 80 procent van de EU-bevolking in de leeftijdsgroep van 16 tot 75 jaar ten minste digitale basisvaardigheden hebben (Europese Commissie, 2021). Als het gaat om het percentage inwoners met méér dan basisvaardigheden dan is Nederland met 52 procent zelfs koploper, gevolgd door wederom Finland (48 procent). Bulgarije en Roemenië hadden, met respectievelijk 31 en 28 procent, de laagste percentages inwoners met minimaal basisvaardigheden. Ook Polen (43 procent) en Italië (46 procent) scoorden op dit punt duidelijk lager dan het EU-gemiddelde van 54 procent.
+
+Meeste vaardigheden op gebied van communicatie
+
+In 2021 bezat 93 procent van de 16- tot 75‑jarigen Nederlanders meer dan digitale basisvaardigheden op het gebied online communicatie. Het gaat dan om e-mailen, bellen via internet, sociale netwerken gebruiken en online een mening geven over maatschappelijke of politieke kwesties (figuur 3.7.2). Het EU-gemiddelde op dit gebied was 77 procent.
+
+Op de deelgebieden informatie en digitale geletterdheid (bijvoorbeeld online informatie opzoeken, nieuws lezen, nepnieuws herkennen) en computers en online diensten (bijvoorbeeld online winkelen, apps installeren en een online cursus volgen) had respectievelijk 89 en 83 procent van de Nederlanders in 2021 vaardigheden die het basisniveau ontstijgen. Het EU-gemiddelde op deze terreinen bedroeg respectievelijk 68 en 53 procent.
+
+Nederlanders relatief minder vaardig met softwaregebruik
+
+Privacybescherming en vooral softwaregebruik zijn relatief lastigere gebieden voor Nederlanders en andere EU-burgers. Op het gebied van privacybescherming beschikte desalniettemin 72 procent van de Nederlanders over meer dan basisvaardigheden. Waar het gaat om softwaregebruik gold dat voor 65 procent. Het EU-gemiddelde op deze gebieden was respectievelijk 44 en 45 procent. Bij softwaregebruik gaat het onder andere om het gebruik van programma’s voor tekstverwerking en spreadsheets. Ook het schrijven van computerprogramma’s in een programmeertaal wordt hiertoe gerekend.
+
+Grote verschillen in vaardigheden naar leeftijd en opleidingsniveau
+
+Wat mensen met internet en computers kunnen, verschilt sterk naar leeftijd en opleidingsniveau. Zo was het percentage Nederlanders met meer dan basisvaardigheden in 2021 bij 25- tot 45‑jarigen ruim twee keer zo hoog als bij 65- tot 75‑jarigen, namelijk 64 tegen 28 procent (figuur 3.7.3). Van de hoogopgeleiden had 70 procent digitale vaardigheden boven het basisniveau. Dit percentage is meer dan twee keer zo hoog als bij laagopgeleiden (31 procent). Van de middelbaar opgeleiden had de helft meer dan basisvaardigheden.
+
+De verschillen in digitale vaardigheden naar geslacht zijn kleiner. Het percentage mannen met meer dan basisvaardigheden was 56 procent, tegen 47 procent bij vrouwen.
+
+3.8 Bekendheid en bezit van digitale DAB‍+ radio
+
+DAB‍+ is de digitale opvolger van FM. Met DAB‍+ is het mogelijk om via de digitale ether radio te luisteren. De laatste paragraaf van dit hoofdstuk gaat over de bekendheid van DAB‍+ onder de Nederlandse bevolking en het bezit van DAB‍+-apparaten.
+
+Bijna helft Nederlanders bekend met DAB‍+
+
+In 2021 had 49 procent van de Nederlanders van 12 jaar of ouder weleens van DAB‍+ gehoord (tabel 3.8.1). Dit percentage is flink hoger dan in 2016, toen 29 procent bekend was met DAB‍‍+. In de jaren daarvoor was de bekendheid van digitale radio nog lager.
+
+DAB‍+ geniet aanzienlijk meer bekendheid onder mannen dan onder vrouwen. In 2021 had 61 procent van de mannen weleens van DAB‍+ gehoord tegen 37 procent van de vrouwen. Ook zijn er verschillen naar opleidingsniveau. Van de middelbaar- en hoger opgeleiden was 58 procent bekend met DAB‍+, van de lager opgeleiden gold dat voor 32 procent.
+
+Bron: CBS
+
+1) Heeft wel eens van DAB‍+ gehoord.
+
+Digitale radio: betere kwaliteit en meer mogelijkheden
+
+Digitale radio biedt voordelen boven het analoge (FM-)signaal, vergelijkbaar met de voordelen van digitale televisie. Het digitale signaal levert doorgaans een betere geluidskwaliteit op en biedt meer mogelijkheden dan analoge radio. Er bestaan verschillende manieren om digitaal naar radiozenders te luisteren, bijvoorbeeld online op een computer, smartphone, of tablet, al dan niet via een app. Sinds 2004 zenden radiostations in een groot deel van Nederland ook digitale radio via de ether uit, naast de FM of middengolf. Tot medio 2013 werd in Nederland veelal het T-DAB-signaal gebruikt voor digitale radio via de ether. Sindsdien maken vrijwel alle publieke en commerciële radiozenders met een etherfrequentie gebruik van het nieuwere DAB‍+. Om uitzendingen via het DAB‍+-signaal te kunnen beluisteren, is een speciale ontvanger nodig.
+
+DAB‍+-apparaat in 22 procent van de huishoudens
+
+In 2021 was 22 procent van de Nederlandse huishoudens in het bezit van een DAB‍+-apparaat. Het kan dan gaan om een apparaat in huis, maar ook om een DAB‍+-radio in de auto. Dit percentage is bijna vier keer zo hoog als in 2016, toen 6 procent in het bezit van een DAB‍+-apparaat was.
+
+Meer informatie over DAB‍+ is opgenomen in deze .
+
+3.9 Literatuur
+
+
+
+Europese Commissie (2021). . Europese Commissie, Brussel.
+
+
+
+
+
+Noten
+
+Het gestandaardiseerd huishoudensinkomen is toegekend aan alle personen in het huishouden als een maat voor de welvaart. De huishoudens zijn naar hoogte van hun gestandaardiseerd inkomen in vier groepen (inkomenskwartielgroepen) met een gelijk aantal huishoudens verdeeld. Het gestandaardiseerd inkomen is het besteedbaar inkomen gecorrigeerd voor verschillen in grootte en samenstelling van het huishouden.ICT-gebruik bij bedrijven
+
+Auteur: Raymond Kleingeld
+
+De rol van ICT in het Nederlandse bedrijfsleven blijft groeien. Vrijwel alle Nederlandse bedrijven hadden in 2021 toegang tot internet en beschikten veelal over snellere internetverbindingen dan gemiddeld in Europa. Driekwart van de werkzame personen gebruikte internet voor het werk. Ook relatief nieuwe ICT-toepassingen vinden hun weg bij bedrijven. 2 van de 3 bedrijven maakte gebruik van clouddiensten. Door 1 op de 5 bedrijven werd gebruikgemaakt van ‘slimme systemen’ (Internet of Things).
+
+4.1 Internettoegang en –gebruik
+
+Informatie- en communicatietechnologieën (ICT) zijn de laatste decennia in hoog tempo doorgedrongen in het Nederlandse bedrijfsleven. De coronapandemie heeft de inzet van ICT nog eens versneld. Mede dankzij de kwaliteit van de Nederlandse ICT-infrastructuur konden bedrijven schakelen tussen het fysieke en digitale domein. Veelal wordt ICT als cruciaal geacht voor het behalen van concurrentievoordeel. Bijvoorbeeld door nieuwe producten en processen te ontwikkelen of bestaande te optimaliseren. Bedrijfstakken verschillen in de manieren waarop zij ICT gebruiken. Een transportbedrijf kan bijvoorbeeld veel baat hebben bij technologie die de locatie van objecten zichtbaar maakt, terwijl voor veel hotels een website met boekingsmogelijkheid van vitaal belang is. Dergelijke strategische en bedrijfseconomische afwegingen bepalen hoe een bedrijf ICT inzet. Ook tussen grote en kleine bedrijven bestaan verschillen in de manier waarop ICT van toegevoegde waarde is, zoals zal blijken in het vervolg van dit hoofdstuk.
+
+Enquête ‘ICT-gebruik bedrijven’
+
+De enquête ‘ICT-gebruik bedrijven’ verzamelt jaarlijks gegevens over de automatisering en de toepassing van ICT bij bedrijven in Nederland. Ze beschrijft onder andere het computer- en internetgebruik, in- en verkoop via elektronische netwerken, software en ICT-applicaties. De enquête ‘ICT-gebruik bedrijven’ hanteert een steekproef van ruim 15 duizend bedrijven. De onderzoekspopulatie bestaat uit bedrijven met 10 of meer werkzame personen. De laatste jaren is dit onderzoek, met een iets minder uitgebreide vragenlijst, ook uitgevoerd onder bedrijven met 2 tot 10 werkzame personen. Deze enquête onder kleinere bedrijven hanteert een steekproef van 11,8 duizend bedrijven. Het afgelopen jaar is dit onderzoek, eveneens met een iets minder uitgebreide vragenlijst, ook uitgevoerd onder zelfstandigen zonder personeel (zzp’ers). Deze enquête onder zzp’ers hanteert een steekproef van ruim 22 duizend zzp’ers.
+
+Niet alle bedrijfstakken behoren tot de onderzoekspopulatie van het onderzoek; landbouwbedrijven vallen hier bijvoorbeeld niet onder. De onderstaande tabel geeft een overzicht van de bedrijfstakken die de enquête ‘ICT-gebruik bedrijven’ omvat. De tabel bevat per bedrijfstak ook de korte benaming van de bedrijfstak die in dit hoofdstuk gebruikt is om de tekst leesbaarder te maken.
+
+De meeste vragen in de enquête gaan over de actuele situatie in een bedrijf. Omdat het onderzoek in 2021 is gehouden heeft in dat geval het cijfer betrekking op het verslagjaar 2021. Andere vragen gaan over het laatste volledige kalenderjaar. Het verslagjaar is dan 2020. Dit is bijvoorbeeld van toepassing als de vraag te maken heeft met een afgerond boekjaar, zoals bij vragen over e-commerce. Doordat ICT-toepassingen zich zeer snel ontwikkelen, wijzigt de inhoud van de enquête ‘ICT-gebruik bedrijven’ vrijwel jaarlijks. Waar in de jaren 80 centraal stond of bedrijven überhaupt computers en automatiseringspersoneel hadden, ligt in recente jaren de nadruk meer op onderwerpen zoals internet, e-commerce, en toepassingen van software. Deze sterk inhoudelijke veranderingen zorgen ervoor dat lange tijdreeksen niet beschikbaar zijn. Het is wel mogelijk Nederland te vergelijken met andere landen in de Europese Unie (EU) doordat EU-lidstaten hebben afgesproken het onderzoek geharmoniseerd uit te voeren; er is afgestemd welke populatie en definities worden gebruikt en welke vragen in de enquête worden opgenomen (Eurostat, 2021). Naast deze internationaal afgesproken populatie heeft het CBS voor een breder beeld nog enkele extra bedrijfstakken in het onderzoek betrokken, namelijk de financiële instellingen en de gezondheidszorg. Door dit methodologische verschil kunnen de totaaluitkomsten van Nederland bij de internationale vergelijkingen in dit hoofdstuk afwijken van het nationale beeld.
+
+Toegang tot internet vanzelfsprekend
+
+Toegang tot internet is voor bedrijven in Nederland al jaren vanzelfsprekend. Praktisch alle bedrijven met 10 of meer werkzame personen gebruiken een hoogwaardige vaste of mobiele internetverbinding zoals glasvezel, kabel, DSL of 4G/5G. Vaste verbindingen met een snelheid van ten minste 30 Mbit per seconde zijn tegenwoordig de standaard bij bedrijven. Waar 36 procent van de bedrijven in 2012 over een dergelijke snelle verbinding beschikte, was dit aandeel in 2021 gegroeid naar 91 procent (figuur 4.1.1). Bij bedrijven met 500 of meer werkzame personen beschikte 98 procent van de bedrijven over een vaste internetverbinding van ten minste 30 Mbit per seconde. Bij bedrijven met 10 tot 20 werkzame personen was dit aandeel 89 procent. Van de kleinste bedrijven, met 2 tot 10 werkzame personen, had 76 procent een vaste verbinding sneller dan 30 Mbit per seconde in 2021.
+
+Ruim 1 op de 10 bedrijven beschikte in 2021 over een internetverbinding met een downloadsnelheid van ten minste 1 Gbit per seconde. Vooral grote bedrijven met 500 werkzame personen of meer hadden dergelijke verbindingen (33 procent). Bij bedrijven met 10 tot 20 werkzame personen bedroeg het aandeel 9 procent.
+
+Nederlandse bedrijven hebben sneller internet dan gemiddeld in EU
+
+Nederlandse bedrijven met 10 of meer werkzame personen beschikken over snellere internetverbindingen dan gemiddeld in de EU. 9 op de 10 bedrijven hadden een internetverbinding met een snelheid van ten minste 30 Mbit per seconde in 2021 (figuur 4.1.2). Gemiddeld was dit 81 procent in de EU in dat jaar. In Denemarken was het aandeel bedrijven met een internetverbinding van minstens 30 Mbit/sec het grootst: 95 procent. Waar het gaat om gigabit-verbindingen is Denemarken eveneens het land met het grootste aandeel bedrijven dat hierover beschikte: 21 procent. Internetverbindingen sneller dan 30 Mbit per seconde komen steeds meer voor in Europa. In 2019 had van de bedrijven in Nederland 75 procent een verbinding sneller dan 30 Mbit; in de EU bedroeg dit percentage gemiddeld 50 procent in dat jaar.
+
+Bijna 2 op 3 bedrijven verstrekten apparatuur voor mobiel internet
+
+In 2021 verschafte 63 procent van de bedrijven met 10 of meer werkzame personen draagbare apparatuur aan het personeel, waarmee via mobiel breedband (zoals 4G) kon worden geïnternet voor het werk (tabel 4.1.3). Bij bedrijven met 500 of meer werkzame personen is dit anno 2021 vrijwel gemeengoed; 93 procent van de bedrijven verstrekte een smartphone, tablet of laptop. Bij bedrijven met 10 tot 20 werkzame personen verschafte 52 procent een apparaat met mobiel internet aan het personeel in dat jaar. Dit betekent overigens niet dat alle werkzame personen van een bedrijf over een door de werkgever verstrekt apparaat beschikten (zie figuur 4.2.2).
+
+Bron: CBS
+
+Merendeel Nederlandse bedrijven heeft website
+
+In 2021 had volgens de Europese meetmethode 92 procent van de Nederlandse bedrijven met 10 of meer werkzame personen een eigen website. Daarmee scoorde Nederland hoger dan het EU-gemiddelde, dat 78 procent bedroeg. In Finland was het aandeel bedrijven met een website het grootst: 96 procent. Zweden, Oostenrijk en Duitsland scoorden ook hoog. Van de Zweedse en Oostenrijkse bedrijven had 91 procent een website, van de Duitse bedrijven 89 procent. In Roemenië en Bulgarije was dit aandeel flink lager: respectievelijk 51 en 52 procent.
+
+Cijfers over websites voor meer Europese landen zijn te vinden in deze .
+
+Bedrijven met 10 of meer werkzame personen gebruiken de website vaak om hun goederen of diensten te beschrijven of prijzen te tonen. Bijna 8 op de 10 Nederlandse bedrijven hadden in 2021 een overzicht van producten en prijzen online geplaatst (figuur 4.1.4). Bedrijven gebruikten hun website ook vaak om te verwijzen naar hun pagina op sociale media (64 procent). Ruim een derde van de bedrijven bood op hun website de mogelijkheid om online te bestellen, boeken of reserveren (37 procent). Bij 11 procent konden klanten via de website ook de voortgang van hun bestelling volgen, of was informatie over de status van de bestelling beschikbaar. Ruim een kwart van de bedrijven gebruikte de website om klantspecifieke informatie voor reguliere bezoekers aan te bieden. De functionaliteit die klanten in staat stelt zelf hun product te ontwerpen of aan te passen via de website werd maar door weinig bedrijven aangeboden (7 procent).
+
+Kleine bedrijven hebben minder vaak een eigen website dan grote. Van de bedrijven met 2 tot 10 werkzame personen had 75 procent een website tegen 93 procent van de bedrijven met 10 werkzame personen of meer. In 2021 had 60 procent van de bedrijven met 2 tot 10 werkzame personen een overzicht van producten en prijzen online geplaatst. Zij gebruikten hun website niet vaak om te verwijzen naar een pagina op sociale media (36 procent).
+
+Meer informatie over websites en het gebruik ervan door kleine bedrijven is opgenomen in deze .
+
+Hoe een website wordt ingezet is sterk afhankelijk van de bedrijfstak waartoe het bedrijf behoort. Onder bedrijven met 10 of meer werkzame personen bieden websites van hotels e.d. (logiesaccommodaties) en bedrijven actief in de reisbranche het vaakst de mogelijkheid om te boeken, reserveren of bestellen (respectievelijk 84 en 74 procent in 2021). Het beschrijven van producten en tonen van prijzen op de website kwam eveneens veel voor bij logiesaccommodaties (88 procent), maar ook bedrijven in de verzekeringsbranche en bij IT- en informatiedienstverlening (beide 87 procent) hadden deze informatie relatief vaak op de websites staan. Bijna 6 op de 10 bedrijven actief in verzekeringen boden klantspecifieke informatie voor vaste bezoekers. Verwijzen naar een profiel op sociale media kwam relatief vaak voor bij uitgeverijen en telecommunicatiebedrijven.
+
+Meer informatie over het bezit en gebruik van websites door bedrijven met 10 of meer werkzame personen, naar bedrijfstak, is opgenomen in deze .
+
+Sociale netwerken meest ingezette vorm van sociale media
+
+Veel bedrijven maken gebruik van sociale media. Daarbij gaat het niet alleen om marketing en klantrelaties, maar het kan ook gaan om bijvoorbeeld dienstverlening, inkoop, R&D en innovatie of de interne inzet van sociale media. De inzet van sociale media kan in principe alle facetten van een bedrijf raken. De inzet van sociale media kan bedrijven competitief voordeel opleveren. Bedrijven die niet meedoen prijzen zich mogelijk op den duur uit de markt.
+
+De meest ingezette vorm van sociale media in 2021 waren sociale netwerken. Bijna 8 van de 10 bedrijven met 10 of meer werkzame personen maakten gebruik van een sociaal netwerk, zoals Facebook, LinkedIn of Yammer (tabel 4.1.5). Multimedia delen (bijvoorbeeld via YouTube) deed 45 procent van de bedrijven. Twitter of andere (micro)blogs werden door iets meer dan een vijfde van de bedrijven gebruikt. Het maken van wiki’s om kennis te delen kwam het minst vaak voor (7 procent).
+
+Bron: CBS
+
+Het aandeel bedrijven dat een sociaal netwerk gebruikt, was het grootst in de bedrijfstak informatie en communicatie en in de ICT-sector in 2021 (respectievelijk 91 en 89 procent). Ook de andere vormen van sociale media (blogs, multimedia en wiki’s) werden het vaakst ingezet door bedrijven in deze bedrijfstakken. Niet alleen de bedrijfstak waarin een bedrijf actief is, is van invloed op het gebruik van sociale media, ook de bedrijfsomvang speelt een rol.
+
+Het aandeel grote bedrijven dat sociale media gebruikt, is groter dan het aandeel van kleine. Ruim 9 op de 10 bedrijven met 500 of meer werkzame personen gebruikten sociale netwerken (94 procent), terwijl dat voor 72 procent van de bedrijven met 10 tot 20 werkzame personen gold. Van de bedrijven met 500 werkzame personen zette 55 procent blogs of microblogs in en werd door 80 procent multimedia gedeeld. Bij bedrijven met 10 tot 20 werkzame personen werden deze twee vormen van sociale media respectievelijk door 17 en 40 procent gebruikt. Bij bedrijven met 2 tot 10 werkzame personen werden de verschillende vormen van sociale media nog minder ingezet. Zo zette iets meer dan de helft van deze bedrijven sociale netwerken in en was het gebruik van (micro)blogs en het delen van multimedia eveneens lager (respectievelijk 9 en 27 procent) in 2021.
+
+4.2 Personeel en ICT
+
+Bedrijven kunnen ICT gebruiken om zich als aantrekkelijk werkgever te presenteren, bijvoorbeeld door het aanbieden van telewerkfaciliteiten of het verstrekken van mobiele apparatuur. Dit kan een voordeel zijn bij het werven van personeel. Bedrijven hebben nog altijd moeite om ICT-vacatures te vervullen.
+
+Ruim driekwart werkzame personen gebruikt internet
+
+In 2021 gebruikte 77 procent van het personeel bij bedrijven met 10 of meer werkzame personen geregeld een computer met internet voor het werk. Dit aandeel is ten opzichte van het jaar ervoor iets toegenomen (2020: 75 procent). In 2008 werkte nog 57 procent van de werkzame personen met een internet-pc. De verschillen tussen bedrijfstakken zijn groot (figuur 4.2.1). In de bedrijfstakken financiële instellingen, informatie en communicatie en ICT-sector werkte vrijwel al het personeel met internet (respectievelijk 99, 98 en 97 procent). In de horeca was dit aandeel veel kleiner: 40 procent.
+
+Van het personeel bij bedrijven met 10 tot 20 werkzame personen gebruikte 74 procent in 2021 geregeld een computer met toegang tot het internet. Bij bedrijven met 500 of meer werkzame personen was dit aandeel 80 procent. Bij bedrijven met 2 tot 10 werkzame personen was dit aandeel iets lager: 77 procent. Deze bedrijven hebben voor een deel vaker een eigen kantoor aan huis, waar dergelijke voorzieningen noodzakelijk of al beschikbaar zijn.
+
+Nederland: meer internetgebruik voor het werk dan gemiddeld in EU
+
+In Nederland werkt een aanzienlijk groter deel van de werkzame personen met internet dan gemiddeld in de EU. Het gemiddelde van de 27 EU-landen bedroeg 58 procent in 2021; in Nederland was dit 73 procent (volgens de Europese meetmethode). Ook in de Scandinavische landen was het aandeel personen dat voor het werk gebruikmaakt van het internet relatief hoog. Roemenië (38 procent) en Bulgarije (37 procent) scoorden aanzienlijk lager dan het EU-gemiddelde. Deze verschillen tussen landen hangen sterk samen met nationale economische structuren. In bepaalde bedrijfstakken zoals de zakelijke dienstverlening en ICT-sector is het immers meer vanzelfsprekend dat het personeel internet gebruikt dan in andere. Daardoor scoren landen met veel industriële bedrijven bijvoorbeeld lager dan landen met een grote dienstverlenende sector.
+
+Cijfers over het gebruik van computers met internet voor meer Europese landen zijn te vinden in deze .
+
+Ruim derde werkzame personen heeft mobiel apparaat van het werk
+
+In 2021 had 36 procent van het personeel van Nederlandse bedrijven met 10 of meer werkzame personen een laptop, tablet of smartphone met mobiel internet van het bedrijf (figuur 4.2.2). Bijna twee derde van de bedrijven verstrekte dergelijke draagbare apparatuur voor mobiel internet in dat jaar (zie tabel 4.1.3). De bedrijfstak onroerend goed had het grootste aandeel werkzame personen dat de beschikking had over een apparaat waarmee mobiel kon worden geïnternet: 64 procent. Bij energie- en waterbedrijven en bedrijven actief in advies en onderzoek had respectievelijk 60 en 53 procent van de werkzame personen mobiele apparaten verstrekt door het bedrijf. In de horeca is dit cijfer veel lager: 10 procent.
+
+Bij bedrijven met 500 of meer werkzame personen beschikte 40 procent van het personeel over een smartphone of laptop van het bedrijf. Bij kleine bedrijven, met 10 tot 20 werkzame personen, lag dit percentage op 26 procent in 2021.
+
+Meer informatie over toegang tot en gebruik van internet is opgenomen in deze .
+
+Telewerken kan bij ruim 8 op de 10 van de bedrijven
+
+In 2021 ondersteunde 83 procent van de bedrijven met 10 of meer werkzame personen telewerken (figuur 4.2.3). Telewerken betekent hier dat medewerkers regelmatig buiten de bedrijfsvestiging werken en van daaruit toegang hebben tot het ICT-systeem van het bedrijf. Het gaat daarbij niet alleen om toegang tot e-mail, maar ook om toegang tot bestanden en/of programmatuur.
+
+Vooral in de informatie- en communicatiebranche en bij financiële instellingen wordt telewerken ondersteund. Bijna alle bedrijven in deze bedrijfstakken hadden een mogelijkheid om toegang te krijgen tot het ICT-systeem van buiten de bedrijfsvestiging. Bij horecabedrijven is telewerken minder gebruikelijk; toch bood bijna 1 op de 2 bedrijven telewerken aan.
+
+Grote bedrijven ondersteunen vaker telewerken dan kleine; van de bedrijven met meer dan 500 werkzame personen bood 99 procent de mogelijkheid tot telewerken tegen 75 procent van de bedrijven met 10 tot 20 werkzame personen. Bij de bedrijven met 2 tot 10 werkzame personen ondersteunde 55 procent de mogelijkheid tot telewerken.
+
+Telewerken door de helft van de werkzame personen
+
+Als een bedrijf telewerken ondersteunt, hebben vaak niet alle medewerkers die mogelijkheid. Het type werk laat dat immers niet altijd toe. In 2021 werkte de helft van de werkzame personen regelmatig buiten de bedrijfsvestiging en had van daaruit toegang tot het ICT-systeem van het bedrijf (figuur 4.2.4). Het aandeel telewerkers verschilt sterk per bedrijfstak. Vooral bij financiële instellingen, bedrijven in de informatie- en communicatiebranche en in de ICT-sector kunnen relatief veel medewerkers telewerken (respectievelijk 90, 87 en 85 procent). In de horeca was dit 15 procent.
+
+Bij grote bedrijven is het aandeel telewerkers hoger dan bij kleine. Het aandeel bij bedrijven met 500 of meer werkzame personen was 55 procent in 2021; bij bedrijven met 10 tot 20 werkzame personen was het 38 procent.
+
+De coronapandemie heeft de inzet van telewerken versneld. In paragraaf 4.5 wordt nader ingegaan op de effecten van de coronacrisis op het gebruik van telewerken.
+
+Kwart bedrijven heeft ICT-specialisten in loondienst
+
+In 2020 had 26 procent van de bedrijven met 10 of meer werkzame personen één of meer ICT-specialisten in loondienst (figuur 4.2.5). ICT-specialisten zijn medewerkers voor wie ICT hun belangrijkste werk vormt. Zij kunnen bijvoorbeeld ICT-systemen ontwerpen, ontwikkelen, installeren en beheren. Of bedrijven ICT-specialisten in loondienst hebben, verschilt sterk per bedrijfstak. Vooral bij bedrijven in de informatie- en communicatiebranche en ICT-sector werken relatief vaak ICT-specialisten (respectievelijk 80 en 79 procent in 2020). In de horeca en bouw kwam dit veel minder voor. Niet alleen de bedrijfstak maar ook de bedrijfsomvang speelt een rol bij het in dienst hebben van ICT-specialisten. Van de grote bedrijven, met 500 of meer werkzame personen, had 86 procent minstens één ICT-specialist in loondienst tegenover 14 procent van de bedrijven met 10 tot 20 werkzame personen. Bij de bedrijven tot 10 werkzame personen was het aandeel ICT-specialisten nog iets lager (8 procent).
+
+ICT-vacatures vaak moeilijk te vervullen
+
+In 2020 had 12 procent van de bedrijven vacatures voor ICT-specialisten (figuur 4.2.6). Deze bedrijven hebben personeel aangenomen, of hadden dat willen doen, voor functies waarvoor specifieke ICT-vaardigheden vereist waren. Bijna 6 op de 10 bedrijven met ICT-vacatures hadden moeite deze te vervullen.
+
+Ruim de helft van de bedrijven in zowel de bedrijfstak informatie en communicatie als de ICT-sector had ICT-vacatures in 2020. Bedrijven in deze sectoren hadden vaak moeite om de ICT-vacatures te vervullen. 4 op de 10 bedrijven in de sector informatie en communicatie en ICT-sector hadden in 2020 ICT-vacatures die moeilijk te vervullen waren, terwijl dit aandeel voor alle bedrijfstakken gemiddeld 7 procent bedroeg.
+
+Grote bedrijven hebben veel vaker ICT-vacatures dan kleine bedrijven; in 2020 wierf 62 procent van de bedrijven met ten minste 500 werkzame personen ICT-specialisten, tegen 6 procent van de bedrijven met 10 tot 20 werkzame personen. Bij bedrijven met 2 tot 10 werkzame personen had 2 procent ICT-vacatures. Ook het aandeel moeilijk vervulbare vacatures is hoger bij grotere bedrijven; 48 procent van de bedrijven met ten minste 500 werkzame personen had in 2020 moeite om ICT-vacatures te vervullen, terwijl dit aandeel bij kleine bedrijven (10 tot 20 werkzame personen) 3 procent bedroeg. Bij bedrijven die minder dan 10 werkzame personen in dienst hadden, was dit 1 procent.
+
+Nederland: relatief veel bedrijven met ICT-vacatures
+
+In vergelijking met andere Europese landen kende Nederland in 2020 relatief veel bedrijven met ICT-vacatures (figuur 4.2.7). Het aandeel was in Nederland, met 12 procent, aanzienlijk hoger dan het EU-gemiddelde van 9 procent. In België en Denemarken was het aandeel bedrijven met ICT-vacatures het grootst. In Spanje hadden relatief weinig bedrijven moeite ICT-vacatures in te vullen. In Nederland was dat anders; daar had bijna driekwart van de bedrijven met ICT-vacatures moeite deze te vervullen.
+
+Meer bedrijven bieden ICT-cursussen aan
+
+In 2021 bood 17 procent van de bedrijven hun eigen ICT-specialisten de mogelijkheid een opleiding of cursus te volgen, om hun ICT-vaardigheden verder te ontwikkelen (figuur 4.2.8). ICT-specialisten zijn werkzame personen voor wie ICT het belangrijkste onderdeel van het werk uitmaakt. Zij kunnen bijvoorbeeld ICT-systemen ontwerpen, ontwikkelen, installeren en beheren. Steeds vaker worden ook ICT-cursussen aangeboden aan niet-ICT-personeel; in 2021 ging het om 22 procent, tegen 9 procent van de bedrijven in 2011. ICT-cursussen worden vooral aangeboden door bedrijven waar ICT tot de kernprocessen van de bedrijfsvoering behoort, zoals in de ICT-sector en informatie en communicatie.
+
+4.3 E-commerce
+
+Paragraaf 3.5 van deze publicatie geeft een beschrijving van de wijze waarop personen online winkelen. Naast de websites die consumenten gebruiken om goederen te bestellen, bestaan ook andere vormen van ‘e-commerce’. Bedrijven handelen bijvoorbeeld ook elektronisch met elkaar. Dit gebeurt via websites, maar ook via andere elektronische kanalen zoals EDI.
+
+Wat is e-commerce?
+
+E-commerce staat voor handel via elektronische netwerken, zoals internet. De OESO definieert e-commerce als volgt: ‘het verkopen of kopen van goederen of diensten via computernetwerken, met methoden die specifiek ontworpen zijn voor het ontvangen of plaatsen van orders’ (OESO, 2011). Statistiekbureaus waren betrokken bij het opstellen van die definitie en sluiten zich bij deze definitie aan als ze e-commerce meten.
+
+Niet alleen goederen maar ook diensten komen voor e-commerce in aanmerking. Wanneer een consument bijvoorbeeld online een verzekering afsluit, is dit ook een vorm van e-commerce. Een bestelling via e-mail valt niet onder e-commerce. E-mail is immers niet specifiek ontworpen om bestellingen te plaatsen.
+
+Websites of apps waarop bedrijven producten verkopen, zijn de bekendste vorm van e-commerce. Het verkopende bedrijf hoeft daarbij niet de eigenaar van de website of app te zijn. Intermediairs die via hun website of app meerdere aanbieders in contact brengen met een grote groep klanten (online platformen), vervullen ook een belangrijke rol in de e-commerce-markt. Veel consumenten winkelen online, maar ook bedrijven kunnen klanten zijn van webwinkels. Ook als de koper niet elektronisch betaalt, valt verkoop via een website onder e-commerce. Het maakt ook niet uit welk apparaat een koper gebruikt om zijn bestelling te plaatsen: een desktop, laptop, tablet of smartphone.
+
+Een minder bekende vorm van onlinehandel die ook tot e-commerce gerekend wordt is EDI: Electronic Data Interchange. Met EDI wordt hier bedoeld: het zenden of ontvangen van informatie in een afgesproken format dat automatische verwerking mogelijk maakt, bijvoorbeeld EDIFACT, XML, UBL of XBRL.
+
+De cijfers in deze paragraaf betreffen alleen e-commerce van bedrijven die in Nederland gevestigd zijn. Bestellingen van Nederlandse consumenten bij bedrijven in het buitenland zijn niet meegenomen. Andersom zijn aankopen van buitenlandse consumenten bij Nederlandse bedrijven wel meegeteld in de cijfers.
+
+Kwart bedrijven verkoopt via e-commerce
+
+In 2020 heeft 26 procent van de Nederlandse bedrijven elektronisch verkocht (figuur 4.3.1). Verkoop via een website of app is gebruikelijker dan verkoop via EDI; 23 procent van de bedrijven verkocht goederen of diensten via een website of app, tegen 7 procent via EDI. Het aandeel elektronisch verkopende bedrijven is sinds 2013 niet heel sterk toegenomen: het bedroeg toen reeds 23 procent.
+
+Vooral reisbureaus en logiesaccommodaties verkopen elektronisch
+
+Vooral bedrijven actief in de toeristische sector kennen een relatief groot aandeel bedrijven dat elektronisch verkoopt. Van de logiesaccommodaties, zoals hotels en campings, verkocht 60 procent via e-commerce in 2020. Van de reisbureaus 48 procent. Hiervoor werden hoofdzakelijk websites en apps gebruikt. Ook in de voedings- en genotmiddelenindustrie verkopen veel bedrijven elektronisch; het ging om 59 procent van de bedrijven in deze bedrijfstak in 2020.
+
+Elektronisch verkopen is gangbaarder onder grote dan onder kleine bedrijven. In 2020 deed 35 procent van de bedrijven met 250 of meer werkzame personen aan elektronische verkoop, tegen 25 procent van de bedrijven met 10 tot 50 werkzame personen. Van de bedrijven met 2 tot 10 werkzame personen verkocht 21 procent via elektronische verkoop.
+
+De verschillen tussen grote en kleine bedrijven zijn vooral zichtbaar bij verkopen via EDI. Van de grote bedrijven verkocht 18 procent via EDI tegen 4 procent van de kleine (met 10 tot 50 werkzame personen). Van de bedrijven met 2 tot 10 werkzame personen verkocht 2 procent via EDI. Daarentegen zijn websites om elektronisch te verkopen laagdrempeliger. Daarom maken ook veel kleine bedrijven gebruik van webwinkels, van henzelf of van intermediairs zoals online platformen. Het verschil tussen het aandeel bedrijven dat aan e-commerce deed via websites is dan ook kleiner. Het bedroeg 23 procent voor bedrijven met 10 tot 50 werkzame personen en 26 procent voor grote (met meer dan 250 werkzame personen). De bedrijven met 2 tot 10 werkzame personen bleven hierbij wel iets achter (21 procent).
+
+Elektronisch verkopen Nederland boven EU-gemiddelde
+
+Volgens de Europese meetmethode heeft 28 procent van de Nederlandse bedrijven elektronisch verkocht in 2020. Het EU-gemiddelde bedroeg 22 procent in 2020 (figuur 4.3.2). In Ierland was het aandeel bedrijven met elektronische verkoop het grootst: 40 procent. Nederlandse bedrijven verkopen vaker via websites of apps dan gemiddeld in de 27 EU-lidstaten: respectievelijk 25 tegen 19 procent. Het aandeel bedrijven dat via EDI verkoopt, was in Nederland (7 procent) nipt groter dan gemiddeld in de EU (6 procent).
+
+Meeste web-verkoop aan consumenten
+
+In 2020 behaalde een gemiddeld bedrijf 50 procent van de totale web-omzet (inclusief omzet via apps) door verkoop aan Nederlandse consumenten en 7 procent door de verkoop aan buitenlandse consumenten (figuur 4.3.3). Verkoop aan andere bedrijven en overheden was goed voor respectievelijk 40 en 3 procent van de totale web-omzet van een gemiddeld Nederlands bedrijf. In 2020 vormde de internethandel tussen bedrijven onderling dus een iets kleinere markt dan de verkoop aan consumenten.
+
+Twee verschillende ‘gemiddelden’
+
+In deze paragraaf worden onderwerpen die samenhangen met de omzet uit e-commerce, soms op twee verschillende manieren weergegeven.
+
+Gewogen met het aantal bedrijven. Deze methode houdt geen rekening met de omzet van een bedrijf. Een klein bedrijf met weinig omzet telt hierbij even zwaar mee als een grote multinational. Deze cijfers zeggen iets over het percentage e-commerce in de omzet van een ‘gemiddeld bedrijf’.
+
+Gewogen met de omzet. Deze methode houdt wél rekening met de omzet van een bedrijf. Een bedrijf met veel omzet weegt daardoor zwaarder mee in het gemiddelde dan een bedrijf met weinig omzet. Deze insteek levert informatie op over het aandeel van e-commerce in de totale omzet van alle bedrijven in de onderzoekspopulatie.
+
+De cijfers over e-commerce worden sterk beïnvloed door de bedrijven met de grootste omzet. Cijfers volgens deze twee weegmethoden vertellen elk dus een ander verhaal. In het ene geval zijn deze cijfers gewogen met het aantal bedrijven, in het andere geval met de totale verkoopwaarde van bedrijven via websites of apps. Beide invalshoeken leveren een iets ander beeld op.
+
+Als bedrijven met veel web-omzet zwaarder in de cijfers meewegen dan bedrijven met weinig web-omzet, ontstaat een iets ander beeld. Het aandeel van bedrijven is vanuit dit perspectief groter; van de totale web-omzet die bedrijven in 2020 hebben behaald, werd 56 procent gerealiseerd door te verkopen aan andere bedrijven. Dit aandeel was voor een gemiddeld bedrijf, zonder te wegen met de web-omzet, kleiner: 40 procent. Het aandeel van Nederlandse consumenten is vanuit dit perspectief daarentegen kleiner; van de totale web-omzet die bedrijven in 2020 behaalden, werd 38 procent gerealiseerd door verkopen aan Nederlandse consumenten. Dit aandeel was voor een gemiddeld bedrijf, zonder te wegen met de web-omzet, 50 procent.
+
+4.4 Clouddiensten en slimme apparaten
+
+Clouddiensten en Internet of Things (IoT) zijn vormen van relatief nieuwe ICT-toepassingen die inmiddels hun weg hebben gevonden in het ICT-landschap van bedrijven. Bij clouddiensten gebruiken bedrijven bijvoorbeeld opslagcapaciteit, software of rekenkracht via internet in plaats van lokaal op eigen bedrijfsservers of –computers. Internet of Things verwijst naar het inzetten van apparaten of systemen die via een netwerk aan elkaar verbonden zijn, vaak aangeduid met het voorvoegsel ‘smart’ of ‘slim’. Deze apparaten en systemen verzamelen gegevens en wisselen gegevens uit en kunnen via internet gemonitord of bediend worden.
+
+Twee van drie bedrijven maakt gebruik van clouddiensten
+
+In 2021 maakte 66 procent van de bedrijven gebruik van betaalde clouddiensten (figuur 4.4.1). De meest gebruikte vormen van clouddiensten zijn opslag van bestanden, opslag (hosting) van databases van het bedrijf en e-mail. Voor elk van deze clouddiensten geldt, dat ze in 2021 door ruim 5 op de 10 bedrijven werden gebruikt. Het gebruik van rekenkracht om software te draaien in de cloud, kwam minder vaak voor. 18 procent van de bedrijven gebruikte deze clouddienst.
+
+Grotere bedrijven maken verhoudingsgewijs vaker gebruik van de cloud dan kleinere bedrijven. Van de bedrijven met meer dan 250 werkzame personen gebruikte 90 procent clouddiensten. Bij bedrijven met 10 tot 50 werkzame personen was dat bij 62 procent het geval. Van de kleinste bedrijven, met 2 tot 10 werkzame personen, gebruikte 39 procent clouddiensten.
+
+Bijna 9 van de 10 bedrijven in de bedrijfstak informatie en communicatie gebruikten clouddiensten in 2021. Ook in de ICT-sector was het aandeel relatief hoog (86 procent). In de horeca maakten veel minder bedrijven gebruik van cloud-computing: het betrof 40 procent van de bedrijven.
+
+Meer cijfers over het gebruik van clouddiensten, naar bedrijfstak en het soort clouddienst dat werd gebruikt, zijn opgenomen in deze .
+
+‘Slimme’ systemen gebruikt door 20 procent bedrijven
+
+In 2021 werd door 20 procent van de bedrijven gebruikgemaakt van Internet of Things (figuur 4.4.2). Met name bedrijven actief in de energiesector en in informatie en communicatie gebruikten Internet of Things (respectievelijk 39 en 26 procent van de bedrijven). Bij grote bedrijven – met meer dan 500 werkzame personen – maakte 47 procent van de bedrijven gebruik van slimme apparaten of systemen, terwijl dit 16 procent bedroeg bij bedrijven met 10 tot 20 werkzame personen.
+
+Internet of Things (IoT) werd het vaakst toegepast voor beveiliging en energiebesparing (respectievelijk 15 en 12 procent). Het kan bij beveiliging bijvoorbeeld gaan om slimme alarmsystemen, slimme rookmelders, deursloten of bewakingscamera’s om het bedrijfsterrein te beveiligen. Bij energiebesparing kan het bijvoorbeeld gaan om de inzet van slimme meters, lampen of thermostaten om het energieverbruik te optimaliseren. IoT werd door 6 procent van de bedrijven gebruikt voor klantdienstverlening (door bijvoorbeeld gebruik van sensoren en RFID) en het onderhoud van voertuigen en machines (door bijvoorbeeld toepassing van bewegings- of onderhoudssensoren).
+
+Meer cijfers over het gebruik van Internet of Things bij bedrijven, onder andere over het aantal IoT-toepassingen, zijn opgenomen in deze .
+
+4.5 Invloed van corona op het ICT-gebruik
+
+De coronacrisis heeft in 2020 en 2021 invloed gehad op het ICT-gebruik bij bedrijven in Nederland. Vooral bedrijven in de horeca gaven aan dat ze een toename zagen van de online verkoop als gevolg van de tijdelijke gedwongen sluitingen tijdens de corona-epidemie. Daarnaast namen telewerken en online vergaderen toe.
+
+Corona stimuleerde vooral in de horeca de online verkoop
+
+In 2020 steeg het percentage bedrijven (met 10 of meer werkzame personen) dat omzet heeft uit online verkoop van 20 naar 23 procent. Deze stijging was voornamelijk te vinden in de horeca (van 22 naar 43 procent) en de handel (van 38 naar 44 procent), zie figuur 4.5.1. Horecabedrijven meldden relatief het vaakst een toename: 1 op de 3 horecaondernemingen verkocht in 2020 meer online dan in 2019.
+
+1 op de 5 horecabedrijven haalt minimaal kwart omzet online
+
+Het percentage bedrijven dat minimaal een kwart van de omzet uit online verkoop haalt, steeg ook het sterkst in de horeca, van 11 procent in 2019 naar 19 procent in 2020. Uiteraard speelt de sluiting van de horeca tijdens meerdere perioden in 2020 hier mee: als de normale omzet voor een groot deel wegvalt, leidt dat ook tot verhoudingsgewijs meer omzet uit de online verkoop. Het gaat bij online verkoop om verkopen via een online winkel (webshop), via webformulieren op een website of extranet, of via een app. Hier vallen ook websites of apps onder van derde partijen. De online omzet bij de handel is ook behoorlijk toegenomen met 17 procent van de bedrijven met minimaal een kwart van de omzet uit de online verkoop in 2019 naar 22 procent in 2020, maar deze stijgende trend was voor de handel ook in het jaar voor corona al ingezet.
+
+Gemiddeld 50 procent telewerkers
+
+In het eerste coronajaar nam het aantal werkzame personen dat telewerkt bij bedrijven toe tot gemiddeld 50 procent begin 2021. Begin 2020, toen corona nog nauwelijks invloed had op Nederland, werkte nog 38 procent op afstand. Ook nam het aantal bedrijven waar telewerken voorkomt toe, van 77 procent van de bedrijven begin 2020 naar 83 procent in 2021. Met telewerken wordt bedoeld dat werknemers buiten de bedrijfsvestiging toegang hebben tot ICT‐systemen van het bedrijf om e-mail, documenten of bedrijfsapplicaties te kunnen gebruiken. Wanneer alleen applicaties voor communicatie worden gebruikt, zoals Skype, Teams en Zoom, telt dit niet mee als telewerken. De cijfers hebben betrekking op bedrijven met 10 of meer werkzame personen.
+
+De toename van het telewerken in 2020 verschilt per bedrijfstak: bedrijven waar telewerken voor de coronapandemie al vaker voorkwam, lieten de sterkste stijging zien. Zo steeg het aandeel telewerkers in de ICT‐sector van 62 procent begin 2020 naar 85 procent aan het begin van 2021, terwijl in de horeca deze stijging veel bescheidener was: van 13 procent begin 2020 naar 15 procent in 2021. Uiteraard speelt hier een rol dat telewerken in de horeca meestal niet mogelijk is.
+
+Meer telewerken gaat ook gepaard met meer online vergaderen. Bijna driekwart van de bedrijven (72 procent) meldde dat in 2020 meer online vergaderingen gehouden werden dan het jaar daarvoor. Net als bij het telewerken loopt ook hier de ICT‐sector voorop, met meer dan 9 van de 10 bedrijven die hier een toename voor meldden. Voor de horeca was dit ongeveer 3 op de 10 bedrijven.
+
+4.6 ICT-gebruik door zzp’ers
+
+Vanaf 2021 onderzoekt het CBS ook het ICT-gebruik bij zelfstandigen zonder personeel (zzp’ers). Zzp’ers maken soms op een andere manier gebruik van ICT dan werknemers in loondienst. Zakelijk en privé-gebruik van bijvoorbeeld laptop, telefoon of tablet gaan vaak in elkaar over. Bijna driekwart van de zzp’ers gebruikte in 2021 de apparaten zowel zakelijk als privé.
+
+Zzp’ers maakten regelmatig gebruik van de ICT-voorzieningen van een opdrachtgever. In 2021 gebruikte 27 procent van de zzp’ers ICT-voorzieningen van een of meerdere bedrijven waarvoor zij opdrachten uitvoerden. De zzp’er werkte bijvoorbeeld op locatie op de ICT-systemen van een klant, of logde van buitenaf in op de ICT-systemen van de klant. Hier wordt vaak niet de volledige tijd gebruik van gemaakt; 80 procent van deze zzp’ers voerde minder dan 10 procent van de tijd werkzaamheden uit via de ICT-systemen van een opdrachtgever.
+
+Bijna 8 van de tien zzp’ers heeft vast internet
+
+Van de zzp’ers beschikte slechts 79 procent over een eigen vaste internetverbinding in 2021 (figuur 4.6.1). Dat is minder dan bij bedrijven met personeel. Bij bedrijven van 250 of meer werkzame personen is een vaste verbinding gemeengoed (99 procent). Bij bedrijven van 2 tot 10 personen werd door 91 procent van de bedrijven over een vaste internetverbinding beschikt.
+
+Openbare wifi werd door 17 procent van de zzp’ers gebruikt voor zakelijke werkzaamheden. Zij gebruikten de wifi in openbare ruimtes, zoals koffietentjes, de trein, of bijvoorbeeld de bibliotheek.
+
+Bijna de helft van de zzp’ers heeft een eigen website
+
+Van de zzp’ers beschikte in 2021 47 procent over een eigen website. Dat is minder dan bij bedrijven met personeel. Bijna alle bedrijven van 250 of meer werkzame personen hadden in 2021 een eigen website (97 procent). Bij bedrijven van 2 tot 10 personen beschikte driekwart van de bedrijven over een eigen website.
+
+Bedrijven met personeel hebben waarschijnlijk vaker dan zzp’ers de middelen om een eigen bedrijfswebsite te bouwen en te onderhouden. Daarnaast is het goed mogelijk dat zzp’ers meer gebruikmaken van online platformen om hun diensten of goederen te adverteren.
+
+Gebruik van clouddiensten door zzp’ers
+
+In 2021 maakte 28 procent van de zzp’ers gebruik van (betaalde) clouddiensten (figuur 4.6.2). Zij sloegen bijvoorbeeld bestanden op in de cloud (23 procent), of gebruikten office software, zoals tekstverwerkers of spreadsheets, die draaide in de cloud (15 procent).
+
+Zzp’ers maakten minder gebruik van clouddiensten dan bedrijven met personeel. Bij bedrijven van 250 of meer werkzame personen gebruikten 9 van de 10 bedrijven clouddiensten. Bij bedrijven van 2 tot 10 personen werkte 39 procent met clouddiensten. In deze cijfers gaat het om betaalde clouddiensten. Het is mogelijk dat zzp’ers vaker gratis clouddiensten gebruiken. Clouddiensten zijn soms voor personen en kleinzakelijk gebruik gratis. Alleen grotere bedrijven moeten dan voor de clouddienst betalen.
+
+Meer cijfers over het ICT-gebruik van zzp’ers, met een uitsplitsing naar bedrijfstak, zijn te vinden in deze .
+
+4.7 Literatuur
+
+
+
+OESO (2011). . Organisatie voor Economische Samenwerking en Ontwikkeling, Parijs.
+
+CBS (2014).
+
+CBS (2021). Themapagina bedrijven: . Statline.
+
+CBS (2021). Themapagina MKB-bedrijven: . MKB-Statline.
+
+Eurostat (2021). ICT usage in enterprises.
+
+Eurostat (2022). ICT usage in enterprises. .
+
+
+
+
+
+Noten
+
+Enkele uitkomsten uit het onderzoek onder kleine bedrijven (met 2 tot 10 werkzame personen) zijn in dit hoofdstuk opgenomen. Voor meer cijfers over deze groep bedrijven, zie StatLine: ICT-gebruik bij kleine bedrijven , , , en .
+
+Een persoon die voor eigen rekening of risico arbeid verricht in een eigen bedrijf of praktijk (zelfstandig ondernemer) en geen personeel in dienst heeft.
+
+In hoofdstuk 2 (tabel 2.1.1) zijn de omschrijvingen van de SBI 2008-groepen in de ICT-sector opgenomen.
+
+Alleen SBI 2008-groepen 6419, 6492, 651, 652, 6612 en 6619. Zie .
+
+Wanneer de verbinding uitsluitend via wifi gelegd kan worden, en niet via mobiele telefoonnetwerken, telt deze apparatuur niet mee.
+
+Een tijdreeks met kerncijfers van 2002 tot en met 2021 is opgenomen in deze .Research & Development
+
+Auteurs: Rogier Goedhart, Rik van Roekel
+
+Onderzoek en ontwikkeling (R&D) zijn van belang voor een open economie die niet zo zeer op prijs maar vooral op kennis concurreert. De mogelijkheid producten te maken die anderen (nog) niet kunnen maken, geeft marktvoordeel en dus mogelijkheden voor groei. In 2020 gaven Nederlandse bedrijven en instellingen bijna 18,5 miljard euro uit aan R&D. De overheid financierde 30 procent van de R&D-uitgaven. De R&D-intensiteit kwam uit op 2,31 procent.
+
+5.1 R&D in Nederland
+
+Om nieuwe kennis en kunde te ontwikkelen, is het van belang te investeren in R&D. Kenmerkend voor R&D is dat het onderzoek naar vernieuwing streeft. Volgens de definitie die statistische bureaus internationaal hanteren, betreft R&D: ‘creatief werk dat op systematische basis wordt verricht ter vergroting van de hoeveelheid kennis, met inbegrip van de kennis van de mens, de cultuur en de samenleving, alsmede het gebruik van deze hoeveelheid kennis voor het ontwerpen van nieuwe toepassingen’ (OESO, 2015). Het kader ‘Definitie van R&D’ toont een praktische uitwerking van deze definitie, zoals het CBS deze hanteert in zijn enquêtes en publicaties. Traditioneel gaat R&D over fundamenteel en toegepast onderzoek naar nieuwe kennis en technologie. Later monden deze kennis en technologie mogelijk uit in concrete nieuwe producten en processen.
+
+Er bestaat een verschil tussen fundamenteel onderzoek en toegepast onderzoek. In fundamenteel onderzoek staat centraal dat een bedrijf of instelling de wetenschappelijke kennis vergroot (‘research’). Kennisinstellingen zoals universiteiten en onderzoeksinstituten richten zich vooral op dit type onderzoek. Bij toegepast onderzoek draait het er om dat bedrijven en instellingen ideeën verder ontwikkelen tot een prototype van nieuwe of sterk verbeterde processen en producten (‘development’). Bedrijven verrichten relatief vaak dit type onderzoek. Voor succesvolle R&D-activiteiten in Nederland is enerzijds de traditionele R&D binnen het eigen bedrijf van belang. Anderzijds zijn externe, gespecialiseerde kennisdiensten essentieel, waarbij partners samenwerken en kennis delen. Voorbeelden van samenwerkingspartners zijn onderzoeksinstituten en ingenieursbureaus.
+
+R&D levert nieuwe kennis op die kan resulteren in innovaties. Dit zijn veelal technologische innovaties: nieuwe producten en processen. Daarnaast kan R&D ook niet-technologische innovaties opleveren. Voorbeelden hiervan zijn nieuwe organisatievormen en marketingmethoden.
+
+Definitie van R&D
+
+In enquêtes vraagt het CBS bedrijven en instellingen naar hun uitgaven en ingezette arbeidsjaren voor R&D. In dit kader beschrijven we welke activiteiten onder R&D-activiteiten vallen.
+
+Kenmerkend voor R&D is dat het onderzoek streeft naar oorspronkelijkheid én vernieuwing. R&D is het creatief, systematisch en planmatig zoeken naar oplossingen voor praktische problemen, bijvoorbeeld productieproblemen. Ook het strategische en het fundamentele onderzoek behoren tot R&D. Hierbij staat voorop dat het bedrijf of de kennisinstelling de achtergrondkennis en de (puur) wetenschappelijke kennis wil vergroten. Dit type onderzoek heeft niet zo zeer tot doel direct economisch voordeel te behalen of problemen op te lossen. Verder omvat R&D activiteiten om ideeën of prototypes verder te ontwikkelen tot bruikbare processen en productierijpe producten.
+
+Belangrijk in dit proces is ook activiteiten te definiëren die geen R&D zijn. De volgende activiteiten betreffen geen R&D:
+
+routinematige metingen of controles;
+
+marktonderzoeken;
+
+scholing en training;
+
+werkzaamheden voor octrooien en licenties;
+
+ingekochte technologie of geavanceerde (productie)apparatuur operationeel maken;
+
+bestaande software herschrijven of klantspecifiek maken;
+
+industriële vormgeving, tenzij het doel is systematisch ergonomische verbeteringen aan te brengen.
+
+In deze publicatie vallen onder R&D-uitgaven – tenzij anders vermeld – de uitgaven die bedrijven of instellingen doen aan R&D die het eigen en ingeleende personeel in Nederland verricht. Daarbij kan het bedrijf zelf de R&D financieren, maar het kan ook tegen betaling R&D uitvoeren in opdracht van andere bedrijven of instellingen. R&D-activiteiten van Nederlandse bedrijven die zij uitvoeren in het buitenland, vallen hier dus niet onder. Omgekeerd vallen in Nederland verrichte R&D-activiteiten gefinancierd vanuit het buitenland hier wél onder. R&D-financiering via WBSO-subsidies wordt niet verrekend. Dit betekent dat uitgaven van een bedrijf aan gesubsidieerd R&D-personeel tellen als R&D-uitgaven, ook al krijgt het bedrijf een deel hiervan (later) via de loonbelasting terug. Door deze aanpak zijn de cijfers over Nederland vergelijkbaar met uitkomsten van andere landen.
+
+Bij R&D gaat het er niet alleen om dat een bedrijf of instelling zelf nieuwe kennis ontwikkelt. Het is ook van belang elders ontwikkelde kennis te benutten, en bestaande informatie uit te wisselen. Daartoe is een goed ontsloten kennisinfrastructuur essentieel. Als bedrijven, overheden en kennisinstellingen veel R&D-activiteiten verrichten en daarbij samenwerken, kan een land beter concurreren. Dit maakt een land ook aantrekkelijk voor buitenlandse investeerders. Substantiële R&D-activiteiten in een bedrijfstak of land gaan ook gepaard met hoogwaardige werkgelegenheid. Ook onderzoek ten behoeve van de energietransitie en de mondiale voedselvoorziening is van actueel belang. R&D is daarmee niet uitsluitend een zaak voor de bedrijvensector, maar zeker ook voor overheid en wetenschap.
+
+Deze paragraaf schetst een beeld van de totale R&D-uitgaven en het bijbehorende R&D-personeel in 2020. Aan bod komt welk aandeel de verschillende sectoren hierin hebben en hoe de situatie in Nederland is in internationaal perspectief.
+
+Bijna 18,5 miljard euro aan R&D in Nederland
+
+In 2020 hebben Nederlandse bedrijven en instellingen bijna 18,5 miljard euro uitgegeven aan R&D met eigen en ingeleend personeel (tabel 5.1.1). Het Nederlandse bedrijfsleven verrichtte twee derde van alle R&D in Nederland. Instellingen voor hoger onderwijs waren goed voor 28 procent van de totale R&D-uitgaven. Dit zijn de universiteiten, universitaire medische centra en het hoger beroepsonderwijs. Overheidsinstellingen en private non-profitinstellingen verrichtten de resterende 6 procent van de Nederlandse R&D in 2020. Bedrijven en instellingen verrichten R&D niet altijd voor zichzelf of voor de eigen sector. Bedrijven doen bijvoorbeeld R&D in opdracht van de overheid, en researchinstellingen en universiteiten verrichten R&D in opdracht van bedrijven (zie ook tabel 5.3.1). Ook bij R&D is er dus, net als bij andere economische activiteiten, sprake van een zekere arbeidsverdeling tussen bedrijven en sectoren.
+
+Bron: CBS
+
+1) Inclusief private non-profitorganisaties (PNP’s).
+
+2) Universiteiten, het facultair deel van de Universitaire Medische Centra (UMC's) en het Hoger Beroepsonderwijs (hbo).
+
+3) R&D-intensiteit is de R&D-uitgaven uitgedrukt als percentage van het bruto binnenlands product (bbp).
+
+** nader voorlopige cijfers
+
+Ruim 166 duizend arbeidsjaren aan R&D
+
+In 2020 besteedden Nederlandse bedrijven en instellingen samen ruim 166 duizend arbeidsjaren aan R&D. Ook hier namen de bedrijven het grootste deel voor hun rekening: 71 procent. Het hoger onderwijs was goed voor 23 procent van de R&D-arbeidsjaren. De resterende 6 procent werd gerealiseerd door de overheidsinstellingen en de private non-profitinstellingen.
+
+Per R&D-arbeidsjaar gaf de bedrijvensector 104 duizend euro uit; in het hoger onderwijs was dit 134 duizend euro. De publieke researchinstellingen lagen hier met 108 duizend euro per arbeidsjaar tussenin. De R&D-uitgaven bestaan naast de loonkosten uit de overige exploitatiekosten die aan R&D zijn toe te rekenen, met uitzondering van de afschrijvingen. In plaats van de afschrijvingen behoren de R&D-investeringen tot de R&D-uitgaven. De uitgaven die bedrijven en instellingen doen aan R&D omvatten dus meer dan alleen de loonkosten.
+
+R&D-intensiteit
+
+Tabel 5.1.1 vermeldt ook de zogenaamde R&D-intensiteit. Deze is gedefinieerd als de R&D-uitgaven gedeeld door het bruto binnenlands product (bbp), en drukt zo de omvang van de R&D-uitgaven uit als percentage van de totale economie. Daardoor geeft dit cijfer aan in hoeverre de R&D-uitgaven gelijke tred houden met de economie. Daarnaast zorgt het ervoor dat de R&D-uitgaven van verschillende landen vergelijkbaar zijn.
+
+De R&D-intensiteit is een heldere, bruikbare en feitelijk juiste indicator, maar de achterliggende werkelijkheid is altijd genuanceerder. Door verschillen in sectorstructuur zijn landen niet zonder meer met elkaar te vergelijken. Nederland heeft relatief weinig industriële bedrijven en dat verklaart voor een deel dat Nederland minder uitgeeft aan R&D. De industrie verricht namelijk meestal meer R&D dan de dienstensector, hoewel de dienstverlening ook R&D-activiteiten uitvoert. Het is dus mogelijk dat landen onderling een vergelijkbare R&D-intensiteit hebben voor zowel de industrie als de dienstensector, maar dat de R&D-intensiteit op nationaal niveau verschilt doordat het ene land veel meer industrie heeft. Dit gegeven speelt mee in de ambitie van Nederlandse beleidsmakers. Zij hebben de doelstelling voor de R&D-uitgaven in Nederland vastgesteld op 2,5 procent van het bbp in 2020 (Ministerie van Economische Zaken, Landbouw & Innovatie, 2011). Daarmee hebben zij de generieke ambitie voor de Europese Unie (EU) genuanceerd voor Nederland. De Europese Commissie (EC) streefde namelijk naar een R&D-intensiteit van drie procent voor de gehele EU in 2020 (Europese Commissie, 2010). Eerder ambieerde de EC voor 2010 ook al een intensiteit van drie procent. Slechts een minderheid van de EU-landen heeft deze doelstelling toen ook daadwerkelijk gehaald.
+
+Nederland mist doelstelling R&D-intensiteit
+
+De R&D-intensiteit in Nederland bedroeg 2,31 procent in 2020 (figuur 5.1.2). Nederland mist daarmee de doelstelling om de R&D-intensiteit 2,5 procent te laten bedragen in dat jaar (zie kader ‘R&D-intensiteit’). De R&D-intensiteit in Nederland is bijna gelijk aan het gemiddelde van de EU-27 (2,32 procent), maar licht lager dan de R&D-intensiteit van de OESO-landen (2,68 procent). Het cijfer van Nederland is hoger dan dat van bijvoorbeeld Noorwegen, Italië, Canada en Luxemburg. Het is beduidend lager dan de R&D-intensiteit van Finland, België, Denemarken, Duitsland en Zweden, landen waar Nederland zich regelmatig aan spiegelt. Israël spande in 2020 de kroon met een R&D-intensiteit van 5,4 procent.
+
+Aandeel bedrijven in R&D-uitgaven gemiddeld in Nederland
+
+In 2020 waren Nederlandse bedrijven goed voor 67 procent van de totale R&D-uitgaven in Nederland (zie ook tabel 5.1.1); in de EU als geheel lag dit aandeel op 66 procent. Bij de OESO-landen wordt gemiddeld meer bijgedragen door bedrijven aan de R&D-uitgaven dan in Nederland en in de EU, namelijk 72 procent.
+
+Het hoger onderwijs in Nederland geeft relatief meer uit dan het hoger onderwijs in de gehele EU-27, namelijk 27 procent tegen 22 procent in 2020. Overheidsinstellingen en private non-profit organisaties samen geven in Nederland juist relatief minder uit dan in de gehele EU: hun aandeel bedroeg 6 procent in Nederland en 12 procent in de EU.
+
+Bijdrage bedrijven aan R&D-intensiteit gelijk aan EU-gemiddelde
+
+In 2020 was de bijdrage van bedrijven aan de R&D-intensiteit in Nederland 1,54 procent, nagenoeg gelijk aan de gemiddelde bijdrage van bedrijven in de EU-27 (figuur 5.1.3). Nederland scoorde echter wel lager dan het gemiddelde van alle OESO-landen, dat uitkwam op 1,92 procent van het bbp. Zowel voor alle sectoren als voor bedrijven alleen ligt de R&D-intensiteit van Nederland dus meer in de buurt van het gemiddelde van de EU, maar lager dan dat van de OESO-landen.
+
+5.2 R&D in de bedrijvensector
+
+Deze paragraaf bouwt voort op de vorige paragraaf, waar is geconcludeerd dat het grootste deel van de R&D in Nederland verricht wordt door de bedrijvensector. Binnen de bedrijvensector zijn de verschillen in R&D-uitgaven echter groot.
+
+Meeste R&D in industrie
+
+De industrie neemt in 2020 de helft van de R&D-uitgaven van de bedrijvensector voor haar rekening (tabel 5.2.1). Toch behoort minder dan een kwart van alle bedrijven die R&D verrichten tot de industrie. De gemiddelde R&D-uitgaven per bedrijf zijn in de industrie dan ook vele malen hoger dan in de dienstensector: respectievelijk 1,42 miljoen euro tegen 403 duizend euro. Dit komt deels doordat de R&D in de industrie technischer van aard is en daardoor uitgaven aan apparatuur en laboratoria hoger zijn. Ook in de R&D-uitgaven per arbeidsjaar komt dit tot uiting; deze zijn in de industrie veel hoger dan in de dienstverlening. Er is nog een belangrijke reden voor het grote aandeel van de industrie in de R&D-uitgaven. Vooral in de industrie geven enkele grote multinationals zeer grote bedragen uit aan R&D. Daardoor stuwen zij de gemiddelde R&D-uitgaven per bedrijf in de industrie enorm omhoog. Dit is zichtbaar in de gemiddelde R&D-uitgaven van de bedrijven met 250 of meer werkzame personen; deze bedroegen 8,2 miljoen euro per bedrijf in 2020. Dit is lager dan in 2019 toen gemiddeld 8,6 miljoen euro aan R&D werd uitgegeven door bedrijven met 250 werkzame personen of meer. Het aantal grote R&D-bedrijven nam sterker toe dan hun R&D-uitgaven. In 2020 telde Nederland 1 015 R&D-bedrijven met meer dan 250 werkzame personen (2019: 930 bedrijven). Zij bestaan voor een zeer belangrijk deel uit grote multinationals in de industrie. De R&D-uitgaven binnen de bedrijvensector zijn dan ook zeer scheef verdeeld. De R&D-bedrijven met 250 of meer werkzame personen omvatten slechts 5,1 procent van alle R&D-bedrijven, terwijl zij samen goed waren voor 68 procent van alle R&D-uitgaven in 2020.
+
+Bron: CBS
+
+** nader voorlopige cijfers
+
+Ook kleine bedrijven dragen bij aan R&D
+
+Een groot deel van de bedrijven die R&D verrichten, zijn kleine bedrijven. Dit komt deels doordat er gewoonweg veel meer kleine dan grote bedrijven zijn. Veel van deze kleine bedrijven zijn actief in de dienstensector en hebben mede daardoor lagere R&D-uitgaven per bedrijf. Zij hebben ook lagere R&D-uitgaven per arbeidsjaar dan grote bedrijven. Van de bedrijven die in 2020 R&D verrichtten, had 81 procent minder dan 50 werkzame personen. Deze bedrijven waren goed voor 14 procent van de totale R&D-uitgaven en 23 procent van het R&D-personeel (uitgedrukt in fte’s) van alle bedrijven.
+
+Ook de groep kleinste bedrijven – bedrijven met minder dan 10 werkzame personen – draagt noemenswaardig bij aan de R&D-uitgaven van de bedrijvensector. Bijna de helft van de bedrijven die aan R&D doen, behoort tot deze groep. Zij vertegenwoordigden 5 procent van de totale R&D-uitgaven en 8 procent van het totale R&D-personeel van de bedrijvensector in 2020.
+
+Er zijn relatief weinig bedrijven met meer dan 50 werkzame personen in Nederland, en zij zijn voornamelijk actief in de industrie. Grote bedrijven kenmerken zich door hoge R&D-uitgaven per bedrijf en per arbeidsjaar. Samen waren zij goed voor 86 procent van de R&D-uitgaven en 78 procent van de R&D-werkgelegenheid in de bedrijvensector.
+
+Een dergelijke scheve verdeling van de R&D-activiteiten binnen de bedrijvensector is niet uniek voor Nederland. Er zijn ook andere landen waar grote bedrijven het leeuwendeel van de R&D voor hun rekening nemen. De R&D in deze landen is dus sterk afhankelijk van een klein aantal bedrijven. Beslissingen van deze bepalende bedrijven over hun R&D hebben immers grote invloed op de totale R&D van de bedrijvensector. Dit maakt een kenniseconomie kwetsbaar. Anderzijds kunnen deze grote bedrijven een positieve invloed hebben op R&D-activiteiten van andere bedrijven, universiteiten en researchinstellingen. De scheve verhouding tussen de R&D in grote en kleine bedrijven heeft dus voor- en nadelen, maar het is hoe dan ook positief dat in Nederland ook kleine bedrijven investeren in R&D.
+
+Veel R&D in ICT-dienstensector
+
+Een aparte sector binnen de bedrijvensector is de ICT-sector. In het vervolg van deze paragraaf beschouwen we het belang van R&D binnen de ICT-sector ten opzichte van de totale bedrijvensector. Om hier enig zicht op te krijgen zijn in tabel 5.2.2 de R&D-activiteiten van de ICT-sector weergegeven alsmede het belang hiervan voor de R&D-activiteiten van de totale bedrijvensector zoals weergegeven in tabel 5.2.1.
+
+Bron: CBS
+
+** nader voorlopige cijfers
+
+In 2020 was 19 procent van alle bedrijven die aan R&D deden een ICT-bedrijf. Gezamenlijk waren deze bedrijven goed voor 16 procent van de R&D-uitgaven en 22 procent van het R&D-personeel in de bedrijvensector in dat jaar. Echter, ICT-bedrijven die aan R&D doen, zijn binnen de dienstverlening van veel groter belang dan binnen de industrie. Ruim 28 procent van de bedrijven in de dienstensector die aan R&D deden in 2020, is een ICT-bedrijf. Binnen de dienstensector bestond 32 procent van de R&D-uitgaven uit R&D-uitgaven van ICT-dienstverleners en 39 procent van het R&D-personeel werkte in de ICT-dienstensector. Voor de Nederlandse industrie is de bijdrage van de ICT-industrie van veel minder groot belang.
+
+Ook in absolute zin geeft de ICT-dienstverlening meer uit aan R&D dan de ICT-industrie: ruim 4,5 keer zoveel in 2020. Daarnaast dragen de ICT-bedrijven meer bij aan de R&D-activiteiten van de kleinere bedrijven dan aan die van de grotere. Dit komt deels door het feit dat de R&D van de ICT-sector vooral in de dienstverlening van belang is: een sector met meer kleinere bedrijven dan de industrie.
+
+5.3 Financiering van R&D
+
+De uitgaven aan R&D verricht met eigen en ingeleend personeel vormen een belangrijke indicator van de R&D-statistieken. Het voorgaande deel van dit hoofdstuk heeft dit gegeven dan ook uitgebreid behandeld. Daarnaast zijn er meer algemene vormen van financiering van R&D. De overheid verstrekt bijvoorbeeld voor een belangrijk deel de middelen voor onderzoek binnen het hoger onderwijs. Deze paragraaf beschrijft in welke mate verschillende partijen R&D in Nederland financieren.
+
+Bedrijven financieren meer dan de helft van R&D in Nederland
+
+In 2020 bedroegen de totale uitgaven voor R&D verricht met eigen en ingeleend personeel in Nederland bijna 18,5 miljard euro. De bedrijvensector financierde 10,5 miljard euro hiervan, dat is 57 procent (tabel 5.3.1). Voor het overgrote deel is dit R&D voor het eigen bedrijf, gefinancierd uit middelen van het bedrijf zelf. Het omvat echter ook contractonderzoek van het ene bedrijf voor het andere. De overheid is de tweede grote financier van R&D in Nederland. In 2020 was 5,6 miljard euro afkomstig van de overheid; dat is 30 procent van het totaal. De derde grote financier van R&D in Nederland is het buitenland. In 2020 kwam ruim 10 procent van de R&D-financiering uit andere landen.
+
+Bij de herkomst van middelen zijn de private non-profitinstellingen (PNP’s) apart onderscheiden. Zij hebben zich namelijk ontwikkeld tot hoofdzakelijk financiers van R&D, die zelf steeds minder R&D verrichten. De financiële bijdragen van PNP’s vormen een substantiële geldstroom voor het hoger onderwijs, en dan vooral voor het onderzoek op het terrein van gezondheid.
+
+Per sector is het niet altijd dezelfde financier die van het grootste belang is. Zo is de bedrijvensector, met een bijdrage van 81 procent in 2020, zelf de grootste financier van de R&D die bedrijven uitvoeren. Voor de R&D die overheidsinstellingen en het hoger onderwijs uitvoeren, is de overheid de grootste financier. Voor beide gold dat 77 procent van de R&D-uitgaven gefinancierd werd door de overheid.
+
+In 2020 betaalde het buitenland voor 11 procent mee aan de R&D van de bedrijvensector en voor 12 procent aan de R&D van de overheidsinstellingen. Maar ook het hoger onderwijs (9 procent) ontving een bijdrage uit het buitenland. Voor de overheidsinstellingen en het hoger onderwijs betreft dit vaak bijdragen van de EU. Bij bedrijven zijn het overwegend financiële stromen binnen multinationals met een moeder- of dochteronderneming in Nederland.
+
+Bron: CBS
+
+1) Inclusief private non-profitorganisaties (PNP’s).
+
+2) De tegemoetkoming in de kosten van R&D uit hoofde van de WBSO-regeling wordt in de staat van herkomst en bestemming van middelen niet verdisconteerd.
+
+* voorlopige cijfers
+
+Bijna 15 procent nationale R&D-middelen naar buitenland
+
+Het voorgaande ging in op de financiering van de R&D die bedrijven en instellingen in Nederland verrichten: de herkomst van de middelen. Een tweede invalshoek is de bestemming van de middelen die bedrijven, instellingen en overheden in Nederland besteden aan R&D.
+
+De meeste middelen die bedrijven vrijmaken voor R&D, besteden zij binnen het eigen bedrijf of bij andere bedrijven. In 2020 was dit 10 miljard euro van de 13,4 miljard euro die bedrijven in totaal uitgaven aan R&D. Het buitenland is een andere belangrijke bestemming van R&D-gelden van de bedrijvensector. In 2020 financierden Nederlandse bedrijven voor bijna 2,9 miljard euro aan R&D in het buitenland; dit was bijna 22 procent van hun totale bestedingen aan R&D. De totale R&D-uitgaven van de bedrijvensector (12,3 miljard euro) zijn groter dan de middelen die bedrijven beschikbaar stelden voor de financiering van R&D (10,5 miljard euro). Dat betekent dat de bedrijvensector per saldo R&D van andere sectoren financiert, waaronder het buitenland. Zo besteedde de bedrijvensector in 2020 voor 402 miljoen euro R&D uit aan het hoger onderwijs; omgekeerd ging dat om 26 miljoen euro.
+
+Nationale uitgaven aan R&D
+
+De nationale uitgaven aan R&D zĳn de totale uitgaven van bedrĳven, instellingen en overheden in Nederland aan R&D. Dit is exclusief R&D die organisaties in Nederland hebben uitgevoerd voor buitenlandse financiers, maar inclusief de R&D die Nederlandse partĳen hebben uitbesteed aan het buitenland. Ingezetenen van Nederland hebben 19 491 miljoen euro aan R&D uitgegeven in 2020 (tabel 5.3.1). Dit zĳn de nationale uitgaven aan R&D. De totale R&D-uitgaven met eigen en ingeleend personeel bedroegen 18 494 miljoen euro. Het verschil bestaat uit twee componenten. Ten eerste telt het bedrag dat buitenlandse financiers uitgaven in Nederland niet mee in de nationale uitgaven aan R&D. Dit bedroeg 1 915 miljoen euro in 2020. Ten tweede telt het bedrag dat Nederlandse partĳen uitgaven in het buitenland wél mee: het ging om 2 912 miljoen euro in 2020. De nationale uitgaven aan R&D zĳn dan als volgt te berekenen:
+
+de totale R&D-uitgaven met eigen en ingeleend personeel (18 494 miljoen euro),
+
+verminderd met de uitgaven van buitenlandse financiers (1 915 miljoen euro),
+
+en daarbĳ opgeteld de R&D-uitgaven van Nederlandse partĳen in het buitenland (2 912 miljoen euro). Dit telt op tot 19 491 miljoen euro aan nationale R&D-uitgaven in 2020. Het buitenlandse R&D-saldo bedraagt dan −997 miljoen euro (1 915 miljoen–2 912 miljoen euro). Dit betekent dat in 2020 Nederland bijna 1 miljard euro meer heeft uitgegeven aan R&D in het buitenland dan buitenlandse partijen hebben uitbesteed aan Nederland.
+
+5.4 Literatuur
+
+
+
+Europese Commissie (2010). . Europese Commissie, Brussel.
+
+Ministerie van Economische Zaken, Landbouw & Innovatie (2011). . Den Haag.
+
+OESO (2015). . Organisatie voor Economische Samenwerking en Ontwikkeling, Parijs.
+
+
+
+
+
+Noten
+
+Wet Bevordering Speur- en Ontwikkelingswerk (WBSO). Deze wet regelt een fiscale stimulering van (private) R&D door de loonbelasting van R&D-personeel die een bedrijf moet afdragen te verminderen.
+
+Landen aangesloten bij de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO).Innovatie
+
+Auteurs: Rogier Goedhart, Rik van Roekel
+
+Innovatie is een belangrijk onderdeel van de Nederlandse kenniseconomie. Innovatie is immers een stimulans voor de arbeidsproductiviteit en kan mede daardoor bijdragen aan de internationale concurrentiepositie van Nederland. In de periode 2018–‍2020 heeft 40 procent van de Nederlandse bedrijven met 10 of meer werkzame personen geïnnoveerd.
+
+6.1 Inleiding
+
+Innovatie is de praktische toepassing van nieuwe inzichten die verworven zijn door kennis. Van innovatie is sprake als bedrijven producten of processen vernieuwen. Voor productinnovaties geldt als norm dat de vernieuwingen de functionele of gebruikseigenschappen van het product betreffen. Innovaties in het esthetisch ontwerp of de verpakking van producten, zijn bijvoorbeeld marketinginnovaties. Van oudsher wordt met innovatie voornamelijk het technologische aspect van vernieuwing bedoeld. De economie bouwt echter steeds meer op kennis en daar horen ook strategische innovaties op het gebied van organisatie en marketing bij.
+
+Community Innovation Survey als leidraad
+
+De informatie in dit hoofdstuk is gebaseerd op de Europese innovatie-enquête (Community Innovation Survey – CIS –, periode 2018–‍2020). Dit tweejaarlijkse onderzoek wordt door de EU-lidstaten uitgevoerd in opdracht van het statistiekbureau van de EU: Eurostat. De landen hebben met elkaar afgesproken welke bedrijfstakken tot de onderzoekspopulatie behoren (CIS-populatie). De cijfers in dit hoofdstuk hebben betrekking op bedrijven behorend tot de onderzoekspopulatie van het CBS. Voor een compleet beeld over innovatie in Nederland verzamelt (en publiceert) het CBS gegevens van bedrijven uit een uitgebreidere verzameling van bedrijfstakken. Door dit methodologische verschil kunnen de cijfers in dit hoofdstuk afwijken van cijfers opgenomen in andere publicaties over innovatie in Nederland. Meer informatie over welke bedrijfstakken tot de CIS-populatie behoren en welke het CBS daaraan heeft toegevoegd, is beschikbaar via de .
+
+Het CIS-onderzoek wordt uitgevoerd onder bedrijven met 10 werkzame personen of meer. Het CBS hanteert een steekproef bij bedrijven met 10 tot 200 werkzame personen. Bedrijven met 200 werkzame personen of meer ontvangen allemaal een uitnodiging voor het invullen van een vragenlijst. De resultaten worden vervolgens per cel van sector maal bedrijfsgrootte (SBI 2‑digit en grootteklasse) opgehoogd om de totale populatie te weerspiegelen. Door middel van deze methode beschrijven de resultaten de Nederlandse populatie van bedrijven met 10 of meer werkzame personen. Het betreft bijna 55 duizend bedrijven. De cijfers in dit hoofdstuk hebben de status ‘nader voorlopig’.
+
+Operationalisering innovatie
+
+Het concept innovatie is in de Community Innovation Survey geoperationaliseerd in lijn met het algemeen erkende ‘Oslo Manual’ van de Organisatie voor Economische Samenwerking en Ontwikkeling (OESO/Eurostat, 2019). Dit handboek biedt handvatten om innovatie bij bedrijven te meten. In het handboek worden twee hoofdvormen van innovatie omschreven, namelijk innovaties die bedrijfsproducten veranderen en innovaties die bedrijfsprocessen veranderen (zie ook figuur 6.1.1).
+
+Productinnovatie : een nieuw product of een significante verandering aan een bestaand product. Deze productinnovaties kunnen goederen of diensten zijn die nieuw voor de markt zijn, of alleen nieuw voor het bedrijf. Voor productinnovaties geldt als norm dat de vernieuwingen de functionele of gebruikseigenschappen van het product betreffen. Producten zijn in dit kader gedefinieerd als goederen of diensten die verhandeld kunnen worden, als input kunnen dienen voor de productie van andere goederen of diensten, geconsumeerd kunnen worden door bijvoorbeeld huishoudens of overheden en die als investering kunnen dienen.
+
+Bedrijfsprocesinnovatie : innovaties die te maken hebben met vernieuwingen in één of meer van de volgende bedrijfsfuncties: productie van goederen of diensten; distributie en logistiek; marketing en verkoop; informatie- en communicatiesystemen; administratie en management; product- en bedrijfsprocesontwikkeling.
+
+productie van goederen of diensten;
+
+distributie en logistiek;
+
+marketing en verkoop;
+
+informatie- en communicatiesystemen;
+
+administratie en management;
+
+product- en bedrijfsprocesontwikkeling.
+
+Alle bedrijfsfuncties kunnen onderhevig zijn aan innovatieactiviteiten. De term ‘bedrijfsproces’ omvat de kernprocessen die ten grondslag liggen aan de productie van goederen of diensten. Dit kunnen bijvoorbeeld ondersteunende processen zijn die distributie en logistiek omvatten, te maken hebben met marketing, verkoop en diensten na verkoop. Maar dit kunnen ook ondersteunende bedrijfsprocessen zijn die te maken hebben met de ICT in het bedrijf, de bedrijfsadministratie en het management. Het kunnen ook de processen zijn die direct betrekking hebben op het ontwerp van nieuwe producten of bedrijfsprocessen. Kort gezegd omvat het alle diensten waarvan het bedrijf zelf ‘de klant’ is. Ook kunnen bedrijfsprocessen intern worden geleverd of uitbesteed worden aan derden.
+
+6.2 Innovatie bij bedrijven in Nederland
+
+Deze paragraaf gaat in op de innovatoren in Nederland. Welk aandeel van de onderzoekspopulatie heeft in de periode 2018–‍2020 innovatieactiviteiten ontplooid? Hoe verschilt de industrie van de dienstverlening, en wat doet de ICT-sector? De antwoorden op deze vragen geven een algemeen beeld over het innovatieve karakter van Nederlandse bedrijven.
+
+40 procent bedrijven innovatief
+
+In de periode 2018–‍2020 was 40 procent van de bedrijven innovatief (figuur 6.2.1). Het merendeel van deze bedrijven kon de innovatie in die periode ook succesvol afronden: 95 procent. Daarnaast werkte 5 procent aan innovaties zonder deze af te ronden (afgebroken of onvoltooid) in de onderzochte periode.
+
+Het aandeel bedrijven dat succesvol innoveerde in 2018–‍2020 was in de industrie groter dan onder dienstverleners: respectievelijk 52 tegen 37 procent. Het aandeel van bedrijven met niet-afgeronde innovaties was klein voor zowel industriële bedrijven als voor bedrijven in de dienstensector (beide 2 procent). Grote bedrijven zijn vaker technologisch innovatief dan kleine. Onder bedrijven met 250 of meer werkzame personen bedroeg het aandeel bedrijven met afgeronde technologische innovaties 53 procent, tegen 35 procent bij bedrijven met 10 tot 50 werkzame personen. Grote bedrijven hadden ook vaker niet-afgeronde technologische vernieuwingen dan kleine bedrijven in de periode 2018–‍2020.
+
+Elektrotechnische en machine-industrie zeer innovatief
+
+Binnen de industrie zijn bedrijven actief in de elektrotechnische en machine-industrie het meest innovatief: 76 procent van hen innoveerde in de periode 2018–‍2020 (tabel 6.2.2). Ook het aandeel innovatieve bedrijven in de aardolie-, chemische, rubber- en kunststofproductenindustrie (68 procent) was relatief groot en ruim boven het gemiddeld aandeel innovatieve bedrijven in de industrie (54 procent). Zowel in de voedings- en genotmiddelenindustrie als in de overige industrie innoveerde 44 procent van de bedrijven. Dat is meer dan gemiddeld in Nederland (40 procent) in de jaren 2018–‍2020, maar deze bedrijfstakken hadden binnen de industrie het kleinste aandeel innovatieve bedrijven.
+
+Bron: CBS
+
+** nader voorlopige cijfers
+
+De mate waarin bedrijven in de dienstensector innoveren hangt sterk af van het type dienst dat wordt verleend. Zo was 68 procent van de bedrijven binnen de informatie en communicatie en 50 procent van de financiële instellingen innovatief. Bedrijven actief in advies, onderzoek en specialistische zakelijke dienstverlening (waarin ook de onderzoeks- en ontwikkelingssector is opgenomen) scoorden net lager met 47 procent. Deze drie sectoren scoorden ruim boven het gemiddelde van de dienstensector als geheel (38 procent). Onder dit gemiddelde scoren de bedrijfstakken verhuur van roerende zaken en overige zakelijke dienstverlening, vervoer en opslag, en de horeca, met respectievelijk 34, 30 en 17 procent innovatieve bedrijven. Binnen de overige sectoren kennen de delfstoffenwinning en de productie, winning en distributie van energie en water en afvalverwerking relatief veel innovatoren: beide meer dan 40 procent in de periode 2018–‍2020. Bedrijven in de bouwnijverheid (34 procent) en de landbouw (12 procent) voerden relatief het minst innovaties door. Gemiddeld was 28 procent van de bedrijven behorend tot de overige sectoren innovatief.
+
+Bijna twee derde ICT-bedrijven innovatief
+
+In de periode 2018–‍2020 was 65 procent van de ICT-bedrijven innovatief (figuur 6.2.3). Dat percentage is hoger dan bij het totaal van bedrijven (40 procent). ICT-bedrijven zijn dus relatief een stuk innovatiever ten opzichte van alle bedrijven, ongeacht of hun kernactiviteiten zich in de industrie of in de dienstverlening bevinden. De ICT-dienstensector scoort flink hoger dan de dienstensector als geheel waar het gaat om innovatieve bedrijven: 65 tegen 38 procent in de periode 2018–‍2020. Het verschil tussen het aandeel innovatoren in de ICT-industrie en alle bedrijven in de industrie is zelfs nog net iets groter: 81 procent tegen 54 procent in de industriële sector als geheel. Het aandeel innovatieve bedrijven in de ICT-industrie nam toe ten opzichte van de periode 2016–‍2018. Destijds bedroeg het aandeel innovatieve bedrijven in de ICT-industrie nog 74 procent.
+
+6.3 Product- en bedrijfsprocesinnovatie
+
+In deze paragraaf wordt aandacht besteed aan de twee hoofdvormen van innovatie: productinnovatie en bedrijfsprocesinnovatie (vanaf nu procesinnovatie). In welke branches worden de verschillende vormen van innovatie individueel of tegelijkertijd gerealiseerd? Vervolgens wordt dieper ingegaan op productinnovatie: hoe belangrijk is het voor productinnovatoren om nieuwe producten te ontwikkelen in termen van hun omzet? En welke impact heeft dit op de totale omzet van een branche? Tot slot kijken we naar de verdeling van de innovatie-uitgaven van bedrijven en naar het type samenwerkingsverbanden van innovatoren.
+
+8 procent innovatoren met uitsluitend productinnovatie
+
+Van alle bedrijven die succesvolle innovaties hebben doorgevoerd in de periode 2018–‍2020 deed 8 procent uitsluitend aan productinnovatie (figuur 6.3.1). Bij ruim de helft van de innovatoren kwam alleen procesinnovatie voor. De overige 42 procent combineerde procesinnovatie met productinnovatie. In de industrie ligt de nadruk op productinnovatie. In deze sector deed 59 procent van de innovatoren aan productinnovatie tegen bijna de helft bij alle bedrijven. Wel werd productinnovatie in de industrie vaak gecombineerd met procesinnovatie (47 procent van innoverende industriële bedrijven). In de dienstensector voerde 49 procent van de bedrijven productinnovaties door. Bij dienstverlenende bedrijven zijn procesinnovaties juist meer in trek dan bij industriële bedrijven. In de periode 2018–‍2020 werkte 93 procent van de innovatoren in de dienstverlening aan procesinnovaties. Ruim de helft van de innovatieve dienstverleners (52 procent) voerde enkel procesinnovatie uit, zonder dit te combineren met productinnovatie. Bij de overige sectoren is procesinnovatie de hoofdvorm van innovatie: 65 procent van de innovatoren in deze branches deed enkel aan procesinnovatie; 35 procent voerde een nieuw product in.
+
+Productinnovatoren: 23 procent omzet afkomstig van innovatief product
+
+In 2020 waren nieuwe of sterk verbeterde producten goed voor bijna 23 procent van de totale omzet van productinnovatoren (figuur 6.3.2). Bij dienstverleners was het omzetaandeel vergelijkbaar met het totaal. Het omzetaandeel van nieuwe producten voor industriële bedrijven lag, met ruim 25 procent, nipt hoger . De overige sectoren zijn minder afhankelijk van omzet uit nieuwe producten; bijna 12 procent van de omzet van productinnovatoren in deze bedrijfstakken kwam uit nieuwe of sterk verbeterde producten.
+
+Niet alleen grote innovatieve bedrijven (250 of meer werkzame personen) realiseren een aanzienlijk deel van hun omzet met productinnovaties (bijna 27 procent in 2020). Ook bij productinnovatoren met 10 tot 50 en met 50 tot 250 werkzame personen is het aandeel substantieel. Voor beide groepen gold dat bijna 23 procent van de omzet uit nieuwe of sterk verbeterde producten afkomstig was in 2020.
+
+In 2020 maakte de omzet uit nieuwe of sterk verbeterde producten voor de markt een even groot deel uit van de omzet van productinnovatoren als die uit innovatieve producten enkel nieuw voor het bedrijf: beide meer dan 11 procent. Deze verhoudingen verschillen niet veel wanneer gemeten wordt naar bedrijfstak en bedrijfsomvang. Uitzondering hierop zijn bedrijven in overige sectoren (buiten de dienstverlening en industrie) waar, gemiddeld genomen, innovatieve producten die enkel nieuw zijn voor het bedrijf relatief belangrijker zijn.
+
+Alle bedrijven: productinnovaties goed voor 8 procent van totale omzet
+
+In 2020 was 8 procent van de omzet van bedrijven met 10 of meer werkzame personen (inclusief bedrijven die niet geïnnoveerd hebben) afkomstig van nieuwe of sterk verbeterde producten (figuur 6.3.3). In figuur 6.3.2 ging het om het omzetaandeel van enkel productinnovatoren. Figuur 6.3.3 toont daarmee een alternatieve manier om de economische effecten van innovatie te meten.
+
+Voor bedrijven in de industrie vormt de omzet uit nieuwe of sterk verbeterde producten een relatief groot deel van de totale omzet: bijna 18 procent in 2020. Bij de dienstverleners was dit ruim 5 procent. Het verschil tussen beide sectoren bestaat zowel bij het omzetaandeel uit producten die alleen nieuw zijn voor het eigen bedrijf als voor producten die nieuw zijn voor de markt. Bij grote bedrijven zijn nieuwe producten belangrijker voor de omzet dan bij kleine bedrijven. Het omzetaandeel bedroeg bijna 11 procent bij bedrijven met 250 werkzame personen of meer, tegen ruim 6 procent bij bedrijven met 50 tot 250 werkzame personen en ruim 3 procent bij bedrijven met 10 tot 50 werkzame personen.
+
+Figuur 6.3.4 toont de input van innovatie: de uitgaven van bedrijven hieraan. Deze uitgaven bestaan uit vijf categorieën:
+
+eigen R&D: onderzoeks- en ontwikkelwerk dat bedrijven uitvoeren met eigen en ingeleend personeel,
+
+uitbestede R&D: onderzoeks- en ontwikkelwerk dat bedrijven uitbesteden aan andere bedrijven en instellingen,
+
+aankoop machines, apparatuur en software,
+
+aankoop van andere externe kennis, zoals licenties en octrooien,
+
+overige uitgaven, zoals interne en externe opleidingen voor het personeel, activiteiten voor marktintroductie, ontwerp/design en andere voorbereidingen.
+
+59 procent van de innovatie-uitgaven betreft eigen R&D
+
+Bedrijven besteden meer dan de helft van hun innovatie-uitgaven aan eigen R&D: 59 procent in 2020 (figuur 6.3.4). Op de tweede plek staan de uitgaven aan uitbestede R&D (27 procent), gevolgd door de aankoop van machines, apparatuur en software. Deze post was goed voor 12 procent van de uitgaven aan innovatie in 2020. Bedrijven gaven veel minder uit aan de aankoop van andere externe kennis: het betrof 1 procent van de innovatie-uitgaven in dat jaar.
+
+Industriële bedrijven besteden een groter deel (64 procent in 2020) van hun innovatie-uitgaven aan eigen R&D dan bedrijven in andere sectoren, al is het verschil niet erg groot met de sector dienstverlening. Bedrijven in overige sectoren besteden een aanzienlijk kleiner aandeel van hun innovatie-uitgaven aan eigen R&D, namelijk 39 procent in 2020. De aankoop van machines en dergelijke maakte bij bedrijven uit de industrie een kleiner deel uit van de innovatie-uitgaven dan bij dienstverleners (respectievelijk 8 tegen 14 procent). Zowel de aankoop van externe kennis en overige innovatie-uitgaven, zoals opleiding van personeel en design van producten, maken een zeer beperkt deel uit van het innovatiebudget van bedrijven in de industrie (beide 1 procent of minder).
+
+Grote bedrijven met meer dan 250 werkzame personen trekken het grootste deel van hun innovatiebudget uit voor eigen R&D (63 procent). Bedrijven met 10 tot 50 werkzame personen en bedrijven met 50 tot 250 werkzame personen besteedden juist een relatief groter deel van hun innovatie-uitgaven aan het aankopen van machines, apparatuur en software ten behoeve van nieuwe of sterk verbeterde producten of processen in 2020 (respectievelijk 24 procent en 21 procent).
+
+38 procent van innovatoren werkt samen
+
+In de periode 2018–‍2020 werkte 38 procent van de innovatoren samen met andere bedrijven of instellingen om te innoveren (tabel 6.3.5). Vooral samenwerking met leveranciers is in trek: 19 procent van de innovatoren werkte samen met leveranciers aan nieuwe producten of processen. Ook samenwerkingsverbanden met andere bedrijven binnen het eigen concern komen relatief veel voor (15 procent). Bedrijven werkten veel minder vaak samen aan innovaties met concurrenten, universiteiten of de overheid.
+
+Bron: CBS
+
+1) Bedrijven met 10 of meer werkzame personen.
+
+2) Bedrijven kunnen op meerdere manieren samenwerken.
+
+** nader voorlopige cijfers
+
+6.4 Literatuur
+
+
+
+OESO/Eurostat (2019). . OECD Publishing, Parijs/Eurostat, Luxemburg.
+
+
+
+
+
+Noten
+
+De quartaire sector is buiten beschouwing gelaten. Openbaar bestuur, onderwijs en zorg vallen daarom bijvoorbeeld buiten de onderzoekspopulatie.
+
+In dit hoofdstuk wordt innovatie gemeten volgens een aantal indicatoren waarvan de hoofdmoot berust op het aantal innoverende bedrijven. Andere rapporten, zoals het European Innovation Scoreboard van de Europese Unie, gebruiken een andere definitie van innovatie en andere methodes om innovatie te meten. Conclusies in dit hoofdstuk kunnen dan ook afwijken van conclusies in andere rapporten.Statistische bijlage
+
+2 ICT en economie
+
+Bron: CBS
+
+1) Internationale definitie.
+
+2) Vanaf 2021 zijn de cijfers gebaseerd op een gewijzigde waarneemmethode. Cijfers over 2021 zijn daardoor niet direct vergelijkbaar met eerdere jaren.
+
+Bron: CBS
+
+
+
+

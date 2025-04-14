@@ -1,0 +1,16 @@
+Date:
+2024-04-23
+Article Title:
+The Daily — New retirement income microsimulation model now available
+Article Content:
+Released: 2024 04 23
+The PASSAGES model, version 1.0, is now available. 
+PASSAGES is an open source dynamic microsimulation model that supports policy analysis and research relating to Canadian retirement income system outcomes at the individual and family levels. This initial version of the model focuses on the development necessary to simulate Canada Pension Plan (CPP) outcomes. 
+The development of PASSAGES was a collaboration between Statistics Canada, Employment and Social Development Canada and the Retirement and Savings Institute at HEC Montréal.
+This version of the model includes a synthetic starting population representing the Canadian population as of December 31, 2015, with family and earnings histories going back to 1966. The synthetic starting population was created primarily with machine learning methods that integrated census data, tax data and other administrative data sources.
+The model simulates demographic (fertility, mortality, marital unions, inter regional and international migration), education, employment, earnings and CPP outcomes of the Canadian population decades into the future. 
+PASSAGES allows users to evaluate the implications of past and current demographic and socioeconomic trends on projected future employment, earnings and CPP outcomes. The model also allows for the exploration of "what if" scenario questions, such as the implications of prospective changes to CPP policy, or the impact of alternate assumptions about future demographic and socioeconomic trends. 
+PASSAGES was developed using the OpenM++ microsimulation model development platform (OpenM++ GitHub).
+The PASSAGES model, version 1.0 (89260006), is available by electronic file transfer. 
+To enquire about the concepts, methods or data quality of this release, or to get access to the model, contact Kevin Moore (613 298 4984; statcan.passagesmodel modelepassages.statcan@statcan.gc.ca), Social Analysis and Modelling Division.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,18 @@
+Date:
+2020-09-24
+Article Title:
+ Financing COVID-19 government policies
+
+Article Content:
+In response to the COVID 19 pandemic, Commonwealth, and State and local governments (measured as general government) implemented numerous policies to provide economic support to the Australian economy. For a summary of the key COVID 19 policies in place in the June quarter see the  in Government Finance Statistics, Australia. This spotlight outlines how governments financed these policies.
+General government raised significant amounts of funds to finance the COVID 19 policies for the June quarter and beyond, resulting in net borrowing increasing $75.6 billion to $88.6 billion in the June quarter. This was the largest quarterly borrowing on record.
+The funds to finance COVID 19 policies were largely facilitated through debt security issuance of Treasury notes (measured as one name paper) and bonds.
+In the June quarter the Commonwealth government issued $105.8 billion in debt securities including $72.3 billion in Treasury bonds and $33.6 billion in Treasury notes through the Australian Office of Financial Management (AOFM).  In relation to Treasury bonds, the Reserve Bank of Australian (RBA), authorised deposit taking institutions (ADIs) and overseas investors (measured as rest of world) acquired $70.5 billion of these bonds either directly from the AOFM or through secondary markets.
+State governments issued $28.4 billion of semi government bonds through their respective state and territory borrowing authority (central borrowing authorities), but had a $6.3 billion net maturity of one name paper.
+The proceeds raised from the issuance of debt securities was greater than the amount spent on the COVID 19 policies during the quarter. Extra funds were placed in deposit accounts with the RBA and ADIs.
+At the end of June there was $734.6 billion of Commonwealth government bonds outstanding [1], an increase of 9.6% on the March quarter. This represented 37.1% of GDP [2], which is relatively low when compared to other advanced economies [3]. The RBA, ADIs and overseas investors (rest of world) hold the majority of outstanding Commonwealth government bonds.
+Interest repayments on Commonwealth government debt, which is driven by Commonwealth bonds, remained low despite historically high levels of debt. Interest expense in the June quarter was $851 million, the lowest amount since the $753 million in March quarter 2009. As a percentage of GDP, interest expense was 0.18%, the lowest estimate since the start of the time series in September quarter 1972.
+The low interest expense was largely due to record low government bond yields of 0.25% for 3 year bonds and under 1% for 10 year bonds.
+  Market value of all Commonwealth government bonds that have been issued but have not yet matured.
+  Calculated as Commonwealth government bonds outstanding as a percentage of 2019 20 GDP in current prices. 2019 20 GDP is taken from , Table 34.
+  

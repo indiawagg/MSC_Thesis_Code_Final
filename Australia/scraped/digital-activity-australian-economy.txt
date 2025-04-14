@@ -1,0 +1,22 @@
+Date:
+2019-10-25
+Article Title:
+ Digital activity in the Australian economy
+
+Article Content:
+This feature article updates and extends measures of the size, growth and nature of digital activity in Australia for the period from 2011 12 to 2017 18. The estimates incorporated data from the most recent 2017 18 Supply and Use tables.
+The ABS measures digital activity in Australia as the production of:
+More details on the ABS digital activity framework are covered in the .
+  Digital enabling infrastructure, such as computer hardware, software, telecommunications equipment and support services that form and facilitate the use of computer networks;
+  Digital media, which covers digital audio, video and advertisement broadcasting services that can be created, accessed, stored or viewed on digital devices; and
+  E commerce, which incorporate retail and wholesale services and margins from digitally ordered or platform enabled online transactions. 
+Domestic production of digital activity has grown relative to the total Australian economy. In 2017 18, digital activity accounted for 5.6% ($96.9 billion) of aggregate value added ($1,725.7 billion), compared to 5.4% ($75.6 billion) in 2011 12 (Graph 1). The relative size of digital activity in Australia is broadly similar to that seen in the United States (6.9% in 2017).
+From 2011 12 to 2017 18, digital activity share of aggregate value added, was higher than 12 industry divisions, but below traditional economic drivers such as Finance (8.9%), Construction (8.4%), Mining (8.1%) and Health (7.0%) (Graph 2).
+Within digital activity, the share in production was dominated by demand for support services (43.5%) and telecommunications (24.9%) and further growth of wholesale e commerce (16.0%) (Graph 3).
+In 2017 18, digital activity expanded by 4.3% in current price terms, slightly below aggregate value added growth of 5.0% (Graph 4).
+Within digital activity, the largest increases were in support services (8.4%), software (4.8%) and digital media (2.8%). Growth in support services was driven by demand for both computer systems design related services and data processing storage services, while strength in software was due to increased cloud and mobile operating system services. The rise in digital media reflected growth in internet publishing and broadcasting services. In contrast, Hardware experienced a decline in growth of  7.3%, due to competition from cheaper importers.
+Digital activity represents a moderate share of total Australian production. Demand for statistical insights into digital activity in the Australian economy is ongoing. In response, the ABS will release updated and extend experimental estimates of digital activity in Australia annually, based on the latest available Australian National Accounts: Supply Use Tables (cat. no. 5217.0).
+Barefoot, K., Curtis, D., Jolliff, W.A., Nicholson, J.R. & R. Omohundro 2019, ‘’, Working Paper, BEA (Bureau of Economic Analysis), Washington, D.C.
+Barefoot, K., Curtis, D., Jolliff, W.A., Nicholson, J.R. & R. Omohundro 2019, ’, Working Paper, BEA, Washington, D.C.
+Zhao, P. 2019, ‘’, Chief economist series, Australian Bureau of Statistics, Canberra.
+  See Barefoot et al. (2019).

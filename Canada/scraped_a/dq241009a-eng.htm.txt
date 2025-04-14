@@ -1,0 +1,24 @@
+Date:
+2024-10-09
+Article Title:
+The Daily — Foreign control in the Canadian economy, 2022
+Article Content:
+Released: 2024 10 09
+The share of assets owned by foreign controlled enterprises has steadily declined since 2007. This trend continued in 2022, with the foreign controlled share of assets decreasing by 0.2 percentage points from a year earlier. The decline was mostly due to Canadian controlled enterprise assets growing at a faster pace than those for foreign controlled enterprises.
+Today, Statistics Canada is releasing an annual report, titled "Corporations Returns Act, 2022," which provides information on the degree of foreign control in the Canadian economy for 2022. 
+Consult the "Foreign control in the Canadian economy: Visualization tool" for a comprehensive overview of the annual changes in the foreign control of the Canadian corporate economy.
+Combined, foreign and Canadian controlled enterprises operating in Canada held $17 trillion in assets in 2022.
+Canadian controlled assets were valued at $14.5 trillion, while foreign controlled assets were valued at $2.5 trillion this results in a higher share of assets owned by Canadian controlled corporations (85.3%) compared with foreign controlled corporations (14.7%).
+Canadian controlled corporations also reported a higher year over year increase in asset growth from 2021 to 2022 (+7.0%) compared with foreign controlled corporations (+5.3%).
+Data from the Corporations Returns Act program show that enterprises in Canada are controlled by entities from over 90 countries. However, in 2022, eight countries accounted for 87% of these foreign owned assets. 
+Enterprises controlled from the United States maintained the largest overall share of foreign controlled assets in Canada (52.3%), followed by the United Kingdom (11.1%) and Japan (7.0%).
+By macro region, the majority share of assets under foreign control in 2022 belonged to enterprises from the Americas (54.1%), followed by enterprises from Europe (29.4%) and Asia (14.8%). 
+Enterprises controlled from the Americas experienced a slowdown in asset growth, from 10.6% in 2021 to half that amount in 2022 (+5.3%). 
+Asset growth by European controlled enterprises in 2022 (+4.2%) rose at the fastest pace since 2018.
+Asian controlled enterprise asset growth rose from 4.4% in 2021 to 6.5% in 2022. 
+Among non financial industries, wholesale trade (47.4%), manufacturing (44.1%), oil and gas extraction (36.5%), and mining and quarrying (30.3%) had the largest shares of foreign control in 2022, as measured by assets. 
+Non depository credit intermediation continues to have the highest level of foreign control (45.4%) among all financial industries in 2022.
+The report Corporations Returns Act, 2022 (Catalogue number61 220 X), is now available.
+The 2022 issue of Inter corporate Ownership (Catalogue number61 517 X), is now available.
+The data visualization product Foreign control in the Canadian economy: Visualization tool (Catalogue number71 607 X), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

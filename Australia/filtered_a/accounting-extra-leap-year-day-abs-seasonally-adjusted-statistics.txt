@@ -1,0 +1,10 @@
+Date:
+2024-03-05
+Article Title:
+ Accounting for the extra leap year day in ABS seasonally adjusted statistics
+
+Article Content:
+The extra leap year day in 2024 is unlikely to impact seasonally adjusted statistics released by the Australian Bureau of Statistics (ABS) for the month of February 2024 and the March quarter 2024.  This is because the effect of an additional leap year day is analysed and accounted for as part of the seasonal adjustment process, which includes the impact of trading days. The impact of the extra leap year day will be evident in the original (non seasonally adjusted) series.
+Seasonal adjustment removes the effects of the time of the year and the arrangement of the calendar. Apart from February, other months contain either 30 or 31 days and this remains the same each year. Months with more days are accounted for in seasonal adjustment as part of the trading day adjustment (i.e. how many trading days there are in the reference period).   
+As the ABS compiles February 2024 seasonally adjusted monthly estimates and March quarter 2024 seasonally adjusted estimates, we will assess any impact from the extra leap year day in February. If there is an impact, we will adjust the seasonal adjustment parameters. This analysis is routinely undertaken each leap year. Some series will show an impact from having an additional trading day and adjustments made, others will not.   
+As the 2024 leap year falls on a Thursday, some series may have a stronger trading day effect than others, owing to wages and salaries most often being paid on Thursdays. However, the number of particular days of the week already varies by quarter (January to March) and by year. It is important for the ABS to consider this when making trading day adjustments as part of the seasonal adjustment process. For example, there will be 13 Thursdays in the March quarter 2024, as there were in the 2020, 2022 and 2023 March quarters (1 January to 31 March). Meanwhile, there were 12 Thursdays in the March quarter 2021. These differences were all accounted for in ABS seasonal adjustment.  

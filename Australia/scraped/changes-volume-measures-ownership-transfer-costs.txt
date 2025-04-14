@@ -1,0 +1,21 @@
+Date:
+2019-10-25
+Article Title:
+ Changes to volume measures of ownership transfer costs
+
+Article Content:
+The 2018 19 issue of the  (ASNA) (cat. no. 5204.0) implements revisions to ownership transfer costs. The revisions align the chain volume measures of ownership transfer costs to the number of title transfers of land, dwellings and buildings. Exemptions to stamp duty have also been incorporated, consistent with the  (SNA).
+Ownership transfer costs are charges such as taxes or services enterprises incur when they acquire or dispose of assets. They are capitalised as part of gross fixed capital formation (GFCF) when they relate to non financial assets and written off as intermediate consumption when they apply to financial assets.
+The revisions implemented in the 2018 19 National Accounts relate to the GFCF category. This covers only costs of ownership transfer on land, buildings, structures and dwellings and includes the following four components:
+Assets other than land, buildings and dwellings may also incur ownership transfer costs, but these are included in the asset category to which they were connected. For example, an installation service on a piece of machinery or equipment would be included in the machinery and equipment category of GFCF.
+  Real estate fees incurred on acquisitions;
+  Legal fees incurred on acquisitions and disposals;
+  Stamp duties paid on acquisitions; and
+  Government transfer charges paid on acquisitions and disposals. 
+In the 2018 19 ASNA, the volume measures of ownership transfer costs related to real estate fees, legal fees and government transfer are aligned to the number of title transfers. This replaces the previous methodology of using price deflation, resulting in revisions from 2010 11 onwards. The volume estimates of stamp duties has been aligned to the number of title transfers on land, buildings and dwellings adjusted for exemptions provided to some first home buyers from paying stamp duty.
+The revisions to GFCF for ownership transfer costs chain volumes are shown in Figure 1. The chain volume of ownership transfer costs was revised from 0.1%, down to  5.4% in 2017 18. This downward revision is mainly due to new policies introduced in Victoria, Queensland and New South Wales from 1 July 2017, which exempts first home buyers from paying stamp duty on properties valued below $600,000 in Victoria and $550,000 in Queensland and New South Wales, significantly reducing the number of title transfers in these States that incur stamp duty.
+High quality chain volume estimates of ownership transfer costs require each component to be deflated using an appropriate price index or that the current price for ownership transfer costs are revalued using a relevant quantity indicator.
+The number of title transfers as reported through administrative data from each state office is a good indicator of the quantity of services provided by intermediaries (e.g. real estate agents, legal professionals and the government). The assumption is that the vast majority of land, dwellings and buildings are transacted through agents and attract the associated fees.
+The volume of stamp duties is more complex and accounts for a significant proportion of ownership transfer costs. Taxes on products such as stamp duties should be aligned to the size of the tax base and therefore only includes those title transfers that attract stamp duty.
+In the 2018 19 ASNA, improvements have been made to the chain volumes estimates of GFCF for ownership transfer costs which was introduced revisions from 2010 11 onwards.
+More information on the estimation of ownership transfer costs can be found in chapter 10 of  (cat. no. 5216.0).

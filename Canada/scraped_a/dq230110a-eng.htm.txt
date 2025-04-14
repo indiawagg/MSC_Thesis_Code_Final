@@ -1,0 +1,22 @@
+Date:
+2023-01-10
+Article Title:
+The Daily — Gender Results Framework: New and updated data tables
+Article Content:
+Released: 2023 01 10
+Statistics Canada's Centre for Gender, Diversity and Inclusion Statistics (CGDIS) has released three data tables on gender distribution in federal government leadership roles, federally appointed judges and experiences of intimate partner violence to update the Gender Results Framework (GRF), a whole of government tool designed to track gender equality in Canada.
+The GRF is available on the CGDIS' Sex, Gender and Sexual Orientation Statistics portal.
+The CGDIS' Gender, Diversity and Inclusion Statistics Hub also supports StatCan's Disaggregated Data Action Plan by connecting users to portals that feature disaggregated data on various population groups.
+Gender equality for leadership and democratic participation provides a more balanced distribution of men and women at all levels of decision making, an essential part of a fair and democratic society.
+Eliminating experiences of gender based violence also promotes gender equality in Canada by removing risks to vulnerable groups in society and limiting the impact of violence on a person's physical, mental, sexual and reproductive health. 
+In Canada, over half of federally appointed judges in 2021 and 2022 were men. However, the proportion of women who were federally appointed judges in Canada increased from 43.8% as of October 1, 2021, to 45.3% (+1.5%) as of October 1, 2022.
+The proportion of men who were federally appointed judges decreased from 56.2% as of October 1, 2021, to 54.7% as of October 1, 2022.
+In Canada, the majority of Members of Parliament and Members of Cabinet in 2021 and 2022 were men. However, the number of women who were Members of Parliament in Canada and the number of women who were Members of Cabinet in Canada increased in 2022.
+The proportion of women who were Members of Parliament increased from 29.4% as of July 1, 2021, to 30.6% (+1.2%) as of July 1, 2022. The proportion of men who were Members of Parliament decreased by 1.2% as of July 1, 2022, from 70.6% as of July 2021 to 69.4% as of July 2022.
+The proportion of women who were Members of Cabinet increased from 48.6% as of July 1, 2021, to 48.7% (+0.1%) as of July 1, 2022. The proportion of men who were Members of Cabinet decreased by 0.1%, from 51.4% as of July 1, 2021, to 51.3% as of July 1, 2022.
+A new data table has been produced by the Canadian Centre for Justice and Community Safety Statistics and the CGDIS. Using the 2018 Survey of Safety in Public and Private Spaces, this table provides data on experiences of intimate partner violence (IPV), since age 15 and in the past 12 months, by selected characteristics of victim.
+IPV is a form of gender based violence and encompasses a broad range of behaviours including emotional, psychological, financial, physical and sexual abuse committed by a current or former spouse, common law partner, or dating partner. Experiences of IPV for men and women are disaggregated by geographical location, type of IPV and victim demographics, including age, population group identification, education level, household income and marital status. The data in this table were also part of a Juristat article published in April 2021. 
+Men (54.2%) and women (61.7%) in the territories had the highest proportions of experiencing IPV since age 15. Men (33.0%) and women (40.5%) in Quebec had the lowest proportions of experiencing IPV since age 15.
+Men (15.7%) and women (15.3%) in the territories had the highest proportions of experiencing IPV in the past 12 months. Women in the Atlantic provinces (10.7%) and men in Quebec (10.6%) had the lowest proportions of experiencing IPV in the past 12 months.
+For more information on the Gender Results Framework and products disaggregated by gender, please visit the Sex, Gender and Sexual Orientation Statistics portal.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

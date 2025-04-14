@@ -1,0 +1,76 @@
+Title: Revisie nationale rekeningen
+Date: 2018-05-23 22:00:00 UTC
+
+Lead Text:
+                Vandaag publiceert het CBS de eerste resultaten van de revisie van de Nederlandse nationale rekeningen. De nationale rekeningen zijn onder andere de bron van veelgebruikte macro-economische variabelen als het bruto binnenlands product (bbp), het handels(export)saldo, het extern vermogen, het bruto nationaal inkomen (bni), het overheidstekort en de overheidsschuld. Door de revisie komen er nieuwe ramingen beschikbaar van deze variabelen. De eerste uitkomsten betreffen het verslagjaar 2015, waarop de revisie is uitgevoerd. Eind juni worden vervolgens de gereviseerde cijfers gepubliceerd voor 1995 tot en met het eerste kwartaal 2018.
+            
+
+Article Content:
+            Periodiek worden de nationale rekeningen gereviseerd. Daarbij worden nieuwe bronnen, methoden en concepten doorgevoerd in de nationale rekeningen, zodat het beeld van de Nederlandse economie weer optimaal aansluit bij alle onderliggende statistieken, bronnen en internationale richtlijnen voor het samenstellen van de nationale rekeningen. De Europese Commissie heeft de aanbeveling aan lidstaten gedaan om hun nationale rekeningen minimaal elke vijf jaar te reviseren. Met deze revisie geeft Nederland hieraan invulling.
+
+
+De uitkomsten voor veelgebruikte macro-economische variabelen
+
+Door de revisie zijn er nieuwe ramingen voor 2015 van de macro-economische indicatoren. Hieronder een overzicht van een aantal van de meest gebruikte, gevolgd door de achtergronden bij deze bijstellingen:
+
+Het bruto binnenlands product (bbp) voor 2015 is opwaarts bijgesteld met 1,0 procent tot 690 miljard euro, een verhoging van 6,6 miljard euro.
+Het bruto nationaal inkomen (bni = bbp + saldo primaire inkomensoverdrachten met het buitenland) is opwaarts bijgesteld met 1,6 procent, een verhoging van 10,9 miljard euro. Naast de bijstelling van het bbp is het saldo primaire inkomens met 4,4 miljard euro naar boven bijgesteld.
+Het overheidstekort (EMU-definitie) is vrijwel ongewijzigd en bedraagt 14 miljard euro. Het overheidstekort als percentage van het bbp wijzigt van 2,1 naar 2,0 procent door de opwaartse bijstelling van het bbp.
+De overheidsschuld (EMU-definitie) is met 5,7 miljard euro opwaarts bijgesteld naar 447 miljard euro, en komt nu overeen met 64,8 procent van het bbp. Voor revisie was dat 64,6 procent.
+Het handelssaldo (exportoverschot) is met ruim 20 miljard naar beneden bijgesteld tot 51,8 miljard euro.
+De totale vorderingen op het buitenland zijn met 360 miljard opwaarts bijgesteld naar 7,7 biljoen euro. De totale schulden zijn met 534 miljard verhoogd naar 7,4 biljoen euro. Per saldo is daardoor het extern vermogen met 174 miljard euro naar beneden bijgesteld, van 520 naar 346 miljard euro. Vooral het extern vermogen van niet-financiële vennootschappen en financiële instellingen in concernverband is fors neerwaarts bijgesteld.
+Het arbeidsvolume is met 22 duizend arbeidsjaren verlaagd naar 7 015 duizend arbeidsjaren.
+
+Achtergronden en belangrijkste aanpassingen bij deze revisie
+
+Veel van de bijstellingen uit deze revisie worden vanuit vijf overkoepelende thema’s verklaard:
+
+Samenwerking De Nederlandsche Bank (DNB)-CBS 
+    Met ingang van de revisie over het verslagjaar 2015 zijn de buitenlandrekening van het CBS en de betalingsbalans van DNB samen opgesteld en volledig op elkaar aangesloten. Hiermee zijn de eerdere en soms grote verschillen tussen de door DNB en het CBS gepubliceerde (kern)cijfers over het lopende rekeningsaldo en het extern vermogen van Nederland verdwenen. Deze harmonisatie heeft op diverse plekken in de nationale rekeningen tot nieuwe inzichten en daarmee bijstellingen in met name de financiële rekeningen en balansen geleid. Dit is onder andere zichtbaar in de bijstelling van het extern vermogen.
+Bni-verificatie door Eurostat en EDP dialogue visit
+    
+    In december 2016 heeft de Europese Commissie Nederland bezocht, om te verifiëren dat de bepaling van het bni, zoals gebruikt voor de afdracht aan de Europese Unie (EU), volgens de regels van het Europese Systeem van Rekeningen (ESR 2010) geschiedt. Hierbij heeft Eurostat enkele verbeterpunten voorgesteld voor de Nederlandse methodologie en berekeningen. Deze punten zijn met deze revisie doorgevoerd.
+    
+    Daarnaast heeft een bezoek van de Europese Commissie in januari en februari 2018 in het kader van de Excessive Deficit Procedure (EDP) geresulteerd in enkele aanbevelingen die in de macro-economische cijfers over de sector Overheid zijn verwerkt.
+Sector(her)classificaties
+    
+    Het CBS heeft de afgelopen jaren extra onderzoek verricht om de classificatie van bedrijven en instellingen naar economische sector te verbeteren.
+    
+    Het onderzoek heeft er onder andere toe geleid dat circa 250 bedrijven die voorheen werden beschouwd als bijzondere financiële instellingen (BFI’s), na gezamenlijk onderzoek en afstemming met DNB, zijn verschoven naar de sector niet-financiële vennootschappen. De activiteiten van deze bedrijven worden als gevolg en conform de internationale regels voor het samenstellen van nationale rekeningen anders gewaardeerd, wat een opwaarts effect op het bbp heeft.
+    
+    Daarnaast hebben ook diverse andere herclassificaties van (onderdelen van) bedrijven en instellingen plaatsgevonden in deze revisie, met name op het terrein van de sector Overheid.
+De effecten van globalisering
+    
+    De voortschrijdende globalisering blijft een uitdaging voor de economische statistieken. De internationale verwevenheid van productieactiviteiten in zogenaamde wereldwijde productieketens maakt het steeds uitdagender deze activiteiten toe te rekenen aan de economieën van individuele landen. Sinds de vorige revisie in 2014 is het inzicht in de manier waarop multinationale ondernemingen hun productieactiviteiten georganiseerd hebben en de invloed daarvan op het maken van (economische) statistieken sterk toegenomen. Ook zijn de internationale richtlijnen op dit vlak sinds de vorige revisie verder aangescherpt. Voor een aantal ondernemingen heeft dat tot wijzigingen geleid in de manier waarop bepaalde activiteiten van die ondernemingen in de nationale rekeningen zijn verwerkt. De registratie van zogenaamde royalty- en licentiebedrijven is daarbij onder andere gewijzigd van financiële instellingen naar niet-financiële vennootschappen.
+Nieuwe (administratieve) bronnen
+    
+    Nederland kent een uitgebreid stelsel van basisregistraties. Met de vorige revisie is een deel daarvan al beschikbaar gekomen voor inzet in de nationale rekeningen, daar zijn er nu weer een aantal aan toegevoegd. Zo kon in deze revisie bijvoorbeeld voor het eerst gebruik worden gemaakt van de Basisregistraties Adressen en Gebouwen (BAG) en de gedetailleerde inkomstenbelastingdata van de Belastingdienst bij bijvoorbeeld de raming van de hypotheekschuld van huishoudens in Nederland. Ook is op grotere schaal dan bij de vorige revisie gebruikgemaakt van btw-informatie van de Belastingdienst.
+    
+    Daarnaast zijn ook diverse nieuwe dan wel aangepaste bronnen ingezet met deze revisie, zoals de vernieuwde statistiek Internationale Handel in Diensten, de uitkomsten van de confrontatie van de Directe Rapportage-bron (DNB) en de Statistiek Financiën van Ondernemingen, winstaangiften van zelfstandigen en financiële gegevens van landbouwbedrijven.
+    
+
+Illegale activiteiten
+In de nationale rekeningen dienen ook de illegale economische activiteiten te worden meegenomen in de berekeningen. De raming van de toegevoegde waarde voor illegale activiteiten in de nationale rekeningen is op basis van nieuwe bronnen en onderzoek in deze revisie met 1,5 miljard euro opwaarts bijgesteld naar 4,8 miljard. De grootste aanpassing zit bij de productie van cannabis (nederwiet). Voor revisie werd uitgegaan van een pakkans van 40 procent en na revisie wordt uitgegaan van een pakkans van 20 procent. Dit is op basis van informatie van het Korps landelijke politiediensten (KLPD). Verder is uit nader onderzoek gebleken dat de jaarlijkse wietproductie groter is dan eerder werd aangenomen.
+
+Hoe verder, wanneer wordt wat gepubliceerd?
+
+24 mei 2018: Publicatie resultaten revisie van verslagjaar 2015.
+
+22 juni 2018: Publicatie in StatLine van de gereviseerde cijfers voor 1995 tot en met het eerste kwartaal van 2018.
+
+22 juni 2018: Levering gegevens aan Eurostat conform het Europees transmissieprogramma.
+
+16 juli 2018: Publicatie Nationale rekeningen 2017 (tabellenboek).
+
+22 september 2018: Indiening van de bni-cijfers voor de bepaling van de afdracht van Nederland aan de EU.
+
+
+Een nieuwe raming van het bni kan van invloed zijn op de EU-afdracht. Ook voor andere Nederlandse bijdragen die aan het niveau van het bbp/bni of andere macro-economische indicatoren zijn gekoppeld, kan de revisie gevolgen hebben.
+
+Meer informatie over de revisie?
+Meer achtergronden en cijfers van de revisie zijn te vinden in de vandaag verschenen .
+
+Voor vragen naar aanleiding van deze publicatie kunt u contact opnemen met de Persdienst/Infoservice.
+
+
+

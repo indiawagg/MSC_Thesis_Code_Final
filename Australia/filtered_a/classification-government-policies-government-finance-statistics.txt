@@ -1,0 +1,19 @@
+Date:
+2023-12-05
+Article Title:
+ Classification of government policies in Government Finance Statistics
+
+Article Content:
+The ABS continues to consult with stakeholders and subject matter experts to determine appropriate classifications for new government initiatives. These classifications are based on well established conceptual frameworks (a), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to GFS and the National Accounts (NA).
+Government fiscal support through the quarter continued to target provision of assistance to households, businesses and non profit institutions.
+Social benefit expenditure in the September quarter included expenditure through the National Energy Bill Relief program and ongoing expansions to Commonwealth social programs.
+State based public sector wages contributed to outcomes for general government final consumption expenditure.
+The classification of government policies impacting the September quarter 2023 is summarised in the table below. The policies are grouped into three broad categories (b) and align with the ABS GFS economic classifications. 
+ 
+  Provision of assistance to households, corporations, unincorporated enterprises, and non profit institutions.
+  Relaxation of tax and non tax revenue obligations.
+  Increased healthcare and frontline services spending.
+  These frameworks are supported by international standards such as the International Monetary Fund (IMF) Government Finance Statistics Manual 2014 (GFSM 2014) and the System of National Accounts 2008 (2008 SNA)
+  The categories are broadly based on the recommendations in “COVID 19: How to Record Government Policy Interventions in Fiscal Statistics” (IMF, 2020)
+  NA includes the gross domestic product (GDP) accounts, which are measured using the expenditure approach (GDP (E)), the income approach (GDP (I)) or the production approach (GDP (P)).  NA also includes income accounts, capital accounts, financial accounts, and balance sheets
+  ‘States’ refers to the state sector in macroeconomic statistics which covers all eight state and territory jurisdictions in Australia

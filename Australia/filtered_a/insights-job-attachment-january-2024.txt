@@ -1,0 +1,43 @@
+Date:
+2024-02-15
+Article Title:
+ Insights into job attachment, January 2024
+
+Article Content:
+In January 2024, there was a higher than usual number of people who were not employed but indicated that they had a job. This was also seen in January 2023 and explored in the article .
+This article repeats some of the analysis from a year ago, together with presenting through the year seasonal patterns. Charts 5 and 7 highlight the different seasonal patterns recently observed for two populations of particular interest – unemployed people and people not in the labour force who were waiting to start or return to work.
+However, it is important to remember when we have observed higher than usual numbers of people who weren’t employed but who were waiting to start or return to work   in January 2022, 2023, and 2024. These months coincided with a period of unusually tight labour market conditions, and also followed a period of considerable disruption during the pandemic.
+Future January data will be required to confirm the extent to which this reflects a new, continuing seasonal pattern.   
+‘Job attachment’ refers to whether someone has a job that they are connected to.
+Whether someone has a job is one of a number of elements used by the ABS to determine whether someone is employed or not, together with whether they have worked an hour or more (or whether they were temporarily absent from work) and whether they have been paid. For more on how the ABS defines someone as employed, refer to the .
+Given employment is determined using multiple criteria, it is possible for someone to have attachment to a job without necessarily being employed. Prior to the pandemic, there was a relatively small number of people each month who had attachment to a job but were not considered to be employed, peaking in January each year. These people are comprised of two groups:
+There is a small amount of overlap in the two groups, so the sub components do not sum to the totals presented in this article.
+For more on how the ABS categorises people outside of employment, see the ABS release on ‘'.
+  The ‘long term away from work’, people who have a job that they are away from without pay for more than a month (e.g. people on unpaid parental leave) and,
+  The ‘waiting to start work’, people who have a job but haven’t started (or restarted) in it yet (who are categorised as either unemployed or not in the labour force according to their current availability to work and when the job could begin).
+In this article, the pre COVID average is calculated as the average of Januarys in the 5 years from 2016 to 2020. However, January 2018 is the best direct comparison for January 2024, given it was the previous time the survey reference period covered Sunday 31 December to Saturday 13 January.
+Chart 1 shows the job attached populations over time. There are clear seasonal peaks in January for both populations, as well as large increases at various points in 2020 and 2021 when lockdown measures were implemented and then lifted.
+You can find more information about the impacts of the lockdowns on job attachment in these articles:
+  
+  
+  
+  
+Chart 2a shows the proportion of people who were not employed (that is, either unemployed or not in the labour force) who had job attachment in January. This proportion increased from an average of around 4 per cent of the not employed population in the Januarys in 2016 2020, to an average of around 5 per cent in 2022 2024.
+Chart 2b shows that the increase in the proportion of not employed who had job attachment was primarily driven by an increase in the number of people who were waiting to start work. The proportion of the not employed population who were waiting to start work increased from an average of 2.3 per cent for 2016 2020 to 3.5 per cent for 2022 2024. The average proportion of not employed who were long term away from work was 2.2 per cent for 2016 2020 and 2.3 per cent for 2022 2024.
+Charts 3a and 3b show the changes in each of the populations which comprise the job attached population: people who were waiting to start work and the long term away from work. Chart 3a shows that in January 2024 there were 209,500 people waiting to start work who were not in the labour force, compared to the pre COVID average of 122,700. Additionally, there were more unemployed people who were waiting to start work (82,300 compared to the pre COVID average of 58,900).
+Chart 3b shows that there were fewer unemployed who were long term away from work in January 2024 (21,100 people compared to the pre COVID average of 22,100 people). However, there were more people who were not in the labour force and long term away from work (168,900 people compared to the pre COVID average of 149,600).
+As there was not a large difference in the long term away from work population in January 2024 compared to previous years, the remainder of this article will focus on the waiting to start work population.
+It initially explores those people who were not in the labour force, who are the larger of the two population groups.
+It then explores unemployed people – who are referred to as ‘unemployed future starters’. The increase in the number of unemployed future starters is important to consider when interpreting the increase in the seasonally adjusted estimate of unemployment in January 2024, and the corresponding increase in the seasonally adjusted unemployment rate.
+In January 2024, there were large increases in the number of people who were not in the labour force (those neither employed or unemployed) and waiting to start work, for both sexes. There were around 117 per cent more males (88,300 compared to the pre COVID average of 40,700) and around 48 per cent more females (121,200 compared to the pre COVID average of 82,000).
+Chart 4 shows that in January 2024, there were above average levels of people waiting to start work, who were not in the labour force, in every state and territory.
+Chart 5 shows the proportion of those not in the labour force who were waiting to start work. Throughout 2022 and 2023, these people made up a consistently larger proportion of those not in the labour force compared to previous years. This was to be expected, given the smaller relative size of the not in the labour force population during a particularly tight labour market, with a high participation rate.
+As with earlier years, the proportions in 2022 and 2023 were relatively consistent through the year, but were more elevated in January and December. The January 2024 proportion was similar to 2022 and 2023.
+In order to be considered unemployed a person must have not been employed during the reference week, and:
+The second of these groups of unemployed people is referred to by labour statisticians around the world as ‘future starters’.
+  had actively looked for work at any time in the four weeks up to the end of the reference week and were available for work in the reference week; or
+  were waiting to start a new job within four weeks from the end of the reference week and could have started in the reference week if the job had been available then.
+In January 2024, there were large increases in the number of unemployed future starters. There were around 28 per cent more males (36,500 compared to the pre COVID average of 28,600), and around 51 per cent more females (45,700 compared to the pre COVID average of 30,300).
+Chart 6 shows that, compared to the pre COVID average, there were more future starters in January in all states and territories. 
+Chart 7 shows the proportion of unemployed who were ‘Unemployed Future Starters’. For 2022 and 2023, these ‘Future Starters’ accounted for a consistently larger proportion of the unemployed compared to previous years. This was to be expected, given the smaller relative size of the unemployed population during a particularly tight labour market, with a low unemployment rate.
+Both 2022 and 2023 also show particularly pronounced proportions in January and October. The January 2024 proportion was similar to that of January 2023.

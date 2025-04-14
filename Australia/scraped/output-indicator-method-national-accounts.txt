@@ -1,0 +1,62 @@
+Date:
+2020-10-30
+Article Title:
+ Output indicator method in the national accounts
+
+Article Content:
+Gross Domestic Product (GDP) is based on the concept of Gross Value Added (GVA), which is the value of gross output minus intermediate consumption. GVA estimates enable analysis of industry contributions to the economy.
+The ABS annually compile and publish a set of  for the Australian Economy. Supply Use tables are essential in the Australian System of National Accounts, as they ensure GDP is balanced for all three approaches (production, expenditure and income), and provide the annual benchmarks to compile high quality quarterly estimates. 
+Supply Use tables reconcile the supply of products from domestic and foreign producers available for use in the Australian economy, with the use of these products, either as intermediate inputs in domestic production, or as final use. This framework allows for the accurate calculation of gross output, intermediate consumption and GVA by industry. 
+These tables are compiled using detailed input data obtained through surveys and administrative sources, such as the , audited government finance statistics, and the most up to date international trade data. The detailed nature of this data means that it is not available at the time the quarterly national accounts are complied.
+Supply Use tables provide annual benchmarks for GVA by industry, which are then used to compile quarterly estimates. Annual benchmarks improve the quality of GVA by industry estimates in the national accounts as they incorporate the most recent gross output and intermediate use information available. 
+The quarterly national accounts are compiled using quarterly indicators, which utilise the best data available at the time of compilation. Limited data availability means comprehensive estimates through the Supply Use framework cannot be achieved quarterly. Quarterly estimates are derived by interpolating and extrapolating annual benchmarks using quarterly indicators. 
+The output indicator method is used to compile quarterly industry GVA in volume terms. A key assumption, which underpins the output indicator method is that gross output, intermediate consumption, and GVA grow or decline at the same rate. 
+That is,
+\(% MathType!MTEF!2!1!+ 
+% feaahqart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+% 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq Jc9
+% vqaqpepm0xbba9pwe9Q8fs0 yqaqpepae9pg0FirpepeKkFr0xfr x
+% fr xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaiyjaiabfs
+% 5aejaad+eacaWG1bGaamiDaiaadchacaWG1bGaamiDamaaBaaaleaa
+% caWGPbGaamOBaiaadsgacaWG1bGaam4CaiaadshacaWGYbGaamyEai
+% aayIW7caWGybaabeaakiabg2da9iaacwcacqqHuoarcaWGjbGaamOB
+% aiaadshacaWGLbGaamOCaiaad2gacaWGLbGaamizaiaadMgacaWGHb
+% GaamiDaiaadwgacaaMe8Uaam4yaiaad+gacaWGUbGaam4Caiaadwha
+% caWGTbGaamiCaiaadshacaWGPbGaam4Baiaad6gadaWgaaWcbaGaam
+% yAaiaad6gacaWGKbGaamyDaiaadohacaWG0bGaamOCaiaadMhacaaM
+% i8UaamiwaaqabaGccqGH9aqpcaGGLaGaeuiLdqKaam4raiaadAfaca
+% WGbbWaaSbaaSqaaiaadMgacaWGUbGaamizaiaadwhacaWGZbGaamiD
+% aiaadkhacaWG5bGaaGjcVlaadIfaaeqaaaaa!7C42!
+\% \Delta Outpu{t_{industry{\kern 1pt} X}} = \% \Delta Intermediate\;consumptio{n_{industry{\kern 1pt} X}} = \% \Delta GV{A_{industry{\kern 1pt} X}}\)
+And output is proxied by sales growth,
+\(% MathType!MTEF!2!1!+ 
+% feaahqart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+% 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq Jc9
+% vqaqpepm0xbba9pwe9Q8fs0 yqaqpepae9pg0FirpepeKkFr0xfr x
+% fr xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaiyjaiabfs
+% 5aejaad+eacaWG1bGaamiDaiaadchacaWG1bGaamiDamaaBaaaleaa
+% caWGPbGaamOBaiaadsgacaWG1bGaam4CaiaadshacaWGYbGaamyEai
+% aayIW7caWGybaabeaakiabg2da9iaacwcacqqHuoarcaWGtbGaamyy
+% aiaadYgacaWGLbGaam4CamaaBaaaleaacaWGPbGaamOBaiaadsgaca
+% WG1bGaam4CaiaadshacaWGYbGaamyEaiaayIW7caWGybaabeaaaaa!59E9!
+\% \Delta Outpu{t_{industry{\kern 1pt} X}} = \% \Delta Sale{s_{industry{\kern 1pt} X}}\)
+Therefore,
+\(% MathType!MTEF!2!1!+ 
+% feaahqart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+% 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq Jc9
+% vqaqpepm0xbba9pwe9Q8fs0 yqaqpepae9pg0FirpepeKkFr0xfr x
+% fr xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaaiyjaiabfs
+% 5aejaadEeacaWGwbGaamyqamaaBaaaleaacaWGPbGaamOBaiaadsga
+% caWG1bGaam4CaiaadshacaWGYbGaamyEaiaayIW7caWGybaabeaaki
+% abg2da9iaacwcacqqHuoarcaWGtbGaamyyaiaadYgacaWGLbGaam4C
+% amaaBaaaleaacaWGPbGaamOBaiaadsgacaWG1bGaam4Caiaadshaca
+% WGYbGaamyEaiaayIW7caWGybaabeaaaaa!56A7!
+\% \Delta GV{A_{industry{\kern 1pt} X}} = \% \Delta Sale{s_{industry{\kern 1pt} X}}\)
+The output indicator method is applied to measure quarterly GVA for all industries with the exception of Agriculture, Forestry and Fishing and Public Administration and Safety. See  for more information on National Accounts compilation methods. 
+While the output indicator approach usually provides reliable estimates of quarterly GVA, in times of economic disruption underlying assumptions require assessment to ensure quality estimates.
+It was expected that the COVID 19 pandemic could cause a material shift in the relationship between output and intermediate consumption for certain industries. For industries where the output indicator method is used, there were concerns that the approach may not produce accurate industry GVA estimates. To detect this, additional quality assurance methods were put in place and alternative data sources were used to identify potential divergences between gross output and intermediate consumption.    
+In the June quarter National Accounts, industry GVA estimates were assessed using sales and other operating expenses from the  as well as results from the Business impact of COVID 19 survey. Following this assessment, it was determined no interventions were required in the June quarter. Figure 1 outlines the decision tree for identifying industries with divergences in gross output and intermediate consumption. If an intervention is required in the future, additional information will be provided. 
+The ABS will continue to apply these additional quality checks and processes in upcoming quarters.

@@ -1,0 +1,32 @@
+Title: Lagere productiviteit hangt samen met groei zelfstandigen
+Date: 2019-12-19 23:00:00 UTC
+
+Lead Text:
+                De groei van de arbeidsproductiviteit (de toegevoegde waarde per gewerkt uur) lag het afgelopen decennium een stuk lager dan in de tien jaar daarvoor. Tussen 1998 en 2008 groeide de arbeidsproductiviteit in de commerciële sector met 20,7 procent. In de periode 2008 tot en met 2018 was deze groei 3,9 procent. Voor deze terugval in groei zijn veel mogelijke oorzaken aan te wijzen. Zo heeft de groei van het aantal zelfstandigen de productiviteit gedrukt en werd er in deze periode minder geïnvesteerd in kapitaalgoederen. Dit blijkt uit onderzoek naar de ontwikkeling van de arbeidsproductiviteit voor en na 2008.
+            
+
+Article Content:
+Het aantal door zelfstandigen gewerkte uren nam toe van 2,1 miljard uur in 2003 tot 2,7 miljard uur in 2018. Deze toename was vooral zichtbaar in de zakelijke en overige dienstverlening. Het aandeel van zelfstandigen in het totaal aantal gewerkte uren steeg van 18 procent in 2003 naar 20 procent in 2018. De laatste jaren is dit aandeel juist weer iets teruggevallen. Het aantal gewerkte uren door werknemers groeit sinds 2016 namelijk sneller dan de gewerkte uren door zelfstandigen.
+
+
+Negatief verband tussen ontwikkeling zelfstandigen en productiviteit
+
+Er is een significant negatief verband tussen het aandeel gewerkte uren door zelfstandigen en de productiviteitsgroei per bedrijfstak: hoe groter het aandeel zelfstandigen in een bedrijfstak, hoe lager de productiviteitsgroei. Het gaat hierbij om bedrijfstakken in de . Het verband is alleen significant als de olie- en gaswinning uit wordt gesloten van de vergelijking. De toegevoegde waarde van deze bedrijfstak (met relatief weinig zelfstandigen) daalde de afgelopen jaren sterk door het extractieplafond voor de gaswinning in Groningen. Hierdoor nam de arbeidsproductiviteit van deze bedrijfstak sterk af.
+De samenhang blijft ook intact als wordt gekeken naar het verband tussen de toename van het aandeel zelfstandigen sinds 2003 en de afname van de productiviteit. Elke procentpunt toename in het aandeel van zelfstandigen hangt samen met een 0,77 procentpunt lagere productiviteit.
+Een causale relatie tussen de opkomst van zelfstandigen en de lage productiviteitsgroei van de laatste jaren is niet op een directe manier vast te stellen; hiervoor is het aantal benodigde datapunten te klein. Uit eerder onderzoek voor de Staat van het MKB bleek dat zelfstandigen gemiddeld minder productief zijn dan grotere bedrijven. De combinatie van beide onderzoeksresultaten maakt het aannemelijk dat de lagere productiviteit van zelfstandigen doorwerkt in een lagere productiviteit van de bedrijfstak waarin zij werkzaam zijn.
+
+
+
+Lagere investeringen drukken groei productiviteit
+
+De toename van het aandeel van zelfstandigen is echter niet de enige (mogelijke) verklaring voor de afname van de productiviteitsgroei. Onder andere de terugval van de productiviteitsbijdrage van kapitaalgoederen en de vergrijzing spelen een rol.
+De bijdrage van kapitaal aan de productiviteit lag na de kredietcrisis onder het niveau van het decennium voor de crisis. Dit komt onder meer door de lagere groei van de investeringen: in de periode na 2008 was de groei van de investeringen in nagenoeg alle typen vaste activa kleiner dan in de periode voor 2008. Rond de eeuwwisseling groeiden de investeringen in software en ICT fors. Deze groei hing samen met de ICT-revolutie.
+
+
+Ook vergrijzing drukt productiviteitsgroei
+
+Ook de toename van het aandeel 55-plussers en de afname van het aandeel 25-44-jarigen in de werkzame beroepsbevolking heeft de productiviteitsontwikkeling vermoedelijk gedrukt. Uit veel wetenschappelijk onderzoek komt namelijk naar voren dat de productiviteit vooral in het begin van de carrière snel toeneemt, en aan het eind van de carrière stagneert of zelfs afneemt. Dit komt onder meer doordat investeringen in scholing en vaardigheden rendabeler zijn voor jonge werkenden.
+Daarnaast is tussen 2008 en 2018 het aantal gewerkte uren vooral toegenomen in bedrijfstakken met een lage of negatieve productiviteitsgroei, zoals de zakelijke dienstverlening en de horeca. Dit hangt samen met de verdienstelijking van de Nederlandse economie die al langer aan de gang is.
+
+
+

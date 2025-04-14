@@ -1,0 +1,67 @@
+Date:
+2021-03-30
+Article Title:
+ A year of COVID-19 through payroll jobs and wages statistics
+
+Article Content:
+In responding to the COVID 19 pandemic, Australia needed timely and accurate economic, social and health information. In March 2020, the Australian Bureau of Statistics (ABS) and the Australian Tax Office (ATO) fast tracked work to use the new Single Touch Payroll (STP) data to provide near real time insights on changes in the labour market. On 21 April 2020, the ABS released weekly payroll jobs and wages indexes for the first time, to complement the ABS’ existing labour market statistics. 
+Australia recorded its 100th case of COVID 19 in the week ending 14 March 2020. This was just before the impact of nationwide restrictions became visible in the economy and particularly pronounced in the labour market. This week was chosen as the base week of payroll jobs and wages indexes. 
+The release of the week ending 13 March 2021 provides an opportunity to review payroll jobs and wages in the year since the 100th case of COVID 19.
+In the first few weeks of restrictions, payroll jobs and wages fell sharply. By mid April payroll jobs were down 8.5% (around 902,000 jobs) and wages down 6.5%.  
+In late March 2020, the government announced the introduction of the JobKeeper wage subsidy. JobKeeper payments received by businesses reduced the extent of the falls in payroll jobs and wages from March 2020. For more detail on its impact over this period, see the previously released article on .
+Some restrictions eased in late April 2020, resulting in a steady climb in payroll jobs and wages to the end of June 2020. 
+Payroll jobs and wages continued to increase into the new financial year. A small early peak in wages was observed in early July, as a result of end of financial year bonuses paid by some businesses (including one off COVID 19 related bonuses). The larger wages peak in late September also related to periodic bonuses paid in some industries (e.g. Mining, Financial and insurance services and Information media and telecommunications). 
+The recovery in payroll jobs (and to a lesser extent wages) plateaued into August 2020, as the impact of the second wave of COVID 19 cases in Victoria became evident on the Australian level indexes. 
+With Victoria’s recovery gaining momentum, national payroll jobs and wages resumed a faster climb. The dip in wages in late September 2020 coincided with school and tertiary institution breaks and changes in JobKeeper (eligibility and the first reduction in payment rates). 
+Payroll jobs and wages peaked in 2020 in mid December, at 1.7% and 2.6% above mid March. 
+However, the strong rise and subsequent fall in payroll jobs and wages at year end was observed in these data a year earlier. This pattern reflects the strong seasonality in the labour market that is also observed each year in Labour Force statistics. For more information, see the  article.
+In January 2021, the progressive resumption of business activity after the New Year low saw payroll jobs and wages steadily climb. January 2021 also saw the second reduction in JobKeeper payment rates.
+Payroll jobs and wages returned to mid March 2020 levels in February 2021. 
+A year after the 100th case of COVID 19, payroll jobs sit 0.2% (or 26,000 jobs) above mid March 2020 and wages 1.4% above.
+By mid April 2020, all states and territories saw a fall in payroll jobs ranging from 7.5% to 9%. Across the year to mid March 2021 payroll jobs recovery has varied. Amongst states and territories, three groups of recovery are observed: Payroll jobs over 1% higher than March 2020; up to 1% higher than March 2020; or below March 2020. 
+By mid March 2021 payroll jobs in South Australia, Western Australia and the Northern Territory were over 1% higher than a year earlier. 
+These regions had regained early payroll jobs losses within five to six months. Payroll jobs in Western Australia and the Northern Territory remained above those of mid March 2020 from early August to mid December 2020. 
+By mid February 2021, payroll jobs again rose above mid March 2020 levels in South Australia, Western Australia and the Northern Territory.
+Payroll job recovery from the lows of mid April 2020 were similar in New South Wales, Queensland and the Australian Capital Territory. These regions saw a steady recovery in payroll jobs across 2020, reaching mid March 2020 levels within six to eight months. 
+After a seasonal fall in late December 2020, in mid March 2021, payroll jobs in Queensland and the Australian Capital Territory sat slightly above payroll job levels of a year ago. By comparison, payroll jobs in New South Wales sat exactly at mid March 2020 levels a year later.
+Across 2020, payroll jobs recovery in Tasmania and Victoria was slower than other states and territories. While both states reached the payroll job levels of mid March 2020 in mid December 2020, they remained below them in 2021. 
+At mid March 2021, payroll jobs in Tasmania and Victoria both remained lower than a year earlier.
+Across industries, the recovery in payroll jobs from mid April 2020 lows also varied, with more pronounced differences than the states and territories. The relative impacts felt by each industry at mid April 2020 (as measured by losses in payroll jobs) fell into four groups:
+High impact – Where payroll jobs fell by more than 12%
+Medium impact – Where payroll jobs fell between 6 12%
+Moderate impact – Where payroll jobs fell between 3 6%
+Low impact – Payroll jobs fell by less than 3%
+  Accommodation and food services  
+  Arts and recreation services
+  Mining
+  Retail trade
+  Information media and telecommunications
+  Rental and hiring services
+  Administrative and support services
+  Education and training
+  Other services
+  Agriculture, forestry and fishing
+  Construction
+  Wholesale trade
+  Transport, postal and warehousing
+  Professional, scientific and technical services
+  Public administration and safety
+  Health care and social assistance
+  Financial and insurance services
+  Electricity, gas, water and waste services
+Custom payroll job indexes for these four industry groups were constructed for this article, to enable their comparison over time. 
+Accommodation and food services and Arts and recreation services, which together accounted for around 8% of total payroll jobs at the start of the pandemic, were the hardest hit in the early weeks of the COVID 19 period. Together, payroll jobs in these industries fell by almost 35% by mid April 2020.
+The recovery in payroll jobs in these industries has also been the slowest across the year. They remained the most impacted at mid March 2021, with payroll jobs down 9.2% from a year earlier. 
+Almost a third (33%) of total payroll jobs at the start of the pandemic were in this group of industries. Payroll jobs in this group fell by around 10% by mid April 2020, though levels were recovered by late November 2020. The large seasonal dip in December 2020 was driven by the Education and training industry. 
+Education and training is one of the five largest industries and accounts for around 24% of payroll jobs within the medium impact industry group.
+Payroll jobs in this industry across the year were affected by closures and other restrictions to schools and tertiary institutions in some states and territories, in addition to the usual seasonal patterns.  
+By mid March 2021, payroll jobs in the medium impact industry group were 1.2% below a year earlier.
+At the start of the pandemic, more than half (52%) of total payroll jobs were in this group of industries. By mid April 2020, these industries had lost around 5% of payroll jobs. By late July 2020 payroll jobs had recovered to mi March 2020 levels, but by mid March 2021 were just below (0.3%) levels of a year ago. 
+Around 5% of total payroll jobs at the start of the pandemic were in this group of industries, which decreased by less than 1% to mid April 2020. In May 2020, payroll jobs in these industries had recovered to mid March 2020 levels and by mid March 2021 were 5.4% higher than a year ago.
+Proportions quoted for age groups and sex in this article have been calculated using an all person value with ‘unknown’ characteristics removed. These proportions may change when missing characteristics data are updated in future. See the Data components, total and index calculation section of  for more information.
+On 14 March 2020, around three in five (60.3%) payroll jobs were held by males, with around two in five (39.7%) held by females. 
+By mid April 2020, payroll jobs worked by females had experienced greater losses (down 9.8%) than males (down 6.5%). In late October, payroll jobs worked by females experienced a stronger recovery than payroll jobs worked by males. 
+As of mid March 2021, payroll jobs held by females were 1.2% lower than a year ago, compared to 2.5% for males. This stronger recovery in female payroll jobs over the year translated into a higher share of payroll jobs held by females (41.3%). 
+Among age groups, payroll jobs held by persons aged 15 19 saw the greatest losses to mid April 2020 (down 25.2%). However, less than 6% of all payroll jobs in mid March were held by this age group. The majority of payroll jobs (86%) were held by persons aged 20 to 59 years old, whose payroll jobs fell by 7.6% to mid April 2020. 
+In the year to mid March 2021, the recovery in payroll jobs across age groups varied. Persons aged 60 and over recovered mid April payroll jobs losses faster than those held by persons aged under 60. 
+As a combined group, payroll jobs held by persons aged 20 to 59 years old recovered steadily across the year, and by mid March 2021 were 0.5% higher than a year ago.

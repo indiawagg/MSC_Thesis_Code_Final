@@ -1,0 +1,10 @@
+Date:
+2023-01-04
+Article Title:
+The Daily — Index of Remoteness, 2021
+Article Content:
+Released: 2023 01 04
+The 2021 update of the dataset that provides an Index of Remoteness for all communities (census subdivisions) of Canada is now available. The Index of Remoteness is determined by the distance that separates a community from all the population centres in a given travel radius, as well as the population size of these centres.
+The Index of Remoteness dataset contains the following information for all communities (census subdivisions) of Canada: census subdivision name and unique identifier, total population, type of census subdivision and Index of Remoteness value. The index is computed using 2021 Census of Population counts and geographic boundaries. 
+The Index of Remoteness (Catalogue number17260001) is now available online. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

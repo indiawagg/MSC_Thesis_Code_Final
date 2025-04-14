@@ -1,0 +1,18 @@
+Date:
+2016-04-20
+Article Title:
+ In focus: persons aged 55 years and over
+
+Article Content:
+This article presents results for persons aged 55 and over from the Australian Bureau of Statistics’ (ABS) Personal Fraud Survey, conducted throughout Australia from July 2014 to June 2015 as part of the 2014 15 Multi Purpose Household Survey (MPHS). Accompanying data tables are available in Excel spreadsheet format and can be accessed from the Data downloads section.Types of personal fraud covered in the survey include card fraud, identity theft and scams (lottery, information request, pyramid scheme, relationship, up front payment, financial advice, computer support, working from home scams, online trading or auction, and other types of scam).
+In the 12 months prior to survey, an estimated 4% (267,800 persons) of the population aged 55 and over in Australia experienced card fraud. This is an increase from 2010 11 when the rate was 3% (162,000 persons).
+The likelihood of experiencing card fraud was slightly lower for persons aged 55 and over compared to those aged under 55 (4% and 7% respectively)
+An estimated 0.4% (25,900 persons) of the population aged 55 and over in Australia experienced identity theft in the 12 months prior to survey in 2014 15. This was half of the rate for persons aged under 55 (0.8%).
+In the 12 months prior to survey in 2014 15, over half of Australians aged 55 and over were exposed to at least one scam (57% or 3.4 million persons). This was an increase from 2010 11, when 33% of persons aged 55 and over were exposed to at least one scam (1.8 million persons).
+The proportion of persons exposed to at least one scam was similar for both the 55 and over and the under 55 age groups (57% and 55% respectively). However, persons aged 55 and over were more likely to be exposed to computer support scams than persons aged under 55 (36% and 26% respectively). For all other scam types, persons aged 55 and over were exposed at a similar rate as persons aged under 55.
+Of the 3.4 million Australians aged 55 and over who were exposed to a scam, 4% (122,900 persons) responded to at least one scam, either by supplying personal information, money, or both, or by seeking more information in relation to the request. This represents a decrease from 2010 11 when the responding rate was 7% (119,447 persons). A similar responding rate was found for persons aged under 55 (5% or 326,400 persons).
+In the 12 months prior to survey in 2014 15, an estimated 2% (122,900 persons) of the population aged 55 and over in Australia were scammed at least once. This was consistent with 2010 11 results when the rate was also 2% (119,447 persons).
+For the 6 million Australians aged 55 and over, the victimisation rate was highest for computer support scams (0.7% or 45,000 persons).
+Although computer support scams were the most common scam type fallen victim to by persons aged 55 years and over, the likelihood of responding to a scam after being exposed was highest for online trading or auction site scams and other scams.
+Australians aged 55 and over were more likely than those aged under 55 to report their most serious scam incident to an authority (43% and 33% respectively).
+Of the 52,900 Australians aged 55 and over who reported their most serious incident of scam to an authority, 45% reported the incident to a business, 28% to police, 13% to consumer affairs or ombudsman, and 34% to another authority.

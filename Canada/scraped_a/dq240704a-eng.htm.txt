@@ -1,0 +1,17 @@
+Date:
+2024-07-04
+Article Title:
+The Daily — Airport activity, 2023
+Article Content:
+Released: 2024 07 04
+In 2023, the number of passengers enplaned and deplaned at Canadian airports increased to 150.7 million. This number was 26.8% above that recorded in 2022 and represented 92.5% of the 2019 level, prior to the COVID 19 pandemic.
+Canada's largest airports saw similar gains in passenger traffic in 2023, with Toronto/Lester B. Pearson International, Vancouver International, Montréal/Pierre Elliott Trudeau International and Calgary International each reporting at least a 24% increase from 2022.
+Please consult the new Aviation Data Visualization Hub to further explore airport activity statistics in an interactive format.
+Passengers returned to the skies in 2023, the first full year since 2019 without any pandemic related government travel restrictions in place. This reflected an easing of both pandemic induced labour and supply challenges, allowing the passenger airline industry to meet the growing demand for travel. 
+Demand increased over the year, with the number of domestic passengers increasing by 18.8% in 2023, up by 13.6 million passengers from 2022. Other international traffic (+40.7%; +10.4 million passengers) and transborder traffic (Canada United States) (+37.4%; +7.8 million passengers) both saw significant gains from 2022.
+As reported by Airports Council International, global demand for air cargo decreased from 2022 to 2023 due to a variety of factors, both economic and geopolitical. Similarly, Canadian air cargo shipments were dampened in 2023 by softening demand. However, despite this decline, the total tonnage loaded and unloaded in Canada in 2023 remained above the pre pandemic level.
+Overall, the amount of cargo loaded and unloaded at Canadian airports fell 2.6% in 2023 compared with the previous year. Domestic cargo decreased 4.0% from 2022 to 690 000 tonnes in 2023. Transborder cargo fell 1.2% to 251 000 tonnes, while other international cargo was down 1.5% to 494 000 tonnes. 
+The decrease in cargo volume that was transported through Canadian airports was accompanied by a 15.8% decrease in annualized quarterly goods revenue earned by the Canadian airline industry in 2023.
+While demand for air travel in 2023 propelled the airline industry towards recovery to 2019 passenger volumes, it stopped short of reaching a full return to pre pandemic levels. However, early data from screened passenger traffic at Canada's eight largest airports indicates that passenger recovery continues into 2024.
+Additional analytical information is now available in "Airport Activity: Air Carrier Traffic at Canadian Airports, 2023," as part of the service bulletin Aviation (Catalogue number51 004 X).
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

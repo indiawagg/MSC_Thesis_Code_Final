@@ -1,0 +1,13 @@
+Date:
+2021-06-02
+Article Title:
+ Insights from Single Touch Payroll
+
+Article Content:
+The Single Touch Payroll (STP) dataset includes a breakdown of wages and salaries into a range of components such as termination payments. This enables analysis of changes in wages and salaries that was not previously possible. For more information on the STP dataset, see .
+This article uses STP data to present insights into the changing nature of termination payments through the COVID 19 pandemic.
+Termination payments as a share of wages reached a high of 1.02% in December quarter 2020, increasing 0.44 percentage points from March quarter 2020. Despite termination payments accounting for a small share of wages, the nature of the payments can lead to short term volatility in wages growth as STP records termination payments on a cash basis at the date payments are made.
+In the three quarters up to June 2020, termination payments as a percentage of wages by industry were relatively stable, with the Financial and Insurance Services and Manufacturing industries recording the largest shares. These large shares reflect the high number of permanent employees in these industries compared to others.
+Post June 2020, the share of termination payments changed between industries as COVID 19 related restrictions affected industries differently. The largest changes were in industries most adversely impacted by international border closures such as Transport, Postal and Warehousing, and Education and Training.
+Activity in the Transport, Postal and Warehousing industry was severely curtailed by containment measures that led to a reduction in international and domestic travel. Termination payments as a share of industry wages paid by the transport industry peaked at 2.65% in December quarter 2020 following two consecutive rises. These termination payments were most evident in Air Transport.  
+International travel restrictions saw many international students unable to return to Australia or commence new studies. Consequently, the Education and Training industry accounted for a high proportion of termination payments in December quarter 2020 and March quarter 2021 as universities cut jobs in response to the decline in international students. In Education and Training, termination payments as a share of industry wages increased from 0.48% in March quarter 2020 to 2.44% in December quarter 2020. In March quarter 2021, termination payments as a share of industry wages declined, but remained at the elevated level of 1.47%.

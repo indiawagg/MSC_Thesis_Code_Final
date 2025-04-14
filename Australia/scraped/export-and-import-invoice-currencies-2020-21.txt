@@ -1,0 +1,51 @@
+Date:
+2021-11-04
+Article Title:
+ Export and Import Invoice Currencies, 2020-21
+
+Article Content:
+  In 2020 21, 87.8% of merchandise exports were invoiced in the United States Dollar (USD) and 9.9% in the Australian Dollar (AUD).
+  In 2020 21, 53.3% of merchandise imports were invoiced in the USD and 32.2% in the AUD.
+An invoice currency is the currency in which an invoice for exported or imported goods is denominated, prior to conversion to AUD.
+All values are reported in AUD and published on a June 2021 basis. Data for the March quarter 2021, June quarter 2021 and 2020 21 financial year are preliminary and subject to revision.
+Graph 1 shows movements in the value of the AUD against selected currencies and the Trade weighted Index (TWI), modelled by the Reserve Bank of Australia (RBA), from January 2015 to June 2021. The TWI is modelled by the RBA to provide an indicative measure of Australia’s international competitiveness and the overall strength of the AUD. Further information on the TWI is available on the .
+There are many factors that influence an importer or exporter to invoice in one currency over another. One of these factors is the value of one currency against another. For example, when the AUD depreciates against the USD, some Australian consumers find imports invoiced in the AUD relatively more attractive than imports invoiced in the USD.
+Graph 1 demonstrates that AUD exchange rates were particularly volatile in the early stages of the COVID 19 pandemic in Australia. Between December 2019 to March 2020, the AUD depreciated 9% against the USD. Following this, over the 3 months from March to June 2020, the AUD appreciated 11% against the USD.
+Over the two year period from June 2019 to June 2021, the USD was the main currency used to invoice merchandise exports, representing at least 85% of the total in every quarter, and increasing by 2.6 percentage points by the end of the period.
+The AUD consistently accounted for the second largest proportion, averaging 11% of exports per quarter, and decreasing by 2.5 percentage points by the June quarter 2021.
+All other currencies accounted for a relatively small proportion of exports in every quarter.
+Similar to the findings presented in the  (2015 16) of the feature article, the USD accounted for the greatest proportion of merchandise exports in 13 of the largest 20 Standard International Trade Classification (SITC) Divisions. Notably, the USD continued to represent nearly 100% of exports for the 3 largest SITC Divisions:
+For 5 of the 20 divisions presented, the AUD was the most used export invoice currency. Of particular interest, the AUD accounted for:
+Exports invoiced in the European euro (EUR) represented 50.8% of oil seeds and oleaginous fruits, down 19.9 percentage points from 2015 16.
+  coal, coke and briquettes;
+  metalliferous ores and metal scrap; and
+  gas, natural and manufactured.
+  77.1% of beverages, representing a 11.3 percentage point increase from 2015 16.
+  56.6% of general industrial machinery, 2.9 percentage points lower than 2015 16.
+  55.4% of miscellaneous manufactured articles, 10.8 percentage points higher than 2015 16.
+Imports invoiced in the USD consistently contributed more than half of all merchandise imports, averaging 55% per quarter over the 9 quarter period. The second most dominant currency was the AUD, averaging 32% of imports per quarter.
+As with exports, the percentage of imports invoiced in the AUD has generally moved inversely to the percentage invoiced in the USD over the same period. For example, from the June quarter 2020 to the June quarter 2021, the AUD contribution increased 5.0% percentage points and the USD contribution decreased 5.1% percentage points. This coincides with a period of appreciation in the value of AUD against the USD (see Graph 1).
+In combination, all other currencies accounted for no more than 13.8% of total imports, with the EUR being the largest contributor from the remainder.
+Imports invoiced in the USD contributed the largest proportion of import value for the majority of SITC Divisions. Of particular interest, the USD accounted for:
+For 3 of the 20 divisions reported, the AUD was the most used import invoice currency. The AUD accounted for:
+ 
+For 6 of the 20 SITC Divisions presented in Table 4, the proportion of imports invoiced in the EUR was greater than 10%. The largest of which was specialised machinery, with the EUR accounting for 24.0%.
+Manufactures of metals was the SITC Division with the highest proportion of imports invoices denominated in Chinese renminbi (RMB), at 6.1%.
+  99.4% of petroleum, close to the 99.3% in 2015 16.
+  92.2% of non monetary gold, which was 17.3 percentage points higher than 2015 16.
+  80.2% of road vehicles, representing a decrease of 2.3 percentage points from 2015 16.
+  76.9% of medicinal and pharmaceutical products, which was just 0.5 percentage points lower than 2015 16.
+  53.1% of rubber manufactures, which was 6.3 percentage points higher than 2015 16.
+In the period 2015 16 to 2020 21, the proportion of merchandise exports invoiced in the USD has increased 6.3 percentage points to 87.8%, while the AUD decreased 5.4 percentage points to 9.9%. This occurrence is heavily influenced by a compositional shift across the SITC Divisions. For example, the value of metalliferous ores exports, which is nearly 100% invoiced in the USD, has increased from $69b in 2015 16 to $180b in 2020 21.
+In each year from 2015 16 to 2020 21, the majority of merchandise import value was invoiced in either the USD, averaging 55% of imports per year, or the AUD, averaging 32% of imports per year.
+By comparing Table 6 with Graph 1, the relationship between exchange rate movements and the choice of invoice currency for imports can be considered. Between 2017 18 and 2018 19, the proportion of imports invoices in the AUD decreased 2.2 percentage points, while the AUD depreciated moderately against most currencies. Between 2019 20 and 2020 21, the value of the AUD appreciated against most currencies and the proportion of imports invoiced in the AUD increased 3.3 percentage points.
+As noted previously in this article, the USD consistently contributes the largest share of total merchandise exports and imports invoice values. The USD is even more dominant when Australia trades with China, averaging 93.7% of exports invoices and 77.5% of imports invoices over the 6 year period.
+Since 2015 16, the proportion of exports to China invoiced in the USD, increased by 2.5 percentage points, while the AUD decreased by 2.5 percentage points.
+The proportion of imports from China, invoiced in the USD decreased by 4.3 percentage points, while the AUD increased by 2.6 percentage points.
+Although the RMB continues to contribute a relatively small proportion of imports invoices, the proportion has nearly doubled over the 6 year period, increasing 2.1 percentage points. 
+Information on the invoice currencies used in export and import transactions is collected by the Department of Home Affairs and delivered to the ABS with other merchandise trade information required for statistical purposes.For exports, the ABS converts values reported in foreign currencies to the AUD using RBA daily exchange rates, based on the date of departure of the goods.For imports, the Department of Home Affairs converts values reported in foreign currencies to the AUD using exchange rates applicable on the date of departure of the goods from the overseas country. The ABS is provided details of the invoice currency, combined with the value of the import transaction denominated in the AUD.Some factors may complicate the measurement of invoice currencies. In Australian export and import statistics, foreign currencies are converted to the AUD, using the exchange rate applicable on the day of shipment. Some trading partners may undertake the conversion using a different exchange rate or one applicable on a different day. Additionally, some exporters and importers hedge exchange rates and calculate the value of the transaction using the hedged exchange rate rather than the prevailing exchange rate (see the Further information section for more details about hedging activity).
+Similar analysis was included in previous editions of  (cat. no. 5368.0), including the October 2016, June 2014, and June 2012 editions.
+For information on the Reserve Bank of Australia's (RBA) methodology of compiling the TWI, refer to the .
+For more information about hedging activity undertaken by importers and exporters in 2017, refer to  (cat. no. 5308.0).
+For inquiries about these and related statistics, contact the Customer Assistance Service via the ABS website Contact Us page. The  outlines how the ABS will handle any personal information that you provide to us.
+Where figures have been rounded, discrepancies may occur between sums of the component items and totals.

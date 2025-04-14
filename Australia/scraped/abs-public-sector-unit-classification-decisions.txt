@@ -1,0 +1,66 @@
+Date:
+2021-07-08
+Article Title:
+ ABS public sector unit classification decisions
+
+Article Content:
+The national accounts statistical framework is used internationally to measure economic output. The government finance statistics (GFS) framework is harmonised with the national accounts and designed to support public fiscal and policy analysis. All institutional units operating within the economy are classified to an institutional sector within these frameworks.
+The Australian Bureau of Statistics (ABS) has responsibility for classifying units for the purpose of official statistics. In almost all cases, ABS classification decisions are accepted by the Commonwealth, state, and territory jurisdictions. This compliance is linked to the accounting standard , which requires public financial reporting to align with the ABS GFS Manual, when the principles and rules being applied are not in conflict with Australian Accounting Standards.
+This article describes the concepts and process the ABS follows to reach classification decisions for public sector units.
+The ABS uses national and international statistical manuals to provide the broad principles used to classify public sector units and the transactions they engage in.
+These manuals and guidance include:
+the  produced jointly by the European Commission, International Monetary Fund, Organisation for Economic Co operation and Development, United Nations and the World Bank;
+the  produced by the ABS, which is conceptually consistent with SNA 2008 and provides a practical guide for compiling national accounts statistics within the Australian context;
+the  (GFSM 14) produced by the International Monetary Fund;
+the  (AGFS 15) produced by the ABS, which is conceptually consistent with GFSM 14 and provides a comprehensive guide to applying GFS concepts within the Australian context; and
+the  (SESCA) produced by the ABS, which describes the suite of economic sector classifications used to produce economic statistics in Australia.
+  the  produced jointly by the European Commission, International Monetary Fund, Organisation for Economic Co operation and Development, United Nations and the World Bank;
+  the  produced by the ABS, which is conceptually consistent with SNA 2008 and provides a practical guide for compiling national accounts statistics within the Australian context;
+  the  (GFSM 14) produced by the International Monetary Fund;
+  the  (AGFS 15) produced by the ABS, which is conceptually consistent with GFSM 14 and provides a comprehensive guide to applying GFS concepts within the Australian context; and
+  the  (SESCA) produced by the ABS, which describes the suite of economic sector classifications used to produce economic statistics in Australia.
+Public sector units are classified into either:
+General government   government controlled non market producers
+Public corporations   government controlled market producers
+There are three questions that must be resolved to classify a unit:
+When classifying a unit for official statistics, the ABS looks beyond legal status and focuses on the economic substance behind the nature of an entity (para. 2.32, AGFS 15).
+  General government   government controlled non market producers
+  Public corporations   government controlled market producers
+  Is the entity a separate institutional unit?
+  Is the unit under government control?
+  Is the unit a market or non market producer?
+Before classifying an entity, it is important to confirm whether it is a separate institutional unit in its own right.
+To be considered a separate institutional unit, an entity must (para. 2.22, GFSM 14):
+An entity that meets these criteria will be classified as a separate institutional unit.  If not, the entity will be aggregated within a larger parent unit.
+  Have the ability to own goods or assets, and exchange these in transactions with other institutional units;
+  Be able to make economic decisions and engage in economic activity for which it is itself held responsible and accountable at law;
+  Be able to incur liabilities on its own behalf, to take on other obligations or future commitments and to enter into contracts; and
+  Be able to produce a complete set of accounts, including a balance sheet of assets, liabilities and net worth, an operating statement, and a cash flow statement.
+If an entity is a separate institutional unit, the next question is whether the entity is under government control.
+A unit is considered under government control if its operational activities and general corporate policy are determined by a government or another government controlled unit (para. 2.68, AGFS 15). This control test includes instances in which the public and private sectors share ownership of a unit (para. 2.70, AGFS 15).
+Box 2.2 in the GFSM 14 manual provides eight indicators to help determine whether a unit is subject to government control:
+Although a single indicator could be sufficient to establish control, in other cases a group of separate indicators may be required to collectively indicate control (para. 2.58, AGFS 15).
+If it is established that a unit is under government control it will be classified into the public sector. If not, a unit is classified into the non public sector.
+  Ownership of the majority of the voting interest
+  Control of the board or other governing body
+  Control of the appointment and removal of key personnel
+  Control of key committees of the entity
+  Golden shares and options
+  Regulation and control by government
+  Control by a dominant public sector customer or group of public sector customers
+  Control attached to borrowing from the government
+If an institutional unit is under government control, it is then reviewed to determine whether it is a market or non market producer.
+The ABS adopts a principles based approach when examining the factors for this determination. Units will typically be classified as market producers if they sell the majority of their output over the long term at economically significant prices.
+Economically significant prices are prices that have a significant effect on the amounts that producers are willing to supply and on the amounts that purchasers wish to buy. These prices normally result when (para. 2.59, AGFS 15):
+The ABS considers three tests to assist in determining whether a unit is a market or non market producer (para. 2.58, AGFS 15):
+If it is established a public sector unit is a market producer, it will be classified as a public corporation.  If not, the unit is classified as a general government unit.
+Public corporations are further delineated into public non financial corporations and public financial corporations, on the basis of whether the unit produces financial services. Additional guidance on types of public financial corporations can be found in para. 2.50 2.52 of the AGFS 15 manual.
+  The producer has an incentive to adjust supply either with the goal of making a profit in the long run or, at a minimum, covering capital and other costs; and
+  Consumers have the freedom to purchase or not purchase and make the choice on the basis of the prices charged.
+  Sales to costs ratio: the higher the proportion of total production costs that are covered by total sales (including subsidies), the more likely the unit is to be a market producer. There is no specified threshold for the sales to costs ratio.
+  Government intervention: the extent to which the government can directly influence the prices, nature and level of goods and services provided by the producer.
+  Competition: the ability of consumers to acquire similar goods and services from other producers on the basis of the prices charged, as competition can be restricted by excessive market control or government regulation. This test also considers the lack of competition when a unit is primarily supplying goods and services to other government units.
+The ABS uses the process outlined in Table 1 when assessing the sector classification of a public sector unit. This process gathers all relevant information on the characteristics of the unit, ensures a robust determination is made, and that the classification is appropriately implemented.
+To ensure official statistics accurately reflect economic activity, units must be correctly classified to an institutional sector and the same classification must be used coherently across economic statistics.
+The ABS maintains a long term view when considering the sector classification of units. This limits disruption to key economic and fiscal indicators from factors that are not underpinned by real world economic events. For example, a unit that is transitioning through changing circumstances will be classified by the ABS to the sector where it belongs in normal operating circumstances.
+The circumstances that could trigger a review of the sector classification for a unit include significant changes to operations, market competition or legislation, when these changes are relevant to the unit classification criteria. These reviews can be initiated by research undertaken by the ABS or when the ABS is notified of any significant changes.

@@ -1,0 +1,18 @@
+Date:
+2024-10-17
+Article Title:
+The Daily — Opportunities of working remotely in rural labour markets: Small area estimation from the Canadian Survey on Business Conditions, first to third quarter of 2024
+Article Content:
+Released: 2024 10 17
+New data on remote work opportunities in rural labour markets are now available, covering the first to third quarters of 2024, by sector (goods and services) and for all rural labour markets across Canada. The data are based on self contained labour areas (SLAs), a geographic concept that defines rural functional areas based on commuting flows. 
+The data are generated using small area estimation (SAE) methods applied to the Canadian Survey on Business Conditions. 
+For each quarter of 2024, 490 SLAs are included. SLAs are combined with general industrial sectors to form SAE domains. Of these domains, estimates for goods producing industries are available for 472 domains and estimates for services producing industries are available for 482 domains. 
+In the third quarter of 2024, the average estimated percentage of businesses in services producing industries that anticipated offering remote work arrangements for their employees was stable relative to the same quarter in 2023. However, the average estimate percentage declined in the first two quarters of 2024 compared with the previous year (Chart 1). 
+In the second and third quarters, services producing industry businesses in the 156 urban labour markets (i.e., census metropolitan areas and census agglomerations) experienced two consecutive year over year declines in the average estimated percentage of businesses offering remote work arrangements (Chart 1). The decline aligned with the post COVID 19 pandemic environment described by a new survey by Cisco Systems Inc., in which three quarters of Canadian employers were mandating employees to return to the office partially or full time.
+An analysis of services producing industry businesses by SLA revealed the following trends regarding remote work opportunities from the second quarter of 2023 to the second quarter of 2024 (Chart 2).
+At the national level, services producing industry businesses in two thirds of SLAs posted a decline in the estimated potential of remote work arrangements. 
+In 8 of the 10 provinces, services producing industry businesses in at least half (50% to 79%) of SLAs reported experiencing a decline in the estimated potential of remote work opportunities. In New Brunswick, 79% of SLAs decreased. 
+Services producing industry businesses in 44% of SLAs in Manitoba and in 46% of SLAs in Nova Scotia saw a reduction in the estimated percentage of remote work arrangements. 
+Within the three territories, the estimated potential for remote work for services producing industry businesses either was unchanged or saw an upward trend in most SLAs. 
+The product "Rural Data Viewer," part of Statistics Canada   Data Visualization Products (Catalogue number71 607 X), is now available. The complete dataset is available upon request.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,29 @@
+Date:
+2021-12-23
+Article Title:
+ Charts on casual employment, occupation and industry, November 2021
+
+Article Content:
+This article includes information on casual employment, occupation and industry. It follows previous similar articles during the COVID period, including   (in May 2020),  (in Nov 2020) and Charts on casual employment, occupation and industry (in  and ).
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Industry and occupation information in the article refers to a person’s ‘main job’ and are collected in the Labour Force Survey in February, May, August and November.
+Chart 1 compares the change in hours worked for casual employees (i.e. those without paid leave entitlements), non casual employees (i.e. those with paid leave entitlements) and owner managers, indexed to February 2020. Its shows that during periods with lockdowns the hours of casual employees, and to a lesser extent owner managers, were particularly impacted.
+Chart 2 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020.
+Chart 3 shows the impact of COVID 19 lockdowns on the working hours of casual employees.
+Charts 3a, 3b and 3c show the impact of COVID 19 on the hours worked by casual employees in some industries that have been particularly impacted during the COVID period   Retail trade, Accommodation and food services, and Arts and recreation services.
+Chart 4 shows the total weekly hours worked by casual employees across different weekly hours worked categories.
+Chart 5a shows changes in employment and average hours worked in each of the major groups of occupations between February 2020 and November 2021. 
+Chart 5b shows changes in employment and average hours worked in each of the major groups of occupations between August and November 2021. 
+Chart 5c shows changes in employment and average hours worked in each of the major groups of occupations between May and November 2021
+Chart 6 shows, for people employed in each occupation in August 2021, the proportion who were:
+  still employed in the same occupation in November 2021;
+  still employed in November 2021 but in a different occupation; or
+  no longer employed in November 2021.
+Chart 7a shows changes in employment and average hours worked in each of the industry divisions between February 2020 and November 2021.
+Chart 7b shows changes in employment and average hours worked in each of the industry divisions between August and November 2021.
+Chart 7c shows changes in employment and average hours worked in each of the industry divisions between May and November 2021.
+Chart 8 shows the proportion of people who worked zero hours (for any reason) in May 2021 (before the Delta period), August 2021 (during the peak Delta period) and November 2021 (during the recovery period). 
+Chart 9 shows, for people employed in each industry in August 2021, the proportion who were:
+  still employed in the same industry in November 2021;
+  still employed in November 2021 but in a different industry; or
+  no longer employed in November 2021.

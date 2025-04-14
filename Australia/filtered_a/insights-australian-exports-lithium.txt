@@ -1,0 +1,20 @@
+Date:
+2022-08-04
+Article Title:
+ Insights into Australian Exports of Lithium
+
+Article Content:
+This article provides insights into the exports of lithium using detailed commodity data from Customs declarations.
+Global demand for lithium has grown significantly in recent years. Due to its lightweight properties, lithium is a key component in the production of rechargeable batteries used in electric vehicles (EVs), renewable energy storage, and consumer devices such as mobile phones, laptops, and cameras.
+Australia is the world’s biggest exporter of lithium¹. In 2020, 46% of the world’s lithium came from Australia and exports of lithium are expected to continue to increase, forecasted to contribute $9.4 billion in revenue to the Australian economy by 2023 24². 
+Australian lithium mines primarily extract spodumene concentrate, which is a lithium mineral derived from pegmatite and the most widely exploited lithium mineral source³. Spodumene is further processed to produce lithium hydroxide (preferred for batteries) or lithium carbonate (sometimes used in batteries but more commonly medications, glass production, and other uses). Australian exports of lithium are primarily in the form of spodumene concentrate however as global demand grows, several Australian lithium mines are commencing production of lithium hydroxide⁴.
+Within the International Trade in Goods and Services publication, exports of lithium are included under the Standard International Trade Classification (SITC) category 27 Crude fertilizers, other than those of Division 56, and crude minerals (excluding coal, petroleum and precious stones) (Figure 1).
+The Australian Harmonized Export Commodity Classification (AHECC) is the product classification used to identify goods being exported from Australia on Customs declarations. In January 2021, the ABS created a new statistical commodity code, Lithium concentrates (AHECC code 25309011), which captures spodumene concentrate exported by Australia. This change has enabled lithium to be separately identified within International Trade statistics and allows users to gain additional insights into this commodity which were not previously possible.
+In June month 2022, exports of lithium concentrates reached a record high of $1,163m, up $1,073m (1189%) from June month 2021. For most of 2021, monthly lithium exports did not exceed $250m. Exports values started to increase rapidly from late 2021, where it more than doubled from November to December 2021. From April 2022 to May 2022, exports of lithium almost doubled again, and in June 2022 surpassed $1 billion for the first time (Figure 2).
+For June quarter 2022, total lithium exports were $2,632m, up $2,318m (737%) from the June quarter 2021. From a state perspective, Western Australia accounted for over 99% of Australian lithium exports in each month since January 2021.
+The increase in lithium exports was due to increases in both quantity and unit value. Since January 2021, the unit value increased more than fourfold reflecting the pickup in global demand for lithium (Figure 3).
+Most Australian lithium is exported to China, accounting for over 85% of total value in each month of 2021 and over 94% in each month of 2022 (year to date). In June 2022, $1,128m worth of lithium was exported to China, accounting for 97% of the total lithium exports for that month (Figure 4).
+  
+  
+  
+  

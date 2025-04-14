@@ -1,0 +1,16 @@
+Date:
+2016-02-02
+Article Title:
+ ABS releases Standard for Sex and Gender Variables
+
+Article Content:
+The Australian Bureau of Statistics (ABS) today released the Standard for Sex and Gender Variables.
+The standard explains the interrelated concepts of sex and gender, defines standard classification categories for each concept and includes question modules for the collection of sex and gender information.
+Although there are no definitive figures on the subject, the findings of various research indicates that for the majority of people, usually around 98 per cent, there is a clear correlation between their sex and gender (e.g. biological sex is male and gender is male). For this reason the conceptual difference between sex and gender is not well understood by the general public and the two concepts are often used interchangeably in legislation, research and the media. This standard brings both concepts together to provide each with context, and clarify the meaning and intention of each, and includes guidelines on the collection of counts of persons who do not fall within the male or female categories of sex and/or gender. Consequently, the standard's data collection procedures recognise the need to include a third category to ensure the standard caters for the whole population.
+The label 'Other' is used in this standard's classifications to describe the third categories of both sex and gender because a more descriptive term has not been widely agreed within the general community. The use of 'Other' is also consistent with best practice for developing statistical classifications that identify and accurately label categories of the population that make up a significant proportion of an overall population (e.g. 'Male' and 'Female'), with the remaining categories of the population brought together to form a third category labelled 'Other'. Further, this standard recommends the inclusion of a 'please specify' write in facility for the 'Other' categories giving respondents the opportunity to describe their sex and/or gender in a way they are comfortable with.
+While the population currently classified to the 'Other' category in either the sex or gender classification is small, some users of this standard may require a further breakdown of this category, for example when undertaking an in depth social study. In such cases, researchers may add a second level to the classification to disaggregate the 'Other' categories and the glossary of this standard can be used to assist with the identification of appropriate subcategories and labels.
+The ABS will review the 'Other' labels, and may provide further guidance on appropriate 'Other' subcategories, when this standard is next reviewed if further information, including cognitive testing, analysis of actual responses and updates to related standards and guidelines, are available to inform further development of the standard.
+This standard was developed in consideration of the  (Attorney General's Department) which complements  and the .
+More details are in the (cat. no. 1200.0.55.012).
+  When reporting ABS data, the Australian Bureau of Statistics (or ABS) must be attributed as the source.
+  Media requests and interviews   contact the ABS Communications Section on 1300 175 070.

@@ -1,0 +1,17 @@
+Date:
+2023-07-28
+Article Title:
+The Daily — Survey of Advanced Technology, 2022
+Article Content:
+Released: 2023 07 28
+The adoption of advanced technologies is of keen interest to policy makers and the general public because it can be pivotal to an enterprise's productivity, competitiveness and innovation.
+In 2022, 62.1% of enterprises in sectors covered by the 2022 Survey of Advanced Technology (SAT) adopted at least one type of advanced technology, led by enterprises in utilities (80.5%), professional, scientific and technical services (75.2%), finance and insurance (75.1%) and manufacturing (74.9%).
+Regional advanced technology adoption rates were around 5 percentage points above or below the national average (62.1%), with Ontario's adoption rate (66.2%) being the highest, followed by Western Canada and the North (61.4%), Quebec (58.3%) and the Atlantic provinces (56.7%). 
+Of the 15 advanced technology domains measured in the 2022 SAT, advanced design and information control technologies (35.0%) and clean technologies (33.4%) were the most commonly adopted.
+Advanced design and information control technologies help enterprises create and refine visual and functional aspects of products, services and systems and manage and control their data and information. Within this group, customer relationship management software (23.1%) and enterprise resource planning (12.0%) technologies were the most commonly adopted.
+Clean technologies are processes, devices or applications designed to mitigate the effects of human activity on the environment or promote the sustainability of ecosystems. Waste management, reduction or recycling (26.9%) and air and environmental protection or remediation (10.8%) were the most commonly adopted clean technologies. 
+While artificial intelligence, robotics and blockchain may be seen as disruptive, the proportion of enterprises that adopted these types of technologies was comparatively low; it was 3.1% for artificial intelligence, 2.1% for robotics and 0.7% for blockchain.
+Among the enterprises that adopted at least one advanced technology, 57.3% were innovative enterprises (they introduced an improved or new product onto the market or implemented an improved or a new business process). In comparison, 40.9% of enterprises that did not adopt any advanced technologies were innovative.
+The top three obstacles reported by enterprises that did not adopt advanced technologies were related to low returns on investment or long payback periods from such investments (40.6%), recruiting skilled staff (36.7%) and difficulty to integrate new advanced technologies with existing systems (34.7%). 
+Difficulties in recruiting skilled staff (51.5%) were more prevalent among enterprises that adopted advanced technologies than those that did not, presumably because they needed more highly skilled staff. The next most commonly reported obstacles by enterprises that adopted advanced technologies were challenges in determining the impact of new technologies on their business (39.8%) and difficulties in integrating new advanced technologies within existing systems (39.7%). 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

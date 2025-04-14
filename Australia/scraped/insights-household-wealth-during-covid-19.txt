@@ -1,0 +1,16 @@
+Date:
+2020-09-24
+Article Title:
+ Insights into household wealth during COVID-19
+
+Article Content:
+The COVID 19 pandemic, and the government response through containment measures and support packages resulted in impacts on household income, consumption and wealth in the June quarter 2020. The income and consumption household impacts are outlined in the Australian Statistician article – . This spotlight looks at the household wealth impacts for the June quarter.
+At the end of June quarter, household wealth (measured as net worth) rose 1.5 %, a partial reversal of the March quarter 2.5% decline. 
+The largest contributions to household wealth growth was from superannuation and holdings of private trading corporations and bank shares. This reflected the recovery of the Australian and international share markets during the quarter, with the Australian Stock Exchange rising 13.4%. For further insights on superannuation, see .
+During the June quarter households increased their deposits, reduced their short term loan liabilities and increased their housing loans. Residential property prices were affected as housing transactions slowed with social distancing measures. 
+Quarterly household deposits increased $33.4b partly reflecting the increase in household saving during the June quarter. A key driver of the increase in household saving was the reduction in consumption plus the COVID 19 government income support packages such as: JobKeeper; Coronavirus supplement; Economic support payments; and early access to superannuation.
+Quarterly household deposits have seen substantial increases since September quarter 2019. The September increase was related to a tax cut [1] while the December growth was a result of reduced expenditure due to bushfires. In March, the increase in deposits was due to COVID 19 restriction measures and economic uncertainty reducing expenditure.
+Government income support measures coupled with falls in household consumption enabled households to reduce short term loan liabilities (credit cards and personal loans) by a record 7.5% in June quarter. Prior to the COVID 19 pandemic, household behavior had been changing with many households moving away credit card and personal loans to alternate payment methods. 
+Quarterly housing loans increased $14.3b, detracting 0.1 percentage points from quarterly growth in household wealth. The increase in housing loans reflected: increases in existing loan balances through refinancing activity as households took advantage of the very low interest rate environment; and the increase in interest accruing on deferred loan repayments (COVID 19 relief package provided to customers by Australian financial institutions). 
+Residential assets (measured as land and dwellings) detracted 0.8 percentage points from quarterly growth in household wealth. This reflected widespread falls in property prices due to a combination of social distancing measures (restrictions on auctions and open house inspections) and ongoing economic uncertainty. 
+  The $25.0b increase in household deposits in September quarter 2019 was due to the introduction of the low and middle income tax offset.

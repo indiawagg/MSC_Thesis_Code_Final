@@ -1,0 +1,34 @@
+Title: Efficiënt gebruik van materialen niet genoeg voor verminderen CO2-uitstoot
+Date: 2023-11-23 23:00:00 UTC
+
+Lead Text:
+                De CO2-uitstoot van de Nederlandse economie nam tussen 1970 en 2020 over de gehele periode gezien toe. Tot 2010 steeg de uitstoot sterk, daarna zette een daling in. Vóór 2010 hadden efficiënter gebruik van materialen en grondstoffen en recycling een matigend effect op uitstoot van CO2. Toch nam de uitstoot in die periode toe omdat de economie sterk groeide. Van 2010 tot 2020 speelden vooral energiebesparing en de toename van hernieuwbare energie een rol in de daling van de CO2-uitstoot. Dit blijkt uit experimenteel onderzoek van het CBS.
+            
+
+Article Content:
+Het CBS  hoe sterk veranderingen in de economie en het gebruik van materialen en energie samengingen met veranderingen in de uitstoot van CO2 tussen 1970 en 2020. CO2 (koolstofdioxide) is een van de belangrijkste broeikasgassen die zorgen voor klimaatverandering.
+Minder CO2-uitstoot na 2010
+Tussen 1970 en 2010 nam de CO2-uitstoot door de Nederlandse economie met 50 procent toe door de sterke groei van de economie. Alleen begin jaren tachtig daalde de CO2-uitstoot tijdelijk door een economische dip. Pas vanaf 2010 begon de CO2-uitstoot gestaag te dalen. De sterke afname in 2020 kwam onder andere door de gevolgen van maatregelen die zijn genomen in het kader van de coronacrisis. Na een lichte stijging in 2021 is de CO2-uitstoot in 2022 verder gedaald. De CBS-analyse focust op de periode tot 2020. Per saldo nam de CO2-uitstoot in deze vijftig jaar toe met iets meer dan .
+
+Economische groei grootste impact op CO2-uitstoot
+De groei van de economie had de grootste invloed op de CO2-uitstoot, vooral in de periode tot 2010. De  groeide gemiddeld met ruim 2 procent per jaar tot meer dan 1 400 miljard euro in 2020. Deze productiestijging, die samenging met hogere consumptie, had tot ruim 200 megaton extra uitstoot kunnen leiden zonder invloed van andere factoren.
+
+In dezelfde periode was er namelijk ook een verschuiving in activiteiten van landbouw en industrie naar diensten. Het aandeel van de landbouw en industrie in de productie nam af van 30 procent in 1970 naar 25 procent in 2020. Outsourcing van bedrijven in de industrie naar het buitenland speelde hierbij een rol. Daarnaast hebben dienstensectoren meestal een lagere emissie-intensiteit. De verdienstelijking van de economie had daardoor een dempende invloed van bijna 40 megaton op de CO2-uitstoot. 
+
+
+Efficiënt materiaalgebruik steeds kleinere rol in verminderen CO2-uitstoot
+Ook verminderd materiaalverbruik door bedrijven en huishoudens heeft geholpen bij de daling van de CO2-uitstoot. Minder verbruik van materialen betekent minder uitstoot in de productieketen. In 1970 was het materiaalgebruik nog bijna 1,2 kilogram  per euro productie van de landbouw en industrie, waar dit vijftig jaar later gezakt was naar minder dan 0,9 kilogram per euro. Ook recycling (inzet van secundaire grondstoffen) heeft bijgedragen aan vermindering van de uitstoot. Het aandeel primaire materialen in het productieproces nam af van 93 naar 84 procent. Ten slotte leidt minder consumptie van materialen door huishoudens ook tot minder emissies, bijvoorbeeld doordat er minder afval hoeft te worden verbrand. In totaal had vermindering van materiaalgebruik een matigende invloed van bijna 120 megaton in een halve eeuw. Maar dit effect was vooral belangrijk tot en met 2010. Vanaf 2011 is de invloed van slimmer materiaalgebruik veel kleiner geworden. De onderliggende factoren (efficiënter materiaalgebruik, mate van recycling en materiaalgebruik per hoofd van de bevolking) verbeterden niet veel meer in deze laatste periode.
+Energiebesparing en hernieuwbare energie dempen uitstoot na 2010
+Energieverbruik heeft een sterke relatie met CO2-uitstoot. De  daalde per saldo in de periode 1971-2020 van ruim 110 naar 100 GJ per capita. Deze daling beperkte de uitstoot met bijna 30 megaton. Van 2011 tot 2020 was vooral het lagere verbruik van fossiele energie een belangrijke reden achter de daling in CO2-uitstoot. 
+
+Tussen 1970 en 2010 was nog nauwelijks sprake van een verschuiving van fossiele energie naar hernieuwbare energiebronnen. Bedrijven en huishoudens bleven lang afhankelijk van gas en andere fossiele energiedragers. Pas na 2010 is er een versnelling waarneembaar in de productie en het verbruik van hernieuwbare energie, met een matigend effect op de CO2-uitstoot als gevolg.
+
+De analyse focust op jaarlijkse veranderingen. Bijvoorbeeld 1971 staat voor de verandering tussen 1970 en 1971. Deze jaarlijkse veranderingen zijn samen opgeteld over de hele periode. Bijvoorbeeld voor CO2-uitstoot bedraagt de totale verandering 30 megaton. De analyse splitst de verandering in CO2-uitstoot uit in de diverse factoren. Deze tellen samen op tot 30 megaton.
+
+
+
+De analyse focust op jaarlijkse veranderingen. Bijvoorbeeld 1971 staat voor de verandering tussen 1970 en 1971. Deze jaarlijkse veranderingen zijn samen opgeteld per subperiode. Bijvoorbeeld voor CO2-uitstoot bedraagt de totale verandering in de periode 1971-1980 ruim 40 megaton. De analyse splitst de verandering in CO2-uitstoot uit in de diverse factoren. Deze tellen samen op tot ruim 40 megaton.
+Experimenteel onderzoek
+De uitkomsten van dit onderzoek zijn gebaseerd op een experimentele decompositie-analyse ontwikkeld door het CBS en Eurostat. De decompositie-analyse kwantificeert de samenhang tussen de verandering in een variabele, in dit onderzoek de CO2-emissies, en factoren die een mogelijke rol spelen bij deze verandering. De gebruikte methode wordt in de toekomst verder ontwikkeld.
+        
+

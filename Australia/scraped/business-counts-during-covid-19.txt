@@ -1,0 +1,13 @@
+Date:
+2020-10-30
+Article Title:
+ Business counts during COVID-19
+
+Article Content:
+The ABS has released a range of new statistics to help users understand the impacts on the economy of the COVID 19 pandemic. 
+The annual Counts of Australian Businesses, including Entries and Exits (CABEE) publication was identified as a potential data source to provide timely information about this period. 
+A research paper  has been released. The paper presents quarterly data between August 2019 and August 2020, and draws out the story behind changes to business counts during the first 6 months of the COVID 19 pandemic impacting Australia.  
+The paper presents insights into business entries and exits by employment size, industry, states and territories and types of legal organisations. It also provides seasonally adjusted data to assist in distinguishing between short term trends and seasonal patterns for total business counts, entries and exits.
+Data in this paper are produced in a similar way to the annual CABEE publication, but are also experimental as some new data sources and methods to provide timely information to support quarterly analysis are used. Some counts may therefore be different to the annual CABEE publication, which provides a more detailed and comprehensive summary of annual business entries and exits. For instance, the annual CABEE (releasing February 2021) will include more granular geographical data best suited to the analysis of the 2019 20 Australian bushfire season. 
+Care should be taken when using the data for analysis or to draw conclusions about the impact on the economy due to the experimental nature of the statistics.
+ 

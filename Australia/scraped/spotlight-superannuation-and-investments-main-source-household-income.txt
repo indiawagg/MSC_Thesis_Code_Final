@@ -1,0 +1,31 @@
+Date:
+2019-07-12
+Article Title:
+ Spotlight - superannuation and investments as main source of household income
+
+Article Content:
+Since the 1990s, successive governments have been introducing policies to reduce reliance on the Age Pension in retirement and encourage greater reliance on income from investments and superannuation. Examples include the Superannuation Guarantee, superannuation co contributions, pre tax salary sacrifice into superannuation, and favourable taxation rates for income from superannuation and other investments.1
+When analysing main source of household income, this publication (6523.0 Household Income and Wealth, Australia), has historically grouped investment income (such as interest, dividends, rent and royalties) and superannuation, into ‘other income’ sources (which also includes workers compensation, child support, scholarships, and accident and sickness payments). This has made it difficult to assess changes over time related to income from investments and superannuation. 
+The analysis in this article separates income from investments and superannuation from other main sources of household income (MSHI), and shows changes over time between 2007–08 and 2017–18. 
+The majority of the data used in this article is available in an additional data cube (15 Main Source of Household Income, Superannuation and Investments) available in the Data downloads section of this release. 
+Table 1 shows that the proportion of households with superannuation as main source of household income (MSHI) increased over the past decade, from 4% in 2007–08 to 6% in 2017–18 (an increase of over 200,000 households). Since 2015–16, superannuation has been the third most common MSHI, behind employee income and government pensions and allowances. However. the proportion of households who had investment income as their MSHI remained relatively stable over this same time period.
+By 2017–18, employees who retired aged 65 would have been eligible for Superannuation Guarantee contributions for almost 25 years, whereas those retiring in 2007–08 would have only received it for around 15 years. As the time period between the introduction of the Superannuation Guarantee increases, it is reasonable to expect that the number of households with superannuation as their main source of income would also increase over time.
+Separately classifying superannuation and investment income as individual main sources of income has seen 'other income' as a MSHI decrease from 12% of households to 2% of households in 2017–18. There was no significant impact on other sources of MSHI (employee income, own unincorporated business income or government pensions and allowances).
+In 2017–18, households with superannuation as their MSHI had characteristics that are consistent with people who are generally considered to be retired. These were:
+Similar characteristics were observed for households with investments as their MSHI, although at lower proportions. They were:
+However, households with investment as their MSHI also showed other characteristics that highlight this income type is not just a source for 'retired' households. One in five of these households (20%) still had two or more people either working or looking for work, and 17% were couple families with dependent children (compared to 4% and 1% respectively for superannuation MSHI households).
+  78% of households had no people working or looking for work
+  81% of households had a household reference person aged 65 years or over
+  58% were couple only households and a further 32% were a lone person household
+  87% of these households were owned outright (owners without a mortgage) 
+  59% of households had no people working or looking for work
+  53% of households had a household reference person aged 65 years or over
+  31% were couple only households and a further 42% were a lone person household
+  67% of these households were owned outright (owners without a mortgage) 
+Over the past decade, there has been an increase in the mean weekly gross income for households whose MSHI is superannuation, from $1,376 per week in 2007–08 to $1,689 per week in 2017–18 (23% increase). This weekly amount is more than double than that for households with MSHI of government pensions and allowances ($736 per week in 2017–18).
+While the mean weekly gross income for households with MSHI of investment is $3,866 per week in 2017–18, this is not a statistically significant difference when compared to employee income ($2,784 per week) or income from own incorporated business ($2,257 per week).
+After household size and composition was taken into account, households with superannuation as their MSHI had an equivalised disposable household income of $1,172 per week in 2017–18, while for investment it was $1,814 per week.
+As shown in graph 3, in 2017–18, households with investment income as their MSHI have the highest net worth of all income types ($3.8 million), followed by superannuation ($2.5 million). The net worth of households with superannuation as their MSHI increased almost 30% from $2.0 million in 2009–10 to $2.5 million in 2017–18. The increase in net worth of households with investment income as MSHI from $3.1 million in 2009 10 to $3.8 million in 2017 18 was not statistically significant.
+Reducing reliance on government payments in retirement years is the aim of many government policies. Additional analysis has shown that the proportion of households receiving nil or less than 1% of their income from government payments increased significantly over the decade (see table 2). For households with a MSHI of superannuation the proportion has increased from 27% to 60%, while for investments it has increased from 53% to 85%.
+There is a continuing and growing need to analyse the income sources of retired people and those approaching retirement. Therefore from 2019–20 onwards, the outputs for main source of household income will separately identify superannuation and investments.
+  For more information on government policies relating to superannuation and other taxation information, refer to the  and  websites.

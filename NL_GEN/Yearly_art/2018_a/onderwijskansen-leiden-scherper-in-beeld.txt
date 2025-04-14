@@ -1,0 +1,33 @@
+Title: Onderwijskansen Leiden scherper in beeld
+Date: 2018-06-17 22:00:00 UTC
+
+Lead Text:
+                De groep basisschoolkinderen met een verhoogde kans op onderwijsachterstand is in Leiden relatief kleiner dan in heel Nederland.
+            
+
+Article Content:
+Dat blijkt uit onderzoek, uitgevoerd door het Urban Data Center Leiden071, een samenwerking van het CBS en de gemeente Leiden. De voor dit onderzoek ontwikkelde heatmaps bieden, naast tabellen met aantallen op wijkniveau, meer inzicht in de spreiding over de gemeente van kinderen met een verhoogde kans op onderwijsachterstand. Met dit nieuw verkregen inzicht kan de gemeente Leiden het onderwijskansenbeleid verder vormgeven.
+Landelijk model
+Voor de bepaling van de onderwijskansen is het model gebruikt dat eerder voor het ministerie van Onderwijs, Cultuur en Wetenschap is ontwikkeld. Het ministerie is van plan het model te gebruiken om toekomstige budgetten over gemeenten en scholen te verdelen, voor de aanpak van onderwijsachterstanden. In het model wordt voor alle basisschoolkinderen in Nederland een verwachte onderwijsscore berekend, op basis van achtergrond- en omgevingskenmerken van het kind. Om de uiteindelijke verdeling van het budget te bepalen is ook onderzocht wat de effecten voor scholen en gemeenten zouden zijn bij de toepassing verschillende grenswaarden.
+Als het om de grenswaarde 10% gaat, betekent dat, dat de 10% kinderen in Nederland met de laagste verwachte onderwijsscores, dus hoogste kans op onderwijsachterstand, zijn bekeken. Gaat het om grenswaarde 30%, dan bedoelen we de 30% kinderen van Nederland met de grootste kans op een onderwijsachterstand. Voor meer toelichting over het model verwijzen we naar de link onderaan.
+Leiden
+
+Het CBS onderzocht hoeveel kinderen die naar de basisschool gaan en in Leiden wonen een verhoogde kans hebben op onderwijsachterstand. Bij de landelijke grenswaarde van 30 procent, gaat het hierbij om 2 115 kinderen en dit komt overeen met 25 procent van alle 8 500 Leidse kinderen die naar de basisschool gaan.
+Ook bij de andere onderzochte grenswaarden (doelgroepen van 10, 15 en 20 procent met hoogste kans op onderwijsachterstand) is het percentage van kinderen dat tot die groep behoort in Leiden lager dan het landelijke gemiddelde.
+
+
+
+
+
+Verschillen tussen wijken
+Het CBS heeft ook onderzocht hoe de verdeling is over de wijken in Leiden. Daaruit blijkt dat als er gekeken wordt naar de groep die tot de 30 procent kinderen behoort met de grootste kans op onderwijsachterstand, in de wijken Leiden-Noord en het Bos- en Gasthuisdistrict relatief meer kinderen met een onderwijsachterstand wonen dan het landelijke percentage.
+Heatmaps bieden meer diepgang
+Dankzij de voor dit onderzoek ontwikkelde heatmaps is het mogelijk om de feitelijke spreiding over de gemeente te zien. Hierin blijkt dat hoewel de Merenwijk gemiddeld genomen rond de landelijke grenswaarden schommelt, er wel degelijk in de wijk hoge concentraties van kinderen met een grote kans op onderwijsachterstand voorkomen. Er zijn heatmaps met de spreiding over de gemeente beschikbaar voor alle genoemde grenswaarden, zowel voor de schoolgaande als de niet-schoolgaande kinderen. Voor de niet-schoolgaande kinderen is vergelijkbaar onderzoek uitgevoerd. De verschillen ten opzichte van de schoolgaande kinderen zijn klein.
+Gemeente Leiden is erg blij met het onderzoeksrapport: ‘De intensieve inzet van Leiden de afgelopen jaren heeft geholpen, maar we zijn er nog niet. Want hoewel Leiden het als stad relatief goed doet ten opzichte van Nederland zijn er nog altijd Leidse wijken met meer kinderen met onderwijsachterstand dan het landelijke gemiddelde. Het geeft de gemeente daarmee inzicht in welke wijken nog extra geïnvesteerd moet worden in onderwijskansen.’
+
+
+
+Het onderwijskansenonderzoek is het tweede onderzoek dat is uitgevoerd in het kader van Urban Data Center Leiden071. Eerder dit jaar werd er onderzoek gedaan naar het bereik van een aantal gemeentelijke regelingen onder huishoudens die daar, gelet op de inkomens- en vermogensgrenzen, voor in aanmerking komen.
+Deze publicatie is tot stand gekomen in een periode waarin de onderwijsachterstandenindicator nog in ontwikkeling was. In de definitieve methodiek (zie ) is onder andere de operationalisering van de verblijfsduur van de moeder aangepast. Hierdoor zijn de cijfers in deze publicatie niet helemaal vergelijkbaar met die in publicaties vanaf juli 2019.
+
+

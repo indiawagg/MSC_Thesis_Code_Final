@@ -1,0 +1,26 @@
+Date:
+2023-06-22
+Article Title:
+ 10 characteristics of Australian businesses for the year ended 30 June 2022
+
+Article Content:
+Header 1: 1. More than two thirds of businesses experienced factors hampering their activities (68%)
+Header 1: 2. Businesses experiencing skills shortages increased, from 24% for the year ended 30 June 2020, to 38% for the year ended 30 June 2022
+Header 1: 3. Cyber attack incidences increased
+Header 1: 4. Businesses that experienced a cyber attack reported less impacts
+Header 1: 5. A high proportion of businesses (70%) have cyber security prevention measures
+Header 1: 6. Twice as many businesses placed online orders (61%) compared to those that received online orders (30%)
+Header 1: 7. More than 8 in 10 businesses used Information Communication Technologies (ICTs)
+Header 1: 8. Business use of 5G network wireless broadband has tripled
+Header 1: 9. Internet performance was sufficient for half of all businesses (52%)
+Header 1: 10. Businesses in Capital cities have higher download speeds than those in regional areas
+The top three factors were “Uncertainty about economic conditions” (36%), “Supply chain issues” (30%) and “Lack of skilled persons within the labour market” (25%).
+Businesses employing 20 199 persons recorded the most shortages (78%).
+More than 1 in 5 businesses (22%) reported having experienced a cyber attack, compared to 8% in the year ended 30 June 2020.
+For the year ended 30 June 2022, 56% of businesses that reported having experienced a cyber attack, reported some impact; compared with, 81% for the year ended 30 June 2020.
+This could have contributed to the reduction in impacts reported from cyber security attacks despite the overall increase in the number of businesses that reported having experienced cyber attacks.
+Businesses in the Retail trade industry and Professional, scientific and technical industry (both 72%) were the most likely to report having placed online orders.
+The most reported ICTs used were “Cyber security software” (63%), “Cloud technology” (59%), “Digital platforms – Internal” (41%) and “Digital platforms – Public” (38%).
+For the year ended 30 June 2022, 31% of businesses reported having used 5G network wireless broadband compared to 10% for the year ended 30 June 2020, reflecting progress with the roll out of this technology.
+The highest level of sufficient performance was reported by businesses that had premises located in a Capital city CBD only (58%).
+The most reported download speed of the fastest fixed internet connection used by businesses in Capital cities (31%) was greater than or equal to 50Mbps to less than 100Mbps, compared to greater than or equal to 25Mbps to less than 50Mbps by businesses in Regional locations (34%).

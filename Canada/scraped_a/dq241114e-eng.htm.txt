@@ -1,0 +1,13 @@
+Date:
+2024-11-14
+Article Title:
+The Daily — Monthly Analysis on the Canadian Economic Tracker, November 2024
+Article Content:
+Released: 2024 11 14
+The monthly analysis that accompanies the Canadian Economic Tracker is now available.
+To access the analysis, click on the "Monthly analysis" button in the upper right hand corner of the Canadian Economic Tracker page.
+The Canadian Economic Tracker presents selected monthly indicators from Statistics Canada's Common Output Database Repository to highlight the interrelated dynamics within the Canadian economy.
+The analysis complements the timely, granular and customizable data as well as the interactive charts of economic activity available in the tracker. Monthly indicators on the Canadian Economic Tracker include business openings and closures, employment and weekly earnings, job vacancies and vacancy rates, gross domestic product, the Consumer Price Index, the Industrial Product Price Index, merchandise exports and imports, retail trade sales and manufacturers' sales.
+For more information on the Canadian Economic Tracker, see the release, "Canadian Economic Tracker: A new data visualization tool."
+The monthly analysis on the Canadian Economic Tracker is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

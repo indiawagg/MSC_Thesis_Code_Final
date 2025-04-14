@@ -1,0 +1,13 @@
+Date:
+2019-09-18
+Article Title:
+ New statistics to inform on Australia's waste
+
+Article Content:
+The ABS has released a new experimental account on waste as part of its work on establishing environmental economic accounts.
+Environmental economic accounts bring together information about the environment and its relationship with the economy. The experimental waste account provides information on who generates waste and how it is managed. Information on the financial aspects of the waste industry are presented alongside information about the physical amount and types of waste to provide a broader picture of waste in Australia.
+"In 2016 17 the Australian economy had 68.9 megatonnes of waste. Of this, 19.0 megatonnes (27.6% per cent) was sent to landfill for disposal" said Jonathon Khoo, Director of the ABS Centre for Environmental and Satellite Accounts. "As Australia uses more of its waste in the production of other goods the Waste Account, Australia, Experimental Estimates publication provides an information framework to help identify opportunities for utilising discarded materials"
+The ABS last produced a waste account in 2014. The latest experimental account utilises a more detailed dataset, providing more waste types and industry level information than was previously released.
+In 2016 17, 2.8 tonnes of waste was generated per person. Households were the largest generator of organic waste, with 7.0 megatonnes, which constituted 51.0% of their waste stream. The Construction industry generated 20.4 megatonnes of waste, the majority of which was masonry waste such as rubble and concrete waste. Coal fired power stations produced 12.3 megatonnes of ash waste.
+The ABS looks forward to feedback on this release so that future accounts can better meet the needs of data users to highlight the potential opportunities for the waste sector. Feedback can be emailed to environment@abs.gov.au
+When reporting ABS data, the Australian Bureau of Statistics (or ABS) must be attributed as the source.

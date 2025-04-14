@@ -1,0 +1,25 @@
+Date:
+2020-05-19
+Article Title:
+ Slowdown in COVID-19 job losses
+
+Article Content:
+Over the seven weeks from mid March to early May, total payroll jobs fell by 7.3 per cent, according to new data released by the Australian Bureau of Statistics today.
+Head of Labour Statistics at the ABS, Bjorn Jarvis, said: “The latest data shows a further slowing in the fall in COVID 19 job losses between mid April and early May.”
+“The largest net job losses over the seven weeks of the COVID 19 period, in percentage terms, were in Victoria and New South Wales, where the falls in payroll jobs were around 8.4 per cent and 7.7 per cent."
+“Payroll jobs worked by people under 20 continued to show the largest falls ( 14.6 per cent), and were particularly high in some states and territories, such as the Australian Capital Territory ( 19.2 per cent).”
+In addition to the fall in total jobs slowing, some industries were now showing a reduced impact in the most recent weeks.
+“The Accommodation and food services industry had lost around a third of payroll jobs (33.3 per cent) by the week ending 11 April, and a subsequent increase in jobs saw this reduce to around 27.1 per cent by the week ending 2 May,” Mr Jarvis said.
+“The week to week changes are much smaller than they were early in the COVID 19 period. The decrease in the number of jobs in the week ending 2 May was 1.1 per cent, which was only slightly larger than the 0.9 per cent increase in the week ending 25 April,” Mr Jarvis said.
+Today's release also includes, for the first time, information at a regional level (Statistical Area Level 4) and information for each of the industry sub divisions.
+Further information is available in Weekly Payroll Jobs and Wages in Australia (cat. no. 6160.0.55.001).
+The ABS would like to acknowledge the continued support from the Australian Taxation Office in enabling the ABS to produce these statistics, providing weekly insights into the Australian labour market.
+  Total job losses as of the week ending 18 April have been revised down from 7.5% to 7.1%
+  Following this release, there will be a short pause to the fortnightly publication schedule to allow for additional quality assurance and analysis of estimates as JobKeeper supported payments flow through Single Touch Payroll data. As such, the next release will not be in 2 weeks (2 June 2020), but is anticipated to be on or before 16 June 2020.
+  This release includes information on employee jobs where a payment was made in the reference week through Single Touch Payroll enabled software and reported to the Australian Taxation Office.
+  Approximately 99% of substantial employers (those with 20 or more employees) and 71% of small employers (19 or less employees) are currently reporting through Single Touch Payroll. Further information on the release can be found in the methodology.
+  This release includes Statistical Area 4 (SA4) and ANZSIC sub division level change in payroll jobs estimates for the first time. Further information can be found in the Jobs by SA4 and Jobs by Industry sub division webpages, available via the Topic page.
+  Further information on the suite of labour statistics that provide insights into the impact of COVID 19 can be found in .
+  The additional ABS products being published to understand the economic impact of the coronavirus can be found on the ABS 
+  When reporting ABS data, the Australian Bureau of Statistics (ABS) must be attributed as the source.
+  For media requests and interviews, contact the ABS Media Team on 1300 175 070 (8:30am   5:00pm Mon Fri)

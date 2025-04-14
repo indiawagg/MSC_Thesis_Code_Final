@@ -1,0 +1,72 @@
+Date:
+2022-11-22
+Article Title:
+ Position on skills in ANZSCO
+
+Article Content:
+Improving the recognition of skill in the Australian and New Zealand Standard Classification of Occupations to better reflect the contemporary Australian labour market
+The Australian and New Zealand Standard Classification of Occupations (ANZSCO) provides the basis for standardised collection, analysis and dissemination of occupation data for Australia. It is an integrated framework for storing, organising and reporting occupation related information in both statistical and other analytical applications. ANZSCO is used in the Census of Population and Housing, the Labour Force Surveys, and other ABS surveys to measure and understand the Australian labour market.
+ANZSCO is a skill based classification. It was first published in 2006 with a (then) contemporary recognition of skill. ANZSCO will remain a skill based classification to support international comparability.¹
+The ABS has received feedback that the recognition of skill needs to change to reflect the contemporary Australian labour market. The ² was published in April 2022 and identified five concerns with the current recognition of skill in ANZSCO. This statement received 13 submissions which confirmed these five concerns. Several meetings were held during May 2022 to obtain additional information and develop proposals to resolve these five concerns.
+The Skills Options Paper³ was published in June 2022 and contained six proposals to address these concerns. It also noted microcredentials were not currently included when recognising skill within ANZSCO and invited suggestions to progress this concern. The paper received sixty submissions which confirmed the existing recognition of skill required some change to reflect the current labour market and provided suggestions to address the exclusion of microcredentials.
+This paper summarises these submissions and the position the ABS has taken regarding these six proposals. It also outlines the position the ABS has taken regarding whether microcredentials should be included when recognising skill. It concludes with the expected timeframe for implementation.
+ANZSCO has not reflected all changes in skill since its inception in 2006 as reviews of its Occupations have not been undertaken with sufficient frequency. Submissions confirmed undertaking more frequent reviews of Occupations in ANZSCO to reflect changes in skill was the highest priority of all six proposals.
+The ABS undertook a targeted review in 2021 which updated 10 percent of all Occupations in ANZSCO. The targeted review considered four areas:
+The ABS completed a targeted review of a further five percent of Occupations in ANZSCO in November 2022. This targeted review focused on construction related trades occupations and the remainder of the Emerging Occupations identified by the National Skills Commission.
+The ABS received funding in the 2022/23 budget to “ensure that Australia’s classification of Occupations and labour market statistics reflect the current and future labour market”⁵. The funding will be used to undertake a comprehensive review and update, to be completed by December 2024 and reflected in the 2026 Census of Population and Housing. From 2025, the ABS will embark on a cyclical update of ANZSCO.
+The ⁶ describes a five yearly cyclical update that balances maintaining robustness and stability of time series data with the need to reflect contemporary changes to the labour market in a timely manner. This consists of minor updates that will be released annually, and major updates that will be released every five years. This cycle will support timely adoption by the Census of Population and Housing.
+The ABS position is to reflect changes in skill by undertaking frequent reviews of Occupations in ANZSCO. The five yearly cyclical update will be implemented once the comprehensive review and update is completed in December 2024.
+  Agriculture, forestry and fisheries occupations
+  Cybersecurity occupations
+  Naval ship building occupations, and
+  Emerging Occupations identified by the National Skills Commission⁴
+While a unique set of tasks is expressed for aggregates of Occupations (e.g. Unit Groups), they are not currently expressed for each of the Occupations in ANZSCO. This limits the recognition of skill as users must determine the relationship between a Unit Group’s tasks and each of its Occupations. An example is the Unit Group for Electricians (Unit Group 3411) which comprises three Occupations   Electrician (General) (ANZSCO Occupation 341111), Electrician (Special Class) (ANZSCO Occupation 341112) and Lift Mechanic (ANZSCO Occupation 341113). While the Unit Group for Electricians is defined by a unique set of ten tasks, a unique set of tasks for each of its three Occupations is not specified. A unique set of tasks must be specified for Electrician (General), Electrician (Special Class), and Lift Mechanic to improve the way skill is recognised in the classification.
+This proposal ensures all Occupations in ANZSCO are described by a unique set of tasks. Submissions indicated this proposal was a high priority.
+The ABS position is to ensure all Occupations in ANZSCO are described by a unique set of tasks to improve the way skill is recognised in the classification. A unique set of tasks will be defined for each occupation in ANZSCO during the comprehensive review and update. This will be implemented by December 2024.
+The Australian Skills Classification (ASC)⁷ has been developed by the National Skills Commission and describes a set of skills required to undertake each occupation. It currently covers 870 of the Occupations in ANZSCO and the National Skills Commission continues development to ensure exhaustive coverage. The relationship between skills in the ASC and ANZSCO is maintained by the National Skills Commission.
+This proposal entails including the ASC’s description of skills for each Occupation in ANZSCO. Submissions supported this proposal as a low priority.
+The ABS position is to recognise the Australian Skills Classification as a complementary classification to ANZSCO. The ABS may consider including ASC’s skills in ANZSCO at a later date when the Australian Skills Classification has exhaustive coverage.
+ANZSCO currently contains a single (skill based) aggregation of Occupations and does not support customised views. By way of example, Occupations with different skills could be aggregated by industry (eg. combining Sales Assistant (ANZSCO Occupation 621111) with Retail Manager (General) (ANZSCO Occupation 142111) as both are common to the retail industry). This customised view may support analysis of skills required to progress via a pathway within a given industry.
+This proposal provides the ability to aggregate occupations according to a customised view specified by the user. Submissions supported this proposal as a medium priority.
+The ABS will evaluate the viability of developing a tool which will enable customised views of the ANZSCO classification. This is expected to support analysis of skill as Occupations can be grouped according to a given job pathway. The evaluation will be completed by June 2023.
+The ABS has considered including employability skills in ANZSCO as an element of skill specialisation. The two facets of employability skills ‘personal attributes’ such as loyalty and ‘generic skills’ such as team work and communication are applicable to most occupations and for this reason they have not been included as a criteria when forming groups of Occupations in the classification.⁸
+This proposal seeks to clarify the existing treatment of employability skills given their increased significance since 2006 within the contemporary Australian labour market. Examples of employability skills include human factors, and those listed on JobJumpStart⁹ and within the ASC¹⁰ where they are referred to as core competencies. Submissions supported this proposal as a low priority.
+The ABS position is to recognise expert employability skills when they form part of the unique set of skills needed to describe an Occupation. Additionally, a statement will be included in ANZSCO's explanatory notes regarding the role of employability skills across all Occupations. The relevance of employability skills to forming (skill based) Occupations and groups of these Occupations will be determined when the comprehensive review and update is completed in December 2024.
+The term “skill” is used in multiple instances within ANZSCO. Examples include “skill based classification”, “skill level”, and “skill specialisation”. While these terms have been defined within ANZSCO, the repeated appearance of the term “skill” has created confusion among some ANZSCO users. The significance expands when considering the multiple usages of the term “skill” outside ANZSCO such as “Australian Skills Classification”, and “skill” within the Australian Qualifications Framework¹¹ (AQF).
+This proposal entails development of alternate terms for “skill level” and “skill specialisation” without making any changes to the underlying concepts. Submissions provided minimal support for this proposal but agreed repeated appearance of the term “skill” created confusion. Submissions indicated this was the lowest priority and emphasised the need to focus on the other five proposals, such as undertaking more frequent reviews of Occupations in ANZSCO.
+The ABS position is to retain the terms “skill level” and “skill specialisation” when forming (skill based) Occupations. This position will be reflected when the comprehensive review and update is completed in December 2024.
+AlphaBeta¹² predicted that most new learning (to obtain skills), particularly post initial qualification, will occur through short courses and on the job training focusing on skill requirements. There is currently little available data that comprehensively captures and reports on shorter form credentials such as microcredentials.¹³
+The Australian Government provided funding to build the Microcredentials Marketplace in June 2020.¹⁴ This project continues until June 2023 and seeks to provide a platform to support decision making, compare courses and provide an understanding on how short courses can be used as credit towards larger qualifications.¹⁵
+The National Microcredentials Framework¹⁶ was published in March 2022 and will inform development of the Microcredentials Marketplace. This framework includes a national definition for a microcredential, namely:
+“a certification of assessed learning or competency, with a minimum volume of learning of one hour and less than an AQF award qualification, that is additional, alternate, complementary to or a component part of an AQF award qualification”¹⁷
+The National Microcredentials Framework also includes ‘critical’ information requirements to ensure consistency, and ultimately inclusion on the Microcredentials Marketplace. These include title, provider, learning outcomes, delivery mode, date, price, financial assistance, and certifications.¹⁷
+The ABS invited submissions regarding whether microcredentials and other training outside of the AQF¹⁸ should be included within ANZSCO when recognising skill. The majority of submissions were supportive and noted the following:
+A small number of submissions did not support the inclusion of microcredentials. These submissions expressed concerns that microcredentials should not replace regulated qualifications (currently described by the AQF) and therefore not be used when recognising skill within ANZSCO. They also noted the AQF did not currently include microcredentials as the inclusion of multiple short courses would be difficult to maintain.
+The ABS position at this point in time regarding the inclusion of microcredentials when recognising skill in ANZSCO is to remain consistent with their treatment in the AQF. The AQF does not currently include microcredentials, and there are currently no plans for this to change. Once the Microcredentials Marketplace has been published, analysis of the resulting dataset may be undertaken with a view to revisiting this position.
+  Greater collaboration across industry and government to understand the type of microcredentials that are offered is required
+  Broader review of occupations will uncover the use of microcredentials within industry
+  There is value in including microcredentials as this may assist in filling a skills shortage gap
+  Microcredentials may affect skill level and therefore could be useful to include.
+This paper has discussed six proposals to improve the recognition of skill within ANZSCO. The highest priority proposal is to undertake more frequent review of Occupations in ANZSCO to reflect changes in skill over time. This will be implemented once the comprehensive review and update of ANZSCO is completed in December 2024.
+This paper has also outlined the ABS position regarding the inclusion of microcredentials when recognising skill in ANZSCO. The ABS position regarding microcredentials in ANZSCO is consistent with their treatment in the AQF. Once the Microcredentials Marketplace has been published, analysis of the resulting dataset may be undertaken.
+A summary of all six proposals and the ABS position regarding microcredentials in ANZSCO is provided in Attachment A.
+ANZSCO maintenance strategy: core components 
+ANZSCO’s current recognition of skill level aligns with the AQF and therefore excludes microcredentials.
+  The International Standard Classification of Occupations,  is an international skill based classification of occupations. ANZSCO needs to align with this classification to maintain international comparability
+  Skills Problem Statement, 
+  Skill’s Options Paper, Skills in  
+  ANZSCO – 2021 Australian update, ANZSCO  
+  
+  ANZSCO maintenance strategy: core components 
+  National Skills Commission,  
+  Employability skills (sub section in the UNDERLYING CONCEPTS section of the page), 
+  JobJumpStart, 
+  National Skills Commission, 
+  Australian Qualifications Framework, 
+  AlphaBeta.com, 
+  Department of Education, 
+  Ministers' Media Centre, Ministers of the Education, Skills and Employment Portfolio   
+  Community Grants Hub,  
+  Department of Education, 
+  Department of Education, 
+  ANZSCO’s current recognition of skill level aligns with the AQF and therefore excludes microcredentials.

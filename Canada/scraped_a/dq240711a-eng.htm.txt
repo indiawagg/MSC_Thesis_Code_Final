@@ -1,0 +1,11 @@
+Date:
+2024-07-11
+Article Title:
+The Daily — Canadian System of Environmental–Economic Accounts: Water use, 2021
+Article Content:
+Released: 2024 07 11
+In 2021, total water use in Canada reached 36.1 billion cubic metres, continuing the relatively stable trend that began in 2015 (Chart 1). The sharp decline in total industrial water use from 2009 to 2011 ( 9.1%) can largely be attributed to decreased water use in the electric power generation, transmission and distribution industry ( 9.5%).
+Industrial water use totalled 32.9 billion cubic metres in 2021 (91.2% of total water use), also having remained fairly consistent since 2015. Industrial water use intensity was 15.7 cubic metres per $1,000 of real gross domestic product (2017 constant prices) in 2021.
+The electric power generation, transmission and distribution industry accounted for over two thirds (69.5%) of all water used by industries in Canada in 2021, followed by crop production (6.2%) and animal production (4.8%). From 2019 to 2021, water use in the crop production industry increased 30.9%, while water use in that of animal production increased 21.1%. These increases were the largest to occur among Canadian industries in 2021 and coincided with low levels of precipitation, particularly in the Prairie provinces. Alberta has held the highest share of irrigation volume nationally, as estimated by the Agricultural Water Survey, since the beginning of that series in 2010.
+Water used by Canadian households increased in 2021, with their share of total water use rising from 8.4% in 2019 to 8.8% in 2021, representing a period over period increase of 5.7% in water volume. In contrast, Canada's population increased by 1.7% over the same period.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

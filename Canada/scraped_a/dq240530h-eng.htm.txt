@@ -1,0 +1,11 @@
+Date:
+2024-05-30
+Article Title:
+The Daily — Launch of the Rural and Small Town Canada Interactive Dashboards
+Article Content:
+Released: 2024 05 30
+Today, Statistics Canada is launching a new suite of interactive dashboards on the Rural Canada Statistics portal in response to the growing call for granular and location specific data. 
+The Rural and Small Town Canada Interactive Dashboards aim to offer comprehensive insights into the dynamic social, economic and environmental landscape of rural and small town (RST) Canada. This series includes five interactive dashboards focused on (1) the number and size of communities, (2) business counts, (3) business conditions, (4) trade, and (5) employment insurance beneficiaries. 
+These dashboards represent a step forward in improving accessibility to RST data, providing a user friendly and easily navigable interface. Tailored for policymakers, government agencies, researchers, non profit organizations, businesses, and individuals seeking to understand RST areas, the dashboards offer valuable data analyses focused on rural environments, fostering a deeper understanding of the opportunities and challenges faced by RST communities. 
+The Rural and Small Town Canada Interactive Dashboards are now available on the Rural Canada Statistics portal.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

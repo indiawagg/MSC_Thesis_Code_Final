@@ -1,0 +1,19 @@
+Date:
+2017-11-06
+Article Title:
+ ABS releases new Consumer Price Index weights
+
+Article Content:
+The Australian Bureau of Statistics (ABS) has today released new Consumer Price Index (CPI) weights that will be used to compile the CPI from the December quarter 2017, which is due for release on 31 January 2018.
+CPI expenditure weights reflect household spending on goods and services and are calculated using information from a range of ABS surveys, in particular the Household Expenditure Survey.
+The new expenditure weights have been released by the ABS in an information paper entitled Introduction of the 17th Series Australian Consumer Price Index, 2017. New weights have also been published for the Selected Living Cost Indexes (SLCIs), which is due for release on 7 February 2018.
+The Chief Economist for the ABS, Bruce Hockman, said: “The 17th series CPI weights show metropolitan households continue to spend the greatest proportion of their expenditure on Housing (22.7 per cent), followed by Food and non alcoholic beverages (16.1 per cent) and Recreation and culture (12.7 per cent).”
+The weight for housing expenditure has increased, driven by rents and utilities. Over the past six years, Australia’s capital cities have seen an increase in the proportion of renters; this combined with rental price growth is increasing household expenditure on rents. Utilities expenditure has increased, with households spending more on electricity, gas and water and sewerage charges. Although, households spend more per week on meals out and take away food than on their utilities.
+Mr Hockman added: “While Food and non alcoholic beverages remain a large component of household expenditure, the proportion spent on food and non alcoholic beverages has fallen compared to 2011. This is partially due to retail competition putting downward pressure on the prices of food and non alcoholic beverages.”
+In dollar terms, the largest increase in household expenditure was in service related industries. Expenditure on child care (127.1 per cent), international holiday travel and accommodation (59.9 per cent) and education (55.8 per cent) have all seen significant increases.
+Further information is available in Introduction of the 17th Series Australian Consumer Price Index, 2017 (cat. No. 6470.0.55.001) available from the ABS website: .
+  The 17th series CPI and SLCI weights will be implemented in the December quarter 2017 releases of Consumer Price Index, Australia (cat. No. 6401.0) and Selected Living Cost Indexes, Australia (cat. No. 6467.0).
+  Further information is available in  (cat. No. 6470.0.55.001). Associated with this information paper are two data cubes available on the ABS website:  (cat. No. 6473.0) and  (cat. No. 6474.0), containing the detailed weights and average weekly expenditures for the two sets of indexes.
+  When reporting ABS data you must attribute the Australian Bureau of Statistics (or the ABS) as the source.
+  For media requests and interviews, contact the ABS Communications and Partnerships Section on 1300 175 070 (8.30am 5pm Mon Fri).
+  Subscribe to our  to notify you of ABS media releases or publications upon their release. 

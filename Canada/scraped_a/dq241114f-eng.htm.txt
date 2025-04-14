@@ -1,0 +1,11 @@
+Date:
+2024-11-14
+Article Title:
+The Daily — National and provincial input-output multipliers, 2021
+Article Content:
+Released: 2024 11 14
+The national and provincial input output multipliers for 2021 are now available. 
+The national and interprovincial input output model simulations for 2021 are also available.
+The service Input Output Model Simulations (National Model) (Catalogue number36230001) is now based on the 2021 supply and use tables. 
+The service Input Output Model Simulations (Interprovincial Model) (Catalogue number36230002) is now based on the 2021 supply and use tables.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

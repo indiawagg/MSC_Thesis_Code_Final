@@ -1,0 +1,938 @@
+Article Content:
+ Over deze publicatie
+
+De Financieringsmonitor verschaft inzicht in de mate waarin het mkb behoefte heeft aan financiering voor haar bedrijfsvoering en hoe succesvol die zoektocht naar externe middelen is. Met een enquête onder 5 000 ondernemingen is de gehele zoektocht naar financiering in beeld gebracht: van behoefte tot aan uitkomst. Ook de impact van kansen en belemmeringen die bedrijven ervaren in de bedrijfsvoering is onderzocht.
+
+Dit is de vijfde editie van de monitor uitgevoerd door het CBS. De uitkomsten gelden voor het mkb in de business economy in het jaar dat loopt van juli 2021 tot juli 2022. Daarnaast bevat de Financieringsmonitor een schets van recente ontwikkelingen op de Nederlandse financieringsmarkt voor acht vormen van financiering: bancair krediet, crowdfunding, direct lending, factoring, kredietunies, leasing, mkb-beurs en private equity.
+
+Bekostigd door: Ministerie van Economische Zaken en Klimaat.
+
+
+
+Samenvatting
+
+Van alle bedrijven in het mkb in de business economy heeft 16 procent behoefte aan nieuwe externe financiering. Van de groep bedrijven met een financieringsbehoefte zet 79 procent serieuze stappen om de mogelijkheden te verkennen. Van de bedrijven die zich hebben georiënteerd of die al bekend waren met de mogelijkheden, besluit vervolgens 56 procent daadwerkelijk een financieringsaanvraag te doen. Daarvan is 91 procent succesvol. Zij krijgen het aangevraagde bedrag geheel of ten dele. Deze cijfers, uit de Financieringsmonitor 2022, zijn gebaseerd op de periode juli 2021 tot juli 2022. Andere opvallende uitkomsten zijn als volgt:
+
+Behoefte aan financiering verder afgenomen
+
+Ten opzichte van de vorige Financieringsmonitor hebben iets minder bedrijven een nieuwe externe financieringsbehoefte. Voor het mkb als geheel is deze afname niet statistisch significant. Deze afname is alleen te zien in de sectoren handel, vervoer en horeca en de zakelijke dienstverlening. De financieringsbehoefte is voor oudere bedrijven afgenomen ten opzichte van vorig jaar en voor jongere bedrijven licht toegenomen. De voornaamste reden om geen externe financieringsbehoefte te hebben, is dat bedrijven geen aanleiding zagen om nieuwe externe financiering aan te vragen. Andere veelvoorkomende redenen waarom bedrijven geen externe financieringsbehoefte hebben, zijn dat men een beroep doet op het intern eigen vermogen of dat men onafhankelijk wil blijven van financiers. Bedrijven die geen financieringsbehoefte hebben, hebben over het algemeen dan ook een hogere solvabiliteit en liquiditeit dan bedrijven die dat wel hebben. Daarnaast hebben bedrijven die gestegen kosten als belemmering zien vaker een financieringsbehoefte dan bedrijven die geen belemmering van gestegen kosten ervaren.
+
+Afname oriëntatie via de bank door mkb vlakt af
+
+Van de bedrijven met een financieringsbehoefte, zet de overgrote meerderheid ook stappen om zich te oriënteren op externe financiering. Net als in voorgaande jaren is de bank het voornaamste kanaal waar mkb-bedrijven een beroep op doen om zich te oriënteren op externe financiering: 62 procent stapt direct naar de bank om de mogelijkheden te bespreken. De afgelopen jaren nam het aandeel mkb-bedrijven dat via de bank de mogelijkheden tot financiering verkende telkens af. Dit jaar is de daling afgevlakt, aangezien in 2021 63 procent van deze bedrijven via de bank de mogelijkheden tot financiering verkende. Bedrijven in het midden- en kleinbedrijf oriënteren zich over het algemeen vaker via de bank dan bedrijven in het microbedrijf. Na de bank worden de accountant en financieel adviseur het vaakst als informatiekanaal gebruikt: namelijk door iets meer dan een derde van de bedrijven.
+
+Na twee jaar van daling weer een toename van mkb-ondernemers die overgaan tot een financieringsaanvraag
+
+Voor het eerst sinds de monitor van 2019 is binnen het mkb het aandeel bedrijven dat na behoefte en oriëntatie tot een financieringsaanvraag komt toegenomen. In het grootbedrijf nam het aantal bedrijven dat een aanvraag deed juist af. De meest voorkomende redenen om na oriëntatie toch geen aanvraag te doen zijn om de financieringsbehoefte toch intern te financieren (met name bij het grootbedrijf) en de wens om onafhankelijk te blijven.
+
+Kans op geslaagde financiering neemt weer toe
+
+De afgelopen jaren bleef het percentage (deels) succesvolle aanvragen dalen, maar dit jaar is weer een toename te zien, namelijk tot 91 procent. Deze toename is statistisch significant. De afgelopen jaren was het al zo dat de kans op een geslaagde financiering toenam met de grootte van het bedrijf. Vergeleken met vorig jaar is het verschil kleiner geworden. Het midden- en grootbedrijf zijn ongeveer even succesvol als vorig jaar in het aanvragen van financiering. Het micro- en kleinbedrijf heeft vergeleken met het voorgaande jaar vaker succes en deze toename is statistisch significant.
+
+De Financieringsmonitor
+
+Het Centraal Bureau voor de Statistiek (CBS) stelt de Financieringsmonitor samen in opdracht van het ministerie van Economische Zaken en Klimaat (EZK). De eerste editie ging over de periode juli 2017 tot juli 2018. Sindsdien is er ieder jaar een nieuwe editie verschenen. Dit onderzoeksrapport bevat de uitkomsten van de vijfde meting en gaat over de periode juli 2021 tot juli 2022.
+
+De monitor bestaat uit een verkenning van de vraagzijde van de markt voor financiering. Met een digitale enquête onder 10 000 ondernemingen, waarvan er bijna 5 000 respondeerden, is de gehele zoektocht naar financiering in beeld gebracht: van behoefte tot aan uitkomst.
+
+
+
+Inleiding
+
+Sinds 2018 stelt het Centraal Bureau voor de Statistiek (CBS) de Financieringsmonitor samen in opdracht van het Ministerie van Economische Zaken en Klimaat (EZK). Het doel van de monitor is om een overzichtelijk beeld te geven van de Nederlandse markt voor externe financiering voor bedrijven in het midden- en kleinbedrijf (mkb). Daarvoor wordt de zoektocht naar financiering van ondernemers gevolgd en een schets gegeven van recente ontwikkelingen op de Nederlandse financieringsmarkt. Deze vijfde editie van de monitor heeft betrekking op de periode die loopt van 1 juli 2021 tot 1 juli 2022.
+
+De Financieringsmonitor bestaat uit drie onderdelen. De voornaamste uitkomsten worden beschreven in dit onderzoeksrapport. Het geeft op interactieve wijze meer detailinformatie en kan als naslagwerk gebruikt worden. Ten slotte worden de analysedata die voortkomen uit de monitor beschikbaar gesteld aan gebruikers van de van het CBS. Zo kunnen ook anderen de zoektocht naar financiering van het mkb onderzoeken.
+
+1.1 Aanpak
+
+De zoektocht van het mkb naar financiering wordt in deze monitor in beeld gebracht met een digitale enquête waarvoor ongeveer 10 000 ondernemingen zijn benaderd en waar bijna 5 000 respondenten aan mee hebben gedaan. Dit is een steekproef uit de totale populatie van ongeveer 302 000 midden- en kleinbedrijven met minimaal 2 werkzame personen in de business economy, aangevuld met grootbedrijf en landbouw om te kunnen benchmarken. De resultaten die op basis van deze steekproef in de monitor worden weergegeven zijn representatief voor de hele populatie, maar zijn dus schattingen van de uitkomsten voor alle bedrijven. Daarom zijn er 95%-betrouwbaarheidsintervallen opgenomen voor de belangrijkste indicatoren.
+
+Vraag en aanbod
+
+Met de zoektocht naar externe financiering wordt een deel van de markt voor financiering in beeld gebracht. Een markt bestaat uit vraag en aanbod. De vraag naar financiering vindt zijn oorsprong bij bedrijven en dat is wat deze Financieringsmonitor in kaart brengt. Het aanbod bestaat uit al het geld dat de banken, non-bancaire financiers, institutionele investeerders, private investeerders, betrokken consumenten, en zo verder, uit zouden willen zetten. Deze monitor beperkt zich tot een overzicht van recente ontwikkelingen in het verstrekte aanbod voor acht vormen van financiering: bankkredieten, crowdfunding, equipment lease, factoring, private equity inclusief durfkapitaal, direct lending, de mkb-beurs en kredietunies. Alle data komen uit bronnen buiten het CBS en zijn enkel verzameld om deze in samenhang te presenteren. Dit is ondersteunende informatie. Het geeft een context waarbinnen de vraag naar financiering gezien moet worden.
+
+Waar heeft de monitor betrekking op?
+
+De onderzoekspopulatie van de monitor is het mkb in de business economy. Het mkb bestaat uit bedrijven met minder dan 250 werkzame personen. Bedrijven van zzp’ers (met 1 werkzaam persoon) laten we buiten beschouwing. De business economy is een onderdeel van de totale economie (zie ook paragraaf 3.2). De onderzoekseenheid is de bedrijfseenheid (BEID) zoals die door het CBS gedefinieerd wordt.
+
+Het grootbedrijf behoort niet tot het mkb, de landbouw niet tot de business economy. Als er cijfers over het mkb in de monitor staan, is dat dus zonder die groepen bedrijven. Cijfers naar sector hebben alleen betrekking op het mkb in die sector, cijfers naar grootteklasse alleen op de business economy in die grootteklasse. Toch zijn er soms resultaten voor het grootbedrijf en de landbouw opgenomen. Die staan dan los van de andere uitkomsten, maar dienen als benchmark.
+
+Special familiebedrijven
+
+Dit jaar is er extra aandacht voor de zoektocht naar financiering door familiebedrijven. In bijlage A wordt de zoektocht naar financiering en waar mogelijk de achterliggende redenen voor keuzes die familiebedrijven daarin maken afgezet tegen deze zoektocht door niet-familiebedrijven.
+
+De gevolgen van het coronavirus
+
+In deze editie van de Financieringsmonitor worden de gevolgen van de coronacrisis minder uitgebreid besproken dan in de twee voorgaande edities. De gevolgen van het coronavirus zijn nog wel opgenomen als antwoordmogelijkheden bij verschillende vragen en waar het vermeldenswaardig is wordt hier in de tekst van het rapport aandacht aan besteed. Nieuw ten opzichte van voorgaande edities is dat bedrijven nu ook kunnen aangeven dat zij de schuldenlast als gevolg van de coronaperiode als uitdaging ervaren.
+
+1.2 Leeswijzer
+
+De rest van de monitor is als volgt opgezet. Hoofdstuk 2 geeft een overzicht van recente ontwikkelingen in bancaire financiering en verschillende vormen van non-bancaire financiering. Hoofdstuk 3 is een leeswijzer voor de hoofdstukken die daarna volgen en voor de zoektocht van bedrijven naar externe financiering. Het gaat in op de interpretatie van uitkomsten voor de zoektocht: de trechterwerking van het zoekproces, de populatie en marges rondom de uitkomsten. Hoofdstuk 4 beschrijft de financieringsbehoefte en hoofdstuk 5 de oriëntatiefase. Hoofdstuk 6 en 7 gaan in op de echte aanvraag van financiering: het proces en de uitkomst. Vervolgens bespreekt hoofdstuk 8 de resultaten rondom de verwachte financieringsbehoefte in de toekomst. Tot slot is een hoofdstuk over familiebedrijven en hun zoektocht naar externe financiering opgenomen als bijlage A. De Financieringsmonitor sluit af met een aparte onderzoeksverantwoording, met aandacht voor de methodiek achter de enquête, een begrippenlijst en een bronnenoverzicht.
+
+
+
+
+
+Noten
+
+De vorige Financieringsmonitor is gepubliceerd op de van het CBS.
+
+Het responspercentage komt daardoor uit op 50 procent, net iets hoger dan de 49 procent van vorig jaar.Ontwikkelingen op de markt voor bedrijfs­financiering
+
+Nadat in 2020 de economie forse klappen kreeg vanwege het coronavirus, was er in 2021 weer sprake van herstel. Het bbp groeide, consumenten- en overheidsuitgaven namen toe na een periode van krimp en mede door omvangrijke steunpakketten van de overheid bleven grootschalige liquiditeitstekorten en faillissementen bij bedrijven uit. Problemen in de reële economie bleven hierdoor beperkt en sloegen niet over naar het financiële systeem. Maar de oorlog in Oekraïne, de krapte op de arbeidsmarkt, grondstofschaarste en de alsmaar oplopende prijzen zorgden in 2022 voor een dalend consumenten- en producentenvertrouwen, waardoor een nieuwe crisis dreigt.
+
+Dit hoofdstuk is bedoeld om de uitkomsten van de Financieringsmonitor in een breder perspectief te plaatsen. Het beschrijft eerst de ontwikkelingen in de economie en daarna de ontwikkelingen op de bancaire en non-bancaire markten voor financiering in 2021 en het eerste kwartaal van 2022. Daar wordt enige duiding aan gegeven met behulp van een niet-uitputtende selectie van recent onderzoek.
+
+2.1 De Nederlandse economie herstelt na jaar van krimp, maar onrust blijft
+
+In navolging van 2020 kwamen in 2021 wederom bedrijfstakken zoals de horeca, cultuur en recreatie soms vrijwel stil te liggen door contactbeperkende maatregelen. Dit keer wel korter van duur, waardoor de economische impact een stuk minder groot was dan in 2020. De eerste helft van 2021 begon dan wel met de strengste maatregelen tot dan toe om de coronacrisis te beteugelen maar eindigde met een steeds verder herstellende economie en er was zelfs weer sprake van groei van het bbp. Echter zorgt in 2022 de aanhoudende onzekerheid op veel andere terreinen voor zowel een laag producenten- als consumentenvertrouwen en ligt een nieuwe crisis op de loer.
+
+Na een ongekende daling van het bbp zijn er nu weer vier kwartalen op rij van groei
+
+De gevolgen van de coronapandemie hebben tot een crisis geleid die zorgde voor één van de grootste dalingen van het Nederlandse bbp sinds de Tweede Wereldoorlog. Maar waar 2020 nog meerdere kwartalen lang forse dalingen liet zien in het bbp ten opzichte van een jaar eerder, is er in 2021 en het eerste kwartaal van 2022 geen sprake meer van krimp (CBS, 2022a). De groei is met name te danken aan het grotere handelssaldo en de hogere consumptie door huishoudens en de overheid. Ook is er meer geïnvesteerd dan in 2020 (CBS, 2022b). De forse groei bij consumentenuitgaven komt onder meer doordat de consumptie in 2020 op een laag niveau lag: er was meermaals sprake van een lockdown. Consumenten gaven afgelopen maanden vooral meer uit aan horeca, cultuur en recreatie, kleding en woninginrichting. Ook de overheidsconsumptie was hoger dan een jaar eerder, door onder meer extra zorguitgaven aan bijvoorbeeld boostervaccinaties (CBS, 2022b). Daarnaast heeft de Nederlandse overheid ook in 2021 met financiële steunpakketten geprobeerd de economie te ondersteunen. De overheid gaf in de eerste drie kwartalen ruim 20 miljard euro uit aan corona gerelateerde maatregelen (onder andere NOW, TOZO en TVL). Dat is bijna 4 miljard euro meer dan in dezelfde periode van 2020. In dat jaar kwam het bedrag aan steun uit op bijna 27 miljard euro (CBS, 2022c). Daarnaast is er ook nog sprake van uitgestelde belastingen en is het aantal faillissementen laag vergeleken met de periode voor de coronacrisis (CBS, 2022d).
+
+Stijgende prijzen en schaarste van grondstoffen leidt tot hoge inflatiecijfers
+
+Als gevolg van onder meer stijgende prijzen voor grondstoffen en voedsel, leveringsproblemen en de opstart van de economie na de coronacrisis zijn de prijzen van consumentengoederen- en diensten fors gestegen in de afgelopen maanden (CPB, 2022a). De inflatie is in april 2022 opgelopen tot 9,6 procent (CBS, 2022e) en ook de kerninflatie betreft 3,9 procent in Nederland. Dit illustreert dat de stijging van de energie- en voedselprijzen de voornaamste component is van de hoge inflatie, maar dat deze ook door begint te sijpelen in andere consumentenprijzen. De stijging van de energieprijzen is het resultaat van een toegenomen vraag naar olie en gas in combinatie met achterblijvend aanbod daarvan (CPB, 2022a). De aanhoudende krapte op de arbeidsmarkt, stijgende gas-, huizen- en goederenprijzen, renteontwikkelingen en de oorlog in Oekraïne zorgen ervoor dat het vertrouwen bij zowel consumenten als producenten hard daalt.
+
+Consumenten en producenten maken zich zorgen
+
+Het consumptieniveau van huishoudens neemt dan wel toe, maar het consumentenvertrouwen daalde in juli 2022 verder naar –‍51. Consumenten waren zowel somber over de afgelopen als de komende twaalf maanden; hierin speelt de oorlog in Oekraïne een grote rol. Het negatieve consumentenvertrouwen uit zich onder andere in dalende cijfers over het economisch klimaat (–‍71) en de koopbereidheid (–‍38). Consumenten maken zich zorgen over de alsmaar stijgende prijzen: men vindt het een ongunstig moment om grote aankopen te doen (–‍56). Nog nooit oordeelden zoveel mensen hier negatief over (CBS, 2022f).
+
+Eind 2021 bereikte het producentenvertrouwen nog een nieuw hoogtepunt (12,7), inmiddels daalt het gestaag (mei 2022; 9,9). Het cijfer blijft echter wel positief en wisselt bovendien sterk per bedrijfstak (CBS, 2022g). Door de aanhoudende problemen bij internationale aanvoerlijnen door de coronacrisis en de daardoor beperkter beschikbare voorraden zien we dat het vertrouwen voornamelijk bij bedrijven in de industriesector daalt. Sinds de start van de oorlog in Oekraïne daalt ook het vertrouwen bij bedrijven in de aardolie en chemiesector sterk (CBS, 2022h). Uit de conjunctuur enquête (COEN) blijkt dat bedrijven zich voornamelijk zorgen maken over de voorraden: ruim een derde van de ondernemers gaf bij het begin van het tweede kwartaal aan belemmerd te worden door een tekort aan productiemiddelen, materiaal en ruimte. Dat aandeel is niet eerder zo hoog geweest (CBS, 2022i).
+
+De komende maanden zal duidelijk worden in welke mate bedrijven last gaan krijgen van de krapte op de arbeidsmarkt. Eind juni 2022 stonden er 467 duizend vacatures open, 16 duizend meer dan aan het einde van het eerste kwartaal. Daarmee bereikte het aantal openstaande vacatures opnieuw een recordstand. Het is het achtste kwartaal op rij dat het aantal vacatures toeneemt. In twee jaar tijd is het aantal openstaande vacatures meer dan verdubbeld (CBS, 2022j). Net als in voorgaande kwartalen stonden de meeste vacatures open in de handel (90 duizend), de zakelijke dienstverlening (74 duizend) en de zorg (61 duizend). Gezamenlijk zijn deze drie bedrijfstakken goed voor de helft van alle openstaande vacatures. Echter speelt het personeelstekort inmiddels bij alle sectoren: aan het einde van het eerste kwartaal stonden bij alle bedrijfstakken meer vacatures open dan in het kwartaal ervoor (CBS, 2022k).
+
+2.2 Kredietverlening neemt weer toe en ECB grijpt in om inflatie te remmen
+
+Tijdens de coronacrisis was er in 2020 een terugloop te zien van nieuwe kredietverlening door banken aan het bedrijfsleven. Deels ontstond dit door verminderde investeringsbereidheid van bedrijven zelf, maar anderzijds gaf een meerderheid van de banken aan zelf ook voor het eerst, na een periode van versoepelingen, de acceptatiecriteria weer te hebben aangescherpt (CBS, 2022l).
+
+Figuur 2.2.1 laat zien dat het aantal nieuw verstrekte leningen aan bedrijven weer fors (21 procent) toenam in 2021, echter geheel veroorzaakt door leningen groter dan 1 miljoen euro. De grote stijging eind 2021 wordt grotendeels veroorzaakt door uitgifte van TLTRO’s door de ECB: een liquiditeit verschaffend instrument dat speciaal gericht is op het op peil houden of vergroten van de kredietverlening aan bedrijven en consumenten) (ECB, 2022b). Het volume aan nieuwe kredietverlening onder de 1 miljoen euro is 14 procent gekrompen ten aanzien van een jaar eerder (DNB 2022e). Ook laat figuur 2.2.2 zien dat het volume aan leningen in de hoogste bedragsklasse blijft stijgen, terwijl het volume aan uitstaande leningen tot 1 miljoen krimpt. De grootste daling in de uitstaande portefeuille vindt plaats bij (alle bedragklasses van) de rekening-courantkredieten: in 2021 ligt dit aantal eveneens 14 procent lager dan in 2020. Als we kijken naar de bedrijfstakken valt het op dat de uitstaande leningen voor bedrijven die zich bezig houden met de exploitatie van en handel in onroerend goed met 30 procent is afgenomen ten opzichte van een jaar eerder. Daarmee is deze bedrijfstak niet langer de sector met de meeste uitstaande leningen: dit verschuift naar de groothandel, detailhandel en autohandel (19 procent van het totaal).
+
+Wet Homologatie Onderhands Akkoord ingegaan per 1 januari 2021
+
+Op 1 januari 2021 is de wet Homologatie Onderhands Akkoord (WHOA) ingegaan. Deze wet schrijft voor dat een akkoord over het terugbrengen van de schulden niet meer kan worden gedwarsboomd door een individuele schuldeiser of aandeelhouder. Bedrijven die vanwege een te zware schuldenlast failliet dreigen te gaan, maar nog wel beschikken over bedrijfsactiviteiten die levensvatbaar zijn, kunnen dankzij deze wet makkelijker doorgaan met deze activiteiten en zodoende een faillissement voorkomen (Rijksoverheid, 2022b). Wat het effect van deze wet in de praktijk gaat zijn moet nog blijken.
+
+Europese Centrale Bank grijpt in door verhoging van de rente en breidt instrumenten uit
+
+Om de oplopende inflatie in de eurozone te remmen, heeft de ECB besloten de monetaire steunpakketten (het volume van aankopen onder het Asset Purchase Programme (APP) af te bouwen. Ook maakte zij daarnaast in juli bekend de beleidsrentes te verhogen met 0,5 procentpunt, de eerste verhoging sinds 2011. De rentestijging maakt een einde aan een acht jaar durende periode van negatieve rente, en heeft als doel om voor heel Europa de alsmaar stijgende inflatie te beteugelen (ECB, 2022a). De renteverhoging is nog niet zichtbaar in figuur 2.2.3 omdat deze tot en met 2021 loopt. De figuur laat zien dat het rentepercentage voor nieuwe bankleningen sinds 2011 gestaag afnam.
+
+Naast de langverwachte renteverhoging heeft de ECB ook een nieuw transmissie-beschermingsinstrument (transmission protection instrument (TPI)) aangekondigd. Dit is een monetair instrument gericht op het veiligstellen van een evenwichtige transmissie van het monetaire beleid in het hele eurogebied, een voorwaarde voor het bereiken van prijsstabiliteit. Concreet wil de ECB hiermee voorkomen dat een renteverhoging in het ene land disproportioneel sterker doorwerkt dan in het andere land (DNB, 2022a).
+
+Niet alleen op Europees niveau wordt er hard nagedacht hoe de effecten van de hoge inflatie te temperen, ook in Nederland treft de overheid maatregelen om bedrijven en burgers tegemoet te komen. Zo is de accijnsbelasting tijdelijk verlaagd in 2022 (Belastingdienst, 2022) en worden huishoudens (en ook kleine bedrijven zoals bedrijven aan huis) gecompenseerd voor de hoge energieprijzen: het tarief voor energiebelasting op elektriciteit is verlaagd en er is een hogere teruggave van energiebelasting voor alle huishoudens. Additioneel ontvangen de huishoudens met een laag inkomen een eenmalige energietoeslag van 1 300 euro (Rijksoverheid, 2022a).
+
+2.3 De markt voor non-bancaire financiering herstelt na een jaar van daling
+
+Jarenlang kenden de belangrijkste vormen van non-bancaire financiering in Nederland consequente groei. De schok van de coronacrisis heeft de continue groei die veel non-bancaire financieringsvormen in het afgelopen decennium kenden tijdelijk onderbroken. In 2020 nam het totale financieringsbedrag bij veel type financieringsvormen af, maar zagen we dat het aantal geholpen bedrijven met financiering van kleinere bedragen tot 50 000 euro wel toenam (SMF, 2021). In 2021 en het eerste halfjaar van 2022 lijkt de markt zich weer te herstellen: bijna alle vormen van non-bancaire financiering nemen weer toe in volume ten aanzien van 2020 en ook het aantal financieringen blijft toenemen. Ten aanzien van 2020 (17 procent) is in 2021 (22 procent) het aandeel non-bancaire financieringen tot 1 miljoen euro ten opzichte van het totaal (bancair en non-bancair) toegenomen (SMF, 2021).
+
+Volume aan factoring en equipment lease stijgt, private equity neemt af
+
+De grootste volumes qua non-bancaire financiering blijven equipement lease, factoring en private equity. Waar de eerste twee in 2021 groeien in volume ten aanzien van 2020, krimpt het volume van private equity met 14 procent ten aanzien van een, relatief hoog, jaar eerder. Opvallend is daarnaast de sterke stijging in eigen vermogensfinanciering voor startups door middel van durfkapitaal.
+
+Volume crowdfunding weer ruim boven niveau van voor de crisis, aantallen blijven stijgen
+
+De omvang van crowdfunding nam in een tijdsbestek van zeven jaar met bijna 3 000 procent toe van 14 miljoen euro in 2012 tot 424 miljoen in 2019. In 2020 stokte deze groei voor het eerst, maar in 2021 lijkt deze markt zich weer te herstellen. Afgelopen jaar waren er 15 700 bedrijven die financiering hebben ontvangen middels crowdfunding, in 2020 waren dit er nog 12 762; een toename van 23 procent. De omvang van de totale financiering kende een nóg sterkere groei (75 procent): van 417 miljoen euro in 2020 naar 730 miljoen euro in 2021, voornamelijk veroorzaakt door groei in de categorieën boven de 250 duizend euro.
+
+Vastgoed vaker gefinancierd door non-bancaire partijen
+
+De omvang van vastgoedfinanciering via non-bancaire partijen stijgt met 87 procent ten aanzien van 2020 en komt in 2021 uit op 376 miljoen euro. Hiermee komt het aandeel vastgoedfinancieringen uit op 12 procent van het totale bedrag aan non-bancaire financiering. In 2020 was dit nog 8 procent (201 miljoen euro) (SMF, 2021).
+
+Het grootste aandeel van de totale financiering via crowdfunding voor ondernemingen blijft financiering middels een lening, financiering middels aandelen neemt toe
+
+Qua volume geldt voor zowel 2020 als 2021 dat ruimschoots het grootste aandeel van de totale financiering via crowdfunding de financiering voor ondernemingen betreft (circa 90 procent). De belangrijkste bron blijft nog altijd financiering middels een lening (89 procent), maar in 2021 verdubbelt ook crowdfunding door de verkoop van aandelen (4 procent) ten aanzien van 2020 (2 procent), een viervoud qua volume (Crowdfundingcijfers.nl, 2022).
+
+Het aantal crowdfundingplatforms neemt af, de grote platforms groeien
+
+Er lijkt dit jaar voor het eerst echt sprake te zijn van consolidatie in de markt voor crowdfunding: er zijn in 2021 minder crowdfunding platforms actief in Nederland vergeleken met eerdere jaren. Daarnaast krompen veel kleine platforms in 2021 en groeiden de grote platforms afgelopen jaar juist fors (Crowdfundingcijfers.nl, 2022). In het laatste kwartaal van 2021 is er nieuwe Europese wetgeving van kracht gegaan inzake de crowdfundingmarkt (DNB, 2022f). Dit zorgt er mogelijk voor dat kleine partijen niet langer kunnen voldoen aan de professionelere voorwaarden en of de kosten niet kunnen dragen.
+
+Opheffing van de kredietunie Nederland leidt tot daling van het aantal waarneembare financieringen
+
+Het totaalbedrag aan verstrekte financieringen door de kredietunies is in 2021 sterk afgenomen van 19,9 miljoen in 2020 naar 6,3 miljoen in 2021. Deze afname wordt veroorzaakt door het feit dat Kredietunie Nederland in 2021 is opgeheven: de data voor 2021 bestaat hier enkel nog uit de verstrekte financiering door kredietunies die zijn aangesloten bij de Vereniging van Samenwerkende Kredietunies (SMF, 2022).
+
+
+
+
+
+Noten
+
+De indicator van het consumentenvertrouwen is het gemiddelde van de saldi van de percentages van positieve en negatieve antwoorden op de vragen over de economische situatie in de afgelopen en komende 12 maanden, de financiële situatie van het huishouden in de afgelopen en komende 12 maanden en of het een gunstige tijd is om grote aankopen te doen. De indicator kan een waarde aannemen van –‍100 (iedereen antwoordt negatief) tot +100 (iedereen antwoordt positief). Bij een waarde van 0 is het aandeel pessimisten gelijk aan het aandeel optimisten.
+
+Figuur 2.2.1 en de bijbehorende alinea betreffen informatie over mkb én grootbedrijven.
+
+Dit betreffen deposito’s en leningen van MFI’s aan niet-financiële bedrijven.
+
+De cijfers in deze paragraaf hebben betrekking op niet-bancaire financieringsvormtotalen, voor mkb én grootbedrijf samen.De zoektocht naar financiering
+
+De komende hoofdstukken beschrijven de zoektocht van ondernemers naar externe bedrijfsfinanciering. Deze zoektocht is een proces dat uit verschillende stappen bestaat. Keuzes en afwegingen die bedrijven in iedere stap maken, komen aan bod. Dit hoofdstuk is de leeswijzer tot die zoektocht. Het staat stil bij de manier waarop de rest van de monitor is opgebouwd, bij de onderzoekspopulatie en de verschillende typen bedrijven die worden onderscheiden. Dit hoofdstuk neemt ook al een voorschot op de belangrijkste uitkomsten en sluit af door de beschikbaarheid van externe financiering in perspectief te plaatsen ten opzichte van andere uitdagingen voor de bedrijfsvoering.
+
+3.1 Het aantrekken van financiering als proces
+
+In deze monitor wordt het gehele traject van behoefte tot daadwerkelijk aantrekken van externe financiering beschouwd als een proces dat uit een aantal stappen bestaat. Als eerste is er een mogelijke behoefte aan financiering. Als tweede is er de fase van oriëntatie . Ondernemers met een serieuze behoefte zetten stappen om informatie in te winnen over hun mogelijkheden. Als derde volgt een echte aanvraag als die kansrijk lijkt tijdens de oriëntatie en als vierde is er de uitkomst van de aanvraag. Die vier stappen hebben in deze monitor allemaal betrekking op de periode van 1 juli 2021 tot 1 juli 2022. Tot slot is er nog een vijfde stap: de verwachte behoefte aan financiering in de toekomst . Het gaat dan om de periode 1 juli 2022 tot 1 juli 2023. Dit gehele proces ziet er als volgt uit:
+
+Het gaat in deze monitor steeds om nieuwe, externe financiering. Dat zijn alle vormen van vreemd vermogen en extern eigen vermogen. Voorbeelden van extern eigen vermogen zijn crowdfunding met aandelen of private equity. Het gaat dus niet om intern eigen vermogen. Dat is financiering uit het bedrijfsresultaat of als een ondernemer beroep doet op zijn of haar eigen middelen.
+
+Steeds specifiekere resultaten verder in het proces
+
+Niet elk bedrijf heeft behoefte aan externe financiering. Niet alle bedrijven met een financieringsbehoefte gaan ook daadwerkelijk op zoek of doen een aanvraag. Er is daarom sprake van een trechterwerking waardoor er in iedere stap minder bedrijven overblijven. In termen van de enquête waar de monitor op gebaseerd is: vragen worden steeds specifieker naarmate het proces van de zoektocht vordert en de steekproef wordt dus steeds kleiner.
+
+Van de onderzoekspopulatie heeft 16 procent een financieringsbehoefte. Van die bedrijven met een financieringsbehoefte verkent 79 procent ook echt de mogelijkheden om financiering aan te trekken. De relevante populatie is in dat geval dus de groep bedrijven met een financieringsbehoefte. Het is ook mogelijk om bedrijven die zich oriënteren te relateren aan de totale populatie. Op deze wijze uitgedrukt, heeft 13 procent (16 procent * 79 procent) van alle bedrijven zich georiënteerd op financiering. Dat ziet er als volgt uit voor het mkb in de business economy:
+
+3.2 Beschrijving onderzoekspopulatie
+
+De hoofdpopulatie van de monitor bestaat uit alle bedrijven in het mkb in de business economy. Het mkb bestaat uit bedrijven met minder dan 250 werkzame personen. Er wordt daarnaast een ondergrens van 2 werkzame personen gehanteerd; zzp’ers behoren dus niet tot de onderzoekspopulatie. De business economy komt ruwweg neer op de marktgerichte bedrijfstakken (dus bijvoorbeeld zonder overheid) en exclusief de landbouw en de financiële dienstverlening. Als er in de monitor uitkomsten genoemd worden zonder verbijzondering (bijvoorbeeld naar grootteklasse) hebben ze altijd betrekking op het gehele mkb in de business economy, vanaf 2 werkzame personen. De populatie van de Financieringsmonitor is bepaald op basis van het Algemeen Bedrijven Register (ABR) met als peilmaand mei 2022. Op dat moment bestond het mkb in de business economy met minstens 2 werkzame personen uit 302 000 bedrijven.
+
+Hoewel de landbouw geen onderdeel vormt van de business economy, zijn er soms toch apart uitkomsten voor deze sector opgenomen. De enquête is namelijk wel in die sector uitgezet om een zo compleet mogelijk beeld te krijgen. De resultaten voor de landbouw zijn echter nooit verwerkt in de totaalcijfers. Hetzelfde geldt voor het grootbedrijf dat is opgenomen als benchmark voor het mkb.
+
+Onderzoekspopulatie in beeld
+
+Op het zijn grafieken opgenomen met de verdeling van het mkb naar bedrijfstak, grootteklasse en bedrijfsleeftijd. Ook zijn grafieken te zien over zes ondernemingstypen en zeven verschillende levensfases, waarbij respondenten hebben aangegeven met welke type(s) en fase zij zich identificeren.
+
+3.3 Interpretatie van resultaten in de monitor
+
+De Financieringsmonitor bevat voornamelijk uitkomsten voor het gehele mkb in de business economy. Die uitkomsten zijn gebaseerd op een steekproef onder 10 000 bedrijven in die doelpopulatie, aangevuld met het grootbedrijf en bedrijven actief in de landbouw. Dit leidt tot bijna 5 000 respondenten. Door middel van weging en ophoging zijn de uitkomsten representatief voor de gehele populatie. Er vindt weging plaats naar werkgelegenheid.
+
+Marges
+
+In deze monitor wordt regelmatig de vergelijking gemaakt met cijfers uit de vorige editie van de Financieringsmonitor. De uitkomsten zijn schattingen op basis van de steekproef. Er zit een bepaalde onzekerheid rondom die geschatte waarde. Dit zijn de 95%-betrouwbaarheids­intervallen waarbinnen de uitkomsten vallen. Dat wil zeggen dat bij herhaling van de enquête de geschatte uitkomst in 95 procent van de gevallen binnen dat interval ligt. Marges zijn in de monitor opgenomen voor de vijf voornaamste indicatoren. Het gaat om het aandeel van het mkb in de business economy…
+
+… met een financieringsbehoefte;
+
+… dat vervolgens de mogelijkheden verkend heeft;
+
+… dat vervolgens een financieringsaanvraag heeft gedaan;
+
+… naar de uitkomsten na een financieringsaanvraag;
+
+… dat een financieringsbehoefte verwacht in het komende jaar.
+
+In de betreffende figuren in de volgende hoofdstukken zijn marges met gekleurde staafjes aangegeven. Voor alle andere indicatoren in de monitor is deze detailinformatie niet gegeven. Dat is gedaan met het oog op de leesbaarheid. Ook bevatten veel vragen in de monitor veel antwoordcategorieën of is een vraag alleen gesteld aan een specifieke subpopulatie waardoor het aantal respondenten erg klein wordt. Verschillen tussen jaren en groepen bedrijven op deze indicatoren moeten dan ook voorzichtig geïnterpreteerd worden.
+
+Waar de betrouwbaarheidsintervallen van de schattingen voor twee groepen bedrijven of van twee jaren elkaar niet overlappen, bestaat er een statistisch significant verschil. Als er sprake is van een overlap, kan er nog steeds een statistisch significant verschil zijn als de overlap klein is. Daarom wordt steeds berekend of er daadwerkelijk sprake is van een statistisch significant verschil. Zo is er in figuur 4.1.1 bijvoorbeeld geen overlap te zien tussen de financieringsbehoefte in 2022 van het kleinbedrijf ten opzichte van het microbedrijf, en toont de berekening dus ook een statistisch significant verschil aan. Vertonen de betrouwbaarheidsmarges wel een grote overlap, dan toont deze meting geen statistisch significant verschil aan. Dat is bijvoorbeeld het geval bij de ontwikkeling van de financieringsbehoefte van het gehele mkb in 2022 ten opzichte van 2021 in diezelfde figuur.
+
+3.4 Uitdagingen voor bedrijven: toegang tot financiering in perspectief
+
+Toegang tot bedrijfsfinanciering kan een belangrijke voorwaarde zijn voor een bedrijf om te investeren en te groeien, maar het is niet de enige uitdaging waar ondernemers dagelijks mee te maken krijgen. Dit jaar zijn gestegen kosten de belangrijkste uitdaging voor het mkb in de business economy: voor meer dan de helft van de bedrijven (57 procent) is dat in meer of mindere mate het geval. Een jaar eerder was dit nog 39 procent en sinds 2019 schommelt dit rond de 35 tot 40 procent. Deze kostenstijging is ook zichtbaar in CBS-statistieken (CBS, 2022m): in juni 2022 was de inflatie 8,6 procent. In de afgelopen twee edities van de Financieringsmonitor was het coronavirus nog de grootste belemmering voor het mkb. 31 procent van het mkb ervaart nu nog belemmeringen door het coronavirus. Een jaar eerder was dat nog 49 procent. Bij het grootbedrijf zijn de gestegen kosten ook belangrijker geworden ten opzichte van een jaar eerder: in 2022 ervaart twee derde van de bedrijven dit als een belemmering ten opzichte van 36 procent in 2021. Binnen het mkb hebben bedrijven in de nijverheid van alle bedrijfstakken met 66 procent het vaakst last van toegenomen kosten. Deze bedrijven zijn over het algemeen ook energie intensiever dan de dienstensector en energie is sterk in prijs gestegen.
+
+Naast de gestegen kosten kampt het mkb vooral met problemen bij het vinden van gekwalificeerd personeel (49 procent) en met regelgeving (33 procent). Net als bij eerdere metingen is het vinden van gekwalificeerd personeel bij het grootbedrijf zelfs de meest voorkomende uitdaging (77 procent). Deze komt daar vaker voor dan vorig jaar (62 procent). Dit geldt ook voor snelgroeiende bedrijven. Verduurzaming en innovatie worden door een relatief kleine groep bedrijven gezien als uitdaging (respectievelijk 12 en 7 procent).
+
+Toegang tot financiering als obstakel
+
+Voor ongeveer 15 procent van de mkb ondernemers is de toegang tot financiering een belemmering. Dit aandeel is licht gedaald ten opzichte van de vorige meting, toen dit 19 procent was. Hoe kleiner het bedrijf, hoe vaker toegang tot financiering een belemmering vormt. Van het microbedrijf beschouwt 15 procent de toegang tot financiering als (zeer) belemmerend. Bij het midden- en grootbedrijf is dit respectievelijk 10 en 1 procent.
+
+Landbouwbedrijven worden vaker dan bedrijven in de business economy belemmerd door moeilijke toegang tot financiering (26 procent). Ook sociale ondernemingen (22 procent) en startups (30 procent) ondervinden bovengemiddeld vaak problemen met het aantrekken van financiering. Het gaat hier meestal om bedrijven die minder zekerheid over hun toekomst kunnen bieden: ze hebben te maken met onzekere baten of onzekere uitkomsten of hebben een beperkte staat van dienst.
+
+Specifieke uitdagingen als gevolg van het coronavirus
+
+Ondanks dat de tijd van lange lockdowns vanwege het coronavirus inmiddels achter ons ligt, ervaren bedrijven nog steeds belemmeringen vanwege het coronavirus. Deze kunnen zich bijvoorbeeld uiten in een schuldenlast vanwege leningen die in 2020 en 2021 zijn aangegaan. 17 procent van de bedrijven ervaart dit in meer of mindere mate als een belemmering. Dit komt met name voor bij bedrijven in de sector handel, vervoer en horeca (22 procent) en bij sociale ondernemingen (27 procent). Voor het grootbedrijf (6 procent) zijn de gevolgen van de schuldenlast minder vaak belemmerend dan voor het mkb.
+
+Verder geeft 29 procent van de mkb-bedrijven aan dat andere gevolgen van het coronavirus dan een schuldenlast, een belemmering vormen. Dit speelt met name bij het klein- (34 procent) en grootbedrijf (37 procent). Binnen het mkb ervaren met name sociale ondernemingen (36 procent), innovatieve bedrijven (35 procent) en startups (34 procent) de overige gevolgen van het coronavirus als belemmerend.
+
+Meer informatie op het dashboard
+
+Op het is een grafiek opgenomen over de uitdagingen. Er kunnen door de gebruiker zelf uitsplitsingen gemaakt worden naar grootteklasse, bedrijfstak en leeftijd. Ook de resultaten van eerdere jaren zijn hier beschikbaar.
+
+
+
+
+
+Noten
+
+De exacte afbakening van de business economy is de SBI-codes B t/m N en 95, exclusief K. Zie onderdeel I.1 in de verantwoording.
+
+Zie de onderzoeksverantwoording voor de formule van de berekening.Behoefte aan externe financiering
+
+De financieringsbehoefte in het mkb in de business economy is licht afgenomen. Tussen juli 2021 en juli 2022 had 16 procent van die bedrijven behoefte aan externe financiering. Een jaar eerder was dit nog 19 procent. Deze afname is enkel te zien in het micro- en kleinbedrijf. In het midden- en grootbedrijf is de behoefte licht toegenomen. De meest voorkomende reden waarom bedrijven geen financieringsbehoefte hebben, is omdat er geen aanleiding is om nieuwe externe financiering aan te vragen.
+
+In dit hoofdstuk worden de resultaten van de eerste stap, behoefte, in de zoektocht naar financiering door het bedrijfsleven verder uiteengezet. De volgende figuur geeft de positie van dit hoofdstuk in het gehele proces weer.
+
+4.1 Behoefte aan externe financiering verder afgenomen
+
+De behoefte aan externe financiering tussen juli 2021 en juli 2022 is weer licht afgenomen ten opzichte van het voorgaande jaar. Toen had nog 19 procent van het mkb in de business economy financiering nodig, nu is dat 16 procent. Deze afname vindt niet in elke grootteklasse plaats. In het midden- en grootbedrijf zien we juist een toename vergeleken met het voorgaande jaar, waarbij de toename in het grootbedrijf statistisch significant is. De verandering in de andere grootteklassen zijn niet statistisch significant. De financieringsbehoefte van het microbedrijf ligt aanzienlijk lager dan in andere grootteklassen.
+
+De afname in behoefte is binnen de business economy alleen terug te zien in de sector handel, vervoer en horeca en in de zakelijke dienstverlening, maar de afname is niet statistisch significant. Bedrijven in de sectoren landbouw en nijverheid hebben het vaakst een financieringsbehoefte: respectievelijk 23 en 26 procent. Ook vorig jaar had de sector nijverheid het vaakst een financieringsbehoefte.
+
+Ook de financieringsbehoefte van oudere bedrijven (bedrijfsleeftijd 5 jaar of ouder) is iets afgenomen ten opzichte van het voorgaande jaar. Voor jongere bedrijven (bedrijfsleeftijd jonger dan 5 jaar) is deze juist licht toegenomen en is ook hoger dan die van oudere bedrijven. Het gat tussen jongere en oudere bedrijven is dit jaar daarom toegenomen ten opzichte van vorig jaar.
+
+Net als vorig jaar kunnen snelle groeiers (38 procent) nieuwe externe financiering het vaakst gebruiken. Ook startups (36 procent) en innovatieve bedrijven (29 procent) hebben relatief vaak een financieringsbehoefte. Zij hebben externe middelen nodig om groei of vernieuwing te faciliteren, beschikken over een kleinere financiële buffer of kennen onzekerheid over toekomstige kasstromen waardoor externe financiering eerder nodig is. Dochterbedrijven (11 procent) hebben het minst vaak behoefte aan extern middelen, net als vorig jaar. Dit type bedrijven heeft makkelijker toegang tot interne middelen binnen het concern. Verschillen in financieringsbehoefte zijn ook terug te zien bij de verschillende levensfasen van bedrijven. Net als in de afgelopen twee jaar hebben bedrijven in de overlevingsfase (41 procent), bedrijven die aan het opschalen zijn (30 procent) of in de uitbreidingsfase (29 procent) zitten het vaakst behoefte aan nieuwe externe middelen.
+
+De financieringsbehoefte hangt, naast verschillen in grootteklasse, sector, type onderneming en levensfase, ook samen met de financiële positie van het bedrijf. Net als de afgelopen jaren hebben bedrijven zónder die behoefte een hogere solvabiliteit en liquiditeit dan bedrijven met een financieringsbehoefte. Ze hebben dus respectievelijk meer eigen vermogen op de balans staan en een gunstigere verhouding tussen de vlottende activa en het kort vreemd vermogen. Beide verschillen zijn statistisch significant. Hogere liquiditeit en solvabiliteit biedt bedrijven meer mogelijkheden te financieren vanuit eigen middelen op zowel de korte als de lange termijn.
+
+Daarnaast is er een samenhang tussen het al dan niet ervaren van hoge kosten als belemmering en de financieringsbehoefte. Van de bedrijven in het mkb die hoge kosten als een belemmering ervaren, geeft 22 procent aan een financieringsbehoefte te hebben. Voor bedrijven die hoge kosten niet als belemmerend ervaren is dit 6 procent. Deze verschillen zijn statistisch significant.
+
+Een aanvullende analyse is uitgevoerd naar de ontwikkeling van het aantal fte in het mkb over de afgelopen jaren. Hiervoor is de ontwikkeling in het aantal fte ten opzichte van het voorgaande jaar bekeken op twee momenten: in mei 2021 en in mei 2022. De mediane ontwikkeling van bedrijven zonder financieringsbehoefte is stabiel (index is 100): de mediane fte zijn beide periodes gelijk gebleven. Bij de bedrijven met een financieringsbehoefte zien we daarentegen een ander patroon. Het mediane bedrijf zag in de eerste periode (2021 ten opzichte van 2020) een stijging in het aantal fte, terwijl in de tweede onderzochte periode het aantal fte stabiel bleef ten opzichte van het voorgaande jaar. Bedrijven met een financieringsbehoefte kennen meer schommelingen in het aantal fte dat in dienst is, wat een mogelijke aanleiding zou kunnen zijn voor hun externe financieringsbehoefte.
+
+4.2 Start en uitbreiding belangrijkste doel voor externe financieringsbehoefte
+
+Bedrijven kunnen meerdere doelen tegelijk hebben voor hun financieringsbehoefte. Voor de bedrijven met financieringsbehoefte is start en uitbreiding van het bedrijf het meest voorkomende financieringsdoel (78 procent). Dit wordt onderverdeeld in verschillende subdoelen. De meest voorkomende subdoelen onder dit doel zijn investeren in uitbreiding van het bedrijf (32 procent) en onroerend goed (20 procent).
+
+Continuering van het bedrijf is ook een belangrijke reden voor financieringsbehoefte: bij 69 procent van de bedrijven met een financieringsbehoefte is dit een financieringsdoel. De meest voorkomende subdoelen onder dit doel zijn voorraden en werkkapitaal (43 procent) en het overbruggen van een moeilijke periode vanwege het coronavirus (31 procent).
+
+De grootteklassen verschillen weinig van elkaar waar het gaat om de financieringsdoelen. Bedrijven in het mkb hebben iets vaker dan het grootbedrijf (78 procent om 69 procent) start en uitbreiding als reden voor hun financieringsbehoefte. Dit financieringsdoel is ook voor de meeste sectoren, met uitzondering van landbouw en onroerend goed het meest voorkomend. In de zakelijke dienstverlening en informatie en communicatie komt dit financieringsdoel het meest voor (beiden 85 procent). Daarnaast komt dit financieringsdoel het vaakst voor bij startups (100 procent) en jongere bedrijven (91 procent), zoals verwacht kan worden bij bedrijven die aan het begin staan van hun levenscyclus.
+
+Voor sommige groepen bedrijven is continuering het meest voorkomende financieringsdoel. Dit is met name het geval voor sociale ondernemingen (89 procent) en bij bedrijven in de sector onroerend goed (74 procent). Vernieuwing van het bedrijf/bedrijfsactiviteiten is het meest voorkomende financieringsdoel bij bedrijven in de sector landbouw (75 procent).
+
+Realisatie financieringsdoelen gerelateerd aan activa
+
+Bedrijven met behoefte aan financiering die gericht is op activa, hebben in 70 procent van de gevallen financiering nodig om bestaande activa aan te vullen. In 30 procent van de gevallen gaat het om het vervangen van activa. In het middenbedrijf en het grootbedrijf ligt de nadruk, meer dan in het micro- en kleinbedrijf, op het aanvullen van activa.
+
+Relatie duurzaamheid als financieringsdoel en duurzaamheid als uitdaging
+
+Een aanvullende analyse is uitgevoerd naar de relatie tussen duurzaamheid als financieringsdoel en duurzaamheid als uitdaging. Bedrijven die duurzaamheid als financieringsdoel hebben, vinden duurzaamheid vaker een belemmering voor de bedrijfsprestaties. 36 procent van de bedrijven met als financieringsdoel verduurzaming ervaart duurzaamheid als een belemmering. Van de bedrijven die verduurzaming niet als financieringsdoel hebben, ervaart 13 procent duurzaamheid als belemmering. Deze relatie is ook statistisch significant.
+
+4.3 Bedrijven zonder externe financieringsbehoefte zagen vaak geen aanleiding om nieuwe externe financiering aan te vragen
+
+Van het mkb in de business economy heeft veruit het grootste deel geen externe financieringsbehoefte: 84 procent. De meest voorkomende reden daarvoor is dat er geen aanleiding voor is om nieuwe externe financiering aan te vragen (48 procent). Vanwege een methodeverbetering is dit lastig te vergelijken met vorig jaar. De reden ‘geen aanleiding’ is in 2022 voor het eerst aangeboden als antwoordmogelijkheid. Wanneer wordt gekeken naar de verdeling van antwoorden over andere antwoordcategorieën dan zijn er geen grote veranderingen in de motivatie voor geen behoefte te zien ten opzichte van vorig jaar. Geen aanleiding voor financiering speelt minder een rol voor grotere bedrijven: 29 procent van het grootbedrijf zag geen aanleiding voor een financieringsbehoefte ten opzichte van 49 procent van het microbedrijf. Financiering met intern eigen vermogen (27 procent) is daarna de meest voorkomende reden.
+
+Een andere reden voor het ontbreken van de behoefte aan nieuwe externe financiering is het uitblijven van groei of zicht daarop. In meer dan de helft van die gevallen ontbrak het groeiperspectief vooral als gevolg van het coronavirus.
+
+De groep bedrijven die hun plannen kan financieren door middel van bestaande externe financieringsruimte en daarom geen externe financiering nodig heeft, neemt toe met de grootteklasse van het bedrijf. Voor 18 procent van de bedrijven in het midden- en grootbedrijf is de bestaande externe financieringsruimte voldoende ten opzichte van 3 procent in het microbedrijf.
+
+Meer informatie op het dashboard
+
+Op het wordt het aandeel bedrijven met externe financieringsbehoefte ook uitgesplitst naar bedrijfstak en leeftijd. In deze grafieken is het ook mogelijk om betrouwbaarheidsmarges weer te geven.
+
+Daarnaast worden op het dashboard ook grafieken weergegeven met de solvabiliteit en liquiditeit van bedrijven die wel en geen financieringsbehoefte hebben. Verder worden de financieringsdoelen van bedrijven financieringsbehoefte getoond. Ten slotte is het ook mogelijk om op het dashboard gegevens van eerdere jaren te bekijken.
+
+
+
+
+
+Noten
+
+Dit betekent dat er geen sprake hoeft te zijn van een afname in de financieringsbehoefte, maar dat dit ook een uiting kan zijn van de toevalskans die nu eenmaal in iedere steekproef zit.
+
+Het gaat hierbij om activa gerelateerd aan de subdoelen onroerend goed, wagenpark, digitalisering, innovatie en overige activa.
+
+Dit is getest aan de hand van een Pearson’s Chi-kwadraattoets.Oriëntatie op externe financiering
+
+Minder bedrijven met een financieringsbehoefte hebben zich daadwerkelijk georiënteerd op de financieringsmogelijkheden. Dit is in het mkb afgenomen van 86 naar 79 procent. Bedrijven waren al iets vaker bekend met de mogelijkheden waardoor ze geen verkenning nodig hadden. Het aandeel mkb-bedrijven dat via de bank de opties verkende was vergelijkbaar met een jaar eerder. De daling die in de voorgaande jaren nog te zien was vlakt daarmee af.
+
+In dit hoofdstuk worden de resultaten van de tweede stap in de zoektocht naar financiering door het bedrijfsleven verder uiteengezet. De volgende figuur geeft de positie van dit hoofdstuk in het gehele proces weer.
+
+5.1 Ondernemers met financieringsbehoefte oriënteren zich minder vaak
+
+79 procent van het mkb met een financieringsbehoefte oriënteert zich ook daadwerkelijk op de financieringsmogelijkheden. Die verkenning bestaat onder andere uit het onderzoeken van bronnen en financieringsvormen die zich het beste lenen voor hun situatie. Dit aandeel is ten opzichte van vorig jaar afgenomen, toen was dit nog 86 procent (het hoogste percentage sinds de start van de monitor in de huidige vorm). Deze afname is terug te zien in elke grootteklasse binnen het mkb. Ook bij het grootbedrijf is een duidelijke daling te zien: van 96 procent in 2021 naar 76 procent in 2022. De afname was enkel statistisch significant voor het klein- en grootbedrijf. Het aandeel bedrijven dat zich heeft georiënteerd is het laagst in de sectoren handel, vervoer en horeca (75 procent) en onroerend goed en reparatie (79 procent). In beide sectoren is dit ook het meest gedaald ten opzichte van een jaar eerder: toen lag dit percentage nog rond de 90 procent. Alleen voor de sector handel, vervoer en horeca was de afname statistisch significant. Van bedrijven die zichzelf typeren als dochtermaatschappijen en startups heeft slechts twee derde de mogelijkheden verkend. Bij sociale ondernemingen, snelgroeiende bedrijven, en familiebedrijven oriënteert een groot aandeel zich op de mogelijkheden (rond de 85 procent), maar ook bij dit type bedrijven is het percentage afgenomen.
+
+Bedrijven die zich wel hebben georiënteerd kenmerken zich door zowel een lagere solvabiliteit als een lagere liquiditeit in vergelijking met bedrijven die de mogelijkheden niet hebben verkend. Deze verschillen tussen beide groepen zijn statistisch significant. In de vorige meting was de mediane liquiditeitspositie van bedrijven die zich wel hadden georiënteerd juist hoger vergeleken met de bedrijven die dit niet hadden gedaan. Voor de solvabiliteit zijn de resultaten wel vergelijkbaar tussen beide metingen.
+
+Reden geen oriëntatie
+
+Bedrijven met een financieringsbehoefte kunnen verschillende redenen hebben om geen concrete stappen te zetten om de mogelijkheden voor nieuwe externe financiering te verkennen. 42 procent van de bedrijven binnen het mkb die zich niet oriënteren, laten dat na omdat zij verwachten dat een eventuele aanvraag niet zal slagen. Dit speelt met name bij het microbedrijf. Deze resultaten zijn vergelijkbaar met de vorige meting. Daarnaast voert 32 procent van het mkb geen verkenning uit omdat ze al bekend zijn met de mogelijkheden. Vorig jaar was dit nog 24 procent. Bij alle grootteklassen, met uitzondering van het microbedrijf, is dit zelfs de belangrijkste reden om zich niet te oriënteren. Tot slot heeft 31 procent van het mkb de mogelijkheden niet verder verkend omdat ze verwachten dat de financiering te duur zal zijn.
+
+5.2 Afname oriëntatie via de bank door mkb vlakt af
+
+De afgelopen jaren nam het aandeel mkb-bedrijven dat via de bank de mogelijkheden tot financiering verkende telkens af: van 80 procent in 2019, naar 72 procent in 2020 en 63 procent in 2021. Dit jaar koos 62 procent van het mkb ervoor om zich te oriënteren via de bank. De daling van de afgelopen jaren lijkt hiermee af te vlakken. Deze dalende trend is vooral zichtbaar bij het micro- en kleinbedrijf. Desondanks blijft de bank voor bedrijven verreweg het belangrijkste kanaal om informatie in te winnen over nieuwe externe financiering. In het midden- en grootbedrijf blijft zelfs meer dan vier op de vijf bedrijven zich oriënteren via de bank.
+
+Bedrijven oriënteren zich vooral via de bank omwille van de veiligheid en vertrouwdheid. De relatie met de huisbank (53 procent), de bekendheid met bankleningen als financieringsvorm (43 procent) en de betrouwbaarheid (34 procent) daarvan zijn de belangrijkste redenen om naar de mogelijkheden via de bank te blijven kijken. Het belang van bekendheid en betrouwbaarheid is wel iets afgenomen vergeleken met vorig jaar (dit waren een jaar eerder respectievelijk nog 44 en 42 procent). De relatie met de huisbank is daarentegen zwaarwegender geworden voor bedrijven met een voorkeur voor bancaire financieringsmogelijkheden. Dit was een jaar eerder nog 47 procent. Deze drie redenen worden door bedrijven van alle grootteklassen en alle bedrijven binnen de business economy het belangrijkst bevonden. De sector landbouw wijkt hiervan af: 7 van de 10 landbouwbedrijven kiezen voor de bank omdat de bank het onderpand al in handen heeft.
+
+Andere oriëntatiekanalen
+
+Bedrijven kunnen zich via meerdere kanalen tegelijk oriënteren. Naast oriëntatie via de bank, verkennen ook veel bedrijven de mogelijkheden tot financiering via de accountant (35 procent) of financieel adviseur (33 procent) of gaan ze online zelf op zoek (31 procent). De accountant wordt met name vaak door het micro- en kleinbedrijf geconsulteerd. Ook zoeken microbedrijven relatief vaak online naar mogelijkheden voor financiering ten opzichte van andere grootteklassen.
+
+Oriëntatie op financieringsvorm
+
+Bedrijven oriënteren zich vaak op voorhand al op één of meer specifieke vormen van financiering. Bankleningen worden met 56 procent nog steeds het vaakst door het mkb verkend. In de vorige meting was dit nog 63 procent. Dit wordt op afstand gevolgd door rekeningcourant (25 procent), leasing (22 procent), onderhandse lening (20 procent) en informele investeerders (16 procent). Met name rekeningcourant en informele investeerders zijn door het mkb minder vaak overwogen dan een jaar eerder.
+
+In de sectoren landbouw en onroerend goed en reparatie overweegt nog steeds meer dan 7 op de 10 bedrijven een banklening als financieringsvorm. Bedrijven in de sector informatie en communicatie oriënteren zich vaker op informele investeerders, formeel durfkapitaal en business angels dan bedrijven in andere sectoren. Bedrijven in deze sector overwegen dan ook het minst vaak een banklening als mogelijke financieringsvorm. Ditzelfde patroon is terug te zien bij startups. Zij overwegen daarnaast, net als veel andere jonge bedrijven, ook vaker onderhandse leningen.
+
+Financieringsdoel
+
+De financieringsdoelen van bedrijven die zich daadwerkelijk hebben georiënteerd op mogelijkheden voor nieuwe externe financiering zijn op hoofdlijnen erg vergelijkbaar met het totale mkb met een financieringsbehoefte. Ook hier is start en uitbreiding van het bedrijf het voornaamste financieringsdoel (74 procent), gevolgd door continuering (68 procent) en vernieuwing (56 procent). Verder laten de subdoelen ook vergelijkbare patronen zien. Voor het grootbedrijf is wel een opmerkelijk verschil te zien: grootbedrijven met een financieringsbehoefte die zich wel oriënteerden hebben relatief vaker start en uitbreiding als doel (78 procent) in vergelijking met de totale groep grootbedrijven met een financieringsbehoefte (69 procent).
+
+Meer informatie op het dashboard
+
+Op het wordt het aandeel bedrijven met externe financieringsbehoefte dat zich georiënteerd heeft op de mogelijkheden ook uitgesplitst naar bedrijfstak en leeftijd. In deze grafieken is het ook mogelijk om betrouwbaarheidsmarges weer te geven.
+
+Daarnaast zijn er op het dashboard grafieken te vinden over de manier waarop bedrijven zich hebben georiënteerd en hun motivatie om zich niet te oriënteren. Er worden ook grafieken weergegeven met de solvabiliteit en liquiditeit van bedrijven die al dan niet de mogelijkheden voor nieuwe externe financiering hebben verkend. Ook worden de financieringsdoelen van bedrijven die zich georiënteerd hebben getoond. Ten slotte is het ook mogelijk om op het dashboard gegevens van eerdere jaren te bekijken.
+
+
+
+
+
+Noten
+
+De mediane solvabiliteit van mkb-bedrijven die zich wel oriënteerden is 0,31 tegen 0,42 voor bedrijven die zich niet oriënteerden. De liquiditeit van bedrijven die zich wel oriënteerden is 1,63 tegen 2,37 voor bedrijven die zich niet oriënteerden. De verschillen zijn statistisch significant op basis van een Mann-Whitney U Test.
+
+De resultaten rondom de mediane solvabiliteit en liquiditeit van bedrijven die zich al dan niet georiënteerd hebben in het rapport van vorig jaar blijken niet correct. De mediane solvabiliteit van mkb-bedrijven die zich wel oriënteerden was 0,11 tegen 0,26 voor bedrijven die zich niet oriënteerden. De liquiditeit van bedrijven die zich wel oriënteerden was 1,52 tegen 1,19 voor bedrijven die zich niet oriënteerden. De verschillen zijn statistisch significant op basis van een Mann-Whitney U Test.Aanvraag van externe financiering
+
+Na twee jaar van daling in het percentage bedrijven dat tot een financieringsaanvraag komt, is er dit jaar weer een lichte toename zichtbaar. De meest voorkomende reden om na oriëntatie toch geen aanvraag te doen is niet langer het coronavirus, maar de al bestaande mogelijkheden om de behoefte intern te financieren. Daarnaast valt op dat voor het mkb in de business economy het gevraagde bedrag is toegenomen in vergelijking met voorgaande jaren.
+
+In dit hoofdstuk worden de resultaten van de derde stap in de zoektocht naar financiering door het bedrijfsleven verder uiteengezet. De analyses in dit hoofdstuk hebben betrekking op de bedrijven die de mogelijkheden van financiering hebben verkend én de bedrijven die al bekend waren met de mogelijkheden en zich daarom niet nog eens georiënteerd hebben. De volgende figuur geeft de positie van dit hoofdstuk in het gehele proces weer.
+
+6.1 Het percentage bedrijven dat financiering aanvraagt neemt weer toe
+
+Van de mkb-bedrijven die behoefte hebben aan financiering én zich georiënteerd hebben op de mogelijkheden of al bekend waren met de mogelijkheden zet 56 procent ook daadwerkelijk een aanvraag in gang. De afgelopen twee jaar was er sprake van een afname in het percentage bedrijven dat een aanvraag deed ten aanzien van het jaar daarvoor, nu neemt het percentage weer toe ten aanzien van vorig jaar (52 procent). Dit verschil is niet statistisch significant.
+
+Voor het middenbedrijf geldt dat zij het vaakst een financieringsaanvraag doen na oriëntatie (78 procent), bij microbedrijven is dit percentage het laagst (52 procent). Echter is bij microbedrijven wel de grootste toename te zien ten aanzien van een jaar eerder (toen was dit 46 procent). Voor het kleinbedrijf geldt dat de aandelen nagenoeg gelijk zijn aan een jaar eerder, bij het grootbedrijf is juist een afname zichtbaar. Waar vorig jaar nog 87 procent een aanvraag deed is dit nu 71 procent van de grootbedrijven. Alleen bij deze laatste grootteklasse is het verschil statistisch significant.
+
+De toename van het percentage bedrijven dat een aanvraag deed is niet zichtbaar binnen alle sectoren. Zowel bij informatie en communicatie als bij nijverheid is het percentage bedrijven dat een aanvraag deed nagenoeg gelijk gebleven aan vorig jaar. Een toename is zichtbaar bij handel, vervoer en horeca (van 50 procent naar 60 procent). Bij de zakelijke dienstverlening is het aandeel dat een aanvraag doet het laagst (46 procent). Bij zowel jongere als oudere bedrijven neemt het aantal bedrijven dat een aanvraag doet licht toe. Familiebedrijven doen het vaakst een aanvraag (63 procent) en startups het minst (32 procent). Dit zijn ook meteen de grootste stijger en daler ten aanzien van een jaar eerder: toen was dit aandeel nog respectievelijk 50 procent en 53 procent.
+
+De financiële gezondheid van bedrijven die een aanvraag deden na oriëntatie en behoefte is lager dan voor bedrijven die geen aanvraag deden
+
+De financiële gezondheid van bedrijven die een aanvraag deden (na financieringsbehoefte en oriëntatie) tussen juli 2021 en juli 2022 was minder goed vergeleken met bedrijven die geen aanvraag deden (na behoefte en oriëntatie) in deze periode. Zowel de solvabiliteit als de liquiditeit waren lager. De verschillen zijn statistisch significant voor deze ratio’s.
+
+Toegang tot interne financiering meest voorkomende reden om geen aanvraag te doen
+
+Van de mkb-bedrijven die de mogelijkheden voor nieuwe externe financiering hebben verkend, gaat bijna de helft niet over tot een daadwerkelijke aanvraag. De voornaamste reden hiervoor is dat er toch intern gefinancierd kon worden (30 procent). Vorig jaar was timing vanwege corona de meest voorkomende reden bij het hele mkb, dit jaar is hier voornamelijk nog sprake van bij het kleinbedrijf (30 procent).
+
+Figuur 6.1.2 toont de vijf meest genoemde doelen voor bedrijven om zich op financiering te oriënteren, maar waar uiteindelijk geen aanvraag voor is ingediend. Vorig jaar was de categorisering anders waardoor vergelijken lastig is, maar ook toen werd ‘lastige periode te overbruggen door het coronavirus’ vaak als reden genoemd.
+
+6.2 Oudere en grotere bedrijven doen vaker een bancaire aanvraag
+
+Van de mkb-bedrijven in de business economy die uiteindelijk wel een aanvraag doen, zet 53 procent deze alleen bij bancaire financiers uit. 40 procent doet dit uitsluitend bij non-bancaire financiers, zoals crowdfunding, informele financiers, participatiemaatschappijen en business angels. De rest van de aanvragen wordt gedaan bij een mix van bancaire en non-bancaire financiers. Deze percentages zijn vergelijkbaar met vorig jaar.
+
+Het percentage dat enkel een bancaire aanvraag doet neemt toe naarmate de grootteklasse toeneemt. Daarnaast is er een verschil tussen jongere en oudere bedrijven: jongere bedrijven doen dit in 33 procent van de gevallen enkel via de bancaire route, tegenover 63 procent bij oudere bedrijven. Niet alleen bij de grootteklasse en leeftijd van het bedrijf, maar ook per sector is zichtbaar dat de verhouding van bancaire en non-bancaire aanvragen uiteen loopt. Bij de sectoren informatie en communicatie en handel, vervoer en horeca bedraagt het aandeel dat alleen een non-bancaire aanvraag doet meer dan de helft, voor de andere sectoren maximaal een derde.
+
+Het mediane bedrag neemt toe, behalve bij het grootbedrijf
+
+Het bedrag dat het mkb in de business economy aan externe financiering zocht, lag, met een mediaan van 125 duizend euro, hoger dan een jaar eerder (99 duizend euro). Deze toename is te zien bij zowel micro-, klein- en middenbedrijven. Zij zochten respectievelijk (het mediane bedrag van) 75 duizend, 400 duizend en 1,8 miljoen euro ten opzichte van respectievelijk 60 duizend, 300 duizend, en 1,5 miljoen euro een jaar eerder. Het grootbedrijf laat daarentegen een daling zien: van 10,4 miljoen naar 3,7 miljoen dit jaar.
+
+Het (mediaan) gezochte bedrag is het hoogst in de sector onroerend goed. Het bedrag neemt af in de sectoren zakelijke dienstverlening en landbouw, in de overige sectoren neemt het toe ten aanzien van vorig jaar. Bij bedrijven die zichzelf bestempelen als innovatief zien we de grootste stijging ten aanzien van vorig jaar. Toen was de mediaan van het gezochte bedrag nog 96 duizend euro, dit jaar is dat 260 duizend euro. Bij dochterbedrijven is juist een flinke afname te zien. De mediaan daalt van 827 duizend euro naar 540 duizend euro.
+
+Meer informatie op het dashboard
+
+Op het wordt het aandeel bedrijven met externe financieringsbehoefte dat na oriëntatie een aanvraag doet ook uitgesplitst naar bedrijfstak en leeftijd. In deze grafieken is het ook mogelijk om betrouwbaarheidsmarges weer te geven. Daarnaast zijn er grafieken te zien over de redenen waarom bedrijven geen aanvraag hebben gedaan en het soort financier waar de aanvraag is gedaan. Ook is er informatie opgenomen over de solvabiliteit, liquiditeit en de financieringsdoelen. Ten slotte is het ook mogelijk om op het dashboard gegevens van eerdere jaren te bekijken.
+
+
+
+
+
+Noten
+
+Voor de verschillende bedrijfstakken en leeftijdsklassen zijn de verschillen met vorig jaar niet statistisch significant. Voor familiebedrijven en startups is dit niet bekend.
+
+De significantie is bepaald op basis van de mediaan en een Mann-Whitney U Test. De mediane solvabiliteit van mkb-bedrijven die wel een aanvraag (na financieringsbehoefte en oriëntatie) deden is 0,29 tegen 0,32 voor bedrijven die geen aanvraag deden. De mediane liquiditeit van bedrijven die wel een aanvraag deden is 1,50 tegen 1,91 voor bedrijven die geen aanvraag deden.
+
+De mediaan betekent dat de helft van de aanvragers een lager bedrag zocht en de andere helft dus een hoger bedrag.Uitkomst van de financierings­aanvraag
+
+Dit jaar hebben meer bedrijven in het mkb succes bij hun financieringsaanvraag vergeleken met voorgaande jaren. Hiermee wordt de langzame daling van het succespercentage doorbroken. Overbrugging van de coronaperiode is niet langer het meest voorkomende financieringsdoel van bedrijven, dit verschuift naar financiering voor voorraden en werkkapitaal.
+
+Voor de bedrijven die een financieringsaanvraag hebben gedaan, worden in dit hoofdstuk de uitkomsten van deze aanvraag besproken. Eerst wordt ingegaan op de verschillende mogelijke uitkomsten van de financieringsaanvraag. Vervolgens wordt ingezoomd op bedrijven waarvan de aanvraag niet gelukt is. Daarna wordt afgesloten met de bedrijven met een (deels) succesvolle aanvraag. De volgende figuur geeft de positie van dit hoofdstuk in het gehele proces weer.
+
+7.1 Percentage succesvolle financieringsaanvragen neemt weer toe
+
+Er zijn drie mogelijke uitkomsten voor bedrijven die een financieringsaanvraag gedaan hebben: het aangevraagde bedrag wordt volledig toegekend, het bedrag wordt deels toegekend of het bedrag wordt geheel niet toegekend.
+
+Waar het percentage bedrijven met een deels of geheel succesvolle aanvraag de afgelopen jaren bleef dalen van 84 procent in 2019, via 79 procent in 2020 naar 77 procent in 2021, is er in 2022 een toename te zien naar 91 procent. Deze toename van succes is zichtbaar bij het microbedrijf en het kleinbedrijf, daar steeg het aandeel (deels) succesvolle aanvragen respectievelijk van 73 naar 89 procent en van 82 naar 95 procent. De verschillen in deze grootteklassen en voor het totale mkb zijn statistisch significant. In het grootbedrijf is het percentage succesvolle aanvragen zelfs bijna 100 procent, vergelijkbaar met vorig jaar.
+
+Meer informatie op het dashboard
+
+Op het wordt het aandeel bedrijven met een (deels) succesvolle aanvraag ook uitgesplitst naar bedrijfstak en leeftijd. In deze grafieken is het ook mogelijk om betrouwbaarheidsmarges weer te geven. Daarnaast is op het dashboard ook een uitsplitsing mogelijk naar soort aanvraag (bancair of non-bancair). Ook is het ook mogelijk om op het dashboard gegevens van eerdere jaren te bekijken.
+
+De slaagkans verschilt per sector. Voor de sectoren handel, vervoer en horeca en informatie en communicatie waren vorig jaar grote dalingen te zien in de slaagkans. Dit jaar is echter weer een grote stijging te zien in de kans dat een aanvraag (deels) succesvol is: het percentage neemt voor deze sectoren toe van respectievelijk 72 naar 95 procent en van 59 procent naar 90 procent. Handel, vervoer en horeca en onroerend goed (94 procent) zijn de sectoren met de meeste kans op een succes bij een financieringsaanvraag. Het minst vaak succes hebben bedrijven in de landbouw (80 procent). Net als in eerdere jaren hebben jongere bedrijven iets minder vaak succes dan oudere bedrijven.
+
+Slaagkans hoog of laag?
+
+Van alle financieringsaanvragen leidt 91 procent (deels) tot succes. Dat lijkt een hoog getal, maar op zichzelf vertelt dit maar een deel van het verhaal. Bedrijven met een financieringsbehoefte kunnen op verschillende punten in de zoektocht afvallen. Zo kan het zijn dat ze bij nader inzien het gevoel hebben dat hun aanvraag niet kansrijk zal zijn of dat ze vrezen dat de voorwaarden te streng zijn. Van alle bedrijven met een behoefte aan financiering, weet 44 procent ook daadwerkelijk de gezochte financiering aan te trekken. Dat is de combinatie georiënteerd of al op de hoogte van de mogelijkheden , vervolgens wel aanvraag gedaan én (deels) succesvolle aanvraag leidt tot (79% + 7%) * 56% * 91%. Vorig jaar wist 35 procent van de bedrijven met financieringsbehoefte ook daadwerkelijk financiering aan te trekken. Het aantal bedrijven dat een aanvraag deed is iets hoger dan vorig jaar. Daarbij komt dat het succespercentage ook hoger is dan vorig jaar.
+
+Of dergelijke aandelen als ‘hoog’ of ‘laag’ worden beschouwd in de zin van een positieve of negatieve duiding, is afhankelijk van het gezichtspunt. Dat wordt mede bepaald door hoe afvallers gezien worden: als het gevolg van een noodzakelijke gezonde voorselectie of doordat ondernemers (onterecht) ontmoedigd raken.
+
+7.2 Aanvragen vaker ingetrokken door aanvrager zelf
+
+Als een aanvraag niet, of niet geheel succesvol is, kan dat verschillende oorzaken hebben: in een meerderheid van de gevallen (52 procent) ligt het stuklopen van de aanvraag bij de financier, die de aanvraag (gedeeltelijk ) afwijst. Vorig jaar was dit aandeel 62 procent. In 31 procent van de gevallen wordt de aanvraag door de aanvrager zelf ingetrokken, dit was in 2021 nog 23 procent. In de overige gevallen is de reden anders of is nog niet bekend hoe de aanvraag afloopt omdat deze nog niet afgerond is. Bij jonge bedrijven zien we vaker als reden dat de financier de aanvraag afwijst dan bij oudere bedrijven.
+
+De redenen en gevolgen van een afgewezen financieringsaanvraag lopen uiteen
+
+Als een financier de aanvraag (gedeeltelijk) afwijst, wordt daar in veruit de meeste gevallen een toelichting bij gegeven. In een derde van de gevallen wordt aangegeven dat de aanvraag niet binnen het beleid van de financier past. Wanneer een bedrijf te maken krijgt met een afgewezen financieringsaanvraag, kan het belangrijk zijn dat de afwijzing aanknopingspunten biedt voor een nieuwe aanvraag. Dat is bij een op de vijf afwijzingen het geval. Als meest genoemde gevolgen voor het niet krijgen van de financiering worden genoemd dat er geen investeringen kunnen worden gedaan in personeel of dat er niet kan worden vernieuwd of uitgebreid.
+
+7.3 Overbrugging coronaperiode niet langer belangrijkste financieringsdoel
+
+Figuur 7.3.1 laat zien dat van succesvolle aanvragen voor financiering door het mkb, 28 procent bedoeld was voor de overbrugging van de coronaperiode. Overbrugging van de coronaperiode was vorig jaar nog het meest voorkomende doel. Het wordt minder vaak als reden opgegeven naarmate de grootteklasse toeneemt. Opvallend is dat deze reden amper voorkomt bij grootbedrijven (afgerond 0 procent), bedrijven in de bouw (4 procent) en onroerend goed en reparatie (1 procent). Bij deze laatste sector komt vaak herfinanciering als doel voor (57 procent). Dit jaar worden succesvolle financieringsaanvragen het vaakst aangewend voor voorraden en werkkapitaal (45 procent).
+
+Het merendeel van de bedrijven met een (deels) succesvolle aanvraag moet onderpand bieden
+
+De helft van de bedrijven met een (deels) succesvolle aanvraag moest onderpand bieden, dit is meer dan vorig jaar (41 procent). In zes op de tien gevallen bestaat het onderpand uit het bedrijfspand of machines en apparatuur. Een vijfde van de ondernemers biedt voorraden en debiteuren als onderpand. Aan het klein- en middenbedrijf wordt het vaakst om onderpand gevraagd en aan microbedrijven het minst. Bedrijven uit de sectoren bouw en onroerend goed (meer dan twee derde) moeten het vaakst een onderpand bieden, aan bedrijven uit de sector communicatie en informatie wordt dit het minst vaak verzocht (25 procent).
+
+De rente op financieringsaanvragen is toegenomen
+
+De mediaan van de vaste rente die mkb-bedrijven betalen is 3,8 procent, voor de variabele rente is dit 3,0 procent. De vaste rente is daarmee iets gestegen ten aanzien van vorig jaar, toen dit 3,1 procent was. De variabele rente is nagenoeg gelijk gebleven ten opzichte van vorig jaar. Het rentepercentage neemt af naarmate de grootteklasse toeneemt: grootbedrijven betalen het minste rente en micro- en kleinbedrijven het meest. Ook valt op dat jongere bedrijven een hoger rentepercentage betalen dan oudere bedrijven. Sinds vorig jaar wordt er ook een onderscheid gemaakt naar de vaste rente van bedrijven die een bancaire of een non-bancaire aanvraag deden. De mediane vaste rente bij bancaire leningen is 3,3 procent. Dit is lager is dan bij non-bancaire leningen, waar de mediane rente 5,0 procent bedraagt.
+
+Voor bedrijven met een succesvolle financieringsaanvraag die geld zochten voor de start of uitbreiding zijn investeren in uitbreiding (30 procent) of onroerend goed (19 procent) de belangrijkste doelen. Financiering voor overname komt vaker voor bij grotere bedrijven dan bij kleine bedrijven.
+
+Meer informatie op het dashboard
+
+Op het zijn er grafieken te zien over succesvolle en niet-succesvolle aanvragen. Voor de succesvolle aanvragen zijn grafieken beschikbaar over de financieringsvorm, het financieringsdoel en de voorwaarden voor financiering. Voor niet succesvolle aanvragen worden de redenen getoond waarom het bedrag niet ontvangen is en worden voor de afgewezen aanvragen de gevolgen getoond. Ook is het ook mogelijk om op het dashboard gegevens van eerdere jaren te bekijken.
+
+
+
+
+
+Noten
+
+Als een aanvraag gedeeltelijk wordt afgewezen valt deze onder deels succesvolle aanvragen. Maar omdat een deel wordt afgewezen worden gedeeltelijk afgewezen aanvragen ook besproken in deze paragraaf.
+
+De rentepercentages die in dit hoofdstuk worden besproken zijn (mediane) rentepercentages zoals opgegeven door de bedrijven in de enquête, en kunnen daarmee afwijken van de daadwerkelijke rentepercentages zoals opgenomen in hoofdstuk 2 welke afkomstig zijn van DNB. Daarnaast hebben de rentepercentages van DNB alleen betrekking op financiering door banken en gaan de resultaten van de enquête ook over andere bronnen van financiering.
+
+Vanwege te lage aantallen waarnemingen, kan dit onderscheid alleen voor de vaste rente gemaakt worden.Verwachte financierings­behoefte
+
+Het aandeel mkb-bedrijven in de business economy dat een externe financieringsbehoefte verwacht te hebben in het komende jaar is vergelijkbaar met de vorige meting. In de grootteklassen klein- en middenbedrijf is wel een duidelijke toename te zien ten aanzien van vorig jaar. Voor de groep met een verwachte financieringsbehoefte geldt dat zij vaker verwachten in het komende jaar onvoldoende liquide middelen te hebben om aan de korte termijn betalingsverplichtingen te voldoen, vergeleken met de groep zonder verwachte financieringsbehoefte.
+
+In dit hoofdstuk worden de resultaten van de laatste stap, de financiering in de toekomst, in de zoektocht naar financiering door het bedrijfsleven verder uiteengezet. De volgende figuur geeft de positie van dit hoofdstuk in het gehele proces weer.
+
+8.1 Verwachte financieringsbehoefte van het mkb gelijk gebleven
+
+In totaal verwacht 12 procent van het mkb in de business economy een financieringsbehoefte te zullen hebben in de periode van 1 juli 2022 tot 1 juli 2023. Dit is vergelijkbaar met de vorige meting: toen was dit 13 procent. Opvallend is de flinke toename bij het kleinbedrijf (van 15 naar 21 procent) en het middenbedrijf (van 13 naar 23 procent). Deze verschillen zijn statistisch significant. Bij het microbedrijf en het grootbedrijf is een lichte afname te zien. Deze verschillen zijn niet statistisch significant.
+
+Net als vorig jaar verwachten bedrijven in de sectoren landbouw en nijverheid het vaakst een financieringsbehoefte te hebben in het komende jaar. In de sectoren bouw, zakelijke dienstverlening en onroerend goed speelt dit het minst. Jongere bedrijven verwachten vaker een toekomstige financieringsbehoefte te hebben (een op de zes) dan oudere bedrijven (een op de tien).
+
+Er is ook een samenhang tussen het al dan niet ervaren van hoge kosten als belemmering en de financieringsbehoefte. Van de bedrijven in het mkb die de gestegen kosten als een belemmering ervaren, geeft 12 procent aan een toekomstige financieringsbehoefte te verwachten. Voor bedrijven die hoge kosten niet als belemmerend ervaren is dit 3 procent. Deze verschillen zijn statistisch significant.
+
+8.2 Bedrijven met toekomstige financieringsbehoefte verwachten vaker onvoldoende liquiditeit
+
+Voor de bedrijven die een financieringsbehoefte hadden in de periode juli 2021 tot juli 2022 geldt dat bijna de helft verwacht deze behoefte volgend jaar weer te hebben. Bij bedrijven zonder behoefte is dit 5 procent. Blijkbaar is er een groep bedrijven die herhaaldelijk behoefte heeft aan externe financiering. Dit is vergelijkbaar met eerdere jaren. Het aandeel bedrijven dat een financieringsbehoefte verwacht in het komende jaar (12 procent) is lager dan het aandeel bedrijven dat behoefte had aan nieuwe externe financiering in de periode 1 juli 2021 tot 1 juli 2022 (16 procent, zie hoofdstuk 4).
+
+Een verwachte financieringsbehoefte komt niet per se voort uit positievere verwachtingen over de financiële ontwikkeling van het eigen bedrijf in het komende jaar. Van het mkb mét een verwachte behoefte denkt 58 procent winst te zullen maken in het komende jaar. Dit percentage wijzigt daarmee nauwelijks ten opzichte van vorig jaar. Voor bedrijven zonder verwachte financieringsbehoefte voor volgend jaar is dit percentage vergelijkbaar. Wel verwacht een groter aandeel van de bedrijven met verwachte financieringsbehoefte een negatief resultaat in het komende jaar (14 procent) vergeleken met bedrijven die deze behoefte voor komend jaar niet hebben (4 procent).
+
+Met betrekking tot de verwachte liquiditeit zijn er verschillen tussen beide groepen waarneembaar. Voor de groep zónder verwachte financieringsbehoefte geldt dat 9 op de 10 bedrijven verwacht in het komende jaar genoeg liquide middelen te hebben om aan korte termijn betalingsverplichtingen te kunnen voldoen. Bij bedrijven mét verwachte behoefte is dat bij driekwart het geval. Het lijkt er dus op dat bij het mkb dat in het komende jaar een financieringsbehoefte verwacht, dit vaker zal zijn vanuit noodzaak omdat ze onvoldoende liquide middelen hebben om aan hun verplichtingen te kunnen voldoen. De verhoudingen zijn gelijk aan eerdere jaren.
+
+Meer informatie op het dashboard
+
+Op het wordt het aandeel bedrijven met verwachte toekomstige externe financieringsbehoefte ook uitgesplitst naar bedrijfstak en leeftijd. In deze grafieken is het ook mogelijk om betrouwbaarheidsmarges weer te geven.
+
+Daarnaast worden op het dashboard ook grafieken weergegeven met het door bedrijven verwachte bedrijfsresultaat en de verwachte solvabiliteit. Ten slotte is het ook mogelijk om op het dashboard gegevens van eerdere jaren te bekijken.
+
+
+
+Bijlage A: Familiebedrijven en hun zoektocht naar financiering
+
+Familiebedrijven hebben minder vaak behoefte aan externe financiering dan niet-familiebedrijven. Maar van de groep bedrijven met een behoefte is het percentage dat uiteindelijk financiering krijgt groter bij familiebedrijven dan bij niet-familiebedrijven Wanneer er een financieringsbehoefte is, slaagt uiteindelijk 44 procent van de familiebedrijven geheel of in ieder geval ten dele. Voor niet-familiebedrijven met een financieringsbehoefte is dit 36 procent. Ook wanneer gecorrigeerd wordt voor verschillen in omvang, leeftijd en sector van het bedrijf blijven er significante verschillen bestaan tussen familiebedrijven en niet-familiebedrijven.
+
+Deze bijlage beschrijft enkele kenmerken van familiebedrijven, hoe familiebedrijven hun zoektocht naar financiering inrichten en in hoeverre deze verschilt van die van niet-familiebedrijven.
+
+Waar heeft deze analyse betrekking op?
+
+De resultaten hebben betrekking op de periode 1 juli 2021 tot 1 juli 2022. De analyse beperkt zich tot bedrijven waarvoor via de statistiek Familiebedrijven bepaald kan worden of het een familiebedrijf betreft. Het CBS neemt de definitie van familiebedrijven van de Europese Commissie (2009) als uitgangspunt om te bepalen wanneer een onderneming een familiebedrijf betreft. Een familiebedrijf is een bedrijf, waarbij één familie direct of indirect een meerderheid van zeggenschap heeft. De familie moet formeel betrokken zijn bij het bestuur en het bedrijf moet ook juridisch overdraagbaar zijn.
+
+A.1 Familiebedrijven zijn vaak kleiner en ouder dan niet-familiebedrijven
+
+Van de bedrijven in de steekproef, in het mkb in de business economy kan 44 procent gekenmerkt worden als een familiebedrijf.
+
+Per type bedrijf (bedrijfstak, leeftijd onderneming en grootklasse) zijn er duidelijke verschillen waarneembaar tussen bedrijven die gekenmerkt kunnen worden als familiebedrijf en niet-familiebedrijf. De sectoren handel, vervoer en horeca en de bouw kennen vaker familiebedrijven. Niet-familiebedrijven komen relatief vaker voor in de sectoren onroerend goed en informatie en communicatie. Ook komen familiebedrijven vaker voor in het micro- en kleinbedrijf vergeleken met het middenbedrijf en zijn oudere bedrijven vaker een familiebedrijf vergeleken met jongere bedrijven.
+
+A.2 Familiebedrijven succesvoller in zoektocht naar financiering
+
+Familiebedrijven in het mkb en de business economy hebben afgelopen jaar minder vaak behoefte gehad aan externe financiering vergeleken met niet-familiebedrijven, maar zijn in de opvolgende stappen van de zoektocht wel vaak actiever en succesvoller dan niet-familiebedrijven, ook na correctie voor verschillen in bedrijfskenmerken.
+
+Van de familiebedrijven heeft 15 procent een financieringsbehoefte en hiervan oriënteert 87 procent zich op de mogelijkheden die de externe financieringsmarkt biedt. Bij niet-familiebedrijven is dit respectievelijk 18 procent en 71 procent. Een daadwerkelijke financieringsaanvraag wordt vervolgens iets minder vaak door familiebedrijven gedaan: 56 procent ten opzichte van 57 procent onder niet-familiebedrijven.
+
+Als er eenmaal daadwerkelijk een aanvraag is gedaan, zijn aanvragen van familiebedrijven kansrijker in vergelijking met die van niet-familiebedrijven. Het verloop van deze zoektocht laat zien dat er een verschil bestaat in de mate waarin deze twee groepen met een financieringsbehoefte er in slagen die financiering succesvol aan te trekken. Van de familiebedrijven met een financieringsbehoefte slaagt uiteindelijk 47 procent, bij niet-familiebedrijven is dat 41 procent. Familiebedrijven verwachten daarnaast minder vaak een toekomstige financieringsbehoefte te hebben.
+
+A.3 Familiebedrijven financieren vaker uit privévermogen
+
+Familiebedrijven zonder financieringsbehoefte zien hier vaker geen aanleiding voor of lossen dit op met intern vermogen in vergelijking met niet-familiebedrijven: de relatieve kansverhouding is groter dan 1. Niet-familiebedrijven zonder financieringsbehoefte lossen dit vaker op met bestaand extern vermogen; deze kansverhouding is kleiner dan 1.
+
+Wanneer familiebedrijven gebruik maken van intern vermogen valt op dat zij dit minder vaak doen met ingehouden winsten en reserves dan niet-familiebedrijven, maar veel vaker met het privévermogen van de ondernemer. De kansverhouding is bijna 1,5 keer groter dan bij niet-familiebedrijven. Deze waargenomen verschillen zijn statistisch significant.
+
+Gecorrigeerde en ongecorrigeerde cijfers
+
+Kenmerken van bedrijven hebben invloed op de zoektocht naar financiering, zoals in het hoofdrapport is geconstateerd. Om een mogelijk verschil in de zoektocht naar financiering tussen familiebedrijven en niet-familiebedrijven te kunnen aantonen wordt in de analyses in deze bijlage om die reden gecorrigeerd voor deze bedrijfskenmerken (bedrijfstak, leeftijd van de onderneming en grootteklasse).
+
+Oriëntatievorm bij familiebedrijven minder vaak via bank of adviseur en doelen lopen uiteen
+
+Familiebedrijven kiezen er (iets) minder vaak voor om zich te informeren over de mogelijkheden voor externe financiering via de financieel adviseur en/of via de bank. Ook de overwogen financieringsvorm banklening wordt iets minder vaker gekozen door familiebedrijven. Deze verschillen zijn echter niet statistisch significant.
+
+Familiebedrijven en niet-familiebedrijven verschillen daarnaast in hun financieringsdoel. Zo geven familiebedrijven vaker aan externe financiering nodig te hebben bij de start of uitbreiding van de onderneming om te investeren in onroerend goed en/of bij continuering van de onderneming financiering nodig te hebben om de coronaperiode te overbruggen. Familiebedrijven hebben minder vaak vaker behoefte aan externe financiering omdat zij willen investeren in uitbreiding, voorraden en werkkapitaal of vervanging van activa. Deze waargenomen verschillen in financieringsdoel zijn statistisch significant. De kans dat familiebedrijven willen investeren in aanvulling op bestaande activa is nagenoeg even groot als bij niet-familiebedrijven.
+
+
+
+
+
+Noten
+
+Voor meer achtergrondinformatie over de definitie van familiebedrijven, zie: .
+
+In het dashboard is geen aparte pagina opgenomen over familiebedrijven. Wanneer er daar gesproken wordt over een familiebedrijf is dit gebaseerd op de classificatie door de onderneming zelf, en niet gekoppeld aan de statistiek familiebedrijven. Hierdoor kan het percentage familiebedrijven in dit hoofdstuk afwijken van wat er in het dashboard is weergegeven.
+
+Bij familiebedrijven met een externe financieringsbehoefte leidt de combinatie oriëntatie, aanvraag en (deels) succesvol tot (0,87 + 0,05) * 0,56 * 0,91 = 47 procent. Bij niet-familiebedrijven is dit (0,71 + 0,09) * 0,57 * 0,90 = 41 procent.
+
+De kansverhouding wil zeggen: de kans op een gebeurtenis in verhouding tot de kans dat die gebeurtenis niet plaatsvindt. In dit geval: de kans dat niet-familiebedrijven als reden opgeven geen financieringsbehoefte te hebben omdat zij dit oplossen met bestaand extern vermogen, ten opzichte van de kans dat niet-familiebedrijven deze reden niet opgeven. Een relatieve kansverhouding is de kansverhouding van een bepaalde groep (niet-familiebedrijven) gedeeld door de betreffende kansverhouding van de referentiegroep (familiebedrijven). In dit geval: een kansverhouding om bestaand extern vermogen als reden voor geen financieringsbehoefte op te geven is voor niet-familiebedrijven ondernemers 0,98 maal de kansverhouding voor familiebedrijven.
+
+Bij vrijwel alle significante resultaten is de overschrijdingskans, de kans dat dergelijke resultaten gevonden worden terwijl er in werkelijkheid geen verschil is tussen familiebedrijven en niet-familiebedrijven, gelijk aan 0,000.Bijlage B: Onderzoeks­verantwoording
+
+De onderzoeksverantwoording voor de Financieringsmonitor bestaat uit drie onderdelen:
+
+methodologie achter de enquête;
+
+begrippen;
+
+afkortingen.
+
+I. Onderzoeksmethode enquête
+
+Cijfers over de manier waarop het bedrijfsleven op zoek gaat naar externe financiering zijn verzameld door middel van een digitale enquête. De enquête is uitgezet onder 9 970 bedrijfseenheden waarvan 50 procent ook daadwerkelijk heeft deelgenomen. De netto steekproef bedraagt 4 980 bedrijfseenheden. De onderzoekspopulatie van de monitor wordt gevormd door het gehele mkb in de business economy met tenminste 2 werkzame personen (zie I.1). Aan de enquête hebben ook grote bedrijven en ondernemingen die actief zijn in de landbouw deelgenomen. Hun uitkomsten maken geen deel uit van de uitkomsten als er alleen totaalcijfers voor het mkb in de business economy worden gepresenteerd, maar vormen wel een benchmark. De verantwoordingsonderdelen I.1 tot en met I.3 gaan nader in op de populatie, stratificatie, weging en onzekerheidsmarges van de enquête.
+
+Op de ruwe enquêtedata zijn verschillende bewerkingen uitgevoerd. Zo zijn er controles uitgevoerd op de routing van de vragenlijst om er zeker van te zijn dat vragen alleen zijn beantwoord door respondenten die de vraag ook horen te beantwoorden.
+
+Sommige vragen bevatten een categorie ‘anders, namelijk…’. De open respons op die categorie is in detail bekeken. Wanneer mogelijk zijn antwoorden toegekend aan gegeven antwoordcategorieën. Zo bleken veel van de open antwoorden bij de financieringsdoelen toch toe te kunnen worden geschreven aan het doel uitbreiding. Soms leverde dit ook nieuwe categorieën op die aanvankelijk niet in de vragenlijst waren opgenomen. Bij de (overwogen) financieringsvormen werden vaak antwoorden gegeven die, ondanks de expliciete vraag naar externe financiering, toch intern eigen vermogen betroffen. Winstinhoudingen en privévermogen werden daar vaak genoemd. Daarom is die categorie alsnog toegevoegd in de weergave van de antwoorden.
+
+De enquête bevat slechts een beperkt aantal kwantitatieve vragen. Het gaat dan om het aantal aanvragen, de omvang van de financieringsaanvraag en het daadwerkelijk aangetrokken bedrag en om de vaste en variabele rentepercentages die betaald zijn op die financiering.
+
+Omdat deze variabelen (de bedragen in het bijzonder) gevoelig zijn voor uitschieters naar boven is winsorising toegepast op 1,5 keer de standaardafwijking boven het gemiddelde. Dat wil zeggen dat iedere waarde boven dat punt is vervangen door de waarde die gelijk is aan 1,5 keer de standaardafwijking boven het gemiddelde. Dat maakt de variabelen beter geschikt voor het berekenen van representatieve rekenkundige gemiddelden. Het heeft geen invloed op de mediaan (de middelste waarde van alle waarnemingen). Deze blijft ongewijzigd, omdat het aantal waarnemingen niet verandert en alleen de extremere waarden worden afgekapt.
+
+I.1 Populatie en stratificatie
+
+De onderzoekspopulatie van de Financieringsmonitor bestaat uit het mkb in de business economy. De business economy bestaat uit het bedrijfsleven met uitzondering van de landbouw en financiële dienstverlening. Het mkb is gedefinieerd als ondernemingen met minder dan 250 werkzame personen. Er wordt een ondergrens van 2 werkzame personen gehanteerd. De onderzoekseenheid is de bedrijfseenheid (BEID) zoals die door het CBS gedefinieerd wordt. De BEID is bepalend voor de bedrijfsgrootte, niet de omvang van het (eventuele) gehele concern.
+
+Bron: CBS
+
+In de Financieringsmonitor wordt binnen de business economy een onderscheid gemaakt naar zes bedrijfstakken, ingedeeld op basis van de Standaard Bedrijfsindeling (SBI). De combinatie van de bedrijfstak onroerend goed (L) en de sector reparatie (95) is geen voor de hand liggende. Hier is voor gekozen, omdat de sector reparatie op zichzelf te klein is voor veel uitsplitsingen en dan onderdrukt zou moeten worden in de weergave van de resultaten. Uitkomsten voor de landbouw worden aanvullend gepresenteerd wanneer relevant.
+
+Binnen het mkb worden drie grootteklassen onderscheiden op basis van de werkzame per­sonen (wp). Voor het grootbedrijf worden uitkomsten aanvullend gepresenteerd als bench­mark. Uitkomsten zijn ook opgenomen naar twee klassen van bedrijfsleeftijd: jong en oud.
+
+De steekproef van de enquête is disproportioneel gestratificeerd naar drie dimensies: sector (7), grootteklasse (4) en bedrijfsleeftijd (2). Dit leidt in beginsel tot een totaal van 56 strata waarvoor consistente uitkomsten gepresenteerd kunnen worden. Twee strata zijn niet gevuld in de steekproef. Het grootbedrijf in de landbouw, jong en oud, is bewust niet opgenomen in de steekproef. Als cijfers betrekking hebben op de landbouw, is dat namelijk alleen voor het mkb in de landbouw. Als cijfers betrekking hebben op het grootbedrijf, is dat alleen voor de business economy.
+
+Bron: CBS
+
+Bron: CBS
+
+Disproportionele stratificatie betekent dat de aandelen van strata in de steekproef niet gelijk zijn aan hun aandelen in de populatie. Zo maakt het microbedrijf 82 procent uit van het mkb in de business economy, maar slechts 37 procent van de uiteindelijke steekproef. De reden is tweeledig. Enerzijds is er efficiëntie: er zijn op deze wijze minder waarnemingen nodig om uitspraken met voldoende betrouwbaarheid te doen. Anderzijds zou een proportionele ver­deling er toe leiden dat er in absolute zin bijna geen grote bedrijven in de steekproef zitten.
+
+I.2 Ophoging
+
+De populatie voor de Financieringsmonitor bestond uit 302 350 bedrijfseenheden toen in juni 2022 een steekproef werd getrokken. Uiteindelijk hebben er 4 980 bedrijfseenheden deelgenomen aan de enquête. Door ophoging kunnen op basis van de enquête uitspraken gedaan worden over de gehele onderzoekspopulatie. Elke bedrijfseenheid in de steekproef krijgt een ophooggewicht. Er vindt weging plaats naar werkgelegenheid binnen de strata.
+
+De ophoogfactoren worden berekend per stratum: een driedimensionale combinatie van bedrijfstak, grootteklasse en bedrijfsleeftijd. Omdat de stratificering erg gedetailleerd is, wijken de ophoogfactoren bij weging naar werkgelegenheid en naar het aantal bedrijven weinig van elkaar af. De impact op de hoofduitkomsten ligt in de orde van grootte van enkele tienden van procentpunten.
+
+In eerste instantie worden insluitgewichten berekend. Het insluitgewicht van een bedrijf in stratum h wordt genoteerd met i h . Het insluitgewicht van een respondent is gelijk aan 1 gedeeld door de insluitkans.
+
+De insluitkans van een bedrijf wordt gedefinieerd als de kans dat het bedrijf in de respons voorkomt. De kans dat een bedrijf in de respons voorkomt, is gelijk aan de kans dat een bedrijf in de steekproef voorkomt (aantal in steekproef in stratum gedeeld door het aantal in populatie in stratum), vermenigvuldigd met de kans dat een bedrijf in de respons voorkomt gegeven dat het bedrijf in de steekproef voorkomt (aantal in respons in stratum gedeeld door aantal in steekproef in stratum). In formulevorm:
+
+i h = 1 / ( n h N h * r h n h ) 1 / n h N h * r h n h =
+
+1 / ( r h N h ) 1 / r h N h =
+
+N h r h N h r h
+
+met n h de steekproefomvang in stratum h , N h de populatieomvang in stratum h en r h de responsomvang in stratum h . Merk op dat de insluitgewichten van respondenten in stratum h op deze manier optellen tot de populatieomvang in stratum h . In formulevorm:
+
+i h * * r h = ( N h / r h ) * * r h =
+
+N h
+
+Vervolgens worden de insluitgewichten vermenigvuldigd met correctiegewichten om te komen tot eindgewichten. Het eindgewicht van een bedrijf in stratum h wordt genoteerd met w h .
+
+Alle indicatoren in de monitor worden op een hoger niveau bekeken dan op dat van het stratum. Doelvariabelen zoals de financieringsbehoefte en zeker de slaagkans correleren met het economische gewicht van bedrijven. Als proxy voor het economische gewicht van een stratum kan beter het aantal werkzame personen in dat stratum worden gebruikt dan het aantal bedrijven.
+
+De correctiegewichten worden daarom zodanig bepaald dat het eindgewicht van een bedrijf gelijk is aan het aantal werkzame personen in de populatie van het betreffende stratum gedeeld door het aantal werkzame personen in de respons van het betreffende stratum. In formulevorm:
+
+w h = A h / a h
+
+met A h het aantal werkzame personen in de populatie van stratum h en a h het aantal werkzame personen in de respons van stratum h .
+
+Merk op dat de eindgewichten van respondenten in stratum h op deze manier niet optellen tot de populatieomvang in stratum h . Dit komt doordat de responsfractie (aandeel respons in populatie) uitgedrukt in bedrijven anders kan zijn dan de fractie uitgedrukt in werkzame personen.
+
+Dat de eindgewichten van respondenten in een stratum niet optellen tot de populatie-omvang in het stratum, is geen probleem als de doelvariabelen worden uitgedrukt in aandelen. Dat is ook het geval in de Financieringsmonitor. Doelvariabelen kunnen dan niet in aantallen bedrijven worden uitgedrukt. Als de berekende eindgewichten niet aan bedrijfseenheden in de respons worden toebedeeld, maar aan alle werkzame personen in de respons, tellen de eindgewichten in stratum h wel op tot het aantal werkzame personen in de populatie van stratum h .
+
+Deze manier van ophoging naar werkgelegenheid wordt ook toegepast in de Survey on the Access to Finance for Enterprises (SAFE), een soort financieringsmonitor voor de hele Europese Unie, van de Europese Centrale Bank (ECB) en de Europese Commissie.
+
+Ten slotte gaat op dat de berekende eindgewichten minimaal gelijk zijn aan 1. Bedrijven die gerespondeerd hebben, tellen na weging dus minimaal voor 1 bedrijfseenheid mee: zichzelf.
+
+I.3 Betrouwbaarheidsintervallen
+
+De enquêtering heeft plaatsgevonden onder een klein deel van de daadwerkelijke populatie. De resultaten die gebaseerd zijn op deze steekproef vertegenwoordigen schattingen van de uitkomsten. Er zit een bepaalde onzekerheid rondom die geschatte waarde. Dit zijn de 95%-betrouwbaarheidsintervallen waarbinnen de uitkomsten vallen. Dat wil zeggen dat bij herhaling de geschatte uitkomst in 95 procent van de gevallen binnen dat interval ligt.
+
+Marges zijn te berekenen voor alle indicatoren, maar deze zijn in de monitor uiteindelijk alleen opgenomen voor de vijf voornaamste indicatoren. Het gaat om het aandeel van het mkb in de business economy…
+
+… met een financieringsbehoefte;
+
+… dat vervolgens de mogelijkheden verkend heeft;
+
+… dat vervolgens een financieringsaanvraag heeft gedaan;
+
+… met een succesvolle financieringsaanvraag;
+
+… dat een financieringsbehoefte verwacht in het komende jaar.
+
+Iedere indicator leidt tot een fractie voor ieder van de 54 strata. Deze fracties kunnen worden geschat per stratum h h maar ook voor combinaties U van strata. Dat speelt bijvoorbeeld bij het schatten van de uitkomsten voor het gehele microbedrijf. Dit is immers een combinatie van
+
+12 strata: 6 bedrijfstakken in 2 leeftijdsklassen. Dit resulteert voor een dergelijke deelpopulatie U U in de volgende schattingen van relatieve fracties:
+
+ˆ r y / x U = r y U / r x U r ^ U y / x = r U y / r U x
+
+met uit de respons
+
+r y U = ∑ h ϵ U ( w h n y h ) / ∑ h ϵ U ( w h n h ) r U y = ∑ h ϵ U w h n h y / ∑ h ϵ U w h n h
+
+met ophooggewichten w h w h gelijk aan A h / a h A h / a h , n y h n h y het aantal bedrijven in de respons in stratum h h met categorie y h i = 1 y h i = 1 voor enquêtevraag y y , en n h n h het aantal bedrijven in de respons in stratum h h . Analoog in de notatie voor enquêtevraag x x . De bijbehorende variantie voor doelgroep U is:
+
+V a r ( ˆ r y / x U ) = ( V a r ( r y U ) + ( ˆ r y / x U ) 2 V a r ( r x U ) − 2 r y / x U C o v ( r y U , r x U ) ) / ( r x U ) 2 V a r r ^ U y / x = V a r r U y + r ^ U y / x 2 V a r r U x - 2 r U y / x C o v r U y , r U x / r U x 2
+
+Met als variantie en covariantie voor de doelgroepen U :
+
+V a r ( r y U ) = ∑ h ϵ U W 2 h V a r ( r y h ) V a r r U y = ∑ h ϵ U W h 2 V a r r h y
+
+C o v ( r y U , r x U ) = ∑ h ϵ U W 2 h C o v ( r y h , r x h ) C o v r U y , r U x = ∑ h ϵ U W h 2 C o v r h y , r h x , met W h = N h / N U W h = N h / N U .
+
+Opgebouwd vanuit de variantie en covariantie van de individuele strata h :
+
+V a r ( r y h ) = ( 1 − r h ) r y h ( 1 − r y h ) / ( n h − 1 ) V a r r h y = 1 - r h r h y 1 - r h y / n h - 1
+
+C o v ( r y h , r x h ) = ( 1 − r h ) r y h ( 1 − r x h ) / ( n h − 1 ) C o v r h y , r h x = 1 - r h r h y 1 - r h x / n h - 1
+
+Analoog in de notatie voor enquêtevraag x x . De gebruikte variantieschatter is een eerste-orde linearisatie inclusief eindige-populatie correctie. Hieruit worden 95%-betrouwbaarheids­intervallen berekend waarbij de marge gelijk is aan 1,96 * S E 1,96 * S E met de standaardfout berekend als:
+
+S E = √ V a r ( ˆ r y / x U ) S E = V a r r ^ U y / x .
+
+De betrouwbaarheidsintervallen worden groter naarmate de berekende schatting op minder waarnemingen gebaseerd is en de geschatte ratio dichter bij 50 procent in de buurt komt. In de praktijk betekent dit dat de marges veelal het grootst zijn voor het grootbedrijf en de landbouw. Deze groepen behoren ook niet tot de onderzoekspopulatie en zijn alleen opgenomen als benchmarks.
+
+Aan de hand van de variantie kan bepaald worden of verschillen tussen twee groepen of tussen twee jaren significant zijn. Als uit een statistische test blijkt dat dat de overschrijdingskans (de kans dat een dergelijk verschil wordt gevonden, terwijl er in werkelijkheid geen verschil is) kleiner is dan 5 procent, dan is er een statistisch significant verschil tussen de twee groepen of tussen de twee jaren die met elkaar worden vergeleken. Waarde A en B verschillen dus statistisch significant van elkaar als :
+
+A − B > 1,96 * √ V a r ( A ) + V a r ( B ) A - B > 1,96 * V a r A + V a r ( B ) .
+
+I.4 Verrijking
+
+De resultaten uit de enquête zijn verrijkt met gegevens uit andere bedrijvenstatistieken van het CBS. Op die manier is informatie over de rechtsvorm en regio toegevoegd, een reeks samengesteld met jaarlijkse werkgelegenheid (vanaf mei 2013) en kwartaalomzet (vanaf 2014) en de gehele balans en resultatenrekening voor responderende bedrijven die in 2018 al bestonden. Kernindicatoren zoals de solvabiliteit, liquiditeit, rentabiliteit en het aandeel onderpand zijn berekend als maatstaf van de financiële gezondheid van ondernemingen.
+
+De steekproef voor de enquête is getrokken op basis van de populatie in juni 2022. De ophooggewichten zijn ook op basis van die populatie bepaald. Dezelfde peilmaand geldt voor kenmerken van ondernemingen: bedrijfstak, grootteklasse, bedrijfsleeftijd, regio, en rechtsvorm. Deze kenmerken komen allen uit het Algemeen Bedrijven Register (ABR) en het Bedrijfsdemografisch Kader (BDK) van het CBS.
+
+De jaarlijkse werkgelegenheid is bepaald op basis van de Polisadministratie. De Polisadministratie bevat gegevens van banen in een inkomstenperiode en is gebaseerd op data uit de loonaangiften. Het peilmoment is steeds de maand mei van een jaar. Alle werknemers die in die maand actief waren, worden gerekend tot de werkgelegenheid. Er worden zowel personen geteld als fte. Als een persoon twee banen heeft binnen dezelfde onderneming, telt deze mee als één werknemer, maar in termen van fte als de optelling van de twee bijbehorende fte-factoren. Deze werkgelegenheidscijfers hebben alleen betrekking op werknemers, niet op zelfstandigen die actief zijn bij bedrijven. Als er in deze monitor over werkzame personen wordt gesproken, gaat het wél over werknemers en zelfstandigen, bovendien uitgedrukt in fte.
+
+Omzetcijfers zijn afkomstig uit de Directe Ramingen Totaal (DRT) en vertegenwoordigen de totale omzet per kwartaal van ondernemingen. De cijfers bestaan voor een groot deel uit btw-aangiftecijfers. Ondernemingen die geen btw hoeven te betalen of een ontheffing hebben, komen niet in deze bestanden voor. Dat betekent bijvoorbeeld dat de omzet voor landbouwbedrijven vaak ontbreekt: zij vielen tot begin 2018 onder de landbouwregeling en hoefden geen btw af te dragen over hun agrarische activiteiten.
+
+De financiële indicatoren zijn afkomstig uit twee bronnen. De Statistiek Financiën van Niet-Financiële Ondernemingen (NFO) voor bedrijven mét rechtspersoonlijkheid en de Satelliet Zelfstandige Ondernemers (SZO) voor bedrijven zónder rechtspersoonlijkheid. Die bronnen zijn gecombineerd om zo compleet mogelijk de balans en resultatenrekening van respondenten in beeld te brengen. Beiden zijn (deels) gebaseerd op aangiftegegevens en voor deze monitor daarom niet recenter beschikbaar dan 2020. Gegevens hebben betrekking op dat gehele jaar.
+
+De balans en resultatenrekening van ondernemingen worden gebruikt om indicatoren te berekenen die hun financiële positie uitdrukken. De primaire bron voor deze cijfers is de NFO. De NFO bevat gegevens op het niveau van het fiscale nummer. De enquête voor de Financieringsmonitor en alle andere gekoppelde data betreffen gegevens op het niveau van de bedrijfseenheid van het CBS. Een bedrijfseenheid kan meerdere fiscale nummers hebben of een fiscaal nummer kan bij meerdere bedrijfseenheden horen. Alleen voor die gevallen waar één fiscaal nummer hoort bij één bedrijfseenheid, zijn de waarden uit de NFO één-op-één overgenomen.
+
+Als die link niet eenduidig bestaat, is de balans en resultatenrekening gebruikt van het gehele concern: de ondernemingengroep (OG). Dat zorgt ervoor dat de balans van een bedrijfseenheid die onderdeel vormt van een groter ondernemingengroep nu groter is. Dit gebeurt vanuit het idee dat het de financiële positie van het gehele concern is die er toe doet bij een financieringsbehoefte en -aanvraag en niet alleen die van de business unit. Er wordt in de monitor bovendien alleen gewerkt met de financiële positie van het concern, uitgedrukt in samenvattende indicatoren.
+
+Gegevens uit de NFO hebben alleen betrekking op bedrijven met rechtspersoonlijkheid. De natuurlijke personen (eenmanszaken, stichtingen, vof) ontbreken dus. Die bedrijven maken een wezenlijk deel uit van de populatie en komen bovendien veelvuldig voor in het microbedrijf. Om ook voor die bedrijven een beeld te krijgen van hun financiële positie is gebruik gemaakt van de SZO. Dit is een statistisch halffabricaat binnen het CBS dat alleen gebruikt wordt als input om statistieken en microdatabestanden te maken. Deze bron wordt ook niet gaafgemaakt en is daardoor van mindere kwaliteit. Er zijn op de koppeling voor de monitor diverse controles uitgevoerd. Waarnemingen die niet aan deze controles voldeden, zijn uitgesloten.
+
+Er zijn vier indicatoren berekend om de financiële gezondheid van deelnemers aan de enquête uit te drukken. De solvabiliteit meet de mate waarin ondernemingen met eigen middelen gefinancierd zijn en ze kunnen voldoen aan betalingsverplichtingen op de lange termijn. De liquiditeit meet de mate waarin bedrijven kunnen voldoen aan verplichtingen op korte termijn. Rentabiliteit op totaal vermogen en op eigen vermogen zijn maatstaven van de winstgevendheid van ondernemingen, gerelateerd aan de ingelegde middelen. De onderpandratio geeft een indicatie van de financiële zekerheden die een onderneming de financier kan bieden. De indicatoren worden als volgt berekend:
+
+solvabiliteit = eigen vermogen / balanstotaal
+
+liquiditeit = vlottende activa / kortlopend vreemd vermogen
+
+rentabiliteit totaal vermogen (RTV) = resultaat uit bedrijfsvoering / balanstotaal
+
+rentabiliteit eigen vermogen (REV) = resultaat na belastingen / eigen vermogen
+
+onderpand = materiële vaste activa / balanstotaal
+
+Het resultaat na belastingen komt niet voor in de SZO. Daarom wordt in de monitor alleen gewerkt met de rentabiliteit op het totaal vermogen. Die maatstaf is bovendien minder gevoelig voor de hefboomwerking van vreemd vermogen. Bij een gelijk eigen vermogen kan een onderneming veel vreemd vermogen aantrekken en die grotere pot aan geld inzetten om meer winst te behalen. Hogere winst bij een gelijk eigen vermogen zorgt voor een hogere rentabiliteit op dat eigen vermogen. Maar tegelijkertijd wordt er ook veel meer risico genomen en gaat de solvabiliteit omlaag. De rentabiliteit op het totaal vermogen geeft een evenwichtiger beeld. Op de financiële indicatoren is ook winsorising toegepast om te corrigeren voor extreme waarden.
+
+I.5 Privacy
+
+Privacy is een groot goed. Ook als je niks te verbergen hebt, heb je heel wat te beschermen. Het CBS is het Statistisch Bureau van Nederland dat onafhankelijk onderzoek uitvoert. Het CBS werkt bij elk onderzoek met strenge eisen om data op een veilige manier te verwerven, te verwerken en te publiceren en is transparant over de manier van werken en de methodieken.
+
+Het CBS verzamelt gegevens van natuurlijke personen, bedrijven en instellingen. Dit is wettelijk vastgelegd in de CBS-wet en de Algemene Verordening Gegevensbescherming (AVG). Identificerende persoonskenmerken worden na ontvangst direct gepseudonimiseerd. Hierdoor kan het onderzoek alleen worden uitgevoerd op gegevens met een pseudosleutel. Bij publicatie zorgt het CBS er bovendien voor dat natuurlijke personen of bedrijven niet herkenbaar of herleidbaar zijn. Ook hanteert het CBS diverse maatregelen tegen diefstal, verlies of misbruik van persoonsgegevens. Het CBS levert geen herkenbare gegevens aan derden, ook niet aan andere overheidsinstellingen. Wel kunnen sommige (wetenschappelijke) instellingen onder strenge voorwaarden toegang krijgen tot gegevens met pseudosleutel op persoons- of bedrijfsniveau. Dit noemen we microdata.
+
+Voor meer informatie, zie onze .
+
+II. Begrippen
+
+Achtergestelde lening
+
+Een kredietvorm die kenmerken van vreemd en eigen vermogen combineert. In het geval van faillissement wordt de crediteur bij uitbetaling achtergesteld op de andere kredietverstrekkers. De verstrekker van een achtergestelde lening heeft nog wel voorrang op houders van obligaties of aandelen.
+
+Asset-based finance
+
+Financiering op basis van een onderpand, zoals debiteuren, machines of auto’s. Omdat het door het onderpand zekerheden met zich meebrengt, is deze vorm interessant voor zowel de financier als het bedrijf in kwestie.
+
+Bedrijfseenheid
+
+De feitelijke transactor in het productieproces gekenmerkt door zelfstandigheid ten aanzien van de beslissingen over dat proces en door het aanbieden van zijn producten aan derden.
+
+Business angel
+
+Een business angel is een andere benaming voor een informele durfkapitaalverstrekker, een vermogende particulier (meestal een ex-ondernemer die zijn bedrijf heeft verkocht) die een gedeelte van zijn eigen geld actief investeert in het kapitaal van veelbelovende bedrijven in ruil voor aandelen, een achtergestelde lening of een combinatie van beide.
+
+Business economy
+
+De term ‘business economy’ wordt internationaal het meest gebruikt om het marktgerichte bedrijfsleven af te bakenen. De business economy telt de overheidssector niet mee. Ook de agrarische sector, financiële dienstverlening, onderwijs, zorg, cultuur, sport en recreatie, belangen- en hobbyverenigingen en overige persoonlijke dienstverlening worden niet tot de business economy gerekend. De business economy is dus een deel van alle economische activiteiten en beslaat de SBI-codes B tot en met N en 95, exclusief K.
+
+Crowdfunding
+
+Bij crowdfunding wordt financiering opgehaald bij een grote groep donateurs of investeerders. Een belangrijk voordeel is dat geldvragers zelf de voorwaarden kunnen bepalen. Zo beslissen ze zelf welke financieringsvorm ze gebruiken en wat de tegenprestatie zal zijn.
+
+Digitalisering
+
+Aanpassen van het bedrijf aan door digitalisering veranderende markt. Digitalisering gaat over de structurele verandering van de economie en maatschappij door mensen en bedrijven die steeds meer van digitale technologie gebruik maken.
+
+Direct lending
+
+Vorm van ondernemingsfinanciering, waarbij niet bancaire geldverstrekkers rechtstreeks leningen verstrekken aan bedrijven. In de praktijk werken soms meerdere geldverstrekkers samen die tezamen geld investeren in een fonds dat als financier optreedt voor ondernemers.
+
+Durfkapitaal
+
+Vorm van ondernemingsfinanciering, ook wel aangeduid wordt als venture capital, dat verstrekt wordt aan een onderneming die een meer dan gemiddeld risico loopt.
+
+Equipment lease
+
+Lease is een vorm van kredietverstrekking waarbij de verstrekker een goed koopt en deze gedurende een overeengekomen termijn en tegen een vergoeding ter beschikking stelt aan het bedrijf. Bij equipment lease gaat het om objecten anders dan auto’s, zoals kranen, grondverzetmachines, industriële machines, koffieapparaten, kopieermachines, computers en ICT-oplossingen.
+
+Externe financiering
+
+Alle financiering die van buiten de onderneming aangetrokken wordt. Een combinatie van vreemd vermogen en extern eigen vermogen. Voorbeelden van extern eigen vermogen zijn aandelenuitgifte, geld van informele investeerders of private equity. Intern eigen vermogen behoort niet tot externe financiering. Ingehouden winsten en eigen inleg door de ondernemer behoren dus niet tot dit begrip.
+
+Factoring
+
+Dit is een vorm van debiteurenfinanciering of voorraadfinanciering. Hierbij draagt de ondernemer de facturatie over aan een extern bedrijf dat zorg voor de facturering, de debiteurenadministratie en de incassering van de debiteuren. Het externe bedrijf ontvangt in ruil meestal een percentage van de omzet, maar draagt ook het risico over de schulden.
+
+Grootbedrijf
+
+Tot het grootbedrijf behoren ondernemingen met ten minste 250 werkzame personen. Deze grootteklasse komt voor in de monitor als benchmark maar behoort niet tot het mkb.
+
+Informele investeerders
+
+Onder informele investeerders worden vrienden, familie, collega’s en andere bekenden verstaan. Ze verschillen onder meer van business angels omdat zij niet actief betrokken blijven bij de bedrijfsvoering .
+
+Innovatief bedrijf
+
+Ondernemingen die doen aan product-, proces-, marketing- en organisatorische vernieuwingen of sterke verbeteringen.
+
+Ketenmacht
+
+Beperkende voorwaarden vanuit afnemers. Dit kan zich uiten in langere betaaltermijnen of aanvullende voorwaarden.
+
+Kleinbedrijf
+
+Tot het kleinbedrijf behoren ondernemingen met tenminste 10 en minder dan 50 werkzame personen.
+
+Kredietunies
+
+Een kredietunie is een coöperatieve kredietvereniging zonder winstoogmerk waarin ondernemers zich per regio of per branche organiseren om elkaar geld te lenen. Het is als non-bancair alternatief voor bankfinanciering ontstaan, wordt door de politiek gedragen en is voornamelijk een fenomeen in de Verenigde Staten van Amerika, Canada en Engeland.
+
+Liquiditeit
+
+De verhouding van de vlottende activa tot het kortlopend vreemd vermogen wordt ook wel de current ratio genoemd. Het is een maatstaf van hoe goed bedrijven in staat zijn om aan hun verplichtingen op korte termijn te voldoen.
+
+Microbedrijf
+
+De kleinste grootteklasse binnen het mkb. Tot het microbedrijf behoren ondernemingen met minder dan 10 werkzame personen. In de Financieringsmonitor wordt daarnaast een ondergrens gehanteerd van 2 werkzame personen.
+
+Middenbedrijf
+
+Tot het kleinbedrijf behoren ondernemingen met tenminste 50 en minder dan 250 werkzame personen.
+
+Midden- en kleinbedrijf
+
+Tot het mkb behoren ondernemingen met minder dan 250 werkzame personen. In de Financieringsmonitor wordt daarnaast een ondergrens gehanteerd van 2 werkzame personen. De bedrijfsgrootte is bepaald op het niveau van de individuele bedrijfseenheid en niet het gehele concern. Binnen het mkb wordt een onderverdeling gemaakt naar drie onderliggende grootteklassen: het microbedrijf, het kleinbedrijf en het middenbedrijf. Het grootbedrijf, dat ook voorkomt in de monitor, behoort niet tot het mkb.
+
+Mkb-beurs
+
+Een platform waarbij beleggers rechtstreeks kunnen investeren in mkb bedrijven. Dat kan in de vorm van (certificaten van) aandelen en obligaties (leningen). De (certificaten van) aandelen en de obligaties zijn verhandelbaar.
+
+Onderhandse lening
+
+Een geldlening zonder tussenkomst van een bank, bijvoorbeeld bij familie of vrienden. Rente en afspraken worden wel vastgelegd in een contract.
+
+Ondernemingengroep
+
+De eenheid die feitelijk optreedt als financiële transactor. De ondernemingengroep (OG) wordt gedefinieerd als de meest omvattende verzameling van in Nederland gevestigde juridische eenheden waarover zeggenschap kan worden uitgeoefend en die homogeen is naar institutionele sector. De ondernemingengroep is de statistische eenheid op basis waarvan het financieringsproces in Nederland wordt beschreven. Vooral bij grotere eenheden komt deze feitelijke transactor doorgaans niet overeen met één juridische eenheid, maar is een combinatie van juridische eenheden.
+
+Private equity
+
+Een financieringsvorm waarbij investeerders buiten de aandelenbeurs om financieel in bedrijven participeren. Deze participatiemaatschappijen nemen dan een meerderheids- of een groot minderheidsbelang in een bedrijf. Binnen private equity zijn drie soorten investeringen te onderscheiden: een buy-out, een groei-investering, of een investering in vaak jonge ondernemingen met hoge risico’s, het zogenaamde venture capital.
+
+Rekeningcourant
+
+Doorlopend krediet dat ondernemingen gebruiken voor alledaagse uitgaven en om hun rekeningen te betalen, ook wel bekend als een betaalrekening.
+
+Rentabiliteit eigen vermogen
+
+De rentabiliteit op het eigen vermogen is de verhouding tussen de nettowinst (het resultaat ná belastingen) en het eigen vermogen. Het is een indicator van het rendement op het vermogen dat door aandeelhouders geïnvesteerd is.
+
+Rentabiliteit totaal vermogen
+
+De rentabiliteit op het totaal vermogen is de verhouding tussen het resultaat uit de normale bedrijfsvoering (het resultaat vóór belastingen) en het totale vermogen.
+
+Solvabiliteit
+
+Het aandeel van het eigen vermogen in het balanstotaal. De solvabiliteit is een indicator die gebruikt wordt om de financiële positie van ondernemingen te meten. Het geeft een indicatie van de mate waarin zij in staat zijn te voldoen aan verplichtingen op langere termijn. Een hogere solvabiliteit duidt op een financieel gezonder bedrijf.
+
+Startup
+
+Een startende onderneming met een vernieuwend, schaalbaar idee rondom een nieuwe technologie.
+
+Stratum
+
+Een combinatie van bedrijfskenmerken waardoor bedrijven in de populatie en in de steekproef van de enquête aan hokjes toe te kennen zijn. In de Financieringsmonitor wordt gewerkt met 54 driedimensionale strata door bedrijfstak, grootteklasse en leeftijd te combineren.
+
+Venture capital
+
+Een vorm van private equity waarbij het specifiek om investeringen in vaak jonge ondernemingen met hoge risico’s gaat.
+
+Werkzame persoon
+
+Persoon die een baan heeft bij een in Nederland gevestigd bedrijf of bij een particulier huishouden in Nederland. Tot de werkzame personen behoren alle personen die betaalde arbeid verrichten, ook al is het maar voor één of enkele uren per week. Zij kunnen worden onderscheiden in werknemers en zelfstandigen.
+
+III. Afkortingen
+
+
+
+
+
+Noten
+
+Zie voor resultaten en informatie over de methodologie van de SAFE de van de ECB.Literatuur
+
+Belastingdienst (2022), Accijns tijdelijk verlaagd in 2022 , Belastingdienst: Den Haag.
+
+CBS (2022a), Economie in 1e kwartaal 2022 even groot als in voorgaand kwartaal , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022b), Bbp groeit 1 procent in vierde kwartaal 2021 : Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022c), De Nederlandse Economie in 2021, Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022d), Minder faillissementen in juni , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022e), Inflatie 9,6 procent in april , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022f) , Consumenten in juli somberder dan ooit , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022g), Producentenvertrouwen op nieuwe recordhoogte , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022h), Producenten industrie minder positief in juni , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022i), Producentenvertrouwen neemt toe in april , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022j), CBS Arbeidsmonitor, , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022k), Arbeidsmarkt nog krapper in eerste kwartaal , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022l), Bruto-investeringen in materiele vaste activa, volumecijfers per maand, Statline, Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS (2022m), Inflatie 8,6 procent in juni. Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CBS Arbeidsmonitor (2022), Vacatures , Centraal Bureau voor de Statistiek: Den Haag/Heerlen/Bonaire.
+
+CPB (2022a), Risicorapportage financiële markten 2022 , Centraal Planbureau: Den Haag.
+
+Crowdfundingcijfers.nl (2022), Crowdfunding in Nederland 2021 .
+
+DNB (2022a), ECB kondigt nieuw transmissie-instrument aan in strijd tegen oplopende inflatie, De Nederlandsche Bank: Amsterdam.
+
+DNB (2022b), De invloed van het corona steun- en herstelpakket op het Nederlandse bedrijfsleven , De Nederlandsche Bank: Amsterdam.
+
+DNB (2022c), Overzicht financiële stabiliteit: voorjaar 2022 , De Nederlandsche Bank: Amsterdam.
+
+DNB (2022d), Economische Ontwikkelingen en Vooruitzichten: juni 2022 , De Nederlandsche Bank: Amsterdam.
+
+DNB (2022e), Deposito’s en leningen van MFI’s aan niet financiële bedrijven, De Nederlandsche Bank: Amsterdam.
+
+DNB (2022f), Nieuwe Europese regels voor crowdfundingdienstverleners, De Nederlandsche Bank: Amsterdam.
+
+ECB (2022a), Monetary Policy Decisions, European Central Bank: Brussel.
+
+ECB (2022b), Wat zijn TLTRO’s, European Central Bank: Brussel.
+
+Faan (2022), Cijfers en Trends, Factoringnederland.nl: Tilburg.
+
+NVB (2022), Coronamonitor 2021 , Nederlandse Vereniging van Banken: Amsterdam
+
+NVL (2022), Leasingmarkt voor bedrijfsmiddelen in Nederland – Marktcijfers eerste kwartaal 2022, Leasing Nederland – Nederlandse Vereniging van Leasemaatschappijen: Abcoude.
+
+NVL (2021), Leasingmarkt voor bedrijfsmiddelen in Nederland – Marktcijfers 2021, Leasing Nederland – Nederlandse Vereniging van Leasemaatschappijen: Abcoude.
+
+SMF (2021), Onderzoek non-bancaire financiering 2020 , Stichting MKB Financiering: Amsterdam.
+
+SMF (2022), Onderzoek non-bancaire financiering 2021 , Stichting MKB Financiering: Amsterdam.
+
+Rijksoverheid (2022a), Maatregelen om de hoge energieprijzen te compenseren , Rijksoverheid: Den Haag.
+
+Rijksoverheid (2022b), Nieuwe wet helpt faillissementen voorkomen, Rijksoverheid: Den Haag.
+
+
+
+

@@ -1,0 +1,30 @@
+Date:
+2022-12-22
+Article Title:
+ Charts on casual employment, occupation, industry and job mobility, November 2022
+
+Article Content:
+This article includes information on casual employment, occupation, industry and job mobility. It follows previous similar articles during the COVID period, including:
+These can all be found in the Labour Force, Australia .
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Information in this article refers to a person’s ‘main job’, based on questions that are asked in the Labour Force Survey in February, May, August and November.
+  Insights into Industry and Occupation (, )
+  Insights into casual employment, occupation and industry ()
+  Charts on casual employment, occupation and industry (, , ,  , and )
+  Insights into job mobility from quarterly Labour Force statistics (first in a non quarter month , and then in ).
+  Charts on casual employment, occupation, industry and job mobility ().
+Chart 1 compares the change in hours worked for casual employees (i.e. those without paid leave entitlements), non casual employees (i.e. those with paid leave entitlements) and owner managers, indexed to February 2020. It shows that during periods with lockdowns and restrictions the hours of casual employees, and to a lesser extent owner managers, were particularly impacted.
+The index shows the hours worked by casual employees rose 1.8% between August and November and is now 5.8% higher than the pre pandemic level in February 2020.  
+Chart 2 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020.
+The number of employed people working as casuals increased by 0.4% between August and November 2022 and is 3.2% higher than the pre pandemic level in February 2020. This was outpaced by the growth in employees with paid leave entitlements, which rose 2.7% between August and November 2022 and is now 8.0% higher than February 2020.
+Chart 3 shows both the average and total weekly hours worked by casual employees have been higher than pre pandemic levels since August and have continued to increase into November 2022.
+Chart 4 shows the total weekly hours worked by casual employees across different weekly hours worked categories.
+Chart 5 shows changes in employment and average hours worked in each of the major groups of occupations from August to November 2022. 
+Chart 6 shows the proportion of employed people, by occupation, who worked fewer hours than usual in November 2019 and November 2022. The occupation data is sorted from lowest to highest for November 2022.
+Chart 7 shows the proportion of employed people, by occupation, who worked fewer hours due to own illness, injury or sick leave in November 2019 and November 2022. The occupation data is sorted from lowest to highest for November 2022. Illness had the greatest impact on people employed in Community and personal service workers occupations in November 2022.
+Chart 8 shows changes in employment and average hours worked in each of the industry divisions from August to November 2022.
+Chart 9 shows proportion of employed people who worked fewer hours than usual, by industry, in November 2019 and November 2022. The industry data is sorted from lowest to highest for November 2022. 
+Chart 10 shows the proportion of employed people, by industry, who worked fewer hours than usual due to own illness, injury or sick leave in November 2019 and November 2022. The industry data is sorted from lowest to highest for November 2022. Illness had the greatest impact on people employed in the Arts and recreational services, Health care and social assistance and Education and training industries in November 2022.
+Chart 11 shows the reasons people left or lost a job in the past three months.
+Immediately prior to the pandemic, around 225,000 people indicated that they left a job in the past three months for 'a better job' or 'wanted a change'. This decreased in the early stages of the pandemic, then began to increase from late 2020, reaching a high of around 360,000 people in August 2022, the highest level since the series began in May 2001.
+In November 2022, the number of people who indicated that they left a job in the past three months because they changed to a ‘better job’ or ‘wanted a change’ decreased by around 33,000 to 327,000 people, which was the first decrease since the early stages of the pandemic.

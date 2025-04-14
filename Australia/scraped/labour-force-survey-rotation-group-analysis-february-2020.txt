@@ -1,0 +1,26 @@
+Date:
+2020-03-19
+Article Title:
+ Labour force survey rotation group analysis, February 2020
+
+Article Content:
+The Labour Force Survey sample can be thought of as comprising eight sub samples (rotation groups), with each sub sample remaining in the survey for eight months, and one group "rotating out" each month and being replaced by a new group "rotating in". As seven eighths of the sample are common from one month to the next, changes in the estimates reflect real changes in the labour market, rather than changes in the sample. The replacement sample is generally selected from the same geographic areas as the outgoing one, as part of a representative sampling approach.
+The sample comprises three components:
+The matched common sample describes the change observed for the same respondents in th current and previous month, while the other two components reflect differences between the aggregate labour force status of different groups of people.
+While the rotation groups are designed to be representative of the population, the outgoing and incoming rotation groups will almost always have somewhat different characteristics, as they reflect different households and people. The design of the survey, including the weighting and estimation processes, ensures that these differences are generally relatively minor and do not affect the representativeness of the survey and its estimates. Monthly estimates are designed to be representative, regardless of the relative contribution of the three components of the sample.
+The contributions of the three sample components to the original estimates of employed, unemployed and not in the labour force are in the following spreadsheet.
+  the matched common sample (people who responded in both the current month and previous month)
+  the unmatched common sample (people who responded in the current month but who did not respond in the previous month, or vice versa)
+  the incoming rotation group (replacing people who rotated out)
+The incoming rotation group in February 2020 had:
+The outgoing rotation group in February 2020, that will be replaced by a new incoming rotation group in March 2020, had:
+In addition to analysis across the entire sample, the ABS undertakes similar analysis for each state and territory, and highlights where there is a notable change for users to be aware of. For example, in February 2020, the incoming rotation group in Victoria was more employed and less likely to be not in the labour force than both the group it replaced and the matched sample. As with any notable month to month movement of this nature in state and territory estimates, the ABS recommends exercising a degree of caution in interpreting short term changes.
+  a higher employment to population ratio than the group it replaced (62.7% in February, compared to 61.8% in January 2020), however it was lower than the sample as a whole (62.8%)
+  a higher full time employment to population ratio than the group it replaced (43.6% in February 2020, compared to 43.4% in January 2020), and was higher than the sample as a whole (43.2%)
+  a higher unemployment rate than the group it replaced (5.9% in February 2020, compared to 5.3% in January 2020), and was higher than the sample as a whole (5.5%)
+  a higher participation rate than the group it replaced (66.6% in February, compared to 65.2% in January 2019), and was higher than the sample as a whole (66.5%)
+  a lower employment to population ratio in February 2020 (62.6%) than the sample as a whole (62.8%)
+  a lower full time employment to population ratio in February 2020 (42.6%) than the sample as a whole (43.2%)
+  a lower unemployment rate in February 2020 (5.1%) than the sample as a whole (5.5%)
+  a lower participation rate in February 2020 (66.0%) than the sample as a whole (66.5%)
+As the gross flows and rotation group data are presented in original terms they are not directly comparable to the seasonally adjusted and trend data discussed elsewhere in the commentary, and are included to provide additional information for the original data. They have a considerable level of inherent sampling variability, which is specifically adjusted for in the trend series. The trend data provides the best measure of the underlying behaviour of the labour market.

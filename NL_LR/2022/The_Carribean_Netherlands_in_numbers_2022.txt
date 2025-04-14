@@ -1,0 +1,616 @@
+Article Content:
+ Introduction
+
+The Caribbean Netherlands in numbers, 2022 is a compact and colourful book with new and updated information about many different aspects of life in the Caribbean Netherlands.
+
+Whereas the previous editions covered each island individually, the 2022 edition approaches different topics through 22 questions with the answers focusing on all three islands.
+
+The texts, infographics and charts in this publication display a small selection of the data, covering important topics such as macroeconomics, energy, nature and environment, and tourism. Interesting information has been added that tell something about the local lifestyle such as smoking behaviour, neighbourhood safety and the languages spoken there.
+
+Those wanting to find out more about a particular topic will find tables and articles under the corresponding QR codes. In addition, much more than could be covered in this publication is available online:
+
+
+
+
+
+
+
+Please contact us if you have any comments or questions.
+
+This publication is available both online and in book form (available from our office in Kralendijk).
+
+May you get inspired to read, investigate and ask questions while reading The Caribbean Netherlands in numbers!
+
+
+
+How are figures calculated by CBS?
+
+The Statistics Netherlands Act of 1996 stipulated that CBS must reduce the administrative burden (from survey taking) to a minimum and allowed CBS to access government key registers for statistical purposes.
+
+In addition to these government key registers, CBS is also increasingly using business records. For example, annual reports from businesses to calculate the GDP, or data from energy companies on household and business energy consumption.
+
+Combining data from a variety of registers creates new possibilities. Moreover, new data sources are essential in maintaining the quality of statistics. Over the past few years, more and more new data sources have emerged and methods of collection have become increasingly varied. Combining all these data sources in an innovative and reliable way creates greater possibilities to produce new, up-to-date, society-oriented and more detailed statistics. We do so with a keen eye for privacy and reliability.
+
+The statistical process – step by step
+
+The question. It may be requests from local governments, semi-governmental institutes or from a ministry, for instance.
+
+Preparations. This phase contains several steps, starting with identifying what data are needed and what data are already available, such as data from PIVA (population register). PIVA-V is the central database available to authorised users. The next step is to determine whether any additional data are needed and identify their sources. Examples include registers and surveys. If there are no adequate existing sources, an additional survey may need to be prepared. In this survey, the focus is on sample design and sample method, among other things.
+
+Data collection. This involves obtaining data from all the necessary sources and performing technical inspections. If necessary, the surveys are conducted and the responses collected and entered.
+
+Anonymity. Data from registers and survey questionnaires are pseudonymised as quickly as possible after they come in by immediately removing identifying attributes.
+
+Analysis and processing. During the data analysis and processing, CBS identifies and corrects evident errors. In addition, various methods are used to estimate missing data, based on other available information. This is added to the existing sources. If – in case of a survey – a sample was drawn, the data are raised to match the requested population level.
+
+Statistical security. Here, careful checks are performed with respect to possible disclosure of individual data in cells intended for publication. There may be no risk that data of individual companies and/or persons can be derived from the data. If such a risk exists, cells for publication are automatically aggregated or values are removed from those cells. CBS will never publish statistical information about individual persons and/or companies or provide this to third parties.
+
+Publication. This important step entails dissemination of reliable and coherent statistical information among the largest possible audience. This is done via the media and directly, through various CBS channels (e.g. StatLine, website and social media). CBS uses various forms of publication, including animation, news release, paper, press conference, video, etc.
+
+
+
+How did COVID-19 develop in the Caribbean Netherlands and what is the current situation?
+
+The COVID-19 pandemic has impacted Bonaire, Saba and St Eustatius as much as the rest of the world. As of March 2020, the islands had to cope with periods with rising numbers of infections, resulting in containment measures that were established by the government, such as lockdowns, shelters in place and the closing of borders. The impact of COVID-19 was felt in all aspects of life in the Caribbean Netherlands.
+
+of this publication covered the period until September 2021, as represented in the infographic. This year, an overview of the developments up to August 2022 has been added to the graphic, further described in this section. Up until 18 August 2022, Bonaire and St Eustatius registered 30 and 5 confirmed COVID-19 deaths, respectively. There have been no cases of confirmed COVID-19 deaths on Saba.
+
+Which containment measures were necessary?
+
+After COVID-19 made its way to the islands, containment measures were introduced. These measures were necessary due to the vulnerable position of the islands (limited healthcare possibilities, no ICU capacity), and they affected tourism, the economy and society in general.
+
+The precautionary measures included restrictions on the number of people gathering at e.g. churches, supermarkets, restaurants and at sports activities, as well as compulsory hygienic measures (the ‘on-island measures’). At the same time, all borders for national and international travel were managed through an exit/entry policy.
+
+Apart from travel restrictions, Bonaire had two lockdowns due to the further spread of coronavirus: one in Q3 2020 and one from mid-March to beginning of April 2021. During this last lockdown, a curfew was put in place. From 15 January to 1 February 2022, containment measures were tightened due to another rise in COVID-19 cases.
+
+Saba merely had a three-week lockdown, in Q2 2020. On St Eustatius, accommodation and food service establishments had to close their doors from 3 April to 15 May 2020, with the exception of take-out establishments. This was also the case in September and October 2020. In Q1 2022, St Eustatius had to enforce stricter measures due to a rise in COVID-19 cases.
+
+Relief measure were put in place between May 2020 and the end of 2021. More details follow in this publication.
+
+How did data collection take place during COVID-19?
+
+COVID-19 also impacted data collection for statistical purposes. For example, the compilation of the Consumer Price Index (CPI) for the Caribbean Netherlands was affected, because at times there was no or limited possibility of collecting prices from certain products and services. In some cases it was even impossible to observe prices. The latter was the case for Saba in April 2020, during the shelter in place, and for Bonaire during the lockdowns in September 2020 and in March 2021. Since the measures put in place on St Eustatius affected travellers and businesses to a minor extent, the impact on data collection for the CPI remained minimal. Further measures put In place on the islands in the first and second quarters of 2022 had no impact on CPI data collection.
+
+The Labour Force Survey Caribbean Netherlands (LFS-CN) is usually held every two years, between October and December. Due to the COVID-19 measures, the survey could not be conducted earlier than between December 2020 and March 2021. The survey, which is usually held face-to-face, was now also conducted via telephone on Bonaire, in order to minimise contact between interviewers and interviewees.
+
+The Omnibus Survey, which takes place every four years, is held between October and December. In 2021, COVID-19 had no effect on this survey.
+
+What is the current situation?
+
+After a stable period regarding infections, Bonaire and St Eustatius again experienced an increased number of positive COVID-19 cases in January 2022. This meant a reintroduction of containment measures on both islands, which contributed to a gradual drop in infections. A low number of COVID-19 cases and the burden on the economy and the local healthcare system led the local governments to relax the COVID-19 measures. Saba lifted all on-island restrictions on 18 February, followed by Bonaire and St Eustatius on 4 March and 11 May 2022, respectively. Shortly after, the restrictions on travelling to the islands were no longer applicable.
+
+Note: The described COVID-19 timeline has been updated until 31 August 2022. Possible measures or changes after this date have not been taken into account.
+
+
+
+How has the population evolved over the past decade?
+
+On 1 January 2022, the population of the Caribbean Netherlands stood at 27.7 thousand. This is 5.4 thousand more than ten years previously, at the start of 2012. Over the past decade, only Bonaire has seen population growth; the number of inhabitants has actually decreased on St. Eustatius and Saba.
+
+Bonaire had 22,573 residents as at 1 January 2022, which is almost 6 thousand (36 percent) more than one decade previously. This was mainly because more people settled on Bonaire than departed (the migration balance was 4.9 thousand) and, to a lesser extent, because of natural growth (the balance between births and deaths was 1.1 thousand). The population increased the most in 2013: by just over 1 thousand, representing the strongest growth. There was also relatively strong growth in 2012 and between 2019 and 2021, with around 800 additional residents per year. Fluctuations in population growth can be attributed almost entirely to migration; natural growth remained more or less uniform, with a birth surplus of around 100 per year.
+
+Decline on St Eustatius
+
+At the start of 2022, St Eustatius had 3,242 inhabitants, which is 470 people (12 percent) less than at the start of 2012. The strongest decline was seen in 2015, when the population decreased by almost 700. This coincided with the clean-up of the PIVA (population administration), when entries of non-residents in St Eustatius were removed from the records. For example, many US citizens were considered as not actual residents. Population records were also cleaned up in 2014 and 2018, but less than in 2015.
+
+Slight decline on Saba
+
+On 1 January 2022, Saba had 1,911 registered inhabitants. This was 58 (3 percent) less than at the start of 2012, i.e. ten years previously. The strongest decline took place in 2018, when negative population growth (–240) was recorded. This coincided with an administrative clean-up as well: there were increased checks on the deregistration of students after they had completed their studies, in collaboration with the local university. The same development took place in 2013, but to a lesser extent.
+
+
+
+
+
+How have prices in the Caribbean Netherlands developed?
+
+Inflation, the annual rate of change of the consumer price index, has been rising in the Caribbean Netherlands since the beginning of 2021. Among the three islands, Bonaire has seen the highest inflation rate and St Eustatius the lowest.
+
+On Bonaire, inflation surged from –3.2 percent in Q1 2021 to 9.2 percent in Q1 2022. Inflation on St Eustatius rose from –4.1 to 4.9 percent, while on Saba, the inflation rate went up from –1.3 to 6.7 percent.
+
+In 2020, the three islands had low inflation, mainly thanks to government subsidies on electricity, water and telecommunications (relief measures in the context of the coronavirus epidemic). The relief measures were in place during most of 2021. The CPI increases in 2021 were largely due to rising energy prices.
+
+Prices of transportation services and petrol
+
+Prices of transportation include for example cars, fuels and airfares. In Q1 2022, transportation was 8.2 percent more expensive on Bonaire year on year; for Saba the increase was 10.3 percent and for St Eustatius 8.4 percent.
+
+Prices of petrol and diesel, which have a major impact on transportation prices, have increased steadily from the beginning of 2021 onwards. On Bonaire, petrol was 35 percent more expensive in Q1 2022 year on year; for St Eustatius this was 30 percent and for Saba 29 percent.
+
+Prices of food and non-alcoholic beverages
+
+Food prices have been increasing in the Caribbean Netherlands since Q1 2021 and the rate of change is very similar among the three islands. On Bonaire, food was 4.9 percent more expensive in Q1 2022 than one year previously. For St Eustatius and Saba this was 4.7 percent.
+
+
+
+
+
+What do young people like to do in their spare time?
+
+In 2020, the most popular leisure activity among young people on Bonaire was gaming. Gaming was also popular on Saba, as was spending time outdoors with friends. On both islands, boys were significantly more likely to play video games and sports than girls. They also met up with friends outside more often. On Bonaire, girls were more likely than boys to be engaged in creative activities. No figures are available for St Eustatius on this subject.
+
+On Bonaire, 43 percent of 11 to 17‑year-old pupils in secondary education (VO) or secondary vocational education (MBO) reported that they often spend their spare time gaming. They were also relatively likely to do sports (37 percent), be engaged in creative activities such as playing music, drawing or doing crafts (35 percent) and meet up with friends outside (30 percent). 16 percent of the young people indicated they often do volunteer work in their spare time, there was hardly any difference between boys and girls in this regard. Boys (61 percent) were more likely to play video games than girls (26 percent). They also played sports and met up with friends outside relatively more often. Girls, on the other hand, were more likely to be engaged in creative activities: 39 percent, versus 31 percent of boys.
+
+On Saba, 54 percent of young people between the ages of 11 and 18 reported that they often meet up with friends outside. This makes it a popular leisure activity on the island, just like gaming (53 percent), playing sports (52 percent) and being engaged in creative activities (48 percent). Similar to Bonaire, boys were significantly more likely to play video games and sports than girls were. They also met up with friends outside or at home more often. As for creative activities, there was hardly any difference between boys and girls on Saba.
+
+Spare time
+
+For a number of activities, including meeting up with friends, playing sports, being engaged in creative activities, gaming and doing volunteer work, the students were asked how often they do this in their spare time. The response categories were: often, sometimes, never.
+
+
+
+
+
+What was the extent of the COVID-19 emergency package for businesses?
+
+From March 2020 to October 2021 inclusive, an emergency package was in place for businesses in the Caribbean Netherlands, to tackle the economic consequences of the coronavirus pandemic. A total of 47 million US dollars was paid in 2020, while in 2021 the support amounted to 51 million US dollars.
+
+In 2021, altogether 37 percent of businesses on Bonaire received a financial contribution towards their wage costs and/or fixed overhead. On both Saba and St Eustatius, this was 30 percent. Altogether 1.1 thousand Bonaire companies received support; 100 on St Eustatius and 60 on Saba.
+
+On Bonaire, 39 percent of the financial contributions (18.4 million US dollars) went towards the accommodation and food services sector. Another 39 percent of the package was received by wholesale and retail trade, culture, sports and recreation, and rental and other business services.
+
+
+
+
+
+What is the average annual wage of employees?
+
+The average annual wage of employee jobs on Bonaire was 25.5 thousand US dollars in 2020. This is 2 percent more than in 2019. On St Eustatius, the average annual wage was 33.9 thousand US dollars and on Saba it was 31.4 thousand US dollars. From 2011 onwards, wages have increased by 2 percent on average in each consecutive year.
+
+What are the best-paying sectors on Bonaire?
+
+In 2020, the highest annual wage on Bonaire was found in the mining sector (45.6 thousand US dollars), followed by energy and public administration. The lowest average wages were found in the sectors agriculture, accommodation and food services, and business services.
+
+
+
+
+
+Do people feel safer on Bonaire than on St Eustatius or Saba?
+
+In 2021 more Bonaire inhabitants aged 15 and over stated they felt safe than in 2017. Almost 90 percent said they never felt unsafe; this was 81 percent in 2017. Ninety-four percent of inhabitants on St Eustatius and Saba stated that they never felt unsafe.
+
+In 2021, almost half (46 percent) of Bonaire inhabitants aged 15 years and over believed there was no crime in their local neighbourhood; 42 percent thought there was little crime, and 2 percent thought there was a lot of crime. The latter was 6 percent in 2017. The inhabitants of St Eustatius and Saba were much more likely to indicate that, in their opinion, there was no crime in their own neighbourhood (87 and 88 percent respectively) compared to the inhabitants of Bonaire.
+
+The inhabitants of Bonaire gave a score of 7.9 for safety in their neighbourhood; this was 7.7 in 2017. The inhabitants of St Eustatius and Saba gave scores of 8.7 and 9.3 respectively; these were unchanged from four years ago.
+
+Neighbourhood nuisance has decreased on Bonaire
+
+In 2021, 62 percent of Bonaire inhabitants said that they sometimes encounter nuisance in their local neighbourhood. This is lower than in 2017, when this was almost 70 percent. Traffic-related nuisance was most common: 47 percent of island residents said that this sometimes occurs in their local neighbourhood, mainly due to cars driving too fast. 31 percent of inhabitants said that physical degradation, such as animal faeces, rubbish on the street or vandalised street furniture, is sometimes encountered in their neighbourhood. 21 percent said the same for social nuisance, such as drunk people and groups of youngsters on the streets.
+
+Inhabitants of Saba were more likely to report traffic-related nuisance (80 percent), physical degradation (41 percent) and social nuisance (31 percent) than inhabitants of Bonaire. On St Eustatius, inhabitants were less likely to report traffic-related nuisance (31 percent) and – in particular – social nuisance (7 percent) than people on the other two islands.
+
+
+
+
+
+How many people visit Bonaire by cruise ship?
+
+Due to the COVID-19 crisis, in 2021 significantly fewer people visited the islands of the Caribbean Netherlands. For instance, cruise tourism to Bonaire only restarted in earnest towards the end of 2021. In total, 56.6 thousand people arrived on the island by cruise ship that year. Most visitors (111.3 thousand) arrived by air. The number of cruise ship and air passenger arrivals was still considerably lower in 2021 than in the pre-pandemic year 2019.
+
+Return of cruise ships as of September 2021
+
+The number of cruise ship arrivals on Bonaire started increasing gradually as of September 2021. In the last few months of the year, Bonaire received 56.6 thousand cruise ship passengers. Cruise traffic came to a complete standstill when the COVID-19 restrictions for Bonaire came into effect in mid-March 2020.
+
+In November and December 2019, the number of cruise ship passenger arrivals on Bonaire stood at around 52 thousand and 68 thousand respectively; this was only 18 thousand and 35 thousand during the same months in 2021. Prior to the COVID-19 pandemic, most cruise ship passengers visited Bonaire during the months of November, December, January and February.
+
+Bonaire flight tourism partially recovered
+
+In 2021, 111 thousand people visited Bonaire by airplane. This was 30 percent less than in 2019, prior to the COVID-19 crisis. During the second half of 2021, airline traffic recovered so quickly that more people visited Bonaire in Q4 2021 than in Q4 2019 (40 thousand).
+
+Recovery of inbound tourism by air continues on Saba
+
+4.1 thousand people visited Saba by air in 2021. This was more than in the previous year, when only 2.7 thousand people visited. However, it was still 56 percent less than in 2019, the pre-pandemic year.
+
+3.6 thousand visitors flew to St Eustatius in 2021, while this was almost 11 thousand two years earlier. It was somewhat higher in 2021 than in 2020, when there were 3.2 thousand visitors.
+
+Just as Saba, St Eustatius saw an upturn in incoming visitors by air in 2021, but the total was still below the pre-pandemic level.
+
+
+
+
+
+What percentage of the population speaks Dutch?
+
+The most commonly spoken language on Bonaire is Papiamentu: over 60 percent of people aged 15 years and over referred to it as their main language in 2021. English is the main language for 81 percent on St Eustatius and for 83 percent on Saba. Dutch is the main language for only a small section of the population.
+
+On Bonaire, Dutch is the main language for 15 percent of the population. This is just 4 percent on St Eustatius and on Saba. On Bonaire, Spanish is equally as common as Dutch. On the other two islands, Spanish is the most commonly spoken language after English.
+
+Inhabitants Caribbean Netherlands often multilingual
+
+Many inhabitants of Bonaire, St Eustatius and Saba speak more than one language. Multilingualism is highest on Bonaire, where 91 percent of the population speak more than one language, against 52 percent of the population on St Eustatius and 57 percent on Saba.
+
+When asked which languages they speak, almost 90 percent of Bonaire’s population of 15 years and over answer Papiamentu. However, with this question it is not possible to determine their level of proficiency (whether they speak a few words or it is their native language). Three-quarters of Bonaire residents said that they also speak English, Dutch or Spanish. On St Eustatius and Saba, almost everyone speaks English (94 and 98 percent respectively); approximately a third speak Dutch or Spanish.
+
+Multilingualism more common among highly educated
+
+On all three islands, multilingualism is less common among lower educated than among highly educated people. The largest gap is seen on St Eustatius, where 39 percent of the lower educated population are multilingual, against 69 percent of the highly educated part of the population.
+
+On Bonaire and St Eustatius, young people are more likely to speak multiple languages than seniors (people over 65), who are more likely to be monolingual. On Saba, there is no significant difference between the age groups in terms of multilingualism.
+
+
+
+Definitions
+
+Spoken languages
+
+The shares for each language show what percentage of the population aged 15 years and over speak the language in question. No conclusions can be drawn about the level of language proficiency.
+
+Main language
+
+The shares for each language show what percentage of the population aged 15 years and over use the language in question as their main language. For people speaking more than one language, this is the language they speak most often.
+
+
+
+How many people on Bonaire, Saba and St Eustatius smoke?
+
+On Bonaire and Saba, approximately 13 percent of residents aged 15 years and over smoked in 2021. This is higher than on St Eustatius, where the smoking rate was 8 percent. There are more male than female smokers. In 2017/2018, 20 percent of Saba residents smoked; this was 15 percent on Bonaire and 12 percent on St Eustatius.
+
+Men on Bonaire smoke twice as often as women
+
+Men on Bonaire are more than twice as likely to smoke as women, namely 18 percent versus 8 percent. The number of men who smoke is more than 3 times higher than women smokers on St Eustatius: 11 percent of men and 3 percent of women said that they smoke. On Saba, there is no significant gender gap when it comes to smoking.
+
+People between 45 and 65 years smoke the most on Bonaire and Saba
+
+On Bonaire and Saba, smoking is primarily a habit among people between the age of 45 and 65. On Bonaire, people in this age group smoke more often than the young (people under 25); on Saba, they smoke more often than people over 65. There are no significant differences among the age groups on St Eustatius.
+
+Occasional smokers mainly on St Eustatius and Saba
+
+On Bonaire, 86 percent of smokers smoked every day in 2021. This means that approximately 11 percent of the population aged 15 and over were daily smokers. Approximately 2 percent were occasional smokers : they smoked sometimes, but not every day. There are relatively more occasional smokers on St Eustatius and Saba. On these two islands, over 60 percent of smokers smoke daily, while less than 40 percent are non-daily smokers.
+
+It is noteworthy that men on Saba are more likely to be occasional smokers; half of the male smokers do not smoke every day, while one-fifth of the female smokers are occasional smokers. In terms of daily smokers on Saba, there is barely any difference between the sexes: 9 percent of men and 8 percent of women on Saba smoke every day.
+
+Definitions
+
+Smokers
+
+Percentage share of the population aged 15 years and over who answered ‘yes’ to the question: ‘Do you ever smoke?’
+
+Daily smokers
+
+Percentage share of the population aged 15 years and over who answered ‘yes’ to the question: ‘Do you smoke every day?’
+
+Occasional smokers
+
+Percentage share of the population aged 15 years and over that answered ‘yes’ to the question: ‘do you smoke occasionally?’ and ‘no’ to the question: ‘Do you smoke every day?’
+
+
+
+
+
+How much electricity comes from renewable sources?
+
+In 2021, 24 percent of all electricity produced in the Caribbean Netherlands came from renewable sources. Most of this renewable electricity came from wind turbines, although solar panels were also used. The production of solar power has primarily increased on St Eustatius and Saba in recent years.
+
+Total electricity production for the three islands of the Caribbean Netherlands amounted to 156.2 million kWh in 2021, of which 24 percent (37.7 million kWh) came from renewable sources. This was 29 percent in 2012 (32.5 million kWh). Electricity production from renewable sources peaked in 2018, at 33 percent. Renewable sources account for 33 percent of total electricity production in the European Netherlands. Since 2020, the European Netherlands has had a higher share of renewable electricity than the Caribbean Netherlands. However, it should be noted that the figures on the Caribbean Netherlands do not include electricity from solar installations in homes and businesses, while those of the European Netherlands do.
+
+Bonaire relies on wind
+
+Electricity production on Bonaire amounted to 130.6 million kWh in 2021. A share of 29.2 million kWh (22 percent) was renewable. Almost all renewable electricity (99 percent) was produced using wind turbines. The remainder was provided by solar panels. In 2014, renewable electricity held a share of 42 percent on Bonaire. This was approximately 30 percent in subsequent years.
+
+More solar power on St Eustatius
+
+Electricity production on St Eustatius amounted to 16.3 million kWh in 2021. The renewable electricity share was 5.2 million kWh or 32 percent. The share reached its highest level in 2018, namely 45 percent. Decreases in 2020 and 2021 coincided with maintenance work on the installations. This electricity was mainly produced using solar panels. Solar energy was initially generated at a new solar facility, in its first phase as of 2016. The second phase was completed in November 2017 and significantly increased solar energy production on the island.
+
+During the day, the solar park on St Eustatius is able to meet all of the island’s electricity needs. In the evening and at night, and if the weather is not ideal (cloudy conditions), the system automatically switches to production based on diesel generators.
+
+Solar parks on Saba
+
+Electricity production on Saba amounted to 9.2 million kWh in 2021. Of this, 3.3 million kWh is renewable, equivalent to 36 percent of total production. Saba currently has two solar parks, with the first becoming operational in February 2018 and the second in February 2019.
+
+
+
+
+
+How many turtle nests are there on Bonaire and St Eustatius?
+
+Linking various ecosystems, turtles play a vital role in the health of the oceans, from beaches to seagrass beds and coral reefs. To understand how the turtle population is doing, turtle nest counts are conducted on multiple beaches of St Eustatius and Bonaire. On Saba, no data is collected on turtle nests, since there are very few beaches and these areas are difficult to access.
+
+Bonaire and St Eustatius are both home to two sea turtle species: hawksbill and green turtle. These turtle species can be seen all year round. During the nesting season, Bonaire beaches are also visited by the loggerhead turtle. Recently, Bonaire has also seen hybrid turtle nests, which in this case are a cross between the hawksbill and the loggerhead turtle. Apart from the hawksbill and green turtle, nests of the leatherback turtle are also infrequently encountered on St. Eustatius.
+
+The turtle nesting population on Bonaire has seen a moderate increase since the start of data collection in 2003. At the same time, the green turtle nesting population has increased.
+
+On St Eustatius, the turtle nesting population has been fluctuating. Bonaire has counted more hawksbill nests than green turtle nests, whereas it is the other way around on St Eustatius with the majority being green turtle nests. Although the leatherback turtle comes to St Eustatius to lay eggs, it is an infrequent visitor.
+
+
+
+
+
+How many airline passengers flew to and from the islands?
+
+In 2021, over 290 thousand passengers flew to and from the airports of Bonaire, St Eustatius and Saba. This was almost 60 percent more than in 2020, but still 36 percent less than the over 457 thousand passengers in 2019. The number of flights (17.4 thousand) to and from the three airports was 38 percent higher than in 2020, but still approximately one third less than in 2019.
+
+Bonaire airport fourth busiest in the Netherlands
+
+Flamingo Airport on Bonaire handles nearly 90 percent of all air passenger travel to and from the Caribbean Netherlands. In 2021, almost 260 thousand passengers passed through the terminal on Bonaire, which was 62 percent more than in 2020.
+
+15.2 thousand air passengers travelled to and from St Eustatius and 15.3 thousand to and from Saba in 2021, representing a respective increase of 15.6 percent and 68.8 percent compared to 2020. Most of these passengers travelled between July and end of December 2021. This share was over 73 percent on Bonaire, and 60 and 66 percent respectively on St Eustatius and Saba.
+
+In both 2020 and 2021, Flamingo Airport on Bonaire was the fourth busiest passenger airport in the Netherlands, after Amsterdam Airport Schiphol, Eindhoven Airport and Rotterdam The Hague Airport.
+
+Over half of all flights are to and from Bonaire
+
+Flamingo Airport on Bonaire handles the most flights among the three overseas Dutch airports. Between 2019 and 2021, approximately 60 percent of all air travel to and from the Caribbean Netherlands was to and from Bonaire. Of the remaining flights in this period, 24 percent went to and from F.D. Roosevelt Airport on St Eustatius and almost 16 percent to and from Juancho E. Yrausquin Airport on Saba.
+
+Majority of flights 2021 in second half
+
+In July 2020, after flight restrictions in the Caribbean Netherlands had been lifted, there was a notable increase in air traffic to and from Bonaire. When COVID-19 restrictions for international airlines were lifted on 15 May 2021, most of the flights started going into and out of Bonaire again. Bonaire saw 6.4 thousand flights in the second half of 2021, i.e. an increase of 80 percent compared to the second half of 2020. The largest increase (114 percent) took place on Saba with 1.9 thousand flights in the second half of 2021, which was 1 thousand more than in the previous year.
+
+
+
+
+
+How was the economy performing in 2019, prior to COVID-19?
+
+Gross domestic product (GDP) on Bonaire increased by 6.3 percent on the previous year in 2019. This was the highest volume growth since CBS started measurements in 2012. At the same time, GDP decreased by 8.6 percent and 5.3 percent respectively on St Eustatius and Saba. More recent figures are not available for this publication.
+
+Bonaire’s gross domestic product (GDP) amounted to 553 million US dollars in 2019. Just as in the previous year, there were many construction activities on the island; the gross value added generated by Bonaire’s construction sector increased by 23.3 percent as a result. The retail sector benefited from strong growth in the construction sector as Do-It-Yourself stores needed to import more construction-related materials. Other retail businesses such as supermarkets also performed well in 2019. The value added offered by the retail sector increased by 10.1 percent.
+
+More tourists, higher value added
+
+In 2019, the gross value added generated by the accommodation and food services sector on Bonaire increased by 11.2 percent on the previous year. This could be attributed not only to the rising number of tourists visiting the island by boat or plane, but also to population growth. Year on year, inbound tourism by air grew by 6.3 percent, while the number of cruise passengers grew by 15.3 percent. Population growth amounted to 3.4 percent. This resulted in boosted demand for food and beverages, also to the benefit of tourist accommodations, restaurants, bars, etc.
+
+Large companies cause GDP decline on St Eustatius
+
+The GDP of St Eustatius amounted to 120 million US dollars in 2019. The year-on-year decrease in the GDP volume was on account of several large companies on the island. These companies mainly produce for export purposes and are affected by regional developments in the oil sector. In 2019, they suffered losses due to a decrease in exports. Although these companies have a major impact on GDP, they only have a limited impact on national revenues.
+
+Downturn in construction and education on Saba
+
+The GDP of Saba amounted to 47 million US dollars in 2019. The drop in the volume of GDP for Saba was primarily on account of the construction and education sectors. The gross value added of the education sector decreased, because fewer students came to the island in 2019. The year-on-year decrease in the construction sector was primarily due to a greater number of activities carried out in 2018, when the damage caused by hurricanes Irma and Maria was repaired.
+
+Definitions
+
+Gross domestic product (market prices) (GDP)
+
+The final result of productive activities by production units in the Caribbean Netherlands. It equals the sum of value added in all sectors of industry, and includes some transactions that are not classified by sector of industry.
+
+Volume change
+
+The weighted average of the changes in the volume and quality of the parts of particular goods or service transactions or the value added.
+
+GDP per capita (as defined by Eurostat)
+
+The indicator is calculated as the ratio of real GDP to the average population of a specific year.
+
+
+
+
+
+How many people work in the Caribbean Netherlands?
+
+In 2020, the size of Bonaire’s working age population (all persons aged 15 to 74 years) was slightly under 16.5 thousand, of whom 69.8 percent were in employment. On St Eustatius, 71.0 percent of the working age population were in work and on Saba 73.4 percent of the 1.5 thousand.
+
+On all three islands, labour force participation was relatively low among young people (15 to 24 years). The share in work on Bonaire was 42.7 percent, on St Eustatius 31.9 percent and on Saba 41.7 percent. Participation was highest among people aged 25 to 44 years. In the oldest age group, over 60 percent were in employment.
+
+The majority of the working age population on Bonaire, St Eustatius and Saba were not born on these islands. Instead, they were born on Aruba, Curaçao and St Maarten or in another country in Middle or South America. Fifteen percent of the workers on Bonaire were born in the European Netherlands.
+
+Low unemployment rate Saba
+
+Bonaire’s unemployment rate was 4.6 percent in 2020. This is equivalent to almost 550 unemployed who were seeking work and available. St Eustatius’ unemployment rate was 2.3 percent, equivalent to 40 unemployed. At just over 3 percent, Saba’s unemployment rate was relatively low.
+
+Unavailable or not looking for work
+
+Bonaire has by far the largest working age population. Just over 4.4 thousand of them were not part of the local labour force: they were either not looking for work or not available. In most cases, they were neither of the two. A large group (33 percent) were unwilling or unable to work due to old age or retirement. For 20 percent of those outside the labour force – young residents in particular – education was the predominant reason why they were not looking or unavailable for work. Other, smaller, groups included people unable to work due to a disability or poor health (11 percent), or because they had to take care of their families (9 percent).
+
+The overall picture on the other two islands is similar to the situation on Bonaire.
+
+
+
+
+
+How much were imports and exports in 2021?
+
+In 2021, goods imports on Bonaire, Saba and St Eustatius amounted to 292, 22 and 39 million US dollars, respectively. The value of goods exports from Bonaire was 10 million US dollars. For Saba and St Eustatius, exports stood at around 1 million US dollars in 2021.
+
+Majority of goods imported
+
+Since almost no manufacturing or production takes place on the islands, most goods need to be imported. This results in structural trade deficits. In 2021, Bonaire’s trade deficit was 282 million US dollars, one-fifth more than in the previous year. That year, the island’s trade deficit decreased for the first time in six years.
+
+Trade deficit development
+
+Bonaire’s trade deficit grew by 46 million US dollars relative to 2020. Most of this growth came from machinery and transport equipment (19 million US dollars), followed by food and live animals (10 million US dollars).
+
+Saba’s trade deficit increased by 5 percent to 22 million US dollars in 2021. The trade deficit of St Eustatius decreased for the fourth year in a row. The island imported USD 38 million more in goods than it exported in 2021.
+
+On Bonaire, almost half of the year-on-year import growth (48 million US dollars) occurred in the fourth quarter of 2021. The 88 million US dollar import value in Q4 was the highest after measurements began in 2011. Furthermore, the year-on-year import growth on Bonaire continued in Q1 2022, with a 17-percent increase to a total of 77 million US dollars.
+
+Saba’s goods imports amounted to 7 million US dollars in Q1 2022, resulting in a value that was almost a third higher year-on-year and the highest since Q3 2015. Following a drop in import value over 2021, St Eustatius also imported a fifth less in goods in Q1 2022. Imports amounted to 9 million US dollars in this quarter.
+
+
+
+
+
+Did COVID-19 affect purchasing power in the Caribbean Netherlands?
+
+In 2020, government support to mitigate the financial consequences of the coronavirus crisis for the working population contributed to a positive purchasing power development in the Caribbean Netherlands. The median purchasing power rose by 4.2 percent on Bonaire, by 2.4 percent on St Eustatius and by 4.1 percent on Saba.
+
+Improvement in purchasing power
+
+Due to the emergency COVID-19 support to local companies, employee jobs were barely lost and wages not reduced in 2020. Self-employed entrepreneurs were also compensated for their income losses. In addition, a number of steps were taken as of 2019 to improve livelihood security, boosting purchasing power on all three islands. In 2020, the child benefit was raised by more than 30 percent. Both social benefits and the statutory minimum wage received a supplemental increase as well. Furthermore, in 2020, a compensation on water, electricity and internet on all three islands gave a further boost to local purchasing power.
+
+From 2012 to 2017, the median purchasing power throughout the Caribbean Netherlands improved each year. On Bonaire and Saba, average price levels increased more rapidly than incomes in 2018, leading to purchasing power losses. There where purchasing power gains again from 2019 onwards, although on all three islands the gain was less substantial in 2020 than in the preceding year.
+
+The median purchasing power rose for all types of households. Due to the raised child benefit, the improvement was most evident in households with underage children. Single parents on Bonaire and Saba benefited most: for them, spending power increased by 7.4 and 6.1 percent, respectively.
+
+
+
+Definitions
+
+Median purchasing power development
+
+Purchasing power is defined as the equivalised household income adjusted for price developments which are based on the consumer price index (CPI). Purchasing power is used to determine income changes (in real terms), but may also be used to determine (developments in) differences in prosperity between individuals or households.
+
+The development is measured as the change in median purchasing power. The median is defined as the value separating the higher half from the lower half. In simple terms, it may be thought of as the ‘middle’ value of a data set.
+
+
+
+What are the future plans of VO and MBO students?
+
+In 2020, almost half of all secondary and secondary vocational (VO and MBO) students aged between 11 and 18 years on Bonaire and Saba said they would prefer to continue education after obtaining their diploma. The Netherlands and the United States were popular destinations to go to after graduation. The share who preferred staying on the island was higher among those who planned to start working, compared to those wanting to continue studying. There are no figures available on this topic for St Eustatius.
+
+Almost half wish to continue education
+
+In 2020, students aged between 11 and 18 years in secondary education (VO) or secondary vocational education (MBO) were asked what they would ideally do once they had obtained their diploma. Almost half of the students on Bonaire (46 percent) and Saba (48 percent) wanted to continue some form of education. A minor share wanted to work or start their own business. The share wanting to start their own business was higher on Saba (20 percent) than on Bonaire (13 percent). On Bonaire, a relatively large share of the students did not know yet what they would like to do after obtaining their diploma (18 percent).
+
+The Netherlands and the United States are popular destinations
+
+The students did not necessarily see their future on Bonaire or Saba. Upon graduation, 37 percent of the students on Bonaire would prefer to go to the Netherlands and 22 percent to the United States; 17 percent preferred to stay on Bonaire. Of the students on Saba, 9 percent would prefer to stay on the island, 34 percent wanted to go to the Netherlands and 29 percent to the United States. On Bonaire, the share wishing to stay on the island is higher among those who want to start working (35 percent) than among those continuing their education (10 percent). For Saba, the numbers are too small to make reliable statements about students wanting to work versus continue education and the preference to stay on the island.
+
+Definitions
+
+See their future
+
+First, respondents were asked: ‘What would you ideally like to do once you have your diploma?’ Depending on the answer, the next question was: ‘Where would you ideally like to do that?’ or ‘Where would you ideally like to live?’ Possible answers included: Aruba, Bonaire, Curaçao, Saba, St Eustatius, St Maarten, the Netherlands, Canada, the United States, elsewhere.
+
+
+
+
+
+How many people settled on Bonaire between 2019 and 2021?
+
+A total of 2,165 people settled on Bonaire between 2019 and 2021. Over a quarter of these people were born in the European Netherlands, while just under a quarter were born elsewhere in the Caribbean Netherlands. Another quarter were born in South America, mainly Venezuela, Colombia and Peru.
+
+Between 2019 and 2021, net migration on Bonaire of persons born in the European Netherlands (immigration minus emigration) was 602. This was higher than in previous years. Relatively more people in their late twenties and thirties arrived on Bonaire in 2021 than previous years; it appears that more recent graduates made their way to the island during the COVID-19 crisis. People in their forties and fifties who were born in the European Netherlands were less likely to settle on Bonaire.
+
+More Dutch tourists in 2021
+
+In 2021, Bonaire once again received tourists with Dutch citizenship for short and long stays. Over 44 thousand tourists stayed on the island for at least one night. This is comparable to 2019 and almost twice as many as in 2020 (24 thousand). These were tourists who came to Bonaire for no more than two months. The 627 tourists staying on Bonaire between two and six months were primarily young visitors.
+
+Fewer people from the Caribbean Netherlands region
+
+In 2021, 134 people born in the Caribbean Netherlands settled on Bonaire. This is higher than in 2019 (101), but clearly lower than in 2020 (254). Compared to 2019, more people in their twenties and fewer people in their thirties came to Bonaire. Young people (children and people in their twenties and thirties) who came to Bonaire in 2020 were mostly born in the Caribbean Netherlands. It appears that students and young families who were temporarily living elsewhere for study or work purposes returned to their island of birth during the height of the COVID-19 crisis, or certainly to one of the islands in the former Netherlands Antilles.
+
+
+
+
+
+How healthy is the marine ecosystem?
+
+The health of a marine ecosystem can be expressed by various indicators. For St Eustatius and Saba, marine ecosystem health is shown in the Reef Health Index, on a scale from 1 (critical) to 5 (very good). For Bonaire, an indication of reef health is the percentage of coral bleaching.
+
+The Reef Health Index score is determined by the presence of coral cover, microalgae cover (growing partly on the corals), herbivorous fish (that eat algae) and commercially important large groupers and snappers (which eat smaller fish and are in turn eaten by people).
+
+Coral cover nearly the same in 2020 and 2021
+
+Over the past five years, St Eustatius’ marine ecosystem health has been stable, scoring 3 (fair) on the Reef Health Index due to the ‘very good’ biomass levels of key herbivorous fish and commercially important fish, and despite the critically low health of the coral reefs themselves. The coral cover (2.9 percent) was nearly the same in 2020 as in 2021. At the same time, key commercial fish populations have been declining since 2018, but are still large enough to be rated as ‘very good’ biomass levels.
+
+Saba Bank’s Reef Health Index considered poor
+
+The Saba Bank, a submarine atoll three to six kilometres south of Saba, is the largest protected nature area of the Netherlands at a size of 2,200 km 2 . The Saba Bank is home to many organisms, including coral reefs, fish, lobsters, sea turtles, whales and dolphins. In 2018, the Saba Bank’s Reef Health Index was considered poor with a score of 2.25, due to a low coral cover (5.7 percent) and a low fleshy macroalgae cover (11.3 percent).
+
+The percentage of corals affected by coral bleaching in Bonaire during warm water events (temporarily warming of seawater, for example through the occurrence of La Nina or El Nino) is determined by human-induced climate change. Corals bleach as a stress response to changing temperature, light or nutrients. Coral bleaching is measured at both 10 and 25 metres depth. Generally, more corals bleach at 25 than at 10 metres depth. For each event in the past few years, the percentage of coral affected was directly related to the temperature of the surface waters and the duration of the event. Each year, the corals recover from bleaching because the stress event was not too intense or too long in duration.
+
+
+
+
+
+How does CBS handle your privacy?
+
+CBS treats your personal data with the utmost care. Individual persons are never identifiable or traceable in the statistics or publications. We also have measures in place to prevent the theft, loss or misuse of personal data. CBS will never supply identifiable data at personal level to third parties, including other government institutions.
+
+CBS protects your data with technical and logistical measures. Following are the most important measures:
+
+When you complete a survey or submit any data, this information is delivered to CBS in encoded form. The data are received by CBS in a secured environment. Only authorised personnel who require the data for their work shall have access to these data.
+
+At the earliest possible stage in the process, all directly identifiable personal data are removed from the files. This means datasets for research will never contain any data such as names, addresses or citizen identification numbers.
+
+Every CBS employee is required to observe the strictest standards of confidentiality and has signed a confidentiality agreement to this effect.
+
+CBS only uses the data for statistical and scientific purposes. CBS is excluded by law from using the data for fiscal, administrative, verification and legal purposes. Furthermore, data are never used for marketing purposes.
+
+All statistical processes at CBS are certified in terms of personal data protection. This privacy proof audit is carried out by an accredited external party.
+
+Source
+
+
+
+
+
+Sources
+
+
+
+Covid-19 emergency package (Dutch only)
+
+
+
+Consumer prices: CPI
+
+
+
+Electricity
+
+
+
+Income
+
+
+
+
+
+International trade
+
+
+
+Labour
+
+
+
+Macroeconomics
+
+
+
+
+
+
+
+
+
+Nature
+
+
+
+Central repository for biodiversity related research and monitoring data from the Dutch Caribbean.
+
+Passengers
+
+
+
+Population
+
+
+
+
+
+
+
+Safety perception
+
+
+
+
+
+Smoking behaviour
+
+
+
+Spoken languages
+
+
+
+Tourism
+
+
+
+
+
+Wages
+
+
+
+Youth
+
+
+
+
+
+
+
+

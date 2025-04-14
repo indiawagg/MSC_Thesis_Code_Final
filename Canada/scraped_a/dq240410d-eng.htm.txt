@@ -1,0 +1,15 @@
+Date:
+2024-04-10
+Article Title:
+The Daily — Housing economic account, 2023
+Article Content:
+Released: 2024 04 10
+With today's release, estimates for housing investment, depreciation, net stock, and average age have been released for 2023, as well as the economic and environmental impacts related to housing investment. In addition, data for 1961 to 2022 have been updated. These estimates are consistent with the release of the income and expenditure accounts for the fourth quarter of 2023. The full time series are now available in the data tables for housing investment, depreciation, net stock and average age from 1961 to 2023, and the environmental perspectives from 2009 to 2023. A human resource module is also available upon request.
+The data visualization product "Housing Economic Account: Visualization of housing flows and stock in value, housing stock in units, and economic impacts," which is part of Statistics Canada – Data Visualization Products (Catalogue number71 607 X), is now available.
+The article, "Remaining useful service life ratios of non residential capital stock," which is part of the Income and Expenditure Accounts Technical Series (Catalogue number13 604 M), is available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure.
+The "Dictionary, Census of Population, 2021," which is part of the Census Dictionary (Catalogue number98 301 X), is available. 
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

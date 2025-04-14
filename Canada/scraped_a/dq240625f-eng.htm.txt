@@ -1,0 +1,23 @@
+Date:
+2024-06-25
+Article Title:
+The Daily — Survey Methodology
+Article Content:
+Released: 2024 06 25
+The June 2024 online issue of Survey Methodology is now available. This issue contains 14 papers.
+Preface to the special issue for papers presented at the 29th Morris Hansen Lecture on the use of nonprobability samples
+Exploring the assumption that commercial online nonprobability survey respondents are answering in good faith
+Comments by J. Michael Brick on "Exploring the assumption that commercial online nonprobability survey respondents are answering in good faith"
+Comments by Michael R. Elliott on "Exploring the assumption that commercial online nonprobability survey respondents are answering in good faith"
+Comments by Aditi Sen on "Exploring the assumption that commercial online nonprobability survey respondents are answering in good faith"
+Authors' response to comments on "Exploring the assumption that commercial online nonprobability survey respondents are answering in good faith"
+Exchangeability assumption in propensity score based adjustment methods for population mean estimation using non probability samples
+Comments by Jae Kwang Kim and Yonghyun Kwon on "Exchangeability assumption in propensity score based adjustment methods for population mean estimation using non probability samples"
+Comments by Takumi Saegusa on "Exchangeability assumption in propensity score based adjustment methods for population mean estimation using non probability samples": Causal inference, non probability sample, and finite population
+Author's response to comments on "Exchangeability assumption in propensity score based adjustment methods for population mean estimation using non probability samples"
+Handling non probability samples through inverse probability weighting with an application to Statistics Canada's crowdsourcing data
+Comments by Julie Gershunskaya and Vladislav Beresovsky on "Handling non probability samples through inverse probability weighting with an application to Statistics Canada's crowdsourcing data"
+Comments by Changbao Wu on "Handling non probability samples through inverse probability weighting with an application to Statistics Canada's crowdsourcing data"
+Authors' response to comments on "Handling non probability samples through inverse probability weighting with an application to Statistics Canada's crowdsourcing data": Some new developments on likelihood approaches to estimation of participation probabilities for non probability samples
+The June 2024 issue of Survey Methodology, Vol. 50, no. 1 (Catalogue number12 001 X), is now available. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

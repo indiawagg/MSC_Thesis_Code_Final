@@ -1,0 +1,88 @@
+Date:
+2022-12-06
+Article Title:
+ Insights into Government Finance Statistics, September 2022
+
+Article Content:
+Government fiscal support in September quarter 2022 continued to target the rising cost of living and inflationary pressures faced by households and businesses. Annual consumer price inflation increased to 7.3 per cent in the September quarter, due to higher prices for new dwelling construction, automotive fuel and food. Key drivers included fewer grant payments from the Federal Government's HomeBuilder and similar state based housing construction, and higher wholesale gas and electricity prices (a).
+Gas and electricity average wholesale prices remained at historically elevated levels. September quarter prices for these components were the second highest on record (after June quarter 2022), and were over three times higher than September quarter 2021. (b). In response several state and territory governments implemented measures to provide electricity bill relief to households.
+Revenue from Public Non Financial Corporation (PNFC) electricity generators declined in most jurisdictions after the peak in June quarter. Coal fired electricity generation decreased in September quarter, with increased generation from gas and renewable sources. PNFC electricity generators also incurred record input costs for gas and increased dividend payments, which increased expenses.
+The Reserve Bank of Australia raised the cash rate target by a total of 150 basis points in the quarter to 2.35%. Interest revenue and expenses of all levels of government increased. Stamp duties on conveyances revenue fell in most jurisdictions, as sale volumes and dwellings values across almost all of Australia declined (c).
+Funding for healthcare and assistance for those affected by floods in Queensland and New South Wales also continued.
+The health response support for COVID 19 continued at a lower level than June quarter 2022. As restrictions and lockdowns have lifted across Australia, pandemic response payments, such as business support programs, have ceased.
+Severe flooding and storm events occurred in New South Wales, Victoria, Queensland, and Tasmania (d). Commonwealth and state government disaster recovery payments rose compared to June quarter 2022.
+Australian disasters, Disaster Assist, Department of Home Affairs, November 2022
+Taxation revenue rose in most states and territories due to low unemployment and reduced impacts from COVID 19 restrictions. The main contributors to the rise were payroll tax and land tax.
+  Consumer Price Index, Australia, Key statistics, September 2022
+  Australian Energy Market Operator, Quarterly Energy Dynamics, Q3 2022
+  CoreLogic Monthly Housing Chart Pack, October 2022
+  Australian disasters, Disaster Assist, Department of Home Affairs, November 2022
+Net operating balance fell for all levels of general government, following an increase in the previous quarter. In September quarter 2022 total net operating balance:
+decreased $28.2 billion to  $15.0 billion
+was $29.7 billion higher than September quarter 2021
+  decreased $28.2 billion to  $15.0 billion
+  was $29.7 billion higher than September quarter 2021
+  Total expenses remain elevated compared to pre pandemic levels, despite recording a fall this quarter
+  Total expenses paid by general government fell 2.3% from June quarter 2022 to $215.3 billion and decreased 3.6% from September quarter 2021
+  Commonwealth COVID 19 related support including testing, vaccines, distribution of concessional rapid antigen tests (RATs) and pandemic leave disaster payments continued at a lower level than June quarter 2022
+  Natural disaster assistance payments for flood events increased this quarter
+  Total revenue received by general government fell 14.2% from June quarter 2022 to $200.3 billion. The decrease this quarter was due to usual seasonal falls in personal and company income taxes
+  Total revenue rose 12.1% from September quarter 2021 as improved economic conditions increased personal income tax, company income tax, goods and services tax and payroll tax
+State and local general government net operating balance fell $2.5 billion from June quarter 2022 to  $0.9 billion.
+Through the year, state and local net operating balance rose $13.5 billion from September quarter 2021:
+  New South Wales saw the largest decline (down $2.2 billion)
+  All jurisdictions fell except Victoria (up $2.7 billion)
+  All states recorded a negative net operating balance except Queensland ($3.4 billion) and Western Australia ($0.2 billion)
+  The largest increases were New South Wales (up $7.0 billion), Victoria (up $5.0 billion) and Queensland (up $3.9 billion)
+  Western Australia was the only state to record a fall (down $3.1 billion)
+In September quarter 2022, all levels of public non financial corporations (PNFCs) total net operating balance:
+The main contributors were:
+  decreased $0.8 billion to  $0.6 billion
+  was $0.3 billion lower than September quarter 2021
+  Decreased capital transfer revenue from general government for social housing projects (down $0.6 billion)
+  Decreased subsidy revenue from general government (down $0.4 billion)
+  Increased dividend expenses, driven by electricity generators (up $0.1 billion)
+Total taxation revenue fell 16.6% (down $32.0 billion) from June quarter 2022. This was the largest quarterly percentage decrease recorded (e) for total taxation revenue in the timeseries.
+  Since series start in September 2014
+Commonwealth taxation revenue decreased 20.5% (down $32.6 billion) to $126.1 billion. The fall in taxation revenue in September quarter 2022 followed a rise in June quarter 2022, which was the usual seasonal pattern. The main contributors were:
+The continuation of the Commonwealth government’s reduction of the fuel excise led to a 21.8% fall from September quarter 2021 in excise on petroleum products (down $1.1 billion).
+  39.4% decrease in personal income tax (down $29.9 billion)
+  22.2% decrease in company income tax (down $9.0 billion)
+State and local taxation revenue rose 1.6% (up $0.6 billion) to $34.6 billion this quarter. Increases in payroll taxes (up 8.9% or $0.7 billion) and property taxes (up 8.2% or $0.7 billion) were partly offset by a fall in stamp duties on conveyances (down 11.3% or $1.0 billion).
+The rise in payroll taxes reflects strong labour market conditions, with increases across all jurisdictions.
+The increase in property taxes is the highest quarterly growth since September quarter 2018. All states and territories rose this quarter, with New South Wales and Victoria recording the largest increases.
+Stamp duties on conveyances fell across all states and territories except Queensland, with New South Wales recording the largest decline.
+Total public investment in new assets (f) rose 16.7% through the year (up $3.6 billion) to $25.0 billion. Investment across all levels of government increased except universities.
+  Commonwealth general government rose 27.5% (up $0.7 billion), driven by investment in defence and building projects
+  State and local general government increased 16.0% (up $2.1 billion), led by higher investment in New South Wales and Victoria
+  PNFCs rose 16.2% (up $0.9 billion), driven by continued investment from Commonwealth corporations including Snowy Hydro 2.0, Western Sydney Airport and Australian Rail Track Corporation
+  Universities fell 14.9% (down $0.1 billion), as ongoing uncertainty generated by the COVID‑19 pandemic continued to reduce investment across most universities
+  Includes acquisitions of new non financial fixed produced assets. Second hand asset acquisitions and sales between sectors are excluded from this measure
+The ABS continues to determine the appropriate classification for new government policies. These classifications are based on well established conceptual frameworks (g), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to Government Finance Statistics (GFS) and the National Accounts (NA).
+These policies are grouped into five broad categories (h):
+The following presents a summary of the ABS classification of major new government policies that began during September quarter 2022 (i).
+  Frontline services
+  Provision of assistance to households
+  Provision of assistance to corporations, unincorporated enterprises, and non profit institutions
+  Changes in tax and non tax revenue
+  Capital injections, establishment of new, or extended, lending facilities and provision of guarantees
+These frameworks are supported by international standards such as the International Monetary Fund (IMF) Government Finance Statistics Manual 2014 (GFSM 2014) and the System of National Accounts 2008 (2008 SNA)
+The categories are broadly based on the recommendations in “COVID 19: How to Record Government Policy Interventions in Fiscal Statistics” (IMF, 2020)
+This table summarises key policies with an impact on the macroeconomic accounts and does not cover every specific government policy in Australia
+NA includes the gross domestic product (GDP) accounts, which are measured using the expenditure approach (GDP (E)), the income approach (GDP (I)) or the production approach (GDP (P)).  NA also includes income accounts, capital accounts, financial accounts, and balance sheets
+‘States’ refers to the state sector in macroeconomic statistics which covers all eight state and territory jurisdictions in Australia
+  These frameworks are supported by international standards such as the International Monetary Fund (IMF) Government Finance Statistics Manual 2014 (GFSM 2014) and the System of National Accounts 2008 (2008 SNA)
+  The categories are broadly based on the recommendations in “COVID 19: How to Record Government Policy Interventions in Fiscal Statistics” (IMF, 2020)
+  This table summarises key policies with an impact on the macroeconomic accounts and does not cover every specific government policy in Australia
+  NA includes the gross domestic product (GDP) accounts, which are measured using the expenditure approach (GDP (E)), the income approach (GDP (I)) or the production approach (GDP (P)).  NA also includes income accounts, capital accounts, financial accounts, and balance sheets
+  ‘States’ refers to the state sector in macroeconomic statistics which covers all eight state and territory jurisdictions in Australia
+ (June 2022)
+ (March 2022)
+ (December 2021)
+ (September 2021)
+ (June 2021)
+ (March 2021)
+ (December 2020)
+ (September 2020)
+ (2020 21)
+ (2019 20)

@@ -1,0 +1,22 @@
+Date:
+2023-04-12
+Article Title:
+ Average Floor Area of New Residential Dwellings
+
+Article Content:
+This article presents information on the floor area of new residential dwellings over a 20 year period from financial years 2002 03 to 2021 22. The data in this article are sourced from the quarterly Building Activity Survey. It provides additional data to a . The data is updated annually and published in the December edition of . The data cube is available in the Data Downloads section.
+The floor area data were obtained from the Building Activity Survey. The floor area of a building is a measure of the amount of useable space in a building (and its attachments) at the final stage of its construction and is measured in square metres (m²). The boundary of the recorded floor area of a building is delineated by the external perimeter of the exterior walls of the building. The area under unenclosed verandahs, carports, etc., attached outside the exterior walls of one or more storeys, is excluded. 
+Other residential dwellings includes apartments and townhouses. The definitions of residential buildings can be found in the . Some upwards bias is present in the size of apartments, as it is difficult to adjust for non residential commercial floor space in large apartment towers such as retail, office, or other mixed use components. Common areas such as foyers, lifts and resident amenities are also included which further increase the size recorded in ABS surveys.
+The proportion of survey records with floor area that was not stated have been excluded from analysis, varying annually between 1% and 20% of all residential dwellings in Australia. The proportion of stated floor area may fall outside this range when broken down by state/territory and type of dwelling. The following survey records have been excluded from the analysis as they are highly atypical or incorrectly reported:
+Average floor area was calculated using the formula:
+  Survey records with floor area data less than 25m² and greater than 1800m² per dwelling for new houses; and
+  Survey records with floor area of less than 25m² and greater than 800m² per dwelling for new other residential dwellings.
+  Total stated floor area of all completed dwellings in the year / Number of completed dwellings with floor area stated in the year.
+The average floor area of new residential dwellings has remained similar between 2002 03 to 2021 22. Despite this, average floor area sizes increased in the interim years between 2005 06 to 2011 12. The average floor area of new houses increased to a maximum of 245.9m² in 2008 09, whilst the average floor area of other residential dwellings peaked in 2009 10 at 146.6m². 
+Other residential dwellings have a considerably smaller average floor area at 137m², compared to houses at 232.3m² in 2021 22.
+Whilst the average floor area of new houses has remained largely consistent for Australia, the average floor area by states and territories have changed considerably.
+Over the period from 2002 03 to 2021 22, the average floor area of a new house in the Australian Capital Territory has increased to be the largest of all states and territories, increasing by 28.5m² to 258.9m². New houses in New South Wales had the largest floor area in 2002 03 but have since decreased by 5.7m² to 239.4m² in 2021 22. The average floor area of new houses in South Australia and Victoria have also increased considerably during the 20 year period, increasing by 14.4m² and 15.8m² respectively.
+The smallest houses are in Tasmania, which is the only state with an average floor area under 200m² in 2021 22. The 2021 22 average of 182.4m² in Tasmania is largely unchanged from the 2002 03 average of 180.7m². Over the 20 year period, the new house average floor area has decreased by 6.8m² in Queensland, decreased 7.9m² in Western Australia and increased by 9.7m² in the Northern Territory. 
+The average floor area of new other residential dwellings remained constant at 137m² for Australia between 2002 03 to 2021 22.
+New other residential dwellings in South Australia have the largest average floor area, increasing a further 11.6m² from 2002 03 to 159.6m² in 2021 22. Victoria and Western Australia also have floor sizes over 150m², at 150.1m² and 154.1m² respectively in 2021 22.
+The smallest average floor area in 2021 22 is in Tasmania (109.4m²), which decreased by 17m² from 2002 03. New South Wales (118.7m²) and the Australian Capital Territory (125.8m²) also have smaller average floor areas.

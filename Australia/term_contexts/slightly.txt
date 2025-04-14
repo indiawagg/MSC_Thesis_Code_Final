@@ -1,0 +1,234 @@
+Title : pandemic-insights-australian-smokers-2020-21.txt
+Context:, adding up cell values in Data Cubes to derive a total may give a slightly different result to the published totals . The introduction of perturbation in publications ensures
+
+Title : insights-job-attachment-during-pandemic-february-2022.txt
+Context:job attachment generally followed a seasonal pattern across the states and territories , though was slightly elevated in some jurisdictions ( particularly in South Australia ) . 
+ In February
+Context:during the pandemic was highest at the end of lockdown periods . It was also slightly higher than usual around the start of the year in both 2021 and 2022
+
+Title : private-rent-inflation-capital-cities-vs-regions.txt
+Context:.  
+ During 2019 , annual inflation for private rental properties in regional areas was slightly stronger than for properties in capital cities . However , since the onset of
+
+Title : deaths-due-covid-19-influenza-and-rsv-australia-2022-september-2024.txt
+Context:three months of 2024 were much higher than in either 2022 or 2023 , but slightly lower than pre pandemic average levels . For example , in 2019 there were
+Context:factor . 
+   The age standardised death rate for deaths from COVID 19   is slightly higher for Aboriginal and Torres Strait Islander females than males . The reverse is
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-august-2023.txt
+Context:determine which years to test ( these are presented below ) . Each baseline produced slightly different expected counts of deaths , which altered the % excess figures . The
+
+Title : charts-casual-employment-occupation-industry-and-job-mobility-february-2023.txt
+Context:November 2022 and February 2023 , while the average weekly hours worked remained steady and slightly above pre pandemic levels . 
+ Chart 3 shows changes in employment and average
+
+Title : queensland-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:females in Queensland were more likely than males to report having : 
+ Males were slightly more likely to report having heart disease ( 3.9 % compared with 3.4 %
+
+Title : deaths-due-acute-respiratory-infections-australia-2022-march-2024.txt
+Context:Torres Strait Islander males and females . Aboriginal and Torres Strait Islander females had a slightly lower death rate for deaths with COVID 19 than males . 
+   Of those
+
+Title : characteristics-previous-australian-defence-force-personnel.txt
+Context:had previously served , aged 15 64 who were employed on Census Night , worked slightly higher median weekly hours than those who had never served ( 40 hours and
+
+Title : australian-economy-12-things-you-need-know-about-december-quarter-2021.txt
+Context:% , the fastest quarterly growth ever for that industry . 
+   House building slowed slightly , while businesses are ready to invest in 2022 . Investment in dwellings ,
+
+Title : insights-job-mobility-quarterly-labour-force-statistics-february-2022.txt
+Context:the previous estimate for the year ending   February 2020 ( 8.1 % ) and slightly lower than the previous low in the series ( 7.7 % in the year
+Context:as people with shorter employment tenure were over represented in employment losses , and was slightly elevated during 2021 and 2022 , as people returned to work . This figure
+Context:tenure were over represented in employment losses and job mobility . Expectations of change were slightly elevated at the beginning of 2022 , at around 10.2 % of all employed
+
+Title : insights-job-attachment-during-pandemic-january-2022.txt
+Context:2022 , the number of people not employed with job attachment increased to 402,000 , slightly higher than the usual seasonal increase , with the majority of people ( 74.0
+Context:who were not in the labour force with job attachment rose to 1.4 % ( slightly higher than in January 2021 , when it was 1.2 % ) . 
+
+Context:job attachment generally followed a seasonal pattern across the states and territories , though was slightly elevated in some jurisdictions ( particularly in South Australia ) . 
+ For further
+Context:future starters during the pandemic was highest at the end of lockdown periods and also slightly higher than usual around the start of the year ( in both 2021 and
+
+Title : insights-australian-smokers-2021-22.txt
+Context:, adding up cell values in Data Cubes to derive a total may give a slightly different result to the published totals . The introduction of perturbation in publications ensures
+
+Title : insights-job-mobility-quarterly-labour-force-statistics.txt
+Context:the previous estimate for the year ending   February 2020 ( 8.1 % ) and slightly lower than the previous low in the series ( 7.7 % in the year
+Context:as people with shorter employment tenure were over represented in employment losses , and was slightly elevated during 2021 , as people returned to work . This figure was between
+Context:tenure were over represented in employment losses and job mobility . Expectations of change were slightly elevated at the end of 2021 , at around 9.9 % of all employed
+
+Title : 9-insights-australian-economy-june-2024.txt
+Context:The labour market remained tight . The unemployment rate in the month of June rose slightly compared to March to sit at 4.1 per cent . The total hours we
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-january-2024.txt
+Context:% of deaths due to COVID 19 with a chronic condition mentioned in 2023 , slightly down from 30.2 % in 2022 . 
+   Chronic respiratory conditions were certified as
+
+Title : seasonality-spotlight-2021-year-end.txt
+Context:industries , the difference between the December high in payroll jobs and mid January was slightly greater in January 2022 than a year earlier . This is in part due
+Context:However , the Retail trade industry with a more moderate seasonality in payroll jobs sees slightly higher seasonality in wages around busy trading periods throughout the year . At times
+
+Title : improved-annual-national-accounts-estimates-results-implementation-2021-22-benchmarks.txt
+Context:current price terms for 2022 23 grew 9.8 % . This has been revised up slightly from the sum of four quarters estimate of 9.6 % . 
+   Revisions to
+
+Title : insights-hours-worked-november-2022.txt
+Context:proportion of employed people taking annual leave in November 2022 was 9.6 per cent , slightly below the pre pandemic average of 10.0 per cent . 
+ People who worked
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-november-2023.txt
+Context:death registration process has been delayed .  
+ Deaths due to COVID 19 have increased slightly in October and November 2023 after lows in August and September . For every
+Context:% of deaths due to COVID 19 with a chronic condition mentioned in 2023 , slightly down from 30.2 % in 2022 . 
+   Chronic respiratory conditions were certified as
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-september-2023.txt
+Context:% of deaths due to COVID 19 with a chronic condition mentioned in 2023 , slightly down from 30.2 % in 2022 . 
+   Chronic respiratory conditions were certified as
+
+Title : covid-19-mortality-australia-deaths-registered-until-28-february-2023.txt
+Context:due to COVID 19 rose during November and December   2022   and have fallen slightly in January .  
+   Cumulatively , the highest number of deaths have occurred during
+
+Title : western-australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in Western Australia were more likely than males to report having : 
+ Males were slightly more likely to report having no long term health condition ( 59.8 % compared
+
+Title : producing-official-statistics-linked-data-technical-report.txt
+Context:” .  
+ A preliminary study compared the performance of various classification pipelines on a slightly smaller version of in scope dataset ( one obtained before the correction of systematic
+
+Title : charts-casual-employment-occupation-industry-and-job-mobility-may-2023.txt
+Context:casual employees and owner managers , indexed to February 2020 . Casual employment is now slightly higher ( 0.8 per cent ) than prior to the pandemic . Non casual
+
+Title : deaths-due-covid-19-influenza-and-rsv-australia-2022-may-2024.txt
+Context:standardised death rate for deaths from COVID 19   and deaths with COVID 19 are slightly lower for Aboriginal and Torres Strait Islander females than males . The rate difference
+
+Title : new-insights-economy-using-business-turnover-data.txt
+Context:division level respectively .    
+ Across this period , the index for Mining has declined slightly in seasonally adjusted terms with the seasonally adjusted series remaining relatively stable to March
+
+Title : national-study-mental-health-and-wellbeing-follow-study.txt
+Context:1,019 people in the Follow up Study who had a 12 month mental disorder , slightly more than one in five ( 22 % ) accessed other services for their
+
+Title : population-movement-australia.txt
+Context:2021 Census , which was consistent with previous censuses . In 2021 , people were slightly more likely to have moved elsewhere in Australia than compared to the five years
+
+Title : improvements-labour-force-estimation-method.txt
+Context:people in November 2023 , in original terms , is expected to be revised down slightly , by around 0.4 per cent ( around 60,000 people ) , with the
+
+Title : annual-weight-update-cpi-and-living-cost-indexes.txt
+Context:) and Major household appliances ( 0.07pp ) . The weight for Child care fell slightly ( 0.03pp ) due to changes to the Child Care Subsidy reducing out of
+
+Title : insights-hours-worked-march-2023.txt
+Context:fewer hours due to annual leave , holidays , flextime or long service leave increased slightly between February and March .    Public holiday effects in some States during early
+
+Title : south-australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in South Australia were more likely than males to report having : 
+ Males were slightly more likely to report having heart disease ( 4.0 % compared with 3.6 %
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-first-quarter-2023.txt
+Context:determine which years to test ( these are presented below ) . Each baseline produced slightly different expected counts of deaths , which altered the % excess figures . The
+
+Title : deaths-due-covid-19-influenza-and-rsv-australia-2022-july-2024.txt
+Context:in either 2023 ( 23 ) or 2022 ( < 5 ) . This is slightly slightly below pre pandemic deaths due to influenza . For example , in 2019
+Context:either 2023 ( 23 ) or 2022 ( < 5 ) . This is slightly slightly below pre pandemic deaths due to influenza . For example , in 2019 there
+Context:standardised death rate for deaths from COVID 19   and deaths with COVID 19 are slightly lower for Aboriginal and Torres Strait Islander females than males . The rate difference
+
+Title : insights-hours-worked-june-2022.txt
+Context:June 2022 at its second highest level on record ( 776,800 people ) , falling slightly from its record high in May . This reflected ongoing disruption associated with the
+Context:Chart 5 shows people working fewer hours due to bad weather or plant breakdown remained slightly elevated in June 2022 , mostly due to adverse weather in Victoria . 
+
+
+Title : insights-australian-exports-meat.txt
+Context:creating advantageous market conditions for Australian exporters . Price per kilo for bovine exports was slightly reduced in 2023 , reflecting an easing of supply chain constraints , whilst the
+
+Title : victoria-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:females in Victoria were more likely than males to report having : 
+ Males were slightly more likely to report having dementia ( 0.5 % compared with 0.4 % of
+
+Title : snapshot-nt-2021.txt
+Context:NT only used English at home ( 57.3 % ) ( ) . This was slightly down from 58.0 % in 2016 . 
+ After English the most common languages
+
+Title : profile-people-core-need-assistance-australia.txt
+Context:which they lived : 
+ In 2021 , rates of need for assistance had increased slightly across all states and territories since 2016 . 
+   Tasmania had the highest proportion
+
+Title : seasonal-adjustment-and-changing-seasonality-labour-force-statistics.txt
+Context:seasonally adjusted hours worked .  
+ In contrast , in April 2024 this was only slightly lower , when compared with April 2018 , which had a similar timing of
+
+Title : healthy-food-partnership-reformulation-program-wave-2-two-year-progress.txt
+Context:2021 and 2023 . 
+   Total sodium and sugar intakes in this analysis may differ slightly from those published in the 2022 23 ACSF . This is due to this
+
+Title : insights-hours-worked-december-2022.txt
+Context:proportion of employed people taking annual leave in December 2022 was 6.1 per cent , slightly below the pre pandemic December average of 6.7 per cent . 
+ Chart 6
+
+Title : cultural-diversity-australia.txt
+Context:that since 1971 , the number of people in Australian born in England has only slightly increased . Proportionately , the number of people in Australian born in England has
+
+Title : spotlight-australian-labour-market-over-last-30-years.txt
+Context:years , this ratio has also increased over the same period , but at a slightly stronger pace in recent years . 
+ Average quarterly growth in employed persons since
+
+Title : same-sex-couples-living-together-australia.txt
+Context:. 
+ When comparing males and females in same sex couples , females had a slightly younger age profile than males . In 2021 , almost 20 % of the
+Context:of people who used Mandarin at home was 3.8 % for same sex couples , slightly higher than all couples ( 3.0 % ) . 
+ In 2016 , 57.4
+
+Title : back-my-day-comparing-millennials-earlier-generations.txt
+Context:in the 2006 Census when Generation X were at the same age , they were slightly more likely to live as a couple family ( 58.8 % ) . For
+Context:, the majority of Millennial students were female ( 54.0 % ) . This was slightly higher than in 2006 for Generation X ( 51.5 % ) , however for
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-june-2023.txt
+Context:Torres Strait Islander males and females . Aboriginal and Torres Strait Islander females had a slightly higher death rate for deaths with COVID 19 than males . 
+   Of those
+
+Title : 11-things-happened-australian-economy-during-june-quarter.txt
+Context:fall .   Average remuneration per employee rose 0.9 per cent during the quarter , slightly higher than inflation , but remuneration per hour fell 0.6 per cent . 
+  
+
+Title : revisions-improvements-labour-force-estimation-method.txt
+Context:example , the number of employed people , in original terms , was revised down slightly by around 0.4 per cent ( around 60,000 people ) , with the number
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-december-2023.txt
+Context:determine which years to test ( these are presented below ) . Each baseline produced slightly different expected counts of deaths , which altered the % excess figures . The
+
+Title : spotlight-seasonality-payroll-jobs-and-wages-paid-2022-year-end.txt
+Context:seen around the end of 2021 , compared to other years , reflected in a slightly steeper fall in payroll jobs from mid December 2021 . 
+ The seasonality in
+Context:payment of bonuses by some businesses around December . 
+ The Retail trade industry sees slightly higher seasonality in wages paid around the busy trading period at the end of
+
+Title : northern-territory-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in Northern Territory were more likely than males to report having : 
+ Males were slightly more likely to report having no long term health condition ( 68.0 % compared
+
+Title : 11-things-happened-australian-economy-during-december-quarter.txt
+Context:teachers and nurses . 
+   The labour market started to slow . Job vacancies fell slightly by 0.7 per cent during the quarter but remained high . The unemployment rate
+Context:second successive quarterly rise following a period of falling labour productivity . 
+   Households saved slightly more . Households saved 3.2 per cent of their income this quarter , as
+
+Title : digital-platform-workers-australia.txt
+Context:: 
+   household composition is consistent with the broader   employed population , with a slightly higher share of less common household types . 
+ For digital platform workers in
+Context:lower than   the broader population ( 89 % ) , suggesting that students are slightly more likely to be digital platform workers . 
+ For digital platform workers in
+Context:paid hours worked was 17.7   hours , while the median was 10 hours 
+   slightly more than half ( 55 % ) , did some unpaid hours of work
+
+Title : education-australia-abc-bs-and-cs.txt
+Context:had dropped to just over a quarter of teachers ( 27.2 % ) , rising slightly to 28.8 % in 2021 . 
+ In contrast , the proportion of teachers
+
+Title : insights-hours-worked-may-2022.txt
+Context:Chart 5 shows people working fewer hours due to bad weather or plant breakdown increased slightly in May 2022 , mostly due to ongoing adverse weather in Queensland .  
+

@@ -1,0 +1,12 @@
+Date:
+2023-03-28
+Article Title:
+The Daily — Experimental Environmental, Social and Governance Dashboard
+Article Content:
+Released: 2023 03 28
+The landscape in which businesses operate is evolving because of an increased awareness of environmental degradation and the importance of diversity and inclusion, changing the expectations for corporate behaviour. Whether considering the transition to a low carbon economy or a more diverse workforce, shareholders are more than ever looking beyond financial performance when making investment decisions.
+Within this context, Statistics Canada developed an experimental dashboard presenting a series of Environmental, social and governance (ESG) indicators that demonstrates the non financial performance of a selection of industries. In this second release, the dashboard has been expanded with additional indicators (breaches of privacy and employment vacancy rates) and industry sectors (construction, utilities, manufacturing, and transportation and warehousing).
+ESG indicators are three non financial factors that can be used to inform the long term risk or return of an investment. The rationale is that industries that are adequately managing their ESG risks will be less vulnerable to changes in regulations or societal expectations and will therefore perform better in the long run.
+Environmental indicators demonstrate an industry's impact on the environment, either through its consumption of goods and services, its carbon footprint or its transformation of the environment. Social indicators demonstrate businesses' relationships with their employees, consumers and surrounding community, as indicated by measures such as employment composition and job quality. Governance indicators reflect decision making processes for businesses within an industry and are typically measured by looking at the composition and compensation of boards of directors, among others.
+The Experimental environmental, social and governance dashboard (Catalogue number71 607 X) is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

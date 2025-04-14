@@ -1,0 +1,41 @@
+Date:
+2024-03-13
+Article Title:
+ New insights into the economy using business turnover data
+
+Article Content:
+New outputs in the  (MBTI) publication provide further insights into the Australian economy. The MBTI data has been used to construct a new 13 industry aggregate index that represents the total turnover across the 13 in scope industries for MBTI. In addition, data will now be available for selected ANZSIC subdivisions. 
+The MBTI was first released in August 2021 using Australian Taxation Office (ATO) Business Activity Statement (BAS) data to provide timely and more frequent insights into changes in economic activity. The publication includes indexes for 13 of the 19 ANZSIC industry divisions, providing a monthly measure of change in business turnover. Only data from monthly BAS remitters (businesses with over $20m annual turnover or those who choose to report monthly) are included.
+The ABS have introduced the 13 industry aggregate index to provide an ‘at a glance’ view of business activity and the broader economic narrative in a timely manner.  Using the aggregate index, we can gain insights into how certain macroeconomic events affected business turnover. This aggregate business turnover information will provide early information on the state of the economy, with the information being available around three to four weeks before that quarter’s Gross Domestic Product (GDP).
+In trend terms, the aggregate index illustrates how business turnover was tracking before, during and post COVID 19. Four distinct patterns can be seen in the graph below:
+Monitoring changes in the trend estimates for the aggregate index could therefore give users an early insight to turning points in the economy.
+  In the months up to February 2020 business turnover growth was relatively flat. This is consistent with results from other economic ABS releases such as the quarterly  survey (QBIS),  and  which did not identify any notable impact to their headline statistics relating to COVID 19 around that time. For MBTI in February 2020 the index (99.3) sat just below the index base period of July 2019 (100.0) indicating the economy was stable at this time. In March 2020 the aggregate index fell 1.4% as the ripple effect of COVID 19 started to flow through the economy.
+  In April 2020 the aggregate index shows the immediate impact of COVID 19 on the economy. Business turnover fell by 5.1% as the impact from the first wave of COVID 19 was being felt by Australian businesses. This worsened in May 2020 as the aggregate index fell a further 1.0% to 92.0 index points. Then in June 2020 we began to see a recovery and return to pre COVID 19 levels through to January 2021 where the index was above 100 again.
+  The impact of global supply chain disruptions, labour shortages and COVID 19 restrictions can be seen throughout 2021 and 2022. Inflationary pressures drove a period of strong business turnover growth with the aggregate index reaching 132.0 index points in August 2022.
+  Since August 2022, the aggregate index has been relatively steady, reaching 133.3 index points in January 2024.
+The aggregate index is produced by summing turnover from the 13 in scope industries. The aggregate index will improve interpretability as we will be better able to describe higher level trends in the data. This trend series depicts longer term movement in the time series without calendar related and irregular effects reflecting the underlying level of the change in business turnover.
+While the MBTI series is broadly coherent with QBIS sales data, differences in sources, scope, coverage and methods will result in some differences between the two series. Caution needs to be exercised when comparing the two series, or in using the MBTI as a leading indicator for QBIS sales or National Accounts outputs. Please refer to these two papers for further information:
+  
+  
+In addition to the aggregate index, the MBTI publication will now include indexes for selected ANZSIC subdivisions from the 13 in scope divisions. This will allow users to gain further insight into the drivers of division level movements, and to understand how the composition of different industries influences economic activity at a broader level. 
+This is illustrated by comparing Figure 1 and Figure 2 which show monthly business turnover for the Mining industry between July 2022 and January 2024 for the division and sub division level respectively.   
+Across this period, the index for Mining has declined slightly in seasonally adjusted terms with the seasonally adjusted series remaining relatively stable to March 2023.  Business turnover starts to fall away between April and August 2023, picking up again in the latter half of the year.
+However, this story changes when looking across the five subdivisions that make up the Mining division:
+Between July 2022 and January 2024, business turnover has fallen consistently for the Coal mining and Oil and gas extraction subdivisions.  In August 2022 the price of LNG peaked with increased international demand with similar influences driving a peak in Coal in September 2022. In contrast Metal ore mining has grown across the period despite a dip in early 2023.
+  Coal mining
+  Oil and gas extraction
+  Metal ore mining
+  Non metallic mineral mining and quarrying
+  Exploration and other mining support services
+MBTI indexes for selected ANZSIC subdivisions are calculated using the same methodology as the industry division indexes. Subdivisions were selected for inclusion using three main criteria: 
+More information can be found in the .
+The full list of selected ANZSIC subdivisions which will be included in the MBTI publication from January 2024 is shown below:
+  Coverage of monthly BAS remitters compared to all BAS remitters.
+  Coherence with other sources, such as the Quarterly Business Indicator Survey and annual Economic Activity Survey.
+  Relative contribution from complex businesses whose operations span more than one subdivision.
+As part of these changes, the ABS assessed the method for seasonal adjustment across the three levels of output (aggregate, division and subdivision). Previously, the division level series were directly adjusted, providing an independent assessment of the seasonality for each series. From this publication onwards, division level series are indirectly adjusted by applying seasonal adjustment to the subdivision level series individually, then these values are summed to obtain the seasonally adjusted series for the division. This change in method has resulted in revisions to the seasonally adjusted and trend estimates for the division level series.
+For more information about the Monthly Business Turnover Indicator please see:
+  Our 
+  Current 
+  
+  

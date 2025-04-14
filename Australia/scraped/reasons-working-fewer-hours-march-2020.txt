@@ -1,0 +1,36 @@
+Date:
+2020-04-23
+Article Title:
+ Reasons for working fewer hours, March 2020
+
+Article Content:
+As highlighted in , which was published in Labour Force, Australia, the most common reasons people worked fewer than their usual hours in March 2020 were:
+This article looks at how the reasons people work fewer hours than usual have changed over the past 5 years, and also provides an indication of future analysis that will be undertaken to understand impacts of COVID 19.
+  annual leave, holidays, flextime or long service leave (37%);
+  own illness, injury or sick leave (14%);
+  standard work arrangements (including shift work) (13%); and
+  no work, not enough work available, or stood down (13%).
+Table 1 shows the relative monthly movements between February and March for the past five years, for responses that the ABS anticipates may be important when analysing the potential impacts of COVID 19.
+The movements observed in March 2020 were relatively different to those seen in March 2019, with a 21.1% increase in ‘No work, not enough work available, or stood down’ between February and March 2020. Previous February to March movements have seen a fall, so this rise is unusual.
+Table 2 shows the year on year change in the reasons people worked fewer hours than usual. The year on year changes also show larger movements in the year to March 2020 compared with March in previous years for those citing ‘No work, not enough work available, or stood down’, ‘Own illness or injury or sick leave’, and ‘Personal reasons, study, and caring for sick or injured family’.
+Looking at the time series in original terms can provide additional insights into patterns in the labour market over time. For example, Chart 1 shows distinct seasonal patterns related to the cold and flu seasons in Australia in the winter months. If people begin to take sick leave due to COVID 19, particularly if individuals or workplaces take a stricter approach to managing any illness during this period , then there may be an increase in the number of people in this category and a more pronounced seasonal pattern.
+Chart 2 shows the number of men and women who worked fewer hours than usual as there was no work, not enough work available or they were stood down. For both men and women, the level recorded in March 2020 is noticeably higher than has generally been observed in recent years.
+In interpreting the data on the reasons people work fewer hours than usual, it's important consider that people in similar circumstances may be categorised in different ways, depending on their perception of the main reason that they worked less than their usual hours. For example, people who have been stood down and then taken some paid leave may consider that they worked fewer hours than usual as:
+Similarly, people who have been sent home as a precaution to self isolate may consider that they worked fewer hours than usual as:
+  there was ‘no work, not enough work available, or stood down’; or
+  they were ‘on annual leave, holidays, flextime or long service leave’.
+  there was ‘no work, not enough work available, or stood down’; or
+  due to ‘own illness, injury or sick leave’.
+In future months, in addition to the headline measures such as employment, unemployment, participation, employment to population and hours worked, the ABS will be providing additional analysis to assist in understanding the labour market impacts of COVID 19, such as:
+  Hours worked ranges (monthly, EM1a and EM3a)
+  People working fewer hours than usual, and the reasons (monthly, data Cube EM2a)
+  Underemployment (monthly, Table 22, 23, 24, 25)
+  Volume measure of labour underutilisation (quarterly, Table 23a, 23b)
+  Expected duration with current employer (quarterly, Table 17)
+  Retrenchments (quarterly, in Table 29a and 29b)
+  Duration of job search (monthly, in Table 14a, 14b, 14c, 14d, 14e)
+  Flows into and out of employment and unemployment  (monthly, in datacube GM1)
+  Reasons people are not in the labour force (monthly, NM1 and NM2)
+  Status in employment (including casuals) (monthly, Table 8, EM6, EM6a) and quarterly, Table 13, EQ04, EQ05, EQ7b)
+  Industry and Occupation (quarterly, Table 04, 05. 06, 07, 11, 12)
+  Capital City and balance of states (monthly, Table 2, LM1, LM9)

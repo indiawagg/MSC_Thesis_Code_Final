@@ -1,0 +1,25 @@
+Date:
+2021-02-05
+Article Title:
+ Online sales, December 2020 - Supplementary COVID-19 analysis
+
+Article Content:
+The Retail Trade survey has been collecting online sales since the March quarter 2013. The Online series is published as grouped industry split; a Food group (including the Food retailing, and Cafes, restaurants and takeaway food services), and a Non food group (all other industries). Due to the limitations of online data collection, a finer split by industry is not possible at this stage. 
+Online sales have become increasingly popular during the coronavirus pandemic. Restrictions placed on the operation of physical retail stores saw both businesses and consumers turn to online retailing. 
+It is worth noting that retailers have had to adapt sales channels very quickly during the pandemic, and it is possible that the value of online purchases has been under reported since April 2020. Importantly, total retail sales will not be under reported.
+The Online series remains experimental, and caution should be used in interpreting the results, especially during this volatile period. 
+The total online series fell 1.5% in seasonally adjusted month on month terms in December 2020, following a fall of 1.4% in November, and a fall of 0.7% in October 2020. 
+Despite four consecutive falls in seasonally adjusted terms, the series has maintained a new level following large rises in March and April 2020 at the outset of the COVID 19 pandemic as customers complied with social distancing regulations, and rises in July and August when Victoria entered a second lockdown. 
+In through the year terms, the seasonally adjusted series rose 55.2% compared to December 2019. While this is much larger than pre COVID 19 growth, it is lower than November (67.3%) and October (70.0%). In the 12 months from March 2019 to February 2020, total online sales averaged annual growth of 14.7%. Coinciding with the shift to online purchasing at the outset of the COVID 19 pandemic in Australia, total online sales has averaged an annual rise of 65.8% from March to December 2020. 
+The seasonally adjusted estimate for online sales for the Food group rose 5.7% month on month in December 2020, while the Non food group fell 4.1%. 
+The rise for Food online sales came following a fall of 6.3% in November. The fall in November coincided with the easing of restrictions in metropolitan Melbourne in late October, and the rise this month coincided with the outbreak of the Northern Beaches cluster in New South Wales. 
+The fall in Non food online sales compared to a fall in original terms of 2.9% ( $81.5m). The fall in original terms is the first fall in December since the beginning of the online series (2013) and follows strong sales in November due to product releases, and Black Friday.
+In 2020, Non food online sales have been trading at elevated levels. In seasonally adjusted terms, sales remain up 48.1% compared to December 2019, though this is the smallest annual growth recorded since March.  
+As a proportion of total grouped industry turnover, Non food online sales were 13.6% of total Non food sales in December 2020, in original terms, the smallest proportion recorded since March. 
+The proportion of total Food sales made online was 4.5% in December. Food online sales made up 5.2% of total Food sales in November. Despite the fall in the proportion of Food online sales in December, the proportion this month remains larger than pre COVID 19.
+Total online sales were 9.1% of total sales in December. This is a fall from 11.0% in November, however is a larger proportion when compared to December 2019 (6.6%). 
+The data was previously published as an experimental series, in original data only, as an Appendix to the Retail Trade publication. It was disaggregated by whether the retailer was "Pure play" (online only) or "Multi channel" (mix of online and physical stores). 
+Over time, the split between Pure play and Multi channel remained stable, with Pure play online retailers averaging 38.0% of total online sales. 
+In December 2020, Pure play retailers made up 32.5% of online sales and 3.0% of total sales. Online sales for multi channel retailers made up 6.2% of total retail sales. 
+The online series continues to use the same source data, and represents purchases made via the internet from employing retail businesses who predominately sell to households. The series excludes direct imports (e.g. purchased directly from an overseas website) and sales from 'households to households' through third party websites for example. More information can be found in the information paper (cat. no. 8501.0.55.007).
+Seasonal adjustment has been calculated for the new series using the concurrent seasonal adjustment method, meaning that seasonal factors are re estimated each time a new data point becomes available. Unusual real world events, such as COVID 19, can distort estimates calculated using the method. Like the total retail series, trend cannot be calculated due to the volatility of the retail series during COVID 19. 

@@ -1,0 +1,13 @@
+Date:
+2024-06-11
+Article Title:
+The Daily — Estimates of multifactor productivity growth in the provinces, 2022
+Article Content:
+Released: 2024 06 11
+Multifactor productivity in the business sector increased in Manitoba, Saskatchewan and Alberta and declined in all other provinces in 2022. For Canada overall, multifactor productivity rose by 0.6% in 2022.
+The largest increase in multifactor productivity in 2022 was observed in Saskatchewan (+6.0%), followed by Manitoba (+4.0%) and Alberta (+2.9%). These increases coincided with the relatively high growth in real gross domestic product (GDP) in those provinces in 2022. 
+The largest declines in multifactor productivity in 2022 were in Newfoundland and Labrador ( 5.5%) and Prince Edward Island ( 3.2%). These declines were associated with relatively low growth in real GDP in those two provinces.
+Multifactor productivity is one of the three components of labour productivity, the other two being capital intensity and labour skill upgrading. An increase in capital intensity arises from investment in equipment, structures and intellectual property that contributes to growth in labour productivity. Skill upgrading is measured by labour compositional changes toward workers who are more educated and more experienced. It captures the effect of an increase in worker skills from education and experience on labour productivity. Growth in multifactor productivity is often associated with technological change, organizational change or economies of scale.
+The growth in multifactor productivity was volatile during the pandemic period of 2020, 2021 and 2022. Over this period, businesses recovered and adapted to the shocks of the pandemic. 
+From 2019 to 2022, multifactor productivity declined slightly by 0.1% at the national level, and it changed little in all provinces, except Saskatchewan and Newfoundland and Labrador. Multifactor productivity rose 1.0% per year in Saskatchewan from 2019 to 2022. In Newfoundland and Labrador, multifactor productivity declined 3.5% per year over that period.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

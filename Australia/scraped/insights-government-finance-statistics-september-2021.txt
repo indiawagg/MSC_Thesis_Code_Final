@@ -1,0 +1,48 @@
+Date:
+2021-11-30
+Article Title:
+ Insights into Government Finance Statistics, September 2021
+
+Article Content:
+The impact of the COVID 19 pandemic continues to drive the largest fiscal response to an event in modern Australian history. Almost all states and territories experienced lockdowns due to the Delta variant outbreaks between the June and September quarters 2021.
+The end of the 2020 21 financial year saw the cessation of the unprecedented government subsidies such as JobKeeper and Boosting Cash Flow for Employers. The focus of recent government support shifted to targeted economic support for households and businesses in states affected by third wave lockdowns. State and territory governments provided subsidies direct to businesses through the Commonwealth State Joint Business Support Programs (BSPs). Support packages were higher in New South Wales, Victoria, and ACT, and targeted towards industries and regions that continued to be impacted by lockdowns. Commonwealth government predominantly provided support to households through COVID 19 Disaster Payments.
+The accelerated roll out of COVID 19 vaccines also contributed to the increase in total expenses from June quarter 2021, with expenditure at both state and territory governments and Commonwealth through administering the vaccines. Other health care spending remained elevated due to ongoing COVID 19 health response expenditure on frontline staff and personal protective equipment (PPE).
+Since the beginning of the pandemic, governments’ spending on social benefits to households in goods and services has increased significantly compared to historical levels. These levels remained elevated during the September quarter, driven by ongoing expansions and COVID related supplementary funding for Commonwealth social programs including disability and aged care support, state based jobs and training programs.
+Commonwealth taxation slowed across company income tax, personal income tax and GST, while states received less gambling and payroll tax. The closure of public facilities and amenities also impacted total sales of goods and services revenue. Lockdowns and restrictions on the construction industry in some states slowed public investment.
+Through the year, businesses recovered from the first and second wave of COVID 19 lockdowns and business uncertainty. The change in the composition of the labour market, with employees and businesses adapting to remote work, allowed many businesses to remain open and profitable. Growth rates have a low base in September quarter 2020 due to second wave COVID 19 impacts. Through the year taxation increased in company income tax, GST, payroll taxes, stamp duties on conveyances, and taxes on gambling.
+In September quarter 2021 the net operating balance for all levels of general government (herein referred to as total) fell after two consecutive improvements in March and June quarters 2021. A larger than usual June to September quarter decline was due to the third wave of pandemic and government response.
+  in September quarter 2021 total net operating balance declined $47.6 billion to  $45.4 billion
+  this was $47.7 billion higher through the year than September quarter 2020 following the second wave of COVID 19 in 2020.
+Total expenses paid by general government increased 9.2% from June quarter 2021 to $223.7 billion due to spending on business support programs, COVID 19 Disaster Payments and accelerated roll out of COVID 19 vaccine programs. However total expenses decreased 11.7% from September quarter 2020 with the cessation of key COVID 19 related subsidies such as JobKeeper and Boosting Cash Flow for Employers.
+Total revenue received by general government decreased 13.9% from June quarter 2021 to $178.3 billion due to a decline in taxation revenue and sales of goods and services revenue due to lockdowns. However total revenue increased 11.3% from the low seen in September quarter 2020. Company income tax, Goods and Services Tax (GST) and stamp duties on conveyances all increased through the year.
+  State and local general government net operating balance declined $20.6 billion from June quarter 2021 to  $15.3 billion, driven by New South Wales (down $11.3 billion), Victoria (down $4.1 billion), and Queensland (down $3.3 billion).
+  All states except Western Australia ($3.4 billion) recorded a negative net operating balance in September quarter 2021.
+  State and local general government net operating balance declined $9.7 billion since September quarter 2020, driven by New South Wales (down $9.0 billion).
+Total taxation revenue decreased 16.8% (down $28.8 billion) from June quarter 2021. This was the largest quarter on quarter percentage decrease recorded (a) for total taxation revenue.
+  Since series start in September 2014
+Commonwealth taxation revenue decreased 20.5% (down $28.9 billion) to $111.9 billion. The quarter on quarter decrease was due to:
+  Company income tax down 15.3% (declined $4.9 billion),
+  Personal income tax down 38.8% (declined $25.3 billion), and
+  GST down 15.2% (declined $3.2 billion).
+The weakness in Company income tax was due to a particularly strong June quarter, where tax collection was strengthened by record iron ore and coal prices. The price of iron ore declined sharply in September quarter, however coal prices and export volumes remained strong.
+The weakness in Personal income tax was driven by the decline in employment conditions, with 300,000 fewer employed people in September quarter than in June quarter. This was driven by the retail, hospitality, and wholesale trade sectors due to the NSW, Victoria, and ACT lockdowns.
+The weakness in GST was driven by a reduction GST applicable consumption, including cafe/restaurant food and recreational activities, due to the lockdowns and mobility restrictions experienced across all states and territories.
+State and local taxation revenue increased 0.3% to $31.0 billion. The quarter on quarter increase was smaller than the usual increase in September quarters, due largely to the 35.4% decline in gambling tax (down $0.7 billion). Within gambling taxation, the largest falls were seen in gambling devices (down 53.3%) and casino taxes (down 48.2% due to the NSW, Victoria, and ACT lockdowns). Partially offsetting these decreases was an increase in race and other sports betting (up 11.8%), as households moved to online gambling.
+The weakness seen in payroll tax was due to a fall in the number of workers in the quarter, as well as a 50% payroll tax reduction in NSW for small and medium businesses, and the construction industry in the September quarter 2021.
+The weakness in stamp duty on vehicle registration was driven by a reduction in imports of new vehicles. COVID 19 restrictions also impacted car dealerships and new car sales.
+Stamp duties on conveyances receipts, up 11.3% (up $0.9 billion) offset the decline in state and local taxation revenue. Strong demand for residential properties increased house prices and transaction volumes in September quarter 2021.
+Total public investment in new assets(a) fell by 32.4% (down $10.2 billion) from June quarter 2021, due to falls in both general government and public non financial corporations sectors.
+General government investment decreased 35.5% (down $8.9 billion), driven by reduced spending on defence weapons platforms and weakness in state government investment in buildings and structures. The NSW and ACT construction sectors were affected due to restrictions in place throughout the September quarter due to COVID 19 lockdowns which further limited investment. Although under lockdowns for much of the quarter, VIC remained largely unaffected due to exemptions in place for critical public sector infrastructure projects. Through the year investment increased 8.7% (up $1.7 billion), reflecting an overall continuation of broad stimulus and budgetary expansion measures by government.
+Public non financial corporations decreased 20.7% (down $1.4 billion), driven by reduced investment in structures across the water, transport, and telecommunications industries.
+  Includes acquisitions of new non financial fixed produced assets. Second hand asset acquisitions and sales between sectors are excluded from this measure.
+Quarterly insights:
+ (June 2021)
+ (March 2021)
+ (December 2020)
+ (September 2020)
+Annual insights:
+   (June 2021)
+   (March 2021)
+   (December 2020)
+   (September 2020)
+   (2019 20)

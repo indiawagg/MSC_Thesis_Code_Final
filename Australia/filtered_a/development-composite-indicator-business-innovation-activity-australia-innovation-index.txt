@@ -1,0 +1,35 @@
+Date:
+2022-07-08
+Article Title:
+ Development of a Composite Indicator for Business Innovation Activity in Australia (Innovation Index)
+
+Article Content:
+There is significant interest in determining the capability for, and extent of business innovation both nationally and internationally. This article describes a process for creating a new composite measure of business innovation activity and discusses preliminary findings from this work.
+The process uses data collected in the 2020 21 Business Characteristics Survey (BCS) Innovation Module and may be extended to future surveys as well as BLADE if similar data items are collected in the future.
+Innovation is considered one of the key drivers of economic growth. The innovation indicators produced by the ABS through the 2020 21 Business Characteristics Survey (BCS) Innovation Module provide a wide range of information that allows policy makers to understand and measure innovation activities, or related activities, in Australian businesses and compare these across businesses in Australia and overseas. The new composite innovation indicator gives a single measure that will allow users to more easily compare innovation activity:
+  across employment size groups,
+  ANZSIC industry divisions,
+  state, and,
+  in subsequent reference periods over time.
+The composite innovation indicator presented in this article provides a summary of overall business innovation activity. The measure includes both the extent of innovation being undertaken and the level of activity being undertaken by businesses to develop their capability to innovate.
+Data from the 2020 21 Business Characteristics Survey (BCS) Innovation Module has been used to produce separate factors for each reporting business relating to:
+Innovation extent is measured by the novelty factor and capability is measured by the management capability and collaboration activity factors.
+The separate factors are combined to form a single innovation index measure for all reporting businesses. The separate innovation factors and subsequent innovation index are given a four point scale of:
+Businesses not reporting any innovation activity, or associated activities, are reported as 'no innovation activity'.
+  novelty of goods & services (products) or processes developed, 
+  management capability regarding innovation, and
+  collaboration activity related to innovation.
+  very high,
+  high,
+  medium, or
+  low.
+Ratings for the three separate innovation factors (i.e., novelty, management capability and collaboration) were derived from responses to BCS questions on these topics.
+The innovation novelty factor rating is determined by where the new products or processes have been introduced.
+The level of Management capability for innovation is determined by responses to questions on business management activities related to innovation and types of new or significantly improved processes introduced by businesses.
+The level of Collaboration activity related to innovation is assessed by responses to questions about the types of organisations that businesses collaborated with to develop or produce new goods, services or processes.
+The overall business innovation index is then determined by the highest factor innovation rating i.e., Business Innovation index = Maximum {Novelty factor rating, Management capability factor rating, Collaboration activity factor rating}This means that businesses who are taking active steps to innovate or build the capacity to innovate but may not have introduced a new product or process during the reference period are identified, as well as businesses that have introduced new products and processes.
+Nearly 1 in 5 businesses had a very high (9%) or high (10%) innovation index rating and over half of all businesses had an active innovation index rating (56%); this means that more than half of all Australian businesses undertook steps to build their innovation capability/capacity and/or had introduced a new product or service during the reference period.
+The innovation index shows that the proportion of very high, high and medium index values increase with business size. However, most businesses in Australia are small, with 0 4 persons employed and it is this contribution that influences the overall level of business innovation activity in Australia.
+  The Wholesale trade (68%), Information media & telecommunication (67%) and Retail trade (67%) industries recorded the highest total active innovation index levels.
+  The Transport, postal & warehousing (42%), Construction (42%) and Agriculture, forestry & fishing (48%) industries had the lowest total active innovation index levels.
+  The Manufacturing (32%), Information media and telecommunication (30%), Wholesale trade (29%) and Arts & recreation (27%) industries had the highest percentage of businesses with an innovation index of very high or high.

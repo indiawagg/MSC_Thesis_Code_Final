@@ -1,0 +1,20 @@
+Date:
+2023-07-20
+Article Title:
+The Daily — Canadian Internet Use Survey, 2022
+Article Content:
+Released: 2023 07 20
+Year over year, various trends in technology reflect a smarter and more connected lifestyle, benefiting both the younger and older generations. The year 2022 was no exception, with Internet use among Canadians aged 15 years and older reaching 95%, up from 92% in 2020. The largest increase was seen among Canadians aged 75 years and older, up from 62% in 2020 to 72% in 2022.
+As the use of digital technologies grows, Canadians are becoming more acquainted with newer technologies and incorporating them into their daily routines. 
+More than three in four Canadians (78%) used the Internet to conduct general online banking, and one in six (16%) used it to manage investments online, such as stocks, mutual funds and cryptocurrencies. 
+About two thirds (68%) of Canadians stated that they have noticed the role of artificial intelligence (AI) in various applications online. Examples include chatbots (48%), recommendation algorithms that suggest content, products or services to users (48%) and content moderation (26%). 
+The use of Internet connected smart home devices continued to grow, up from 42% in 2020 to 47% in 2022, with smart speakers (30%) being the most popular device. 
+Although many Canadians noticed the role of AI and used smart home devices, some said that they did not trust AI technologies (31%), smart speakers (40%) and other smart home devices (28%) with their personal information. 
+The proportion of Canadians who experienced cyber security incidents increased from 58% in 2020 to 70% in 2022. The most common incidents reported were receiving unsolicited spam (60%) and receiving fraudulent content (40%). Other incidents included being redirected to fraudulent websites asking for personal information (22%), having a virus or other malicious software installed without permission (11%) and experiencing fraudulent payment card use (9%). In 2022, among those who experienced a cyber security incident, 6% reported a financial loss. 
+In 2022, 8% of Canadians felt victimized by an incident online, such as incidents related to bullying, harassment and discrimination, or related to the misuse of personal pictures, videos or other content. Among various age groups, younger Canadians aged 15 to 24 years (11%) had the highest proportion of people who felt victimized online. 
+About half (51%) of Canadians said that they had seen content online that may incite hate or violence, and three quarters (73%) of Canadians reported that they had seen content online that they suspected to be false or inaccurate, such as misinformation. 
+The proportion of individuals who had access to the Internet at home remained stable in 2022 compared with 2020, at 94%, but the proportion of Canadians who reported having a download speed of 50 megabits per second (Mbps) or more increased. Among respondents who knew their home Internet download speed, 87% had a download speed of 50 Mbps or more, compared with 72% in 2020.
+In addition, 84% of Canadians had access to the Internet through a mobile data plan for personal use in 2022, and about 600,000 people (2%) reported having a mobile data plan but no home Internet connection. 
+For more information on the digital economy and society, visit the Digital economy and society statistics portal and the new Digital Insights publication, which bring together a variety of data from across Statistics Canada and other sources to provide statistics, analysis and interactive tools related to the digital economy and society in Canada.
+The infographic "Online safety in Canada, 2022," part of Statistics Canada   Infographics (Catalogue number11 627 M), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

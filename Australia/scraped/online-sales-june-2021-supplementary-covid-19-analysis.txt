@@ -1,0 +1,21 @@
+Date:
+2021-08-04
+Article Title:
+ Online sales, June 2021 - Supplementary COVID-19 analysis
+
+Article Content:
+The Retail Trade survey has been collecting online sales since the March quarter 2013. The Online series is published as grouped industry split; a Food group (including the Food retailing, and Cafes, restaurants and takeaway food services), and a Non food group (all other industries). Due to the limitations of online data collection, a finer split by industry is not possible at this stage. 
+Online sales have become increasingly popular during the COVID 19 pandemic. Restrictions placed on the operation of physical retail stores saw both businesses and consumers turn to online retailing. 
+It is worth noting that retailers have had to adapt sales channels very quickly during the pandemic, and it is possible that the value of online purchases has been under reported since April 2020. Importantly, total retail sales will not be under reported.
+The Online series remains experimental, and caution should be used in interpreting the results, especially during this volatile period. 
+Total online sales rose 11.6% in June 2021, in seasonally adjusted terms, following a fall of 4.5% in May 2021, and a fall of 4.1% in April 2021. 
+In through the year, seasonally adjusted terms, online sales are up 11.0% on June 2020.
+Online sales rose for both the Food group (10.8%), and the Non food group (12.0%) in June 2021, in seasonally adjusted terms. Both groups received a boost this month as lockdowns in several states shifted consumer activity online. Additionally, end of financial year sales helped to drive an increase in Non food online sales.
+In seasonally adjusted terms, Non food online sales are up 9.4% on June 2020. Food online sales also remain elevated, up 15.4% on June 2020.
+As a proportion of total group industry turnover, Non food online sales were 16.3% of total Non food sales in June 2021, in original terms. The proportion of total Food sales made online was 5.4% in June 2021, in original terms.
+Total online sales were 10.5% of total sales in June 2021, a significant rise from May 2021 (9.1%). The proportion of sales made online has risen when compared to June 2020 (9.7%).
+The data was previously published as an experimental series, in original data only, as an Appendix to the Retail Trade publication. It was disaggregated by whether the retailer was "Pure play" (online only) or "Multi channel" (mix of online and physical stores). 
+Over time, the split between Pure play and Multi channel remained stable, with Pure play online retailers averaging 38.0% of total online sales. 
+In June 2021, Pure play retailers made up 32.0% of online sales and 3.3% of total sales. Online sales for multi channel retailers made up 7.2% of total retail sales. 
+The online series continues to use the same source data, and represents purchases made via the internet from employing retail businesses who predominately sell to households. The series excludes direct imports (e.g. purchased directly from an overseas website) and sales from 'households to households' through third party websites for example. More information can be found in the information paper Measurement of Online Retail Trade in Macroeconomics (cat. no. 8501.0.55.007).
+Seasonal adjustment has been calculated for the new series using the concurrent seasonal adjustment method, meaning that seasonal factors are re estimated each time a new data point becomes available. Unusual real world events, such as COVID 19, can distort estimates calculated using the method. Like the total retail series, trend cannot be calculated due to the volatility of the retail series during COVID 19.

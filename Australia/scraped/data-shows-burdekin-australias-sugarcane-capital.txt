@@ -1,0 +1,16 @@
+Date:
+2020-06-17
+Article Title:
+ Data shows Burdekin is Australia’s sugarcane capital
+
+Article Content:
+Just over 30 million tonnes of sugarcane were harvested and delivered to Australian sugar mills in 2019 20, with Queensland accounting for nearly all of this (28.44 million tonnes), according to new experimental estimates released by the Australian Bureau of Statistics (ABS).
+Rob Walter, Director ABS Agricultural Statistical Solutions, said the experimental estimates were produced through a collaborative arrangement using existing industry and government data validated against satellite maps.
+“Through this collaboration, we have been able to produce data around six months after harvest which is nine months earlier than can be produced though our usual survey process,” Mr Walter said.
+“The greater regional detail achievable through this process has highlighted Burdekin, which surrounds the town of Ayr in Queensland, as the sugarcane capital of Australia. Burdekin produced 7,013,900 tonnes of sugarcane, almost twice as much as the next biggest area which was Ingham Region with 3,602,200 tonnes.”
+An interactive sugarcane map has been included with this release, highlighting that the largest sugarcane producing regions are all in Queensland.
+“The ABS hopes to extend this work to other agricultural commodities. We look forward to working with industry and government partners to adapt this approach.”
+  The experimental estimates on tonnes of sugarcane harvested have been produced primarily using administrative data sourced from the Sugar Cane Levy Payer Register. This data is collected on behalf of Sugar Research Australia (SRA) by the Department of Agriculture, Water and the Environment (DAWE).
+  The Sugar Cane Levy Payer Register contains details of the quantity of sugarcane delivered to a processing establishment and business address information for all producers during the harvest period. This data was aggregated to produce regional Statistical Area Level 2 statistics, then validated against satellite data maps identifying areas where sugarcane was grown in 2019.
+  When reporting ABS data, the Australian Bureau of Statistics (ABS) must be attributed as the source.
+  For media requests and interviews contact the ABS Media Team at  

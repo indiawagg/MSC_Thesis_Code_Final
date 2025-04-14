@@ -1,0 +1,334 @@
+Article Content:
+ Over deze publicatie
+
+Auteurs: Andries de Jong (PBL), Saskia te Riele (CBS), Corina Huisman (CBS), Coen van Duin (CBS), Trond Husby (PBL), Lenny Stoeldraijer (CBS)
+
+Erratum
+
+Er is geconstateerd dat detailcijfers van de PBL/CBS Regionale bevolkings- en huishoudensprognoses tot 2050 die in 2019 en 2022 gepubliceerd zijn, onvoldoende betrouwbaar zijn. De prognoses voor het aantal inwoners per gemeente, provincie en COROP-gebied vallen wel binnen de berekende betrouwbaarheidsmarges. De detailinformatie (bijvoorbeeld naar leeftijdsgroep of naar huishoudens) niet. Daarom adviseren PBL en CBS om de detaillering uit deze regionale bevolkingsprognoses niet meer te gebruiken. Deze informatie is dan ook verwijderd van de PBL-websites en van StatLine. De gegevens over het totaal aantal inwoners per gemeente, provincie en COROP-gebied blijven beschikbaar.
+
+Het aantal inwoners van Nederland zal tot 2035 naar verwachting toenemen tot 18,9 miljoen, tegen 17,5 miljoen begin 2021. De nieuwe PBL/CBS Regionale bevolkings- en huishoudensprognose verwacht dat de bevolking vooral groeit in de grote en middelgrote steden. Ook diverse randgemeenten rondom de grote steden groeien naar verwachting sterk. Deze groeigemeenten zijn vooral gelegen in de Randstad. In 54 gemeenten (15 procent) voorziet de prognose substantiële bevolkingskrimp. Deze gemeenten liggen meestal aan de rand van Nederland en zullen naar verwachting sterker vergrijzen dan de steden. Na 2035 zal de groei in de grote en middelgrote steden vertragen en in de kleine gemeenten vrijwel tot stilstand komen. Ook zal dan het aantal gemeenten met een afnemend inwonertal zich verder uitbreiden.
+
+De prognose voorziet daarnaast dat het aantal huishoudens toeneemt, tot 8,88 miljoen in 2035, 830 duizend meer dan in 2021. Deze groei zal vrijwel overal in Nederland optreden, hoewel in enkele gemeenten aan de randen van het land een teruggang van het aantal huishoudens wordt verwacht. Na 2035 zal krimp in het aantal huishoudens in veel meer gemeenten optreden.
+
+De regionale prognose beschrijft de meest waarschijnlijke toekomstige regionale ontwikkeling van bevolking en huishoudens gezien de huidige stand van de kennis. Omdat de cijfers met onzekerheden zijn omgeven, zijn er onzekerheidsintervallen rond de uitkomsten opgesteld. Het blijkt dat ook als de bevolkingsgroei lager is dan verwacht, de grote steden nog steeds zullen groeien. Wanneer echter de bevolking sterker groeit dan voorzien, dan zouden vrijwel alle gebieden te maken kunnen krijgen met een groeiend of stabiel blijvend aantal inwoners.
+
+
+
+Inleiding
+
+De bevolking van Nederland groeit. Ook de komende decennia wordt een toename van het aantal inwoners verwacht. Deze bevolkingsgroei is niet gelijk over Nederland verdeeld. Sommige gebieden groeien sterk, terwijl in andere gebieden het inwonertal minder snel toeneemt of zelfs terugloopt. Om een beeld te krijgen van de manier waarop de verwachte groei van het aantal inwoners en het aantal huishoudens over Nederland is verdeeld, publiceren het Planbureau voor de Leefomgeving (PBL) en het Centraal Bureau voor de Statistiek (CBS) elke drie jaar de Regionale bevolkings- en huishoudensprognose. De prognose beschrijft de verwachte bevolkingsontwikkeling per gemeente, COROP-gebied en provincie naar leeftijd en geslacht en laat de veranderingen in het aantal huishoudens naar type zien. Daarnaast laat het zien in hoeverre de toekomstige ontwikkelingen het gevolg zijn van de verwachte geboorte, sterfte, binnenlandse en buitenlandse migratie.
+
+De regionale prognose geeft een samenhangend toekomstbeeld van de ontwikkeling van de bevolking en de huishoudens in alle gemeenten. Daarvoor wordt het model Projecting population Events At the Regional Level (PEARL) gebruikt (De Jong et al., 2005 en De Jong et al., 2007). Het uitgangspunt is de bevolkingsgroei die is voorzien in de Kernprognose 2021–2070 (Stoeldraijer, Van Duin, de Regt, Van der Reijden en Te Riele, 2021) en de huishoudensgroei volgens de Huishoudensprognose 2022–2070 (Stoeldraijer, Te Riele, Van Duin en Van der Reijden, 2021). Met het model PEARL worden deze nationale ontwikkelingen uitgewerkt naar het regionale niveau. Het startpunt van de twee nationale prognoses is de waarneming op 1 januari 2021. Daarom ligt het startpunt van de regionale prognose ook op deze datum. Input voor het model zijn veronderstellingen over de toekomstige ontwikkelingen per gemeente van geboorte, sterfte, immigratie, emigratie, verhuizingen, overgangen tussen huishoudensposities en woningbouw. Deze zijn gebaseerd op kennis over ontwikkelingen in het recente verleden. Het model PEARL en de bijbehorende veronderstellingen staan kort beschreven in de technische toelichting.
+
+Leeswijzer
+
+Dit artikel beschrijft de belangrijkste uitkomsten van de regionale prognose. De nadruk ligt op de ontwikkelingen tussen 2021 en 2035, maar er wordt ook een doorkijk gegeven naar de periode tot 2050. Aangezien in de jaren na 2035 onzekerheid een grotere rol speelt, heeft de prognose voor die periode meer het karakter van een trendscenario, dat beschrijft wat er zou gebeuren als de ontwikkelingen van de voorgaande periode zich ongeveer op dezelfde manier doorzetten. De onderwerpen die aan bod komen zijn de regionale verschillen in de ontwikkeling van de bevolking (paragraaf 2) en van het aantal huishoudens (paragraaf 3). Vervolgens wordt ingegaan op de ontwikkeling van het aandeel ouderen (paragraaf 4), de omvang van de potentiële beroepsbevolking (paragraaf 5) en het aantal basisschoolleerlingen (paragraaf 6).
+
+Tot slot gaat het artikel in op de onzekerheid van prognoses (paragraaf 7). Het doel van de regionale prognose is om de meest waarschijnlijke toekomstige ontwikkelingen weer te geven. Het is echter niet zeker hoe de componenten van bevolkingsgroei en van huishoudensvorming en -ontbinding zich werkelijk zullen ontwikkelen. Zo kan het aantal migranten van jaar tot jaar fluctueren en is het niet zeker of Nederlanders een voorkeur voor een gezin met twee kinderen blijven houden. Deze onzekerheid wordt in beeld gebracht met de stochastische regionale prognose (Van Duin en De Jong, 2017a; 2017b). De onzekerheidsintervallen die dit oplevert geven een indicatie van de waarschijnlijkheid van de prognose.
+
+Meer cijfers en andere informatie zijn te vinden op de site van het PBL (PBL themasite, 2022) en op StatLine van het CBS (CBS Statline, 2022).
+
+
+
+Bevolkingsontwikkeling
+
+De afgelopen drie jaar is de bevolking van Nederland relatief snel gegroeid, met uitzondering van het ‘coronajaar’ 2020. In dat jaar halveerde de bevolkingsgroei ten opzichte van 2019. Er kwamen 68 duizend inwoners bij, in 2019 waren dat er nog ruim 125 duizend. In 2021 trok de bevolkingsgroei weer aan en nam het aantal inwoners opnieuw met meer dan 100 duizend toe. Begin 2021 woonden er bijna 17,5 miljoen mensen in Nederland. Dat zullen er naar verwachting 18,9 miljoen zijn in 2035 en 19,6 miljoen in 2050. Vooral de eerstkomende jaren voorziet de Kernprognose 2021–2070 een relatief sterke bevolkingsgroei, waarna het groeitempo geleidelijk afneemt (Stoeldraijer, Van Duin, De Regt, Van der Reijden en Te Riele, 2021). Dit heeft vooral te maken met het oplopen van de sterfte door de vergrijzing. Het grootste deel van de groei zal afkomstig zijn van internationale migratie. Tot 2040 groeit de bevolking ook door natuurlijke aanwas, daarna volgt een periode waarin het aantal overledenen het aantal geboorten overtreft.
+
+2.1 Groei, maar ook krimp
+
+Niet overal in Nederland groeit de bevolking. In 2021 nam vooral in de steden en de omliggende gemeenten het aantal inwoners toe, terwijl in 15 procent van alle gemeenten de bevolking is gekrompen. Ook voor de toekomst voorziet de prognose een sterke groei in de Randstad, in en om de grote steden. Tussen 2021 en 2035 wordt de sterkste bevolkingstoename verwacht in COROP-regio Agglomeratie Groot-Amsterdam (19 procent). Ook in Flevoland (16 procent) blijft de bevolking naar verwachting nog sterk toenemen (figuur 2.1.1). Van oudsher fungeert Flevoland als overloopgebied voor de noordelijke Randstad. Buiten de Randstad, in de zogenaamde intermediaire zone, voorziet de prognose in grote delen van Noord-Brabant, Gelderland en Overijssel ook bevolkingsgroei, hoewel wat minder sterk.
+
+Naast regio’s met een toenemend aantal inwoners zijn er naar verwachting ook regio’s die, ondanks de sterke groei van de totale bevolking van Nederland, nog te maken krijgen met krimp. Tot 2035 voorziet de prognose een daling van de bevolking met meer dan 5 procent in Delfzijl en omgeving en in Oost-Groningen.
+
+In andere traditionele krimpregio’s, zoals Zeeuws-Vlaanderen, de Achterhoek en Zuid-Limburg, wordt daarentegen tot 2035 geen krimp van belang verwacht. Pas voor de periode na 2035 voorziet de prognose in deze gebieden een lichte krimp tot –5 procent. Ook in Delfzijl en omgeving en in Oost-Groningen zet de krimp naar verwachting ook na 2035 door.
+
+Figuur 2.1.3 laat zien welke gemeenten grotendeels verantwoordelijk zijn voor het regiobeeld. Gemeenten met een sterke bevolkingsgroei tot 2035 zijn vooral te vinden in de Randstad. Dit zijn naast de vier grote steden en hun diverse randgemeenten ook steden als Zoetermeer, Leiden en Haarlem. In de intermediaire zone zijn er eveneens steden met een sterke bevolkingsgroei, zoals Nijmegen en Eindhoven. In het noorden en oosten vallen Groningen, Zwolle en Enschede op door een relatief sterke bevolkingsgroei.
+
+Krimp komt voor in diverse gemeenten in de noordelijke provincies. Elders, langs de oostgrens, in Twente, de Achterhoek en Limburg, zijn er ook gemeenten die naar verwachting in bevolkingsomvang afnemen. Voor alle gemeenten met een krimp van 2,5 procent of meer gaat het om een gezamenlijk verlies van 95 duizend inwoners tussen 2021 en 2035. De verwachte krimp komt onder andere doordat er in deze vrij sterk vergrijsde regio’s meer mensen overlijden dan er kinderen worden geboren. In het merendeel van de krimpgemeenten vertrekken bovendien doorgaans meer mensen naar andere gemeenten in Nederland dan ervoor terugkomen. Het zijn vooral jongvolwassenen die verhuizen naar de Randstad en naar de steden daarbuiten, voor een baan of voor studie (Husby, Weterings, Groot, 2019).
+
+De mate van bevolkingskrimp en het aantal krimpregio’s tot 2035 vallen in de huidige prognose lager uit dan eerder was voorzien (te Riele, Huisman, Stoeldraijer, de Jong, van Duin en Husby, 2019). Zo wordt in 15 procent van de gemeenten een krimp van 2,5 procent of meer verwacht. Bij de vorige prognose kwam dat nog bij meer dan 20 procent van de gemeenten voor. Vooral de buitenlandse migratie speelt daarin een belangrijke rol. Voor de toekomst wordt een grotere groei door buitenlandse migratie verondersteld dan bij de vorige prognose. Bij het opstellen van de huidige prognose speelde de toegenomen migratie vanuit Oekraïne nog geen rol, maar werd wel aangenomen dat de asielmigratie in de toekomst hoger zou zijn dan bij de vorige prognose werd verondersteld. Naast meer asielmigranten komen vooral meer arbeids- en studiemigranten naar Nederland. De meesten komen uit Europa, maar ook vanuit Azië en Amerika komen meer mensen naar Nederland dan er vertrekken (de Regt, Van Duin en Stoeldraijer, 2021). Immigranten vestigen zich met name in de steden, niet alleen in de Randstad, maar ook daarbuiten (Van der Star, De Jong en Manting, 2021). Daarnaast vestigen zij zich de laatste jaren ook in plattelandsgemeenten, vooral daar waar veel banen beschikbaar zijn in de landbouw, tuinbouw, logistiek en bouw. Hierdoor overtreft ook in gemeenten in de krimpregio’s de immigratie nog al eens de emigratie. De gemeenten die het sterkst groeien door buitenlandse migratie zijn daardoor niet alleen de steden maar ook plattelandsgemeenten waar arbeidskrachten (in de landbouw) nodig zijn, zoals Zeewolde, Steenbergen en Hollands Kroon.
+
+Na 2035 breidt het aantal gemeenten met een afnemend inwonertal zich verder uit, vooral in gebieden in de periferie, zoals de Achterhoek, Limburg en Zeeuws-Vlaanderen. In deze periode neemt het groeitempo van de Nederlandse bevolking als geheel af. Ook in andere gemeenten zwakt de bevolkingsgroei dan af.
+
+Sterkste groei in grote en middelgrote steden
+
+De bevolkingsgroei die tot 2035 is voorzien komt voor het grootste deel terecht in de grotere gemeenten. De vier grote steden groeien naar verwachting het snelst, gevolgd door de middelgrote steden (gemeenten met meer dan 100 duizend inwoners). Dit beeld is vergelijkbaar met de periode tussen 2010 en 2021. Alleen in 2020 stagneerde de groei van de steden toen de buitenlandse migratie afnam als gevolg van de maatregelen die werden ingesteld vanwege de coronacrisis (CBS, 2021). In 2021 trok deze groei echter weer aan (CBS, 2022).
+
+Het groeitempo van de grote steden is niet altijd zo groot geweest. In de jaren 80 en 90 verruilden jonge gezinnen de stad voor de groeikernen, waar veel eengezinswoningen beschikbaar kwamen. Deze groeikernen waren bedoeld om de bevolkingstoename van de grote steden op te vangen. In de periode 2000 tot 2010 groeiden juist de middelgrote steden het sterkst. De huidige opleving van de grote stad heeft niet alleen te maken met de toegenomen buitenlandse migratie maar ook met een veranderd beleid om gezinnen voor de stad te behouden (Van der Wouden, 2016).
+
+Ook de kleinere gemeenten (met 40 duizend tot 100 duizend inwoners) blijven tot 2035 groeien, maar wel in een tempo dat beneden het landelijk gemiddelde ligt. Tegen die tijd passeren nog vijf steden de grens van 100 duizend inwoners, zodat dit aantal op 37 uitkomt. Ten slotte wordt in de kleinste gemeenten (met minder dan 40 duizend inwoners) nog een lichte bevolkingsgroei voorzien, ondanks de krimpgemeenten in deze groep gemeenten. Na 2035 neemt het aantal inwoners van alle kleine gemeenten samen tot 2050 naar verwachting nauwelijks nog toe. Ook de groei van de vier grote steden en dat van steden met meer dan 100 duizend inwoners zwakt dan aanzienlijk af.
+
+2.2 Aanzienlijke bevolkingsgroei in de tien grootste gemeenten
+
+Van de vier grote steden groeit Utrecht naar verwachting het snelst, met ruim 25 procent tot 2035. Amsterdam krijgt er de meeste inwoners bij, ruim 175 duizend (20 procent). De hoofdstad passeert naar verwachting in 2030 de mijlpaal van één miljoen inwoners. Den Haag en vooral Rotterdam groeien wat minder sterk, met een voorziene toename van respectievelijk 18 procent en 12 procent.
+
+De vier grote steden groeien door natuurlijke aanwas en buitenlandse migratie. De hoge immigratie die ook in de toekomst wordt verwacht, draagt hier voor een aanzienlijk deel aan bij. Ook in de toekomst hebben deze steden een relatief jonge bevolking, waardoor het aantal geboorten de sterfte blijft overtreffen. Hoewel jongvolwassenen langer thuis zullen blijven wonen, en ondanks de moeilijke woningmarkt voor starters, is de stad nog altijd aantrekkelijk voor jongeren uit binnen- en buitenland. Dit leidt tot een toestroom van jongeren die hier een eerste baan vinden, jonge arbeidsmigranten en (internationale) studenten.
+
+De grote steden kennen echter ook een aanzienlijke uitstroom van inwoners, die de instroom overtreft. Vertrekkers zijn veelal gezinnen die zich in de omliggende gemeenten vestigen (CBS, 2019). In die gemeenten is de woningbouw de laatste jaren weer op gang gekomen (CBS, 2022). Deze gemeenten zullen in de toekomst sterk groeien. Rond Amsterdam gaat het om bijvoorbeeld Ouder-Amstel, Diemen, Weesp en Beemster maar ook de oude groeikernen Haarlemmermeer, Purmerend, Lelystad en Almere groeien aanzienlijk. Rondom Den Haag valt vooral Rijswijk op, maar ook Zoetermeer groeit verder. Bij Rotterdam groeien Lansingerland en vooral Zuidplas naar verwachting nog sterk tot 2035. Rondom Utrecht blijven onder andere de oude groeikernen Nieuwegein en Houten, maar ook Bunnik en Zeist nog in omvang toenemen.
+
+De uitstroom uit de grote steden richt zich niet alleen op de nabij gelegen kernen, maar reikt ook verder. Zo is de laatste jaren het aantal verhuizingen uit de Randstad naar de perifere regio’s toegenomen (CBS, 2021).
+
+Behalve in de vier grote steden wordt tot 2035 ook in de andere grootste steden een bovengemiddelde groei verwacht. Net als bij de vier grote steden komt deze bevolkingsgroei vooral voort uit een positief saldo van de buitenlandse migratie, in mindere mate draagt de natuurlijke aanwas hieraan bij. Anders dan de vier grote steden groeien deze steden ook door een binnenlands vestigingsoverschot.
+
+De onderlinge verschillen zijn echter groot. Van de zes grootste gemeenten buiten de vier grote steden blijft Eindhoven naar verwachting tot rond 2045 het grootst. Het overtreft ook Groningen dat nu nog ongeveer evenveel inwoners telt. Eindhoven is niet alleen aantrekkelijk voor jongeren vanwege de technische universiteit. De aanwezigheid van de hightech-campus en grote bedrijven als ASML, Philips en NXP maakt de stad ook aantrekkelijk voor kenniswerkers, ondernemers en investeerders uit binnen- en buitenland. Deze stad blijft daarom naar verwachting ook in de toekomst verder groeien. Voor Almere wordt de sterkste groei voorzien. Het is momenteel de achtste stad, maar passeert naar verwachting na 2030 Tilburg als zevende stad. De woningbouw zal hier de komende jaren naar verwachting aantrekken in het kader van de zogenoemde schaalsprong. Na 2040 zal Almere ook groter zijn dan Groningen en tegen 2050 ook groter dan Eindhoven. Het zal dan de vijfde stad van ons land worden. Andere steden in de top tien van grootste steden zoals Breda, Tilburg en Groningen groeien naar verwachting minder snel dan Almere en Eindhoven. Verwacht wordt dat Breda in 2050 uit de top tien valt ten koste van Haarlem, een andere stad die sterk groeit.
+
+
+
+Ontwikkeling van het aantal huishoudens
+
+Erratum
+
+Na publicatie van dit artikel is geconstateerd dat de detailcijfers waarop dit hoofdstuk is gebaseerd onvoldoende betrouwbaar zijn. PBL en CBS kunnen de desbetreffende prognoses niet binnen afzienbare termijn herzien. Daarom adviseren zij om de informatie in dit hoofdstuk niet te gebruiken. Zie voor meer informatie dit .
+
+Op 1 januari 2021 telde Nederland 8,04 miljoen huishoudens. Volgens de Huishoudensprognose van het CBS zal dit aantal stijgen naar bijna 8,88 miljoen in 2035 en 9,25 miljoen in 2050 (Stoeldraijer, Te Riele, Van Duin en Van der Reijden, 2021). Tot 2035 moet er in de woningvoorraad dus ruimte zijn voor 830 duizend extra huishoudens. Het huidige kabinet zet in op een groei van 900 duizend extra woningen tot 2030 (BZK, 2022). Het aantal huishoudens neemt naar verhouding sneller toe dan het aantal inwoners, doordat de gemiddelde huishoudensgrootte daalt. In 1995 bestond een huishouden nog uit gemiddeld 2,35 personen, in 2021 is dat 2,14 personen. De prognose veronderstelt een verdere daling naar 2,09 personen in 2035 en tot 2,08 personen in 2050. Meer mensen wonen alleen, en hun aantal zal in de toekomst naar verwachting verder toenemen. Dit is het gevolg van de voortgaande individualisering en van vergrijzing. Meer mensen zullen voor kortere of langere tijd alleen wonen, voordat ze aan een relatie beginnen of na een scheiding. Bovendien zijn er meer ouderen. Zij lopen op latere leeftijd een grotere kans dat ze alleen komen te staan als hun partner komt te overlijden.
+
+3.1 Toename aantal huishoudens in bijna alle regio’s en gemeenten
+
+In de periode tussen 2021 en 2035 voorziet de prognose in bijna alle veertig COROP-gebieden een groei van het aantal huishoudens. In bijna de helft van deze gebieden is de huishoudensgroei 10 procent of meer. Alleen in Delfzijl en omgeving wordt een afname van het aantal huishoudens verwacht, met bijna 5 procent. Dat komt neer op ongeveer duizend huishoudens, en evenzoveel woningen waar leegstand voor dreigt.
+
+In Flevoland groeit het aantal huishoudens volgens de prognose het sterkst, met 22 procent tot 2035. Deze toename is beduidend groter dan de groei van het aantal inwoners van 16 procent. Deze regio heeft in 2021 de hoogste gemiddelde huishoudensgrootte, van 2,39 personen. Volgens de prognose daalt dit tot 2,27 personen in 2035. Dat de gemiddelde huishoudensgrootte hier zo hoog is, heeft te maken met de geschiedenis van Flevoland als nieuwe polder. In het verleden zijn hier vooral jonge gezinnen naartoe getrokken, eerst naar Emmeloord, later naar Lelystad en nog later naar Almere. De polder kende hierdoor ook een relatief hoog gemiddeld kindertal. Veel van de kinderen uit deze gezinnen gaan de komende jaren uit huis, waardoor de gemiddelde huishoudensgrootte wat daalt. Daarnaast zullen de toenmalige nieuwkomers ouder worden en vaker alleenstaand worden, door scheiding of door het verlies van een partner.
+
+Na 2035 groeit het aantal huishoudens in alle regio’s minder snel. Niet alleen het tempo van de bevolkingsgroei ligt dan lager, maar ook de gemiddelde huishoudensgrootte neemt nauwelijks nog af. Het aantal regio’s met een huishoudensgroei van 10 procent of meer (periode 2035–2050) is aanzienlijk kleiner. In Groot-Amsterdam, Agglomeratie ’s-Gravenhage en Flevoland blijft het aantal huishoudens echter na 2035 nog steeds sterk groeien. In meer regio’s zal het aantal huishoudens in deze periode dalen. Deze liggen voornamelijk aan de randen van Nederland.
+
+Op gemeenteniveau komt eenzelfde beeld naar voren: een toename van het aantal huishoudens. In het westen van het land wordt zowel in de (grote) steden als in de randgemeenten een sterke groei van het aantal huishoudens verwacht. In Noord-Brabant zijn het de steden Breda, Tilburg, Den Bosch, Eindhoven en hun randgemeenten waar de toename van het aantal huishoudens hoog is. Ook in Gelderland zijn er veel gemeenten met een hoge huishoudensgroei. In het oosten en noorden zijn er minder gemeenten waar het aantal huishoudens sterk toeneemt. Meestal gebeurt dat in de wat grotere steden.
+
+Slechts in een beperkt aantal gemeenten wordt tussen 2021 en 2035 een daling van het aantal huishoudens van 2,5 procent of meer voorzien. Deze gemeenten liggen vrijwel zonder uitzondering aan de randen van Nederland. Overigens zijn er minder gemeenten met een voorziene huishoudenskrimp van 2,5 procent of meer dan gemeenten met een dergelijke bevolkingskrimp. In krimpgemeenten is de bevolking al relatief sterk vergrijsd, waardoor de sterfte het aantal geboorten overtreft. Daardoor krimpt de bevolking, maar een overlijden leidt niet altijd tot het verdwijnen van een huishouden. Als iemand weduwe of weduwnaar wordt, is er wel een inwoner, maar geen huishouden minder.
+
+Na 2035 zal in veel gemeenten de groei van het aantal huishoudens stabiel blijven of krimpen. Dit geldt vooral voor de periferie, terwijl in de Randstad en in het midden van het land nog veel gemeenten een lichte toename van het aantal huishouden mogen verwachten. Dit betekent dat delen van Nederland met woningleegstand te maken kunnen krijgen. Dit geldt overigens niet voor gemeenten die nu kampen met een woningtekort, en die dit tekort in 2035 nog niet hebben ingelopen.
+
+Huishoudensgroei vooral in steden
+
+Tussen 2010 en 2021 groeide het aantal huishoudens het sterkst in de vier grote en de middelgrote steden (met 100 duizend inwoners of meer). Dit is niet zo verwonderlijk omdat de bevolking in deze steden vaak ook bovengemiddeld groeide. De sterke groei van het aantal huishoudens in de grote steden is overigens een recent fenomeen. Tot 2010 bleven de grote steden niet alleen in bevolkingsgroei, maar ook in huishoudensgroei achter bij de landelijke ontwikkelingen. In die periode nam het aantal huishoudens vooral toe in de middelgrote steden, deels door overloop van jonge stellen uit de vier grote steden. De prognose voorziet dat tot 2035 vooral in de steden er relatief veel huishoudens bijkomen, met de sterkste groei in de vier grote steden. In gemeenten met minder dan 100 duizend inwoners is de voorziene huishoudensgroei juist relatief laag.
+
+Na 2035 daalt het tempo van de huishoudensgroei overal in Nederland, hoewel die groei in de vier grote steden nog steeds aanzienlijk is. In de overige gemeenten met 100 duizend of meer inwoners wordt de huishoudensgroei in de periode 2035–2050 meer dan gehalveerd. Vooral in de kleinere gemeenten daalt de huishoudensgroei sterk. Voor de kleinste gemeenten (minder dan 40 duizend inwoners) wordt zelfs nauwelijks nog groei verwacht. De toename van het aantal huishoudens zal zich in de toekomst dus net als de bevolkingsgroei concentreren in stedelijk Nederland.
+
+3.2 Meer huishoudens in de tien grootste gemeenten
+
+In Amsterdam komen er volgens de prognose de meeste huishoudens bij. De stad telt in 2035 circa 550 duizend huishoudens, bijna 80 duizend meer dan in 2021. Dit komt neer op een groei van ruim 15 procent. Het aandeel eenpersoonshuishoudens blijft er naar verwachting ook groter dan in de andere grote steden. In 2021 bestaat daar 54 procent van de huishoudens uit één persoon, in 2050 is 56 procent van de huishoudens een eenpersoonshuishouden. In Utrecht worden tot 2035 zo’n 45 duizend extra huishoudens verwacht, een groei van 25 procent. In Den Haag is de huishoudensgroei net als in Amsterdam meer dan 15 procent. In Rotterdam wordt tussen 2021 en 2035 een toename met circa 10 procent verwacht.
+
+Na 2035 blijft het aantal huishoudens in alle vier grote steden verder groeien. Tussen 2035 en 2050 groeit het aantal huishoudens in Amsterdam, Den Haag en Utrecht met bijna 15 procent, terwijl Rotterdam wat achterblijft met bijna 10 procent meer huishoudens.
+
+Op de gemeentelijke ranglijst van het aantal huishoudens staat Groningen in 2021 op de vijfde plaats. Dat is boven Eindhoven, hoewel die stad meer inwoners telt. In Groningen is de gemiddelde huishoudensgrootte laag met 1,71 personen tegen 1,94 personen in Eindhoven. Groningen is een typische studentenstad, waar de meeste jongeren tijdens hun studie alleen wonen en na afronding van hun studie weer wegtrekken (Rambharos en Beets, 2015). Het aantal huishoudens in Groningen is sinds 2009 snel toegenomen. Deze sterke groei zal naar verwachting aanhouden tot circa 2030 om daarna wat af te zwakken, in lijn met de bevolkingsgroei. In Eindhoven blijft het aantal huishoudens echter sterk toenemen, waardoor het Groningen na 2040 op de ranglijst zal passeren.
+
+In andere steden, zoals Tilburg en Nijmegen, blijft het aantal huishoudens tot 2035 toenemen in een tempo dat vergelijkbaar is met dat in de voorgaande jaren. Van alle gemeenten met meer dan 100 duizend inwoners is de relatieve huishoudensgroei het sterkst in Almere. In 2000 lag de stad nog duidelijk achter op de andere steden in de top tien van grootste gemeenten, maar in 2030 zal het naar verwachting Breda en Nijmegen gepasseerd zijn en in 2050 ongeveer evenveel huishoudens tellen als Tilburg. De sterke stijging van het aantal huishoudens hangt samen met de komst van extra huishoudens vanuit de omliggende regio, aangetrokken door de woningbouw in het kader van de schaalsprong. Hoewel de huishoudensgrootte in Almere in de toekomst daalt van 2,37 personen in 2021 naar 2,23 personen in 2035, blijft deze relatief hoog. De stad stijgt daardoor weliswaar op de ranglijst maar blijft op een gedeelde zevende plaats steken. Op de ranglijst van het inwonertal staat Almere op de vijfde plaats.
+
+
+
+Vergrijzing
+
+Erratum
+
+Na publicatie van dit artikel is geconstateerd dat de detailcijfers waarop dit hoofdstuk is gebaseerd onvoldoende betrouwbaar zijn. PBL en CBS kunnen de desbetreffende prognoses niet binnen afzienbare termijn herzien. Daarom adviseren zij om de informatie in dit hoofdstuk niet te gebruiken. Zie voor meer informatie dit .
+
+Een van de belangrijkste trends in de demografie van Nederland is de voortgaande vergrijzing. In 1950 was minder dan 8 procent van de bevolking 65 jaar of ouder, sindsdien is dat aandeel voortdurend toegenomen. Vanaf 2011 is de vergrijzing versneld doordat de eerste babyboomers, de relatief grote geboortecohorten van na 1945, vanaf dat moment de leeftijd van 65 jaar bereikten. In 2021 is het percentage 65‑plussers al opgelopen naar 19,8. De Kernprognose voorziet een verdere stijging naar 24,4 procent ouderen in 2035. Tot 2040 zet de vergrijzing nog door, tot 25,1 procent ouderen in 2040. Daarna neemt het aandeel ouderen heel geleidelijk af en in 2050 zal 24,7 procent van de bevolking 65 jaar of ouder zijn (Stoeldraijer, Van Duin, De Regt, Van der Reijden en Te Riele, 2021).
+
+4.1 Vooral vergrijzing buiten de randstad
+
+Tussen regio’s zijn grote verschillen in de mate van vergrijzing. Aan de randen van Nederland is het aandeel 65‑plussers hoger. Hier is dit aandeel ouderen de afgelopen twintig jaar sneller toegenomen dan in de Randstad (Kooiman, 2016). De prognose voorziet dat de randen de komende jaren het meest vergrijsd zullen blijven.
+
+Tot 2035 krijgen alle regio’s te maken met verdere vergrijzing. Dat geldt ook voor de Randstad, ondanks dat daar in de toekomst veel jongeren uit binnen- en buitenland naar toe zullen trekken en er relatief veel kinderen zullen worden geboren. Flevoland is op dit moment de minst vergrijsde regio, maar ook hier neemt het aandeel ouderen toe. Veel bewoners zijn van middelbare leeftijd en zullen de komende jaren de leeftijd van 65 jaar bereiken. Toch blijft Flevoland naar verwachting tot de minst vergrijsde regio’s behoren, onder andere doordat er veel woningen bij blijven komen voor nieuwe gezinnen. Het aandeel ouderen neemt er toe van 14,5 procent in 2021 naar 20,2 procent in 2035. Ook diverse andere regio’s in de Randstad blijven tot de jongste behoren.
+
+Zeeuws-Vlaanderen is in 2021 de meest vergrijsde regio van Nederland met 26,3 procent 65‑plussers. In Zeeland is de levensverwachting relatief hoog en er trekken ook veel jongeren uit deze regio weg voor een opleiding of voor werk. In het noorden, oosten en zuidoosten van het land wonen eveneens al relatief veel ouderen. Hier zijn wegtrekkende jongeren niet alleen direct, maar ook indirect debet aan: zij krijgen hun kinderen ook elders. Voor Limburg speelt bovendien al decennia dat de gezinnen er naar verhouding klein zijn. Het gemiddeld kindertal per vrouw is er laag (Huisman en De Jong, 2017).
+
+In de nu sterkst vergrijsde regio’s zal de vergrijzing ook in de toekomst sterker zijn dan elders in het land. In 2035 is Midden-Limburg het meest vergrijsd met 30,9 procent 65‑plussers tegen 24,5 procent nu. Ook Oost-Groningen, Delfzijl en omgeving, Achterhoek, Zeeuws-Vlaanderen en Zuid-Limburg zullen geconfronteerd worden met een sterke vergrijzing. In deze regio’s komt in 2035 het percentage inwoners van 65 jaar of ouder naar verwachting in een groot deel van de gemeenten boven de 30 uit.
+
+Na 2040 neemt de vergrijzing in Nederland licht af, waardoor in veel van de sterk vergrijsde regio’s het aandeel 65‑plussers weer enigszins gaat dalen. Dat is met name het geval in Zeeuws-Vlaanderen en Zuid-Limburg, maar ook in gemeenten in Noord- en Zuidoost-Drenthe, en elders langs de randen van Nederland. Ondertussen neemt in andere regio’s het aandeel 65‑plussers wat toe, waardoor de regionale verschillen in vergrijzing kleiner worden. Delfzijl en omgeving is in 2050 de meest vergrijsde regio. Daar is dan 31,5 procent 65 jaar of ouder. Cijfers over vergrijzing per gemeente zijn te vinden op de themapagina van het PBL of op StatLine.
+
+Meer verstedelijkt, minder vergrijsd
+
+De huidige verschillen in de mate van vergrijzing hangen samen met de mate van verstedelijking. Hoe groter en meer verstedelijkt de gemeente, hoe lager het aandeel ouderen. Het aandeel 65‑plussers ligt in 2021 bijna op 14 procent in de vier grote steden, en op bijna 23 procent in de kleinste gemeenten. Tot 2035 krijgen echter ook de grote steden te maken met een groeiend aandeel ouderen dat zal stijgen naar bijna 20 procent. Door de verwachte nieuwbouw in de grote steden blijven nieuwe, jonge gezinnen voor de stad behouden en wordt de uitstroom naar omringende gemeenten beperkt. De gezinnen die in de steden blijven wonen, worden echter ook ouder. Toch blijven de grote steden naar verwachting jong in vergelijking met andere gemeenten, waar de vergrijzing ook verder doorzet. In de kleinere gemeenten is in 2035 gemiddeld bijna 30 procent 65 jaar of ouder. Na 2035 worden de verschillen naar gemeentegrootte volgens de prognose kleiner. Dit komt doordat in de grote en middelgrote steden het aandeel 65‑plussers nog verder stijgt, terwijl dit aandeel in de kleinere gemeenten stabiliseert of enigszins afneemt.
+
+4.2 Ook vergrijzing in de tien grootste gemeenten
+
+Utrecht is van de vier grote steden het minst vergrijsd. In 2021 was circa 10 procent van de bevolking 65 jaar of ouder. De positie van Utrecht als typische studentenstad is hier debet aan. Na Utrecht is Amsterdam het minst vergrijsd en op enige afstand volgen Den Haag en Rotterdam. In de afgelopen jaren is de vergrijzing in Utrecht nauwelijks toegenomen, terwijl het in Amsterdam vrij sterk is gestegen.
+
+Utrecht zal ook in 2035 nog de minst vergrijsde grote stad zijn, met 17 procent 65‑plussers tegen ongeveer 20 procent 65‑plussers in de andere grote steden. De wijk Leidsche Rijn in Utrecht is de grootste nieuwbouwlocatie van Nederland. Daar trokken de afgelopen jaren veel gezinnen naartoe. Mede hierdoor zal in Utrecht vooral na 2035 de vergijzing sneller doorzetten, als ook deze bewoners ouder worden. Daardoor zal het gat met de andere grote steden kleiner worden.
+
+Ook de andere steden in de top tien zullen naar verwachting verder vergrijzen. Net als de vier grote steden hebben deze gemeenten echter ook in de toekomst een kleiner aandeel oudere inwoners dan landelijk. Almere was van deze steden begin 2021 het minst vergrijsd en zal dat naar verwachting ook in 2035 zijn. Na 2035 worden de verschillen in vergrijzing tussen de middelgrote steden geleidelijk kleiner. Almere vormt hierop een uitzondering, aangezien de stad de komende jaren naar verwachting nog veel jonge gezinnen zal aantrekken. Dit zal een verdere vergrijzing afremmen.
+
+4.3 Sterke daling van het aantal potentiële zorgverleners
+
+Met de ouder wordende bevolking neemt ook het aantal 85‑plussers toe. Tot 2035 gaat hun aantal naar verwachting bijna verdubbelen, van bijna 390 duizend in 2021 tot ruim 713 duizend. Daarna stijgt hun aantal door naar meer dan één miljoen in 2050. Ook als aandeel van de bevolking neemt het aantal 85‑plussers sterk toe van 2,2 procent in 2021 naar 3,8 procent in 2035. In 2050 ligt dit percentage 2,5 keer zo hoog als nu en komt dan uit op 5,5 procent.
+
+Onder 85‑plussers is de zorgbehoefte relatief groot. Het aandeel dat door overlijden van de partner alleen komt te staan is eveneens groot (De Klerk et al., 2019). Mantelzorg komt vaak op de schouders van mensen van 50 tot 75 jaar terecht, meestal de kinderen van deze ouderen. Met de groter wordende groep 85-plussers is het een steeds belangrijker maatschappelijk vraagstuk of er in de toekomst voldoende potentieel is om deze informele zorg te geven. Als indicator daarvoor kan worden gekeken naar de Oldest Old Support Ratio (Robine, Michel en Herrmann, 2007). Deze ratio geeft de verhouding weer van het aantal mensen van 50 tot 75 jaar ten opzichte van het aantal mensen van 85 jaar of ouder. In 1975 bedroeg dit cijfer voor Nederland nog 30. Dat betekent dat er 30 potentiële zorgverleners (50 tot 75 jaar) waren per 85‑plusser. Hierna zette een sterke daling in tot ruim 14 potentiële zorgverleners in 2021. De prognose voorziet een verdere daling naar bijna 8 inwoners in 2035 en naar 5 inwoners van 50 tot 75 jaar per 85‑plusser in 2050. Dit betekent dat in 2035 slechts ongeveer de helft van het aantal potentiële (informele) zorgverleners voor elke 85‑plusser beschikbaar is ten opzichte van de huidige situatie, en in 2050 ongeveer één derde.
+
+In Flevoland ligt in 2021 de ratio het hoogst met ruim 24. Vooral in Almere zijn er relatief veel potentiële zorgverleners per 85-plusser (31). Ook in Amsterdam en in diverse gemeenten onder Utrecht is dit aantal groter dan landelijk. In het Gooi en Vechtstreek, Zeeuws-Vlaanderen en rondom Haarlem is de ratio in alle gemeenten in deze regio’s samen een kleine 12. Ook in de regio’s langs de oostgrens is de ratio doorgaans lager dan landelijk. In de toekomst dalen deze ratio’s naar verwachting overal in Nederland. In 2035 is het in nog maar in een beperkt aantal gemeenten groter dan 10, bijvoorbeeld in Almere. De zorg aan ouderen kan hier onder sterke druk komen te staan. Na 2035 kan de situatie nog urgenter worden, aangezien de ratio in steeds meer regio’s en gemeenten tot onder de 5 gaat dalen.
+
+
+
+Ontwikkeling van de potentiële beroepsbevolking
+
+Erratum
+
+Na publicatie van dit artikel is geconstateerd dat de detailcijfers waarop dit hoofdstuk is gebaseerd onvoldoende betrouwbaar zijn. PBL en CBS kunnen de desbetreffende prognoses niet binnen afzienbare termijn herzien. Daarom adviseren zij om de informatie in dit hoofdstuk niet te gebruiken. Zie voor meer informatie dit .
+
+Een indicatie voor het arbeidsaanbod in de komende jaren is de omvang van de potentiële beroepsbevolking, de populatie tussen 20 jaar en de AOW-gerechtigde leeftijd. In 2022 ligt deze leeftijd op 66 jaar en zeven maanden. Uitgaande van de op dit moment geldende wetgeving loopt de AOW-leeftijd tot 2024 verder op tot 67 jaar. Vanaf dat moment wordt een verdere verhoging van de AOW-leeftijd gekoppeld aan de periode-levensverwachting bij 65 jaar en stijgt deze leeftijd met 8 maanden voor elk jaar dat de levensverwachting toeneemt. Uitgaande van de levensverwachting in 2021 ligt de AOW-gerechtigde leeftijd in 2035 op 67 jaar en 9 maanden en in 2050 op 68 jaar en 9 maanden. Voor deze jaren staat de AOW-leeftijd echter nog niet vast.
+
+Tussen 2000 en 2015 bestond de potentiële beroepsbevolking uit een vrij stabiel aantal van circa 10 miljoen mensen. Hierna is deze gegroeid tot bijna 10,6 miljoen begin 2021. Rekening houdend met de opschuivende AOW-leeftijd neemt deze groep de komende jaren naar verwachting verder toe tot ruim 10,9 miljoen in 2025. Daarna, als de AOW-leeftijd minder snel opschuift, blijft de omvang van deze groep enige tijd vrij stabiel. In 2035 telt de potentiële beroepsbevolking bijna 11 miljoen mensen. Na 2040 neemt deze groep weer in omvang toe en bestaat in 2050 uit 11,4 miljoen personen. Deze verwachtingen kunnen echter veranderen als de wetgeving rondom de AOW-leeftijd wijzigt.
+
+5.1 Krimp potentiële beroepsbevolking in het noord- en zuidoosten
+
+In 2035 is de potentiële beroepsbevolking naar verwachting zo’n 400 duizend groter dan in 2021. Net als de totale bevolking is de bevolking in de werkzame leeftijden tegen die tijd niet overal gegroeid. Groei wordt vooral verwacht in regio’s in de Randstad. Ook in Flevoland, op de Veluwe en in en om Eindhoven neemt het aantal inwoners in de werkzame leeftijden toe. Naar verwachting krimpt de potentiële beroepsbevolking in een aantal gebieden langs de oostgrens van het land, vooral in het noorden en zuiden. In deze regio’s is er vaak nog geen sprake van een daling van het aantal inwoners. Het dalende aantal inwoners in de werkzame leeftijden kan hier echter toch een probleem betekenen. Deze regio’s zijn doorgaans sterker vergrijsd, er wonen naar verhouding veel inwoners die de pensioengerechtigde leeftijd hebben bereikt. Jonge mensen trekken er doorgaans weg voor studie of werk, en er komen minder mensen bij door bijvoorbeeld buitenlandse migratie.
+
+De regio’s waar groei van de potentiële beroepsbevolking is voorzien, zijn juist de regio’s waar jongeren naartoe gaan, vanwege de opleidingsmogelijkheden of banen, en die aantrekkelijk zijn voor buitenlandse (kennis)migranten. Vanwege de jongere inwoners is het aantal geboorten daar ook groter, waardoor ook op termijn de instroom van nieuwe 20‑jarigen de uitstroom van mensen op AOW-leeftijd overtreft. In de meeste gemeenten in de Randstad is sprake van een groeiende potentiële beroepsbevolking, maar ook daarbuiten zijn er plaatsen waar deze toeneemt. Voorbeelden zijn de stedenband in Noord-Brabant, vooral in en om Eindhoven, in het noorden (Groningen) en in het oosten (Enschede).
+
+In de periode 2035–2050 neemt de potentiële beroepsbevolking in Nederland naar verwachting met een vergelijkbaar aantal toe als in de periode 2021–2035, ruim 400 duizend mensen. De groei is dan ook gelijkmatiger over het land verdeeld. In diverse gebieden aan de rand van Nederland is niet langer sprake van duidelijke krimp, maar is de omvang van de beroepsbevolking min of meer stabiel. Slechts in een beperkt aantal gebieden in het noorden neemt de potentiële beroepsbevolking dan nog af. De gemeenten met de sterkste groei na 2035 zijn te vinden rondom Amsterdam, Den Haag en in Flevoland, in gemeenten waar zich jonge gezinnen vestigen. Ook op de Veluwe en rondom Eindhoven blijft de potentiële beroepsbevolking nog relatief sterk groeien. Cijfers per gemeente zijn te vinden op de themapagina van het PBL of op StatLine.
+
+
+
+Ontwikkeling van het aantal basisschoolleerlingen
+
+Erratum
+
+Na publicatie van dit artikel is geconstateerd dat de detailcijfers waarop dit hoofdstuk is gebaseerd onvoldoende betrouwbaar zijn. PBL en CBS kunnen de desbetreffende prognoses niet binnen afzienbare termijn herzien. Daarom adviseren zij om de informatie in dit hoofdstuk niet te gebruiken. Zie voor meer informatie dit .
+
+De aantrekkingskracht van gemeenten op jonge gezinnen hangt onder andere af van de aanwezigheid van basisscholen in de buurt. Tegelijk is het voor deze scholen van belang dat ze voldoende leerlingen blijven trekken.
+
+Landelijk wordt tot 2025 een daling van het aantal basisschoolleerlingen (4- tot 12‑jarigen) voorzien, daarna neemt hun aantal naar verwachting weer toe. Deze ontwikkeling hangt samen met het aantal kinderen dat tussen 2010 en 2021 is geboren, een kleine 170 duizend per jaar. Rond 2000 ging het nog om meer dan 200 duizend kinderen. Jonge vrouwen hebben het moederschap uitgesteld, en hoewel er weer meer vrouwen in de vruchtbare leeftijd komen, worden er toch naar verhouding weinig kinderen geboren. De kleinere geboortecohorten komen de komende jaren in de basisschoolleeftijd, terwijl de wat grotere cohorten van rond 2010 weer uitstromen. De verwachting is dat de huidige twintigers hun kinderen alsnog zullen krijgen en dat het aantal baby’s dat jaarlijks geboren wordt in de komende jaren gaat toenemen. Zo werden in 2021 weer meer kinderen geboren, ruim 179 duizend. Daardoor zal ook het aantal kinderen in de basisschoolleeftijd weer stijgen. De daling van het aantal basisschoolleerlingen die na 2040 wordt voorzien, is het gevolg van de kleine geboortecohorten vanaf 2010. De vrouwen die in die periode zijn geboren, komen na 2030 in de vruchtbare leeftijd. Doordat zij met minder zijn, worden er ook minder kinderen geboren.
+
+6.1 Meer basisschoolleerlingen in Randstad
+
+Het aantal kinderen in de basisschoolleeftijd zal in 2035 naar verwachting 10 procent groter zijn dan in 2021. Tegen die tijd heeft circa drie op de tien gemeenten echter te maken met een krimp van het aantal 4- tot 12‑jarigen van 5 procent of meer. De gemeenten met de grootste daling liggen veelal in het noorden en oosten van het land. De landelijke groei tot 2035 wordt getrokken door de grotere steden in de Randstad en de omliggende gemeenten. Ook in Almere en Lelystad zullen er in 2035 meer basisschoolleerlingen zijn dan nu. Daarnaast springen steden als Eindhoven, Groningen, Nijmegen en Ede eruit. Het zijn de gemeenten waar de bevolking de komende jaren nog sterk groeit en waar nog woningen bijkomen voor jonge gezinnen.
+
+Vanaf 2040 gaat het aantal basisschoolleerlingen landelijk weer dalen, maar per saldo stijgt het aantal leerlingen tussen 2035 en 2050 licht. Ten opzichte van 2035 is in ongeveer de helft van de gemeenten het aantal basisschoolleerlingen in 2050 groter, in de andere helft juist kleiner. De grootste absolute toename van het aantal basisschoolleerlingen vindt plaats in Amsterdam en Almere, de grootste absolute daling is in Eindhoven en Nijmegen.
+
+
+
+Onzekerheid
+
+Erratum
+
+Na publicatie van dit artikel is geconstateerd dat de detailcijfers waarop dit hoofdstuk is gebaseerd onvoldoende betrouwbaar zijn. PBL en CBS kunnen de desbetreffende prognoses niet binnen afzienbare termijn herzien. Daarom adviseren zij om de informatie in dit hoofdstuk niet te gebruiken. Zie voor meer informatie dit .
+
+De regionale prognose geeft de meest waarschijnlijke ontwikkeling van bevolking en huishoudens op basis van de huidige kennis en inzichten. Elke prognose is echter met onzekerheden omgeven. Die onzekerheid neemt toe naarmate de prognoseperiode verder in de toekomst ligt. De onzekerheid is bovendien doorgaans groter in kleinere regio’s en gemeenten doordat bij kleinere aantallen toevalfluctuaties een grotere rol spelen dan bij grotere aantallen.
+
+Vooral in gebieden waar de druk op de woningmarkt groot is, zoals in de grote steden, speelt daarnaast onzekerheid over de woningbouw een belangrijke rol. De prognose veronderstelt dat gemeenten met veel woningbouw sterker kunnen groeien dan gemeenten met weinig woningbouw. Om deze reden worden woningbouwplannen meegenomen bij het opstellen van de regionale prognose. Die worden echter niet altijd gerealiseerd. Ook is het mogelijk dat meer gebouwd wordt dan verwacht. Voor de langere termijn zijn er bovendien vaak nog geen woningbouwplannen gemaakt, en kan deze informatie niet helpen om te bepalen waar woningen beschikbaar zullen zijn voor mensen die verhuizen.
+
+Behalve over woningbouw, is er ook onzekerheid over de ontwikkeling van geboorte, sterfte, immigratie, emigratie en over vestiging en vertrek. Ook is het onzeker of levensloopgebeurtenissen meer of minder zullen veranderen dan verondersteld, zoals het uit-huis-gaan van kinderen, het samenwonen, het uit-elkaar-gaan en het verhuizen naar een zorginstelling.
+
+Buiten de demografie, kunnen economische ontwikkelingen ook een bron van onzekerheid vormen, wat weer doorwerkt op vooral de binnenlandse en buitenlandse migratie, maar ook op geboorte en relatievorming en -ontbinding (De Beer, 2012). Bij de sterfte kunnen epidemieën leiden tot meer overledenen, terwijl een gezondere levensstijl juist kan leiden tot minder overledenen. Ook kunnen er onvoorziene sociaal-culturele veranderingen optreden, bijvoorbeeld in woonvoorkeuren of in de manier waarop relaties vormgegeven worden, en kunnen beleidswijzigingen tot andere keuzes leiden. Tot slot kunnen onverwachte internationale ontwikkelingen van invloed zijn op immigratie. Daarbij kan gedacht worden aan oorlogen of klimaatverandering, maar ook aan de Brexit en het soort maatregelen dat tijdens de coronacrisis werd genomen.
+
+Bij de prognose van 2016 is deze onzekerheid voor het eerst in beeld gebracht met behulp van een zogenoemde stochastische prognose (Van Duin en De Jong, 2017b). Deze levert onzekerheidsintervallen op die een indicatie geven van de betrouwbaarheid van de prognose. In de regionale prognose is een methodiek gebruikt die lijkt op die van de stochastische prognose van de nationale prognose van het CBS. Voor elke gemeente, provincie en COROP-gebied worden, naast de prognose, zestien varianten gesimuleerd. Deze geven aan wat het effect is van hogere dan wel lagere veronderstellingen ten aanzien van geboorte, sterfte, buitenlandse migratie, binnenlandse migratie, het uit-huis-gaan van kinderen, het gaan samenwonen en het gaan wonen in een instelling. Uit de uitkomsten van deze varianten kan voor elke afzonderlijke regio de onder- en bovengrens van het 67 procent prognose-interval worden afgeleid, zowel voor de bevolkingsontwikkeling als de huishoudensontwikkeling. Naar verwachting zullen de werkelijke cijfers in de meeste gevallen, twee op de drie keer, tussen deze twee waarden liggen. Hoe smaller het prognose-interval, hoe minder variatie wordt verwacht in de werkelijke waarde.
+
+Het 67 procent prognose-interval geeft een bandbreedte voor de uitkomsten van elke regio afzonderlijk. Dat betekent dat gemeentelijke cijfers niet zonder meer over gebieden kunnen worden opgeteld. De bovengrens bij de ene gemeente hoeft namelijk niet altijd samen te gaan met de bovengrens bij een andere gemeente.
+
+7.1 Bij lagere bevolkingsgroei meer krimp aan de randen van Nederland
+
+Kaart 7.1.1 geeft de verwachte bevolkingsgroei tot 2035 volgens de prognose en volgens de onder- en bovengrens van het 67 procent prognose-interval. De figuur van de prognose geeft de meest waarschijnlijke toekomst aan. Voor vrijwel alle COROP-gebieden in de Randstad is het vrij zeker dat ze blijven groeien. Ook als de bevolkingsgroei in de COROP-gebieden lager uitvalt en zou uitkomen op het niveau zoals verwacht volgens de ondergrens, neemt de bevolking van deze gebieden in omvang toe. In delen van Noord-Brabant, Gelderland en Overijssel is de verwachte groei van de bevolking eveneens zeer waarschijnlijk.
+
+Tot 2035 wordt er in Nederland weinig krimp verwacht. Mocht de bevolkingsgroei lager uitvallen, dan zouden meer gebieden in deze regio’s met bevolkingskrimp te maken kunnen krijgen, met name in het noorden van het land en langs de oost- en zuidgrens. Wanneer echter de bevolking sterker groeit dan voorzien, dan zouden vrijwel alle gebieden te maken kunnen krijgen met een groeiend of stabiel blijvend aantal inwoners.
+
+7.2 Bij lagere groeiverwachtingen toch vrijwel overal meer huishoudens
+
+Voor vrijwel alle gebieden waar het aantal huishoudens tot 2035 volgens de prognose het sterkst groeit, geldt dat een toename ook waarschijnlijk is als het aantal huishoudens veel minder sterk toeneemt. Voor het noorden en langs de oost- en zuidgrens van het land, is de toename van het aantal huishoudens minder zeker. Op basis van de ondergrens zou het aantal huishoudens daar ook kunnen krimpen. Hier staat tegenover dat als het aantal huishoudens sterk groeit, in vrijwel alle gebieden het aantal huishoudens tot 2035 zal toenemen.
+
+
+
+Technische toelichting
+
+De technische toelichting geeft een korte samenvatting van het gebruikte model en de methodiek om te komen tot de gehanteerde veronderstellingen over geboorte, sterfte, buitenlandse migratie, binnenlandse migratie, woningbouw en huishoudensdynamiek in de PBL/CBS Regionale bevolkings- en huishoudensprognose 2022–2050.
+
+Model PEARL
+
+Voor deze prognose is het model Projecting population Events At the Regional Level (PEARL) gebruikt (De Jong et al., 2006; De Jong et al., 2007). PEARL is in essentie een cohort-componentenmodel in combinatie met een dynamisch huishoudensmodel. Het model gaat op gemeentelijk niveau uit van het inwonertal en het aantal huishoudens op 1 januari en voorspelt hoe dit in de loop van het jaar van omvang en samenstelling verandert. Door geboorte, immigratie en binnenlandse vestiging neemt het inwonertal toe terwijl door sterfte, emigratie en binnenlands vertrek het inwonertal afneemt. Door de hiervoor genoemde componenten van bevolkingsgroei en door de huishoudensdynamiek (zoals kinderen die uit huis gaan, mensen die gaan samenwonen en stellen die uit elkaar gaan) verandert de omvang en de samenstelling van de huishoudens. Als gevolg van al deze mutaties is de omvang en de samenstelling van de bevolking en het aantal huishoudens op 1 januari van het volgend jaar bekend. Voor het daarop volgende jaar wordt dezelfde methodiek opnieuw toegepast. Dit wordt gedaan voor alle jaren van de prognosehorizon. Ook voor de prognose van de landelijke bevolking en huishoudens gebruikt het CBS een dergelijk model. Deze twee nationale prognoses vormen een belangrijk uitgangspunt voor de regionale prognose. In feite wordt de landelijke prognose nader gedifferentieerd naar het gemeenteniveau.
+
+De input van het model PEARL zijn enerzijds veronderstellingen op nationaal niveau over geboorte, sterfte, immigratie, emigratie en over de overgangen tussen huishoudensposities. Deze zijn rechtstreeks overgenomen van de meest recente (nationale) CBS Kernprognose 2021–2070 en CBS Huishoudensprognose 2022–2070. Anderzijds bestaat de input uit de gemeentelijke veronderstellingen over de componenten van de bevolkingsgroei en de huishoudensdynamiek. Hieronder wordt nader ingegaan op hoe deze veronderstellingen tot stand zijn gekomen.
+
+Veronderstellingen over de componenten van bevolkingsgroei – Geboorte
+
+Voor veronderstellingen over de geboorten wordt de toekomstige vruchtbaarheid bepaald aan de hand van het gemiddeld kindertal per vrouw op gemeentelijk niveau. Deze indicator hang samen met een aantal demografische, culturele, sociaaleconomische en geografische kenmerken van die gemeenten (De Beer en Deerenberg, 2005; Middelkoop en De Jong, 2009; Huisman en De Jong, 2017). Van deze samenhang wordt als volgt gebruik gemaakt. In een multivariaat regressiemodel is eerst nagegaan welke variabelen de huidige gemeentelijke verschillen in vruchtbaarheid het best verklaren. Dit zijn het aandeel vrouwen dat alleen woont, het aandeel vrouwen dat een geloof aanhangt, het aandeel vrouwen dat een uitkering ontvangt, het aandeel vrouwen dat laag opgeleid is, het aandeel nieuwbouw en ten slotte dummies voor COROP-gebieden waarmee andere (niet verklaarde) regionale verschillen worden meegenomen.
+
+Om per gemeente een schatting te maken van de vruchtbaarheid in de toekomst worden de gemeentelijke waarden van deze variabelen geëxtrapoleerd naar de toekomst, waarna het regressiemodel opnieuw wordt toegepast.
+
+Veronderstellingen over de componenten van bevolkingsgroei – Sterfte
+
+Om het gemeentelijk aantal sterfgevallen in de toekomst te bepalen, wordt in de prognose gekeken naar ontwikkelingen in de levensverwachting bij geboorte. De levensverwachting van mannen en vrouwen in elke gemeente wordt vergeleken met dat van mannen en vrouwen in heel Nederland. Het gemiddelde absolute verschil daartussen in de laatste acht jaar wordt vervolgens toegepast op de ontwikkeling van de nationale levensverwachting volgens de Bevolkingsprognose.
+
+Veronderstellingen over de componenten van bevolkingsgroei – Buitenlandse migratie
+
+Voor het bepalen van het gemeentelijk aantal immigranten en emigranten wordt gebruik gemaakt van de zogeheten concentratie-index. Voor deze concentratie-index wordt het aandeel immigranten dat zich in een bepaalde gemeente vestigt, gedeeld door het aandeel van de gehele bevolking dat in deze gemeente woont. Dit cijfer laat zien of immigranten zich relatief vaak (bij waarden groter dan 1) of juist relatief minder vaak (bij waarden kleiner dan 1) in de betreffende gemeente vestigen dan verwacht mocht worden op basis van het aandeel inwoners. De concentratie-index geeft op die manier een indicatie van de relatieve aantrekkingskracht van die gemeente. Voor de emigratie wordt het aandeel emigranten dat vanuit een bepaalde gemeente vertrekt, gedeeld op het aandeel van de bevolking dat in deze gemeente woont. Dit geeft een indicatie van de kans dat mensen uit de betreffende gemeente zullen vertrekken naar het buitenland. De concentratie-indices worden eerst berekend op basis van waargenomen kalenderjaar cijfers, en vervolgens wordt de trend uit het verleden naar de toekomst geëxtrapoleerd.
+
+Veronderstellingen over de componenten van bevolkingsgroei – Binnenlandse migratie
+
+De binnenlandse verhuizingen worden in verschillende stappen gemodelleerd. Voor elk van deze stappen worden veronderstellingen opgesteld.
+
+In de eerste stap wordt gekeken naar de verhuizingen op nationaal niveau, met als indicator het aantal verhuizingen per duizend inwoners. Dit aantal fluctueert door de jaren heen en deze fluctuaties hangen vrij sterk samen met de conjunctuur, wat voor een belangrijk deel voortkomt uit de koppeling met de woningmarkt. Voor de toekomst wordt uitgegaan van het gemiddelde van deze indicator over de laatste 20 jaar. De waarde in het startjaar van de prognose beweegt naar dit gemiddelde toe, tot 2035. Na 2035 wordt een stabiel niveau aangehouden.
+
+De volgende stap is het bepalen van de gemeentelijke verhuismobiliteit. Hiertoe wordt een regionale factor berekend, die aangeeft of in een bepaalde gemeente de verhuisgeneigdheid hoger of lager is dan landelijk. De indicator hiervoor is het naar leeftijd gestandaardiseerde aantal verhuizingen per 1000 inwoners, voor mannen en vrouwen apart. De waargenomen regionale factor wordt hierbij naar de toekomst geëxtrapoleerd.
+
+Vervolgens worden de verhuizingen per gemeente uitgesplitst in verhuizingen binnen de gemeente en verhuizingen tussen gemeenten, op basis van de waarneming over de laatste 5 jaar. Voor degenen die vanuit de ene gemeente naar een andere gemeente verhuizen, wordt vervolgens de (nieuwe) vestigingsgemeente bepaald. Daarvoor wordt eerst een onderverdeling gemaakt tussen verhuizingen over lange afstand en over korte afstand (de grens ligt op 35 kilometer hemelsbreed). Voor het modelleren van de lange-afstandsmigratie wordt het aandeel lange afstandsmigranten bepaald en wordt gekeken naar hun bestemmingspatroon in de laatste vijf jaar.
+
+Ten slotte wordt de korte-afstandsmigratie gemodelleerd. Hierbij wordt gebruik gemaakt van het zogenaamde ruimtelijke interactiemodel dat uit gaat van de bevolkingsomvang van de bestemmingsgemeente en de afstand tussen de vertrek en bestemmingsgemeente. Grote bestemmingsgemeenten en gemeenten die dicht bij elkaar liggen, ontvangen daarbij relatief veel korte-afstandsmigranten. Op basis van dit model verhuizen korte-afstandsmigranten vanuit de vertrekgemeenten eerst naar initiële bestemmingsgemeenten. Daarna wordt via een beknopt woningmarktmodel nagegaan in hoeverre de vraag naar woonruimte in deze gewenste bestemmingsgemeente aansluit bij het aanbod van woonruimte. Is dit aanbod te klein, dan gaat het model na of er in andere gemeenten binnen een straal van 35 kilometer rondom de vertrekgemeente wel voldoende aanbod is. Als ook in andere gemeenten geen plek is, worden verhuizers alsnog aan de initiële gemeente toebedeeld. Bij deze laatste stap spelen veronderstellingen over de woningbouw een belangrijke rol, aangezien dit het aanbod van woningen voor een belangrijk deel bepaalt.
+
+Veronderstellingen woningbouw
+
+De woningbouw heeft effect op verhuizingen. Wanneer er woningen in een gemeente bijkomen, zijn er (meestal) ook meer mensen die ernaartoe verhuizen; dit geldt vooral voor krappe woningmarkten. Veronderstellingen over de woningbouw zijn daarom een belangrijk onderdeel van de regionale prognose. Zoals hierboven vermeld spelen ze vooral een rol bij de korte afstandsverhuizingen. De woningbouwveronderstellingen hebben betrekking op de verandering van de woningvoorraad voor de periode 2021–2050. Dit is het jaarlijkse saldo van de toevoegingen aan de woningvoorraad minus de onttrekkingen, ofwel de netto woningbouw.
+
+Verwachtingen over woningbouw komen uit verschillende bronnen. Via de werkgroep Bevolking en Wonen van het Interprovinciaal Overleg worden (actuele) provinciale verwachtingen voor de woningbouw dan wel de planopgave ontvangen. Via een enquête onder een zestigtal gemeenten worden gemeentelijke verwachtingen ontvangen. Deze gemeenten (vooral grotere en middelgrote gemeenten) zijn deels aangesloten bij de Vereniging Statistiek en Onderzoek. Daarnaast worden nog diverse websites en publicaties met informatie over nieuwbouw en bestuurlijke afspraken geraadpleegd. Ook is gekeken naar trends in de waargenomen woningbouw volgens de Basisregistratie Adressen en Gebouwen (BAG), en in het bijzonder naar de afgegeven woningbouwvergunningen in de laatste paar jaar.
+
+In de regionale prognose wordt zoveel mogelijk gestreefd naar het onder één noemer krijgen van de informatie uit de verschillen databronnen. Dat betekent dat trends die eenzelfde ontwikkeling geven (maar qua niveau wél kunnen verschillen) én realistisch worden geacht, doorgaans min of meer worden gemiddeld, waarbij er vrij sterk rekening wordt gehouden met de uitkomsten van de gemeentelijke enquête.
+
+Veronderstellingen huishoudensdynamiek
+
+Voor de ontwikkeling van het aantal huishoudens is het gedrag rondom uit huis gaan van kinderen, gaan samenwonen, uit elkaar gaan van stellen en verhuizen naar instellingen van belang. Met behulp van informatie over de regionale variatie in deze processen kan worden bepaald waar in Nederland de huishoudensgroei sterker of minder sterk is en om welke typen huishoudens het gaat.
+
+Regionaal zijn er grote verschillen in de leeftijd bij uit huis gaan. Er wordt verondersteld dat deze verschillen in de toekomst niet veranderen. Veranderingen in de gemiddelde leeftijd bij uit huis gaan zoals voorzien in de landelijke huishoudensprognose, worden in de regionale prognose gevolgd. Voor de kansen voor mannen en vrouwen om te gaan samenwonen, gestandaardiseerd voor verschillen in de leeftijdsopbouw, wordt geen regionale variatie verondersteld. Bij het uit elkaar gaan en in de mate waarin inwoners naar een instelling verhuizen, bestaan er aanzienlijke regionale verschillen, ook na standaardisatie voor verschillen in de gemeentelijke leeftijdsopbouw. In de regionale prognose wordt verondersteld dat de huidige regionale verschillen ook in de toekomst blijven bestaan.
+
+
+
+Literatuur
+
+Beer, J., en I. Deerenberg (2005). . In: Bevolkingstrends, 1/2005, 46–55.
+
+Beer, J. de (2012). In: Bevolkingstrends, 12 november.
+
+BZK (2022). .
+
+CBS (2019). . Nieuwsbericht, 26-6-2019.
+
+CBS (2021). . Nieuwsbericht, 5-1-2021.
+
+CBS (2022). . Nieuwsbericht, 4-1-2022.
+
+CBS (2022). .
+
+CBS Statline (2022). .
+
+Duin, C. van, en C. Harmsen (2009). , In: Bevolkingstrends, 57(3).
+
+Duin, C. van, en A. de Jong (2017a). . In: Statistische Trends, december 2017.
+
+Duin, C. van, en A. de Jong (2017b). . Discussion paper 21. CBS, Den Haag/Heerlen.
+
+Huisman, C., en A. de Jong (2017). . In: Bevolkingstrends, juni 2017.
+
+Imhoff, E. van, and N. Keilman (1991). LIPRO 2.0: An application of a dynamic demographic projection model to household structure in the Netherlands. Swets and Zeitlinger, Amsterdam.
+
+Jong, A. de, M. Alders, P. Feijten, P. Visser, I. Deerenberg, M. van Huis en D. Leering (2006). . NAI Uitgevers, Rotterdam.
+
+Jong, A. de, P. Feijten, C. de Groot, C. Harmsen, M. van Huis en F. Vernooij (2007). . NAI Uitgevers, Rotterdam.
+
+Loke, R., en A. de Jong (2013). . In: Bevolkingstrends, 12 februari 2013.
+
+Middelkoop, M. van, en A. de Jong (2009). . In: Bevolkingstrends, 4/2009, 63–70.
+
+PBL themasite (2022). .
+
+Rambharos, N. en G. Beets (2015). . In: De stad: magneet, roltrap en spons; bevolkingsontwikkelingen in stad en stadsgewest. Den Haag: Planbureau voor de Leefomgeving, 206–211.
+
+Regt, S. de, C. van Duin en L. Stoeldraijer (2021). . In: Statistische Trends, 2 juni 2021.
+
+Riele, S. te, C. Huisman, L. Stoeldraijer, A. de Jong, C. van Duin en T. Husby (2019). . Statistische Trends, 10 september 2019.
+
+Robine, J.-M., J.-P. Michel and F.R. Herrmann (2007). British Medical Journal, 334(7593), 570–571.
+
+Star, M. van der, A. de Jong, D. Manting (2021).
+
+Stoeldraijer, L., C. van Duin, S. de Regt, P. van der Reijden, S. te Riele (2021). . In: Statistische Trends, 16 december 2021.
+
+Stoeldraijer, L., S. te Riele, C. van Duin, P. van der Reijden (2021). . In: Statistische Trends, 16 december 2021.
+
+
+
+

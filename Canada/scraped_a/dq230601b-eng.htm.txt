@@ -1,0 +1,9 @@
+Date:
+2023-06-01
+Article Title:
+The Daily — Release of new content for the Longitudinal Immigration Database
+Article Content:
+Released: 2023 06 01
+Statistics Canada integrated the Immigration, Refugees and Citizenship Canada data on Express Entry into the Longitudinal Immigration Database (IMDB). The Express Entry system manages immigration applications for skilled workers coming to Canada (Canadian Experience Class, Federal Skilled Worker Program, Federal Skilled Trades Program). These applicants' competencies and qualifications were extensively evaluated before admission. Express Entry's additional data elements are now included in the IMDB to allow analysis of the economic outcomes of these applicants.
+The Longitudinal Immigration Statistical Environment (LISE) allows for research in the domains of health and education in combination with the economic outcomes enabled by the IMDB and the Longitudinal Administrative Databank. This data environment results from a secure linkage output containing anonymous keys to connect two databases together. Researchers using this environment can now access health data from the Discharge Abstract Database, the National Ambulatory Care Reporting System and the Ontario Mental Health Reporting System. The LISE also provides education data from the Postsecondary Student Information System and the Registered Apprenticeship Information System. Additional content from the 2016 Census of Population is also available for data integration. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

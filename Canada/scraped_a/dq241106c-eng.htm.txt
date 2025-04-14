@@ -1,0 +1,16 @@
+Date:
+2024-11-06
+Article Title:
+The Daily — Entrepreneurship indicators of Canadian enterprises, 2022
+Article Content:
+Released: 2024 11 06
+In 2022, there were 1,213,840 active enterprises in Canada with one or more employees, and two thirds of these enterprises had four employees or fewer. There were 106,950 births of enterprises in 2022 and 85,020 deaths in 2021.
+These indicators are part of the Entrepreneurship Indicators Database program, which is available upon request for the 2022 reference period. The Entrepreneurship Indicators Database program provides data that describe the entrepreneurial dynamics of Canadian enterprises. 
+Indicators include the number of active enterprises, the number of enterprise births and deaths and their corresponding jobs, the survival of newly created enterprises, and the number of high growth enterprises and gazelles. Active enterprises include all enterprises with at least one employee.
+Of all enterprises that died in 2021, more than 8 in 10 (85.8%) were small enterprises, defined in this release as enterprises with one to four employees. Most of the enterprise deaths were in the professional, scientific and technical sector, which accounted for 17.6% of all deaths.
+However, small enterprises also drove enterprise births. Of the 106,950 new enterprises that were created in 2022, 84.4% were small firms with one to four employees.
+The professional, scientific and technical services sector also had the most enterprise births, accounting for 17.0% of all births of active enterprises in 2022.
+Among new enterprises with at least one employee that were born in 2021, the survival rate was 90.6% in 2022. Among those that were born in 2020, 72.9% were still active in 2022. Of the 66,370 enterprises that survived from 2020 to 2022, 76.3% were small firms with one to four employees. 
+In 2022, Canada had 7,320 high growth enterprises by employment and 17,930 high growth enterprises by revenue. Enterprises in the construction sector (17.2%) represented the largest proportion of high growth enterprises by revenue, followed by the manufacturing sector (12.5%) and the professional, scientific and technical services sector (10.5%).
+Of all high growth enterprises by employment, the construction sector (15.2%) represented the largest proportion of high growth enterprises, followed by the professional, scientific and technical services (14.9%) and retail trade (9.3%) sectors.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

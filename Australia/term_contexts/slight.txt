@@ -1,0 +1,86 @@
+Title : improved-measurement-household-consumption-food-national-accounts.txt
+Context:price changes , which in turn produces higher quality volume estimates . 
+ There are slight differences between the growth rates of the HFCE of food estimates using the supermarket
+
+Title : impact-covid-19-pandemic-employee-jobs-and-income-june-quarter-2020.txt
+Context:territories . By comparison , in the June quarter 2020 , while Tasmania experienced a slight fall of 0.1 % , all other states and territories saw a small increase
+
+Title : insights-government-finance-statistics-june-2022.txt
+Context:3.3 % ( up $ 1.1 billion ) to $ 34.2 billion , following a slight decrease in March quarter 2022 . The main contributors were a 9.1 % rise
+
+Title : insights-hours-worked-april-2023.txt
+Context:Chart 1 shows a rise in hours worked in April and a slight decrease in employment . Both the hours worked and employment series have exceeded their
+
+Title : snapshot-wa-2021.txt
+Context:
+ In 2021 , 71.2 % of households were family households . This was a slight decrease from 72.7 % in 2016 . 
+ The most common type of family
+Context:) , rather than flats , apartments or other dwelling types . This was a slight increase from 79.1 % in 2016 . Over this time the proportion of people
+Context:WA were homeowners ( owned outright or with a mortgage ) . This was a slight increase from 68.2 % in 2016 . 
+ Refers to occupied private dwellings and
+
+Title : snapshot-act-2021.txt
+Context:ACT were homeowners ( owned outright or with a mortgage ) . This was a slight increase from 65.5 % in 2016 . 
+ Refers to occupied private   and
+
+Title : insights-hours-worked-july-2022.txt
+Context:at its series high in July 2022 ( 158,400 people ) . There was a slight increase for people aged 15 to 24 years , and a decrease for people
+
+Title : population-movement-australia.txt
+Context:changed their address within Australia in the year prior to the 2021 Census , a slight increase compared to movement one year prior to the 2011 and 2016 Census .
+Context:. This number has been consistent for the past three censuses , with only a slight decrease ( 700 less people ) compared with 2016 . 
+ In 2021 ,
+
+Title : snapshot-nt-2021.txt
+Context:% ) , rather than flats , apartments or other dwellings . This was a slight increase from 66.2 % in 2016 . Over this time the proportion of people
+Context:NT were homeowners ( owned outright or with a mortgage ) . This was a slight increase from 44.9 % in 2016 . 
+ Refers to occupied private dwellings and
+
+Title : profile-people-core-need-assistance-australia.txt
+Context:people with a need for assistance lived in a private household ( ) , a slight increase from 86.2 % in 2016 . Among those with a need for assistance
+
+Title : release-historic-agricultural-data-and-update-future-agricultural-data.txt
+Context:( equivalent to around $ 6 per kilogram in 2021 22 ) . After a slight recovery from the economic issues , the Millennium drought saw sheep numbers drop again
+
+Title : cultural-diversity-australia.txt
+Context:. While these were the same top five as reported in 2016 , there were slight changes to the proportions . 
+ The most common ancestry in Australia in 2021
+
+Title : snapshot-qld-2021.txt
+Context:
+ In 2021 , 71.0 % of households were family households . This was a slight decrease from 71.8 % in 2016 . 
+ The most common type of family
+Context:QLD were homeowners ( owned outright or with a mortgage ) . This was a slight increase from 62.2 % in 2016 . 
+ Refers to occupied private dwellings and
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-august-2022.txt
+Context:delayed .  
+   Deaths due to COVID 19 increased during July 2022   after a slight decline in June .  
+   Cumulatively , the highest number of deaths have occurred
+
+Title : revisions-improvements-labour-force-estimation-method.txt
+Context:calibrated to independent population specific benchmarks . As a result , there will be a slight but unavoidable discrepancy between the aggregates produced from the Longitudinal Labour Force microdata and
+
+Title : snapshot-nsw-2021.txt
+Context:
+ In 2021 , 71.1 % of households were family households . This was a slight decrease from 72.0 % in 2016 . 
+ The most common type of family
+Context:NSW were homeowners ( owned outright or with a mortgage ) . This was a slight drop from 64.5 % in 2016 . 
+ Refers to occupied private   and
+
+Title : snapshot-tas-2021.txt
+Context:
+ In 2021 , 67.6 % of households were family households . This was a slight increase from 67.1 % in 2016 . 
+ The most common type of family
+Context:) , rather than flats , apartments or other dwelling types . This was a slight increase from 87.6 % in 2016 . Over this time the proportion of people
+Context:Tasmania were homeowners ( owned outright or with a mortgage ) . This was a slight increase from 69.2 % in 2021 . 
+ Refers to occupied private dwellings and
+
+Title : snapshot-vic-2021.txt
+Context:
+ In 2021 , 70.1 % of households were family households . This was a slight decrease from 70.8 % in 2016 . 
+ The most common type of family
+Context:) , rather than flats , apartments or other dwelling types . This was a slight increase from 73.2 % in 2016 . Over this time the proportion of people
+Context:Victoria were homeowners ( owned outright or with a mortgage ) . This was a slight increase from 67.6 % in 2016 . 
+ Refers to occupied private dwellings and
+

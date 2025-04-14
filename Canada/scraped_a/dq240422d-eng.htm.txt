@@ -1,0 +1,10 @@
+Date:
+2024-04-22
+Article Title:
+The Daily — Study: Enhancing data for rural Canada: Small area estimation of remote work opportunities
+Article Content:
+Released: 2024 04 22
+In a designed survey, sample sizes are usually insufficient to generate direct estimates with adequate precision for small areas. This is a typical situation for rural and remote communities. In such a situation, Small Area Estimation (SAE) calibrates appropriate statistical models that link survey data to auxiliary data available for the entire population to produce reliable estimates for small areas. 
+This experimental study applies SAE techniques and a new geographic concept called Self contained Labour Area (SLA) to the Canadian Survey on Business Conditions with a focus on remote work opportunities in rural labour markets. Auxiliary information was sourced from Statistics Canada's Business Register system and the 2021 Census. The study used SAE modelling to estimate the proportion of businesses within the general industrial sector (service providers and goods producers) that primarily offer remote work opportunities to their work force. Small area estimates were generated for nearly all SLAs. The SAE technique is a novel approach that can provide additional value to survey data at a more granular level.
+The study "Enhancing data for rural Canada: Small area estimation of remote work opportunities," which is part of Report on Special Business Projects (Catalogue number18 001 X), is now available. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

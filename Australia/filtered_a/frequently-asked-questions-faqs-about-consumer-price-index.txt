@@ -1,0 +1,184 @@
+Date:
+2024-10-30
+Article Title:
+ Frequently asked questions (FAQs) about the Consumer Price Index
+
+Article Content:
+This section provides answers to commonly asked questions about the Consumer Price Index (CPI).
+The  (CPI) is regarded as Australia's key measure of inflation. It is an important economic indicator that measures the change in the price of a 'basket' of goods and services, which account for expenditure by households in capital cities. This 'basket' covers the following 11 categories of goods and services:
+The CPI is a general measure of inflation based on the change in prices of goods and services purchased by Australian households. It is widely used to inform governments, businesses, and the community about the change in inflation facing Australian households. The CPI provides policy and decision makers with data and insights necessary to inform monetary and fiscal policy settings. The CPI is the measure used by the Reserve Bank of Australia for its inflation target.
+The quarterly CPI is released every three months throughout the year, with quarters ending March, June, September and December. It is released on the last Wednesday of the month following the end of the reference quarter.
+Australia’s CPI aligns with the recommended international standards and methods set out by the . The exception to these standards is that Australia currently publishes CPI on a quarterly basis while the standard is that it should be monthly. Australia is moving to a complete monthly CPI in late 2025.   For more information see: .
+  Food and non alcoholic beverages 
+  Alcohol and tobacco 
+  Clothing and footwear 
+  Housing 
+  Furnishings, household equipment and services 
+  Health 
+  Transport 
+  Communication 
+  Recreation and culture 
+  Education 
+  Insurance and financial services 
+The CPI is designed to provide a summary measure of how the prices of goods and services purchased by Australian households change over time. The prices for a representative ‘basket’ of goods and services are combined to form indexes using weights derived from the amounts spent by all capital city households on each item. As such, the CPI is not designed to represent any specific type of household, family or individual. For example, the CPI includes both rental and owner occupier house purchase costs in the basket, which would not be typical for a single household. It is, therefore, unlikely that any individual experience will correspond precisely with either the national CPI or the CPI for specific capital cities.
+More information is available in "Coverage and classifications" .
+Since October 2022, the ABS also publishes a monthly CPI indicator alongside the quarterly CPI. Except for the November month publication (which is released in January), the monthly Indicator is released on the last Wednesday of the month after the reference month. 
+The monthly CPI indicator provides a timelier and more frequent measure of inflation compared to the quarterly CPI. The same prices data collected for the quarterly CPI is also used to produce the monthly indicator. It's referred to as an 'indicator' as the measure represents up to date prices for around two thirds of the CPI basket each month rather than the full CPI basket being measured each month. 
+The decision to introduce a monthly indicator was in response to user requests for more timely CPI data, given the high levels of inflation in recent years. This decision meant Australia is now aligned to most advanced countries in the world that currently publish a monthly CPI.
+The ABS will move to publishing a complete monthly CPI from late 2025.  Quarterly CPI figures will also continue to be published.
+More information is available in "Coverage and classifications" Consumer Price Index: Concepts, Sources and Methods.
+For more information, visit these links below:
+
+
+
+The CPI is Australia’s main measure of inflation. It is used by governments to inform fiscal and monetary policies. It is also used by economists and financial markets to understand the level of inflation. One of the main uses of the CPI is to guide the Reserve Bank of Australia’s monetary policy decisions “to achieve an inflation rate of 2–3 per cent”.
+The CPI is often used to adjust pensions, subsidies and prices charged for goods and services to counter the effects of inflation. This process is referred to as 'indexation'. In particular, governments use the CPI to index a number of social welfare payments and benefits. Indexation arrangements are also often applied to such things as rental agreements, wage negotiations, insurance cover and child support payments.
+For more information, please refer to  .
+The latest CPI data can be found in , Australia. The latest release contains key statistics, data for different categories of spending (e.g. food, clothes, etc.) and insights into what are the main contributions to CPI inflation. To find headline CPI numbers, percentage change from the previous quarter and annual percentage change from the corresponding quarter of the previous year, head to the  section of the release. 
+You can also download current and historical CPI data from the  section of the release. Here you can download price indexes for each State and Territory capital city and more detailed products such as rents, their percentage changes and the relative contribution of these indexes to the change in the All Groups index. These detailed tables are available as Microsoft Excel time series and spreadsheets.
+You can access all published CPI data for free on the ABS website .
+If you need more detailed information or would like to speak with someone, you can contact the National Information and Referral Service at 1300 135 070. Alternatively, you can email .
+You may also refer to the following for further information:
+  ;
+  ;
+  ; and
+  .
+The CPI includes a range of commentary and analysis for users in the ‘Main contributors to change’ and ‘Capital cities comparison’ each quarter. In addition, the CPI includes several Excel workbooks available in the ‘Data downloads’ section that contain price indexes, percentage changes, and contributions to change that covers:
+These items are available for the eight State and Territory capital cities, as well as the weighted average of the eight capital cities. A complete list of the CPI groups, subgroups and expenditure classes can be found in the tables in the “Data download” link at the top right hand corner of the CPI publication or via the left hand navigation bar.   
+For further information, explore the various downloadable files in the “Data download” link at the top right hand corner of the CPI publication or via the left hand navigation bar. 
+  the headline ‘All Groups CPI’
+  11 groups (e.g. Food and non alcoholic beverages, Clothing and footwear, Health),
+  33 sub groups (e.g. Fruit and vegetables, Footwear, Dental and hospital services)
+  87 Expenditure classes (e.g. Fruit, Footwear for infants and children, Dental services).
+The CPI for the eight State and Territory capital cities are defined by the Greater Capital City Statistical Area in the Australian Statistical Geography Standard (ASGS).  A weighted average of the eight capital cities is produced to provide a national CPI. 
+The Australian CPI focuses on capital cities because they contain the majority of the population and are the main hubs of economic activity, making data collection more feasible and cost effective.
+For more information, refer to “Coverage and classifications" , or the .
+The CPI measures inflation for capital city households in Australia. This means it might not reflect the inflation experience for people living in rural and regional areas.
+Sampling error: The CPI looks at price changes based on a sample of items, not every transaction. This means the published indexes might not be exactly what they would have been if every household’s spending was included. Sampling errors are about how accurate the index is, not mistakes in working it out.
+Non sampling errors: These happen because of problems in collecting price data, delays in surveys, defining concepts, and handling quality changes. The ABS works hard to reduce these errors. 
+The CPI uses a set basket of goods and services which does not consider people’s substitution to cheaper goods and services when prices rise. This can affect how it represents changes in living costs. Every year, the weights for different items are updated. Additionally, the ABS has implemented multilateral methods for 28 expenditure classes, mostly for food, which weights products at the elementary level using expenditure shares. These enhancements alleviate the substitution effect.
+For more details, refer to .
+The first fully compiled CPI was published in 1960, with the series extended back to 1948. The CPI was preceded by five series of retail price indexes compiled by the then Commonwealth Bureau of Census and Statistics over one hundred years ago. These series were titled A, B, C and D series, and the Interim Retail Price Index respectively. The C Series Index, which began in 1921, was the principal retail price index in Australia prior to the introduction of the CPI in 1960.
+The introduction of the CPI heralded a change in the approach to measuring retail price movements. Rather than compiling a set of discrete fixed weighted indexes, the objective became to produce a series of short term fixed weighted indexes that were to be regularly linked together to provide a single continuous measure of price change. This strategy was adopted to ensure that, at any point in time, the weighting patterns and item coverage of the CPI were relevant to user requirements and reflected contemporary economic conditions as well as possible. The CPI now comprises seventeen linked indexes. The CPI originally consisted of weights from 1948. Weights were updated in 1952 and subsequently in 1956, 1960, 1963, 1968, 1973, 1974, 1976, 1982, 1987, 1992, 1998, 2000, 2005, 2011 and 2017. From 2018 the CPI weights are updated annually, to reflect what the average consumers spends their money on. 
+For the 13th series CPI in 1998, it was decided that the CPI would change from a measure of the change in living costs of employee households to a general measure of price inflation for the household sector. Consequently, the population coverage was expanded from wage and salary earner households to include all metropolitan households.
+The Australian CPI is compiled according to international standards and is based on robust data collection and compilation methodologies. Prior to 1998, the CPI was compiled primarily to be used for income adjustment through wage indexation. This had implications for the coverage and design of the index. It was limited to the expenditures made by households whose principal source of income was wages. The CPI basket also included mortgage interest payments to measure the change in the cost of owner occupied housing.
+Since 1998, the principal purpose of the CPI has been to measure inflation faced by households to support macro economic policy decision making. The CPI now covers the expenditures of all households, not just those whose principal source of income is wages, as was the case before 1998). To measure owner occupied housing costs, mortgage interest payments were replaced with new dwelling construction costs in the CPI basket.
+In recognition of the interest in the extent to which the impact of price change varies across different groups in the community, in addition to the CPI, the ABS compiles .
+The SLCIs measure out of pocket living expenses incurred by selected population sub groups of Australian households. The most notable difference between these indexes and the CPI is that the living cost indexes include interest charges instead of new dwelling purchases, while the CPI includes new dwelling purchases instead of interest charges. For more information refer to the Methodology within the .
+More information regarding the reasons for the change to the CPI is available in .
+For more information on the history of the CPI, visit these resources below:
+
+.
+The CPI is designed as a measure of inflation experienced by households, rather than a measure of the cost of living. Inflation is also a topic of interest for businesses, wage earners, dwelling prices and other types of households.
+There is no single measure of inflation that can provide information on all these purposes. Ideally, such an indicator would be comprehensive and cover price change for all goods and services traded in the economy. However, different measures of price change are suited to analysing different parts of the economy. This means that the best measure of inflation depends on how the data is going to be used.
+The ABS produces a range of price indexes, suited to different parts of the economy. For example:
+The Australian CPI is measured on an acquisitions approach. This approach is considered the most suitable approach when the primary purpose of the CPI is as a macro economic indicator of price inflation affecting households. 
+For more information about direct and derived measures of price change, refer to "The system of price statistics"  For more information on the 'acquisitions approach', see .
+  The Consumer Price Index (CPI) is the most comprehensive measure of goods and services price inflation faced by all households.
+  The Selected Living Cost Indexes (SLCIs) are designed to measure changes in living costs for selected population sub groups. They are particularly suited for assessing whether or not the disposable incomes of households have kept pace with price changes.
+  The Producer Price Index (PPI) measures inflation of products either as they leave the place of production or as they enter the production process.
+  The International Trade Price Index (ITPI) measures changes in the prices paid for imports of merchandise that are landed in Australia each quarter (the Import Price Index (IPI)) and the prices received for exports of merchandise that are shipped from Australia each quarter (the Export Price Index (EPI)).
+  The Wage Price Index (WPI) measures changes in the price of labour in the Australian labour market.
+  The Implicit Price Deflator (IPD) for Domestic Final Demand is used as a measure of inflation experienced by consumers, governments and other domestic institutions.
+The CPI is frequently called a cost of living index, but it differs in important ways from a complete cost of living measure. Both the CPI and a cost of living index measure the changes in prices of goods and services that are purchased by households. The Australian CPI measures the changes in price of a fixed basket of goods and services, whereas a cost of living index measures the change in the minimum expenditure needed to maintain a certain standard of living.
+In practice, no statistical agency compiles true cost of living or purchasing power measures as it is too difficult to do. A cost of living index requires access to both price and current household consumption each period, as well as an assessment of households' welfare which depends on a variety of physical and social factors that have no connection with prices. The Selected Living Cost Indexes produced by the ABS aligns more closely to the concept of a cost of living index and are published one week after the release of the CPI.
+More information is available in "Price Index Theory” .
+The CPI basket is based on actual household expenditure data, primarily derived from the Household Expenditure Survey (HES) conducted by the ABS. The HES gathers information about expenditure and household characteristics from a sample of around 8,000 households residing in private dwellings across the eight capital cities. 
+Additionally, market expenditure and sales data are routinely monitored and applied to ensure that the price samples remain representative below the published level of data. 
+For more information, refer to “Weights and their sources”,  , and Consumer Price Index: Correspondence with 2015 16 . 
+For information on the HES, refer to .
+The CPI basket contains representative items acquired by households. The items included in the CPI basket are determined based on several factors:
+Although the basket cannot include every item bought by households, the selected items are carefully chosen to represent the range of goods and services acquired. Selection is made only after obtaining detailed information about households’ buying habits, such as varieties and brands. The chosen items should be representative so that the index reflects the price changes for a much wider ranges of goods and services than those priced. Over time goods and services in the basket have been removed such as DVD hiring and cassette tapes and have been replaced with replaced with more contemporary goods and services such as music and TV streaming subscriptions. 
+Typical examples of the types of goods and services represented in the basket can be found in “Examples of goods and services priced in the 17th Series CPI”  .
+For more information, refer to “Coverage and classifications” and “Sampling” .
+  They must be representative of purchases made by the CPI population group.
+  They must be identifiable and relate to specific commodities or services (e.g. a 420g can of baked beans or adult general admission to a football game).
+  They are not excluded based on moral or social judgements.
+Prices for the CPI are collected by trained ABS staff. Some prices are obtained from administrative datasets or special surveys. Since March 2014, transactions (or scanner) data has been incorporated into the CPI, predominantly for food and non alcoholic beverages, tobacco, automotive fuel and non durable household goods. In December 2017, the ABS implemented a new method called the multilateral index method, which utilises transactions datasets and weights products at the elementary level by expenditure share. 
+For more details, refer to “Use of transactions data in the Australian CPI” s.
+Prices are collected from the same types of retail outlets and places where consumers purchase goods and services. For each item selected for pricing, the main types of places from which households buy these items are identified to ensure a representative sample. Examples include websites, supermarkets, department stores, hotels, motor vehicle dealerships, schools, childcare centres, and online retailers.  
+The concept used in the indexes is the ‘out of pocket’ expense paid by the household. This means that the price used includes taxes that add to the price and subsidies or rebates that lower the price (or cost) for households. Examples of taxes that are included in the price are the GST and excise taxes on petrol, alcohol and tobacco. Examples of subsidies or rebates that reduce the price are the Child Care Subsidy, Commonwealth Rent Assistance, First Home Buyer grants and the Energy Bill Relief Fund rebates.
+For a tax, subsidy or rebate to be captured in the indexes it must have a direct impact on the price paid by households and be linked to the purchase or consumption of the good or service.
+Delivery fees may be included for some items, such as large furniture, major appliances and from online retailers where they have no physical store.
+The frequency of price collection is determined by how often prices typically change and the availability of data. Where price change occurs frequently, such as for food and petrol, weekly and monthly price data is collected. Where price change is typically less frequent, such as for restaurant meals and hairdressing services, prices are collected quarterly. In the case of education fees and property rates, prices are collected once per year, as it is known that prices change on an annual basis at a set time each year. 
+In advance of moving to a complete monthly CPI at the end of 2025, the ABS has moved to collecting most prices on a monthly basis.
+For more information, refer to “Sampling”, “Price collection”, and “Consumer Price Index calculation in practice”.  .
+The price for an individual product is calculated from transactions data by dividing the product’s revenue by the quantity sold. This calculated price is known as a product unit value and represents the average price paid by consumers over a specific period (e.g. one week or one month). A product’s unit value is more representative of prices paid by consumers over the reference period than point in time pricing.
+Since March quarter 2014, the ABS has significantly increased the use of transactions data in compiling the Australian CPI. Transactions data now accounts for approximately 20 percent of the weight in the Australian CPI. Initially, the ABS used a ‘direct replacement’ approach, where observed point in time prices were replaced with unit values calculated from transactions data. This approach was applied until September quarter 2017. 
+   ; and
+  .
+The ABS invests considerable effort to ensure the quality of the CPI. Prices are collected by trained and experienced ABS staff, as well as sourced from transactions and administrative data, covering a representative range of goods and services acquired by Australian households. The changes in prices of these goods and services are combined using weights derived from expenditure data from Australian households to calculate the overall price change for the quarter. 
+For more information refer to, “.
+The CPI is periodically reviewed and updated to ensure it continues to meet community needs. These reviews are generally timed with the results from the Household Expenditure Survey (HES), which collects expenditure information from approximately 8,000 metropolitan households. A key objective of these reviews is to update the CPI weights to reflect the current purchasing habits of Australian households. Reviews also reassess the scope, coverage, and methodology of the index. 
+The most recent review, the 17th series, was conducted in 2017 and implemented in the December quarter 2017 issue. This review updated the upper level (expenditure class) weights based on the 2015 16 HES and included a basic examination of structures and methodologies. For more details on the changes in the 17th series, refer to Information Paper: .
+Since the introduction of the 17th series CPI, the index is reviewed and re weighted annually in December quarters. Since 2024 it is reweighted in March quarters. The primary data source for updating the weights in non HES years is Household Final Consumption Expenditure (HFCE) data form the National Accounts. The HES remains the primary data source for re weighting the CPI when it is available. Further information on annual re weighting can be found in the respective information papers. 
+  ; and
+  .
+The indexes measure pure price change over time, reflecting the change in the cost of buying a ‘fixed basket’ of goods and services of constant quality. Pure price change is the change in the price of a good or service of which the characteristics (quality) are unchanged; or the change in the price after adjusting for any change in quality.
+While the indexes are often thought of as being based on a fixed basket, in practice the basket is regularly updated where goods and services (or items) exit the basket and are replaced by new items. Items are replaced in the basket for a range of reasons, including: a new model replacing an older model; the item being no longer available; or consumer preferences changing.
+As these new items have different characteristics, or ‘quality’, compared to their predecessors, it is necessary to remove any change in price that is attributable to the change in quality. Examples of quality changes include:
+•              changes in package size or content of food, such as breakfast cereals
+•              alterations in the alcoholic content or size of bottles of spirits
+•              modifications to the material or detailing of clothing
+•              enhancements in performance, comfort, safety, or fuel efficiency of motor vehicles
+For more details on quality adjustment see .
+Shrinkflation is a particular type of quality adjustment made to the indexes in cases where the quantity (or volume) of a product falls, but the price remains the same. When the volume falls but the price remains the same, consumers are essentially paying the same price but receiving less. Shrinkflation is particularly prevalent in food and grocery items. The use of transactions ‘scanner’ data, which provides detailed information about each product sold, enables the ABS to identify and adjust where shrinkflation has occurred. For example, if a packet size decreases from 150g to 100g and the price stays the same, a 50 per cent increase in the price is made to the index.
+The CPI measures changes in final transaction prices actually paid by Australian households. The prices collected in the CPI include taxes that are tied to the level of consumption of specific goods or services. Examples of taxes included in the CPI are:
+Local government rates and charges are also included in the Australian CPI, as they represent inescapable costs associated with home ownership.
+For more information, refer to “Coverage and classifications” .
+  Goods and Services Tax (GST)
+  excise duty on alcohol and tobacco products
+  taxes on transfers of goods or services, such as stamp duty on property transfers, included in ‘Other financial services’
+  tariffs on motor vehicles, including sales and excise taxes.
+As with taxes, the prices collected in the CPI are adjusted for any subsidies or assistance provided by the government that are tied to the level of consumption of specific goods or services. Examples of such subsidies include:
+For more information, refer to “coverage and classifications” .   
+  Child Care Subsidy
+  Medicare
+  First Home Buyer schemes
+  Commonwealth Rent assistance
+  Electricity rebates
+  Pharmaceutical Benefits Scheme (PBS).
+A price index is a tool that allows users to calculate movements over time. The price indexes show how prices have changed relative to a reference value of 100.0 in the index reference period. Most of the Consumer Price Indexes have an index reference period of the financial year 2011/12 = 100.0.
+An index of 110, for example, means there has been a 10 per cent increase since the index reference period. An index of 85 means a 15 per cent decrease since the reference period. 
+Movements of the index from one date to another can be expressed as either percentage points or percentage changes. 
+The following example illustrates the method of calculating changes in index points and percentage changes between any two periods:
+ index numbers; All groups CPI; Australia 
+December quarter 2023 136.1
+less December quarter 2022 130.8
+change in index points 5.3
+percentage change 5.3/130.8 x 100 = 4.1%.
+Over the twelve months to the December 2023 quarter, the CPI rose 4.1%. Note that the change in index points and the percentage change are usually different.
+For more information on interpreting index numbers, refer to “Using the CPI" .   
+Price indexes are often used in contracts by businesses and government to adjust payments and/or charges to take account of changes in categories of prices (Indexation Clauses). Although the ABS acknowledges that the various price indexes it publishes are used in indexation clauses, it neither endorses nor discourages such use.
+The ABS is the central statistical authority for the Australian government. Our role includes a requirement to publish price index data, and to broadly explain the underlying methodology and general limitations of such data. The ABS may provide information about a price index but will not recommend or comment on the use (or otherwise) of the price indexes. In addition, the ABS does not advise, comment, or assist in preparing or writing contracts, nor does it provide advice on disputes arising from contract interpretation.
+The ABS has prepared information for users that sets out a range of issues that should be considered by parties considering including an indexation clause in a contract using an ABS published price index.  is available on the ABS website.
+Price indexes are constructed to measure changes in price over time. The CPI does not show how prices differ between places or the overall cost of living. These are known as ‘spatial price indexes’. A higher CPI in a particular city does not mean prices are higher in that city. It just shows that prices have changed since a particular reference period. 
+For example, in June quarter 2024 the All Groups CPI was 139.1 for Sydney and 138.4 for Melbourne. This means that since the reference period 2011/12 prices in Sydney have increased more than Melbourne. This does not mean that price levels are higher in Sydney compared to Melbourne. 
+The headline CPI is not seasonally adjusted and remains unchanged except for exceptional circumstances.
+The ABS produces an analytical series called ‘All groups CPI, seasonally adjusted’. This series is created by applying seasonal adjustment to the expenditure class components of the CPI that exhibit seasonal patterns. The adjustment components are then aggregated with the non seasonally adjusted ones, using the weighting pattern at the weighted average of eight capital cities level.
+Since the seasonal adjustment process is based on concurrent adjustment, estimates for the ‘All groups CPI, seasonally adjusted’ series may be subject to revision over time. 
+More information about seasonal adjustment can be found in Information Paper: .
+The ABS reports “headline inflation” as the All groups CPI, which is a weighted average of eight capital cities, along with various sub components and analytical measures. The ABS publishes a suite of additional measures of inflation that provide insights into the trend or underlying nature of inflation. The most well known measure of underlying inflation is the Trimmed mean, which is designed to reduce the impact of irregular or temporary price changes that can impact the CPI. More details on the Trimmed mean are available here .
+Alongside the CPI, the ABS compiles and publishes  to measure price changes across selected population sub groups in the community. They are particularly suited for assessing whether the disposable incomes of households have kept pace with price changes. The employee households living cost index is calculated on a similar basis as the CPI prior to September quarter 1998.
+Households have been categorised based on the principal source of household income, derived from the 2015 16 Household Expenditure Survey (HES). The four household types that have been identified as being appropriate for the construction of these indexes, are:
+The Pensioner and Beneficiary Living Cost Index (PBLCI) was introduced in the June quarter 2009 and is a measure of the effect of changes in prices on the out of pocket living expenses experienced by the following two groups of households in the Australian population:
+For the latest statistics on living cost indexes, refer to the product .
+  employee households (i.e. those households whose principal source of income is from wages and salaries)
+  age pensioner households (i.e. those households whose principal source of income is the age pension or veterans’ affairs pension)
+  other government transfer recipient households (i.e. those households whose principal source of income is a government pension or benefit other than the age pension or veterans’ affairs pension)
+  self funded retiree households (i.e. those households whose principal source of income is superannuation or property income and where the HES defined reference person is ‘retired’ (not in the labour force and over 55 years of age).
+  age pensioner households, and
+  other government transfer recipient households.
+The SLCIs are designed to evaluate change in the cost of living for Australian households. They focus on accessing whether household disposable incomes have kept pace with price changes. This is achieved by determining the adjustments needed in after tax income to maintain the same purchasing power for consumer goods and services over time. 
+Housing is a significant component in the CPI contributing over 22% of the weight of the basket. This includes spending on new dwellings, rents, utilities, maintenance and repair of dwelling and property rates.
+The CPI uses the "Acquisitions method" which measures changes in the prices of goods and services acquired (actually received). As such, it is designed to measure price inflation for the household sector as a whole.
+The SLCIs are constructed using the "Outlays method" which measures changes in the prices of goods or services for which payments were made to gain access to goods and services.  In other words, the selected living cost index reflects changes over time in the purchasing power of the after tax incomes of households. It measures the impact of changes in prices on the out of pocket expenses incurred by households to gain access to a fixed basket of consumer goods and services.
+In practice, for most goods and services purchased by the reference population, outlays and acquisitions occur within a relatively short space of time, leading to no difference in methodology. The most notable difference is for owner occupied housing where the living cost indexes include interest charges instead of new house purchases, while the CPI includes new house purchases instead of interest charges. For more information refer to Methodology within the .
+Net acquisitions: this approach treats a house as the purchase of a good that is part asset (the land) and part consumable (the structure) with the price of land being excluded from the CPI. As a result, this method includes net purchases of dwellings by the household sector (excluding land prices), alterations and additions, transaction costs, such as tax and legal fees, and running costs, such as repairs, maintenance, and insurance.
+Outlays approach: defined by looking at what households pay out as owner occupiers (excluding capital payments). This includes mortgage interest component payments, transaction costs (stamp duty, estate agency fees and conveyancing) and running costs (such as repairs, maintenance, and insurance).
+The advantage of the Net acquisitions approach is that it attempts to measure the transaction price of the dwelling, where the price reflects changes in the cost of materials and labour. This is consistent with the approach used for other durable goods such as motor vehicles and furniture. A challenge with this approach is separating the value of the structure and the land, with the land being considered an asset and out of scope of the CPI. The ABS excludes the value of land by collecting prices on project homes for houses and measuring the cost of construction for apartments. A criticism of the Net acquisitions approach is that, by excluding the cost of the land, it’s not capturing the experience of households, where land is an inescapable cost of owning your own dwelling.
+The Outlays approach is largely impacted by changes in mortgage interest rates. This is how most households purchase their dwelling and is an intuitive way to think about the cost of owning a dwelling. A disadvantage is that for countries that have inflation targeting, an increase in interest rates has a direct upward impact on the CPI, when the purpose of higher interest rates is to lower inflation. This circular feature makes it difficult for central banks to use the CPI as their inflation target when the Payments approach is used to measure OOH.
+For more information see the following articles: 
+
+.
+ 

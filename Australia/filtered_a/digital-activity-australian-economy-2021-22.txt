@@ -1,0 +1,18 @@
+Date:
+2023-10-27
+Article Title:
+ Digital activity in the Australian economy, 2021-22
+
+Article Content:
+This article provides an update on digital activity in Australia in 2021 22. These experimental estimates incorporate data from the most recent 2021 22 supply use tables, which have resulted in revisions to previously published data. For further information regarding revisions, see  and 
+The ABS measures digital activity in Australia as the production of:
+  Digital enabling infrastructure, such as computer hardware, software, telecommunications equipment and support services that form and facilitate the use of computer networks.
+  Digital media, which covers digital audio, video and advertisement broadcasting services that can be created, accessed, stored or viewed on digital devices.
+  E commerce, which incorporates retail and wholesale services and margins from digitally ordered or platform enabled online transactions.
+Digital activity has remained stable as a share of total value added between 2019 20 and 2021 22, shown in Graph 1.
+The value added of embedded digital activity in 2021 22 was concentrated in four main industries – Information, media and telecommunications, Professional, scientific and technical services, Wholesale trade, and Retail trade, as shown in Graph 2. Together these four industries contributed 92.1% of total digital economy value added.
+Table 1 also shows the industry shares based off the previous 2022 data and the current 2023 distribution. Collection of data for E commerce   wholesale changed in 2021 22 to better align with the definition of e commerce used by the Organisation for Economic Co operation and Development (OECD). This change resulted in an increase in the values for digital activity value added for E commerce   wholesale from 2018 19 to 2021 22. A targeted review of businesses in the software design and software publishing industries has resulted in a shift of economic activity between industry estimates and a reallocation of digital activity between Support services and Software.
+Within digital activity, output was dominated by demand for Support services (39.8%), E commerce – wholesale (22.9%) and Telecommunications (18.4%) as seen in Graph 2.
+In 2021 22, the share of Support services and Software in total digital activity value added increased by 1.0% and 0.8% respectively, while the share of E Commerce – wholesale and Telecommunications decreased by 0.9% and 0.7% respectively.
+Digital activity increased 8.6% ($10.9 billion) in 2012 22, compared with growth of 11.7% for the total Australian economy.
+Within digital activity, all sectors increased in size in 2021 22 except for Hardware, which fell 6.5%. The growth was driven by Support services (+11.4%), Software purchases (+25.0%) and online sales from wholesalers (+4.5%). Consumers continued to increase their online shopping habits in 2021 22, with E commerce – retail growing 12.6%. This followed a significant increase in 2020 21 of 41.8%.

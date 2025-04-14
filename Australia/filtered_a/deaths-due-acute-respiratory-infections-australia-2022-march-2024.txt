@@ -1,0 +1,38 @@
+Date:
+2024-04-30
+Article Title:
+ Deaths due to Acute respiratory infections in Australia - 2022 - March 2024
+
+Article Content:
+The ABS have reported extensively on deaths involving COVID 19 during the pandemic. The ABS mortality data is sourced from the Registry of Births, Deaths and Marriages and is separate from the National Notifiable Disease Surveillance System. While the registration based deaths data takes longer to receive and process this dataset has provided important supplementary information to the surveillance system data. 
+As the pandemic has progressed, there has been a re emergence of other acute respiratory diseases. To reflect this, the ABS will now report on the number of monthly deaths due to COVID 19, influenza and respiratory syncytial virus (RSV). In this article, these viral diseases will be referred to collectively as deaths due to acute respiratory infections. Due to the higher number of deaths due to COVID 19 more detailed analysis will be included for this cause. 
+All data presented in this article is provisional. It is expected that numbers of deaths due to these causes will increase for more recent time periods as more death registrations are received by the ABS. 
+The table below shows the number of acute respiratory associated deaths reported on a medical certificate of cause of death by month and year. An acute respiratory associated death is one where the viral disease has either directly caused the death (the virus has caused terminal complications such as pneumonia) or the person has died “with” the virus (a person has died from another cause but the viral illness contributed to death). 
+  COVID 19 has been the leading acute respiratory associated death across 2022 2024. 
+  Deaths involving influenza and RSV were higher in January 2024 compared to the same period in 2022 and 2023. 
+  Deaths due to COVID 19 are lower in January 2024 compared to the same period in 2022 and 2023.
+The ABS codes an underlying cause of death (ucod) for all deaths in the national mortality dataset. The underlying cause of death is defined as the disease, condition or external event that started the chain of events leading to death. International coding rules are applied to disease and conditions appearing on the medical certificate of cause of death (MCCD) to assign the ucod. A disease or condition must be certified on the MCCD to be coded by the ABS. If COVID 19, influenza or RSV is listed as the underlying cause of death, the death is considered to be been caused by the virus. 
+The following table shows the number of deaths due to acute respiratory diseases since 2022.
+  The number of deaths from COVID 19 in January 2024 is well down on the number of deaths in January 2022 or January 2023.
+  The number of deaths due to influenza in January 2024 is substantially higher than it was in January 2022 or January 2023 but is not unprecedented. There were 30 influenza deaths in January 2019.
+The table below shows the number of acute respiratory associated deaths where the person has died “with” the virus (a person has died from another cause but the viral illness contributed to death).
+  There are more deaths "from" COVID 19 and Influenza than "with" these conditions. For RSV, there are substantially more people who died "with" RSV than "from" RSV.
+  There have been more deaths "with" RSV in January and February 2024 than in 2022 or 2023. 
+  There have been fewer deaths "with" COVID 19 than in January 2024 than in 2022 or 2023.
+  More males have died from COVID 19 compared to females across 2022 2024. 
+  Those aged over 90 years are the only age group to consistently record more deaths of females than males from COVID 19. Nearly two thirds of Australia's population of persons aged over 90 years are female.
+  More males (34) than females (25) have died from influenza in 2024.
+  All three of these acute respiratory infections are more likely to cause death in older age groups than younger age groups. For males, those aged 80 89 years had the highest numbers of deaths for all of these acute respiratory infections each year. For females, in some instances the age group aged over 90 years recorded more deaths than those aged 80 89 years. 
+  As the most populous state, New South Wales generally records the highest numbers of deaths for acute respiratory infections. 
+  COVID 19 has caused more deaths than influenza and RSV across 2022 2024 in all jurisdictions. 
+  In 2024, Queensland has recorded more deaths due to COVID 19, influenza and RSV than Victoria. 
+Aboriginal and Torres Strait Islander peoples are at heightened risk of more severe outcomes from COVID 19. There are several reasons for this, including higher rates of socioeconomic disadvantage, higher rates of chronic diseases and limited access to culturally safe health care.
+This section presents information on Aboriginal and Torres Strait Islander people who have died ‘from’ COVID 19 (where it directly caused conditions leading to death) or ‘with’ COVID 19 (where it was a contributing factor but did not directly cause death). For most of the analysis deaths ‘from’ and ‘with’ COVID 19 are presented together due to small numbers of deaths.
+While there have been deaths recorded in all jurisdictions of Aboriginal and Torres Strait Islander people. However, the rest of this analysis focusses on deaths registered in New South Wales, Queensland, Western Australia, South Australia and the Northern Territory only. Only these five states and territories have evidence of a sufficient level of Indigenous identification and high enough numbers of Aboriginal and Torres Strait Islander deaths to support mortality analysis.
+There were 9 deaths of Aboriginal and Torres Strait Islander people involving COVID 19 in January 2024. This is lower than January in both 2023 and 2022. Throughout 2023 there were fewer deaths of Aboriginal and Torres Strait Islander people in all months compared with 2022. 
+There were 372 Aboriginal and Torres Strait Islander people who had COVID 19 certified as a cause of death across the five jurisdictions. Of these people:
+  237 died due to COVID 19. This is where the virus caused complications that led directly to death. A further 135 people died “with COVID 19”. This is where another disease caused the terminal complication causing death but COVID 19 was a contributing factor.
+  The age standardised death rate for deaths from COVID 19 is similar for Aboriginal and Torres Strait Islander males and females. Aboriginal and Torres Strait Islander females had a slightly lower death rate for deaths with COVID 19 than males.
+  Of those who died from or with COVID 19, a higher proportion of Aboriginal and Torres Strait Islander people died with COVID 19 as a contributing factor compared with non Indigenous people (36.3% compared with 25.4%).
+  The mortality rate from COVID 19 is 1.7 times higher in Aboriginal and Torres Strait Islander people compared to non Indigenous people.
+  For Aboriginal and Torres Strait Islander females, the rate of mortality with COVID 19 is 2.7 times higher than that of non Indigenous females.

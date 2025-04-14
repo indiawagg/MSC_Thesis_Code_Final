@@ -1,0 +1,23 @@
+Date:
+2020-06-16
+Article Title:
+ Recovery in payroll jobs continued through May
+
+Article Content:
+Total payroll jobs increased by 1.0 per cent through May, according to the latest release of weekly payroll figures from the Australian Bureau of Statistics (ABS) today.
+Head of Labour Statistics at the ABS, Bjorn Jarvis, said: “The latest data showed that the total payroll job losses since mid March were greatest in the week ending 18 April (8.9 per cent) and had recovered to a 7.5 per cent loss by the end of May.”
+Payroll jobs worked by females increased by 1.4 per cent through May, compared with 0.4 per cent for males. However, total female job losses since mid March were still greater (8.0 per cent, compared to 6.3 per cent for males).
+Some of the industries most heavily impacted by COVID 19 showed slight recovery in payroll jobs through May.
+“Payroll jobs in the Accommodation and food services industry increased by 5.0 per cent through May, but remained 29.1 per lower than in mid March,” Mr Jarvis said.
+Analysis showed jobs worked by multiple job holders were heavily over represented in job losses. Around 29.0% of jobs lost since mid March were previously worked by people as a secondary job. JobKeeper support can be sought for only one job for each eligible employee.
+“Looking at the week to week changes, there was a 0.4 per cent increase in the number of payroll jobs in the week ending 30 May, following no change recorded in the week ending 23 May (0.0%),” Mr Jarvis said.
+Further information is available in Weekly Payroll Jobs and Wages in Australia (cat. no. 6160.0.55.001).
+The ABS would like to acknowledge the continued support from the Australian Taxation Office in enabling the ABS to produce these statistics, providing weekly insights into the Australian labour market.
+  This release includes information on payroll jobs where a payment was made in the reference week through Single Touch Payroll enabled software and reported to the Australian Taxation Office.
+  This release includes additional analysis of the impact of JobKeeper payments on STP data, including Table 5: Historical Indices on a Payment Period Basis, available as a supplementary output via the Data downloads section.
+  Statistical Area 4 (SA4) and industry sub division time series estimates are available for the first time with this release and can be accessed via Table 4 in the Data downloads section.
+  An interactive map examining change in payroll jobs through 2020 will be added to this release on Wednesday 17 June 2020.
+  Further information on the suite of labour statistics that provide insights into the impact of COVID 19 can be found in 
+  The additional ABS products being published to understand the economic impact of the coronavirus can be found on the .
+  When reporting ABS data, the Australian Bureau of Statistics (ABS) must be attributed as the source.
+  For media requests and interviews, contact the ABS Media Team on 1300 175 070 (8:30am   5:00pm Mon Fri)

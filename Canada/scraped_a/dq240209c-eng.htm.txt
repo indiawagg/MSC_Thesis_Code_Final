@@ -1,0 +1,16 @@
+Date:
+2024-02-09
+Article Title:
+The Daily — Hours worked and labour productivity in the provinces and territories, 1997 to 2022 (revised data)
+Article Content:
+Released: 2024 02 09
+Revised data on provincial and territorial labour productivity and related measures from 1997 to 2022 are now available.
+These data revisions reflect the incorporation of the new benchmark values from the provincial and territorial supply and use tables for 2020, as well as revised data from different sources. More specifically, the revisions are consistent with those incorporated in the provincial and territorial economic accounts and the provincial and territorial gross domestic product (GDP) by industry (released November 8, 2023), as well as in the national GDP by industry (released on November 30, 2023).
+This release also reflects historical revisions to the Survey of Employment, Payrolls and Hours (released March 30, 2023).
+With this release, the year 2017 has been adopted as the reference year instead of 2012 for real GDP data and related measures (including productivity and unit labour costs). The adoption of the new 2017 reference year affects only the data reported in table 36 10 0480 01; it had no impact on the data of the three other tables (36 10 0489 01, 36 10 0675 01 and 36 10 0676 01).
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure.
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+The study "Canadian regional labour statistics and inter regional movements of paid workers, 2001 to 2021," which is part of Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X), is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

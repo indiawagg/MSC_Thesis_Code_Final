@@ -1,0 +1,53 @@
+Date:
+2023-11-15
+Article Title:
+ Frequently asked questions (FAQs) about the Wage Price Index
+
+Article Content:
+This section provides answers to commonly asked questions about the WPI.
+The quarterly  (WPI) measures change in the price of wages and salaries in the Australian labour market over time. In a similar way to the Consumer Price Index (CPI), it follows changes in the hourly rate paid to a fixed group (or “basket”) of jobs.
+The WPI measures pure price change by removing the effect of compositional factors. This includes the quality or quantity of work performed or the composition of the workforce. This separates it from other ABS earnings measures.
+The WPI is the preeminent measure of wages growth. It is used by a wide range of organisations and individuals to inform fiscal and monetary policy and industrial relations forums. The WPI is also used as a deflator of labour costs in the National Accounts.
+The WPI is also used by businesses and the general public in setting wages and forming labour contracts.
+The WPI broadly measures changes in the wages paid by Australian businesses to employees. It is compiled and published quarterly, approximately 7 weeks after the end of each quarter. Individual indexes are compiled for various combinations of state/territory, sector (private/public), and industry divisions.
+The "headline measure" of the Wage Price Index is the index for the total hourly rates of pay excluding bonuses for Australia. It is published in original, seasonally adjusted and trend terms.
+The percentage changes published are compared with the previous quarter and the same quarter of the previous year. The seasonally adjusted and trend series for some quarters are revised as extra quarters are included in the series analysed for seasonal influences, but the non seasonally adjusted (i.e. original) series are not revised in normal circumstances.
+For information on how the indexes are compiled and published refer to , Chapter 12   Outputs and dissemination.
+The wage price indexes encompass cash payments to employees and include ordinary time earnings, overtime earnings, bonuses, together with the value of any salary sacrificed. It excludes on costs such as payroll tax and superannuation.
+WPI does not include superannuation, as this is outside what the WPI measures (wages and salaries). It forms part of the employers’ social contribution (included in the Compensation of employees). Compensation of employees (COE) data is available in the quarterly release .
+A two stage sampling methodology is used to generate a sample of employee jobs for the WPI. The first stage selects a sample of businesses while the second stage a sample of employee jobs are selected from within these businesses.
+In the first stage sampling, approximately 3,000 private and public sector businesses are selected from the ABS Business Register. These businesses are selected by stratifying the target population of businesses by state/territory, sector (private/public), industry group and business size and selecting a random sample from each strata. For a number of complex organisations further sampling is undertaken to simplify reporting arrangements.
+Approximately 18,000 jobs are selected in the second stage.
+For more information refer to , Chapter 6   Sampling.
+Information for the WPI is collected via electronic collection each quarter from a sample of private and public sector employers. They are selected from the ABS Business Register, which lists organisations undertaking economic activity in Australia.
+The survey reference date is the last pay period ending on or before the third Friday of the middle month of the quarter.
+In the first quarter that respondents participate in the survey, each employer selects a sample of jobs from their workplace(s) using sampling instructions provided by the ABS. They provide information for these jobs, including detailed pricing specifications. Importantly, the wage setting method is collected for each job during the selection process. These selected jobs are linked to employers not the individual employees.
+In subsequent quarters survey respondents are asked to provide details of payments made to the current occupants of these same jobs. It is essential that the same jobs are priced in successive quarters to ensure measurement of pure price change This applies whether the individual job occupants are the same or not. Approximately 18,000 matched jobs are priced each quarter from the selected employers.
+For more information refer to, , Chapter 8   Price collection.
+The WPI is a Laspeyres type index covering wage and salary costs. It measures the change in the price between the current period and the price at a given base period with the quantity and quality of labour services being held constant.
+To ensure that the quality and quantity of labour services are held constant, the following are excluded from the index:
+For more information on the calculation of the WPI refer to , Chapter 2   Purposes and uses of the Wage Price Index, and Chapter 10   Wage Price Index calculation in practice.
+  changes in the composition of the labour force
+  hours worked
+  changes in characteristics of employees (e.g. work performance).
+Employer contributions to superannuation funds are excluded from the WPI. For example, enterprise agreements that may include an increase structure of 2.5% (plus 0.5% superannuation), only the 2.5% wage rise component would be reflected in the WPI.
+A price index is a tool that allows users to calculate movements over time. The wage price indexes show how prices have changed relative to a reference base of the financial year 2008/09 = 100.0. Movements of the index from one date to another can be expressed as either points or percentage changes and these are rounded to one decimal place.
+The following example illustrates the method of calculating changes in index points and percentage changes between any two periods:
+Total hourly rates of pay excluding bonuses, All Sectors, Australia Index numbers, original (see table 1)June quarter 2023 145.2less June quarter 2022 140.1Change in index points 5.1Percentage change 5.1/140.1 x 100 = 3.6%
+The rise in wages between the June quarter 2022 and the June quarter 2023 was 3.6%.
+For more detailed information refer to , Chapter 4   Price index theory, and Chapter 12   Outputs and dissemination.
+The latest WPI release can be accessed by clicking on this link . The latest release contains key statistics, data downloads and wage growth insights. Estimates are available by industry, state/territory and public/private sector.
+For information on scope and coverage, weighting and interpretation of index numbers refer to  .
+For further guidance on information contained in the WPI publication contact the ABS National Information and Referral Services (NIRS) on 1300 135 070.
+All published data from the survey can be accessed via the "Data download" link at the top right hand corner of the WPI publication or via the left hand navigation bar.
+The provision of more detailed data is available by request (subject to confidentiality provisions). These non publication forms of WPI output are ‘special data services’ and a cost is charged by the ABS for this information.
+To request special data services data go to the "Do you need more statistics?" options at the bottom of the latest WPI release.
+On the receipt of such request, the WPI team usually reconfirms the client requirements. A charge is made to cover the costs of extracting data to meet users’ requests. For complex requests, the client must accept the quote for the ABS work before it proceeds.
+Price indexes are often used in contracts by businesses and government to adjust payments and/or charges to take account of changes in categories of prices (Indexation Clauses). Although the ABS acknowledges that the various price indexes it publishes are used in indexation clauses, it neither endorses nor discourages such use.
+The ABS is the central statistical authority for the Australian government. Our role includes a requirement to publish price index data, and to broadly explain the underlying methodology and general limitations of such data. The ABS may provide information about a price index published by it, but will not recommend or comment on the use (or otherwise) of the price indexes. In addition, the ABS does not advise, comment or assist in preparing or writing contracts, nor does it provide advice on disputes arising from contract interpretation.
+The ABS has prepared information for users that sets out a range of issues that should be taken into account by parties considering including an indexation clause in a contract using an ABS published price index.  is available on the ABS website.
+The index numbers for any two periods can be used to directly calculate the change or movement in the price of labour between the two periods.
+For example, in the September quarter 2012, the All sectors headline index for WPI (Total hourly rates of pay excluding bonuses) were:
+This means that since the reference period 2008–09, wages in Western Australia have increased more than South Australia. This does not mean wage levels are necessarily higher or lower in Western Australia than South Australia.
+  115.2 for Western Australia
+  112.5 for South Australia.

@@ -1,0 +1,16 @@
+Date:
+2020-06-18
+Article Title:
+ Employment and unemployment: An International Perspective, May 2020
+
+Article Content:
+Australia, like most countries, closely follows the international standards on Labour Force statistics. These standards were most recently ratified in 2013, at the .
+Under these standards, people are classified as employed if they have been stood down and are not working for a short period but maintain an attachment to their job. 
+Australia limits to 4 weeks the length of time that someone can be effectively attached to a job without pay, and still be classified as employed. The international standards allow for up to three months of being attached to a job without pay and still being classified as employed. Many countries use this longer time period to measure employment (including countries in the European Union and the United Kingdom, for example).
+Historically, both the United States and Canada have used a narrower measure of employment than other . The United States and Canada treat all people formally stood down ‘on temporary layoff’ as being unemployed.
+In most cases this distinction is not material to cross country comparisons, but at a time of major shutdown in the economy, where large numbers of people have been stood down, these differences in treatments are important.
+Given differences in labour markets, and that the term ‘layoff’ has a particular meaning in the US and Canadian labour markets, it is not straightforward to derive Australian estimates for employment and unemployment that are strictly comparable to the US and Canadian estimates.
+Table 1 presents the Australian official headline labour market measures along with additional estimates to support comparisons with the US and Canadian estimates. The first additional estimate includes people reporting that they worked zero hours and were ‘stood down’ (Group 1). The second includes all those reporting that they worked zero hours because of ‘no work, not enough work available or were stood down’ (Group 2)   the three response categories considered to be 'economic reasons'.
+Some of the people in Group 1 and/or Group 2 in April were no longer employed in May, given people stood down since late March without pay would have been past the 4 week threshold by May. These people would have been unemployed or not in the labour force, depending on their job search and availability.
+The International Labour Organisation recently  that government restrictions around COVID 19 should be treated as an appropriate ‘other reason’ for people with an attachment to a job to be considered temporarily absent from work. Consistent with this, the ABS expects most people in jobs supported by JobKeeper to answer Labour Force Survey questions in a way  (based on having a job attachment and also being paid by their employers within an existing employer employee relationship).
+For further information, email .

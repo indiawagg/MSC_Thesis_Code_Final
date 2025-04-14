@@ -1,0 +1,13 @@
+Date:
+2020-10-07
+Article Title:
+ International comparisons
+
+Article Content:
+The COVID 19 pandemic, combined with the imposition of containment policies by governments around the world, has generated an unprecedented shock to the global economy. One way to quantify the stringency of governments' containment measures is via the , which aggregates each country's containment measures into a single stringency index.
+Figure 1 shows the negative relationship between the stringency index and quarterly growth in GDP, as countries with more stringent responses have generally reported larger falls in GDP.
+The containment measures in Australia through the June quarter resulted in an average stringency index of 64; a significant increase from the average of 19, over the March quarter.
+The restrictions on activity expanded rapidly at the end of March, before peaking on the 2nd April, as stay at home orders were expanded across the country. Since then, containment measures have eased slowly, before tightening again as COVID 19 cases rose in Victoria.
+All countries which recorded a large fall in GDP over the June quarter also recorded a commensurate fall in household spending (see Figures 3 and 4), illustrating the change in consumer behaviour in response to the pandemic and the restrictions on activity.
+Figure 5 shows that household consumption has fallen in similar ways across these countries, as spending on services has fallen more than spending on goods. In Australia, the largest falls were seen in the consumption of services such as transport, tourism, accommodation, recreational activities, and restaurants and cafes.
+Uniquely among this group of countries, Australia saw an increase in spending on durable goods, as home improvement projects, gardening activity and home offices drove the large increases in spending on household tools and appliances (see: ).

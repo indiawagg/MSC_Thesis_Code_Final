@@ -1,0 +1,33 @@
+Date:
+2021-02-18
+Article Title:
+ Insights into hours worked, January 2021
+
+Article Content:
+Employment increased by 0.2% or 29,000 people (in seasonally adjusted terms) between December 2020 and January 2021. However, seasonally adjusted hours worked declined by 4.9%. This followed seasonally adjusted increases of 0.4% in employment and 0.1% in hours worked in December.
+Chart 1 shows changes in hours worked and employment, indexed to March 2020, while Chart 2 shows monthly changes in hours worked and employment since January 2016. Employment in January 2021 was 99.5% of the level in March 2020. In December, hours worked was 98.6% of the level recorded in March but this fell to 93.8% in January. This fall in hours worked should be viewed differently to the fall in April and May 2020, which resulted from the restrictions in the labour market and coincided with falls in employment.
+There is a fall in hours worked every January as many people take annual leave, which the seasonal adjustment process makes allowance for. However, a larger than usual number of people took annual leave in January 2021. This led to the unusual combination of a rise in seasonally adjusted employment and a large fall in seasonally adjusted hours worked. Given the extent of disruption during 2020, including to people's leave plans, it is not surprising that more than the usual amount of leave was taken in the Christmas New Year holiday period.
+Chart 3 shows the number of hours worked, and Chart 4 the monthly change in hours worked, in original and seasonally adjusted terms.
+While there is a seasonal fall in hours worked every January, the size of the fall is influenced by the timing of the January Labour Force Survey. The reference period can start on a Sunday as early as 31 December (as in January 2018) or a Sunday as late as 6 January (as in January 2019). The earlier the reference period, the closer to the New Year, and the larger the falls in hours worked.
+The seasonally adjusted monthly hours worked series makes specific allowance for the timing of the reference period, which is important to consider when using original data.
+The reference period of the January 2021 survey was the same as January 2016 (Sunday 3 January to Saturday 16 January). However, as Chart 4 shows, the fall in original hours worked in January 2021 was larger than January 2016 (26% compared to 22%).
+In contrast, the fall in hours worked in January 2021 was:
+The difference between the seasonally adjusted and original hours worked series, highlights that hours worked in January 2021 were lower than usual.
+  smaller than the falls in January 2017 (31%) and January 2018 (34%)   when the survey was conducted earlier in January; and 
+  larger than the falls in January 2019 (15%) and January 2020 (19%)   when the survey was conducted later in January.
+There was a very similar relationship between original and seasonally adjusted hours worked in January 2021 and January 2016, highlighting the non seasonal (irregular) decrease seen in January 2021.
+Chart 5 shows the distribution of employed people across the hours worked categories since January 2011. Around 25% of people worked zero hours in January, compared to 22% of people in January 2016. In addition, fewer people worked 35 hours or more than 5 years earlier (43% compared to 47%).
+Table 1 shows the number of people in each of the hours worked categories in January by their hours worked in December.
+Of the employed people who worked 35 hours or more in December, 42% either worked less than 35 hours, worked zero hours or were not employed in January.
+Of the employed people who worked zero hours in December, 37% also worked zero hours in January   indicating that they have been paid for at least some of the past 4 weeks (otherwise they would no longer be classified as employed). A further 17% of the employed people who worked zero hours in December were not employed in January.
+Chart 6 shows the number of people working fewer (or no) hours:
+There were over 3.7 million people who worked fewer than their usual hours (or no hours) due to taking annual leave, holidays, flextime, or long service leave. This was considerably higher than in January 2016 (3.2 million people).
+A further 520,000 people worked fewer than their usual hours (or no hours) for economic reasons in January 2021, an increase of almost 60,000 since December.
+  for economic reasons; and 
+  due to taking annual leave, holidays, flextime, or long service leave.
+Chart 7 shows the proportion of employed people who worked zero hours in January over the past 20 years. The pattern in the original hours worked series reflects the influence of the timing of the survey reference periods.
+Chart 8 shows the number of people working zero hours for economic reasons, and due to taking annual leave, holidays, flextime, or long service leave. As with people working fewer hours, there is a distinct seasonal pattern, with large increases each January. There were almost 2.8 million employed people who worked zero hours in January 2021, almost half a million more than recorded in January 2016.
+Table 2 shows the number of people working zero hours for economic reasons in each state or territory, highlighting the very large increases in people working zero hours for economic reasons across the country in April, and the second wave impacts in Victoria in August and September.
+The increase in January 2021 of around 40,000 was similar to the increase in January 2020.
+Chart 9 shows the proportion of employed people in each state and territory who worked zero hours for economic reasons.
+For further information, email .

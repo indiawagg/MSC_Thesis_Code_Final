@@ -1,0 +1,16 @@
+Date:
+2024-11-14
+Article Title:
+The Daily — Stock and consumption of fixed capital, 2023
+Article Content:
+Released: 2024 11 14
+Net capital stock totalled $7.4 trillion in 2023, consisting of $3.4 trillion in non residential assets, such as machinery and engineering structures, and $4.0 trillion in residential structures. The net capital stock declined 0.2 percentage points in 2023, mainly due to a deceleration in residential investment. The growth of non residential capital stock was concentrated in the education services, professional, scientific and technical services, and transportation and warehousing sectors.
+Expressed in volume terms, Canada's capital stock increased 1.6% in 2023, a slower rise than in 2022. Most provinces and territories recorded increased capital stocks in 2023, with the exception of Newfoundland and Labrador ( 0.1%) and the Northwest Territories ( 2.5%), where the total capital stock decreased in volume terms.
+Although residential capital stock increased in all provinces and territories in 2023, its growth in the year (+2.1%) was slower compared to 2022 (+2.6%). The slowdown in residential capital stock was the result of lower investment in new construction, renovations to existing structures, as well as ownership transfer costs. This coincided with the deterioration of credit conditions and the rise in mortgage interest rates.
+Excluding British Columbia and the Northwest Territories, the growth in residential capital stock was lower than population growth in all provinces and territories in 2023.
+The data visualization product "Overview of the stock and consumption of fixed capital program: Interactive tool," which is part of Statistics Canada – Data Visualization Products (Catalogue number71 607 X), is now available.
+The data visualization product "Infrastructure Statistics Hub," which is part of Statistics Canada – Data Visualization Products (Catalogue number71 607 X), is also available.
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is also available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is also available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

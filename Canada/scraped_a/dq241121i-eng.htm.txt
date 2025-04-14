@@ -1,0 +1,10 @@
+Date:
+2024-11-21
+Article Title:
+The Daily — Provincial symmetric input-output tables, 2021
+Article Content:
+Released: 2024 11 21
+The provincial symmetric input output tables for 2021 are now available.
+The symmetric industry by industry input output tables show inter industry transactions, that is, all purchases of an industry from all other industries, as well as expenditures on imports and the components of value added, such as wages and gross operating surplus. Similarly, the symmetric final demand tables show all purchases by each final demand category from all industries, as well as expenditures on imports. The symmetric input output tables are analytically derived from the industry by product supply and use tables.
+The product Provincial Symmetric Input Output Tables, 2021 (Catalogue number15 211 X), is now available upon request.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

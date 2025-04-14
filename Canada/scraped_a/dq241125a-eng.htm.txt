@@ -1,0 +1,21 @@
+Date:
+2024-11-25
+Article Title:
+The Daily — Quarterly financial statistics for enterprises, third quarter 2024
+Article Content:
+Released: 2024 11 25
+Canadian corporations reported a decrease of $4.1 billion ( 2.5%) in net income before taxes (NIBT) in the third quarter, reaching $157.4 billion. This drop impacted both the financial sector ( 5.5%) and the non financial sector ( 1.3%).
+Consult the Quarterly Survey of Financial Statistics: Visualization Tool for a comprehensive overview of the quarterly changes in the financial performance of enterprises.
+NIBT for the financial sector decreased by $2.6 billion ( 5.5%) to $44.8 billion in the third quarter. Decreases were recorded in 10 of the 13 financial industries. 
+In the third quarter, the NIBT of the property and casualty insurance industry decreased by $1.7 billion, attributable to higher claim expenses in the property and automobile lines of business. This increase reflects the effects of severe weather events during the quarter, including wildfires in Jasper, Alberta and floods in Ontario and Quebec.
+Life, health, and medical insurance carriers saw a $1.0 billion decline in NIBT in the third quarter, primarily due to an increase in expenses related to actuarial liabilities.
+Partly offsetting these decreases, the NIBT for the banking and other depository credit intermediation industry increased by $651 million in the third quarter, due in part to an increase in net interest income.
+NIBT for the non financial sector declined $1.5 billion ( 1.3%) to $112.6 billion in the third quarter. Overall, NIBT was down in 17 of 39 non financial industries. 
+The telecommunications industry was the largest contributor to the decline in NIBT for the non financial sector, falling by $1.8 billion in the third quarter, attributable to higher impairment charges reflecting a decline in advertising demand for the television and radio markets. 
+During the third quarter, the mining and quarrying (except oil and gas) industry recorded the second largest decrease in NIBT, down by $1.6 billion. The decline was primarily driven by increased impairment charges due to challenging market conditions and operation disruptions, along with a $1.0 billion decrease in operating revenue for the quarter. 
+The pipeline industry also contributed to the decrease in NIBT, dropping by $785 million in the third quarter on lower non operating revenues, as large gains related to disposition of assets were posted in the second quarter of 2024. 
+In the third quarter, NIBT for the motor vehicle and trailer manufacturing industry decreased by $589 million. Operating revenue declined by $1.7 billion, partly due to reduced shipments at automotive assembly plants, driven by retooling at certain facilities and weaker demand for motor vehicles. Additionally, there was a drop in the export of motor vehicles and parts, which further impacted operating revenue during the quarter. 
+The oil and gas extraction industry partly offset the declines in NIBT for the non financial sector and recorded a $861 million increase in earnings, on higher volume exports of oil and gas. NIBT for the petroleum and coal products manufacturing industry also rose, up $404 million and driven by an increase in exports of refined petroleum products during the quarter. 
+Aggregate balance sheet and income statement data for Canadian corporations are now available.
+Data from the Quarterly Survey of Financial Statements are also available. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

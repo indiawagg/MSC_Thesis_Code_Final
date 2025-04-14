@@ -1,0 +1,26 @@
+Title: Kleinere bedrijven minder gedigitaliseerd
+Date: 2020-02-16 23:00:00 UTC
+
+Lead Text:
+                Eén op de drie (32 procent) Nederlandse bedrijven zegt de bedrijfsvoering in hoge mate of bijna volledig gedigitaliseerd te hebben. Daarentegen geeft 36 procent aan de bedrijfsvoering niet of nauwelijks te hebben gedigitaliseerd. Kleine bedrijven zijn minder ver met digitalisering dan grote bedrijven. Dit meldt het CBS op basis van de nieuwste cijfers uit onderzoek naar ICT-gebruik onder bedrijven in Nederland.  
+            
+
+Article Content:
+De mate van digitalisering hangt sterk samen met de grootte van het bedrijf; van de grote bedrijven (500 of meer werknemers) heeft 65 procent de bedrijfsvoering in hoge mate gedigitaliseerd, van de kleinste bedrijven (2 werknemers) is dit slechts 24 procent. Bijna de helft van deze kleine bedrijven is naar eigen zeggen niet of nauwelijks gedigitaliseerd. In dit onderzoek gaven bedrijven zelf aan in hoeverre zij gedigitaliseerd zijn.
+
+
+Verstuurde e-facturen verdubbeld
+
+Een voorbeeld van meer digitalisering onder Nederlandse bedrijven is de toename van het gebruik van . Het aandeel verzonden e-facturen verdubbelde in 2018 bijna ten opzichte van het jaar daarvoor, van 8 procent naar 14 procent. Ook het gebruik van elektronische facturen anders dan e-facturen (bijvoorbeeld in PDF) is de afgelopen twee jaar toegenomen: van 40 procent in 2016, naar 60 procent in 2018. Hierdoor is het aandeel papieren facturen de afgelopen twee jaar gehalveerd, van 50 procent in 2016 naar 24 procent in 2018. 
+
+
+Meeste e-facturen in gezondheidzorg
+Van de verschillende bedrijfstakken loopt de gezondheidszorg voorop in het gebruik van e-facturen: in 2018 werd 41 procent van de verzonden rekeningen in de gezondheidszorg als e-factuur verzonden. In de ICT-sector werd het kleinste aandeel facturen in papieren vorm verzonden, maar het gebruik van e-facturen is er nog niet gangbaar (16 procent). In deze sector werd voornamelijk gebruikgemaakt van niet-gestandaardiseerde elektronische facturen (zoals PDF): 75 procent.
+
+
+Klantengegevensbeheer steeds vaker gedigitaliseerd
+Een ander kenmerk van een hoge mate van digitalisering van de bedrijfsvoering is het gebruik van zogenaamd Enterprise Resource Planning (ERP) systemen om informatie overdracht tussen verschillende afdelingen te ondersteunen. Het gebruik van ERP-systemen door bedrijven is de afgelopen twee jaar min of meer gelijk gebleven: 46 procent in 2018, tegen 47 procent in 2017. Het gebruik van een Customer Relationship Manager (CRM) systeem om klantengegevens digitaal te beheren is de afgelopen twee jaar toegenomen van 46 procent van de bedrijven in 2016 tot 56 procent van de bedrijven in 2018. 
+
+
+
+

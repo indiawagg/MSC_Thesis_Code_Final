@@ -1,0 +1,10 @@
+Date:
+2023-02-02
+Article Title:
+The Daily — Open Database of Greenhouses
+Article Content:
+Released: 2023 02 02
+The Open Database of Greenhouses (ODG) is now available as part of Statistics Canada's Linkable Open Data Environment initiative. 
+The first version of the database (version 1.0) contains approximately 2,400 digitized greenhouses from 10 municipalities and 4 provinces across Canada. For each earth observation dataset, identified greenhouses are digitized in relation to the image, and the geographic datasets are then combined for a collective dataset across Canada. 
+The database leverages both open and publicly available data. The ODG is provided as open data under the Open Government Licence – Canada.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

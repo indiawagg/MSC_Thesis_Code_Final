@@ -1,0 +1,29 @@
+Title: Minder geteste mensen bij grotere afstand tot GGD-testlocatie
+Date: 2021-08-24 22:00:00 UTC
+
+Lead Text:
+                Mensen woonden in augustus 2020 gemiddeld 8,7 kilometer van de dichtstbijzijnde GGD-locatie om zich te laten testen op het coronavirus. Door het openen van meer teststraten is die afstand teruggebracht tot 6,2 kilometer in januari 2021. Het aandeel personen dat zich op corona laat testen bij de GGD daalt naarmate ze verder van een GGD-testlocatie wonen. Als de afstand tot de testlocatie toeneemt, neemt het percentage testen sterker af voor mensen uit huishoudens zonder motorvoertuig dan voor mensen uit huishoudens met een motorvoertuig. Dit meldt het CBS op basis van een nieuwe statistische analyse van de GGD-testdata.
+            
+
+Article Content:
+
+In de periode augustus 2020 tot en met januari 2021 zijn maandelijks tussen de 0,5 miljoen en 1,6 miljoen mensen één of meer keren getest op het coronavirus op een testlocatie van de GGD. Dat komt per maand neer op 3 tot 9 procent van de Nederlandse bevolking en gemiddeld over de hele periode op 6 procent van de Nederlandse bevolking. Het percentage mensen dat zich bij de GGD op het coronavirus heeft laten testen, daalt licht naarmate zij verder weg wonen van een GGD-testlocatie. Hierbij moet worden opgemerkt dat niet bekend is of mensen zich bij de dichtstbijzijnde GGD-locatie hebben laten testen. Mensen kunnen er immers voor kiezen om zich te laten testen bij een locatie die iets verder weg is, omdat ze daar eerder terecht kunnen of omdat die locatie makkelijker te bereiken is. Ook is het mogelijk dat mensen zich laten testen bij een andere instantie dan de GGD. Deze andere testlocaties en de daar afgenomen tests zijn niet meegeteld in dit onderzoek.
+Gemiddeld 6,2 kilometer naar dichtstbijzijnde GGD-testlocatie 
+In augustus 2020 was de gemiddelde  vanaf elk adres in Nederland tot de dichtstbijzijnde GGD-testlocatie 8,7 kilometer. Omdat in de daaropvolgende maanden meer GGD-testlocaties werden geopend, was deze afstand in januari 2021 29 procent kleiner (6,2 kilometer). Limburg was de provincie waar de afstand tot de dichtstbijzijnde GGD-teststraat met 55 procent het sterkst daalde, van 15,1 kilometer in augustus 2020 tot 6,9 kilometer in januari 2021. In Noord- en Zuid-Holland, waar de afstanden tot de testlocaties al relatief kort waren, was de daling minder groot: in Noord-Holland nam de afstand af van 5,6 kilometer in augustus 2020 tot 4,7 kilometer in januari 2021, en in Zuid-Holland van 5,8 kilometer tot 4,9 kilometer.
+In de periode augustus 2020 tot en met januari 2021 liet gemiddeld per maand 6,5 procent van de mensen die binnen 3 kilometer rijden van een GGD-testlocatie woonde, zich één of meer keren bij de GGD testen op het coronavirus. Van de mensen die 10 kilometer of meer van een teststraat woonden, was 5,1 procent getest bij de GGD. Onder personen uit huishoudens zonder auto of een ander motorvoertuig daalde het aandeel bij de GGD geteste personen sterker bij toenemende afstand dan voor mensen uit huishoudens met een motorvoertuig.
+
+
+Hoogste aandeel geteste personen in leeftijd 18 tot en met 40 jaar 
+In de periode augustus 2020 tot en met januari 2021 lag het percentage bij de GGD geteste personen het hoogst in de leeftijdsgroepen 18 tot 25 jaar en 25 tot 40 jaar. Elke maand werd ruim 9 procent van deze groepen één of meer keren op het coronavirus getest bij de GGD. Ook onder Nederlanders die verder weg van een GGD-testlocatie woonden, waren dit de groepen waarin het aandeel bij de GGD geteste personen het hoogst was. Het aandeel van de geteste personen naar leeftijd verandert niet, als onderscheiden wordt naar de afstand tot een GGD-testlocatie.
+
+
+Relatief veel werknemers en mensen met WW lieten zich testen
+Afstand speelt ook niet of nauwelijks een rol als de relatie wordt gelegd tussen het percentage geteste mensen en de afstand tot een GGD-testlocatie voor de verschillende sociaaleconomische groepen. Ook dan liggen de patronen vrijwel vast: lage percentages onder geteste mensen met een pensioen- of bijstandsuitkering en hogere percentages onder werknemers, ongeacht de afstand tot de dichtstbijzijnde GGD-testlocatie. Enige uitzondering zijn de mensen met een WW-uitkering, die opvallen met een hoog percentage geteste mensen in de kleinste afstandscategorie.
+
+
+GGD-testdata verrijkt met CBS-data
+Het ministerie van Volksgezondheid, Welzijn en Sport (VWS) heeft het CBS gevraagd om op continue basis informatie samen te stellen ten behoeve van een op maat ondersteuning van de COVID-19-bestrijding. Basis voor deze informatie vormt een combinatie van de GGD-testdata met CBS-data. Het CBS beschikt over vele databronnen over de Nederlandse bevolking waarmee de GGD-data verrijkt kunnen worden: leeftijd, geslacht, type huishouden, aantal personen in het huishouden,  woon- en werksituatie, sociaaleconomische positie, en nog veel meer.
+
+Dit bericht maakt deel uit van een reeks artikelen over de analyses van de GGD-testdata. Eerder verscheen het bericht: GGD-testdata: 6,7 miljoen mensen deden minstens één coronatest. 
+
+

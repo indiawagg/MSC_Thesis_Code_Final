@@ -1,0 +1,86 @@
+Title: Buitenlandse regelgeving beperkt Nederlandse dienstverleners
+Date: 2022-10-16 22:00:00 UTC
+
+Lead Text:
+                Regelgeving in het buitenland beperkt het exportpotentieel van Nederlandse dienstverleners. Bedrijven moeten zich bijvoorbeeld registreren en voldoen aan bepaalde normen en standaarden om diensten te mogen leveren in dat land. Diverse vormen van regulering bemoeilijken de toegang van Nederlandse dienstenleveranciers tot buitenlandse markten of groei op die markten. Dit meldt het CBS op basis van de meest recente Internationaliseringsmonitor en naar aanleiding van het Wereldcafé.
+            
+
+Article Content:
+De export van diensten is goed voor 13 procent van het Nederlandse bbp en zorgt voor 13 procent van de totale werkgelegenheid. De omvang van de dienstenexport kan echter beperkt worden door natuurlijke belemmeringen (geografisch of cultureel) en niet natuurlijke belemmeringen zoals kwalificatievereisten, technische normen en vergunningsprocedures voor dienstverleners. Deze belemmeringen worden door de OESO gemeten aan de hand van de Services Trade Restrictiveness Index (STRI). Deze index weerspiegelt de handelsopenheid van dienstensectoren van landen. Uit de Internationaliseringsmonitor blijkt dat Nederlandse bedrijven handelsbelemmeringen ervaren: ze verhandelen minder diensten naar verder weg gelegen economieën en de dienstenexport neemt af naarmate een land meer belemmerende regels heeft voor het aanbieden van een dienst.
+
+
+Overzicht belemmeringen dienstenhandelInfographic met een overzicht van belemmeringen dienstenhandel
+
+Natuurlijke handelsbarrières
+
+Geografische barrières
+waaronder:
+-Omvang (bbp)
+-Afstand
+-Tijdzones
+-Grens
+-Virtuele nabijheid
+
+Culturele barrières
+waaronder:
+-Cultuur (Hofstede)
+-Taal
+-Digital Adoption Index
+
+
+Niet natuurlijke handelsbarrières
+
+Tarifaire grensbarrières
+Niet-tarifaire barrières
+waaronder:	
+- Services Trade Restrictiveness  Index gemeten door OESO
+- Belemmeringen gemeten door Europese CommissieOverzicht belemmeringen dienstenhandelNatuurlijke handelsbarrièresNiet natuurlijke handelsbarrièresGeografische barrièresCulturele barrièreswaaronder:- Omvang (bbp)- Afstand- Tijdzones- Grens- Virtuele nabijheidwaaronder:- Cultuur (Hofstede)- Taal- Digital Adoption IndexTarifaire grensbarrièresNiet-tarifaire barrièreswaaronder:- Services Trade  Restrictiveness   Index gemeten door  OESO- Belemmeringen  gemeten door  Europese Commissie
+
+
+Nederland relatief open voor handel in diensten
+
+Volgens de STRI van de OESO behoren Tsjechië, Japan, Chili en Nederland tot de meest open landen voor de handel in diensten. Indonesië, Thailand, India en IJsland hebben de hoogste waarden van de STRI-index. Deze landen hebben dus de meeste belemmeringen voor dienstenhandel. Een simpel voorbeeld betreft de regel dat architecten die in IJsland reclame willen maken voor hun diensten, dat daar in het IJslands moeten doen. In Nederland is het adverteren door architecten niet gereguleerd. 
+
+
+Services Trade Restrictiveness, 2021Infographic met wereldkaart
+Bron: CBS, OESO
+Legenda
+< 0,15
+0,15–0,20
+0,20–0,25
+0,25–0,30
+> 0,30
+Geen data beschikbaarServices Trade Restrictiveness, 2021Bron: CBS, OESOLegenda< 0,150,15–0,200,20–0,250,25–0,30> 0,30Geen data beschikbaar
+
+
+De handel in diensten wordt anders dan goederen niet belemmerd door tarieven die aan de grens worden geïnd, maar door vereisten aan buitenlandse vestigingen, toetredingsbarrières en verschillende binnenlandse regelgevingen. Deze laatste kunnen de vorm aannemen van lokale registratie- en certificeringseisen, normen en technische standaarden. Deze regels verschillen van land tot land en dat maakt het voor bedrijven lastiger om hun activiteiten internationaal uit te breiden. Koerierdiensten zijn de minst gereguleerde dienstensector in Nederland in vergelijking met de rest van wereld. Luchtvaart is de meest beperkte dienstensector in Nederland. Zo gelden er strikte regels voor het aannemen van een buitenlandse werknemer in de luchtvaart.
+
+
+
+
+Starten met dienstenexport naar België soms lastig
+Een land met relatief veel restricties is België. Nederlandse bedrijven starten daardoor minder vaak met het exporteren van diensten naar België. Accounting en architectuur zijn bijvoorbeeld sterk gereguleerde sectoren in België. Dit heeft te maken met de mate waarin de Belgische regering de invloed van buitenlandse bedrijven aan banden kan leggen, maar ook de mate waarin een buitenlands bedrijf protest kan aantekenen tegen bepaalde regels waarvan zij geloven dat het tot oneerlijke competitie leidt. De bouw- en ingenieursdiensten zijn daarentegen een stuk minder gereguleerd in België.
+
+Minder restricties, meer export van diensten
+
+De gemiddelde Nederlandse dienstenexporteur exporteert een hogere waarde van een bepaalde dienst wanneer er in het bestemmingsland minder beperkende belemmeringen in die sector voorkomen (al het overige gelijkblijvend). Ook geografische afstand tussen handelspartners speelt een rol: hoe groter de afstand tot de bestemmingsmarkt, hoe kleiner de omvang van de dienstenexport. Tegelijkertijd is de exportwaarde van diensten hoger naar grotere economieën. Nederland exporteert ook relatief meer diensten naar meer gedigitaliseerde landen.
+
+
+Dienstenexport en STRI van het bestemmingsland en dienstentypeStippenplot grafiek
+
+log exportwaarde
+OECD Restrictiveness Indicator (STRI)
+0
+5
+10
+15
+Bron: CBS, OESO.
+0
+.2
+.4
+.6
+.8
+1log exportwaardeDienstenexport en STRI van het bestemmingsland en dienstentypeOECD Restrictiveness Indicator (STRI)051015Bron: CBS, OESO.0.2.4.6.81
+
+
+

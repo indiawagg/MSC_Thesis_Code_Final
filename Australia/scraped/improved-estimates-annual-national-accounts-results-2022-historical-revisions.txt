@@ -1,0 +1,37 @@
+Date:
+2022-10-28
+Article Title:
+ Improved estimates of the annual national accounts: Results of the 2022 historical revisions
+
+Article Content:
+Statistical revisions are carried out regularly in the Australian National Accounts, to reflect the most current information and estimation methods. For the December, March and June quarter National Accounts releases, the ABS limit revisions to the most recent quarters only. Annually, the ABS will apply revisions to a longer time series of selected estimates, which is referred to as a “historical revision". These revisions are first seen in the Annual National Accounts, and then in the September quarter release. 
+Historical revisions are important for several reasons including improved data quality, to update classifications and to improve international comparability.
+Historical revisions in the national accounts have traditionally been undertaken on an ad hoc basis. This involved holding back individual historical revisions until a time where many changes were put through in bulk. From 2021, the ABS adopted a policy of implementing targeted annual historical revisions. This is to ensure that the national accounts use the most up to date data available which best captures changes in a dynamic economy and is more responsive to user needs. The ABS will advise users on planned historical revisions in advance of publication.
+The Annual National Accounts Supply Use tables introduce revisions for the three open years as part of the standard benchmarking process. As such, the impact of the historical revisions can be difficult to isolate for the ‘open’ three years.
+Header 2: Changed treatment of non government schools
+Header 2: Changes to education outputs
+Header 2: Method improvements for hours worked
+The 2022 round of revisions incorporates three major historical revision improvements.
+The ABS has reclassified non government schools from non market Non Profit Institutions Serving Households (NPISH) to market producers (market non profit institutions) from the period 1984 85 to 2021 22. These changes were previously highlighted in the . Note that NPISH are included within the household sector in the Australian National Accounts. This change results in a reclassification of the treatment of government payments to non government schools from household final consumption expenditure (HFCE) to government final consumption expenditure (GFCE), with minimal change to GDP. Household and general government net savings have remained relatively unchanged.
+The ABS has aligned the value of output of non government schools to data from the Australian Curriculum, Assessment and Reporting Authority (ACARA). These estimates result in upwards revisions to the output and gross value added of Division P Education and Training, and increased HFCE in primary and secondary education services. The ABS has also incorporated improved volume estimates of output for primary, secondary, vocational, and higher education.
+Improvements have been made to the Labour Account which impact on hours worked and productivity estimates in the National Accounts. A new method for allocating annual Labour Force Survey benchmarks of hours worked across quarters has been implemented, incorporating information from the reference week of each month of the quarter. The methods to estimate the number and hours worked of child workers and short term non residents have also refined.
+These historical revisions will also appear in the following upcoming economic releases:
+ – release date 15 November 2022
+ – release date 18 November 2022
+ – release date 7 December 2022
+ – release date 13 December 2022
+The 2022 historical revision is constrained to mainly education related estimates. As such, changes to key economic indicators are relatively small. In most respects, the picture of the economy shown in the revised estimates is unchanged from previously published estimates.
+The most substantial changes are to estimates gross value added for the Education and Training industry, HFCE of education services, and GFCE of education services.
+Impact analysis of key economic indicators are outlined below.
+Australian gross domestic product (GDP) remains similar to previously published estimates throughout the time series. Figure 1 provides the overall impact of the revisions to annual percentage change in GDP in volume terms. From 1984 85 to 2020 21, the average annual growth rate remained unchanged at 3.1%.
+For the 2020 21 period, the difference can be attributed to the latest Annual Supply Use benchmarking.
+The 2022 historical revision results in changes to household final consumption expenditure and government final consumption expenditure.
+A consequence of the reclassification of non government schools as market producers is that government payments to non market schools are no longer treated as HFCE. This change has resulted in a general level shift down in HFCE of education services for the time period 1984 85 to 2021 22. For 2020 21, the revision to the annual current price value of HFCE is  $13.75bn.
+Growth in HFCE in volume terms, as shown in Figure 2, is largely unchanged. The average annual growth rate remains unchanged at 3.0%.
+The introduction of non government schools as market producers has resulted in a level shift increase in GFCE as government payments to non market schools are no longer treated as HFCE. This change has resulted in a general upward level shift in GFCE for the time period 1984 85 to 2021 22. For 2020 21, the revision to the annual current price value of GFCE is $21.06bn.
+The impacts of the historical revision to GDP are minimal over the series, as the reclassification from HFCE to GFCE offsets.
+The overall rise in the series is attributed to the implementation of the new data source from ACARA and the incorporation of improved volumes estimates.
+The alignment to ACARA has increased output and gross value added of Education and Training; particularly the HFCE of primary and secondary education services. Improvements in volume estimates resulted in increases in output for primary, secondary, vocational, and higher education services.
+The only material revisions to gross value added (GVA) can be seen in Division P Education and Training. Revisions have a greater impact on current price rather than chain volume estimates of GVA growth.
+In current price terms, estimates of GVA growth rates have been revised throughout the time series, ranging from a 1.3 percentage point decrease in 2010 11 to a 1.3 percentage point increase in 2020 21 (Figure 5). For the 2020 21 period, the difference can be attributed to the latest Annual Supply Use benchmarking.
+In chain volume terms, estimates of GVA growth rates are largely unchanged over the series.

@@ -1,0 +1,16 @@
+Date:
+2023-10-27
+Article Title:
+The Daily — Census of Environment: Measuring settled area expansion, 2010 to 2020
+Article Content:
+Released: 2023 10 27
+Settled areas are a type of intensively used ecosystem that represent the places where people live and work. While they make up a small percentage of the total land area in Canada, the expansion of settled areas onto adjacent landscapes greatly affects the surrounding environment.
+Contiguously settled areas (CSAs) are a new geography that represent the physical footprint of settled areas on the landscape and can be used to measure the expansion of these areas over time, contributing to a better understanding of urban sprawl. In 2020, contiguously settled areas covered roughly 18,000 km2 of Canada.
+The permanent conversion of land to settled areas generates many benefits for humans by providing spaces to live, work, and engage in recreational activities, but it comes at a cost. Environmental trade offs include the loss of agricultural land, forests and wetlands, as well as the associated implications for habitat, biodiversity and ecosystem services, such as local climate regulation and water flow regulation.
+Built up area within two kilometres outside the boundary of all CSAs in Canada grew by over 370 km2 from 2010 to 2020, a 2% increase over the 2010 CSA footprints. This area is comparable to the size of 45,000 Canadian football fields.
+Over one third (36%) of the land converted to built up area on the outskirts of CSAs from 2010 to 2020 was in Ontario. Quebec had the next highest proportion (21%), followed by Alberta (16%) and British Columbia (13%).
+From 2010 to 2020, built up area growth was highest in the agglomerated CSAs of Toronto (+29 km2), Calgary (+21 km2) and Montréal (+16 km2). In addition, Edmonton (+12 km2), Winnipeg (+10 km2) and Vancouver (+10 km2) had more than 9 km2 of built up growth on their outskirts. These six CSAs all fell within the top 10 most populated municipalities in 2021.
+Some CSAs associated with a medium population centre also saw their built up areas grow significantly from 2010 to 2020. In British Columbia, Kamloops had 4 km2 of built up growth in 2020, a 4% increase over its 2010 footprint, while Prince George had 3 km2, representing a 3% increase.
+Rounding out the top five medium population centres with the largest area of built up growth are Welland Pelham, in Ontario; Shawinigan, in Quebec; and Red Deer, in Alberta, all with 2 km2 of land converted to built up area on their outskirts. 
+Contiguously settled area spatial files (ArcGIS®, file extension: .shp) and metadata can be downloaded from "Contiguously Settled Areas: Boundaries and User Documentation" which is part of the publication Environmental Statistics: Boundary Files (Catalogue number16 510 X).
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

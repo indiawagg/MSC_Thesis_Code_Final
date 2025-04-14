@@ -1,0 +1,16 @@
+Date:
+2023-01-19
+Article Title:
+The Daily — Study: An analysis of Canadian business support programs in response to the global COVID-19 pandemic
+Article Content:
+Released: 2023 01 19
+With the emergence of COVID 19, Canadian governments at all levels adopted numerous policy initiatives to address the financial challenges businesses faced. Some of these programs were designed to provide wage subsidies, emergency credit and operating funds for businesses, which altogether represented billions of dollars in support.
+A new study explores the uptake of the key federal government business support programs, such as the Canada Emergency Wage Subsidy (CEWS), across various dimensions using preliminary results from Statistics Canada's Canadian COVID 19 Business Support Measures database, a standardized set of data covering government support programs for businesses.
+Among the study's findings, roughly $160 billion of funds were delivered to over one million businesses. CEWS served as the primary vehicle of support (over 60% of total funds disbursed), followed by the Canada Emergency Business Account (27% of total funds disbursed), which had the widest reach in terms of the number of recipients.
+Most businesses participated in only one support program, with very few participating in all seven programs included in this analysis. Recipients from the accommodation and food services sector applied for more business support programs compared with other sectors and represented the greatest share of businesses applying to all seven programs.
+For more information, please see the full study, "An analysis of Canadian business support programs in response to the global COVID 19 pandemic."
+The study, "An analysis of Canadian business support programs in response to the global COVID 19 pandemic," which is part of Latest Developments in the National Accounts (Catalogue number13 605 X), is now available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,15 @@
+Date:
+2024-02-22
+Article Title:
+The Daily — Gender Results Framework: Data table update on federally appointed judges, 2023
+Article Content:
+Released: 2024 02 22
+Statistics Canada's Centre for Gender, Diversity and Inclusion Statistics (CGDIS) has released new data on the gender representation of federally appointed judges. The updated data table released today is part of the Gender Results Framework (GRF), first introduced by the Government of Canada in 2018 to track the progress made toward achieving gender equality in Canada.
+Gender equality across leadership roles and in democratic participation provides a more balanced distribution of men and women at all levels of decision making, an essential part of a fair and democratic society.
+There were 548 women appointed as federal judges in 2023, up from 532 in 2022 and 526 in 2021. Conversely, the number of men appointed to the bench decreased from 676 in 2021 to 643 in 2022, and again to 625 in 2023.
+The proportion of federally appointed judges who are women increased by 2.9 percentage points from 2021 (43.8%) to 2023 (46.7%). The proportion of men appointed as federal judges decreased from 56.2% to 53.3% over the same period.
+From 2021 to 2023, the proportion of federally appointed judges who are women increased in Newfoundland and Labrador (+2.3 percentage points), Quebec (+2.5 percentage points), Ontario (+2.6 percentage points), Manitoba (+6.7 percentage points), Saskatchewan (+7.7 percentage points), and British Columbia (+2.9 percentage points).
+In the Northwest Territories, the proportion of federally appointed judges who are women increased by 25.0 percentage points in 2022 and decreased by the same amount in 2023. Similarly, in Nunavut, the proportion of women decreased by 10.0 percentage points in 2022 and increased by the same amount in 2023. In Yukon, all federally appointed judges from 2021 to 2023 were women. The changes in proportion are larger in the territories because of their small number of federally appointed judges, compared with the provinces.
+GRF data tables are available on the CGDIS's Sex, Gender and Sexual Orientation Statistics Hub.
+The CGDIS's Gender, Diversity and Inclusion Statistics Hub also supports Statistics Canada's Disaggregated Data Action Plan by connecting users to portals that feature disaggregated data on various population groups.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

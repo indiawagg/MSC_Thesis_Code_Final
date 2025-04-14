@@ -1,0 +1,18 @@
+Date:
+2024-09-19
+Article Title:
+The Daily — Census of Environment: Renewable freshwater from 1971 to 2021
+Article Content:
+Released: 2024 09 19
+Water yield is an estimate of the amount of renewable freshwater generated in an area. Tracking water yield over time provides information to help understand changes in water resources available for human use and ecosystem needs.
+In 2021, 1,225 cubic kilometres (km3) of renewable freshwater was generated in the south of Canada, where most people live. This volume corresponds to an average 0.47 cubic metres (m3) of water per square metre (m2) of area. To put this in perspective, in 2021, Canadian households used a total of 3.2 km3 of water nationally.
+Since 1971, the annual water yield for southern Canada has varied from 0.45 to 0.60 m3/m2. However, there are differences in the geographic and seasonal distribution of renewable freshwater resources and in the changes observed over time. These factors can influence water management decisions by governments, public utilities and others.
+Changes in water regimes typically evolve over many decades. When comparing water volumes generated in summer, differences can be observed over the last three climate normal periods (1971 to 2000, 1981 to 2010 and 1991 to 2020).
+While the west and east coasts typically have the highest average water yields in the country, decreases were seen over time in the Pacific Coastal and Fraser–Lower Mainland drainage regions, as well as in the North Shore–Gaspé and Maritime Coastal drainage regions.
+Average summer volumes increased in some regions. Notably, they tripled in the Assiniboine–Red drainage region, from 0.93 km3 for the 1971 to 2000 period to 1.53 km3 for the 1981 to 2010 period and 2.72 km3 for the 1991 to 2020 period. Despite this increase, water yield in the Assiniboine–Red drainage region and other drainage regions in the Prairies remained among the lowest in the country.
+Monitoring water flows over time can provide insights on the influence of climate change on the hydrological cycle.
+Peak water flows follow distinct patterns in different areas of the country because of factors such as the timing of spring snowmelt and precipitation. For example, in the Great Lakes drainage region, peak monthly water yield is generated in the spring. In the Pacific Coastal drainage region two peaks are typically seen: one in June and a smaller one in October.
+In the Great Lakes and Newfoundland drainage regions, median monthly water yield during the spring peak period has decreased over the last three climate normal periods. Conversely, peak water yield during the month of June increased in the Columbia drainage region, rising from 17.29 km3 for the 1971 to 2000 period to 18.50 km3 for the 1991 to 2020 period.
+Other monthly changes have been observed. A noticeable shift has occurred in some of the western drainage regions where summer yields have decreased, while spring volumes have increased. In the Fraser–Lower Mainland drainage region, for example, the median water yields were higher in April (18.4%) and May (15.2%) for the 1991 to 2020 period, compared with median water yields for the earlier 1971 to 2000 period. Changes in periods of high and low flows can have implications on the potential for flood risks and water shortages.
+The "Water yield: Geospatial files" and "Water yield: Data product specifications" are now available in Census of Environment: Spatial information products (Catalogue number16 510 X).
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

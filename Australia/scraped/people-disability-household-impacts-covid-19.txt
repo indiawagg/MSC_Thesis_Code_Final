@@ -1,0 +1,30 @@
+Date:
+2022-02-11
+Article Title:
+ People with disability: Household impacts of COVID-19
+
+Article Content:
+This article presents results from the ABS Household Impacts of COVID 19 Survey, a longitudinal survey which collected information from the same panel of respondents each month. The data in this article was collected in April, May and June 2021.
+Disability status was captured in the survey using a subset of questions from the ABS’s Short Disability Module. For more information about how disability status was collected please see the . This article builds on previous articles and explores some of the impacts of COVID 19 by different types of disability.
+The scope of the survey was people aged 18 years and over living in private dwellings across Australia (excluding very remote areas).
+Proportions marked with an asterisk (*) have a Margin of Error (MoE) greater than 10 percentage points and/or indicate that the proportion ± the MoE equals <0% or >100%, which should be considered when using this information. For more information about MoEs refer to the .
+In June 2021, the ABS Household Impacts of COVID 19 Survey found that one in three (33%) Australians aged 18 years and over reported that they had received at least one dose of a COVID 19 vaccination (46% of people with disability and 28% of people without disability). At the time of the survey, phase 1 and 2 of the roll out of COVID 19 vaccines in Australia was continuing.  It is important to note that these figures are not official vaccination data. Official COVID 19 vaccination data is reported on the .
+In June 2021, people with sensory and speech (65%), physical (42%) and other disabilities (54%) were more likely to report having received at least one dose of a COVID 19 vaccination than people with no disability (28%).
+In June 2021, the survey asked how strongly people agreed or disagreed with a selection of statements about COVID 19 vaccinations. A similar proportion of people with and without disability agreed or strongly agreed they would get a vaccine when it was available and recommended for them (73% and 74%).
+People with a sensory and speech disability (85%) were more likely to agree or strongly agree that they would get a COVID 19 vaccine when it became available and is recommended for them than the population as a whole (73%).
+Of all Australians aged 18 and over who said they would get a COVID 19 vaccination when it became available to them, the factors most affecting the decision varied by disability:
+All people aged 18 years and over who disagreed or strongly disagreed (11%), or neither agreed nor disagreed (14%) that they would get a COVID 19 vaccination when it became available and was recommended for them were asked the main reason why they would not get one. People with disability were most likely to report concerns relating to potential side effects as the main reason not to get a COVID 19 vaccination (57%), similar to those without disability (56%).
+  people with disability were more likely to rely on their General Practitioner (GP) or other health professional (31%) for this advice than people without disability (20%).
+  people with disability (15%) were less likely to consider the vaccine’s use for a long time without serious side effects in deciding to be vaccinated than people without disability (23%).
+In May 2021 Australians aged 18 years and over were asked to assess their overall physical health on a five point scale ranging from excellent to poor. People with disability were less likely to assess their physical health as excellent or very good (29%) than people without disability (54%). Self assessed health varied somewhat by disability group:
+  One in eight people with an intellectual (13%*) or psychosocial disability (13%) reported that their overall physical health was excellent or very good.
+  Almost half of people with a psychosocial disability (46%*) reported that their overall physical health was fair or poor, higher than those without disability (11%).
+In April 2021, the survey asked about accessing and using Telehealth services in the previous four weeks. This could be over the phone, by video conferencing, or through other communication technologies.
+In April, more than one in five (21%) Australians with disability used a Telehealth service in the previous four weeks compared with 12% of those without disability. This ranged from 16%* of those with a sensory and speech disability to 36%* of those with a psychosocial disability.
+In May 2021, of Australians with disability aged 18 years and over:
+  66% reported their household could raise $2,000 for something important within a week, ranging from 27% of those with an intellectual disability to 80% of those with a sensory and speech disability.
+  19% reported their household could raise $500 but not $2,000.
+  9% reported their household would be unable to raise $500 within a week.
+In May 2021, one in 13 (8%) Australians reported their household was unable to pay one or more selected bills on time over the last three months due to a shortage of money.
+People with disability (12%) were more likely than people with no disability (7%) to report their household was unable to pay one or more selected bills on time over the last three months. People with intellectual disabilities (31%*) were the most likely to report experiencing this difficulty.
+The majority (91%) of Australians reported their household expects to be able to pay bills received in the next three months. People with disability (87%) were less likely to report expecting their household would be able to pay bills received in the next three months than people without disability (92%).

@@ -1,0 +1,13 @@
+Date:
+2023-05-11
+Article Title:
+The Daily — Grain Supply Chain Dashboard: Real-time Grain Movement by Rail
+Article Content:
+Released: 2023 05 11
+Today, Statistics Canada is releasing the Grain Supply Chain Dashboard: Real time Grain Movement by Rail. This interactive map displays the daily movement of grain, detailing estimates of tonnage flows per unit of time, along segments of the railway network, stations and ports. 
+This initiative is part of a broader effort by Statistics Canada to provide real time statistical information about issues affecting supply chains in Canada. 
+The interactive dashboard will be updated on a daily basis (with a one day lag). The dashboard brings together data from multiple sources and displays three main indicators; number of cars entering, en route and exiting, at the corridor level; car's daily last known station; and cars with a 48 hour or more dwelling time. 
+The Grain Supply Chain Dashboard has been developed in partnership with the Ag Transport Coalition.
+The Grain Supply Chain Dashboard: Real time Grain Movement by Rail (Catalogue number71 607 X) is now available.
+The methodological paper ''Real Time Grain Movement by Rail'' (Catalogue number23260002) is also available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

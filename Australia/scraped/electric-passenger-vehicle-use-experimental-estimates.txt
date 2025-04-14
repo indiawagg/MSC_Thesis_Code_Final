@@ -1,0 +1,35 @@
+Date:
+2021-11-26
+Article Title:
+ Electric passenger vehicle use, experimental estimates
+
+Article Content:
+These statistics relate to the 6 thousand electric passenger vehicles identified by the Motor Vehicle Census in January 2019. Since this time electric vehicle sales and registrations have increased significantly as highlighted by the .
+  Electric passenger vehicles registered in Australia travelled 69 million km in the 12 months ended 30 June 2020.
+  On average, electric passenger vehicles travelled 11.1 thousand km per vehicle. This is the same distance reported for all passenger vehicles and 600 km further than the average distance travelled for petrol passenger vehicles (10.5 thousand km).
+  Within states and territories, Victorian electric passenger vehicles drove the furthest in total (25 million km) whilst electric vehicles registered in the ACT travelled the furthest on average (12.8 thousand km).
+  Electric passenger vehicles were mostly driven within capital cities, accounting for 50 million km, or 72.5% of all travel by this type of vehicle.
+  These statistics relate to the 6 thousand electric passenger vehicles identified by the Motor Vehicle Census in January 2019. Since this time electric vehicle sales and registrations have increased significantly as highlighted by the .
+  The ability to produce accurate estimates of the number of electric vehicles registered in Australia is limited by the inconsistent classification of electric and hybrid electric vehicles to fuel type categories.
+  Whilst Victoria reported the furthest distance travelled by electric passenger vehicles at 25.2 million km, it is likely there are some hybrid vehicles contributing to the estimate.
+  Electric passenger vehicles in the NT drove the least distance, 100 thousand km.
+  Electric passenger vehicles travelled 11.1 thousand km on average, 0.6 thousand km further on average than their petrol counterparts (10.5 thousand km).
+  Electric passenger vehicles in the ACT travelled further on average than all other states and territories (12.8 thousand km), closely followed by WA (12.6 thousand km).
+  Electric passenger vehicles in Tasmania travelled the least distance on average (4.3 thousand km).
+  Average km travelled for electric passenger vehicles in NSW, Vic., WA and the ACT exceeded the national average for all passenger vehicles (11.1 thousand km).
+  Electric passenger vehicles were mostly used within Capital Cities, accounting for 72.5% (50 million km) of all km travelled.
+  Travel within other urban areas by electric passenger vehicles represented 17.4% (12 million km) of all km travelled.
+  Only 7.2% (5 million km) of electric passenger vehicle travel was outside urban areas.
+  Electric passenger vehicles travelled an average of 9.8 thousand km per vehicle within capital cities. This compares to 6.4 thousand km on average in other urban areas and 5.0 thousand km outside urban areas.
+  In capital cities electric passenger vehicles (9.8 thousand km) were driven further on average than both petrol (9.5 thousand km) and diesel (8.6 thousand km) powered vehicles.
+  Electric passenger vehicles travelled further on average than petrol powered vehicles for both Business use and Personal and other use.
+  In terms of Business use, electric passenger vehicles drove 8.2 thousand km on average compared to 7.4 thousand km on average for petrol vehicles.
+  Electric passenger vehicles used for Personal and other use were driven 6.7 thousand km on average whereas, petrol powered vehicles travelled an average distance of 6.5 thousand km.
+These estimates are derived from a small sample of electric passenger vehicles selected in each state and territory as part of the 2019 20 Survey of Motor Vehicle Use (SMVU). This sample of electric passenger vehicles were surveyed using a subset of SMVU questions relating to distance travelled. For further information regarding survey methodology see .
+A complicating factor in producing these estimates is the inconsistent allocation of petrol/electric hybrid, plug in hybrid and battery electric vehicles to the existing fuel type categories used by state and territory motor vehicle registries. This makes it difficult to accurately estimate the number of electric vehicles currently registered in Australia. It also means it is difficult to estimate numbers of hybrid electric vehicles as these are sometimes classified within other fuel type categories.
+This also means that some vehicles are selected into the survey as battery electric vehicles however, when surveyed are found to be hybrids and consequently ruled out of scope. This reduces the size of the sample and reduces the quality of estimates for some categories of data. For example, it was not possible to create business use estimates for electric vehicles in Tasmania. 
+Alternatively, if not all hybrid electric vehicles are excluded it can also impact the estimates. For example, the high number of electric passenger vehicles and associated km travelled for Victoria may be due to hybrids contributing to the estimates.
+Understanding the number and usage of electric and hybrid electric vehicles is increasingly important for transport policy development and planning, emissions analysis, and infrastructure investment. Improvement in the consistency of fuel type categorisation across all states and territories would enable more consistent, accurate and detailed information regarding the number and use of electric and other low emission vehicles to be produced.
+The ABS is assisting Austroads' investigation into establishing a motor vehicle census collection from 2022 onwards. This will replace the ABS Motor Vehicle Census collection that finished in 2021. The ABS is also working with a small group led by the Bureau of Infrastructure and Transport Research Economics to produce vehicle use statistics that will replace the ABS Survey of Motor Vehicle Usage.
+These initiatives present an opportunity to work with stakeholders and improve the consistency of fuel type classification across states and territories to better understand the rapid growth and usage of electric and other low emission vehicles in Australia.
+If you are interested in participating in the conversation around modernising transport statistics, please get in touch with us via email: ttlg.wdb@abs.gov.au.

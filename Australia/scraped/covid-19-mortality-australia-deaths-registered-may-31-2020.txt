@@ -1,0 +1,35 @@
+Date:
+2020-06-24
+Article Title:
+ COVID-19 Mortality in Australia, Deaths registered to May 31, 2020
+
+Article Content:
+  89 deaths due to COVID 19 have been registered and received by the ABS as of end of May 2020. It is expected the ABS will receive further registrations from the jurisdictional Registries of Births Deaths and Marriages.
+  The majority of COVID 19 deaths had acute respiratory symptoms such as viral pneumonia or acute respiratory distress syndrome listed as a consequence of the virus.
+  68.5% of people who died from COVID 19 had pre existing chronic conditions. Hypertension was the most common of these pre existing conditions, followed by dementia, diabetes, chronic obstructive pulmonary disease and cancer.
+  There were more male COVID 19 deaths than female deaths. 
+The Coronavirus Disease 2019 (COVID 19) is a respiratory infection caused by a new coronavirus. On 11 March 2020 the World Health Organization declared COVID 19 to be a pandemic.
+In Australia, information on deaths from COVID 19 has been collected through a disease surveillance system. This system has provided daily information on both infections and mortality during the pandemic. To date, the disease surveillance system has reported 102 deaths due to COVID 19.
+Mortality data compiled by the ABS is based on death registrations processed by the jurisdictional Registries of Births, Deaths and Marriages, and information on the cause of death sourced from a Medical Certificate of Cause of Death (MCCD) completed by a certifying practitioner. These data sources provide demographic information about the decedent and the medical opinion of the certifying doctor on the diseases and conditions that contributed to death.
+While information obtained from the registration based system takes longer than that obtained via surveillance, it is more comprehensive and can provide important additional insights into deaths from COVID 19. This is especially the case with data obtained from the MCCD, which enables identification of the underlying cause of death and other associated causes.
+This report focusses on those associated causes for the 89 confirmed COVID 19 deaths which have so far been registered and reported to the ABS. Additional deaths from COVID 19 are expected to be reported or confirmed soon and will be included in future reports.
+  Males had a higher number of registered deaths (50 deaths) due to COVID 19 than females (39 deaths). This pattern is consistent with international data on COVID 19 deaths.
+  The highest number of COVID 19 deaths occurred among those aged 75 84. This was true for both males and females.
+  Females aged over 85 had a higher number of deaths than males (14 compared to 12). 
+COVID 19 is the underlying cause of death for all 89 registered deaths analysed in this article. The WHO defines the underlying cause of death as the disease or condition that initiated the train of morbid events leading to death. Diseases and conditions reported on the MCCD that are not the underlying cause of death are referred to as associated causes. Associated causes can be either:
+Examining conditions in the causal sequence can provide insights into how a disease progresses and leads to death. Examining pre existing chronic conditions provides an understanding of risk factors that might contribute to death from a particular disease. Both can inform health prevention and intervention policies.
+Almost all deaths due to COVID 19 have other conditions listed on the death certificate (94.4%). The table below shows that close to half of all certificates had both a causal sequence and pre existing conditions listed on the certificate.
+  Conditions listed in the causal sequence (the chain of events leading to death); or
+  Pre existing chronic conditions, often listed in Part II of the MCCD as ‘other conditions relevant to the death’. 
+COVID 19 is a respiratory illness that weakens the immune system causing inflammation. This commonly leads to poor respiratory outcomes such as viral pneumonia and secondary infection. Other manifestations such as acute kidney injury have also been reported but these are less common.
+65 (73%) of the 89 COVID 19 deaths covered in this report had the disease progression described in a causal sequence by the certifier. Among these 65 deaths:
+  Acute respiratory diseases were the most commonly certified diseases listed as a consequence of COVID 19.
+  Pneumonia was present as a consequence of COVID 19 in just under half of the deaths where a sequence was certified by a doctor.
+  Other acute outcomes including acute kidney injury and myocarditis were reported in a small number of deaths. 
+Pre existing chronic diseases have been found to be risk factors for severity of disease in people who have contracted COVID 19. While these diseases do not cause COVID 19, they increase the risk of COVID 19 complications and therefore increase the risk of death. Among the 89 COVID 19 deaths covered in this report:
+  61 (68.5%) of the deaths had at least one pre existing chronic condition listed on the death certificate.
+  Hypertension was the most commonly certified co morbidity, present in 20% of the 89 deaths.
+  Other conditions that weaken the immune system including dementia, diabetes, chronic obstructive pulmonary diseases and cancer were each present in over 10% of deaths.
+  Blood and lymph cancers (e.g. leukaemia) were the most commonly certified cancer type among those deaths.
+  The type of comorbidities is consistent with those reported internationally. 
+14/4/2022 The title of this article can been changed from 'COVID 19 Mortality' to 'COVID 19 Mortality in Australia, Deaths registered to 31 May 2020'

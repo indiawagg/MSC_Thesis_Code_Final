@@ -1,0 +1,20 @@
+Date:
+2021-06-21
+Article Title:
+ Updating the Australian and New Zealand Standard Classification of Occupations
+
+Article Content:
+The Australian Bureau of Statistics (ABS) is partnering with several Australian Government agencies to produce a targeted update of the Australian and New Zealand Standard Classification of Occupations (ANZSCO). This update is due for release in November 2021.
+The ANZSCO, which is jointly managed by the ABS and Stats NZ, describes, and covers occupations in the Australian and New Zealand labour markets.
+The ANZSCO is used to classify ABS statistics related to occupation in the labour market – that is, it is used to see how many people work in each occupation. Occupation statistics are produced by the ABS through the Census of Population and Housing, the Labour Force Survey and the Survey of Employee Earnings and Hours. In addition to producing occupation statistics, the ANZSCO is used by other organisations to categorise or describe their data, and to support policy development, design and implementation.
+While the ANZSCO has had some minor updates, it still largely reflects the original 2006 version of ANZSCO, which was based on the 2001 labour market. While some occupations have not changed much over this period, some have changed considerably, and some new occupations have emerged.
+The ABS is trialling a new, targeted approach to updating the ANZSCO in 2021. The targeted approach is designed to ensure that future updates to the ANZSCO are more regular and timely.
+The scope of the 2021 update is occupations within the agriculture, forestry and fisheries, cybersecurity, and naval shipbuilding sectors, as well as the  identified by the National Skills Commission.
+The 2021 update of the ANZSCO will identify occupations within the scope of this review that are new, or which have experienced significant growth since 2001, or are expected to show significant growth in the future.
+For example, the current occupation category "Business and Information Professionals not elsewhere classified" includes data scientists and electoral officers but cannot separately identify them. Over the last 10 years there has been an increase in the number of data scientists and the role that they play within the economy means that there is a need for them to be separately identified.
+The 2021 update will also reflect other changes in the labour market since 2001. Some occupations have become more skilled since this date as, amongst other changes, the required level of training to undertake an occupation has increased. For example, some dairy farm workers now require formal qualifications which puts these workers at higher skill levels than currently described in the ANZSCO.
+Many occupations now use significant amounts of technology which were previously not available or needed. This increased use of technology will be reflected in some of the occupations within the scope of the 2021 update.
+The new approach to maintaining the ANZSCO will continue to identify emerging occupations, as well as review changes to other aspects, such as qualifications and regulatory status.
+Further information about the new approach, including how to be involved, will be released later this year.
+The ABS is consulting on the changes proposed for inclusion in the Australian and New Zealand Standard Classification of Occupations (ANZSCO) 2021 update. Consultation on the proposed changes will remain open for four (4) weeks, from Thursday 23rd September to Wednesday 20th October 2021.  For information on how to participate please visit the .
+If you would like more information, please email the ABS at anzsco.maintenance@abs.gov.au 

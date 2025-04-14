@@ -1,0 +1,35 @@
+Date:
+2024-10-25
+Article Title:
+ Impacts from the 2024 Annual National Accounts historical revisions
+
+Article Content:
+The 2024 Annual National Accounts historical revisions process included: improvements to the measurement of digital services; and updated Film and Television capital data from the ABS 2021 22 Flexible Survey. 
+The impact to key economic indicators, such as gross domestic product (GDP), were relatively small from the 2024 historical revisions process. The largest changes were to the imports current price series, from improvements in capturing digital services in the Australian economy.
+The suite of 2024 historical revisions will appear in the following economic releases:
+ – 25 October 2024
+ – 20 November 2024 
+ – 3 December 2024
+ – 4 December 2024
+ – 10 December 2024
+ – 22 January 2025
+Australian National Accounts data are regularly revised. New and updated data sources, classification changes, and changes in methods can all contribute to National Accounts revisions. Figure 1 shows the evolution of an annual estimate, from the first time it is published as the sum of four quarters when the June quarter national accounts are released, through the three supply use benchmarking ‘open years’, to an estimate which is not revised, unless impacted by a historical revision. 
+Note: The (T) period referred to in the example year above is initially 2022 23.
+Every year, the compilation of Annual National Accounts  can introduce revisions for the three open years as part of the benchmarking process. After this, estimates are closed for further supply use balancing unless there is an impacting historical revision. Historical revisions are the result of targeted projects to improve estimates, measure emerging areas of economic activity or arise from detailed studies of specific parts of the economy. The historical revisions program assists with maintaining contemporary and relevant national accounts.
+The impact of historical revisions can be difficult to isolate for the open three years, because revisions in those years come from regular updates to data sources, classifications and compilation methods as well as the impact of historical revisions. This article separates out historical revisions impacts for all years up to 2022 23.
+The 2024 round of historical revisions incorporates two improvements:
+Over the past decade, there has been a substantial increase in digital services being offered and consumed in Australia, such as audiovisual streaming services, internet advertising services and computer software services.  The companies providing these digital services are often owned by non resident Multinational Enterprises (MNEs) that operate across various countries and have complex operating structures, making it difficult to acquire data on the creation, production and consumption of these services. From 2016, the Multinational Anti Avoidance Law, the diverted profits tax, and the application of GST on imported services and digital products were progressively introduced, which provided new data source opportunities. Using these data, the ABS has been able to improve international trade of digital services estimates, within the National and International Accounts. These improvements have resulted in revisions to international trade statistics for the period 2009 10 to 2022 23 (inclusive) and revisions to gross fixed capital formation (GFCF) and household final consumption expenditure (HFCE). The revisions are larger between 2014 15 to 2022 23 as that is the period when imported digital services experienced rapid growth.
+The improved methodology of capturing digital services will be implemented in the September 2024 quarterly release of both the Balance of Payments and International Investment Position; and the Australian National Accounts: National Income, Expenditure and Product. Further details regarding this change will be included in the Balance of Payments and International Investment Position release on 3 December 2024. 
+The ABS has aligned the value of GFCF on Artistic originals with the estimates from the ABS 2021 22  publication for the period 2016 17 to 2018 19 (inclusive). The previous iteration of the Film, Television and Digital Games publication was released for the 2015 16 reference period. Between the two publications, Artistic originals estimates between 2016 17 and 2018 19 were extrapolated using the 2015 16 publication and other indicators. 
+Figure 2 shows the overall impact of revisions to annual percentage change in GDP in volume terms. All years prior to 2022 23 incor­­porate the impacts of historical revisions only, while 2022 23 incorporates the impacts of the Supply Use benchmarking and the historical revisions.
+From 1994 95 to 2022 23, the average annual growth rate was revised from ­­3.0% to 3.1%. This was driven by the 2022 23 period, which was revised upwards 0.4 percentage points with the incorporation of the latest Supply Use benchmark.
+The incorporation of the improved digital services data revised imports in both current price and chain volume terms between 2009 10 to 2022 23. Figure 3 shows the impact of the revisions to the annual percentage change in imports in volume terms.
+Annual revisions to Private GFCF in chain volume measures are shown in Figure 4. 
+Private GFCF revisions were driven by the improvements to digital services data between 2009 10 to 2021 22. The 2022 23 revision was driven by the incorporation of the latest Supply Use benchmark.
+Revisions to annual Private GFCF on computer software in chain volume measures are shown in Figure 5.Private GFCF on computer software revisions were driven by the improvements to digital services data between 2009 10 to 2021 22. The 2022 23 revision was driven by the incorporation of the latest Supply Use benchmark.
+Revisions to HFCE in chain volume measures are shown in Figure 6.
+HFCE revisions were driven by the improvements to digital services data between 2009 10 to 2021 22. The 2022 23 revision was driven by the incorporation of the latest Supply Use benchmark.
+Revisions to HFCE on goods for recreation and culture in chain volume measures are shown in Figure 7. 
+HFCE on goods for recreation and culture revisions were driven by the improvements to digital services data between 2009 10 to 2022 23.
+Revisions to HFCE on services for recreation and culture in chain volume measures are shown in Figure 8.
+HFCE on services for recreation and culture revisions were driven by the improvements to digital services data between 2012 13 to 2022 23.

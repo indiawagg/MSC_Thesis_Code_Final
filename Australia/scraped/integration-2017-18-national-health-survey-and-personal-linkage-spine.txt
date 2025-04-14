@@ -1,0 +1,57 @@
+Date:
+2020-12-04
+Article Title:
+ Integration of the 2017-18 National Health Survey and the Personal Linkage Spine
+
+Article Content:
+The 2017 18 National Health Survey (NHS) is an Australia wide health survey conducted by the Australian Bureau of Statistics (ABS). The 2017 18 NHS collected information about the health of Australians, including: 
+The survey was conducted from July 2017 to June 2018, and included around 21,000 people in more than 16,000 private dwellings. More information is available in the publication . 
+  prevalence of long term health conditions; 
+  health risk factors such as smoking, overweight and obesity, alcohol consumption and physical activity; 
+  demographic and socioeconomic characteristics;
+  geospatial data; and
+  information on the health literacy of respondents.
+The Multi Agency Data Integration Project (MADIP) is a partnership among Australian Government agencies to develop a secure and enduring approach for combining information on healthcare, education, government payments, personal income tax, and population demographics (including the Census) to create a comprehensive picture of Australia over time.
+Information is combined via linking person level datasets to the Person Linkage Spine (the ‘spine’), a key piece of linking infrastructure that serves as a base dataset representing the ‘ever resident’ population of Australia. For more information on the Person Linkage Spine, how it was built and an assessment of its quality, see the paper Person Linkage Spine Methodology and Quality Assessment (available on request from ).
+Integration of the 2017 18 NHS dataset with the Spine and MADIP analytical data has a strong public benefit as it enables rich insights to help provide better health care. The high level policy issues that can be informed by this data source include:
+  the connection between people’s lifestyles, risk factors and health conditions and their service use and benefits paid;
+  the impact of health status and health conditions on social and economic participation;
+  the extent to which use of pharmaceuticals and medical services are consistent with appropriate pathways of care and meet clinical needs;
+  patterns of use of healthcare services for different patient cohorts;
+  quality and safety of services provided; and
+  validation of models for provision of care.
+The ABS actively considers and manages the privacy impacts of this linkage.  Two relevant Privacy Impact Assessments have been undertaken   Linkage of the National Health Survey with MADIP and the 2019 MADIP PIA Update.  Both can be found .
+The scope of the 2017 18 NHS included urban, rural and remote areas in all states and territories while very remote areas of Australia and discrete Aboriginal and Torres Strait Islander communities were excluded. Non private dwellings such as hotels, motels, hospitals, nursing homes and short stay caravan parks were also excluded from the survey. 
+Additionally, the following groups were excluded from the scope:
+Some of the 25,109 dwellings initially selected at random to take part in the NHS 2017 18 survey were later excluded. For example, vacant or derelict buildings, or buildings under construction were excluded. All persons in the remaining selected dwellings were screened for eligibility to take part in the rest of the survey. This included collecting some demographic information. This population forms the 2017 18 NHS dataset for linking which consists of 42,331 person records and is referred to in this report as ‘all persons’. Within each selected dwelling, one adult (18 years and over) and one child (0 17 years) were randomly selected for inclusion in the survey. This group is referred to as ‘selected persons’ in this report and consists of 21,315 records.  
+The scope of this report has been limited to selected persons, as that is who detailed health information relates to.
+  certain diplomatic personnel of overseas governments, customarily excluded from the Census and estimated resident population;
+  people whose usual place of residence was outside Australia;
+  members of non Australian Defence forces and their dependents stationed in Australia; and
+  visitors to private dwellings.
+The spine used in this linkage consists of 35,253,568 person records and includes persons who were active in any of the following datasets:
+All spine person records were used in the linkage.
+  Medicare Consumer Directory (MCD) during the period January 2006 to June 2019;
+  Personal Income Tax (PIT) having received a payment summary and/or completed an income tax return during the 2006 07 to 2018 19 financial years; and
+  DOMINO Centrelink Administrative data during the period January 2006 to June 2019.
+The overall data quality of the 2017 18 NHS was considered sufficient to achieve a high linkage rate with minimal false links. In particular, the high quality of address data compensated for the lower quality of surname and date of birth data.
+The variables used for linking were anonymised name, anonymised address, date of birth, sex and country of birth. Addresses are converted to an Address Register ID¹, which is then anonymised before being used for linking. Using anonymised name and address protects the confidentiality of these variables while allowing records to retain a significant level of uniqueness in linkage.
+There are a number of metrics that can be used to assess dataset quality, including rates of data missing from the dataset (‘missingness’). The ABS calculated missingness rates for the key linking variables of first name, surname, date of birth, address, sex and country of birth within the 2017 18 NHS dataset. Missingness was found to be low across all the relevant variables, except for date of birth and surname (see Table 1). Missingness rates for the spine are available in the paper Person Linkage Spine Methodology and Quality Assessment (available on request from ).
+There were no duplicate records identified in the 2017 18 NHS dataset.
+The 2017 18 NHS linkage was completed using deterministic linkage. Deterministic linkage involves locating record pairs across the two datasets that match exactly or closely (according to pre defined rules) on common variables. The deterministic linkage employed here was designed using a four stage approach. The matching rules and criteria were gradually broadened with each stage to tolerate greater differences in a field or expanding the geographic area in which a match can occur. 
+An approximate link quality measure was assigned by assuming a relationship between the linking evidence and resulting link quality. Quality measures were applied to the file at the completion of the linkage. Quality 1 and 2 links are considered to be of very good quality and can be included with confidence in most analyses.  Quality 3 links are considered to be of good quality and can be used in aggregate analyses, though should be used with caution for small population groups. Quality 4 links are lower quality links and should be used with caution. In addition, analysts can perform sensitivity tests understand the impacts of excluding/including these links for specific analysis.
+Consideration of the quality flag can be useful in evaluating the suitability of 2017 18 NHS MADIP linked data, especially for analyses of unusual subpopulations. 
+The linkage quality flag is not a standard item on the 2017 18 NHS linkage dataset. To request it please contact: .
+A total of 19,692 links were achieved for Selected Persons; this resulted in a linkage rate of 92.4%. The links formed in Stage 1 were very high quality and agreed exactly on cleaned first name, cleaned surname, date of birth, and ARID or mesh block (sex was also used in some passes). The proportion of total links for Selected Persons in each stage is presented in Table 2. More than half of all links were assigned Quality 1 or Quality 2.
+Linkage rates by sex, age and state (as reported in 2017 18 NHS) are presented in Table 3. High linkage rates were achieved across almost all demographics, with a lower rate only for persons living in the Northern Territory.
+As the 2017 18 NHS is a sample survey, the 2017 18 NHS survey weights are available for use with the linked file. The 2017 18 NHS file (21,315 selected persons) was benchmarked to the estimated resident population living in private dwellings in non Very Remote areas of Australia at 31 December 2017. These benchmarks exclude persons living in discrete Aboriginal and Torres Strait Islander communities. The benchmarks will not match estimates of the total Australian resident population (which include persons living in Very Remote areas or in non private dwellings, such as hotels). For further information on the 2017 18 NHS weighting, see the Weighting, Benchmarking and Estimation section of the  of the .
+It was decided to not provide any additional linkage weight for the file to account for linkage rates. The reasons for this are:
+  The overall linkage rate was 91.9% for All Persons and 92.4% for Selected Persons, and this high linkage rate was relatively consistent across demographic groups. This means that weights would be adjusted by a relatively small amount from their original value.
+  There are practical complexities in creating a set (or sets) of weights that are suitable and easy to use for the wide variety of possible MADIP projects, where each would have a varying number of NHS records included depending on which datasets are included in that project, and the aims of the project.
+The ABS provides access to de identified microdata for authorised researchers through its DataLab. The DataLab is designed for high end users to undertake complex analysis of microdata. The ABS manages access to integrated data by using the  – an internationally recognised approach to managing disclosure risk. 
+The  outlines the process and limitations of using Microdata. 
+Access to the integrated data is possible where the research need is for data broader than that collected in the 2017 18 NHS. As an example, to gain insights on the health of people receiving Government benefits, data items about the self assessed health status and long term health conditions of people from the 2017 18 NHS could be linked with payment information from DOMINO Centrelink Administrative Data.
+Where data requirements can be satisfied by just the 2017 18 NHS, integrated data will not be approved for use.   from the 2017 18 NHS is available for analysis in a number of forms.
+Statistics generated using all linked and unlinked 2017 18 NHS data  will match those generated using the 2017 18 NHS Detailed Microdata . As explained on the , microdata are confidentialised to protect the privacy of survey respondents. For this reason, it may not be possible to reconcile all statistics produced from 2017 18 NHS data in MADIP with published statistics or ABS TableBuilder.  
+Statistics generated using only the 2017 18 NHS linked records within MADIP will not match other 2017 18 NHS data or pooled smoking data, as not all 2017 18 NHS records were linked.
+1. The ABS Address Register provides a comprehensive list of all physical addresses in Australia and includes an Address Register ID (ARID) for each physical address.

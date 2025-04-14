@@ -1,0 +1,33 @@
+Date:
+2021-01-21
+Article Title:
+ Underemployment: Reduced hours or prefers more hours
+
+Article Content:
+After a large increase early in the COVID 19 period, underemployment has reduced to near pre COVID levels. Between March and April, in original terms, the number of underemployed people increased by over 620,000 to 1.8 million. It has since declined, and was 1.25 million in December, a decrease of around 40,000 from November. The underemployment rate was 9.0% in December, after peaking at 13.6% in April (in original terms).
+The official measures of the number of underemployed people, and the underemployment rate, are comprised of two discrete groups of employed people:
+As the nature of the underemployment of these two groups of people is quite different (i.e. hours preferences, or involuntary hours reductions), there can be different patterns over time for these two 'components' of the underemployed. This is particularly evident over the COVID 19 period, and when comparing this period to other economic downturns.
+Chart 1 shows the number of underemployed people, and the part time and full time components of the underemployed (i.e. part time employed who would prefer to work more hours, and full time employed who worked less than 35 hours). These are presented in original terms, as the data for the components are not seasonally adjusted.
+  part time employed people who would prefer to work more hours, and were available to do so; and
+  full time employed people who worked part time hours (i.e. less than 35 hours) in the reference week for economic reasons.
+Chart 2 shows the underemployment rate, and the underemployment rates for the two groups (i.e. part time employed who would prefer to work more hours as a proportion of the labour force, and full time employed who worked less than 35 hours as a proportion of the labour force) from January 1991 to December 2020.
+In original terms, the underemployment rate increased from 8.6% to 13.6% between March and April, before declining steadily to 9.0% in December. This initial increase, and subsequent decrease, was largely driven by changes in the full time component, highlighting both the large impact seen in hours worked as a result of people being stood down, as well as indicating COVID had a minimal impact on the preferences of part time employed people for more hours.
+This is in contrast to previous economic downturns, where increases in underemployment were driven by increases in part time underemployment (i.e. part time employed people wanting more hours).
+During, and following, the recession of the early 1990s, the underemployment rate increased from 5.2% in January 1991 to a high of 7.3% in December 1992. While the part time underemployment rate had a very similar increase, the full time underemployment rate decreased over the same period. Between September 2008 and February 2009, when the underemployment rate increased by 2.3 pts (from 5.3% to 7.6%), the part time underemployment rate increased by 1.8 pts from 4.5% to 6.3%. There was a much smaller increase in the full time underemployment rate.
+The impacts of the economic downturns on the labour market resulted in distinct structural shifts in the underemployment rate in both the early 1990's recession and the Global Financial Crisis. However, as seen in Chart 2, these structural changes are only evident in underemployment of part time employed people. The increase in part time underemployment driven by these economic downturns became a permanent shift, with part time underemployment not returning to pre downturn levels.
+The increases in part time underemployment reflect the increasing share of part time employment in the labour market, as well as the increasing prevalence of underemployment amongst part time workers.
+In addition to the two groups highlighted earlier, there are additional group of employed people who work less than their usual hours for economic reasons or have a preference for more hours. These are:
+The addition of these three groups to the underemployed measure comprise the expanded measure of underemployment. Data on these people are available monthly in .
+Chart 3 shows the underemployment rate, and the expanded underemployment rate which includes all employed people who either worked less than their usual hours for economic reasons or would prefer (and are available) to work more hours (regardless of the number of hours they usually work).
+  part time employed who worked less than their usual hours, for economic reasons;
+  full time employed who worked less than their usual hours for economic reasons, but still worked 35 hours or more; and
+  full time employed who would prefer (and are available) to work more hours.
+Chart 4 shows the number of part time and full time people who worked less than their usual hours for economic reasons. Of the over 460,000 employed people who worked less than their usual hours for economic reasons in December:
+While the number of part time employed who worked less than their usual hours for economic reasons is generally higher than full time employed, in April and May it was higher for full time employed.
+ 
+  237,900 were employed part time;
+  157,200 were employed full time, but worked less than full time hours (less than 35 hours) in the reference week; and
+  66,500 were employed full time and still worked full time hours (but less than their usual hours).
+Chart 5 shows that there are over 1.6 million employed people who would prefer and are available to work more hours. While underemployment is often associated with people working part time hours, there are a large number of people (over half a million) who, although working full time, would still like more hours.
+ 
+For further information, email .

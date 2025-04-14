@@ -1,0 +1,67 @@
+Date:
+2023-11-13
+Article Title:
+ Digital platform workers in Australia
+
+Article Content:
+The Australian Bureau of Statistics (ABS), like most national statistical organisations, is working to expand its statistics on relatively new and emerging forms of employment, including digital platform workers.
+While digital platform workers and their work have always been included within existing labour statistics on employment and hours, they are a relatively small group of workers who have not been separately identifiable.
+The majority of digital platform workers appear within existing data as independent contractors, using a registered Australian Business Number, but are difficult to distinguish from other self employed people without employees.
+Digital platform work is defined as work that is "…performed through an online tool or an app that matches supply and demand for employment, most often based on an algorithm" (). This new form of employment is something that other international statistical agencies have also been grappling with measuring and defining. In recent years, there have been several international handbooks addressing the classification and measurement of people undertaking digital platform work and other new forms of employment ( and ).
+Digital platform work is a relatively new form of digitally enabled employment but it also shares common elements with older forms of short term employment, that have always existed. For example, a digital platform task offering short term passenger transport is similar to tasks that a traditional taxi driver would perform. Many occupations can therefore potentially include a combination of longstanding forms of employment, together with new and emerging forms, including digital platform work.
+Exploring the measurement of digital platform workers, and their working arrangements, was undertaken to provide insights into the extent to which this working arrangement is used in Australia, how this type of work is changing over time, the nature of digital platform work, and the characteristics of digital platform workers.
+The ABS developed an initial framework to measure digital platform work and workers, which was included in public consultation materials and also included in the . The framework shows how the ABS has defined and scoped digital platform work and the classification of tasks undertaken by people who are paid per task.
+The framework acknowledges that the ‘gig economy’ is a broad term that is generally used to describe a wide range of activities, from buying and selling goods to providing short term labour services, such as providing care. However, most of the recent and current interest, from a labour statistics perspective, has been on the supply of labour services through digital platforms.
+In these initial experimental estimates, the ABS has therefore defined and scoped digital platform work in the following way: "the provision of fixed duration labour services, in the form of tasks/jobs which are accessed by the worker through digital platforms and are paid per unit of work delivered through the same platform". 
+The ABS developed an initial experimental survey module on digital platform workers, which was collected through the  during the 2022 23 financial year. The MPHS, undertaken each financial year by the ABS, is a supplement to the monthly Labour Force Survey (LFS) for the outgoing survey rotation group each month, and is designed to collect statistics for a number of small, self contained topics.
+As with all sample surveys, there is a level of sampling error associated. This experimental survey data should be considered in the context of having high relative standard errors, highlighting the challenges of collecting survey data from a relatively small population group.
+The survey reference period is also important to note. For these initial estimates a limited reference period was intentionally used, looking at the previous four weeks, and with a range of questions asked in respect of a specific reference week, to ensure closer alignment with other labour statistics (noting that Labour Force and other related statistics are in respect of a reference week). This approach does not account for those who undertake this work less regularly and had not worked in the reference period, or those who work in a more sporadic or ad hoc way. Additional questions that were added for the 2023 24 financial year will expand the initial statistics to also cover this work, to produce statistics for multiple reference periods. 
+In 2022 23, the proportion of people who reported undertaking digital platform work (in the last 4 weeks) was relatively small, at just under 1% (0.96%), of the employed population.
+These results are similar to those seen in other OECD countries, and also similar to those identified in the 2022  report, with 0.8% of the population identified as undertaking digital platform work (in the last 4 weeks) in Australia. That data collection was undertaken in 2020, with the COVID 19 pandemic likely impacting the way people were working.
+In the ABS data, not all digital platform workers considered themselves employed. Only 87% of digital platform workers reported their Labour Force Status as employed, with the remainder reporting they were either ‘Not In The Labour Force’ (10%) or ‘Unemployed’ (3%). This shows that digital platform work is commonly viewed as a “side hustle”, rather than a “job” (or every digital platform worker would have indicated that they had a job when answering the core Labour Force Survey questions). This has also been seen in other countries, such as Finland, who didn't only ask the questions of employed people, and also seen in the under reporting of multiple job holding by employed people.
+Digital platform workers make up a very small proportion of the employed population, increasing the challenge of obtaining detailed characteristic information about these workers. However, the ABS recognises that there is limited data available on digital platform workers in Australia and any data provides important insights, but recommends caution in trying to disaggregate data to a fine level of detail.
+For those undertaking digital platform work:
+  the majority were male (66%), representing a higher proportion of males than in the total employed population (52%)
+  the average age was 38 years for males, compared to 36 years for females
+  there was a large proportion of people between the ages of 25 to 34 years (30% compared to 23% in the total employed population).
+In 2022 23, the most popular digital platform tasks undertaken included:
+Of all digital platform workers, males were more likely to undertake transport and food delivery tasks (46%) and females were more likely to undertake food delivery and other tasks (18%). The task type ‘other’ was undertaken by 10% of digital platform workers and includes a broad range of tasks beyond the most common types (such as responding to voluntary surveys and market research).
+  food delivery (35%)
+  personal transport (27%).
+For those undertaking digital platform work:
+  53% undertook this work in addition to their main job, though only 11% reported that they were multiple job holders in the Labour Force Survey
+  the proportion of multiple job holders is higher than the  in the employed population.
+For those undertaking digital platform work:
+  household composition is consistent with the broader employed population, with a slightly higher share of less common household types.
+For digital platform workers in Australia:
+  the majority were Australian citizens (69%), though this share was less than their share of total employment 
+  temporary residents were a relatively small share (10%), though larger than their share of total employment.
+For digital platform workers:
+  the majority were not undertaking any part time or full time study (79%)
+  this was lower than the broader population (89%), suggesting that students are slightly more likely to be digital platform workers.
+For digital platform workers in the reference week:
+  The majority undertook less than 10 hours of paid per task work (53%)
+  the average paid hours worked was 17.7 hours, while the median was 10 hours
+  slightly more than half (55%), did some unpaid hours of work related to digital platform work
+  33% completed between 1 and 4 hours of unpaid work.
+When digital platform workers were asked about the type of work they would prefer:
+  around a third (37%) would prefer a combination of digital platform work and wage based employment
+  female digital platform workers were more likely to indicate a preference for 'only wage based employment' compared to males (42% and 19%).
+For those undertaking digital platform work:
+  the main motivation was to supplement income (54%)
+  following income, flexible working hours was the next most popular motivation for males (13%) and interest in the work, for female workers (7%).
+For those undertaking digital platform work:
+  the majority (50%) had been undertaking this work for less than one year
+  a small proportion (33%) had been undertaking this work for 2 years or more.
+The ABS will expand the content collected on digital platform work in 2023 24, building on the initial measurement approach and initial experimental estimates.
+The ABS will broaden the reference period to cover those undertaking digital platform work less frequently and will also ask about other members of the household working in this way.
+A public consultation process in 2022 also identified the following additional content, which is being progressively collected from July 2023 to June 2024
+Further experimental estimates will be released in late 2024 that will include information from this expanded content, as part of an annual release approach.
+Due to the limited sample size, the ability to produce disaggregated or customised data insights will be limited.
+The ABS will continue to examine other potential complementary data sources to inform the evolutionary approach to measuring digital platform work and workers.
+Any additional feedback is welcome by contacting us at measuring.employment.consultation@abs.gov.au.
+  Additional information collected about caring and delivery work to better understand these tasks
+  information on working conditions and whether the digital platform sets hours and rates of pay
+  information on workplace accidents and perceptions of safety, and
+  insurance coverage for work related accidents.
+14 November 2023: Commentary for hours worked was updated to clarify those referenced in undertaking between 1 and 4 hours of unpaid work.

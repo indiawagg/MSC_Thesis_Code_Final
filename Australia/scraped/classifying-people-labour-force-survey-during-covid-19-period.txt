@@ -1,0 +1,28 @@
+Date:
+2020-04-16
+Article Title:
+ Classifying people in the Labour Force Survey during the COVID-19 period
+
+Article Content:
+This article explains how people will be classified in Labour Force statistics under some scenarios of particular importance during the COVID 19 period.
+It's important to note that:
+The ABS will update this information if new scenarios emerge or the conditions of existing scenarios change over the course of the COVID 19 pandemic.
+  this approach to classifying people is consistent with the long standing concepts and practices used in the Labour Force Survey; and
+  the  has not been changed.
+People who are paid through the JobKeeper scheme will be classified as employed, regardless of the hours they work (e.g. even if they are stood down).
+Under the JobKeeper program, eligible businesses and not for profit organisations affected by COVID 19 can elect to receive a payment to support their employment of eligible employees. Some self employed people are also eligible to receive the JobKeeper payment.
+Employers will continue to pay these employees a wage, with the JobKeeper payments made to reimburse the employer for the wages they have paid their eligible employees. 
+People who receive the JobSeeker or other similar government payments are not necessarily classified as unemployed (just as those classified as unemployed are not necessarily going to also be in receipt of a government payment).
+The JobSeeker payment is paid to people who are looking for work or are sick or injured and can not undertake their usual work or study for a short time, and who meet the eligibility requirements. People can also receive the JobSeeker payment if they have a job, if they meet a low income test. Recent changes to the JobSeeker program as result of COVID 19 also mean that recipients do not have to meet the usual mutual obligation requirements (such as looking for work).
+To be classified as unemployed in Labour Force statistics, a person must:
+People who were waiting to start a new job within four weeks from the end of the reference week and could have started in the reference week if the job had been available then are also classified as unemployed.
+  have actively looked for full time or part time work in the last four weeks; and
+  be available for work in the reference week.
+A person will be classified as employed if they:
+If a person is away from their job for one month or more without pay, or they believe they no longer have a job to be absent from, they will be classified as:
+It is important to note that there will be a range of ways in which people will have been stood down without work as a result of COVID 19. Some may be stood down with pay, some through paid leave (e.g. long service leave, annual leave, etc) and some without pay. Some people will perceive that they still have a job (but just no hours at the moment), while others will consider they have lost their job. The questions that we ask in the Labour Force Survey will be able to capture this, and support the ABS to use the above approach to classifying people.
+  had taken any kind of paid leave;
+  were away from their job for any reason (e.g. they were stood down), and were paid for some part of the previous 4 weeks (including through the JobKeeper scheme); or
+  were away from their job for four weeks or less for any reason, without pay, but believe they still have a job to go back to (e.g. they were stood down, with no pay).
+  unemployed   if they have actively looked for work, and are available to start work; or
+  not in the labour force   if they have not looked for work and/or are not available to start work.

@@ -1,0 +1,36 @@
+Title: Inflatie in januari 3,2 procent bij snelle raming; 3,5 procent exclusief energie
+Date: 2024-02-01 05:30:00 UTC
+
+Lead Text:
+                Bij de snelle raming was de inflatie in januari 3,2 procent, meldt het CBS. Deze raming is berekend op basis van nog onvolledige brongegevens. In december was de inflatie 1,2 procent. De inflatie wordt elke maand gemeten als de ontwikkeling van de consumentenprijsindex (CPI) ten opzichte van dezelfde maand in het voorgaande jaar. 
+            
+
+Article Content:
+            De CPI geeft ook inzicht in de prijsontwikkeling ten opzichte van een maand eerder. Volgens de snelle raming waren prijzen voor consumenten in januari 0,5 procent hoger dan in december.
+
+De prijsontwikkeling van energie heeft al geruime tijd een grote invloed op het verloop van de inflatie. In januari 2024 nam de invloed van de prijsontwikkeling van energie op de inflatie af. Exclusief energie bedroeg de inflatie bij de snelle raming 3,5 procent. In december was dat 3,4 procent. 
+
+De reguliere cijfers van de CPI van januari worden op 8 februari gepubliceerd.
+
+
+Prijsontwikkelingen op korte termijn
+De CPI geeft niet alleen inzicht in de prijsontwikkeling ten opzichte van een jaar geleden (de inflatie), maar ook ten opzichte van de voorgaande maand. Bij de snelle raming stegen de prijzen voor consumenten in januari 2024 met 0,5 procent ten opzichte van december 2023.
+
+Een kanttekening bij een vergelijking tussen twee verschillende maanden in het jaar is dat rekening moet worden gehouden met de invloed van het seizoen. Zo zijn bijvoorbeeld vliegtickets in vakantiemaanden duurder dan in maanden buiten het vakantieseizoen. De prijzen zijn dan tijdelijk hoger, maar dit is geen structurele prijsstijging. Door deze seizoensinvloeden zijn ontwikkelingen maand op maand vaak volatieler dan ontwikkelingen jaar op jaar.
+Created with Highcharts 7.0.32015=100Consumentenprijsindex (CPI)Jan2022FebMrtAprMeiJunJulAugSepOktNovDecJan2023FebMrtAprMeiJunJulAugSepOktNovDecJan2024100105110115120125130135
+Invloed prijsontwikkeling energie op inflatie neemt af
+De prijsontwikkeling van energie (gas, elektriciteit en stadsverwarming) had geruime tijd een grote invloed op de inflatie. In de loop van 2022 namen de energieprijzen in de CPI fors toe. Mede daardoor was er in die periode een hele hoge inflatie. Vanaf januari 2023 zorgde onder meer het prijsplafond voor lagere energieprijzen. De inflatie viel mede hierdoor in 2023 juist lager uit. Doordat de invoering van het prijsplafond in januari precies een jaar geleden was, en de inflatie wordt gemeten als de ontwikkeling van de prijzen ten opzichte van dezelfde maand in het voorgaande jaar, nam in januari 2024 de invloed van de prijsontwikkeling van energie op de inflatie af.
+
+Voor het meten en verwerken van de energieprijzen in de CPI gebruikt het CBS vanaf juni 2023 een nieuwe methode. Op 30 juni publiceerde het CBS waarin het in meer detail uitlegt wat de overstap betekent voor de CPI, de inflatie en het gebruik van de CPI voor indexeringsdoeleinden.
+Prijsontwikkeling productgroepen
+Bij de snelle raming maakt het CBS naast het inflatiecijfer ook de prijsontwikkeling van een aantal productgroepen bekend. Deze productgroepen zijn samentellingen van bestedingscategorieën op een bepaald thema, zoals alle diensten. Op 8 februari wordt van alle categorieën in de CPI de prijsontwikkeling gepubliceerd.
+
+
+Snelle raming HICP
+Het CBS publiceert sinds 1996 twee verschillende cijfers voor inflatie. Een op basis van de consumentenprijsindex (CPI), en een op basis van de Europees geharmoniseerde consumentenprijsindex (HICP). De snelle raming van de inflatie in Nederland volgens de HICP was in januari 3,1 procent. In december was de inflatie 1,0 procent. 
+
+Om de inflatie tussen landen te kunnen vergelijken, berekenen de lidstaten van de Europese Unie (EU) een consumentenprijsindex volgens internationaal afgesproken definities en methoden. Eurostat berekent op basis van de HICP-cijfers van alle EU-landen de inflatie voor de eurozone en de Europese Unie. De Europese Centrale Bank gebruikt de HICP voor het monetaire beleid in de eurozone. Daarnaast maken de meeste landen nog een eigen, nationale prijsindex. 
+
+Het belangrijkste verschil tussen de CPI en de HICP voor Nederland is dat de HICP, in tegenstelling tot de CPI, geen rekening houdt met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. Dit is echter niet het enige verschil. In een publicatie worden deze verschillen verder toegelicht.
+
+

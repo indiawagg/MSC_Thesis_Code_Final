@@ -1,0 +1,21 @@
+Date:
+2023-03-23
+Article Title:
+ Charts on casual employment, occupation, industry and job mobility, February 2023
+
+Article Content:
+This article includes information on casual employment, occupation, industry and job mobility. It follows previous similar articles during the COVID period, including:
+These can all be found in the Labour Force, Australia .
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Information in this article refers to a person’s ‘main job’, based on questions that are asked in the Labour Force Survey in February, May, August and November.
+  Insights into Industry and Occupation (, )
+  Insights into casual employment, occupation and industry ()
+  Charts on casual employment, occupation and industry (, , ,  , and )
+  Insights into job mobility from quarterly Labour Force statistics (first in a non quarter month , and then in ).
+  Charts on casual employment, occupation, industry and job mobility ( and then in ).
+Previous iterations of this article have focussed on COVID 19 related impacts on casual employment and hours worked patterns during the pandemic. As of February 2023, people have generally been able to work their normal hours without any major disruptions, such as widespread sickness or natural disasters.
+Chart 1 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020.  Casual employment is now at similar levels to those seen prior to the pandemic. Non casual employment has grown steadily and is now 10.3% above the pre pandemic level, thus driving the majority of employment growth, particularly in recent quarters.
+Chart 2 shows a fall in the total weekly hours worked by casual employees, in line with the fall in casual employment between November 2022 and February 2023, while the average weekly hours worked remained steady and slightly above pre pandemic levels.
+Chart 3 shows changes in employment and average hours worked in each of the major groups of occupations from November 2022 to February 2023. 
+Chart 4 shows changes in employment and average hours worked in each of the industry divisions from November 2022 to February 2023.
+Chart 5 shows the reasons people left or lost a job in the past three months. In February, the number of people who indicated they left a job in the past three months for a ‘better job’ or ‘wanted a change’ increased by around 14,200 to 343,200 people. This follows the first fall (November 2022) since the early stages of the pandemic.

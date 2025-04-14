@@ -1,0 +1,20 @@
+Date:
+2024-11-12
+Article Title:
+The Daily — Leading indicator of international arrivals to Canada, October 2024
+Article Content:
+Released: 2024 11 12
+In October, the preliminary number of international arrivals to Canada by air and automobile reached 5.3 million, up 4.9% from October 2023. 
+By air, the number of non resident arrivals in Canada totalled 753,500 in October 2024, up 1.2% year over year. Meanwhile, the number of Canadian resident return trips from abroad by air reached 1.5 million, a 4.5% increase from October 2023. 
+By automobile, US residents took 1.0 million trips to Canada in October 2024, up 10.3% from the same month in 2023. The number of Canadian resident return trips from the United States by automobile also rose, up 4.0% year over year to reach 2.0 million trips in October 2024.
+All statistics in this release are based on the primary data sources for air and automobile arrivals (see Note to readers). To further explore current and historical data in an interactive format, please visit the Frontier Counts: Interactive Dashboard.
+In October, non resident arrivals in Canada by air totalled 753,500, up 1.2% year over year. These include arrivals by US residents (384,000) and residents of countries other than the United States (369,400). The highest number of non resident arrivals per day (34,800) was observed on October 11, the Friday before Thanksgiving in Canada and Columbus Day in the United States.
+When data from Toronto Pearson International Airport Terminal 1 are excluded from the total arrivals (see Note to readers), non resident arrivals in October represented 95.8% of the volume in October 2019, before the COVID 19 pandemic (Chart 1).
+In October 2024, Canadian resident return trips by air stood at 1.5 million, up 4.5% from the same month one year earlier. The highest number of arrivals per day (62,100) was observed on Sunday, October 20, surpassing the daily average of the remaining three Sundays of the month by 9.6%.
+When arrivals at Toronto Pearson International Airport Terminal 1 are excluded from the total arrivals (see Note to readers), the number of return trips in October was 16.5% higher than the number of trips recorded in October 2019, before the pandemic (Chart 2).
+In October 2024, the number of US resident trips to Canada by automobile was 1.0 million, up 10.3% from the number observed in the same month of 2023. There were 82,000 US resident arrivals on October 11, 2024, the Friday before Columbus Day and Thanksgiving. This surpasses the daily average observed for the rest of the month by 156.7%. 
+The total number of US resident arrivals in Canada by automobile in October represented 97.5% of the level observed in October 2019 (Chart 3). 
+In October 2024, the number of Canadian resident return trips from visits to the United States by automobile totalled 2.0 million, an increase of 4.0% compared with the same month one year earlier. On Thanksgiving, October 14, the highest number of trips (159,600) was observed, surpassing the daily average for the rest of the month by 160.5%. 
+In October, the number of Canadian resident return trips by automobile reached 94.2% of the number of trips observed in the same month in 2019 (Chart 4).
+The product "Frontier Counts: Interactive Dashboard," part of the Data Visualization Products series (Catalogue number71 607 X), is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

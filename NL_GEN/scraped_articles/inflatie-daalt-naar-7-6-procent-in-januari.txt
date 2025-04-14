@@ -1,0 +1,39 @@
+Title: Inflatie daalt naar 7,6 procent in januari
+Date: 2023-02-09 05:30:00 UTC
+
+Lead Text:
+                Consumentengoederen en -diensten waren in januari 7,6 procent duurder dan in dezelfde maand een jaar eerder, meldt het CBS. In december was de inflatie 9,6 procent. Vooral het prijsplafond op energie zorgde voor de daling van de inflatie.
+            
+
+Article Content:
+Het CBS publiceert naast het algemene inflatiecijfer maandelijks ook wat de inflatie is exclusief de prijsontwikkeling van energie (gas, elektriciteit en stadsverwarming) en brandstof. In januari waren consumentengoederen en –diensten exclusief energie en motorbrandstoffen 7,7 procent duurder dan in dezelfde maand vorig jaar. In december was de prijsstijging op jaarbasis 7,5 procent.
+De inflatie wordt elke maand gemeten als de stijging van de consumentenprijsindex (CPI) ten opzichte van dezelfde maand in het voorgaande jaar. De CPI geeft het prijsverloop weer van een pakket goederen en diensten zoals dit gemiddeld wordt aangeschaft door de Nederlandse huishoudens. Een inflatie van 7,6 procent in januari 2023 betekent dat de prijzen van consumentenproducten 7,6 procent hoger zijn dan in januari 2022. De inflatie van 7,6 procent in januari komt dus niet bovenop de inflatie van 9,6 procent in december.
+
+
+Lagere inflatie door prijsplafond
+Vanaf 1 januari 2023 geldt er een prijsplafond op energie. Huishoudens betalen in 2023 tot een bepaald jaarverbruik niet meer dan een maximale prijs voor gas (1,45 euro per m3), elektriciteit (0,40 euro per kWh) en stadsverwarming (47,38 euro per GJ). Het prijsplafond zorgde voor een daling van de inflatie. In januari 2023 was energie 3,4 procent goedkoper dan in dezelfde maand vorig jaar. In december 2022 was energie nog 52 procent duurder dan een jaar eerder.
+In het najaar van 2022 kondigde het kabinet twee maatregelen aan om de energiekosten van huishoudens te verlagen: de tijdelijke maatregel voor tegemoetkoming in de energieprijzen en het prijsplafond op energie. De tegemoetkoming, die in november en december 2022 is uitgekeerd, wordt gezien als een inkomenssteun en heeft daarom geen invloed op de CPI. Het prijsplafond per januari 2023 heeft wel een directe invloed op de prijs van geleverde elektriciteit of gas en wordt daarom meegenomen in de CPI. Dit wordt verder toegelicht in het artikel 'Uitwerking van energiemaatregelen in de CPI'.
+
+
+Onderzoek naar energieprijzen
+Energie levert een belangrijke bijdrage aan de totale inflatie. De prijsontwikkeling van energie wordt gemeten op basis van nieuwe contracten. Een deel van de huishoudens heeft echter een bestaand contract voor gas en elektriciteit. Het CBS onderzoekt nieuwe methoden voor het meten en berekenen van de energieprijzen in de CPI en HICP, waarbij actuele ontwikkelingen van energieprijzen verfijnder in kaart worden gebracht. Eind oktober zijn  gepubliceerd. Op 2 maart publiceert het CBS een nieuwe update van dit onderzoek.
+Lagere prijsstijging kleding
+Naast energie had ook de prijsontwikkeling van kleding een neerwaarts effect op de ontwikkeling van de inflatie. Kleding was in januari 9,4 procent duurder dan een jaar eerder. In december was dit 12,3 procent.
+Opwaarts effect kinderopvang, voeding en benzine
+De prijsontwikkeling van kinderopvang had daarentegen een opwaarts effect op de ontwikkeling van de inflatie. Kinderopvang was in januari 6,3 procent duurder dan een jaar eerder. In december was dat 2,2 procent. Ook voeding en benzine hadden een opwaarts effect. De prijsstijging op jaarbasis van voeding nam toe van 17,0 procent in december naar 17,6 procent in januari. Benzine was in januari 8,2 procent goedkoper dan in dezelfde maand vorig jaar, in december was dat 10,3 procent.
+
+
+Inflatie Nederland lager dan eurozone
+Het CBS publiceert sinds 1996 twee verschillende cijfers voor inflatie. Een op basis van de consumentenprijsindex (CPI) en een op basis van de geharmoniseerde index van consumentenprijzen (HICP). Consumentengoederen en -diensten in Nederland waren volgens de HICP in januari 8,4 procent duurder dan in dezelfde maand een jaar eerder, in december was dat 11,0 procent. De inflatie in de eurozone daalde van 9,2 procent in december naar 8,5 procent in januari. De inflatie in Nederland is daarmee voor het eerst na oktober 2021 lager dan de inflatie in de eurozone.
+
+
+Verschil CPI en HICP
+Om de inflatie tussen landen te kunnen vergelijken, berekenen de lidstaten van de Europese Unie (EU) een consumentenprijsindex volgens internationaal afgesproken definities en methoden. De Europese Centrale Bank gebruikt de HICP voor het monetaire beleid in de eurozone. Daarnaast maken de meeste landen nog een eigen, nationale prijsindex.
+
+Het belangrijkste verschil tussen de CPI en de HICP voor Nederland is dat de HICP in tegenstelling tot de CPI geen rekening houdt met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. Dit is echter niet het enige verschil. In een publicatie worden deze verschillen verder toegelicht.
+Implicaties coronacrisis op de berekening van de inflatie
+Door de overheidsmaatregelen in verband met de coronacrisis zijn sommige diensten na maart 2020 tijdelijk niet of beperkt beschikbaar geweest. Hierdoor zijn voor een deel van deze diensten geen transacties geweest waarvan de prijzen gemeten konden worden. In aansluiting op de richtlijnen van Eurostat heeft het CBS per situatie gekozen voor de meest passende schattingsmethode. In een notitie worden alle keuzes toegelicht en in een maatwerktabel wordt aangegeven per artikelgroep of er een schatting is gemaakt. In januari 2023 werden geen prijzen meer geschat in verband met corona, maar schattingen in dezelfde maand een jaar eerder werken nog wel door in de inflatie van deze maand.
+Dashboard consumentenprijzen
+Het dashboard consumentenprijzen toont de inflatie volgens de consumentenprijsindex (CPI) en voor een aantal groepen consumentengoederen en -diensten. Meer prijsindicatoren zijn te vinden in het prijzendashboard. De persoonlijke inflatiecalculator geeft inzicht in de ontwikkeling van de consumentenprijzen voor een individueel consumptieprofiel.
+
+

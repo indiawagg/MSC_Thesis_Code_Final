@@ -1,0 +1,10 @@
+Date:
+2024-02-12
+Article Title:
+The Daily — Canadian System of Environmental–Economic Accounts: Intensities and demand-based measures for energy and greenhouse gas emissions, 2020
+Article Content:
+Released: 2024 02 12
+In 2020, the average national direct plus indirect intensity of energy use of the Canadian economy as a whole was 4.69 gigajoules of energy per thousand current dollars of output. The corresponding average direct plus indirect intensity for greenhouse gas (GHG) emissions was 0.33 tonnes of carbon dioxide equivalents per thousand current dollars of output. 
+In 2020, household expenditures (43.8%) continued to be the primary driver for total energy use in Canada, a slight decrease from 2019 (44.2%). Demand for international exports accounted for 39.3% of total energy use in 2020, a slight decrease from 39.6% in 2019.
+In 2020, Canada's GHG emissions were largely attributable to direct and indirect emissions resulting from the production of goods and services for international export (44.1%), with household expenditures the second largest driver at 40.0%. Since 2012, exports have surpassed household expenditures as the main driver of GHG emissions in the country.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

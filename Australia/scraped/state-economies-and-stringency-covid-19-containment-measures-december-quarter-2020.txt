@@ -1,0 +1,12 @@
+Date:
+2021-03-03
+Article Title:
+ State economies and the stringency of COVID-19 containment measures, December quarter 2020
+
+Article Content:
+Many states and territories continued to ease containment measures over the December quarter. Victoria began easing stage 4 restrictions from late September, and progressively reduced their stringency. By early November, Victoria’s stringency levels were comparable with other states.
+The Parafield cluster in South Australia, and the Northern Beaches cluster in New South Wales led to the rapid implementation, and subsequent relaxation, of restrictions on the movement of people within jurisdictions. By contrast, previous outbreaks had been characterised by a gradual implementation of progressively stricter containment measures, and gradual relaxation.
+Continuing the analysis published in the , the ABS has applied the methodology developed for the  to each of Australia’s eight states and territories. Eight indices have been produced measuring the stringency of a state government’s response to COVID 19, with a score of 100 indicating a maximum level of restrictions.
+The stringency of each government's response, and subsequent easing of restrictions, had an impact on economic activity in each jurisdiction. State final demand, a measure of consumption and capital expenditure, is the best available indicator of quarterly economic activity for each state or territory. Substantial relaxation of restrictions and resulting changes in consumer behaviour had a positive impact on the consumption of goods and services.
+Household spending makes up the largest share of final demand in each state, and the impact of easing restrictions on movement is also evident here.
+Throughout the pandemic, spending on services across all states and territories was limited by physical distancing requirements and restrictions such as stay at home orders, closures of non essential services, the cancellation of public events, and restrictions on gatherings. As these eased, spending on services increased across all states and territories. For further analysis of household consumption see .

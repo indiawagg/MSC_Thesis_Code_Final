@@ -1,0 +1,10 @@
+Date:
+2024-04-16
+Article Title:
+The Daily — Data availability for Canadian Internet Use Survey: Public use microdata file
+Article Content:
+Released: 2024 04 16
+The public use microdata file from the Canadian Internet Use Survey (CIUS) for the 2022 reference period is now available. Data were collected from December 2022 to April 2023 from approximately 25,100 residents of Canada 15 years of age and older living in the 10 provinces, excluding full time residents (residing for more than six months) of institutions.
+The files include information on Internet access and use, Internet connected smart devices, social connections in the digital age, government online services, e commerce, digital skills, security, privacy and trust, online work and adoption of new digital technologies such as artificial intelligence, digital credentials and cryptocurrencies. Various demographic and socioeconomic variables, available in the CIUS file, make it possible to disaggregate the data and draw a detailed portrait of the Canadian population.
+The product Canadian Internet Use Survey   Public Use Microdata File, 2022 (Catalogue number56M0003X), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

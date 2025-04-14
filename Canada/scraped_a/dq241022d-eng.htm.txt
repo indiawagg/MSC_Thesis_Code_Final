@@ -1,0 +1,15 @@
+Date:
+2024-10-22
+Article Title:
+The Daily — Electric power thermal generating station fuel consumption, 2023 (final)
+Article Content:
+Released: 2024 10 22
+In 2023, electric thermal plants in Canada generated 217.4 million megawatt hours (MWh) of electricity, rising 4.8%, or 9.9 million MWh, from 2022. 
+The incline in electricity generation from thermal plants in 2023 was led by natural gas (+13.8% or +11.5 million MWh), growing to 95.1 million MWh, and uranium (+2.1% or +1.7 million MWh), reaching 84.0 million MWh.
+Natural gas sourced generation as a source of thermal electricity generation continued to grow for the sixth consecutive year in 2023. In Ontario (+23.9% or +4.2 million MWh), natural gas continued to be a reliable source of generation. In recent years, Alberta has reduced its reliance on coal, leading to an increased use of natural gas for electricity generation (+9.1% or +4.7 million MWh) in 2023. Ontario and Alberta made up 81.6% of all natural gas sourced generation in Canada.
+Uranium sourced generation increased in both New Brunswick (+34.1% or +1.2 million MWh) and Ontario (+0.6% or +504,400MWh) in 2023. 
+Ontario's uranium sourced generation edged up, as the return to service of one reactor was offset by maintenance on others. New Brunswick showed a notable increase in 2023 due to the nuclear power station undergoing longer than planned maintenance in 2022.
+Coal generation within Canada decreased to 21.8 million MWh in 2023, down 10.6% or 2.6 million MWh. New Brunswick ( 35.0% or  696,600 MWh), Alberta ( 10.7% or  1.1 million MWh), Saskatchewan ( 7.1% or  602,700 MWh) and Nova Scotia ( 5.6% or  215,200 MWh) showed declines in 2023. Coal continued to be replaced by other sources, such as natural gas and renewable energy sources, in these provinces. For more information, see the release "Electricity supply and disposition, 2023 (final)." 
+In 2023, electricity generation from petroleum products descended 14.4% to 2.9 million MWh. The largest contributor to this decline was Canadian heavy fuel oil, which fell by 31.9% or 331,000 MWh. In 2022, New Brunswick experienced a rise in Canadian heavy fuel oil usage, compensating for declines in other fuels. Canadian heavy fuel oil usage fluctuates on a yearly basis, as it is used as a substitute for other fuels which may have a generation shortfall. In 2023, New Brunswick faced a drop of 41.8%, or 351,300MWh, from Canadian heavy fuel oil. 
+Nationally, natural gas, coal and uranium continued to be the main fuel sources for thermal electrical generation in 2023, making up 92.4% of the total.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,29 @@
+Date:
+2020-05-14
+Article Title:
+ People who lost a job or were stood down: flows analysis, April 2020
+
+Article Content:
+Between the March and April 2020 surveys, Australia experienced unprecedented change in the labour market from restrictions to slow the spread of COVID 19 and government support packages to mitigate its impact on individuals, households and businesses.
+A growing number of people had their hours reduced or were stood down, as social distancing and other business restrictions came into effect. Social distancing rules are likely to have impacted people’s job search activities, while changes to schooling arrangements may have impacted people’s availability for work, or ability to look for work.
+The introduction of the JobKeeper wage subsidy and changes to the JobSeeker program, including changes to the mutual obligations for payment recipients, will also contribute to changes in the labour market responses of people in Australia in April and later months.
+Given these unique labour market conditions, the increase in the unemployed (of around 100,000) and increase in the unemployment rate (1.0 pts) only partially reflect the impact on employment. More significant were the large changes in hours worked (down by 9.2%), the participation rate (down 2.4 pts to 63.5%), the employment to population ratio (down 2.9 pts to 59.6%), the underemployment rate (up 4.9 pts to 13.7%) and the underutilisation rate (up 5.9 pts to 19.9%).
+Had the increase in the number of people who were not in the labour force (489,900) been a further increase in unemployment (that is, if they had been actively looking for work and been available to work) then the number of unemployed people would have increased to around 1.3 million people, and an unemployment rate would have increased to around 9.6%.
+Together these measures highlight a considerable impact on people working in Australia.
+The ABS estimates that a combined group of 2.7 million people were affected by either job loss or having their hours reduced for economic reasons between March and April. This group was much larger than the number of people who gained employment or worked increased hours between March and April, underpinning the net results.
+Of the 2.7 million people who were affected between March and April:
+Of the 1.8 million people who worked fewer than their usual hours, or no hours at all, for ‘economic reasons’:
+The following chart shows that the number of males and females working fewer than their usual hours, or no hours at all, in April 2020 were around 900,000, with a larger rise in the number of females than males.
+  900,000 people were employed in March, but not employed in April; and
+  1.8 million people worked either fewer than their usual hours, or no hours at all, for ‘economic reasons’ (that is, they were stood down, there was insufficient work or no work available).
+  over 750,000 did not work at all; and
+  over 1 million did some work, but worked fewer hours than usual.
+The 900,000 people who moved out of employment between March and April is considerably larger than the average number of people who have generally left employment each month over the last three years (around 300,000 people). Interestingly, around 300,000 people moved into employment between March and April, which is only slightly less than the average over the last three years.
+Almost three quarters of the people who were employed in March but not in April were either not looking for work or not available for work in April (and hence were not in the labour force, rather than being unemployed). Being jobless is not necessarily the same as being unemployed. The proportion of people employed in March who moved to not in the labour force in April was double than of March, while the proportion who moved to unemployment halved.
+The following diagrams compare the proportion of people moving between employment, unemployment and not in the labour force in March (i.e. between February and March) and in April (i.e. between March and April), based on the matched sample (See  in the March issue of this publication for more details).
+This comparison highlights:
+  the decrease in the proportion of people remaining employed from one month to the next (96.5% from February to March compared to 92.8% from March to April).
+  the increase in flows from employment to not in the labour force (from 2.6% to 5.1%), and in flows from employment to unemployment (from 0.9% to 2.1%);
+  the increase in flows from unemployment to not in the labour force (23.1% of unemployed in February were not in the labour force in March, compared to 34.9% between March and April).
+  decrease in flows from unemployment to employment (from 22.2% to 13.1%)
+For further information, email .

@@ -1,0 +1,11 @@
+Date:
+2024-11-12
+Article Title:
+The Daily — Architectural, Engineering and Related Services Price Index, third quarter 2024
+Article Content:
+Released: 2024 11 12
+Data from the Architectural, Engineering and Related Services Price Index (2018=100) are now available for the third quarter.
+Statistics Canada has an interactive Architectural, Engineering and Related Services Price Index: Data Visualization Tool, which allows users to visualize statistics on the prices of architectural, engineering and related services.
+Statistics Canada launched the Producer Price Indexes Portal as part of a suite of portals for prices and price indexes. This webpage provides Canadians with a single point of access to a wide variety of statistics and measures related to producer prices. 
+The video "Producer price indexes" is available on the Statistics Canada Training Institute webpage. It provides an introduction to Statistics Canada's producer price indexes: what they are, how they are compiled and what they are used for.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

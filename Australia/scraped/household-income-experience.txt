@@ -1,0 +1,20 @@
+Date:
+2020-09-02
+Article Title:
+ Household income experience
+
+Article Content:
+The impact of the COVID 19 pandemic, resulting containment measures and government support packages have all had an impact on household income in the quarter.
+Household income (measured as gross disposable income) rose 2.2%, reflecting a rise in non labour income (consisting of investment income, earnings from unincorporated businesses and social assistance benefits). Earnings from unincorporated businesses (measured as gross mixed income) rose 21.9% as businesses received government support from the JobKeeper and the Boosting Cash Flow for Employers policies. The impact of subsidies in the economy in the June quarter is outlined in the .
+Household compensation of employees fell 2.2%, the largest decline recorded in the national accounts, reflecting steep declines in employment and hours worked.
+The rise in social assistance benefits (41.6%) was due to an increase in the number of benefit recipients and additional COVID 19 related support payments including, the coronavirus supplement (additional $550 payment) and the initial Economic support payment (one off $750 payment). Government has announced that these support payments related to COVID 19 will continue into the September and December quarters.
+Household net saving rose $42.0b to $59.5b in the June quarter national accounts. The rise in saving was driven by a $35.2b fall in household spending with decreased spending on services due to temporary shutdown of businesses and movement restrictions. Household income rose $7.1b driven by increases in gross mixed income and social assistance benefits.
+The government introduced a range of policies that had an impact on household net saving in the June quarter. The JobKeeper and Boosting Cash Flow for Employers policies contributed to both compensation of employees and gross mixed income. The Coronavirus supplement and the Economic support payments contributed to social assistance benefits received by households.
+Excluding these government support payments, household income would have fallen to $283.5b, which is $48.0b less than the National Accounts estimate of household income.
+In addition to these government support policies, other initiatives were introduced to support households which are not recorded as household income within the System of National Accounts conceptual framework.
+These other initiatives included:
+For analytical purposes and to provide further information on the income experience of households in the June quarter, estimates for these initiatives have been added to household income and net saving. Early access to superannuation added $18.1b to total gross income while loan and rent deferrals reduced income payable by $1.5b. The inclusion of these initiatives results in an addition of $19.6b of household income above the standard national accounts measure.
+  Early access to superannuation
+  Supplementary relief packages for individuals and business (including loan deferrals)
+  Rent deferral arrangements
+As described above, the published National Accounts estimate of household saving ratio was 19.8%. Excluding the COVID 19 related government support payments, the household saving ratio would have been 4.6% (assuming unchanged household consumption behaviour). Including other support initiatives, such as early access to superannuation, would have increased the household saving ratio to 24.8%.

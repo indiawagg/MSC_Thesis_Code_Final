@@ -1,0 +1,142 @@
+Title : pandemic-insights-australian-smokers-2020-21.txt
+Context:with some telephone and face to face interviews conducted where possible . Non response is usually reduced through Interviewer follow up of households who have not responded . As this
+Context:
+   Non Australian diplomats , diplomatic staff and members of their households 
+   People who usually live in non private dwellings , such as hotels , motels , hostels ,
+
+Title : twenty-seven-years-prisoners-australia.txt
+Context:to 2009 , persons sentenced to full time custody by the Australian Capital Territory were usually held in New South Wales prisons . A new prison facility to house persons
+Context:to 2009 , persons sentenced to full time custody by the Australian Capital Territory were usually held in New South Wales prisons . A new prison facility to house persons
+
+Title : insights-job-attachment-during-pandemic-february-2022.txt
+Context:
+ Chart 2 shows the relative size of these groups as a share of the usually resident civilian population aged 15 years and over . Prior to the pandemic ,
+Context:15 years and over . Prior to the pandemic , unemployed people with job attachment usually accounted for around 0.2 % of the population , and this rose to a
+
+Title : charts-casual-employment-occupation-industry-and-job-mobility-february-2023.txt
+Context:leave , which includes paid sick leave or paid annual leave . These entitlements are usually reserved for non casual or permanent employment . Other measures of casual employment can
+
+Title : charts-casual-employment-occupation-industry-and-job-mobility-november-2022.txt
+Context:leave , which includes paid sick leave or paid annual leave . These entitlements are usually reserved for non casual or permanent employment . Other measures of casual employment can
+
+Title : domestic-violence-experiences-partner-emotional-abuse.txt
+Context:given population that have experienced any type of violence within a specified time frame – usually in the last 12 months ( 12 months prior to the survey ) and
+
+Title : technical-note-impact-using-multiple-sources-deriving-indigenous-status-deaths-2023-changes-victoria-and-coroner-referred-deaths.txt
+Context:Indigenous status for deaths . The death registration statement , completed by the informant ( usually the funeral director and family ) is the primary source for providing information on
+Context:NCIS ) . If these sources do not agree , identification on any source is usually given preference over recording the deceased as non Indigenous ( although there are some
+
+Title : cpi-international-comparisons.txt
+Context:such as the US . Graph 4 shows that in the US price change is usually similar for new and used motor vehicles . However , following the COVID 19
+
+Title : insights-job-attachment-during-pandemic-january-2022.txt
+Context:
+ Chart 2 shows the relative size of these groups as a share of the usually resident civilian population aged 15 years and over . Prior to the pandemic ,
+Context:15 years and over . Prior to the pandemic , unemployed people with job attachment usually accounted for around 0.2 % of the population , and this rose to a
+
+Title : development-new-experimental-monthly-household-spending-indicator.txt
+Context:the output in these ways : 
+ A minimum of 3 years of data is usually required to seasonally adjust data . While we have 3 years of data (
+
+Title : charts-casual-employment-occupation-and-industry-may-2022.txt
+Context:leave , which includes paid sick leave or paid annual leave . These entitlements are usually reserved for non casual or permanent employment . Other measures of casual employment can
+
+Title : insights-australian-smokers-2021-22.txt
+Context:
+   Non Australian diplomats , diplomatic staff and members of their households 
+   People who usually live in non private dwellings , such as hotels , motels , hostels ,
+
+Title : charts-casual-employment-occupation-and-industry-february-2022.txt
+Context:leave , which includes paid sick leave or paid annual leave . These entitlements are usually reserved for non casual or permanent employment . Other measures of casual employment can
+
+Title : towards-national-ocean-account.txt
+Context:population count come from the 2021 census . The population count was based on Persons Usually Resident : This is the count of people where they usually live , which
+Context:was based on Persons Usually Resident : This is the count of people where they usually live , which may or may not be where they were on Census Night
+
+Title : insights-hours-worked-november-2022.txt
+Context:people working fewer hours because they were sick was 32.8 per cent higher than we usually see in November before the pandemic . 
+ Chart 4 shows the proportion of
+
+Title : insights-hours-worked-january-2022.txt
+Context:than four times the pre pandemic average . January is the middle of summer and usually only around 90,000 to 100,000 people in Australia are away from work sick for
+Context:which was also much higher than the winter months in Australia , when sick leave usually peaks in August at around 140,000 to 170,000 people . 
+ Chart 3 shows
+
+Title : home-building-through-pandemic.txt
+Context:   defined as blocks of dwellings that do n't have their own private grounds and usually share a common entrance , foyer or stairwell . 
+
+
+Title : charts-casual-employment-occupation-industry-and-job-mobility-may-2023.txt
+Context:leave , which includes paid sick leave or paid annual leave . These entitlements are usually reserved for non casual or permanent employment . Other measures of casual employment can
+
+Title : population-movement-australia.txt
+Context:( 22.7 % ) and NSW ( 22.6 % ) . Migration from QLD is usually the driver for NT arrivals however compared with 2016 Census results , there was
+
+Title : housing-cost-measures-national-accounts.txt
+Context:Annual estimates are converted to quarterly estimates using linear trend interpolation . HFCE rents are usually one of the most stable HFCE series in volume terms and generally align closely
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-first-quarter-2023.txt
+Context:For this research , expected deaths are modelled using data from before the pandemic ( usually ending at 2019 ) . This information can then be used to assess the
+
+Title : seasonal-adjustment-and-changing-seasonality-labour-force-statistics.txt
+Context:dynamic and complex as the labour market , where the relatively small changes in aggregates usually reflect the net difference in very large underlying gross flows and changes , which
+Context:month changes in seasonally adjusted hours worked and employment series .  
+ Hours worked are usually more seasonal than employment . Hours are impacted by people taking leave at key
+Context:Christmas and New Year period in January data , and around Easter , which is usually reflected in April data . The hours that people work are also heavily influenced
+
+Title : frequently-asked-questions-faqs-about-wage-price-index.txt
+Context:latest WPI release . 
+ On the receipt of such request , the WPI team usually reconfirms the client requirements . A charge is made to cover the costs of
+
+Title : guide-understanding-employee-earnings-and-hours-statistics-may-2021.txt
+Context:a better measure of ' central tendency ' than the mean . Mean earnings are usually higher than the median earnings as relatively small numbers of highly paid employees can
+Context:the organisation and/or are in charge of a significant number of employees . They are usually not entitled to overtime . Owner managers of incorporated enterprises are included in Managerial
+
+Title : frequently-asked-questions-faqs-about-consumer-price-index.txt
+Context:4.1 % . Note that the change in index points and the percentage change are usually different . 
+ For more information on interpreting index numbers , refer to “
+
+Title : back-my-day-comparing-millennials-earlier-generations.txt
+Context:This article takes a step into the inter generational conversation , discussing content that is usually preceded by a statement like ‘ back in my day … ’ . 
+
+
+Title : anzsco-maintenance-strategy-core-components.txt
+Context:time to support adoption by the Census . 
+ Analyses of labour market trends are usually based on time series at the four digit ( Unit Group ) level .
+
+Title : insights-hours-worked-september-2022.txt
+Context:number of people working fewer hours because they were sick was also higher than we usually see in September , but only around 14 per cent higher . It was
+
+Title : listing-psychosocial-risk-factor-icd-10-codes-inclusions-and-exclusions.txt
+Context:the ABS and the coding process of the mortality team . 
+ Psychosocial factors are usually assigned a code from   Chapter 21 Factors Influencing Health Status and Contact with
+
+Title : measuring-owner-occupied-housing-consumer-price-index.txt
+Context:their owners use to produce housing services for their own consumption , these services being usually included within the scope of the CPI . ” 
+ The principal purpose of
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-december-2023.txt
+Context:of 52 . The harmonic terms reflect the fact that the number of deaths is usually higher in winter than in summer . 
+ The final model was : 
+
+
+
+Title : sexual-assault-perpetrators.txt
+Context:level . 
+ An order that requires a person pay a sum of money , usually in the form of a fine , or as recompense to victims . Includes
+Context:with the largest sentence length or fine amount ( i.e. quantum ) . This is usually but not always the principal offence for the defendant . 
+ The most serious
+Context:to pay a sum of money for a purpose , other than a fine , usually in relation to reparation to a victim . Includes restitution and compensation orders .
+Context:to remain in custody until the final adjournment of the court for the term , usually only momentarily . 
+   Other non custodial orders ( not elsewhere classified )   
+
+Title : guide-using-historical-estimates-comparative-analysis-and-reporting.txt
+Context:rates are thought to be artificially deflated when using the 2021 based population estimates ( usually due to lower identification rates in the numerator series in earlier years ) 
+  
+
+Title : charts-casual-employment-occupation-industry-and-job-mobility-august-2022.txt
+Context:leave , which includes paid sick leave or paid annual leave . These entitlements are usually reserved for non casual or permanent employment . Other measures of casual employment can
+
+Title : insights-hours-worked-october-2022.txt
+Context:people working fewer hours because they were sick was around 30 % higher than we usually see in October , whereas less people than usual took annual leave over the
+

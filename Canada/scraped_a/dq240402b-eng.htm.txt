@@ -1,0 +1,20 @@
+Date:
+2024-04-02
+Article Title:
+The Daily — Registered retirement savings plan contributions, 2022
+Article Content:
+Released: 2024 04 02
+In 2022, tax filers contributed a total of $54.2 billion to registered retirement savings plans (RRSPs), down 3.4% from 2021. This decline in annual contributions followed increases in 2020 (+13.1%) and in 2021 (+12.2%) and reflects broader movements in household savings over this period.
+The proportion of tax filers making an RRSP contribution ( 0.7 percentage points to 21.7%) also decreased in 2022, resuming a 12 year (2008 to 2019) downward trend that paused during 2020 and 2021, when household savings peaked early in the COVID 19 pandemic. 
+Meanwhile, the median RRSP contribution has been increasing since 2010 and reached $3,910 (+0.5%) in 2022.
+Yukon (+3.6%) had the only increase among provinces and territories in total RRSP contributions in 2022, continuing an upward trend that started in 2019. Conversely, the Northwest Territories ( 17.2%) and Nunavut ( 11.6%) had the largest relative declines in total contributions and in number of contributors ( 6.2% for the Northwest Territories and  7.4% for Nunavut). 
+Nunavut ($4,560) had the highest median RRSP contribution nationally in 2022.
+In 2022, the proportion of tax filers reporting RRSP contributions decreased in all age groups. Tax filers aged 25 to 34 years and those aged 35 to 44 years ( 1.0 percentage points each) declined the most. Tax filers aged 45 to 54 years remained the most likely to make RRSP contributions, with just over one third (36.4%) having done so in 2022, followed by tax filers aged 35 to 44 years (32.6%) and those aged 55 to 64 years (30.7%).
+Of all age groups, tax filers aged 55 to 64 years ( 6.1%) had the largest decrease in total RRSP contributions, followed by tax filers aged 45 to 54 years ( 4.5%). These two age groups drove the overall decrease in RRSP contributions in 2022. The two youngest age groups, 0 to 24 years (+3.0%) and 25 to 34 years (+0.7%), were the only groups with an increase in total RRSP contributions.
+In 2022, the median contributions increased among all age groups younger than 55 years, while that of contributors aged 55 years and older remained at $5,000, the highest among all age groups.
+The proportion of RRSP contributors varies depending on the income bracket of the tax filer. In 2022, this proportion ranged from 1.7% of tax filers with incomes below $20,000 to 66.2% of tax filers with an income from $200,000 to $499,999.
+From 2021 to 2022, median RRSP contributions fell or remained constant for all but the two highest income brackets: for tax filers with incomes from $500,000 to $999,999 and for those with incomes of $1,000,000 and over, median RRSP contributions rose to be equal to the maximum claimable amount for the tax year ($29,210 in 2022).
+The document "Technical Reference Guide for the Preliminary Estimates from the T1 Family File (T1FF)" (11260001) presents information about the methodology, concepts and quality of the data available in this release.
+Table 11 10 0044 01 associated with this release is available for free on the Statistics Canada website for Canada, the provinces and territories, census metropolitan areas and census agglomerations.
+Additional data on registered retirement savings plan contributors (Catalogue number17C0006, various prices) are available for other levels of geography. These custom services are available upon request.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relation (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

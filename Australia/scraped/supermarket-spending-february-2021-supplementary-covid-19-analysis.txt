@@ -1,0 +1,15 @@
+Date:
+2021-04-01
+Article Title:
+ Supermarket spending, February 2021 - Supplementary COVID-19 analysis
+
+Article Content:
+To enhance the understanding of the economic impacts of COVID 19, scanner data was used to conduct analysis on supermarkets and grocery stores spending.
+The data presented is in original terms, and may differ from the data presented in the Retail publication. This is because scanner data is only collected from large providers and, to enhance this analysis, certain product types sold by supermarkets are excluded.  Please note, analysis of annual data has not been adjusted for the leap year in 2020.
+For the purpose of this analysis, supermarket products were split into three categories. Perishable goods contain fresh food items such as fruit, vegetables, meat and dairy. Non perishable goods contain food items with a long shelf life such as flour, sugar, canned fruit, canned vegetables, canned and dry mix soups, confectionary and long life milk products. All other products contain non food items such as cleaning products, medicinal products, toiletries and toilet paper.
+Turnover fell for Perishable goods ( 13.2%), Non perishable goods ( 8.9%) and All other products ( 13.1%) in February 2021 compared to January 2021, in original terms.
+Annual movements (not adjusted for the leap year in 2020) saw Perishable goods rise 0.8%, Non perishable goods rise 1.0%, and All other products fall 2.6%. 
+The graph below shows the revenue percentage movements in February 2021 compared to January 2021, in original terms. The graph includes the product categories which recorded the highest contributions to total revenue in February 2021.
+Of the selected product categories, Cleaning Products ( 16.3%), and Fresh Fruit & Vegetables ( 14.6%) recorded the strongest monthly falls in February 2021.
+Annual revenue percentage movements (not adjusted for the leap year in 2020) at the capital city, state and territory level are showing both increases and falls across Australia. Of the capital cities, Darwin (4.1%) recorded the largest annual rise, whereas Sydney ( 4.3%) recorded the largest annual fall. For the rest of state and territory areas, Rest of South Australia (6.9%) recorded the largest annual rise, whereas Rest of Northern Territory ( 3.3%) recorded the largest annual fall.
+Monthly revenue percentage movements at the capital city, state and territory levels are showing falls across all of Australia. Of the capital cities, Perth ( 12.9%) and Canberra ( 12.2%) recorded the largest monthly falls. For the rest of state and territory areas, Rest of South Australia ( 15.1%), and Rest of Western Australia ( 14.8%) recorded the largest monthly falls. Despite month on month falls, the introduction of state specific lockdowns following a spike in community transmissions in Victoria and Western Australia correspond with short term rises during this period.

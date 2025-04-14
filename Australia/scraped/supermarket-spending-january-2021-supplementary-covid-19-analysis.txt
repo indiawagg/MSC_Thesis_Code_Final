@@ -1,0 +1,17 @@
+Date:
+2021-03-04
+Article Title:
+ Supermarket spending, January 2021 - Supplementary COVID-19 analysis
+
+Article Content:
+To enhance the understanding of the economic impacts of COVID 19, scanner data was used to conduct analysis on supermarkets and grocery stores spending.
+The data presented is in original terms, and may differ from the data presented in the Retail publication. This is because scanner data is only collected from large providers and, to enhance this analysis, certain product types sold by supermarkets are excluded. 
+For the purpose of this analysis, supermarket products were split into three categories. Perishable goods contain fresh food items such as fruit, vegetables, meat and dairy. Non perishable goods contain food items with a long shelf life such as flour, sugar, canned fruit, canned vegetables, canned and dry mix soups, confectionary, and long life milk products. All other products contain non food items such as cleaning products, medicinal products, toiletries and toilet paper.
+Turnover fell for Perishable goods ( 5.1%), Non perishable goods ( 5.3%), and All other products ( 5.6%) in January 2021 compared to December 2020, in original terms.
+Retail turnover for all three categories continues to remain at higher levels when compared to January 2020. Annually, Perishable goods rose 9.0%, Non perishable goods rose 7.7%, and All other products rose 5.9%. The higher levels of revenue reflect a continuation of more food being prepared and consumed at home due to social distancing.
+The tree map below describes the annual revenue movements as well as the contribution to total revenue for each product. The colour of each tile denotes the annual revenue percentage movement for January 2021 compared to January 2020, whereas the size denotes the contribution to total revenue in January 2021.
+Annual rises were observed for a number of food categories in January 2021. The largest rises included Fresh Fish & Seafood (20.6%), Cleaning Products (16.8%), and Water (13.5%).
+The heat map below denotes the annual revenue movements for each capital city, state and territory, at the Greater Capital City Statistical Area (GCCSA) level, where the colour of each region denotes the annual revenue percentage movement for January 2021 compared to January 2020.
+Annual revenue percentage movements at the capital city, state and territory level are showing increases across Australia. Of the capital cities, Darwin (13.6%) and Perth (11.0%) recorded the largest annual rises. For the rest of state and territory areas, Rest of Western Australia (13.4%) and Rest of South Australia (11.2%) recorded the largest annual rises.
+In original terms, Sydney ( 7.3%) and Melbourne ( 4.7%) recorded month on month falls for January 2021, following rises in December 2020 during the Christmas period and a tightening of COVID 19 restrictions in both cities.
+Despite month on month falls for Brisbane ( 3.6%) and Perth ( 5.0%), the re introduction of lockdown restrictions during January 2021 corresponded with increased supermarket spending for those weeks containing the period immediately before lockdown.

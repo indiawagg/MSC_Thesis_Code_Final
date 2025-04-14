@@ -1,0 +1,55 @@
+Title : insights-job-attachment-during-pandemic-february-2022.txt
+Context:Chart 5 shows similar patterns for men and women during the pandemic . There are always more women who are not in the labour force with job attachment than men
+
+Title : have-your-say-future-abs-geospatial-data.txt
+Context:“ The ABS has always provided a considerable amount of local and regional socio economic data that is used
+
+Title : technical-note-impact-using-multiple-sources-deriving-indigenous-status-deaths-2023-changes-victoria-and-coroner-referred-deaths.txt
+Context:in coronial reports is not only more detailed but also because the data is not always available from the RBDMs at the time the registration is lodged with the ABS
+
+Title : insights-job-attachment-during-pandemic-january-2022.txt
+Context:Chart 5 shows similar patterns for men and women during the pandemic . There are always more women who are not in the labour force with job attachment than men
+
+Title : development-new-experimental-monthly-household-spending-indicator.txt
+Context:changes for a good or where a service is delivered , and this is not always at the point where payment is made . This is the primary conceptual difference
+
+Title : australias-journey-work.txt
+Context:2021 , declining from 8.4 % in 1976 .  
+ While ‘ Bicycle ’ has always been a response option for the journey to work question , ‘ Walking ’
+
+Title : modelling-indicative-state-level-industry-jobs-estimates-labour-account.txt
+Context:persons differences for Victoria and Queensland . The national total for LFS employed persons will always be lower than the national total for the Labour Account methods due to scope
+
+Title : independent-review-abs-aboriginal-and-torres-strait-islander-life-expectancy-estimates.txt
+Context:changes in identification . The panel advised that this risk can be best managed by always presenting change estimates in ways that openly recognise this possibility , and actively seek
+
+Title : seasonal-adjustment-and-changing-seasonality-labour-force-statistics.txt
+Context:they were sick or injured . Chart 9 and Chart 10 show that there are always some people working reduced hours , and that this often peaks around the winter
+Context:changes over the past three years reflect an evolving seasonal pattern . 
+ The ABS always seeks to   provides guidance and advice to users to assist in interpreting changes
+
+Title : anzsco-maintenance-strategy-core-components.txt
+Context:However , due to resource constraints and limited subject matter expertise , this may not always be possible . 
+ Header 13 : Benefits 
+ Header 13 : Risk 
+
+
+Title : sexual-assault-perpetrators.txt
+Context:sentence length or fine amount ( i.e. quantum ) . This is usually but not always the principal offence for the defendant . 
+ The most serious sentence dealt to
+
+Title : spotlight-seasonality-payroll-jobs-and-wages-paid-2022-year-end.txt
+Context:The annual pattern always shows an increase in labour market activity before Christmas , around a seasonal peak
+
+Title : digital-platform-workers-australia.txt
+Context:While digital platform workers and their work have always been included within existing labour statistics on employment and hours , they are a
+Context:it also shares common elements with older forms of short term employment , that have always existed . For example , a digital platform task offering short term passenger transport
+
+Title : how-administrative-data-improved-quality-2021-census.txt
+Context:we need to : 
+ Results from the   showed us that we do n’t always get these decisions right , and we might think a house was occupied on
+
+Title : spotlight-labour-account.txt
+Context:and other estimates ( such as hours worked ) . The Labour Account estimate is always higher . 
+ The Labour Account is our best source of industry employment data
+

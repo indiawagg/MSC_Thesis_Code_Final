@@ -1,0 +1,11 @@
+Date:
+2023-11-29
+Article Title:
+The Daily — Updating of the Market Basket Measure thresholds table to include the Nunavut thresholds
+Article Content:
+Released: 2023 11 29
+Today, Statistics Canada is updating the Market Basket Measure (MBM) thresholds table to include poverty thresholds for Nunavut. This update marks the end of the review period for the proposed methodology for the Northern Market Basket Measure (MBM N) for Nunavut. For more information on the proposed MBM N methodology for Nunavut, please see the Construction of a Northern Market Basket Measure of poverty for Nunavut paper.
+The MBM N methodology for Nunavut was a collaborative effort with the Government of Nunavut, National Indigenous Organizations representing Inuit people (e.g., Nunavut Tunngavik Incorporated and Inuit Tapiriit Kanatami), Employment and Social Development Canada and Health Canada.
+For more information on the MBM N methodology for Nunavut or for Nunavut poverty estimates please contact us (statcan.mbm mpc.statcan@statcan.gc.ca).
+Poverty thresholds, using the Northern Market Basket Measure methodology for Nunavut, are now available in table 11 10 0066 01.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

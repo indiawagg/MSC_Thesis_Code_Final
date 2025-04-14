@@ -1,0 +1,219 @@
+Title : pandemic-insights-australian-smokers-2020-21.txt
+Context:online , self complete forms with some telephone and face to face interviews conducted where possible . Non response is usually reduced through Interviewer follow up of households who have
+Context:through Interviewer follow up of households who have not responded . As this was not possible during lockdown periods , there have been significant impacts on response rates and sample
+Context:of the whole population , not the sample . 
+ Two types of error are possible in estimates based on a sample survey :  
+   Non sampling error    
+   Sampling
+
+Title : twenty-seven-years-prisoners-australia.txt
+Context:not be consistent with previously published data for these years .    It was not possible to identify Australian Capital Territory prisoners held in New South Wales for the year
+Context:held in New South Wales and the Australian Capital Territory .    It was not possible to identify Australian Capital Territory prisoners held in New South Wales for the year
+
+Title : insights-job-attachment-during-pandemic-february-2022.txt
+Context:refer to the . 
+ Given employment is determined using multiple criteria , it is possible for someone to have attachment to a job without necessarily being employed . Prior
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-august-2023.txt
+Context: 
+   Due to the low number of weekly deaths , calibration by age was not possible . Predicting an expected number of deaths from a small base can lead to
+Context:: 
+ Final age groups vary by jurisdiction based on the above criteria . Where possible , age groups were modelled separately up to 95 years and over ( Australia
+
+Title : technical-note-impact-using-multiple-sources-deriving-indigenous-status-deaths-2023-changes-victoria-and-coroner-referred-deaths.txt
+Context:number of deaths in Victoria remain small for calculating life expectancy . It is not possible to disaggregate these deaths further by age and sex to construct separate reliable life
+
+Title : cpi-international-comparisons.txt
+Context:countries , but there is ongoing work to consider whether a Net acquisitions approach is possible . 
+ The advantage of the Net acquisitions approach is that it attempts to
+
+Title : insights-job-attachment-during-pandemic-january-2022.txt
+Context:refer to the . 
+ Given employment is determined using multiple criteria , it is possible for someone to have attachment to a job without necessarily being employed . Prior
+
+Title : development-new-experimental-monthly-household-spending-indicator.txt
+Context:more robust processing systems are developed .  
+ Producing this new indicator has been made possible because of the ongoing goodwill of several of Australia ’s banks . It also
+Context:household purchase of seeds to grow vegetables at home ) . As it is not possible to identify or adjust for these transactions , it is assumed any ‘ intermediate
+Context:the true ones . Because transaction data is a big data set it is not possible to query specific movements or resolve erroneous values in real time . Micro editing
+
+Title : insights-job-attachment-january-2023.txt
+Context:to the   . 
+ Given employment is determined using multiple criteria , it is possible for someone to have attachment to a job without necessarily being employed . Prior
+
+Title : insights-australian-smokers-2021-22.txt
+Context:response rates and sample representativeness because Interviewer follow up of non responding households was not possible . The 2020 21 pooled smoking data is considered a break in series ,
+Context:of the whole population , not the sample . 
+ Two types of error are possible in estimates based on a sample survey :  
+   Non sampling error    
+   Sampling
+
+Title : autism-australia-2022.txt
+Context:rates are too low for reliable estimates to be produced . 
+ There are several possible reasons for the variation in autism prevalence across the lifespan . These reasons are
+Context:% in 2018 .  
+ Autism prevalence also varies by sex at birth . Several possible reasons for the variation in autism prevalence between males and females are explored in
+Context:above may have had an impact on the reported prevalence rates , it is not possible to quantify the size of the influence they may have had . 
+ The
+
+Title : healthy-food-partnership-reformulation-program-wave-1-two-year-progress.txt
+Context:editing of the matches and other manual searching of scanner data product catalogues it is possible that some of the true matching scanner data sales have been missed .  
+
+Context: 
+   While the coding database is reviewed annually to ensure coding integrity , it is possible that inaccuracies remain among some products .    Any such inaccuracies if significant enough
+
+Title : towards-national-ocean-account.txt
+Context:The first edition of the National Ocean Account is a view on what will be possible for future publications . This edition publishes experimental methods and data on mangrove and
+Context:mangrove coastal protection services . While creating a time series for seagrass estimates is not possible from current data , these accounts provide a basis from which changes can be
+
+Title : analysis-non-binary-sex-responses.txt
+Context:provide a non binary response was only available on request . It is therefore not possible to make a valid comparison between these results . While the addition of ‘
+
+Title : effects-covid-19-strains-australian-economy.txt
+Context:providers following shortly after . Many workplaces advised their employees to work from home where possible . Household social distancing measures were put in place , with the most severe
+
+Title : understanding-life-expectancy-estimates-2020-2022.txt
+Context:sources of information have been used to produce an estimate that is as close as possible to what the true figure is . 
+ For population estimates : Census +
+
+Title : introduction-digital-services-balance-payments.txt
+Context:conceptual issues : 
+ Depending on how the individual MNEs are structured there are 3 possible scenarios for recording the flows related to the provision of these digital services .
+
+Title : enhancing-trade-services-quarterly-statistics.txt
+Context:would like to thank survey respondents and users for their cooperation in making this change possible . 
+ For more information please contact : 
+
+
+Title : producing-official-statistics-linked-data-technical-report.txt
+Context:Condition B was required in defining the in scope dataset due to the range of possible values for compprof_bcs . In addition to the values suitable for use in forming
+Context:our profit score , compprof_bcs could also be assigned :  
+ As it is not possible to use the last two codes in our profit score , businesses showing either
+Context:the previous year ) in Section 2.3 . In particular , recall three of its possible values : 1 ( Decreased ) , 2 ( Stayed the same ) ,
+Context:with “ 1 ” or “ 3 ” as appropriate . 
+ Although it was possible to recognise and remediate various situations where a feature was subject to systematic missingness
+Context:for most , if not all , years of the dataset .  
+ It is possible that a “ No ” response associated with internet_bcs ( “ Internet use (
+Context:than one box ” , lacking access to the raw data , it was not possible to determine which multiple responses to include in a dataset .  
+   999999999 (
+Context:project , we did not consider how to resolve this problem . It may be possible to achieve this in any further study .  
+ Header 9 : 3.2.1 A
+Context:set ’s most common label to all instances . As such , it is not possible to tune this method in search of better results .   
+ A preliminary inspection
+Context:given feature is calculated for each tree in the random forest . It is also possible to calculate the standard deviation of the FIs for each feature .    
+ A
+Context:recognise these businesses with a degree of specificity . As such , it may be possible to extract information from the classifier that can show a systematic difference between our
+Context:values ) against a threshold . In this example , a low sum ( quite possible in the FN case ) may not indicate a “ 0 ” business ,
+Context:border ) of low heterogeneity were retained . Given further exploration , it may be possible to improve on these rules . Results are summarised in Figure 9 , with
+Context:year to year , and those which do . This result suggests that it is possible for the ABS or data users to obtain additional insights from ABS data assets
+Context:between features . The second is to consider how to include a larger range of possible conditions in composing grouping guidelines . Together , these areas could lead to more
+Context:Little or no impact on business 's income ” ) .  
+ A feature where possible values relate to categories . A feature may have no particular order to its
+Context:have no particular order to its possibilities , such as a colour feature where the possible values are : 1 = red , 2 = blue , 3 = yellow
+Context:: 1 = red , 2 = blue , 3 = yellow . When the possible outcomes for a categorical feature have an ordering ( such as 1 = low
+Context:for classification problems , and labels should be known , not infilled .  
+ The possible values for a feature do not relate to a category , instead , they
+Context:generally undesirable .  
+ The task is to assign each instance to one of two possible categories , most commonly 0 or 1 . This project is largely a binary
+
+Title : insights-job-attachment-january-2024.txt
+Context:to the   . 
+ Given employment is determined using multiple criteria , it is possible for someone to have attachment to a job without necessarily being employed . Prior
+
+Title : deriving-non-indigenous-population-estimates.txt
+Context:are not available for intercensal years . Due to this reason , it is not possible to produce credible annual estimates of the Aboriginal and Torres Strait Islander population and
+
+Title : interpreting-abs-productivity-statistics.txt
+Context:economic conditions . The intensity of use of inputs to production , measured against a possible maximum capacity , is defined as utilisation .  
+ Changes in the utilisation of
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic.txt
+Context:estimates which will cover the Omicron wave .  
+ Excess mortality is one of many possible methods to measure the impact of the COVID 19 pandemic . Age standardised death
+
+Title : insights-australian-exports-lithium.txt
+Context:statistics and allows users to gain additional insights into this commodity which were not previously possible . 
+ In June month 2022 , exports of lithium concentrates reached a record
+
+Title : population-movement-australia.txt
+Context:is different to population growth , which is net change in population . It is possible for an area to have its population remain relatively unchanged ( low to zero
+
+Title : insights-job-attachment-during-pandemic-march-2022.txt
+Context:refer to the . 
+ Given employment is determined using multiple criteria , it is possible for someone to have attachment to a job without necessarily being employed . Prior
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-first-quarter-2023.txt
+Context: 
+   Due to the low number of weekly deaths , calibration by age was not possible . Predicting an expected number of deaths from a small base can lead to
+Context:: 
+ Final age groups vary by jurisdiction based on the above criteria . Where possible , age groups were modelled separately up to 95 years and over ( Australia
+
+Title : independent-review-abs-aboriginal-and-torres-strait-islander-life-expectancy-estimates.txt
+Context:in the life expectancy gap , as an identified national priority , requires the highest possible quality data , methods , and information to inform practical , relevant , and
+Context:and service provision . 
+ The panel made 31 detailed recommendations relating to methodology , possible additional estimates , planning , communication , and engagement . 
+ The ABS thanks
+Context:undertook further investigations into age specific adjustments and found that a partial age adjustment was possible and able to be reliably applied nationally and sub nationally . Partial age adjustment
+Context:of changes in life expectancy to accompany all relevant life expectancy estimates . 
+   Consider possible improvements to life tables at older ages through addressing potential misreporting of age .
+
+Title : healthy-food-partnership-reformulation-program-wave-2-two-year-progress.txt
+Context: 
+   While the coding database is reviewed annually to ensure coding integrity , it is possible that inaccuracies remain among some products .    Any such inaccuracies if significant enough
+
+Title : same-sex-couples-living-together-australia.txt
+Context:to report their relationship status within the household can influence the data , and its possible this resulted   in the underreporting of relationships . 
+   As the Census did
+
+Title : guide-understanding-employee-earnings-and-hours-statistics-may-2021.txt
+Context:information in EEH is collected from businesses at the individual employee level , it is possible to derive measures of distribution ( e.g. medians , deciles , earnings ranges )
+Context:hours paid for data was only collected for non managerial employees and it was not possible to produce estimates of hourly rates for managerial employees . The non managerial population
+Context:traditionally been used to analyse hourly earnings and hours paid for information for the largest possible group of employees . 
+ From 2014 EEH onwards , hours paid for data
+Context:error ( i.e. which employees are selected for each EEH sample ) . It is possible that what appears to be a movement between two time points may have arisen
+
+Title : frequently-asked-questions-faqs-about-consumer-price-index.txt
+Context:the CPI were relevant to user requirements and reflected contemporary economic conditions as well as possible . The CPI now comprises seventeen linked indexes . The CPI originally consisted of
+
+Title : anzsco-maintenance-strategy-core-components.txt
+Context:. The ABS will endeavour to supplement and verify the information provided in submissions wherever possible . However , due to resource constraints and limited subject matter expertise , this
+Context:due to resource constraints and limited subject matter expertise , this may not always be possible . 
+ Header 13 : Benefits 
+ Header 13 : Risk 
+ Header 13
+Context:warrants separate identification within ANZSCO , such as emerging occupations . Creating new Occupations is possible during a minor annual update as long as the scope of the parent Unit
+Context:extrapolation 
+   Current and relevant 
+   Provides a basis for explanations 
+   As inclusive as possible of the units intended to be observed under the concept 
+   Does not skew
+Context:observed under the concept 
+   Does not skew sample results 
+   As statistically balanced as possible ,    categories at the same level are similar in size 
+   Flat or
+
+Title : measuring-owner-occupied-housing-consumer-price-index.txt
+Context:countries , but there is ongoing work to consider whether a Net acquisitions approach is possible . 
+ Table 1 shows which approach to measuring owner occupied housing is used
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-december-2023.txt
+Context: 
+   Due to the low number of weekly deaths , calibration by age was not possible . Predicting an expected number of deaths from a small base can lead to
+Context:: 
+ Final age groups vary by jurisdiction based on the above criteria . Where possible , age groups were modelled separately up to 95 years and over ( Australia
+
+Title : charts-casual-employment-occupation-industry-and-job-mobility-august-2022.txt
+Context:many changes in working arrangements and conditions reflect people changing jobs , it is also possible for people to stay in the same job and for their working arrangements and
+
+Title : how-administrative-data-improved-quality-2021-census.txt
+Context:datasets available to researchers in 2023 , with release of data cubes in June and possible further releases in the second half of the year . 
+   reducing visits to
+Context:shown by the light blue line in Figure 6 ) falls within the range of possible error that is present in ERP ( shown by the shaded band ) .
+
+Title : spotlight-labour-account.txt
+Context:out in the United Nations System of National Accounts . It aligns as closely as possible to the industry measurement in other National Accounts data sources , assigning industry based
+Context:This enables greater insight into the number of people employed in each industry than is possible from the LFS , which can only provide insights into the number of employed
+
+Title : value-renewable-energy-construction.txt
+Context:and split renewable / other electricity asset investment there are cases that this is not possible . This has likely resulted in a level of under coverage of renewable investment
+

@@ -1,0 +1,28 @@
+Date:
+2022-06-23
+Article Title:
+ Charts on casual employment, occupation and industry, May 2022
+
+Article Content:
+This article includes information on casual employment, occupation and industry. It follows previous similar articles during the COVID period, including Insights into Industry and Occupation (in May 2020), Insights into casual employment, occupation and industry (in November 2020) and Charts on casual employment, occupation and industry (in May 2021, August 2021, November 2021 and February 2022). These can all be found in the Labour Force, Australia .
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Information in this article refers to a person’s ‘main job’, based on questions that are asked in the Labour Force Survey in February, May, August and November.
+Chart 1 compares the change in hours worked for casual employees (i.e. those without paid leave entitlements), non casual employees (i.e. those with paid leave entitlements) and owner managers, indexed to February 2020. It shows that during periods with lockdowns and restrictions the hours of casual employees, and to a lesser extent owner managers, were particularly impacted.
+The index shows the hours worked by casual employees remained flat between February and May, after returning to pre pandemic levels in February 2022. 
+Chart 2 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020.
+The number of employed people working as casuals increased in May 2022, returning to pre pandemic levels.
+Chart 3 shows the average weekly hours worked by casual employees was around pre pandemic levels in May 2022.
+Chart 4 shows the total weekly hours worked by casual employees across different weekly hours worked categories.
+Chart 5a shows changes in employment and average hours worked in each of the major groups of occupations from before the pandemic to May 2022. 
+Chart 5b shows changes in employment and average hours worked in each of the major groups of occupations from before the Omicron variant to May 2022. Following the easing of lockdown restrictions in late 2021, employment and hours worked growth has been driven by Professionals, Technical and trades workers and Community and personal services workers.
+Chart 6 shows, for people employed in each occupation in February 2022, the proportion who were:
+  still employed in the same occupation in May 2022;
+  still employed in May 2022 but in a different occupation; or
+  no longer employed in May 2022.
+Chart 7a shows changes in employment and average hours worked in each of the industry divisions from before the pandemic to May 2022.
+Chart 7b shows changes in employment and average hours worked in each of the industry divisions from before the Omicron variant to May 2022.
+Chart 8 shows, for people employed in each industry in February 2022, the proportion who were:
+  still employed in the same industry in May 2022;
+  still employed in May 2022 but in a different industry; or
+  no longer employed in May 2022.
+24/06/2022   The axis labels in Chart 8 'Whether remained employed in May 2022, by Industry in February 2022, Original' have been corrected. No data has changed.

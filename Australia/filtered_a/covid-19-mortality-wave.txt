@@ -1,0 +1,139 @@
+Date:
+2022-11-16
+Article Title:
+ COVID-19 Mortality by wave
+
+Article Content:
+  Vulnerable populations, including people of older ages, people of lower socio economic backgrounds and those with pre existing chronic conditions have had higher rates of mortality during all waves of the COVID 19 pandemic. 
+  People who died of COVID 19 during the Delta wave had a younger median age at death and were more likely to be from a lower socioeconomic background when compared to other waves. 
+  NSW and the ACT have the highest age standardised death rates recorded during the Omicron wave. 
+  During the Delta wave, people born overseas had a COVID 19 mortality rate close to 4 times higher than that of people born in Australia. This has decreased during the Omicron wave, and since July 2022, the rate is higher among people born in Australia. 
+The Coronavirus Disease 2019 (COVID 19) is a respiratory infection caused by the coronavirus SARS CoV 2. On 11 March 2020 the World Health Organization (WHO) declared COVID 19 to be a pandemic. Viruses can change and mutate, especially when there are large amounts of community transmission. When a mutation to the original virus strain occurs, this is known as a variant. Over the course of the pandemic a number of COVID 19 variants have circulated worldwide. The WHO is responsible for tracking variants and identifying variants of concern. 
+In Australia, apart from the main virus strain, variants of concern that have circulated have been Delta and the currently circulating Omicron variant. The Omicron variant has also had a number of sub variants, for example BA.1, BA.2. As a new variant can affect changes in disease severity, clinical presentation and effectiveness and implementation of public health measures, analysis of COVID 19 by variant can provide important insights. When a variant circulates predominantly for a period of time in a community this is referred to as a "wave". This article presents information on COVID 19 by wave in Australia. As the variant of COVID 19 contributing to death is not listed on the death certificate (the source of COVID 19 mortality information for the ABS), waves are defined by time periods when the infectious variant was circulating predominantly in the community. 
+Waves are defined as the following: 
+As waves are defined by time period there may be some deaths due to the Delta variant that occurred in 2022 and fall into the scope of the Omicron wave. Not all jurisdictions across Australia have experienced four waves of COVID 19. There are a small amount of deaths that occurred outside of the defined "wave" periods. These points should be considered when interpreting the analysis presented below. This article does not replace the  output that is published regularly by the ABS, but instead complements the analysis that has already been released. 
+  Wave 1: as occurring between March and May 2020. The predominant variant during Wave 1 was the original virus strain. 
+  Wave 2: as occurring between June and November 2020. Wave 2 predominantly occurred in Victoria. The variant during Wave 2 was the original virus strain. 
+  Delta wave: as occurring between July and December 2021. 
+  Omicron wave: as occurring during 2022 (until the end of September 2022). Due to the length of this wave and the higher number of deaths, analysis of this wave is presented by individual months in some sections. Individual months during the Omicron are analysed up until August 2022. September 2022 has not been analysed as an individual month as the number of deaths due to COVID 19 received by the ABS as occurring during this month are expected to be between 50 60%. 
+There were 12,545 deaths of people who have died from or with COVID 19 during the pandemic, whose death was registered and lodged with the ABS by 30 September 2022. Of these people, 10,279 have been deaths "from COVID 19", where the underlying cause of death has been determined as COVID 19, and a further 2,266 deaths have been deaths "with COVID 19" where the underlying cause of death has been determined as something other than COVID 19 but the virus was a contributing factor.
+By wave: 
+During the Omicron wave: 
+ 
+  During Wave 1, nearly all of the deaths (99.1%) had COVID 19 recorded as the underlying cause of death. 
+  Over 80% of deaths have occurred during the Omicron wave. 
+  The largest number of deaths have occurred in January (1,828), July (1,759) and August (1,444).
+  Each of these months exceeded the 1,396 deaths recorded during the entire period of the Delta wave.
+  During the Omicron wave only 78.5% of the 10,228 deaths have been deaths "from COVID 19". This has not been constant during the wave, falling from 88.2% in January to 72.0% of the deaths in August.
+By wave: 
+During the Omicron wave: 
+  In all four waves of the pandemic, people aged between 80 89 years had both the largest number and proportion of deaths due to COVID 19.  In the second wave, 42.7% of all deaths from COVID 19 occurred in this age group.
+  The Delta wave was the only wave where more than half of the deaths (53.2%) occurred in people younger than 80 years old. This contrasts to Wave 2 where close to 80% of all people who died were aged over 80. During the Omicron wave, 71.0% of deaths were of people aged 80 or older. This proportion has varied considerably during the wave, ranging from 59.8% in March to 76.6% in June.
+  At the start of the year 5.5% of people who died from COVID 19 were aged under 60. This proportion has decreased to under 2% in August. 
+  Those aged over 90 years have comprised approximately one third of COVID 19 deaths since April of this year. 
+The median age at death for people who died from COVID 19 has varied throughout the pandemic:
+  The highest median age at death occurred during Wave 2 at 87.7 years. 
+  The Delta wave recorded the lowest median age at death at 79.0 years. The Delta wave was the only period where the median age at death was under 80. 
+  The median age at death for females has been higher than that of males during each wave of the pandemic. The largest sex difference in median age has been during the Omicron wave, where the male median age at death is 3.6 years lower than females (88.0 for females, 84.4 for males). 
+By wave: 
+During the Omicron wave: 
+  Wave 2 was the only period during the pandemic when more females died than males.
+  In the Delta and the Omicron waves, there were 45.2% and 27.6% more male deaths than female deaths respectively.
+  There have consistently been more male deaths than female deaths in the younger age groups throughout the pandemic. In Wave 2, three quarters of deaths in those aged under 60 were of males. 
+  During the Delta wave 14.4% of male deaths and 12.5% of female deaths were of people younger than 60, which is substantially higher than the other waves of the pandemic. In the Omicron wave, these proportions were 3.9% for males and 3.1% for females. 
+  In the oldest age group, other than from January to March 2022 there have been more female deaths than male deaths. 
+  In February 2022, there were 71.8% more male deaths than female deaths.
+  For most age groups, the largest number of deaths occurred in January 2022. For females in the 90+ age group there were more deaths in July 2022. 
+The following table shows age specific death rates for deaths due to COVID 19. Death rates were much higher in the older age groups than younger age groups, and were much higher during the Omicron wave than earlier in the pandemic.
+By wave: 
+During the Omicron wave: 
+  Male rates are consistently higher than female rates across age groups and throughout the pandemic. 
+  Across all waves, the age specific death rate is highest in those aged over 90 years. 
+  In February 2022, the male age specific rate for 70 79 year olds was 3.2 times higher than the female rate.
+  Females aged over 90 years had their highest age specific death rate in July. The highest age specific death rate for all other age/sex groups was recorded in January. 
+The highest number of deaths due to COVID 19 have occurred in Victoria. This is largely due to nearly all of the deaths during Wave 2 occurring in the state. When analysed by wave the impact of COVID 19 on mortality is shown across other jurisdictions. 
+By wave: 
+During the Omicron wave: 
+  New South Wales and Victoria are the only two jurisdictions which have recorded deaths due to COVID 19 in all waves of the pandemic. 
+  The highest number of deaths during the Omicron wave have occurred in New South Wales. 
+  All jurisdictions have recorded deaths due to COVID 19 during the Omicron wave. 
+  Following on from higher numbers of infections and deaths during the Delta wave, both New South Wales and Victoria recorded the highest number of deaths in January of 2022. 
+  Most jurisdictions recorded an increase in deaths due to COVID 19 over the winter months, after a lower number of deaths in March and April. Typically, in a year where mortality follows an expected pattern, deaths due to respiratory diseases increase during the winter months. 
+Age standardised death rates enable comparison between jurisdictions of different population sizes and age structures. The graph below shows age standardised death rates for jurisdictions by wave. The Omicron wave is the only wave where all states have recorded deaths and age standardised death rates calculated. Rates are only presented for jurisdictions where at least 20 deaths were recorded during a wave.  
+By wave: 
+  All jurisdictions recorded the highest age standardised death rates for the pandemic during the Omicron wave. 
+  Victoria had a higher rate of death due to COVID 19 in Wave 2 compared to the Delta wave. 
+  New South Wales, Victoria, the Northern Territory and the Australian Capital Territory all had an age standardised COVID 19 death rate over two times higher than Western Australia during the Omicron wave. 
+  The rate of COVID 19 mortality is close to three times higher in New South Wales in the Omicron wave when compared to the Delta wave. 
+In the COVID 19 Mortality in Australia article published by the ABS on 27 October 2022, information on COVID 19 mortality among Aboriginal and Torres Strait Islander people was published for the first time. In that article information was contained on how the data was compiled for Aboriginal and Torres Strait Islander people. The following table provides the number of COVID 19 death registrations received by wave for Aboriginal and Torres Strait Islander people. The same scope was applied as is in the original article. 
+  There were no COVID 19 associated deaths of Aboriginal and Torres Strait Islander people during Wave 1 and Wave 2 of the pandemic.
+  There were 20 deaths across NSW, Queensland, SA, WA and NT during the Delta wave, with the remaining 158 deaths occurring during the Omicron wave.
+  During the Omicron wave the largest number of deaths have so far been recorded as occurring in February (34), followed by January with 24 deaths. The number of deaths for later months is expected to increase as additional information on deaths are received. 
+Over the course of the pandemic, more COVID 19 deaths have occurred among people born overseas compared to those born in Australia. 
+By wave: 
+During the Omicron wave: 
+  During Wave 2 and the Delta wave there were more deaths among those born overseas than in Australia.
+  During the Delta wave, over 70% of people who died from COVID 19 were born overseas. 
+  The region of birth of overseas born COVID 19 deaths has varied across the pandemic. During Wave 2, nearly two thirds of the overseas born deaths were from Southern and Eastern Europe, compared to below 40% during the Delta and Omicron waves.
+  During the Delta wave, a quarter of the overseas born deaths were from North Africa and the Middle East, compared to 8.0% across the Omicron wave.
+  During January and February, a higher number of people who died from COVID 19 were born overseas. Since March, people born in Australia have a higher number of deaths from the virus. 
+  In August, just over one third (37.0%) of deaths from COVID 19 were among people who were born overseas. 
+  Among deaths of people born overseas in August, 30.9% were born in the United Kingdom or Ireland. This compares to 6.2% during the Delta wave. 
+To enable comparison between regions where population size and age structure of those populations differ, age standardised mortality rates are presented below.  
+By wave: 
+During the Omicron wave: 
+ 
+  In all four waves, the COVID 19 death rate is higher amongst those born overseas. 
+  During the Delta wave, the SDR for people born overseas was 3.8 times higher than that of someone born in Australia, and in the second wave it was 2.2 times higher.
+  During the Delta wave, the SDR for people born in the Middle East was 23.2 times higher than that of those born in Australia. The next highest disparities were in North Africa (9.5 times higher) and South Eastern Europe (8.1 times higher).
+  In January 2022, the SDR for people born overseas was 2.6 times higher than for those born in Australia.
+  Since July 2022, the SDR for those born overseas has been lower than the rate of those born in Australia.
+  Most regions of birth had their highest SDR in January 2022. This was not the case for those born in Australia, where the rate for July 2022 was higher. The highest annualised SDRs in January 2022 were for those born in the Middle East (245.0), South Eastern Europe (183.5) and Oceania and Antarctica (142.3).
+Within a region of birth, there can be greater disparities among the death rates of those dying from COVID 19 by specific country. The graph below presents the highest age standardised death rates for each wave and compares them to the rate of those born in Australia. 
+By wave: 
+  During Wave 2, the death rate from COVID 19 for people born in Poland was 7.5 times higher than those born in Australia. 
+  During Wave 2, all countries with a high rate ratio compared to people born in Australia were European born. 
+  People born in Tonga had the highest rate ratio in both the Delta and Omicron wave when compared to those born in Australia. 
+  The highest disparity in age standardised death rates for people who died from during the pandemic were of those born in Tonga during the Delta wave. The rate was 80 times higher compared to people born in Australia. 
+Additional causes of death certified on the Medical Certificate of Cause of Death provides more information on mortality from COVID 19. Examining conditions in the causal sequence can provide insights into how a disease progresses and leads to death. Examining pre existing chronic conditions provides an understanding of risk factors that might contribute to death from a particular disease. Both can inform health prevention and intervention policies.
+The proportion of deaths from COVID 19 with other conditions has not been constant during the waves of the pandemic.
+  During Wave 2, only 53.0% of deaths had an acute complication of COVID 19 listed. This is substantially lower than other waves, where over 70% of deaths had an acute complication of COVID 19 clearly defined. 
+  During the Omicron wave over 80% of people who died from COVID 19 had pre existing chronic conditions. 
+By wave: 
+During the Omicron wave: 
+ 
+  Pneumonia has been the most common complication from COVID 19 certified during each wave of the pandemic.
+  Pneumonia led to death in 78.4% of deaths due to COVID 19 during the Delta wave. 
+  Less acute cardiac complications were certified during the Delta wave than during other waves. 
+  Pneumonia as a terminal complication has been decreasing during the wave, declining from being present in 68.8% of deaths in January to 49.0% in August.
+  Acute renal conditions were a complication from COVID 19 in 12.0% of deaths in August, the highest proportion during the wave. 
+By wave, where chronic conditions were certified:
+During the Omicron wave: 
+  Chronic cardiac conditions were the most frequently certified pre existing condition for both the Delta and Omicron waves. Chronic cardiac conditions include conditions such as coronary atherosclerosis and cardiomyopathies.    
+  Dementia was a pre existing chronic condition in 44.6% of COVID 19 deaths during Wave 2. This is related to the high median age at death for those who died from COVID 19 during Wave 2 (87.7 years). 
+  Diabetes was mentioned on 23.6% of deaths with a chronic condition during the Delta wave.
+  The number of deaths from COVID 19 with diabetes as a pre existing condition has decreased over the course of the Omicron wave. In January diabetes was present in close to 20% of deaths, with this decreasing to approximately 12% in July and August. 
+  The numbers of deaths from COVID 19 with a musculoskeletal condition has increased over the year. 
+Socio economic indexes rank areas in Australia according to relative socio economic advantage and disadvantage. In the table below, these are presented as quintiles. Approximately 20% of the Australian population falls into each quintile. 
+By wave: 
+During the Omicron wave: 
+  In all four waves of the pandemic the highest proportion of deaths have occurred in people who are most disadvantaged. 
+  During the Delta wave, the proportion of deaths from COVID 19 was 5.1 times higher in those who are most disadvantaged compared to those who are least disadvantaged. 
+  Deaths from COVID 19 were 2.7 times higher in those who are most disadvantaged compared to those are least disadvantaged during the Omicron wave. This is the lowest ratio across all four waves. 
+  The highest proportion of deaths occurring in those who are most disadvantaged occurred in February (35.1%). 
+  The pattern of mortality affecting people of different socio economic status has remained relatively consistent over the course of the Omicron wave. 
+A COVID 19 related death is one where there is a disease or injury pathway to death that is not directly caused by the virus. For example, a person may have late stage cancer that has metastasised extensively causing organ damage leading to death. This person may also have contracted COVID 19. While the virus may have negatively impacted health in an immuno compromised person, the virus itself did not cause the terminal event leading to death (e.g. organ failure caused by metastases). In this example, the underlying cause of death would be recorded as cancer and COVID 19 would be considered an associated cause of death. 
+By wave: 
+  During Waves 1 and 2 of the pandemic it was rare for an individual to die "with COVID 19". For almost all COVID 19 deaths occurring during this period the virus caused complications leading to death. 
+  During the Omicron wave over 20% of people who had COVID 19 listed on their death certificate died of an alternative cause with COVID 19 a contributing factor. 
+  A higher proportion of people who die with COVID 19 are aged under 60 years when compared to those who die from complications directly caused by the virus. 
+During the Omicron wave: 
+  The proportion of people dying with COVID 19 has increased over the course of 2022. 
+  From March 2022, over 20% of COVID 19 associated mortality are deaths where the person has died with COVID 19. 
+  Close to 30% of COVID 19 associated deaths in August were of people dying with COVID 19. 
+During the Omicron wave: 
+  Cancer was the most common cause of death for each month in 2022 for people dying with COVID 19. During the Omicron wave, over one quarter of people who have died with COVID 19 have died from cancer. Of the 588 deaths due to cancer where COVID 19 was a contributing cause, 74 people were aged under 60 years. 
+  Dementia was the second most common cause of death for people dying with COVID 19 throughout the year. For people aged over 80, dementia is the most common cause of death for those dying with COVID 19. 
+  COVID 19 related deaths have increased over the year, with many causes such as cancer, dementia and ischaemic heart diseases recording increases particularly through the winter months. 
+  The Northern Territory has the highest proportion of people dying with COVID 19 at 40.7%. 
+  With the exception of Victoria and South Australia, all jurisdictions have more than 20% of COVID 19 associated deaths attributed to dying with the virus. 

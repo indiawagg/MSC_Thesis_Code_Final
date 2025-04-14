@@ -1,0 +1,11 @@
+Date:
+2024-03-06
+Article Title:
+The Daily — Income and Financial data of T1 tax filers, 2022
+Article Content:
+Released: 2024 03 06
+Canadian tax filers earned on average $38,290 (+6.4%) in wages, salaries and commissions in 2022. When including other private incomes and government transfers, the average total income was $56,560 (+2.8%) in 2022. Charitable donations (average $400,  4.8%) and RRSP contributions (average $1,870,  6.5%) reported by T1 tax filers fell in 2022.
+The document "Technical Reference Guide for the Preliminary Estimates from the T1 Family File (T1FF)" (11260001) presents information about the methodology, concepts and quality for the data available in this release.
+Additional data on Canadian tax filers (Catalogue number17C0010, various prices), on charitable donors (Catalogue number13C0014, various prices), on registered retirement savings plan contributors (Catalogue number17C0006, various prices) and on wages, salaries and commissions (11230001, various prices) are also now available for Canada, the provinces and territories, economic regions, census divisions, census subdivisions, census metropolitan areas, census agglomerations, census tracts, and postal based geographies. These custom services are available upon request.
+The Income, pensions, spending and wealth statistics portal, which is accessible from the Subjects module of the Statistics Canada website, provides users with a single point of access to a wide variety of information related to income, pensions, spending and wealth.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

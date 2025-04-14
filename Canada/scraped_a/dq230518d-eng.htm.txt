@@ -1,0 +1,15 @@
+Date:
+2023-05-18
+Article Title:
+The Daily — Study: Analysis of jobs and mobility of paid workers by economic region, 2001 to 2021
+Article Content:
+Released: 2023 05 18
+Today, Statistics Canada is releasing a study entitled "Canadian regional labour statistics and inter regional movements of paid workers, 2001 to 2021."
+The movement of labour between regions is economically efficient because it allows workers to move to where they are most needed. It can also be an acceptable public policy objective at the local and provincial level if it supports justified social and economic interests, such as encouraging local development. High quality and relevant data are needed to improve policies on inter regional labour mobility, which is what the study attempts to explore. It focuses on the new, experimental regional labour statistics for the period from 2001 to 2021, in which labour force information is adjusted to reflect the economic regions where people work. This new database facilitates the analyses of regional labour markets and allows users to examine regional distributions of jobs and hours worked and to track inter regional labour movements.
+The inter regional analyses revealed that, in 2021, Quebec and Ontario had the economic regions that were the largest sources of or destinations for workers. Each economic region that records a large net inflow of jobs is surrounded by a cluster of economic regions that record considerable net outflows of workforce to different destinations. Such clusters have been formed around Montréal, Toronto, Ottawa and Capitale Nationale (surrounding Québec). Within these clusters, the main suppliers of jobs were the Montérégie, Lanaudière, Laurentides and Hamilton–Niagara Peninsula regions.
+During the first year of the COVID 19 pandemic in 2020, the subsequent public health measures meant many Canadians were unable to work, especially in regional employment hubs, such as Toronto, Lower Mainland–Southwest, Montréal, Calgary and Edmonton. From 2010 to 2021, 64 of the 76 economic regions maintained their positions as net suppliers or net recipients of labour force. Some of the principal labour supplying regions had steady increases in their net outflows of jobs from 2010 to 2021.
+The study, "Canadian regional labour statistics and inter regional movements of paid workers, 2001 to 2021," which is part of Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X), is now available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure. 
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available. 
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

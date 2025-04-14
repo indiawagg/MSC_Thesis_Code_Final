@@ -1,0 +1,15 @@
+Date:
+2024-06-21
+Article Title:
+The Daily — Annual civil aviation statistics: First look, 2023
+Article Content:
+Released: 2024 06 21
+Canadian air carriers transported 89.9 million passengers in 2023, an increase of 32.3% from the 67.9 million passengers carried in 2022 and accounting for 95.5% of the 94.1 million passengers carried in 2019, before the COVID 19 pandemic.
+These preliminary estimates provide a first look at key variables, including passengers, total traffic, revenues and expenses. The first look was introduced at the onset of the pandemic, to gauge impacts on commercial aviation in a timely manner.
+Recovery of the airline industry began in 2021 and accelerated into 2022 with the lifting of all COVID 19 travel restrictions. It continued at a slower pace in 2023, as air traffic approached pre pandemic levels but was tempered by wildfires during the busy summer travel season (see Monthly civil aviation statistics, July 2023). 
+Domestic traffic reached 44.4 million passengers in 2023, up 23.5% from 2022 and accounting for 91.0% of the 2019 pre pandemic level. International traffic, at 45.4 million passengers in 2023, increased 42.1% from 2022 and was slightly above (+0.2%) the 2019 pre pandemic level.
+Total traffic reached 228.5 billion passenger kilometres in 2023, 35.5% higher than in 2022 and 2.0% below the 2019 output. Each passenger travelled an average of 2,542 kilometres in 2023, 2.6% above the 2019 level (2,478 kilometres). At 3.1 million hours, total hours flown in 2023 were 5.8% below the 2019 level.
+Operating revenue earned by Level I to III air carriers in 2023 totalled $35.7 billion, 21.1% higher than in 2019. Passenger revenue was 19.0% higher in 2023 than the 2019 level.
+Operating expenses ($32.8 billion) also rose in 2023 and were 19.8% higher than in 2019. With increased traffic in 2023, fuel consumption was 21.5% higher than in 2022 and 1.6% below the 2019 level. Due to lower aviation fuel prices in 2023 (see the Industrial Product Price Index), fuel costs (+12.5%) grew at a slower rate than in 2022.
+In 2023, employment in the airline industry increased 3.8% from 2019, while wages and salaries were 37.5% higher than in 2019, contributing to higher operating expenses.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

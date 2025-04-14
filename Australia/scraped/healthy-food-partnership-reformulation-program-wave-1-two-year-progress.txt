@@ -1,0 +1,100 @@
+Date:
+2023-02-15
+Article Title:
+ Healthy Food Partnership Reformulation Program: Wave 1, two-year progress
+
+Article Content:
+  Of the participating products in scope for sodium reformulation, 14% (155) recorded a decrease in sodium content between June 2020 and June 2022. Sodium levels of these products declined by an average of 3% over the period.
+  The population impact of the sodium reduction was estimated to be 8.3 mg per person per day, equivalent to a 0.3% reduction from the total sodium intake of 3,045 mg per person per day in 2020 21.
+  Of the participating products in scope for saturated fat reformulation, 11% (11) recorded a decrease in their saturated fat content. The average decrease in the amount of saturated fat was 0.5% between June 2020 and June 2022. 
+  The population impact of the reduction in saturated fat intake was 0.1 gram per person per day, which was less than 0.2% of the total 36.3 grams of saturated fat consumed per person per day estimated in 2020 21.
+In 2015, the Australian Government established the  (HFP) as a voluntary collaboration between the food industry, the public health sector and government. Its goal is to enhance health and reduce overweight and obesity by improving the food environment and influencing Australian's ability to make healthier food choices. A key initiative of the HFP is the  (PRP) which aims to reduce the Australian population’s consumption of sodium, saturated fat and sugar from processed food products.
+The reformulation phase of the PRP is being conducted from 2020 to 2026 with eligible food categories being divided into waves. Each wave specifies targets for the maximum levels of sodium, saturated fat and total sugars content within specified food categories (e.g. ‘Soups’) that Australian companies can voluntarily work towards over a four year period. 
+The four year implementation period for Wave 1 of the PRP commenced on 1 July 2020 following the introduction of voluntary reformulation targets for:
+This article provides an update on the progress towards the reformulation targets at the two year mark (from June 2020 to June 2022) based on reporting by participating manufacturers. The analysis includes the number of participating products that met the sodium/saturated fat targets at each period, the change in average sodium/saturated fat content (per 100g) and the reformulation impact at the population level. For details on the methods and assumptions used to measure population impact see the  section.
+  Sodium (across 27 food categories)
+  Saturated fat (across 5 food categories) 
+Sodium data was provided for 1,110 products across 27 categories of processed foods. The leading categories (by number of products) included:
+  Leavened breads (362)
+  Cakes, muffins, and slices (186)
+  Crumbed and battered meat and poultry (69)
+  Other savoury sauces (62)
+  Soups (56)
+When the data from manufacturers was integrated with 2020 21 scanner data sales, it was estimated that the participating products contributed a total of 246 mg per capita per day at baseline (June 2020) which was equivalent to 8.1% of total dietary sodium at baseline (3,045 mg per person per day). However, most (59%) of dietary sodium comes from products that are beyond the scope of the 27 food categories selected for sodium reformulation.  A ‘like with like’ comparison to the same 27 food categories shows the participating products accounted for 20% of dietary sodium although there was wide variation across food categories.  
+The food categories with highest coverage of sodium at baseline were:
+In contrast, the food categories with the lowest sodium coverage among the participating products were:
+  Sausages, with participating products accounting for 52% of all the sodium in sausages
+  Leavened bread (49%)
+  Cakes, muffins and slices (44%)
+  Pizza (29%)
+  Salt and vinegar snacks, where the participating products accounted for 0.9% of sodium from salt and vinegar snacks
+  Gravies and finishing sauces (1.2%)
+  Asian cooking sauces (1.5%)
+  Potato snacks (3.1%)
+  Flavoured savoury biscuits, crackers and ‘grain cake’ biscuits (3.1%)
+Over one in ten (155) of the participating products that were part of the Wave 1 PRP recorded a decrease in sodium content between June 2020 and June 2022 and just under half (47% or 73) of these went from exceeding to meeting their respective targets.
+Reformulation of these products resulted in the overall proportion of participating products meeting sodium targets increasing from 64% in 2020 to 70% in 2022.
+Two categories of plain savoury biscuits were the only categories to have 100% of their participating products meeting the sodium targets. Although both had met the targets at baseline, the plain savoury crackers and biscuits group managed a further decrease of sodium over the two year period (while plain corn, rice and other ‘grain cake’ biscuits remained constant).
+Other categories with relatively high proportions of products meeting the sodium targets included:
+Food categories with the lowest proportion meeting sodium targets included:
+  Cheddar and cheddar style cheese (95% in both periods)
+  Flavoured savoury biscuits, crackers and ‘grain cake’ biscuits with 88% in 2022, which was a decrease from 92% in 2020 (this small decrease is a result of one out of 25 of these biscuits products recording an increase in the sodium over the period).
+  Vegetable, grains, and other savoury snacks (88% met sodium targets, up from 75%)
+  Crumbed and battered meat and poultry (83%, up from 73%)
+  Dry savoury pastries (e.g. sausage rolls, pasties, and hors d'oeuvres) (82%, up from 71%)
+  Cakes, muffins, and slices (76% up from 70%)
+  Salt and vinegar snacks (0%, unchanged)
+  Processed deli meat (0%, unchanged)
+  Crumbed and battered seafood (28% met sodium targets, up from 17%)
+On average, sodium content decreased by 3.0% across all participating products.
+The greatest relative reductions in average sodium were seen in:
+Based on average sodium content at June 2022, 19 out of 27 food categories met their respective targets.
+  Pesto ( 6.8%)
+  Crumbed and battered seafood ( 5.3%)
+  Processed cheeses ( 5.3%)
+  Dry savoury pastries ( 5.3%)
+  Sausages ( 5.2%)
+Taking account of the sales of the products to estimate the apparent consumption impact of reformulation from industry supplied data shows that on average, consumption of sodium for the Australian population fell by 8.3 mg per person per day which was 0.3% of the estimated total consumption of 3,045mg of sodium per person per day.
+Three food categories were responsible for 71% of the overall sodium reduction between June 2020 and June 2022. These were:
+  Sausages (which contributed to a 2.8 mg reduction in sodium consumption per person per day), accounted for around one third (33%) of the overall reduction in sodium.
+  Leavened breads ( 1.8 mg per person per day) contributed just over one fifth (21%) of the overall reduction.
+  Cakes, Muffins and Slices ( 1.4 mg per person per day) contributed 16% of the overall reduction.
+Although  8.3 mg of sodium per person per day is a relatively modest reduction of the total dietary sodium available for consumption, over a year that amounts to 78 tonnes of sodium (or almost 200 tonnes of table salt) being removed from the food supply.
+Summary of industry supplied product data
+Saturated fat data was provided for 104 products across 5 categories of processed foods. The leading categories and number of products were:
+  Pizza (35)
+  Sausages (31)
+  Wet savoury pastries (e.g. meat pies) (17)
+  Dry savoury pastries (e.g. sausage rolls, pasties) (17)
+When manufacturers’ information was integrated with the 2020 21 scanner data sales, it was estimated that the participating products contributed less than one gram of saturated fat per person per day in each period which represented around 1.5% of total dietary saturated fat (36.3 g per person). However, the vast majority (96%) of the total dietary saturated fat comes from products that were beyond the scope of the 5 food categories selected for saturated fat reformulation in the Wave 1 PRP. 
+Within the in scope food categories, the participating products accounted for 33% of saturated fat from all products in these categories.  By food category, the estimated coverage levels of saturated fat from the participating products were:
+  Sausages (54%)
+  Pizza (34%)
+  Wet savoury pastries (15%)
+  Dry savoury pastries (15%)
+Around one in ten (11 of 104) of the participating products recorded a decrease in saturated fat content between June 2020 and June 2022. However, there were also 17 participating products which recorded an increase in saturated fat content over this period. This increase led to a reduction in the proportion of the participating products meeting the reformulation target (58% to 52%).
+Among the relevant food categories, the proportion of products meeting the saturated fat targets were:
+  Wet pastries and Frankfurts and saveloys (100% of each category in both periods)
+  Dry pastries (41% down from 59%)
+  Pizza (40% down from 46%)
+  Sausages (39% down from 42%)
+Even though more products increased saturated fat content than decreased, average saturated fat content of the participating products decreased from 6.1g to 6.0g per 100g.  This was due to the differences in the amounts of saturated fat within products, with sausages in particular driving the overall reduction with a decrease from 7.5g to 7.1g per 100g.
+Taking account of the sales of the participating products to estimate the apparent consumption impact of reformulation shows that on average, consumption of saturated fat fell by 0.1g per person per day. Over the 2020 21 year, this equates to a total reduction of 470 tonnes of saturated fat.
+By food category, it appears only sausages contributed to the reduction (falling from 0.8g to 0.7g per person per day) while all other food categories remained unchanged.  However, there were some products within the categories of wet savoury pastries, dry savoury pastries, and pizza products which had reductions that were cancelled out in the aggregate by other products from these categories which increased in saturated fat content.
+ 
+The analysis focusses on the difference in consumed sodium and saturated fat from the approximately 1,110 products from Australian companies who provided nutrient composition data specifying levels at June 2020 and June 2022. Incorporating the 2020 and 2022 composition data from participating products into the existing 2020 21 scanner data sales makes an ‘all else being equal’ comparison by effectively isolating the effect of a single independent variable of interest (nutrient composition). 
+Participating Australian food manufacturers provided sodium/saturated fat data for foods in scope for Wave 1 reformulation program to the Healthy Food Partnership secretariat, who with the permission of the manufacturers, shared the data with ABS. The information supplied and used for all participating products included:
+The participating products were linked to scanner data sales via their barcodes (or where barcodes or store SKUs were not supplied, by using the brand product name description to find the equivalent product in the scanner data).  The latter process was used in a minority of cases and relied on probabilistic matching of text strings. Despite careful clerical editing of the matches and other manual searching of scanner data product catalogues it is possible that some of the true matching scanner data sales have been missed. 
+Once the process of linking the participating products to sales was complete, the matches were incorporated into the existing Apparent Consumption of Selected Foodstuffs (ACSF) coding database of around 140,000 foods. The existing database simultaneously connects the product barcodes/SKUs to supermarket sales and the 2011 13 AUSNUT food nutrient database (for nutrient values).  Four new columns were added to the database to hold the 2020 and 2022 sodium/saturated fat values provided. For most of the participating products which were already in the coding database, their 2020 and 2022 sodium/saturated fat values were updated with the actual mg/g per 100g values supplied.  For the non participating products, their existing AUSNUT values were used to fill both the 2020 and 2022 values. That is, we assume that foods which did not have their sodium/saturated fat data supplied were not reformulated and therefore their sodium/saturated fat values are held constant in both periods.
+For further information about the ASCF concepts, data sources and methods, please see the ACSF .
+  Applicable Food category
+  Brand and product name
+  Product barcode (or other unique identifier such as retail Stock Keeping Unit (SKU))
+  Weight/volume of the product
+  Sodium and saturated fat values for all applicable Wave 1 food categories products in June 2020 and June 2022 (noting sodium was in scope for reformulation for all 27 food categories, while saturated fat was required for 5 of those food categories).
+  This analysis assumes that all variables other than the target nutrients are held constant. That is, it assumes consumer preferences for the comparison are unchanged from 2020 21 sales.  It also assumes that similar products from non participating manufacturers have not undergone reformulation between 2020 and 2022.
+  Despite coherence with the 2020 21 ACSF, total sodium and saturated fat intakes in this analysis will differ from those published in the 2020 21 ACSF. This is due to the updating of sodium and saturated fat data with the more accurate values for product data supplied in Wave 1 of the PRP.
+  Apparent consumption of food and nutrients in ACSF data are weighted from the major supermarkets to represent non supermarket stores such as small independent supermarkets, convenience stores, Asian grocers and delis. For more detail about the weighting method, please see Data sources and Estimation sections from the ACSF  notes.
+  Although all participating products were manufactured in Australia, the same may not be true for all the non participating products within the in scope food categories. Uncertainty about the proportion of manufactured foods which are processed outside of Australia suggests that the measure of nutrient coverage by participating products should be considered with caution. 
+  While the coding database is reviewed annually to ensure coding integrity, it is possible that inaccuracies remain among some products.  Any such inaccuracies if significant enough may impact the total amount of sodium/saturated fat in the food categories used as denominators to measure coverage of nutrients in the participating products. 
+  A further limitation of the coding database may be the 2011 13 reference period which AUSNUT was designed to represent. Over the past ten years the food supply has continued to evolve with new products appearing and others being removed. Some of the new products in relevant categories may already conform or be closer to the targets for sodium/saturated fat despite not being a PRP participating product.  Any significant drop in the average sodium/saturated fat content over the decade for any given AUSNUT food category could artificially inflate the denominator of all foods thereby resulting in an underestimate of the proportion of the total sodium intakes from PRP participating foods for each relevant food category or contribution to estimated total sodium or saturated fat intakes from all foods included in the scanner data.

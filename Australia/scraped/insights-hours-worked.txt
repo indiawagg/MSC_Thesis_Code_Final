@@ -1,0 +1,28 @@
+Date:
+2020-04-16
+Article Title:
+ Insights into hours worked
+
+Article Content:
+As of March, there was no major impact from COVID 19 on key employment, unemployment, and participation series. However, there have been some early impacts evident in the hours worked series. 
+Early labour market impacts from major disruption to the economy tend to be most evident in the hours people work. Hours worked can change more quickly than employment, given the variability in individual circumstances for people and businesses from one week to the next. During an economic downturn, reducing hours is often an early response taken by businesses, often with the view to avoiding people losing their jobs.
+It is important to note that the reference weeks for the Labour Force Survey were in the first half of March, when there were a relatively low number of confirmed COVID 19 cases within Australia, and many of the additional social distancing measure, shutdowns of non essential services and trading restrictions had yet to be announced or take effect.
+Measuring changes in the number of hours worked is critical to an effective understanding of how the labour market is changing over time.
+However, as hours worked have a high degree of seasonality (e.g. public holidays, school holidays and other major annual events), the ABS produces trend and seasonally adjusted series. These series adjust for the underlying seasonality, and also convert the weekly hours measures into hours worked across the whole month.
+The year on year growth rates for both hours worked and employment have been falling over the past year, with the growth rate for the hours worked series slowing earlier, and more quickly, than employment.
+The hours worked growth rate for women has remained relatively strong over the past three years, usually around or above the growth rate for employment.
+In contrast, the growth rate for hours worked by men has been slowing more quickly than employment for the past two years, with trend hours worked now declining. Male hours worked has seen negative growth in the past two months.
+Looking at the monthly movements, there has been negligible month to month growth in hours worked recently. Like the year on year growth rates, there has been negative growth in hours worked for men and moderate growth for women. For men, the growth rates in employment and hours worked have been diverging over the past six months, while for women the growth rate has been relatively steady for hours worked, but declining for employment.
+Table 1 below shows the distribution of employed men and women across the hours worked categories, in March 2020 and for each of the past 5 years. A year on year comparison has been used to control for the effects of seasonality as the data in hours ranges are only available in original terms.
+Over the past 5 years:
+  the proportion of men working very long hours (60 hours or more) consistently fell, while the proportion working part time hours (less than 35 hours) rose; and
+  the proportion of women working 35 44 hours per week increased, while those working longer full time hours (45 hours or more) fell.
+The number of people working less hours than usual may also provide an early indication of hours impacted by COVID 19. Chart 7 presents this information as an original data time series for the past 5 years, and shows that there was not a noticeable increase in March 2020. 
+The reasons people worked less hours than usual will also provide insights into COVID 19 impacts in future months. The most common reasons people worked fewer than their usual hours in March 2020 were:
+  annual leave, holidays, flextime or long service leave (37%);
+  own illness, injury or sick leave (14%);
+  standard work arrangements (including shift work) (13%); and
+  no work, not enough work available, or stood down (13%).
+The monthly hours worked in all jobs series can be found in Table 19 of . March 2020 data will be released in full on 23 April 2020.
+Data on the reasons people worked fewer hours than usual, and the number of people working in different categories of hours, cross classified by a range of characteristics, are available within the detailed monthly and quarterly Labour Force releases. Care should be taken in interpreting month to month changes in the original data, given the systematic seasonality in hours worked. Detailed data for specific sub populations will also be inherently more volatile than higher level aggregates, and the ABS generally recommends using smoothing techniques when using very detailed data.
+Hours worked data are also available from the quarterly , which is the best source of information of hours by industry. March quarter Labour Account estimates will be released in June 2020.

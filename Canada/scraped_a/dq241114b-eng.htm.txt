@@ -1,0 +1,15 @@
+Date:
+2024-11-14
+Article Title:
+The Daily — Remaining useful service life ratios of non-residential capital stock, 2023
+Article Content:
+Released: 2024 11 14
+The remaining useful service life ratio of non residential capital stock edged down from 63.4% in 2022 to 63.3% in 2023, resulting from a slowdown in investment. This was the eighth consecutive decline in the ratio and its lowest level since 2009. A decrease in the remaining useful service life ratio could indicate that new capital investment is required.
+The provinces and territories rich in natural resources recorded the highest decreases in the remaining useful service life ratio in 2023: Newfoundland and Labrador ( 0.9 percentage points), Saskatchewan ( 0.8 percentage points), Alberta ( 0.8 percentage points), and Nunavut ( 0.9 percentage points). Meanwhile, increases were seen in Prince Edward Island (+0.5 percentage points), Nova Scotia (+0.3 percentage points), Quebec (+0.3 percentage points), Ontario (+0.1 percentage points), British Columbia (+0.7 percentage points) and Yukon (+0.6 percentage points).
+The aggregate remaining useful service life ratio varied across Canada in 2023, ranging from a low of 49.8% in the Northwest Territories to a high of 67.4% in British Columbia. The remaining useful service life ratio increased the most in British Columbia due to investments in construction related to the liquified natural gas terminal near Kitimat.
+In 2023, the education services sector (67.5%) posted its third consecutive year over year increase in its remaining useful service life ratio. The largest decline was in the retail trade sector, down 1.8 percentage points to 53.5% in 2023. This sector has posted decreases every year since 2009.
+The data visualization product "Infrastructure Statistics Hub," which is part of Statistics Canada – Data Visualization Products (Catalogue number71 607 X), is available.
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available. 
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is also available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

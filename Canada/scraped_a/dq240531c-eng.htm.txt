@@ -1,0 +1,18 @@
+Date:
+2024-05-31
+Article Title:
+The Daily — Food availability, 2023
+Article Content:
+Released: 2024 05 31
+In 2023, many commodities, such as pork, chicken and wheat flour, saw increases in Canadian production. However, from July 1, 2022, to July 1, 2023, Canada's population saw one of its highest 12 month growth rates (+2.9%) since 1957 (+3.3%). As a result, many commodities experienced a decline in per capita availability in 2023.
+The food availability series includes data on the annual supply and disposition of food in Canada, as well as per capita estimates of the amounts of food available to Canadians.
+From 2022 to 2023, the availability of fresh fruit (including citrus) declined by 1.8% to 71.5 kilograms per person. Fresh fruit production was down 7.5% in 2023, but imports increased while exports decreased. The availability of processed fruit decreased 11.3% to 15.3 kilograms per person.
+The availability of fresh vegetables (excluding potatoes) was 63.7 kilograms per person in 2023, a decrease of 1.5% from 2022. While the total amount of fresh vegetables (excluding potatoes) available increased by 1.4% from 2022, it was outpaced by Canadian population growth. The availability of processed vegetables decreased to 34.0 kilograms of fresh equivalent per person in 2023 ( 4.7% from 2022).
+Total poultry availability remained stable in 2023 (+0.1% from 2022), at 25.5 kilograms (boneless weight) per person. Poultry production increased (+3.6% from 2022) for the third consecutive year in 2023.
+The availability of red meat increased by 1.2% in 2023, compared with 2022, to 32.7 kilograms (boneless weight) per person. The availability of pork surpassed that of beef in 2023, with 16.7 kilograms (boneless weight) available per person (+14.4% from 2022), as pork exports continued to decline. Beef availability declined to 14.4 kilograms (boneless weight) per person in 2023 ( 7.1% from 2022), as cattle slaughter decreased.
+From 2022 to 2023, egg availability decreased by 1.1% to 21.2 dozens per person despite record egg production, as Canadian population growth outpaced the increase in production of the egg industry.
+The availability of total milk decreased in 2023 ( 2.6% from 2022) to 57.0 litres per person, as availability of 2%, 1%, skim, and chocolate and other flavoured milk all declined. However, standard milk availability increased by 3.0% to 11.5 litres per person.
+Total cheese availability decreased 2.1% to 13.9 kilograms per person from 2022 to 2023. Production of processed cheese ( 6.4% from 2022) and variety cheese ( 0.4% from 2022) declined in 2023.
+Total cream availability declined 1.5% from 2022 to 9.5 litres per person in 2023, despite increases in production of table cream, sour cream and cereal cream.
+In 2023, availability of wheat flour decreased by 0.8% compared with 2022 to 58.8 kilograms per person. This decline occurred despite a record for imports paired with a slight increase in production (+0.6%) from 2022.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

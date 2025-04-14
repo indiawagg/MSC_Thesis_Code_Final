@@ -1,0 +1,21 @@
+Date:
+2022-10-28
+Article Title:
+ Digital activity in the Australian economy, 2020-21
+
+Article Content:
+This article provides an update on the size, growth and nature of digital activity in Australia for 2020 21. These experimental estimates incorporate data from the most recent .
+The ABS measures digital activity in Australia as the production of:
+This article supplements the previous  article which provides analysis of experimental data back to 2011 12.
+More details on the ABS digital activity framework are covered in the .
+  Digital enabling infrastructure, such as computer hardware, software, telecommunications equipment and support services that form and facilitate the use of computer networks;
+  Digital media, which covers digital audio, video and advertisement broadcasting services that can be created, accessed, stored or viewed on digital devices; and
+  E commerce, which incorporate retail and wholesale services and margins from digitally ordered or platform enabled online transactions.
+Digital activity value added increased by 7.8% ($8.6 billion) in 2020 21, compared with a 4.8% increase for the total Australian economy. This growth was driven by increases in online sales from retailers and wholesalers and support services.   
+Digital activity accounted for 6.1% ($118.0 billion) of total economy value added ($1,944.8 billion), compared to 5.9% ($109.4 billion) in 2019 20 (Graph 1).
+In 2020 21, the digital activity share of aggregate value added (6.1%) was higher than that of 14 industry divisions, but below traditional drivers of economic activity like Mining (11.5%), Health (8.1%), Finance (8.1%), Professional, scientific and technical services (7.7%) and Construction (7.5%) (Graph 2).
+Within digital activity, the share in production was dominated by demand for Support services (42.6%), Telecommunications (20.3%) and Wholesale e commerce (19.7%) (Graph 3).
+In 2020 21, the shares of E Commerce   Retail in total digital activity value added increased by 1.7% while the share of Telecommunications and Support services decreased by 1.6% and 1.0% respectively.
+In 2020 21, digital activity value added grew by 7.8% in current price terms, compared to a 4.8% increase in total economy value added (Graph 4).
+Within digital activity, the largest increases were in E commerce   Retail (41.5%), Software (23.2%) and E commerce   Wholesale (10.3%). E commerce Retail and E commerce Wholesale growth was driven by growing online trade. The strength in Software was driven by an increase in software publishing services.
+Some estimates of digital activity have been revised in line with the updates made through the revisions applied to the Australian National Accounts, see the  for further information. Additionally, revisions have been made to estimates in 2018 19 and 2019 20, resulting from new and updated information.

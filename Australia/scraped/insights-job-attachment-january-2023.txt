@@ -1,0 +1,37 @@
+Date:
+2023-02-16
+Article Title:
+ Insights into job attachment, January 2023
+
+Article Content:
+‘Job attachment’ refers to whether someone has a job that they are connected to.
+Whether someone has a job is one of a number of elements used by the ABS to determine whether someone is employed or not, together with whether they have worked an hour or more (or whether they were temporarily absent from work) and whether they have been paid. For more on how the ABS defines someone as employed, refer to the .
+Given employment is determined using multiple criteria, it is possible for someone to have attachment to a job without necessarily being employed. Prior to the pandemic, there was a relatively small number of people each month who had attachment to a job but were not considered to be employed, peaking in January each year. These people are comprised of two groups:
+There is a small amount of overlap in the two groups, so the sub components do not sum to the totals presented in this article.
+For more on how the ABS categorises people outside of employment, see the ABS release on ‘'.
+  The ‘long term away from work’, people who have a job that they are away from without pay for more than a month (e.g. people on unpaid parental leave) and,
+  The ‘waiting to start work’, people who have a job but haven’t started (or restarted) in it yet (who are categorised as either unemployed or not in the labour force according to their current availability to work and when the job could begin).
+In this article, the pre COVID average is calculated as the average of Januarys in the 5 years from 2016 to 2020. However, January 2017 is the best direct comparison for January 2023, given it was the previous time the survey reference period covered 1 January to 14 January.
+Chart 1 shows the job attached populations over time. There are clear seasonal peaks in January for both populations, as well as large increases in 2020 and 2021 when lockdown measures were implemented and then lifted. The regular seasonal pattern has returned but remained more pronounced since then.
+You can find more information about the impacts of the lockdowns on job attachment in these articles:
+  
+  
+  
+  
+Chart 2a shows the proportion of people who were not employed (either unemployed or not in the labour force) who had job attachment in January. This proportion increased from an average of 4.0 per cent of the not employed population in the Januarys in 2016 2020, to an average of 4.9 per cent in 2021 2023.
+Chart 2b shows that the increase in the proportion of not employed who had job attachment was primarily driven by an increase in the number of people who were waiting to start work. The proportion of the not employed population who were waiting to start work increased from an average of 2.4 per cent for 2016 2020 to 3.4 per cent for 2021 2023. The average proportion of not employed who were long term away from work was 2.2 per cent for both 2016 2020 and 2021 2023.
+Charts 3a and 3b show the changes in each of the populations which comprise the job attached population: people who were waiting to start work and the long term away from work. Chart 3a shows that in January 2023 there were 204,400 people waiting to start work who were not in the labour force, compared to the pre COVID average of 125,500. Additionally, there were more unemployed people who were waiting to start work (72,400 compared to the pre COVID average of 61,200).
+Chart 3b shows that there were fewer unemployed who were long term away from work in January 2023 (13,700 people compared to the pre COVID average of 22,100 people). However, there were more people who were not in the labour force and long term away from work (177,300 people compared to the pre COVID average of 149,700).
+As there was not a large difference in the long term away from work population in January 2023 compared to previous years, the remainder of this article will focus on the waiting to start work population.
+It initially explores those people who were not in the labour force, who are the larger population. The increase in this population is important to consider when interpreting the fall in the seasonally adjusted participation rate in January 2023.
+It then explores unemployed people – who are referred to as ‘unemployed future starters’. The increase in this population is important to consider when interpreting the increase in the seasonally adjusted estimate of unemployment in January 2023, and the corresponding increase in the seasonally adjusted unemployment rate.
+In January 2023, there were large increases in the number of people who were not in the labour force (those neither employed or unemployed) and waiting to start work, for both sexes. There were around 110 per cent more males (87,400 compared to the pre COVID average of 42,000) and around 40 per cent more females (117,100 compared to the pre COVID average of 83,500).
+Chart 4 shows that in January 2023, there were above average levels of people waiting to start work, who were not in the labour force, in every State and Territory except in the Northern Territory.
+In order to be considered unemployed a person must have not been employed during the reference week, and:
+The second of these groups of unemployed people is referred to by labour statisticians around the world as ‘future starters’.
+  had actively looked for work at any time in the four weeks up to the end of the reference week and were available for work in the reference week; or
+  were waiting to start a new job within four weeks from the end of the reference week and could have started in the reference week if the job had been available then.
+In January 2023, there were large increases in the number of unemployed future starters. There were around 11 per cent more males (32,600 compared to the pre COVID average of 29,500), and around 25 per cent more females (39,800 compared to the pre COVID average of 31,700).
+Chart 5 shows that, compared to the pre COVID average, there were more future starters in January in all States and Territories except for Western Australia and the Northern Territory. 
+The following charts were included in previous ABS analysis of job attachment, as useful summary measures
+Chart 6 shows a larger than usual seasonal increase in people not in the labour force with job attachment in January 2023. Chart 7 shows a smaller drop in the job attachment ratio compared to the employment to population ratio and participation rate in January 2023.

@@ -1,0 +1,34 @@
+Title: Groei arbeidsproductiviteit blijft achter bij andere landen
+Date: 2024-10-16 04:30:00 UTC
+
+Lead Text:
+                De groei van de Nederlandse arbeidsproductiviteit vertraagde in het afgelopen decennium sterker dan in andere hoge-inkomenslanden, waardoor Nederland afzakte op de ranglijst van bruto binnenlands product (bbp) per gewerkt uur. Deze ontwikkeling is grotendeels te verklaren door een verschuiving van arbeid naar minder productieve bedrijfstakken en het afschalen van de gaswinning in Groningen. Dat blijkt uit het artikel ‘Achtergrond bij de daling van de arbeidsproductiviteitsgroei van Nederland’ dat het CBS vandaag publiceert.
+            
+
+Article Content:
+
+
+
+Arbeidsproductiviteit wordt niet direct gemeten, maar berekend door de totale bruto toegevoegde waarde te delen door het aantal gewerkte uren om tot die toegevoegde waarde te komen. De arbeidsproductiviteitsgroei wordt berekend door de ontwikkelingen van de toegevoegde waarde te corrigeren voor prijsveranderingen.
+Structuureffecten dragen negatiever bij in Nederland
+Arbeidsproductiviteitsgroei van  kan op twee manieren tot stand komen. Allereerst doordat de onderliggende bedrijfstakken productiever worden, dit wordt autonome groei genoemd. Daarnaast door structuureffecten, waarbij arbeid verschuift tussen bedrijfstakken. Als de werkgelegenheid in productievere bedrijfstakken in verhouding toeneemt, groeit de arbeidsproductiviteit voor de hele commerciële sector. Andersom geldt hetzelfde: bij een relatief sterker toenemende werkgelegenheid in minder productieve bedrijfstakken, daalt de arbeidsproductiviteit op macro-economisch niveau.
+In de periode 2013-2019 zorgde het structuureffect jaarlijks voor ongeveer een 0,5 procentpunt vertraging van de arbeidsproductiviteitsgroei. In andere  speelden deze effecten vaak ook een negatieve rol, maar niet zo sterk als in Nederland.
+
+
+
+Daling het sterkst bij de delfstoffenwinning, industrie, en vervoer en opslag
+De Nederlandse arbeidsproductiviteitsgroei werd vooral geremd door de vertraging van de autonome groei. De autonome groeibijdrage was in 2004-2008 nog bijna 2,5 procentpunt per jaar, maar daalde naar 1 procentpunt in de periode 2013-2019, ondanks de stabiele economische groei in beide periodes. Bijna elke bedrijfstak droeg bij aan deze vertraging, maar de bedrijfstakken delfstoffenwinning, industrie, en vervoer en opslag het meeste.
+De vertraging van de arbeidsproductiviteitsgroei in de industrie en vervoer en opslag was vergelijkbaar met andere landen en verklaart niet waarom Nederland achterbleef. De vertraging in de delfstoffenwinning was wel uniek. Hoewel deze bedrijfstak relatief klein is, heeft deze veel invloed op de macro-economische arbeidsproductiviteitsontwikkeling. In de afgelopen tien jaar was de macro-economische arbeidsproductiviteitsgroei exclusief delfstoffenwinning 0,3 procentpunt hoger dan wanneer delfstoffenwinning wel werd meegerekend.
+Dit was een uniek effect van Nederlandse politieke beslissingen vanwege het risico op aardbevingen. Vergeleken met andere hoge-inkomenslanden was de negatieve impact van de delfstoffenwinning nergens zo groot als in Nederland. In de Verenigde Staten had de bedrijfstak zelfs een positief effect. Daarnaast was de bedrijfstak relatief groot in Nederland door het grote gasveld onder Groningen. 
+
+
+
+Arbeidsproductiviteitsgroei in de afgelopen jaren iets hoger
+In de afgelopen jaren was de arbeidsproductiviteitsgroei in veel hoge-inkomenslanden nog steeds relatief traag in vergelijking met eerdere decennia, ook in Nederland. Wel lag de Nederlandse arbeidsproductiviteitsgroei gemiddeld iets hoger in de periode 2020-2023 dan in 2013-2019.
+Dit komt vooral door de structuureffecten die in de laatste jaren positief bijdroegen. Relatief meer werkgelegenheid bij bovengemiddeld productieve bedrijfstakken (het bankwezen, de IT- en informatiedienstverlening, juridisch en managementadvies, en de groothandel) zorgde voor een positief structuureffect. Minder productieve bedrijfstakken, zoals bijvoorbeeld de horeca, werden daarnaast ook harder geraakt door de lockdowns in de coronaperiode.
+De autonome groei van de meeste bedrijfstakken vertraagde juist verder in de periode 2020-2023. De delfstoffenwinning had met zo’n 0,3 procentpunt per jaar nog steeds een sterke negatieve bijdrage. Financiële instellingen, vooral banken, hadden de grootste bijdrage aan de verdere vertraging van de autonome groei.
+
+
+
+
+

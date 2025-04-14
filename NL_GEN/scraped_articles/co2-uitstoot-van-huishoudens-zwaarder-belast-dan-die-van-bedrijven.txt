@@ -1,0 +1,28 @@
+Title: CO2-uitstoot van huishoudens zwaarder belast dan die van bedrijven
+Date: 2024-10-10 04:30:00 UTC
+
+Lead Text:
+                In 2023 bedraagt de gemiddelde belasting op CO2-uitstoot in Nederland 88 euro per uitgestoten ton CO2. Er zijn grote verschillen in CO2-belasting tussen gebruikers van fossiele brandstoffen. In 2023 betalen huishoudens een 2,5 keer hogere belasting per uitgestoten ton CO2 dan bedrijven. Een aantal energie-intensieve bedrijven wordt nauwelijks belast voor hun CO2-uitstoot. Dit meldt het CBS in het onderzoek ‘Effective Carbon Rates by Manufacturing Industries and Household Consumers in the Netherlands’.
+            
+
+Article Content:
+De effectieve CO2-belastingvoet (‘’, ECR) geeft de belasting per ton uitgestoten CO2 weer. De ECR richt zich op CO2-emissies en -belastingen die direct te maken hebben met de verbranding van fossiele brandstoffen. 
+De uitstoot van broeikasgassen leidt tot opwarming van de aarde. Het klimaatbeleid in Nederland en elders is erop gericht deze uitstoot terug te dringen. Het belasten (beprijzen) van de uitstoot van broeikasgassen kan bijdragen aan deze doelstelling. CO2 is verreweg het belangrijkste broeikasgas, dat onder andere vrijkomt bij de verbranding van fossiele brandstoffen.
+
+De overheid kan de uitstoot van CO2 op verschillende manieren bij gebruikers van fossiele brandstoffen in rekening brengen. In Nederland worden CO2-emissies belast via accijns op motorbrandstoffen, de energiebelasting op aardgas en de kosten van emissierechten. Deze laatste worden via het Europese emissiehandelssysteem (EU ETS) bij bedrijven . Bij huishoudens is ook de niet-aftrekbare btw op accijns en de energiebelasting meegeteld. Er zijn ook instrumenten die de CO2-belastingvoet verlagen. Gratis toegewezen ETS-emissierechten zijn als subsidies verrekend met de ETS-belasting. Het (tijdelijke) prijsplafond op aardgas in 2023 is als subsidie verrekend met de energiebelasting.
+
+In de periode 2015-2021 steeg de belasting op de uitstoot van een kiloton CO2 (de ECR) voor Nederland van 84 naar 123 euro (omgerekend in prijzen van 2023). Belangrijkste oorzaak van de stijging is de hogere energiebelasting op aardgas. Tussen 2021 en 2023 nam de ECR weer af tot 88 euro per ton CO2. Een verlaging van de accijns op brandstof in 2022 droeg bij aan een lagere ECR in 2022. In 2023 heeft het energieprijsplafond per saldo geleid tot een lagere belasting op het gebruik van aardgas. Zonder dit plafond was de ECR (bij gelijkblijvend verbruik) voor 2023 uitgekomen op 107 euro. Door de gestegen ETS-marktprijzen is vanaf 2021 een hogere bijdrage te zien van de kosten van emissierechten in de ECR.
+
+
+
+Huishoudens betalen relatief het meest voor hun uitstoot CO2
+
+Onder de groepen van  hebben huishoudens de hoogste ECR met 219 euro per ton CO2-uitstoot in 2023. Dit is inclusief de tijdelijke subsidie op de gasprijzen in 2023 door de invoering van het energieprijsplafond. Wel is de ECR van huishoudens gecorrigeerd voor inflatie lager dan in 2015.
+
+Van de grote uitstoters hebben alleen de huishoudens en het vervoer over land een ECR boven het Nederlands gemiddelde. De CO2-uitstoot van het internationaal vervoer over water en door de lucht is echter nagenoeg onbelast. Ook de uitstoot van energie-intensieve bedrijven in de industrie is niet of nauwelijks belast. Dit is het gevolg van belastingkortingen of vrijstellingen op de energiebelasting en de gratis toegewezen ETS-emissierechten. De basismetaalindustrie laat hierdoor per saldo een negatieve ECR zien.
+
+In de periode 2015-2023 is de CO2-uitstoot, exclusief de verbranding van biomassa, afgenomen, van 186 miljard naar 138 miljard kilogram. De meest in het oog springende daling is in de bedrijfstak energievoorziening, waar de CO2-uitstoot meer dan halveerde. Tegelijkertijd nam de ECR in deze industrie toe van 12 euro in 2015 naar bijna 76 euro per ton CO2-uitstoot in 2023. Dit komt doordat energiebedrijven na 2013 geen gratis ETS-emissierechten meer ontvangen. Als gevolg daarvan, en door de stijgende ETS-prijzen, zijn de energiebedrijven steeds meer gaan betalen voor hun CO2-uitstoot.
+
+
+
+

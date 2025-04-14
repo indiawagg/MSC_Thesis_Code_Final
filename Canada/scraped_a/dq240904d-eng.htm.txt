@@ -1,0 +1,9 @@
+Date:
+2024-09-04
+Article Title:
+The Daily — Canadian international merchandise trade by industry for all countries, July 2024
+Article Content:
+Released: 2024 09 04
+Today, Statistics Canada has released a new table featuring Canadian international merchandise trade data by industry for all countries for the period from January 2002 to July 2024.
+The trade data published in table 12 10 0176 01 are created using the concordance of the Harmonized Commodity Description and Coding System codes to the 2022 North American Industry Classification System (NAICS) version 1.0. Data are available for detailed NAICS codes from manufacturing industries (31 33), agriculture, forestry, fishing and hunting industries (11), mining, quarrying, and oil and gas extraction industries (21), utilities (22) and wholesale trade industries (41). Data in table 12 10 0176 01 are monthly and on a customs basis.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

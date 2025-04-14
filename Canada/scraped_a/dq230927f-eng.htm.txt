@@ -1,0 +1,10 @@
+Date:
+2023-09-27
+Article Title:
+The Daily — Coverage estimates for the 2021 Census (final)
+Article Content:
+Released: 2023 09 27
+Since 1961, after each census collection period, Statistics Canada has conducted rigorous studies to assess the quality of its census population counts. The census attempts to enumerate every person residing in Canada on the reference day, which was May 11 for the 2021 Census. The Census Undercoverage Study and the Census Overcoverage Study measure, respectively, the number of people missed and the number of people enumerated more than once by the census. Although census data are not adjusted by the results of the coverage studies, both studies are used to produce updated demographic estimates. These estimates are also made available in today's release by the Demographic Estimates Program.
+For the 2021 Census, the net undercoverage rate (percentage of people missed less those enumerated more than once) was 3.1%. This rate is slightly higher than that for the 2016 Census, which was 2.4%. 
+In the context of the 2021 Census, unprecedented challenges arose due to the COVID 19 pandemic, and yet the census was a resounding success thanks to Canadians and to all Statistics Canada employees who contributed to the delivery of high quality statistical information.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

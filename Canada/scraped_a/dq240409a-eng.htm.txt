@@ -1,0 +1,18 @@
+Date:
+2024-04-09
+Article Title:
+The Daily — Socioeconomic outcomes of immigrants admitted to Canada as children, 2022
+Article Content:
+Released: 2024 04 09
+In 2022, close to 2 million immigrants admitted to Canada since 1980 were children 14 years of age or younger at the time of admission. This represents about one fifth of immigrants admitted during this period. Immigrants admitted to Canada as children are generally more likely to participate in postsecondary education during early adulthood and report higher median wages at the age of 25 years compared with the reference set by all taxfilers of an equivalent age in Canada.
+These findings are from the Longitudinal Immigration Database (IMDB) Children Data Module, which focuses immigrants admitted to Canada as children. It matches immigrants admitted as children with their parental socioeconomic background and provides their tax filing information from the ages of 18 to 30 years. This module allows analysis of the extent to which young adult immigrants' labour market outcomes are associated with their socioeconomic conditions during childhood or early adolescence.
+The IMDB is a collaborative effort among Statistics Canada, Immigration, Refugees and Citizenship Canada and the provinces.
+In 2021, among young adults aged 18 to 30 years, participation in postsecondary education (measured by whether a person claimed tuition tax credits) was generally higher for immigrants admitted to Canada as children than for the overall Canadian population in the same age group. Broadly speaking, the younger an immigrant child was when admitted, the more likely they were to participate in postsecondary education.
+For example, among 20 year old immigrants, 77.3% of those admitted to Canada at age 4 years or younger participated in postsecondary education, as did 69.9% of those admitted from ages 5 to 9 years and 61.3% of those admitted from ages 10 to 14 years. By comparison, 59.9% of all taxfilers aged 20 years in Canada (which includes both immigrants and non immigrants) claimed tuition credits for postsecondary education.
+Similar trends were observed for most age groups, though notable exceptions were observed among immigrants admitted to Canada from ages 10 to 14 years, who were less likely to participate in postsecondary education at ages 18 and 19 years than all taxfilers at equivalent ages.
+Immigrants admitted as children appear to have economically benefitted in the long term from their higher incidence of participation in postsecondary education. In 2021, for example, immigrants aged 18 to 24 years who were admitted to Canada as children had lower median wages than the overall Canadian population in this age group. However, for people aged 25 to 30 years, the median wages of immigrants admitted as children equalled or surpassed those of all taxfilers. By the age of 30 years, immigrants admitted as children had a median wage of $54,900, 17.6% higher than that of all taxfilers in Canada of the same age ($46,690).
+The "Longitudinal Immigration Database (IMDB) Technical Report, 2022," is available in PDF or HTML.
+The data visualization tools "Longitudinal Immigration Database (IMDB) Interactive Application: Economic Outcomes" and "Longitudinal Immigration Database (IMDB) Interactive Application: Mobility" are available.
+The IMDB products are available on the Immigrant and non permanent resident statistics portal.
+The 2022 IMDB Children Data Module is now available upon request.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

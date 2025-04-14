@@ -1,0 +1,26 @@
+Date:
+2021-09-08
+Article Title:
+ Status in employment by industry
+
+Article Content:
+Status in employment, which describes the nature of people’s employment, provides an important insight into the underlying employment relationships, and how they have changed over time. This has been a particular interest over the COVID 19 period, as the impacts of lockdowns and other restrictions has had different impacts across different groups in the labour market.
+Employed people are classified into the following categories:
+This article provides estimates of status in employment, by industry, from the Labour Account. These can be derived by applying Labour Force Survey estimates of the share of employed across the status in employment categories to the Labour Account industry employment (in main job) levels. This approach enables more robust industry estimates of status in employment   drawing on the relative strengths of the Labour Account (industry dimension) and the Labour Force Survey (employment characteristics).
+  Employees with paid leave entitlements
+  Employees without paid leave entitlements – often used as a proxy for ‘casual’ employees
+  Owner managers – people who operate their own incorporated or unincorporated enterprise
+  Contributing family workers
+In the June quarter 2021, of the 13.3 million employed people:
+From September quarter 2014 to March quarter 2020, the number of employees with paid leave entitlements increased by 1,076,000 (15%), while employees without paid leave entitlements increased by 293,900 (12%) and owner managers increased by 166,100 (8%). Employees with paid leave entitlements accounted for 70% of the overall increase in employment over the five and half years before the COVID pandemic.
+Employees without paid leave entitlements accounted for around two thirds of the decrease in employment early in the COVID period (442,100 of the 675,000 decrease between March quarter 2020 and June quarter 2020). Accommodation and food services, which generally has the largest share of employees without paid leave entitlements, saw the largest decrease in employment (156,000).
+In the March quarter 2020, employees without paid leave entitlements accounted for 20.3% of all employed people. This decreased to 17.9% in the June quarter 2020 before recovering to 20.1% in the June quarter 2021. Looking at employees only, the percentage without paid leave entitlements fell from 24.4% to 21.5%, and then rose to 24.3% over the same period.
+  8,347,100 (62.8%) were employees with paid leave entitlements
+  2,675,600 (20.1%) were employees without paid leave entitlements
+  2,237,900 (16.8%) were owner managers
+  26,200 (0.2%) were contributing family workers
+Chart 2 shows that the decrease in employment between March quarter 2020 and June quarter 2020 was mainly driven by employees without paid leave entitlements, which decreased by 16.2% in the June quarter 2020 before increasing by 7.2% in the September quarter 2020. In contrast, the number of employees with paid leave entitlements decreased by 1.3% and then decreased again by 1.6% over the same period.
+Chart 3 shows that in the June quarter 2021, Accommodation and food services (568,700), Retail trade (439,800) and Health care and social assistance (340,200) had the largest number of employees without paid leave entitlements.
+Construction and Professional, scientific and technical services had the highest number of owner managers, whilst they were most prevalent in Agriculture, forestry and fishing.
+Accommodation and food services, the industry with the largest number of employees without paid leave entitlements, was the main contributor to the fall in employment between March quarter 2020 and June quarter 2020, with employment decreasing by 156,000 people.
+For further information, email labour.statistics@abs.gov.au.

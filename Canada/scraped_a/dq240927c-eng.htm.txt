@@ -1,0 +1,21 @@
+Date:
+2024-09-27
+Article Title:
+The Daily — National culture indicators, second quarter 2024
+Article Content:
+Released: 2024 09 27
+Real gross domestic product (GDP) for the culture and sport sectors in Canada was up 0.6% in the second quarter, slightly above the real GDP growth rate of the total economy (+0.5%). On a nominal basis, GDP for the culture and sport sectors rose 1.6% in the second quarter as prices increased in all culture and sport domains during the quarter.
+Jobs attributable to culture and sport edged up 0.3% in the second quarter, bringing total jobs for those sectors to 745,516.
+Nominal GDP for the culture sector rose 1.5% to $15.7 billion in the second quarter, following a 1.3% increase in the first quarter. All culture domains saw growth in the second quarter, ranging from a high of 3.1% for the heritage and libraries domain to lows of 1.2% for the audio visual and interactive media domain and 1.0% for the sound recording domain. 
+Overall growth of 1.3% in the written and published works domain masked diverging trends within its subdomains in the second quarter. The multi subdomain covering support services for various written and published works recorded strong growth, up 3.7% in the second quarter. In contrast, the books ( 3.2%), periodicals ( 2.5%) and other published works ( 3.6%) subdomains all saw notable declines.
+Nominal GDP in the sport sector grew 2.1% in the second quarter, up from 1.3% in the first quarter. Organized sport rebounded in the second quarter, up 2.6% following a 0.5% decrease in the prior quarter. 
+The culture sector added 1,575 jobs in the second quarter, an increase of 0.2% from the previous quarter. This represents the second consecutive quarter of modest job growth following five consecutive quarters of declines. 
+Among the culture domains, changes to the level of jobs were limited in the second quarter, from 422 jobs lost ( 0.5%) in the written and published works domain to 1,399 jobs gained (+1.0%) in the audio visual and interactive media domain.
+Like the first quarter of 2024, job gains in the second quarter were due to the film and video subdomain, which added 2,716 jobs (+4.5%) as the industry continued to bounce back from the Hollywood strikes in 2023. Despite this strong growth, the audio visual and interactive media domain was held back by the broadcasting subdomain, which shed 904 jobs as broadcasters continued to announce layoffs in Canada, and by the interactive media subdomain, which lost 414 jobs in the second quarter as part of a global trend of layoffs in the industry.
+Sport jobs grew in the second quarter, gaining 594 jobs (+0.6%) to reach 103,423 total jobs. Sports education and training gained 296 jobs (+0.7%), while organized sport added 227 jobs (+0.6%).
+The data visualization product "National Culture Indicators: Interactive tool," which is part of Statistics Canada – Data Visualization Products (Catalogue number71 607 X), is available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure.
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available. 
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

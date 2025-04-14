@@ -1,0 +1,55 @@
+Date:
+2020-10-28
+Article Title:
+ COVID-19 Mortality in Australia, Deaths registered to 31 August 2020
+
+Article Content:
+  682 deaths due to COVID 19 that occurred by August 31 have been registered and received by the ABS. The ABS expects to receive further registrations for this period from the jurisdictional Registries of Births, Deaths and Marriages. 
+  The 682 deaths include 8 that were suspected as being due to COVID 19 with the virus not confirmed in a laboratory. 
+  Most COVID 19 deaths had acute respiratory symptoms such as viral pneumonia or acute respiratory distress syndrome listed as a consequence of the virus.
+  72.7% of people who died from COVID 19 had pre existing chronic conditions certified on the death certificate. 
+  There were a further 18 deaths where an individual died with COVID 19 but it was not the underlying cause of death. 
+The Coronavirus Disease 2019 (COVID 19) is a respiratory infection caused by a new coronavirus. On 11 March 2020 the World Health Organization (WHO) declared COVID 19 to be a pandemic. 
+In Australia, information on deaths from COVID 19 is collected through a disease surveillance system. This system provides daily information on both infections and mortality. 
+Mortality data compiled by the ABS is not based on this daily surveillance. Instead, it is based on death registrations processed by the jurisdictional Registries of Births, Deaths and Marriages, and information on the cause of death sourced from a Medical Certificate of Cause of Death (MCCD) completed by a certifying practitioner. 
+Mortality data tabulated from the disease surveillance system and the registration system are not directly comparable. 
+While it takes longer to get the information from the registration based system than the surveillance system, it is more comprehensive and can provide important additional insights into deaths from COVID 19. This is especially the case with data obtained from the MCCD, which enables identification of the underlying cause of death and other associated causes. These data sources also provide demographic information about the decedent (e.g. age, sex and usual residence). 
+There were 724 deaths that occurred by 31 August 2020 and were registered and lodged with the ABS by 30 September that had COVID 19 as a term on the death certificate. Of these 724 deaths: 
+  674 were directly due to COVID 19 with the virus being laboratory confirmed.
+  8 were certified as being due to suspected COVID 19 with the virus not confirmed in a laboratory. 
+  18 deaths were COVID 19 related. This is where the person died with COVID 19 (confirmed or suspected) or shortly after recovery from the virus but it was not the underlying cause of death. 
+  29 deaths had a negative COVID 19 result recorded on the death certificate. When a negative COVID 19 test result is recorded on a death certificate an ICD 10 code of ‘Z03.8 Examination and observation for other specified reasons’ is assigned to capture the information communicated by the doctor. Deaths where COVID 19 has returned a negative test result are not assigned as being a death due to the virus. 
+  5 deaths had both a mention of COVID 19 and a mention of a negative COVID 19 test result recorded on the death certificate. These included cases where a positive test had been received and a negative test was recorded to indicate a recovery period. These 5 deaths are included in both the counts of COVID 19 related mortality and COVID 19 negative results. Deaths where COVID 19 has returned a negative test result are not assigned as being a death due to the virus.
+Australian cause of death data is coded to the International Classification of Diseases, 10th revision which is governed by the WHO. Case definitions, certification guidelines and coding rules have been implemented for international use. 
+A death directly due to COVID 19 is defined by the WHO as a death resulting from a clinically compatible illness, in a probable or confirmed COVID 19 case, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g. trauma). There should be no period of complete recovery from COVID 19 between illness and death.
+In response to the emergence of COVID 19 the WHO issued new emergency codes to be used when coding causes of death for statistical purposes. 
+A further code ‘Z03.8 Examination for observation and other specified reasons’ can be used to record a negative test result in order to capture this information on the death certificate. These deaths are not tabulated as being due to COVID 19. 
+The international rules and guidance for selecting the underlying cause of death for statistical tabulation apply when COVID 19 is reported on a death certificate. Given the intense public health requirements for data, COVID 19 is not considered as due to, or as an obvious consequence of, other diseases and conditions. These rules are also applied to cause of death coding for Influenza and selected other infectious diseases. Further, there is no provision in the classification to link COVID 19 to other causes or modify its coding in any way. 
+Almost all deaths due to COVID 19 in Australia have laboratory confirmation of the virus. Of the 682 registered COVID 19 deaths occurring by 31 August, 674 (98.8%) were coded to U07.1, (laboratory confirmed) COVID 19, virus identified. There were 8 (1.2%) deaths where the doctor certified that it was a suspected case of COVID 19 with no laboratory confirmation.
+  U07.1 COVID 19 virus identifiedThis code is used when COVID 19 is confirmed by laboratory testing
+  This code is used when COVID 19 is confirmed by laboratory testing
+  U07.2 COVID 19 virus not identifiedThis code is used for suspected or clinical diagnoses of COVID 19 where testing is not completed or inconclusive 
+  This code is used for suspected or clinical diagnoses of COVID 19 where testing is not completed or inconclusive 
+  Females had a higher number of registered deaths (355) due to COVID 19 than males (327 deaths). 
+  The highest number of COVID 19 deaths occurred among those aged 80 89 (294). This was true for both males and females. 
+  Males aged under 80 had a higher number of deaths than females (107 compared to 60). 
+The case fatality rate (CFR) can provide an indication of the severity of a disease. For COVID 19 it is calculated by dividing the number of deaths by the number of confirmed infections. The overall CFR for Australia for COVID 19 as at 31 August was 2.7%. The CFR can differ by key demographics. The graph below shows that for males aged over 90 years the CFR is close to 40%. 
+COVID 19 was the underlying cause of death for 682 registered deaths occurring up to 31 August 2020. The WHO defines the underlying cause of death as the disease or condition that initiated the train of morbid events leading to death. Diseases and conditions reported on the MCCD that are not the underlying cause of death are referred to as associated causes. Associated causes can be either: 
+Examining conditions in the causal sequence can provide insights into how a disease progresses and leads to death. Examining pre existing chronic conditions provides an understanding of risk factors that might contribute to death from a particular disease. Both can inform health prevention and intervention policies.
+Almost all deaths due to COVID 19 have other conditions listed on the death certificate (87.2%). The table below shows that almost two fifths of all certificates had both a causal sequence and pre existing conditions listed on the certificate. 
+On average, deaths due to COVID 19 had 2.4 other diseases and conditions certified alongside the virus. 
+  Conditions listed in the causal sequence (the chain of events leading to death); or 
+  Pre existing chronic conditions, often listed in Part II of the MCCD as ‘other conditions relevant to the death’.
+COVID 19 is a respiratory illness that weakens the immune system causing inflammation. This commonly leads to poor respiratory outcomes such as viral pneumonia and secondary infection. Other manifestations such as acute kidney injury have also been reported but these are less common. 
+366 (53.7%) of the 682 COVID 19 deaths covered in this report had the disease progression described in a causal sequence by the certifier. Among these 366 deaths:
+  Acute respiratory diseases were the most commonly certified diseases listed as a consequence of COVID 19. 
+  Pneumonia was present as a consequence of COVID 19 in over 50% of deaths where a sequence was certified by a doctor. 
+  Other acute outcomes including kidney failure and cardiac complications were certified in 4.6% and 10.1% of deaths due to COVID 19 respectively. 
+Pre existing chronic diseases have been found to be risk factors for severity of COVID 19 in people who have contracted it. While these diseases do not cause COVID 19, they increase the risk of COVID 19 complications and therefore increase the risk of death. Among the 682 COVID 19 deaths covered in this report:
+  496 (72.7%) of the deaths had at least one pre existing chronic condition listed on the death certificate.
+  Dementia was the most commonly certified co morbidity, present in 41.3% of the 496 deaths. 
+  Chronic cardiac conditions including coronary atherosclerosis, cardiomyopathies and atrial fibrillation were certified in over 30% of deaths due to COVID 19.
+  Other conditions that weaken the immune system including diabetes, hypertension and chronic obstructive pulmonary diseases were each present in over 15% of deaths. 
+  Blood and lymph cancers (e.g. leukaemia) were the most commonly certified cancer type among those deaths.  
+  The type of comorbidities most commonly present in Australian deaths due to COVID 19 are consistent with those reported internationally. 
+14/4/2022   The title of this article has been changed from 'COVID 19 Mortality' to 'COVID 19 Mortality in Australia, Deaths registered to 31 August 2020'.

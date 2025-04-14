@@ -1,0 +1,226 @@
+Title : covid-19-mortality-australia-deaths-registered-until-30-november-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-august-2023.txt
+Context:into 2023 . There have been multiple waves associated with the Omicron variant with waves often being associated with a new strain .  
+ The following table shows excess mortality
+Context:There are a small number of deaths occurring in the NT each year , and often there are less than 20 deaths per week . The small number of deaths
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-march-2023.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : insights-government-finance-statistics-june-2023.txt
+Context:during this time .   Due to the nature of reporting June quarter data are often more complete and can be a useful comparison point across years . 
+ For
+
+Title : intermediate-use-and-output-ratios-australian-economy.txt
+Context:producing goods have a higher TIU to Output ratio than Service industries , as they often require a larger proportion of material intermediate inputs . Service industries , such as
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-may-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : pharmaceutical-benefits-scheme-supplied-medications.txt
+Context:and take multiple medications[6 ] . Although there is no standard definition , polypharmacy is often defined as the routine use of five or more medications at the same time[6
+
+Title : cpi-international-comparisons.txt
+Context:by countries can differ in many other respects . Some other notable differences are how often the weights of the CPI basket are updated and the data sources used to
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-january-2023.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : automotive-fuel-cpi.txt
+Context:Automotive fuel prices are often volatile , which can have a significant impact on the rate of inflation measured
+Context:due to the aforementioned factors . This high level of volatility means that it is often a main contributor to the CPI headline movement . Graph 1 shows major international
+
+Title : development-new-experimental-monthly-household-spending-indicator.txt
+Context:as traditional surveys . The Retail Trade Survey is one key data source and is often used as a leading indicator to quarterly HFCE , with approximate 30 per cent
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-july-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-january-2024.txt
+Context:by COVID 19 and   its complications ; or 
+ Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-june-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : towards-national-ocean-account.txt
+Context:igneous rocks ) . 
+ Geomorphic ( topographic ) features characterising a compartment boundary ( often bedrock controlled ) ( e.g. peninsulas , headlands , cliffs ) . 
+ Dominant
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-november-2023.txt
+Context:by COVID 19 and   its complications ; or 
+ Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : restraint-clauses-australia-2023.txt
+Context:prevalence within businesses ( which showed that generally , where clauses were used , they often applied to most or all employees in that business ) . 
+ It is
+
+Title : impacts-2024-annual-national-accounts-historical-revisions.txt
+Context:advertising services and computer software services .    The companies providing these digital services are often owned by non resident Multinational Enterprises ( MNEs ) that operate across various countries
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-september-2023.txt
+Context:by COVID 19 and   its complications ; or 
+ Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : covid-19-mortality-australia-deaths-registered-until-28-february-2023.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : understanding-life-expectancy-estimates-2020-2022.txt
+Context:of how long an individual is expected to live . 
+ Life expectancy estimates are often used to assess a population ’s health . Aboriginal and Torres Strait Islander life
+
+Title : introduction-digital-services-balance-payments.txt
+Context:including audiovisual streaming services , advertising services and computer software .  
+ These services are often provided to Australians by non resident MNEs that operate across various countries . These
+Context:businesses correctly reporting these services on the Survey of International Trade in Services ( i.e. often they are not aware they are transacting directly with a non resident entity )
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-october-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : producing-official-statistics-linked-data-technical-report.txt
+Context:bootstrap = True and oob_score = False .  
+ Scikit learn / sktime documentation most often describes two approaches to producing “ raw ” FIs from a fitted random forest
+Context:shows this distribution , like that for compprod_bcs2 , to take the value 3 quite often . However , 2 values are more common here than was seen for compprod_bcs2
+Context:a business to the lower profitability group . Also , judging from Figure 4 , often this judgement is correct .  
+ We may wonder about features of data that
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-may-2023.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : interpreting-abs-productivity-statistics.txt
+Context:defined as a ratio of output to combined labour and capital inputs . It is often expressed in terms of a growth rate , that is , the growth rate
+Context:reduce future costs for recruitment and training when economic activity recovers . Capital inputs are often fixed in the short term ,   and reducing utilisation may be the only
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-september-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : accounting-extra-leap-year-day-abs-seasonally-adjusted-statistics.txt
+Context:have a stronger trading day effect than others , owing to wages and salaries most often being paid on Thursdays .   However , the number of particular days of
+
+Title : insights-australias-current-account-balance.txt
+Context:having returns on their investment paid out through dividends and profits . Though these are often reinvested back into the Australian enterprises , the sheer size of recent profits earned⁵
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-first-quarter-2023.txt
+Context:of 2023 . There have been multiple waves associated with the Omicron variant with waves often being associated with a new strain .  
+ Key events during the COVID 19
+Context:Tasmania at 13.6 % ) . Excess mortality in Victoria in 2022 was sustained , often above the upper bound . There were only 4 weeks in Victoria in 2022
+Context:There are a small number of deaths occurring in the NT each year , and often there are less than 20 deaths per week . The small number of deaths
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-april-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : what-changes-prices-and-their-collection-tell-us-about-australia.txt
+Context:large amounts of prices and product information from websites . Prices can be collected as often as needed for all products using purpose built programs that scan retail websites to
+Context:to find the relevant information . 
+ The ABS collects significantly more prices , more often , using these methods . Today over 1   million prices are collected every
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-march-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : profile-people-core-need-assistance-australia.txt
+Context:aged , reflecting the older age profile of this group . 
+ Housing costs are often a major component of total living costs . According to the 2021 Census ,
+
+Title : seasonal-adjustment-and-changing-seasonality-labour-force-statistics.txt
+Context:10 show that there are always some people working reduced hours , and that this often peaks around the winter months .  
+ The proportion was particularly elevated in 2022
+
+Title : release-historic-agricultural-data-and-update-future-agricultural-data.txt
+Context:estimate herd and flock numbers . 
+ Header 10 : More regional data , more often 
+ Detailed regional estimates for broadacre crop estimates will be available annually from 2022
+
+Title : frequently-asked-questions-faqs-about-wage-price-index.txt
+Context:accept the quote for the ABS work before it proceeds . 
+ Price indexes are often used in contracts by businesses and government to adjust payments and/or charges to take
+
+Title : cultural-diversity-australia.txt
+Context:literature ( written or oral ) 
+   a common religion 
+   being a minority ( often with a sense of being oppressed ) 
+   being racially conspicuous . 
+ In
+
+Title : frequently-asked-questions-faqs-about-consumer-price-index.txt
+Context:to achieve an inflation rate of 2–3 per cent ” . 
+ The CPI is often used to adjust pensions , subsidies and prices charged for goods and services to
+Context:index a number of social welfare payments and benefits .   Indexation arrangements are also often applied to such things as rental agreements , wage negotiations , insurance cover and
+Context:have no physical store . 
+ The frequency of price collection is determined by how often prices typically change and the availability of data . Where price change occurs frequently
+Context:the price after adjusting for any change in quality . 
+ While the indexes are often thought of as being based on a fixed basket , in practice the basket
+Context:index numbers , refer to “ Using the CPI " .    
+ Price indexes are often used in contracts by businesses and government to adjust payments and/or charges to take
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-july-2023.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : back-my-day-comparing-millennials-earlier-generations.txt
+Context:course of their life . For the 25 39 year age group , it is often shaped by the formation of relationships and starting a family . 
+ In the
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-june-2023.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : mental-health-findings-lgbtq-australians.txt
+Context:identify and value for LGBTQ+ people At the same time , people in LGBTQ+ communities often experience stigma , discrimination , bullying , violence and exclusion . As a result
+Context:the survey interview . People were asked a series of 10 questions , about how often they felt:•      tired for no good reason•      nervous•      so nervous nothing
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-august-2022.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : anzsco-maintenance-strategy-core-components.txt
+Context:for instance , managers and public servants ) . The detailed data from Census is often only available to the reviewers when it is released publicly , approximately one year
+Context:splitting of the original occupation . 
+ As a result , skill level changes will often result in changes to the scope of Unit Groups and be stockpiled for an
+Context:are split from ‘ Not Elsewhere Classified ’ NEC categories . NEC occupation categories are often where emerging occupations will be included until they reach a size where they can
+Context:be separately identified . 
+ Since they are ‘ residual ’ categories , NECs are often less specific , less homogeneous and harder to describe . They are often excluded
+Context:NECs are often less specific , less homogeneous and harder to describe . They are often excluded from the skilled visa program and time series analyses . 
+ The ABS
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-december-2023.txt
+Context:current times . There have been multiple waves associated with the Omicron variant with waves often being associated with a new strain .  
+ The following table shows excess mortality
+Context:There are a small number of deaths occurring in the NT each year , and often there are less than 20 deaths per week . The small number of deaths
+
+Title : guide-using-historical-estimates-comparative-analysis-and-reporting.txt
+Context:a simple , straight line interpolation was applied between successive Census based estimates . 
+ Often , population estimates for Aboriginal and Torres Strait Islander people are used as the
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-april-2023.txt
+Context:by COVID 19 and   its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : covid-19-mortality-australia-deaths-registered-28-february-2022.txt
+Context:caused by COVID 19 and its complications ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : digital-platform-workers-australia.txt
+Context:an online tool or an app that matches supply and demand for employment , most often based on an algorithm " ( ) .   This new form of employment
+
+Title : covid-19-mortality-australia-deaths-registered-31-january-2022.txt
+Context:chain of events leading to death ) ; or 
+   Pre existing chronic conditions , often listed in Part II of the MCCD as ‘ other conditions relevant to the
+
+Title : spotlight-labour-account.txt
+Context:labour supply . There is a converse relationship between these two measures , so they often move in the opposite direction . Unlike some other summary measures of labour demand
+

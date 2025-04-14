@@ -1,0 +1,15 @@
+Date:
+2024-09-11
+Article Title:
+The Daily — Innovation Ecosystems Performance Indicators: Review of the Literature
+Article Content:
+Released: 2024 09 11
+A new framework for Canadian innovation ecosystem indicators is now available, based on conceptual indicators most used in the literature on innovation ecosystems over the last 30 years.
+To respond to the findings of the Science, Technology and Innovation Data Gaps Initiative and to better address the data needs of stakeholders, Statistics Canada created a broader, integrated measurement framework to profile and map Canada's innovation ecosystems.
+Previous research has developed a series of definitions of innovation ecosystems, and this paper proposes a common definition that sees them as a dynamic set of actors (companies, universities, inventors, etc.), activities and resources, evolving through institutions and relationships, that are important to the innovation performance of a region or country.
+The proposed framework comprises 38 indicators measuring the performance of innovation ecosystems.
+Innovation inputs are 29 indicators, which are the conditions that favor the creation of innovation, and innovation outputs are 9 indicators, which are the direct results and indirect economic improvements that result from innovation.
+These indicators examine the actors, activities and products that support ecosystem development, including human capital, research and development, institutions, infrastructure, the business environment, financial support, innovation products and linkages, employment, and production.
+Finally, the paper proposes a simple and effective construction of a composite innovation index, making different innovation ecosystems comparable over time and space.
+The study "Innovation Ecosystem Performance Indicators: Review of the Literature," part of the Analytical Studies: Methods and References series (Catalogue number11 633 X), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

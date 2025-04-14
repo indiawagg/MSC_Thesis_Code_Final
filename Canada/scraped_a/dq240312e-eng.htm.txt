@@ -1,0 +1,15 @@
+Date:
+2024-03-12
+Article Title:
+The Daily — Research and development personnel, 2021
+Article Content:
+Released: 2024 03 12
+Canada has a dynamic workforce engaged in science, technology, engineering and mathematics (STEM). Underpinning its success are diverse and highly skilled employees engaged in research and development (R&D) positions across both the public and private sectors. These employees generally hold high qualifications and extensive education, and help to enhance the competitiveness of the Canadian economy.
+The number of full time equivalent (FTE) R&D personnel rose for the fifth consecutive year in 2021, reaching 298,850 FTEs (+16,500 FTEs; +5.8%), after a 6.9% increase in 2020 (+18,300 FTEs). The growth in personnel correlates with the rise in Canada's gross domestic R&D spending, which reached a high of $46.9 billion in 2021 (+$4.0 billion; +9.3%). 
+R&D personnel gains recorded during the COVID 19 pandemic from 2020 and 2021 were more than twice the increase observed in 2019 (+6,580 FTEs), but lower than the record increase in 2018 (+20,220 FTEs).
+The uptick in the overall number of R&D personnel in 2021 was spread across all performing sectors, albeit with 95.4% of the growth occurring in the two largest sectors: business enterprises and higher education. Specifically, the business enterprise sector added 12,940 FTEs to reach 197,460 FTEs, while the higher education sector increased by 2,800 FTEs to 82,750 FTEs. For the remaining sectors, the federal government added 460 FTEs for a total of 14,280 FTEs, while the provincial government rose by 160 FTEs to 3,100 FTEs and the private non profit sector increased by 120 FTEs to 1250 FTEs. 
+R&D personnel in 2021 were comprised of three occupational categories: researchers (the largest occupational category, accounting for 69.4% of R&D personnel employed in Canada), followed by technicians and support staff (27.4%) and on site research consultants (3.2%). 
+The majority of the growth in R&D personnel in 2021 was driven by increased researcher positions, which rose to 207,420 FTEs (+11,410 FTEs; +5.8%). Technicians and support staff positions also saw a noticeable rise, to 81,750 FTEs (+4,310 FTEs; +5.6%). 
+Almost 80% of the increase in FTEs in 2021 came from Ontario and Quebec. Ontario accounted for more than half of the total growth (+8,700 FTEs to 136,570 FTEs), while Quebec accounted for about one quarter (+4,240 FTEs to 81,430 FTEs). 
+On a global scale, Canada's R&D personnel per thousand total employment ratio declined from 16.1 in 2020 to 15.7 in 2021. Canada remains above the Organisation for Economic Co operation and Development (OECD) average of 15.4 (excluding the United States and the United Kingdom). 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

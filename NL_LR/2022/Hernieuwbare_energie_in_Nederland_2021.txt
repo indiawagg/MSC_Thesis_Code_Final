@@ -1,0 +1,1314 @@
+Article Content:
+ Samenvatting
+
+Het aandeel hernieuwbare energie in het totale energieverbruik in 2021 lag tussen de 12,0 en 13,4 procent. Het exacte aandeel kan nog niet worden berekend door onzekerheden rondom het implementeren van duurzaamheidscriteria voor biomassa uit de herziene EU-Richtlijn hernieuwbare energie (RED II). Afhankelijk van de implementatie draagt een deel van de gebruikte biomassa in 2021 mogelijk niet bij aan het aandeel hernieuwbare energie. In 2020 was het aandeel 14,0 procent, waarvan 11,5 procent binnenlands geproduceerde hernieuwbare energie. De resterende 2,5 procent is bereikt door middel van een statistische overdracht met Denemarken waarin 13,7 TWh is gekocht om de Europese doelstelling in 2020 te behalen. De meeste hernieuwbare energie in 2021 komt uit biomassa, 45–51 procent. Wanneer het onzekere deel van de biomassa wordt meegenomen in het totaal is 25 procent afkomstig uit windenergie en 16 procent uit zonne-energie. De overige bronnen als waterkracht, bodemenergie en warmte uit de buitenlucht droegen gezamenlijk 8 procent bij.
+
+In 2021 is ruim 41 miljard kWh elektriciteit geproduceerd uit windenergie, waterkracht, zonne-energie en biomassa (inclusief onzekere deel). Dat is 34 procent van het totale elektriciteitsverbruik. Als het onzekere deel van de biomassa niet wordt meegerekend is er 37 miljard kWh geproduceerd, 30 procent van het totale elektriciteitsverbruik. In 2020 was dit aandeel 26 procent. De productie van windmolens (gecorrigeerd voor de hoeveelheid wind) nam in 2021 met 36 procent toe; de groei van de capaciteit van het windmolenpark in Nederland was 17 procent. De productie van elektriciteit uit zon nam met 29 procent toe. Wanneer alle biomassa wordt meegerekend was hier een stijging van 21 procent te zien. De grootste absolute stijging in elektriciteitsproductie werd met windenergie gerealiseerd, ruim 5 miljard kWh.
+
+Het verbruik van hernieuwbare energie voor warmte steeg in 2021 met 10 procent ten opzichte van 2020, als alle biomassa wordt meegerekend. Het aandeel hernieuwbare energie in de warmtevoorziening lag tussen de 7,4 en de 8,4 procent. De stijging in het verbruik van hernieuwbare warmte kwam vooral door een toename van het gebruik van warmtepompen met benutting van buitenluchtwarmte en door warmteproductie bij de afvalverbrandingsinstallaties.
+
+Hernieuwbare energie was in het vervoer goed voor bijna 9 procent van het totale energieverbruik voor vervoer in 2021. Dit is ongeveer vier procentpunten minder dan in 2020. De afname wordt veroorzaakt door nieuwe regels uit de RED II. Door onduidelijkheid over de interpretatie van de nieuwe regels is nog onzeker welk effect ze hebben op het aandeel hernieuwbare energie voor vervoer. Ten opzichte van 2020 is het totale absolute verbruik van de biotransportbrandstoffen met 14 procent gestegen. De belangrijkste verklaring voor deze stijging is dat de leveranciers in 2021 minder biotransportbrandstoffen hebben geleverd aan de zeevaart en meer aan het wegverkeer. Leveringen aan de internationale zeevaart tellen wel mee voor de leveranciers om te voldoen aan hun (nationale) verplichting, maar niet voor het aandeel hernieuwbare energie totaal en voor vervoer in de EU-Richtlijn.
+
+
+
+Inleiding
+
+Hernieuwbare energie is al jaren een speerpunt in het Nederlandse energiebeleid. Uit dit speerpunt is een jaarlijkse rapportage voortgekomen over hernieuwbare energie in Nederland. Dit rapport beschrijft de ontwikkelingen van de hernieuwbare energie in 2021. Tevens worden de gebruikte methoden en bronnen toegelicht.
+
+1.1 Protocol Monitoring Hernieuwbare Energie
+
+Bij het berekenen van de hernieuwbare energie moet een aantal keuzen worden gemaakt, zoals: welke bronnen tellen mee en hoe worden de verschillende vormen van energie opgeteld. Deze keuzen zijn gemaakt in overleg met brancheorganisaties, kennisinstellingen en het ministerie van Economische Zaken en vastgelegd in het (RVO en CBS, 2022). Het protocol is recentelijk vernieuwd naar aanleiding van de implementatie in 2021 van de Renewable Energy Directive 2018/2001/EU (Europees Parlement en de Raad, 2018), ook wel bekend als RED II. Noemenswaardige aanpassingen zijn de introductie van een aparte normalisatie van wind op zee en wind op land, nieuwe richtlijnen over het rapporteren van biotransportbrandstoffen en verschillende aanpassingen om het aandeel hernieuwbare energie te berekenen. In de RED II is het wettelijke kader verschoven naar 2030 en wordt een bindend streefcijfer voor hernieuwbare energie voor de EU van ten minste 32 procent voorgesteld.
+
+Het beschrijft drie methodes om het aandeel hernieuwbare energie te berekenen, te weten de bruto-eindverbruikmethode, de substitutiemethode en de primaire-energiemethode.
+
+De bruto-eindverbruikmethode wordt gebruikt in de EU-richtlijn voor hernieuwbare energie (Renewable Energy Directive) uit 2009 (RED I) en de herziene versie uit 2018 (RED II). Deze methode wordt gebruikt om de rekentool van Eurostat SHARES mee in te vullen, waarmee het aandeel hernieuwbare energie wordt berekend.
+
+De substitutiemethode berekent hoeveel verbruik van fossiele energie wordt vermeden door het verbruik van hernieuwbare energie. Deze methode werd vanaf de jaren negentig tot en met kabinet-Balkenende IV (2010) gebruikt voor nationale beleidsdoelstellingen. Daarna is de politiek overgestapt op de bruto-eindverbruikmethode. Daarmee is het politieke belang van de substitutiemethode afgenomen. De methode blijft echter wel relevant, omdat ze inzicht geeft in het vermeden verbruik van fossiele energie en de vermeden emissies van CO 2 . Het vermijden van dit verbruik en deze emissies zijn de belangrijkste redenen om hernieuwbare energie te bevorderen.
+
+De primaire-energiemethode wordt traditioneel gebruikt in internationale energiestatistieken van het Internationaal Energieagentschap (IEA) en Eurostat. Bij de primaire-energiemethode is de eerst meetbare en bruikbare vorm van de energiedrager voor het produceren van energie het uitgangspunt.
+
+In het (RVO en CBS, 2022) en in paragraaf 2.6 van deze publicatie staat meer informatie over de verschillende methoden.
+
+1.2 Gebruikte databronnen
+
+De cijfers zijn gebaseerd op een zeer diverse reeks databronnen. Een belangrijke bron vormen de gegevens uit de administratie van CertiQ, onderdeel van de landelijk netbeheerder TenneT. CertiQ ontvangt maandelijks van de regionale netbeheerders een opgave van de elektriciteitsproductie van een groot deel van de installaties die hernieuwbare stroom produceren. Voor windmolens en waterkrachtcentrales is daarmee meteen de hernieuwbare-elektriciteitsproductie bekend. Voor de hernieuwbare-elektriciteitsproductie uit het meestoken van biomassa in elektriciteitscentrales is naast informatie over de geproduceerde elektriciteit ook informatie nodig over het aandeel biomassa in de totale hoeveelheid gebruikte brandstoffen. De eigenaren van de centrales sturen deze aandelen apart op naar CertiQ. Achteraf moeten de centrales nog een accountantsverklaring overleggen over de juistheid van de gegevens. Eventueel volgen er nog correcties. Op basis van de door CertiQ vastgestelde hernieuwbare-elektriciteitsproductie geeft CertiQ certificaten voor Garanties van Oorsprong van groene stroom. Deze Garanties van Oorsprong zijn een voorwaarde voor het verkrijgen van subsidie. Ook kunnen de Garanties van Oorsprong gebruikt worden om groene stroom aan eindverbruikers te verkopen en te verhandelen. CertiQ registreert ook de productie van hernieuwbare warmte die voor subsidie in aanmerking komt. Ook deze data ontvangt en gebruikt het CBS.
+
+Een tweede belangrijke bron zijn de reguliere energie-enquêtes van het CBS. Voor de biotransportbrandstoffen zijn deze enquêtes een belangrijke databron, hoewel in toenemende mate gebruik wordt gemaakt van administratieve gegevens van de Nederlandse Emissieautoriteit. De gegevens over de afvalverbrandingsinstallaties zijn afkomstig van administratieve data van Rijkswaterstaat en de Vereniging Afvalbedrijven. Voor informatie over biogas uit rioolwaterzuiveringsinstallaties is gebruik gemaakt van de CBS-enquête Zuivering van Afvalwater, welke gecombineerd is met de uitvraag voor de meerjarenafspraken energie (MJA). Voor zonnewarmte, warmtepompen en houtketels voor warmte bij bedrijven zijn specifieke enquêtes uitgestuurd naar de leveranciers van dergelijke systemen. Voor de verzameling van data over zonnestroom wordt gebruik gemaakt van diverse registraties; in paragraaf 5.1 wordt hierover meer informatie verstrekt. Warmte/koudeopslag is in kaart gebracht op basis van gegevens over vergunningen van de provincies in het kader van de Grondwaterwet.
+
+Voor groen gas (opgewaardeerd biogas dat is ingevoed in het aardgasnet) is gebruik gemaakt van gegevens van Vertogas. De rol van Vertogas is vergelijkbaar met die van CertiQ.
+
+Het cijfer voor het biogene aandeel van het verbrande afval in afvalverbrandingsinstallaties is afkomstig van Rijkswaterstaat Leefomgeving. De stortgasgegevens komen uit de stortgasenquête van de Werkgroep Afvalregistratie (WAR) van Rijkswaterstaat Leefomgeving en de Vereniging Afvalbedrijven (VA). Aanvullend op de specifieke enquête van het CBS heeft de Vereniging Warmtepompen (voorheen DHPA Dutch Heat Pump Association) van haar leden de afzetgegevens over warmtepompen geleverd. De gegevens over de huishoudelijke houtkachels zijn afkomstig van TNO.
+
+Als controle en om de nauwkeurigheid te beoordelen is gebruik gemaakt van overheidsmilieujaarverslagen en van gegevens van de Energie-investeringsaftrekregeling (EIA) van de Rijksdienst voor Ondernemend Nederland (RVO) voor biomassa-installaties. Het gebruik van de bronnen wordt nader toegelicht in de hoofdstukken 3 tot en met 8.
+
+1.3 CBS-publicaties over hernieuwbare energie
+
+StatLine
+
+StatLine is de elektronische databank van het CBS waarin nagenoeg alle gepubliceerde cijfers te vinden zijn, inclusief een korte methodologische toelichting. Alle tabellen die informatie over hernieuwbare energie bevatten zijn te vinden via
+
+Jaarrapport
+
+Dit rapport verschijnt één keer per jaar in september. Het jaartal in de titel heeft steeds betrekking op het meest recente verslagjaar in het rapport. Het jaarrapport is gebaseerd op de nader voorlopige cijfers van juni. De ervaring leert dat de verschillen tussen de nader voorlopige cijfers en de definitieve cijfers voor de meeste onderdelen gering zijn.
+
+Compendium voor de Leefomgeving
+
+Het Compendium voor de Leefomgeving ( ) bevat feiten en cijfers over milieu, natuur en ruimte in Nederland. Het is een uitgave van het CBS, het Planbureau voor de Leefomgeving (PBL) en Wageningen Universiteit en Research centrum (Wageningen UR). Het CBS levert drie indicatoren over hernieuwbare energie:
+
+
+
+Hernieuwbare elektriciteit, onderdeel van
+
+
+
+Deze indicatoren bieden een compact overzicht van de beschikbare cijfers op StatLine geïllustreerd met grafieken en voorzien van achtergrondinformatie over beleid en statistische methoden.
+
+Daarnaast is er in het CLO ook een indicator over zonnestroom ( ) welke samengesteld is door PBL op basis van CBS data.
+
+Aanvullend statistisch onderzoek
+
+Met aanvullend statistisch onderzoek worden maatwerktabellen op verzoek van gebruikers gemaakt en deze bevatten cijfers die niet op StatLine te vinden zijn, maar wel op een andere wijze op de CBS-website worden gepubliceerd. Zie hiervoor op internet de pagina die met de volgende link te bereiken is:
+
+1.4 Attenderingservice
+
+Wilt u actief op de hoogte gehouden worden van nieuwe CBS-publicaties over hernieuwbare energie, stuur dan een e-mail naar HernieuwbareEnergie@cbs.nl en geef aan dat u wilt worden opgenomen in de mailinglist voor hernieuwbare energiestatistieken. U ontvangt dan een paar keer per jaar een mail.
+
+1.5 Internationale cijfers over hernieuwbare energie op internet
+
+Op de website van Eurostat is via data over energiecijfers in Europa te vinden. Gedetailleerde Informatie over het aandeel hernieuwbare energie in overeenstemming met de EU-Richtlijn Hernieuwbare Energie is te vinden via . De officiële publicaties van Eurostat verschijnen relatief laat na afloop van het verslagjaar en bevatten weinig contextuele informatie. Om toch snel een overzicht te krijgen van de ontwikkelingen en achtergronden daarbij heeft de Europese Commissie opdracht gegeven om per hernieuwbare energietechniek snelle publicaties te maken met een toelichtende tekst over de ontwikkelingen in de belangrijkste landen. Deze publicaties zijn te vinden via de website . Deze publicaties zijn relatief snel na afloop van het verslagjaar beschikbaar. Soms wordt volstaan met schattingen, wat ten koste kan gaan van de kwaliteit van de cijfers. Daarentegen zijn de publicaties van Observ’ER meestal wel geschikt voor een snelle indicatie van de ontwikkelingen in de belangrijkste landen.
+
+Via is de website van het IEA bereikbaar. De standaardpublicatie van het IEA over hernieuwbare energie, , is niet vrij beschikbaar, maar te koop als hard copy of als pdf-bestand. Naast het maken van statistiek heeft het IEA ook een paraplufunctie voor diverse techniekgeoriënteerde samenwerkingsverbanden. Deze worden Technology agreements of Implementing agreements genoemd. Met betrekking tot hernieuwbare energie bestaat er een aantal van dit soort samenwerkingsverbanden, met vaak eigen websites: over biomassa, over zonnestroom en over zonnewarmte. Op deze websites zijn diverse publicaties te vinden welke soms ook unieke statistische informatie bevatten.
+
+Tot slot zijn er Europese brancheverenigingen actief op het gebied van statistische informatie. Zo publiceert WindEurope ( ) doorgaans rond 1 februari cijfers over de afzet van windmolens (in MW) per land in het voorafgaande jaar. Ook de brancheorganisatie voor de productie van biodiesel ( ), thermische zonne-energiesystemen ( ) en warmtepompen ( ) presenteren cijfers per land.
+
+1.6 Regionale cijfers over hernieuwbare energie
+
+Het is niet mogelijk om alle cijfers regionaal uit te splitsen. Voor grootschalige technieken zoals afvalverbrandingsinstallaties en het meestoken van biomassa in elektriciteitscentrales heeft dat te maken met de vertrouwelijkheid. Uitsplitsing van deze cijfers naar provincie zou ertoe leiden dat cijfers van een individuele installatie herleidbaar zijn.
+
+Voor een aantal andere technieken zijn geen regionale cijfers beschikbaar, omdat het CBS de cijfers vaststelt aan de hand van opgaven van landelijk opererende leveranciers van hernieuwbare-energiesystemen (zonnewarmte, warmtepompen) of hernieuwbare energie (biobrandstoffen). Om de lastendruk te beperken vraagt het CBS niet aan deze leveranciers in welke regio zij hun producten hebben afgezet. Maar zelfs als het CBS dit zou vragen, is niet zeker of daarmee wel regionale cijfers gemaakt kunnen worden, omdat deze leveranciers vaak niet direct leveren aan de eindverbruiker.
+
+Voor een aantal technieken zijn wel regionale cijfers beschikbaar. Het gaat om windenergie (hoofdstuk 4), sinds 2018 om zonnestroom (hoofdstuk 5.1), bodemenergie met onttrekking van grondwater (hoofdstuk 7.1) en sinds 2019 is er een regionale maatwerktabel voor biomassa (hoofdstuk 8) . Op de website van de van Rijkswaterstaat zijn meer regionale cijfers over hernieuwbare energie beschikbaar. Voor een aantal technieken zijn de CBS-cijfers met verdeelsleutels verder uitgesplitst. Voor andere technieken wordt dat gedeelte van de populatie uitgesplitst waarvoor gegevens beschikbaar zijn.
+
+In het klimaatakkoord is een belangrijke rol toebedeeld aan zogenaamde RES (Regionale energiestrategie) regio’s voor het stimuleren van de energietransitie en in het bijzonder voor de ontwikkeling van zonnestroom en wind op land. Naar aanleiding hiervan heeft het CBS een StatLine-tabel met productie en vermogen van zonnestroom en wind op land per RES regio: .
+
+
+
+Algemene overzichten
+
+Dit hoofdstuk geeft een algemeen overzicht over hernieuwbare energie. Eerst volgt een overzicht van het totaal aan hernieuwbare energie met alle vormen van energie bij elkaar waarna uitsplitsingen volgen voor hernieuwbare elektriciteit, hernieuwbare warmte en hernieuwbare energie voor vervoer. Daarna komt uitleg over internationale vergelijkingen, de methode, werkgelegenheid en subsidies.
+
+2.1 Hernieuwbare energie totaal
+
+In de RED I uit 2009 hebben Europese regeringen en het Europees parlement gezamenlijk afgesproken dat in 2020 20 procent van het energetisch eindverbruik van energie moest komen uit hernieuwbare bronnen. Landen met veel goedkope natuurlijke bronnen voor hernieuwbare energie, zoals Oostenrijk met veel waterkracht, moesten meer dan gemiddeld doen. Landen met weinig goedkope natuurlijke bronnen voor hernieuwbare energie, zoals Nederland, hoefden minder te doen. Voor Nederland gold een doelstelling van 14 procent hernieuwbare energie in 2020. Het kabinet Rutte II had in het regeerakkoord oorspronkelijk afgesproken om te streven naar 16 procent in 2020 (VVD en PvdA, 2012). In het nationaal Energieakkoord is deze 16 procent opgeschoven naar 2023 (SER, 2013). In de Klimaat- en Energieverkenning 2019 (PBL, 2019) werd geraamd dat het doel van een aandeel van 14 procent hernieuwbare energie in 2020 niet behaald zou worden. Om alsnog aan de afspraken te voldoen is in juni 2020 een flexibele overeenkomst met Denemarken afgesloten om 8 tot 16 TWh hernieuwbare energie over te dragen (Rijksoverheid, 2020a). Uiteindelijk is 13,7 TWh (ten waarde van 170,6 miljoen euro) nodig geweest om het Europese doel te behalen (Rijksoverheid 2022a).
+
+Ontwikkelingen
+
+Vanaf 2021 geldt de nieuwe RED II waarin niet alleen voor vloeibare biomassa, maar ook vaste en gasvormige biomassa boven een bepaalde vermogensgrens duurzaamheidseisen zijn opgenomen. Over de precieze interpretatie van deze regels is nog onduidelijkheid waardoor CBS alleen een range publiceert voor het aandeel hernieuwbare energie. In 2021 lag dit aandeel hernieuwbare energie tussen de 12 en de 13,4 procent van het eindverbruik van energie. In 2020 was het aandeel in Nederland verbruikte hernieuwbare energie 11,5 procent. Inclusief de statistische overdracht kwam het aandeel hernieuwbare energie in 2020 op precies 14 procent uit.
+
+Afhankelijk van of het onzekere deel van de biomassa wordt meegenomen was het verbruik van hernieuwbare energie in 2021 gelijk aan 241 dan wel 269 PJ. Vergeleken met 2020 en wanneer de statistische overdracht wordt meegenomen is dit in beide gevallen lager; respectievelijk 11 procent en 1 procent. Wanneer de statistische overdracht buiten beschouwing wordt gelaten is er in beide gevallen sprake van een groei: 20 procent als het onzekere deel van de biomassa wordt meegenomen en 8 procent wanneer dit niet wordt gedaan. Er waren flinke stijgingen van het verbruik van energie uit windenergie (+36%), zon (+28%) en omgevingsenergie (+21%). Het verbruik van aardwarmte is in 2021 ongeveer gelijk gebleven aan 2020.
+
+De bijdrage van zonne-energie (zonnestroom en zonnewarmte) aan het energieverbruik uit hernieuwbare bronnen is gegroeid naar 16 procent (wanneer het onzekere deel van de biomassa wordt meegenomen in de totale hernieuwbare energie). De ontwikkeling van de elektriciteitsproductie uit zonnepanelen was in 2021 met een groei van 29 procent opnieuw fors, maar wel minder dan een jaar eerder. Net als in vorige jaren is de groei grotendeels te danken aan de toename van het opgestelde vermogen van de zonnepanelen. Het opgestelde vermogen voor windenergie groeide in 2021 met ongeveer 16 procent naar 7,7 gigawatt, uitsluitend door nieuwe windmolens op het land.
+
+Het eindverbruik van energie uit hernieuwbare bronnen gebeurt in de vorm van elektriciteit (56%), warmte (34%) en biobrandstoffen voor vervoer (10%). Genoemde percentages gelden in het geval dat het onzekere deel van de biomassa wordt meegenomen voor 2021. In de jaren tot 2015 zat de groei vooral bij hernieuwbare warmte, maar sinds 2015 liet juist ook het verbruik van hernieuwbare elektriciteit een grote toename zien. De groei van het totale vermogen van windmolens en zonnepanelen heeft hier belangrijk aan bijgedragen.
+
+In 2018 en 2019 liet het verbruik van biobrandstoffen voor vervoer een flinke groei zien, veroorzaakt door een aanscherping van de wetgeving. Daarna vlakte de groei af, vooral omdat bedrijven meer gebruik hebben gemaakt van de mogelijkheid om vanaf 2018 de verplichting in te vullen via leveringen aan de zeescheepvaart, welke voor de statistiek telt als bunkers, een vorm van export, en niet als verbruik (zie ook 8.11).
+
+In 2020 heeft een statistische overdracht plaatsgevonden. Aangezien dit geen fysieke overdracht van energie is geweest wordt deze ook niet onder een van de drie toepassingen (elektriciteit, warmte, vervoer) onderverdeeld.
+
+Oorspronkelijk werd alleen hernieuwbare elektriciteit fors ondersteund via de Milieukwaliteit elektriciteitsproductie (MEP-regeling) uit 2003 (zie ook 2.8). In 2007 kwam daar de stimulering van biobrandstoffen voor vervoer bij via de zogenaamde bijmengplicht (zie 8.11). In de SDE-regeling uit 2008 en de vervolgregelingen SDE(+)(+) konden projecten voor de productie van hernieuwbare warmte ook subsidie krijgen, eerst nog alleen in combinatie met elektriciteitsproductie, maar later ook voor projecten met alleen warmte. Achterliggende reden voor deze veranderingen zijn de Europese doelstellingen voor hernieuwbare energie. Tot en met realisatiejaar 2010 waren er alleen Europese doelstellingen voor hernieuwbare elektriciteit en biobrandstoffen voor vervoer. Vanaf 2010 gaat het vooral om de doelstelling voor het totaal aan hernieuwbare energie. Daarbij is voor een rekenmethode gekozen die hernieuwbare warmte relatief zwaar meetelt (zie ook 2.6), waardoor het stimuleren van hernieuwbare warmte jarenlang een kosteneffectieve manier was om de doelstelling te halen. De laatste jaren is de kostprijs van elektriciteitsproducerende technieken als windenergie en zonnestroom hard gedaald waardoor dit beeld gekanteld is en hernieuwbare elektriciteit relatief hard groeit.
+
+Bij MEP en later SDE(+)(+) gaat het om relatief grote projecten waarvoor subsidie aangevraagd kan worden. Om ook de kleine projecten voor de productie van hernieuwbare warmte te stimuleren is in 2016 Investeringssubsidie duurzame energie (ISDE) van start gegaan (zie ook 2.8).
+
+Methode
+
+De methode voor het bepalen van het eindverbruik van hernieuwbare energie wordt per energiebron beschreven in de hoofdstukken 3 tot en met 8. Voor het totale bruto energetisch eindverbruik (de noemer van het aandeel hernieuwbaar) tot en met 2020 is gebruik gemaakt van de SHARES-applicatie (Eurostat, 2022). Deze applicatie berekent het bruto eindverbruik van energie op basis van de jaarvragenlijsten over energie die alle lidstaten jaarlijks invullen en opsturen naar Eurostat en IEA, aangevuld met extra data die niet reeds in deze jaarvragenlijsten zitten.
+
+Het nader voorlopige cijfer van de noemer voor 2021 is berekend uit het 2020‑cijfer uit SHARES en de mutatie 2020–2021 van het energetisch eindverbruik uit de voorlopige nationale energiebalans 2021 van het CBS. Vorig jaar week het voorlopige cijfers voor de noemer relatief van het definitieve cijfer via SHARES, wat kwam door de speciale positie van internationaal vliegverkeer wat niet in het finaal energieverbruik zit, maar wel meeloopt in de noemer van aandeel hernieuwbare energie. Om de berekening van het voorlopige cijfer voor de noemer nauwkeuriger te maken heeft CBS nu de ontwikkeling van internationaal vliegverkeer apart meegenomen.
+
+2.2 Hernieuwbare elektriciteit
+
+Tot en met 2010 was er voor hernieuwbare elektriciteit een aparte doelstelling die voortkwam uit de EU-Richtlijn Hernieuwbare Elektriciteit uit 2001. In de RED I (2009) is er geen aparte doelstelling meer opgenomen voor hernieuwbare elektriciteit. Wel moeten lidstaten rapporteren over het geplande en gerealiseerde aandeel hernieuwbare elektriciteit.
+
+De productie van windenergie en waterkracht is afhankelijk van het aanbod van wind en water. Op jaarbasis kunnen er flinke fluctuaties zijn. Deze fluctuaties verminderen het zicht op structurele ontwikkelingen. Om deze fluctuaties uit te filteren, zijn normalisatieprocedures gedefinieerd voor elektriciteit uit windenergie en waterkracht . Tabel 2.2.1 geeft de genormaliseerde cijfers en ook de niet genormaliseerde cijfers. Voor windenergie geldt dat de normalisatiemethode vanaf verslagjaar 2021 is aangepast doordat wind op land en wind op zee nu apart worden genormaliseerd. Dat is nauwkeuriger en vloeit voort uit de aanpassing van de RED II.
+
+Daarnaast kan onderscheid gemaakt worden tussen de netto en bruto productie van hernieuwbare elektriciteit. Het verschil zit in het eigen verbruik van de installaties. Windmolens, waterkrachtinstallaties en zonnepanelen hebben een klein, verwaarloosbaar, eigen verbruik. Biomassa-installaties hebben juist een relatief groot eigen verbruik. Vooral afvalverbrandingsinstallaties hebben behoorlijk wat elektriciteit nodig voor onder andere rookgasreiniging. Informatie over het eigen verbruik en de netto productie van installaties op biomassa is te vinden in hoofdstuk 8 en op .
+
+Bron: CBS
+
+1) Volgens procedure uit EU-richtlijn Hernieuwbare Energie uit 2009 (RED I). Vanaf 2021 volgens RED II uit 2018
+
+2) Inclusief indirecte elektriciteitsproductie uit groen gas (biogas dat na opwaardering tot aardgaskwaliteit is geïnjecteerd in aardgasnet)
+
+3) Inclusief of exclusief onzekere biomassa volgens EU-Richtlijn 2018 (RED II)
+
+Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+* Renewable Energy Directive
+
+** Nader voorlopige cijfers
+
+
+
+Ontwikkelingen
+
+In 2021 lag de bruto genormaliseerde binnenlandse productie van hernieuwbare elektriciteit tussen de 30 en 34 procent van het elektriciteitsverbruik. In 2020 was dit 26 procent. Deze groei wordt vooral veroorzaakt door meer elektriciteitsproductie uit wind en zon. De productie van hernieuwbare elektriciteit vindt vooral plaats met windmolens; ze zijn goed voor ongeveer de helft van de totale productie. In 2021 was de genormaliseerde productie van de windmolens was 16 procent van het Nederlandse stroomverbruik; vier procentpunt meer dan in 2020. De bijdrage van binnenlandse zonnestroom aan de Nederlandse stroomvoorziening is in 2021 opnieuw gegroeid en kwam uit op 9 procent.
+
+Certificaten van Garanties van Oorsprong voor groene stroom
+
+Via CertiQ kunnen binnenlandse producenten van hernieuwbare elektriciteit certificaten van Garanties van Oorsprong (GvO’s) krijgen voor hun hernieuwbare stroom. Deze Garantie van Oorsprong is nodig om gebruik te kunnen maken van de subsidies voor groene stroom en om de eindafnemers te garanderen dat de afgenomen groene stroom daadwerkelijk groen is. Ook is het mogelijk om Garanties van Oorsprong te importeren.
+
+Bron: CertiQ
+
+1) Dit zijn certificaten die zijn uitgegeven voor geproduceerde hernieuwbare elektriciteit die door de productieinstallatie zelf direct weer verbruikt is.
+
+De vraag naar groene stroom was in 2021 61 miljard kilowattuur (CertiQ, 2022). Dat zijn de Garanties van Oorsprong die zijn afgeboekt voor levering van groene stroom. De afboeking is 7 miljard kWh meer dan in 2020 en komt in 2021 overeen met ongeveer de helft van het totale bruto elektriciteitsverbruik. Ter vergelijking: in 2015 was 36 procent groen.
+
+De binnenlandse productie (niet genormaliseerd) van hernieuwbare elektriciteit was met 36–40 miljard kWh in 2021 aanzienlijk kleiner dan de vraag naar groene stroom, maar relatief hoger dan eerdere jaren. In 2021 werden er 1,3 keer meer GvO’s geïmporteerd dan geproduceerd.
+
+De meeste geïmporteerde GvOs in 2021 komen uit Italië (18 procent), Frankrijk (15 procent) en Noorwegen (14 procent) (CertiQ, 2022). De import van GvO’s staat los de fysieke import van stroom. Dat verklaart waarom we ook GvO’s uit bijvoorbeeld IJsland (CertiQ, 2022) konden importeren, een land waarmee ons elektriciteitsnet niet verbonden is.
+
+Internationaal is er waarschijnlijk nog steeds sprake van een overschot aan GvO’s voor groene stroom. Dit is te zien aan het forse aantal verlopen certificaten en het feit dat groene stroom niet, of maar een klein beetje, duurder is dan grijze stroom. De reden voor het overschot is dat in veel andere landen alleen de aanbodzijde van hernieuwbare elektriciteit wordt gestimuleerd, terwijl in Nederland ook de vraagzijde aandacht krijgt via het aanbieden van groene stroom aan eindverbruikers. Dat maakt het enerzijds onzeker of de toename van de vraag naar groene stroom in Nederland heeft geleid tot een toename van de productie van groene stroom, in Nederland of elders in Europa, en niet alleen tot een toename van het aantal bestaande installaties buiten Nederland dat certificaten aanbiedt.
+
+Anderzijds zijn er aanbieders van groene stroom die expliciet benadrukken dat de geleverde stroom in Nederland geproduceerd is en mogelijk hiermee stimuleren dat meer groene stroom daadwerkelijk in Nederland wordt geproduceerd. Om deze claim waar te kunnen maken moeten deze aanbieders certificaten kopen gekoppeld aan in Nederland opgewerkte hernieuwbare elektriciteit. Omdat deze schaars is, is de prijs van deze certificaten uit Nederland vaak substantieel (PBL, 2020a). Dit geldt met name voor wind op land en zonnestroom. De geschatte waarde is dermate hoog dat de overheid besloten heeft de waarde van de GvO voor wind op land en zonnestroom te gaan verdisconteren in de te verstrekken subsidie (Ministerie van Economische Zaken en Klimaat, 2020), ondanks dat het lastig is deze waarde precies vast te stellen. De vraag naar groene stroom uit wind en zon uit Nederland zou daarmee kunnen leiden tot lagere subsidies voor zonnestroom en wind op land en/of tot meer SDE projecten indien het totale budget de beperkende factor is.
+
+De aanmaak van certificaten voor GvO’s voor binnenlandse productie van hernieuwbare elektriciteit is niet precies gelijk aan de daadwerkelijke fysieke productie (zie tabel 2.2.1). Het verschil tussen productie en aanmaak van certificaten was de laatste jaren maximaal 5 procent, maar wordt groter. In 2021 bedraagt dit verschil 15 procent (wanneer de niet-genormaliseerde productie inclusief het onzeker deel van biomassa wordt meegenomen). Er zijn twee belangrijke redenen voor dit verschil. Ten eerste zit er doorgaans één en soms een paar maanden tussen de fysieke productie en de uitgifte van de GvO’s. Ten tweede, en dit wordt steeds belangrijker, zijn er installaties die wel hernieuwbare elektriciteit maken, maar die geen GvO’s aanvragen. Dit speelt vooral bij zonnestroom en wordt verder toegelicht in paragraaf 2.8.
+
+2.3 Hernieuwbare warmte
+
+In tegenstelling tot hernieuwbare elektriciteit en hernieuwbare energie voor vervoer zijn er voor hernieuwbare warmte nooit concrete beleidsdoelstellingen op nationaal of Europees niveau geweest. Voor de RED I uit 2009 zijn landen wel verplicht om te rapporteren over het geplande en gerealiseerde aandeel eindverbruik van energie voor verwarming uit hernieuwbare bronnen. In het bij de EU ingediende actieplan voor hernieuwbare energie gaf Nederland aan dat de regering vooralsnog uitging van 9 procent hernieuwbare warmte in 2020 (Rijksoverheid, 2010). Het daadwerkelijke aandeel kwam uit op 8 procent (zie Tabel 2.3.1). In de RED II (2018), welke zich richt op de periode 2021 tot en met 2030, is wel een (indicatieve) doelstelling opgenomen voor het aandeel hernieuwbare energie voor warmte. Dit zou met 1,1 procentpunt per jaar moeten stijgen of 1,3 procentpunt als een land restwarmte mee zou willen tellen.
+
+In tegenstelling tot hernieuwbare elektriciteit werd de ontwikkeling van hernieuwbare warmte in het verleden veel minder gestimuleerd door subsidies. De door een wisselend subsidiebeleid veroorzaakte pieken en dalen van het groeitempo, zoals bij hernieuwbare elektriciteit, zijn bij hernieuwbare warmte daardoor niet aanwezig.
+
+Inmiddels is er wel wat veranderd. In de subsidieregeling SDE was er al een bonus voor warmte bij projecten met gelijktijdige productie van elektriciteit en warmte. Vanaf 2012 is er in de SDE+(+) ook subsidie voor installaties die alleen warmte uit hernieuwbare bronnen produceren en vanaf 2016 is er ISDE voor diverse kleinschalige technieken voor hernieuwbare warmte. Bovendien is vanaf 1 juli 2018 de aansluitplicht voor aardgas bij nieuwe woningen vervallen, wat een stimulering is voor de toepassing van warmtepompen.
+
+Ontwikkelingen
+
+Het aandeel hernieuwbare warmte lag in 2021 tussen de 7,4 en 8,4 procent van het totale eindverbruik van energie voor warmte. Dit is vergelijkbaar (of lager) met het aandeel warmte in 2020, wat uitkwam op 8,1 procent. Het totale verbruik van energie voor warmte is in 2021 met 5 procent gestegen ten opzichte van 2020 vanwege het minder zachte stookseizoen, wat bijdraagt aan een iets lager aandeel hernieuwbare warmte. Vergeleken met 2020 was er een toename van het verbruik van hernieuwbare warmte uit buitenluchtwarmte (+29%) en bodemwarmte (+8,5%). De warmte afkomstig uit de aarde en uit zonne-energie is nagenoeg gelijk gebleven.
+
+Bron: CBS
+
+1) Inclusief indirect eindverbruik van warmte uit groen gas (biogas dat na opwaardering is geïnjecteerd in aardgasnet).
+
+2) Inclusief of exclusief onzekere biomassa volgens EU-Richtlijn 2018 (RED II)
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+* Renewable Energy Directive
+
+** Nader voorlopige cijfers
+
+
+
+De belangrijkste bron voor hernieuwbare warmte zijn de houtkachels van huishoudens. Impliciete steun van de overheid voor het houtverbruik door huishoudens is de energiebelasting op aardgas en het ontbreken van een energiebelasting op hout. Voor veel huishoudens is geld overigens niet de belangrijkste drijfveer om hout te stoken: sfeer is ook een belangrijke factor. Mogelijk dat dit gaat veranderen door de hoge gasprijzen in 2022. De vraag is wel of CBS daar zicht op kan krijgen, want onderzoek naar houtverbruik woningen is lastig en duur en vindt daarom slechts eens in zes jaar plaats (zie ook paragraaf 8.6).
+
+2.4 Hernieuwbare energie voor vervoer
+
+De RED I uit 2009 bevat niet alleen een bindende doelstelling voor hernieuwbare energie totaal maar ook een bindende doelstelling voor hernieuwbare energie voor vervoer. In 2020 moet het verbruik van hernieuwbare energie voor vervoer 10 procent zijn van het totale verbruik van benzine, diesel, biobrandstoffen en elektriciteit voor vervoer. Om dit doel te bereiken heeft de nationale overheid leveranciers van benzine en diesel verplicht om een (oplopend) aandeel van de geleverde energie uit hernieuwbare bronnen te laten komen ( Wet Milieubeheer, onderdeel Hernieuwbare Energie Vervoer ). Meestal doen ze dat door het bijmengen van biobrandstoffen in gewone benzine of diesel.
+
+Vanaf verslagjaar 2021 geldt de vernieuwde EU Richtlijn Hernieuwbare Energie (RED II). Hierin is voor verslagjaar 2030 ook weer een bindende doelstelling opgenomen voor het aandeel hernieuwbare energie voor vervoer, namelijk 14%. Voor tussenliggende jaren moeten lidstaten zelf een indicatief traject vast stellen. De rekenwijze voor het aandeel hernieuwbare energie voor vervoer is complex en vanaf 2021 anders dan voor 2020 en eerder.
+
+Ontwikkelingen
+
+Bron: CBS
+
+1) In overeenstemming met de EU Richtlijn Hernieuwbare Energie gaat het hier om het aandeel hernieuwbare elektriciteit twee jaar voor het referentiejaar. De richtlijn geeft lidstaten de vrijheid t/m referentiejaar 2020 om te kiezen voor het EU-gemiddelde (Eurostat, 2013c) of het nationale aandeel hernieuwbare elektriciteit. Vanaf 2021 geldt het nationale aandeel. In de praktijk betekent dit voor Nederland het EU gemiddelde t/m referentiejaar 2020 en het nationale gemiddelde vanaf 2021.
+
+2) Berekend met voorgeschreven calorische waarden voor benzine en diesel uit de EU-Richtlijn Hernieuwbare Energie. Deze wijkt wat of van de calorische waarde die het CBS hanteert in de standaard nationale en internationale energiestatistieken.
+
+3) Besluit Hernieuwbare Energie voor vervoer, 3 mei 2018 en NEa jaarrapportage verslagjaar 2021.
+
+In 2020 was het aandeel hernieuwbare energie voor vervoer 12,6 procent en daarmee voldoet Nederland dus ruim aan de verplichting van de EU-Richtlijn Hernieuwbare Energie om in 2020 het aandeel hernieuwbare energie voor vervoer 10 procent te laten zijn. In 2021 komt het voorlopige cijfer voor het aandeel hernieuwbare energie vervoer uit op 8,7 procent. De daling komt door de nieuwe rekenmethode, waarbij er nog wel een onduidelijkheid is (zie paragraaf Methode) over internationale zeevaart.
+
+De nationale verplichting voor leveranciers om hernieuwbare energie te leveren is omhoog gegaan van 16,4 naar 17,5 procent in 2021. Mede daarom is de geleverde hoeveelheid biobrandstoffen voor vervoer in 2021 omhoog gegaan. Wat ook meespeelt is een lichte toename van de grondslag voor de verplichting (geleverde benzine en diesel op de binnenlandse belaste markt) en de strengere eisen voor het meetellen van biobrandstoffen geleverd aan internationale zeevaart. Daarvoor mochten vanaf 2021 alleen geavanceerd biobrandstoffen meetellen, waardoor het aantrekkelijker werd om biobrandstoffen te leveren aan binnenlands vervoer waarvoor alle duurzame biobrandstoffen mogen meetellen.
+
+Nieuw in 2021 is dat er een voor de RED II een grens is aan de hoeveelheid biobrandstoffen uit gebruikte frituurolie en dierlijk vet die mee mag tellen. Dit mag maximaal 1,7% zijn van de noemer van de EU-verplichting. Deze 1,7% telt dan wel dubbel. Alles meer dan 1,7% telt helemaal niet mee voor het aandeel hernieuwbare energie voor vervoer, maar wel (zonder dubbeltelling) voor de overall doelstelling. Dit alles volgt uit een voorlopige versie van de rapportage-tool SHARES waarmee de Europese Commissie de interpretatie van de rekenregels uit de RED II vastlegt. In Nederland bestond in 2021 3,8% van de geleverde brandstoffen uit biobrandstoffen gemaakt uit gebruikte frituurolie en/of dierlijk vet. 2,1% daarvan telt dus niet mee, wat neerkomt op 8,5 PJ zonder dubbeltelling en 17 PJ met dubbeltelling. Met deze 17 PJ erbij zou het aandeel hernieuwbare energie voor vervoer weer op een kleine 13 procent uitkomen in 2021.
+
+Ook elektriciteit voor rail- en wegvervoer levert een substantiële bijdrage. Deze bijdrage is vanaf 2021 wel duidelijk kleiner geworden vanwege aanpassing van de rekenregels in de RED II. Ten eerste mag voor het aandeel hernieuwbare elektriciteit niet meer gerekend worden met het EU-gemiddelde, maar moet worden gekozen voor het nationale gemiddelde en ten tweede zijn vermenigvuldigingsfactoren voor rail- en wegvervoer verlaagd. Wel is het zo dat het voorlopige cijfer voor elektriciteit voor wegvervoer gemaakt is daar uit te gaan van dezelfde waarde van het jaar ervoor. Dit cijfer zal vermoedelijk naar boven worden bijgesteld gezien de groei van elektrisch wegvervoer.
+
+Het verplichte aandeel hernieuwbare energie voor vervoer uit de nationale wet- en regelgeving Energie voor Vervoer wordt op een wat andere manier berekend dan het aandeel hernieuwbare energie voor vervoer uit de RED (zie methodesectie). Daardoor loopt het gerealiseerde aandeel hernieuwbare energie voor vervoer volgens de RED niet gelijk op met het verplichte aandeel hernieuwbare energie voor vervoer volgens de nationale wet- en regelgeving Energie voor Vervoer . Voor 2021 speelt dit on sterke mate bij de begrenzing van biobrandstoffen uit gebruikte frituurolie en dierlijk vet, welke wel in de RED II zit, maar niet in de nationale wet- en regelgeving. Ter compensatie zijn overigens wel duidelijk hogere verplichte percentages hernieuwbare energie voor vervoer opgenomen in de nationale wet- en regelgeving.
+
+Sinds de aanpassing van de RED I in 2015 worden er binnen de dubbeltellende biobrandstoffen twee categorieën onderscheiden: gewone dubbeltellende biobrandstoffen (uit gebruikt frituurvet en dierlijke vetten) en zogenaamde geavanceerde biobrandstoffen (uit een hele lijst milieuvriendelijke grondstoffen). Bij de productie van geavanceerde biobrandstoffen wordt het landgebruik niet aangepast voor de teelt. Volgens de voorlopige versie van SHARES mag bij deze percentages de dubbeltelling worden toegepast. Nederland heeft de keus gemaakt om in nationale wetgeving in 2021 bedrijven te verplichten 1,2 procentpunt van de verplichting met geavanceerde biobrandstoffen in te vullen. Hiervoor kunnen ook het administratief vergroende leveringen van aardgas aan vervoer meetellen, mits het administratief gekoppelde biogas uit de juiste grondstoffen is gemaakt. Voor 2021 kwam het aandeel geavanceerde biobrandstoffen al uit op 3,1 procent.
+
+Methode
+
+Voor de EU-Richtlijn Hernieuwbare Energie tellen alleen biobrandstoffen mee welke voldoen aan duurzaamheidscriteria uit deze Richtlijn. Het verbruik van duurzame biobrandstoffen is bepaald zoals beschreven in 8.11.
+
+Via de wet en regelgeving Energie voor Vervoer uit 2018 (voortbouwend op vergelijkbare wetten met verplichtingen) zijn Nederlandse oliebedrijven verplicht om hernieuwbare energie op de markt te brengen. De berekening voor het aandeel hernieuwbare energie voor vervoer uit de wet- en regelgeving Energie voor Vervoer (zoals toegepast door NEa) is niet precies hetzelfde als de berekening volgens de EU-Richtlijn Hernieuwbare Energie zoals in Bijlage 3, waardoor de resulterende percentages verschillen. De rekenwijze verschilt op de volgende onderdelen:
+
+Carry-over: Oliebedrijven hebben de voor de wet- en regelgeving Energie voor Vervoer de mogelijkheid om het ene jaar meer te doen en het andere jaar minder. De EU-Richtlijn kent deze verschuiving niet en gaat uit van de fysieke leveringen in het verslagjaar. Deze flexibiliteit verlaagt de kosten voor de oliebedrijven.
+
+Hernieuwbare elektriciteit voor railvervoer: Elektriciteit voor railvervoer is geen onderdeel van de wet Hernieuwbare Energie Vervoer , maar telt wel mee voor de EU-doelstelling via het EU-gemiddelde aandeel hernieuwbare elektriciteit.
+
+Biobrandstoffen voor mobiele werktuigen: Mobiele werktuigen in de bouw en landbouw gebruiken net als veel wegvoertuigen diesel. In deze diesel zit ook biodiesel bijgemengd. Voor de EU-richtlijn Hernieuwbare Energie valt het gebruik van (bio)diesel voor deze mobiele werktuigen niet onder vervoer en telt deze dus niet mee voor het verplichte aandeel hernieuwbare energie voor vervoer. Voor de wet- en regelgeving Energie voor Vervoer tellen de biobrandstoffen geleverd aan mobiele werktuigen wel mee bij het voldoen aan de verplichting. Bij de bepaling van de grondslag voor de verplichting geldt hetzelfde verschil, nationaal tellen de mobiele werktuigen wel mee, internationaal niet.
+
+Voor de Richtlijn Hernieuwbare Energie worden biobrandstoffen geteld op het moment dat ze volgens de energiestatistieken fysiek op de Nederlandse markt komen. Dat is het moment dat er accijns wordt afgedragen. Voor de wet- en regelgeving Energie voor Vervoer konden sinds 2015 biobrandstoffen geteld worden op het moment dat de biobrandstoffen aan een Nederlandse afnemer waren verkocht. Een eventueel daarop volgende export van de biobrandstoffen was voor de wet niet van belang. Met ingang van 2018 is de wetgeving aangepast, onder andere met als doel om ervoor te zorgen dat biodiesel en benzine die tellen voor de verplichting ook fysiek op de Nederlandse markt komen. De verschillen tussen de fysieke leveringen zoals vastgesteld door het CBS en de leveringen die bij de NEa zijn geclaimed voor het voldoen aan de verplichting zijn sinds 2018 veel kleiner dan in de jaren 2015 tot en met 2017.
+
+Met ingang van verslagjaar 2018 is het voor bedrijven mogelijk om biobrandstoffen geleverd aan de nationale en internationale scheepvaart mee te laten tellen voor het voldoen aan hun verplichting. Leveringen aan de scheepvaart tellen alleen mee voor de EU-verplichting als deze zijn geleverd aan schepen met vertrek en aankomst in Nederland. Veel schepen varen naar het buitenland en de meeste biobrandstoffen geleverd aan schepen tellen daarom ook niet mee voor het aandeel hernieuwbare energie voor vervoer voor de EU Richtlijn Hernieuwbare Energie en ook niet voor het totaal aandeel hernieuwbare energie. In 2020 waren de leveringen van biobrandstoffen aan de zeevaart zo sterk gestegen dat het ministerie van Infrastructuur en Waterstaat heeft besloten enkel nog geavanceerde biobrandstoffen toe te staan. Dat heeft geleid tot en een daling van de biobrandstoffen geleverd aan de zeevaart (zie ook paragraaf 8.11), maar de geleverde hoeveelheden waren met 7 PJ nog steeds substantieel.
+
+Met ingang van verslagjaar 2021 geldt er voor biobrandstoffen uit gebruikte frituurolie en dierlijke vetten volgens de EU-Richtlijn Hernieuwbare Energie een limiet van 1,7%, welke niet aanwezig in de nationale wet- en regelgeving.
+
+Berekening noemer: in de EU-Richtlijn Hernieuwbare Energie gaat het om benzine, diesel en elektriciteit voor wegvervoer en spoor. In de wet- en regelgeving Energie voor Vervoer gaat het ook om alle belast uitgeslagen benzine en diesel. Het uitsluiten van leveringen aan mobiele machines is door aanpassing van de wet vanaf verslagjaar 2018 niet meer mogelijk.
+
+Op een punt is er nog onduidelijkheid over de interpretatie van de RED II voor de berekening van het aandeel hernieuwbare energie voor vervoer vanaf verslagjaar 2021. Het zou kunnen dat de leveringen aan internationale zeevaart wel mee kunnen gaan tellen. Indien dat zo is, dan zal het aandeel hernieuwbare energie voor vervoer veel hoger uitkomen, temeer daar in 2021 alleen geavanceerde (dubbeltellende) biobrandstoffen zijn geleverd aan de zeevaart.
+
+2.5 Internationale vergelijking
+
+Nederland heeft weinig hernieuwbare energie ten opzichte van veel andere Europese landen. In de ranglijst voor het aandeel hernieuwbare energie staat ons land op de vier na laatste plaats. In 2020 komt in Nederland 14 procent van alle energie uit hernieuwbare bronnen, bij koploper Zweden is dit 60 procent.
+
+Er zijn drie belangrijke redenen waarom Nederland zo laag staat op de Europese ranglijst. Ten eerste hebben we nauwelijks waterkracht door de geringe hoogteverschillen in onze rivieren. Ten tweede wordt er weinig hout verbruikt door huishoudens. In Nederland hebben bijna alle huishoudens een aardgasaansluiting en soms stadsverwarming. In veel andere landen ontbreken deze aansluitingen op het platteland. Hout concurreert in Nederland dus altijd met het makkelijke en in 2021 nog goedkope gas of met stadsverwarming. In het buitenland zijn er veel gebieden waar hout alleen concurreert met elektriciteit, kolen of olie. Deze laatste drie energiedragers zijn relatief duur en en/of bewerkelijk. In die gebieden is hout daarom relatief snel aantrekkelijk.
+
+Er is een derde reden waarom het aandeel hernieuwbare energie in Nederland lager is dan in bijvoorbeeld Denemarken, Duitsland of Spanje. In deze landen heeft de overheid ‘nieuwe’ vormen van hernieuwbare energie zoals windenergie of zonnestroom in het verleden meer gesteund dan in ons land. Dit is een politieke keuze. Direct of indirect kost het stimuleren van deze vormen van hernieuwbare energie geld en in Nederland heeft de politiek dat er niet altijd voor over gehad. Sinds 2014 is hierin verandering gekomen met het ‘op stoom komen’ van de SDE+-subsidieregeling en de forse verhogingen van de subsidiebudgetten (zie verder paragraaf 2.8 Subsidies). De ruimere subsidiemogelijkheden waren niet direct zichtbaar in de realisatiecijfers vanaf 2014, omdat vooral voor de grote projecten er veel tijd zit tussen plannen, discussie over de ruimtelijke inpassing, aanvraag en realisatie. De laatste jaren is wel een grote groei zichtbaar voor zonnestroom en het meestoken van biomassa, gestimuleerd door de subsidies.
+
+Onder andere vanwege de verschillen in natuurlijke omstandigheden had niet elk land dezelfde doelstelling van het aandeel hernieuwbare energie in 2020. Gemiddeld genomen streefde de EU naar 20 procent in 2020. Er is afgesproken dat sommige landen meer doen dan gemiddeld en andere landen zoals Nederland minder. Met behulp van een statistische overdracht, een van de manieren om de doelstelling te behalen, is Nederland precies op de afgesproken 14 procent uitgekomen. Alle landen op Frankrijk na hebben de doelstelling in 2020 behaald, gemiddeld kwam de EU op 22 procent aan hernieuwbare energie.
+
+2.6 Vergelijking methoden voor berekening totaal aandeel hernieuwbare energie
+
+Het Protocol Monitoring Hernieuwbare Energie beschrijft drie methodes om het aandeel hernieuwbare energie uit te rekenen, namelijk de bruto-eindverbruikmethode, de substitutiemethode en de primaire energiemethode.
+
+Bruto-eindverbruikmethode
+
+In de RED I uit 2009 hebben Europese regeringen en het Europees Parlement gezamenlijk afgesproken om 20 procent van het energetisch eindverbruik van energie in 2020 uit hernieuwbare bronnen te laten komen. Bij de berekeningen van het aandeel hernieuwbare energie wordt gebruik gemaakt van concepten uit de energiebalans. In de RED is het eindverbruik opgebouwd uit drie componenten: elektriciteit, warmte en vervoer.
+
+Voor elektriciteit is het eindverbruik van hernieuwbare energie gelijk gesteld aan de bruto binnenlandse productie. Dit is de productie zonder aftrek van het eigen elektriciteitsverbruik van de elektriciteit producerende installatie.
+
+Voor warmte is het eindverbruik van hernieuwbare energie gelijk aan het finaal verbruik van hernieuwbare energie (bijvoorbeeld de inzet van hout in kachels) plus de verkochte warmte uit hernieuwbare bronnen (bijvoorbeeld de geleverde warmte aan stadsverwarming).
+
+Voor vervoer gaat het om de biobrandstoffen die geleverd zijn op de nationale markt, al dan niet gemengd in gewone benzine en diesel. Leveringen aan vliegtuigen tellen wel mee, leveringen aan internationale scheepvaart niet.
+
+Voor het totale eindverbruik van energie (de noemer) gaat het bij de RED alleen om het eindverbruik van energie in de industrie (exclusief raffinaderijen), de dienstensector, de landbouw, huishoudens en vervoer. Daar komt dan nog een kleine bijdrage van de transportverliezen van elektriciteit en warmte en het eigen verbruik van elektriciteit en warmte voor elektriciteitsproductie bij. Het andere eigen verbruik van de energiesector, zoals de ondervuring bij de raffinaderijen, telt niet mee. Het gaat alleen om het energetisch verbruik van energie. Het niet-energetisch verbruik van energie, bijvoorbeeld olie of biomassa voor het maken van plastics, telt niet mee.
+
+Vloeibare biomassa telt in de RED alleen mee als deze voldoet aan de duurzaamheidscriteria uit deze richtlijn. Voor de gewone energiestatistieken van het CBS, Eurostat en IEA telt alle vloeibare biomassa mee.
+
+Tot slot vindt er een correctie plaats voor landen met een groot aandeel energieverbruik voor vliegverkeer. Voor Nederland resulteert deze correctie voor 2019 in een verlaging van het totale eindverbruik van energie met bijna 2 procent. Voor 2020 zijn deze cijfers nog niet berekend, maar gezien het vliegverkeer door de coronacrisis instortte zal deze correctie lager zijn dan gebruikelijk.
+
+Een bijzonder aspect bij de bruto eindverbruikmethode in de RED is dat de elektriciteitsproductie uit windenergie en waterkracht wordt genormaliseerd om te corrigeren voor jaren met veel of weinig wind of neerslag. Voor wind is de normalisatieperiode vijf jaar en voor water vijftien jaar.
+
+Substitutiemethode
+
+De substitutiemethode berekent hoeveel verbruik van fossiele energie wordt vermeden door het verbruik van hernieuwbare energie. Deze methode werd sinds de jaren negentig gebruikt voor nationale beleidsdoelstellingen. Het eerste kabinet-Rutte heeft de nationale beleidsdoelstelling voor hernieuwbare energie echter losgelaten en daarmee is het politieke belang van deze methode afgenomen. Maar de methode blijft wel relevant, omdat ze inzicht geeft in het vermeden verbruik van fossiele energie en de vermeden emissie van CO 2 . Deze effecten zijn belangrijke motieven om het verbruik van hernieuwbare energie te bevorderen.
+
+Bron: CBS (2022a)
+
+** Nader voorlopige cijfers
+
+Uitgangspunten bij de substitutiemethode zijn de productie van hernieuwbare elektriciteit, de productie van hernieuwbare nuttige warmte en het verbruik van biobrandstoffen. Daarna wordt bepaald hoeveel fossiele energie nodig geweest zou zijn om dezelfde hoeveelheid elektriciteit, warmte of transportbrandstoffen te maken. Daarbij wordt gebruik gemaakt van referentietechnologieën die zijn gedefinieerd in het Protocol Monitoring Hernieuwbare Energie .
+
+Primaire-energiemethode
+
+De primaire-energiemethode wordt gebruikt in internationale energiestatistieken van het Internationaal Energieagentschap (IEA) en Eurostat. Net als het IEA en Eurostat gebruikt het CBS deze methode in de Energiebalans . Bij de primaire-energiemethode is de eerst meetbare en bruikbare vorm van energie het uitgangspunt. Bij windenergie gaat het om de elektriciteitsproductie. Bij biomassa om de energie-inhoud en niet om de elektriciteit of warmte die uit de biomassa wordt gemaakt. Biomassa komt pas binnen het systeem van de energiestatistieken (als winning) op het moment dat het geschikt en bestemd is voor gebruik als energiedrager. Koolzaad is dus nog geen biomassa, biodiesel wel. Mest nog niet, biogas uit mest wel.
+
+Er is een verschil in het primair verbruik van biomassa volgens de energiebalansen van het CBS, het IEA en Eurostat. In de internationale energiebalansen zijn bijgemengde biobrandstoffen meegenomen als onderdeel van biomassa, in de Energiebalans van het CBS zijn de bijgemengde biobrandstoffen onderdeel van aardolieproducten. Na het bijmengen zijn biobrandstoffen in de Energiebalans dus niet meer als aparte producten herkenbaar. Het bijmengen telt daarom als primair verbruik. In de IEA/Eurostat-balansen is het primair verbruik van biobrandstoffen gelijk aan de leveringen op de binnenlandse markt van bijgemengde en eventueel ook pure biobrandstoffen. Bijgemengde biobrandstoffen worden geïmporteerd en geëxporteerd, waardoor het bijmengen niet gelijk is aan de leveringen op de markt.
+
+Vergelijking tussen methoden
+
+De drie methoden verschillen dus sterk van elkaar. Voor alledrie methoden is wat te zeggen en ze worden ook alledrie gebruikt. Daarom is voor de drie methoden het aandeel hernieuwbare energie uitgerekend.
+
+Bron: CBS
+
+Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers
+
+Het resulterende percentage voor het aandeel hernieuwbare energie is in 2020 voor alle drie methodes verschillend. De bijdrage van de componenten verschilt per methode. Zo telt in de substitutiemethode hernieuwbare elektriciteit veel zwaarder mee. Dat komt omdat in de twee andere methoden alleen de geproduceerde elektriciteit telt, terwijl het in de substitutiemethode gaat om de fossiele energie die een gemiddelde centrale nodig zou hebben om dezelfde hoeveelheid elektriciteit te produceren. Dat is twee á tweeënhalf maal zoveel. Daar staat tegenover dat in de substitutiemethode het houtverbruik bij huishoudens veel minder zwaar meetelt, omdat het gemiddeld lage rendement van de houtkachels wordt verdisconteerd. Bij de primaire-energiemethode is afvalverbranding de belangrijkste bron. Dat komt omdat hier de energie-inhoud van het verbrande afval telt en niet de geproduceerde elektriciteit en warmte. Van belang is verder dat de noemer bij de bruto-eindverbruikmethode aanzienlijk kleiner is. Dat komt vooral omdat hierin de omzettingsverliezen bij elektriciteitsproductie en het niet-energetisch verbruik van energie niet zijn meegenomen. Specifiek voor 2020 is de statistische overdracht, wat geen fysieke stroom van energie is maar wel meetelt bij het bruto eindverbruik.
+
+Nadeel van de substitutiemethode is dat deze ingewikkeld is. Voordeel is dat deze de beste benadering geeft van het vermeden verbruik van fossiele energie en vermeden emissies van CO 2 : belangrijke redenen voor het stimuleren van hernieuwbare energie (Segers, 2008 en Segers, 2010).
+
+2.7 Subsidies
+
+Onder de huidige marktcondities is hernieuwbare energie in de meeste situaties duurder dan fossiele energie. Om de productie en het verbruik van hernieuwbare energie te stimuleren stelt de overheid subsidies beschikbaar, geeft belastingkortingen en stelt verplichtingen vast voor het verbruik van hernieuwbare energie.
+
+MEP en SDE(+)(+)
+
+De oudste ingrijpende overheidsmaatregel was de MEP-subsidie (Milieukwaliteit elektriciteitsproductie). Voor de MEP konden van halverwege 2003 tot half augustus 2006 aanvragen worden ingediend. Na start van een project was er tien jaar recht op subsidie voor de productie van hernieuwbare elektriciteit. Het bedrag verschilde per technologie. In augustus 2006 is de MEP gesloten voor nieuwe projecten, omdat de kosten uit de hand dreigden te lopen en omdat het beoogde doel (9 procent hernieuwbare elektriciteit in 2010) binnen bereik kwam (Ministerie van Economische Zaken, 2006). Die doelstelling is inderdaad gehaald.
+
+Na 2010 streeft de overheid naar verdere groei van productie en verbruik van hernieuwbare energie. Daarom is de MEP in 2008 opgevolgd door een nieuwe subsidieregeling: de Stimuleringsregeling Duurzame Energieproductie (SDE) voor bedrijven, (non-profit)instellingen en particulieren. Belangrijke verschillen met de MEP zijn:
+
+De SDE richt zich niet alleen op hernieuwbare elektriciteit, maar ook op groen gas en hernieuwbare warmte.
+
+De subsidie is afhankelijk van de marktprijs van gewone stroom of aardgas: hoe hoger de prijs voor gewone stroom of aardgas, hoe kleiner het prijsverschil tussen conventionele en hernieuwbare energie en hoe lager de subsidie.
+
+Elk jaar wordt een subsidieplafond vastgesteld. Het is dus geen open-einde-regeling.
+
+De regeling wordt elk jaar aangepast. Daarmee speelt de overheid in op nieuwe markt- en beleidsontwikkelingen. Voor ondernemers kunnen deze aanpassingen wel lastig zijn, omdat het plannen van een project vaak meerdere jaren duurt.
+
+Vanaf 2011 heet de regeling SDE+ en is alleen nog beschikbaar voor bedrijven en (non-profit)instellingen. Belangrijke verschillen ten opzichte van de oorspronkelijke SDE zijn:
+
+In de SDE was er voor iedere techniek een apart tarief (subsidie per eenheid geproduceerde energie) en maximumbedrag beschikbaar. In de SDE+ zijn er geen vaste tarieven meer per techniek en ook geen apart subsidiebudget per techniek. De regeling is zo ingericht dat er competitie ontstaat tussen de technieken, waarbij de technieken en de projecten die de minste subsidie nodig hebben eerder aan bod komen. Achterliggend doel is het halen van de Europese doelstelling met zo min mogelijk subsidie.
+
+In de SDE was er alleen een stimulans voor hernieuwbare-warmteproductie, indien deze werd gecombineerd met elektriciteitsproductie. In de SDE+ is vanaf 2012 ook plek voor projecten die alleen hernieuwbare warmte produceren.
+
+In 2020 is de Stimuleringsregeling Duurzame Energietransitie (en Klimaattransitie) (SDE++) geïntroduceerd. Bij deze tweede uitbreiding van de SDE-regeling is extra aandacht voor CO 2‑ reducerende technieken met als doel het behalen van de afspraken van het klimaatakkoord. Voorbeelden van nieuwe categorieën waar subsidie voor beschikbaar is zijn CO 2‑ afvang en -opslag en waterstofproductie door middel van elektrolyse.
+
+Tussen het bedenken van de aanvraag en de realisatie van een project zit vaak een paar jaar. Deze tijd is onder andere nodig voor vergunningen, ontwerp, financiering en bouw. Dat verklaart waarom de effecten van veranderingen in de subsidieregelingen pas na enige jaren zichtbaar worden in de meting van nieuwe productie van hernieuwbare energie. Zo was het stopzetten van de MEP in 2006 pas zichtbaar in 2009 door het opdrogen van nieuwe gerealiseerde projecten. 2013 was pas het eerste jaar dat het bijgeplaatst vermogen voor windenergie weer op hetzelfde niveau was als de periode dat er veel molens met MEP-subsidie in gebruik werden genomen (2003–2009). En in 2014 werd voor het eerst een substantiële groei van de biomassaketels voor warmte bij bedrijven zichtbaar.
+
+Bron: RVO
+
+1) Genoemde bedragen per jaar zijn de som van subsidiebetalingen over de gehele subsidieperiode van de projecten. Uitbetalingen van subsidie vinden plaats op basis van daadwerkelijke energieproductie.
+
+Zoals hierboven vermeld wordt jaarlijks vastgesteld hoeveel budget beschikbaar komt voor de SDE-regeling. De hoogte van dit budget, het budgetplafond, was voor het SDE-jaar 2021 met 5 miljard euro gelijk aan het bedrag in 2020, maar nog hoger dan in de jaren vóór 2016 waarin een maximum van 3,5 miljard euro werd bereikt (RVO, 2022a). De hier genoemde bedragen zijn exclusief die voor ‘wind op zee’. Deze techniek heeft een eigen aanvraagprocedure via tenders waarbij de overheid vooronderzoek doet, de vergunningen regelt en TenneT de netaansluiting laat verzorgen. De laatste tenders zijn gegund tegen een subsidie van 0 euro (zie ook H4).
+
+Bron: CBS op basis gegevens van RVO
+
+1) In deze tabel is gekozen voor de productie zonder normalisatie, omdat de subsidie ook wordt uitgekeerd op basis van de productie zonder normalisatie.
+
+2) Het gaat om productiegegevens zoals deze bekend waren bij RVO op peildatum 1 maart 2022. Voor sommige installaties komen de data later beschikbaar. Ontbrekende gegevens zijn niet bijgeschat. Vooral bij warmte leidt dit tot een onderschatting van de gesubsidieerde productie en subsidie op transactiebasis. Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers
+
+De subsidiebedragen kunnen op kas- en op transactiebasis berekend worden. Berekeningen op kasbasis geven aan hoeveel geld er in een jaar daadwerkelijk is uitgekeerd. Berekeningen op transactiebasis laten zien hoeveel recht op subsidie is opgebouwd in het betreffende jaar. Dit is het moment van productie van de hernieuwbare energie. Het moment van produceren en het moment van uitbetalen is niet hetzelfde. De MEP werd achteraf betaald, de SDE(+)(+) werkt met voorschotten.
+
+In 2021 is 2,3 miljard euro SDE(+) subsidie uitgekeerd (kasbasis), vooral voor biomassa- en windprojecten. De uitkering in 2021 is 43 procent hoger dan in 2020. De subsidie op transactiebasis daarentegen is in 2021 sterk gedaald ten opzichte van 2020. Oorzaak hiervan is de gestegen elektriciteitsprijs, waardoor het recht op subsidie van de verschillende technieken afnam.
+
+Een groot deel, maar niet alle productie van hernieuwbare elektriciteit geeft recht op SDE(+)(+)-subsidie. Het aandeel zonder subsidie neemt toe. Elektriciteitsproductie zonder subsidie betreft onder andere windmolens waarvan de subsidieduur verstreken is of die meer produceren dan de maximaal te subsidiëren hoeveelheid. Ook al lang bestaande (delen van) afvalverbrandingsinstallaties hebben geen recht op SDE(+)(+)-subsidie. Zonnepanelen voor kleinverbruikers krijgen via vrijstelling van de hoge energiebelasting op een andere manier steun.
+
+De gegevens uit tabel 2.7.2 zijn afgeleid uit een bestand met subsidiegegevens per project dat het CBS heeft ontvangen van de Rijksdienst voor Ondernemend Nederland (RVO). De bedragen op kasbasis komen overeen met gegevens uit de figuren Kasuitgaven per technologie en Verwachte kasuitgaven van RVO (2022b).
+
+ISDE
+
+De Investeringssubsidie duurzame energie (ISDE) is aangekondigd in de Warmtevisie in april 2015 (Rijksoverheid, 2015). Deze meerjarige regeling is geopend op 1 januari 2016 en loopt tot en met 31 december 2030. Met de ISDE wil de overheid stimuleren dat Nederlandse woningen en bedrijven (utiliteitsgebouwen) minder door gas en meer door duurzame warmte worden verwarmd. Particulieren en zakelijke gebruikers kunnen daarom via de ISDE een tegemoetkoming krijgen bij de aanschaf van zonneboilers, warmtepompen, verschillende isolatiemaatregelingen en tot 2020 biomassaketels en pelletkachels.
+
+Per 1 januari 2020 stopte de subsidie voor biomassaketels en pelletkachels en voor apparaten die in nieuwbouwwoningen werden geplaatst waarvan de omgevingsvergunning na 30 juni 2018 is aangevraagd. Wel was er voor particulieren een mogelijk. De reden voor deze verandering voor de biomassaketels en de pelletkachels zijn de zorgen over emissies naar de lucht van schadelijke stoffen. Bij het uitsluiten van nieuwe woningen is de reden dat subsidie niet meer nodig is, omdat de toepassing van warmtepompen en zonnewarmtesystemen al gestimuleerd wordt door het afschaffen van aansluitplicht op het aardgasnet.
+
+Vanaf 2021 zijn de ISDE en de Subsidie energiebesparing eigen huis (SEEH) samengevoegd, het totale beschikbare budget voor dit jaar bedraagt 124 miljoen euro. Deze nieuwe regeling is bedoeld voor investeringen in warmtepompen, zonneboilers, isolatie en warmtenetten. De deels geschatte claim van deze aanvragen bedraagt 96,8 miljoen euro (RVO, 2022c).
+
+In 2016, 2017 en 2018 is voor respectievelijk 28, 40 en 56 duizend apparaten een aanvraag gedaan voor subsidie op grond van de ISDE-regeling. In 2019 is het aantal aanvragen bijna verdrievoudigd naar 144 duizend apparaten. Dit nam in 2020 weer af naar 47 duizend. in 2021 zijn er 94 duizend aanvragen gedaan voor apparaten en/of maatregelen, waarvan 17 duizend voor warmtepompen en 2,5 duizend zonneboilers. De overige aanvragen betreffen isolatiemaatregelingen. Deze aantallen volgen uit een analyse van een door RVO aan het CBS geleverd bestand met ISDE-aanvragen.
+
+Bron: CBS op basis gegevens van RVO
+
+1) Het gaat om gegevens zoals deze bekend waren bij RVO op peildatum 1 maart 2022. Voor sommige installaties komen de data later beschikbaar. Ontbrekende gegevens zijn niet bijgeschat.
+
+Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+Overige regelingen
+
+De SDE(+)(+) is de belangrijkste stimuleringsmaatregelen van de overheid voor hernieuwbare energie. Daarnaast zijn er nog diverse andere maatregelen. Deze worden besproken in de Monitoringrapportage RVO Energie-Innovatie regelingen 2021 (RVO.nl, 2021a).
+
+
+
+Waterkracht
+
+Wereldwijd is waterkracht de belangrijkste bron van hernieuwbare elektriciteit. Nederland heeft echter weinig waterkracht vanwege de geringe hoogteverschillen in de lopen van de rivieren. De totale productie wordt gedomineerd door drie centrales in de grote rivieren die goed zijn voor meer dan 90 procent van het vermogen. Sinds 1990 zijn er geen grote waterkrachtcentrales bijgekomen. Van het totale eindverbruik van hernieuwbare energie komt in 2021 0,1 procent voor rekening van waterkracht.
+
+Ontwikkelingen
+
+De niet-genormaliseerde elektriciteitsproductie uit waterkracht was in 2021 een stuk hoger dan in 2020. De jaarlijkse variatie in productie wordt bepaald door de variatie in de watertoevoer in de grote rivieren. Om die variaties niet direct in de ontwikkeling door te laten werken, wordt er in de RED en ook in het (RVO en CBS, 2022) gerekend met genormaliseerde cijfers. De genormaliseerde elektriciteitsproductie uit waterkracht is nagenoeg constant.
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.5 Energie uit Water uit (RVO en CBS, 2022).
+
+Voor de periode 1990–1997 komen de gegevens uit CBS-enquêtes. Voor de periode 1998 tot en met juni 2001 is gebruik gemaakt van gegevens van EnergieNed, en vanaf juli 2001 van gegevens van CertiQ.
+
+Zowel voor het opgesteld vermogen als voor de elektriciteitsproductie is een ondergrens gehanteerd van 0,1 MW geïnstalleerd vermogen per installatie. Beneden deze grens zijn enkele kleinere installaties aanwezig met een totaal geschat vermogen van ongeveer 0,3 MW. Dat is minder dan 1 procent van het totaal. De onnauwkeurigheid in de berekening van de hernieuwbare energie uit waterkracht wordt geschat op ongeveer 2 procent.
+
+
+
+Windenergie
+
+Windenergie is een zeer zichtbare vorm van hernieuwbare energie. Windmolens staan vooral in de kustprovincies, omdat het daar het meeste waait. Ook op zee staan molens. De bijdrage van windenergie aan het totale eindverbruik van hernieuwbare energie in Nederland lag op 25 procent in 2021.
+
+Ontwikkelingen
+
+Het opgestelde vermogen voor windenergie is in 2021 toegenomen en stond einde jaar op 7 700 megawatt; eind 2020 was dit nog 6 700 megawatt. De groei is volledig te danken aan de toename van capaciteit op het land, wat met 24 procent groeide en eind 2021 goed was voor 5 300 megawatt. Op zee zijn er in 2021 geen nieuwe windparken gerealiseerd.
+
+De elektriciteitsproductie (genormaliseerd) is in 2021 met 36 procent gestegen naar 19 miljard kWh. Wind op zee was in 2021 goed voor 45 procent van de totale elektriciteitsproductie uit wind.
+
+Financiële ondersteuning van de overheid heeft een belangrijke rol gespeeld bij de opstart van windenergie. In 2006 sloot de minister van Economische Zaken de destijds belangrijkste subsidieregeling, de Regeling Milieukwaliteit Elektriciteitsproductie (MEP), vanwege de grote populariteit en daaruit voortvloeiende financiële verplichtingen. De ondersteuning voor toen bestaande en ingediende projecten bleef bestaan en in 2017 hebben de laatste projecten het einde van de looptijd van die ondersteuning bereikt (RVO, 2017). Als opvolger van de MEP werd in april 2008 een nieuwe subsidieregeling voor nieuwe windmolens gestart: de regeling Stimulering Duurzame Energieproductie (SDE, vanaf 2011 SDE+ en vanaf 2020 SDE++). Inmiddels is deze subsidieregeling alleen nog beschikbaar voor windmolens op het land.
+
+Bron: CBS
+
+**Nader voorlopige cijfers
+
+Bron: CBS
+
+1) Aan einde verslagjaar.
+
+** Nader voorlopige cijfers
+
+De windmolens op zee produceren meer elektriciteit per eenheid vermogen dan de windmolens op land. Daar staat tegenover dat windmolens op zee duurder zijn. De hogere opbrengst per eenheid vermogen van wind op zee woog lange tijd niet op tegen de hogere kosten per eenheid vermogen en per eenheid geproduceerde elektriciteit was wind op zee dan ook duidelijk duurder dan wind op land (Lensink et al., 2012).
+
+Echter, dit beeld is de laatste paar jaar omgeslagen. Medio 2016 werd een bod van 7,27 cent per kilowattuur (Dong Energy; Ørsted) en eind 2016 een nog lager bod van 5,45 cent (het consortium Shell, Van Oord, Eneco en Mitsubishi/DGE) op een tender voor windparken geaccepteerd. De uit te keren subsidie is genoemd bod minus de jaarlijks achteraf vastgestelde gemiddelde marktprijs voor elektriciteit. Beide worden overtroffen door Nuon/Vattenfall die in maart 2018 een tender won voor de vergunning om zonder subsidie een windpark te bouwen op kavels I en II van de locatie Hollandse Kust (zuid) (Rijksoverheid, 2018). Dit is weer door Vattenfall herhaald in juli 2019 dat in het zelfde windenergiegebied de tender wint voor kavels III en IV (Rijksoverheid, 2019). Eind juli 2020 heeft het consortium Crosswind (Shell en Eneco) eveneens een tender gewonnen voor een subsidieloos windpark in de locatie Hollandse Kust (noord) (Rijksoverheid, 2020b). Dit wordt het derde subsidieloze windpark op zee; wel is het zo dat voor de nieuwe windparken op zee de landelijke netbeheerder de kosten draagt voor de aansluiting van de windparken op het landelijk stroomnet.
+
+Er komen kavels vrij voor nieuwe windparken op de locaties Hollandse Kust (west), IJmuiden Ver en Ten Noorden van de Waddeneilanden. Deze locaties zullen respectievelijk voor 1 400 megawatt , 4 gigawatt (duizend megawatt) en 700 megawatt aan stroom leveren aan het Nederlandse elektriciteitsnet. De winnaar van de vergunningsaanvraag voor kavels VI en VII bij Hollandse Kust (west) wordt na de zomer van 2022 bekend. Voor de andere twee locaties gaat de Nederlandse overheid tenderprocedures uitschrijven (RVO 2022d).
+
+In juni 2022 heeft het kabinet aangegeven 21 gigawatt opgesteld vermogen van windmolens op zee te willen realiseren rond 2030 (Rijksoverheid 2022b). Hiermee kan ongeveer 75 procent van het huidige elektriciteitsverbruik van Nederland gedekt worden. Eind 2021 stond er 2,5 gigawatt aan opgesteld vermogen op zee.
+
+Bron: CBS
+
+1) De productiefactor is gedefinieerd als de daadwerkelijke productie gedeeld door de maximale productie berekend op basis van het vermogen aan het einde van elke maand. Deze factor wordt ook wel capaciteitsfactor genoemd.
+
+2) Het aantal vollasturen is het aantal uur dat de windmolens op de maximale capaciteit zouden moeten draaien om de gerealiseerde productie te halen. Het aantal vollasturen is recht evenredig met de productiefactor.
+
+3) Berekend als het gemiddelde van de maandelijkse elektriciteitsproductie per rotoroppervlak aan het einde van de maand. Daarbij is gewogen met het aantal dagen per maand en de rotoroppervlak aan het einde van de maand.
+
+** Nader voorlopige cijfers
+
+
+
+Op grotere hoogte van het maaiveld staat meer wind dan op het maaiveldniveau. Daardoor produceren hoge molens per eenheid vermogen (in de tabel opgenomen als productiefactor) over het algemeen meer windenergie.
+
+Door de jaren heen worden steeds meer grote en dus hoge molens bijgeplaatst en kleine molens afgebroken. Maar ook in de andere categorieën windmolens met een ashoogte van 31 tot en met 95 meter lijkt bijna geen groei meer plaats te vinden. Sinds 2015 neemt het totale opgestelde vermogen van de grootste molens met een ashoogte groter dan 95 meter wel gestaag toe.
+
+
+
+De meeste windmolens staan in de kuststreek. Dat is niet verwonderlijk, gezien het grotere windaanbod. Bij de plaatsing van de windmolens is het windaanbod echter niet de enige factor. Ook de beleving van de inpasbaarheid in het landschap speelt een belangrijke rol. Dat verklaart waarom in Flevoland de meeste windmolens staan, ondanks de minder gunstige windcondities in deze provincie ten opzichte van de kuststreek (SenterNovem, 2005).
+
+Begin 2013 zijn afspraken gemaakt tussen Rijk en IPO/provincies over de bijdragen per provincie aan de totale opgestelde capaciteit van windmolens op land; afgesproken is dat in 2020 in totaal 6 000 megawatt staat opgesteld. Dit doel is niet behaald, zoals staat beschreven in de (RVO, 2022e). Wel is de verwachting dat het tekort ruimschoots gerealiseerd zal zijn in 2023; er zou dan 6 190 MW aan operationeel windvermogen op het land moeten staan. In de monitor worden de provinciale standen en de plannen om de bijdrage te halen verder uitgelicht.
+
+Gerealiseerde windenergie draagt tevens bij aan het in het klimaatakkoord vastgestelde doel om in 2030 tenminste 35 TWh duurzame elektriciteit op land (wind en grootschalige zonne-energie-installaties >15 kW) te realiseren (PBL, 2021). In de Regionale Energiestrategie (RES) wordt het regionale aandeel voor de landelijke opgave zo concreet mogelijk uitgewerkt. Gemeenten, provincies en waterschappen stellen deze RES-en op en er wordt door het CBS nu ook vanaf RES-niveau gepubliceerd over het vermogen en de productie van wind op land: , hyperlink naar StatLine.
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden van de normalisatie 4.1 Windenergie uit (RVO en CBS, 2022).
+
+Het vermogen is bepaald aan de hand van een CBS-database met alle windmolenprojecten. Elk jaar vernieuwt het CBS deze database op basis van gegevens uit de administraties van CertiQ. Het moment van het in en uit gebruik nemen van een molen is bepaald aan de hand van de elektriciteitsproductiegegevens van CertiQ, in combinatie met openbare gegevens op internet en .
+
+Tussen de uitkomsten van het CBS over het opgestelde windenergievermogen en die van andere bronnen, zoals de Monitor Wind op land en , treden soms verschillen op. Doorgaans worden deze veroorzaakt door verschillen in het moment van in of uit gebruik nemen van windmolens of (delen van) windmolenparken.
+
+Sinds 2016 is met name in de provincie Groningen een groot aantal kleine windmolens geplaatst; in de meeste gevallen bij landbouwbedrijven voor stroomproductie voor eigen gebruik. In 2021 betreft het in totaal circa 200 windmolens met per stuk een vermogen van 50 kilowatt of kleiner en met een gezamenlijk vermogen van drie megawatt; deze molens staan geregistreerd bij CertiQ. Gezien de geringe omvang in totaal en om praktische redenen worden deze molens niet in de statistiek meegenomen.
+
+De elektriciteitsproductie is berekend aan de hand van de administratie achter de certificaten voor de Garanties van Oorsprong van CertiQ. Daarnaast is er een bijschatting gemaakt voor windparken waarvan de productie niet bij CertiQ bekend is. Deze schatting is gemaakt op basis van het vermogen en de gemiddelde productiefactor en bedroeg 143 GWh in 2021, minder dan 1 procent van de totale productie.
+
+De onzekerheid in de CBS-cijfers over de elektriciteitsproductie uit windenergie in 2021 wordt geschat op 2 procent.
+
+
+
+Zonne-energie
+
+Zonne-energie valt uiteen in twee groepen:
+
+de omzetting van zonnestraling in elektriciteit (zonnestroom of fotovoltaïsche zonne-energie),
+
+de omzetting van zonnestraling in warmte (zonnewarmte of thermische zonne-energie).
+
+De bijdrage van zonne-energie aan het totale eindverbruik van hernieuwbare energie in Nederland groeit en komt in 2021 uit op 16 procent.
+
+5.1 Zonnestroom
+
+Ontwikkelingen
+
+Het opgesteld vermogen voor en de productie van zonnestroom is in 2021 weer sterk toegenomen. Eind 2021 bedroeg het totale opgestelde vermogen van zonnestroominstallaties in Nederland 14 418 megawatt (MW), een toename van 3 468 MW opzichte van eind 2020. De opwek van elektriciteit met zonnepanelen bedroeg in 2021 (voorlopige cijfers) 11 332 mln kWh, een toename van 29 procent ten opzichte van 2020 (Tabel 5.1.2). De bijdrage van zonnestroom aan het eindverbruik van hernieuwbare energie in Nederland is 15 procent.
+
+Het opgestelde vermogen aan zonnestroom blijft van jaar op jaar sterk groeien, zie figuur 5.1.1. Als de projecten waaraan subsidie is toegekend daadwerkelijk gerealiseerd worden, dan geldt dit ook voor het komende jaar. De Stimuleringsregeling Duurzame Energieproductie en klimaattransitie (SDE++) is veruit de grootste bron van subsidie. Voor zakelijk gebruikers zijn er naast de SDE++ nog de Energie-investeringsaftrek (EIA) en de InvesteringsSubsidie Duurzame Energie (ISDE). Voor kleinverbruikers is er de salderingsregeling of als zij zich verenigen in een coöperatie of vereniging van eigenaars (VvE) is er de Subsidieregeling Coöperatieve Energieopwekking (SCE).
+
+Niet alle geplande en voor subsidie beschikte projecten worden uiteindelijk gerealiseerd. RVO (RVO, 2021b) constateert in 2019 en 2020 voor de SDE-projecten een stijging van projecten die volledig werden ingetrokken (volledige vrijval) of waarbij er substantieel minder vermogen werd gerealiseerd dan beschikt (gedeeltelijke vrijval). De vrijval komt vooral voor bij dakinstallaties en niet of nauwelijks bij veldinstallaties. Als oorzaken voor volledige of gedeeltelijke vrijval noemt RVO aanpassing van de dakconstructie, tegenvallende business cases, netcapaciteit en verzekerbaarheid. De kortere realisatietermijn voor zon op daken projecten in de SDE maakt het voor zon op daken extra moeilijk om binnen de realisatietermijn van de SDE de knelpunten opgelost te krijgen. Voor de komende periode neemt mogelijk de ontoereikende netcapaciteit toe als beperkende factor bij de realisatie van projecten. Hierdoor kunnen regionale verschillen optreden in de vrijval, aangezien de netcapaciteit – en dus de ruimte voor nieuwe zonnestroominstallaties – regionaal sterk kan verschillen.
+
+Ondanks de toenemende vrijval is de SDE op dit moment de belangrijkste motor voor de toename van zonnestroom in Nederland. RVO (RVO, 2022f) voorziet voor eind 2022 een toename van het geïnstalleerd vermogen tot 17 600 MWp, een toename van 3 200 MWp ten opzichte van eind 2021. Van de verwachte toename zou 2 000 MWp ondersteund worden via SDE. Als in 2023 de pijplijn beschikte projecten als voldoende ingeschat wordt om de 35 TWh doelstelling voor 2030 te halen kan volgens RVO (2022f) besloten worden de SDE niet langer open te stellen voor nieuwe aanvragen voor grootschalige zonnestroominstallaties. Door de voorraad van afgegeven beschikkingen zal echter ook daarna nog een aanzienlijke realisatie met SDE te zien zijn.
+
+Voor de kleinverbruikers (particulieren en bedrijven met een laag elektriciteitsverbruik) blijft de salderingsregeling in combinatie met de hoge energiebelasting op elektriciteit een belangrijke stimulans om zonnepanelen aan te schaffen. Kleinverbruikers kunnen via de salderingsregeling net zoveel voor hun opgewekte elektriciteit krijgen als zij voor ingekochte elektriciteit betalen. Pas als er meer wordt opgewekt dan verbruikt geldt er alleen een door het energiecontract bepaalde terugleververgoeding. Door saldering hoeft geen btw en energiebelasting over de zelf geproduceerde stroom betaald te worden. Daar komt nog bij dat particulieren tot eind 2022 de btw op aangeschafte panelen terug kunnen vragen. De daadwerkelijk terugverdientijd van zonnepanelen hangt af van meerdere factoren, zoals de beschikbaarheid van een dak in de zon, de prijs van elektriciteit en het functioneren van de panelen op de lange termijn.
+
+Eind 2020 is een wetsvoorstel voor de geleidelijke afbouw van de salderingsregeling naar de Kamer gestuurd. Het was de bedoeling om tussen 2023 en 2031 het salderen van gebruikte en teruggeleverde elektriciteit in stappen af te bouwen en te vervangen door een terugleververgoeding. Het verschil is dat bij de salderingsregeling ook alle belastingen kunnen worden gesaldeerd, terwijl bij een terugleververgoeding wel belastingen betaald worden. Door de val van het kabinet Rutte III is de afbouw van de salderingsregeling uitgesteld. Het is nu de bedoeling dat de afbouw in 2025 begint.
+
+Tot slot is er voor energiecoöperaties (‘Vereniging van eigenaren’) en Verenigingen van Eigenaars (de ‘VvE’) de Subsidieregeling Coöperatieve Energieopwekking (SCE). Dit is de opvolger van de fiscale regeling verlaagd tarief, beter bekend als de postcoderoosregeling omdat de opwek dient plaats te vinden in coöperatief verband en in de eigen leefomgeving
+
+Bron: CBS
+
+* Voorlopige cijfers
+
+** Nader voorlopige cijfers
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.2.1 Zonnestroom uit (RVO en CBS, 2022).
+
+Tot 2018 bepaalde het CBS het opgestelde vermogen voor zonnestroom op basis van een enquête onder leveranciers van (importerende) zonnestroomsystemen. In 2018 is het CBS overgestapt op een nieuwe methode op basis van een combinatie van informatie uit registraties, met name het Productie-installatieregister (PIR) van de netbeheerders, de administratieve data van CertiQ en de teruggave van BTW voor particulieren. In 2020 is het PIR opgevolgd door de Centrale Registratie van Systeemelementen (CERES). De registerinformatie wordt op het niveau van adressen en aansluitingen geïntegreerd met de statistieken welke het CBS al langer maakt op basis van de klantenbestanden van de netbedrijven. Voordeel daarvan is dat plausibiliteitscontroles mogelijk zijn en dat het mogelijk is om op dezelfde wijze als in de andere statistieken uitsplitsingen te maken naar regio en naar sector. De registerinformatie is beschikbaar vanaf verslagjaar 2012. Voor de jaren daarvoor is de zonnestroomstatistiek nog steeds gebaseerd op de informatie uit de enquêtes onder leveranciers.
+
+De nieuwe methode kent onzekerheden, omdat met name voor de kleinverbruikers het register niet compleet is en waarbij onduidelijk is in welke mate het register niet compleet is. Ook komt registerinformatie soms vertraagd beschikbaar. Echter, ook de oude methode kende onzekerheden, omdat het lastig is om de lijst met importerende leveranciers compleet te houden en om dubbeltellingen te vermijden. Per saldo denkt het CBS dat de nieuwe methode minstens even nauwkeurig als de oude methode (Kremer en Segers, 2018).
+
+Voor zonnepanelen wordt uitgegaan van een levensduur van 25 jaar (RVO en CBS, 2022). Dit is een erg onzekere schatting, maar omdat verreweg de meeste panelen in recente jaren zijn geplaatst heeft het uit gebruik nemen van zonnepanelen op dit moment nauwelijks effect op de onzekerheid in de totale productie van zonnestroom.
+
+Zowel in de schatting van het aantal geplaatste panelen als in de productie per geïnstalleerd vermogen zit een onzekerheid. De totale onnauwkeurigheid in de elektriciteitsproductie uit zonnepanelen schat het CBS op 15 tot 20 procent.
+
+5.2 Zonnewarmte
+
+Bij de actieve zonthermische energiesystemen kan een uitsplitsing worden gemaakt naar afgedekte en onafgedekte systemen. Afgedekte systemen zijn gesloten systemen. Hierdoor wordt de temperatuur in de collector hoger en daardoor ook de warmteproductie per vierkante meter. Binnen de afgedekte systemen wordt nog een onderscheid gemaakt in systemen met een collectoroppervlak kleiner dan zes vierkante meter en systemen met een collectoroppervlak groter dan zes vierkante meter. De kleine afgedekte systemen zijn bekend als zonneboilers. Deze worden veel toegepast in de woningbouw. De grotere afgedekte systemen worden vooral in de utiliteitsbouw gebruikt. De onafgedekte systemen worden vooral bij zwembaden toegepast.
+
+Er zijn twee typen afgedekte systemen: vlakkeplaatcollectoren en vacuümbuiscollectoren. Vlakkeplaatcollectoren komen in Nederland het meeste voor en de afdekking bestaat dan uit een glazen plaat. Vacuümbuiscollectoren zijn dubbelwandige buisvormige collectoren met tussen de twee wanden een isolerende vacuüm ruimte. In het binnenste gedeelte wordt de warmte opgevangen door een vloeistof.
+
+Ontwikkelingen
+
+Zonnewarmtesystemen worden al heel lang toegepast in Nederland. Een grote doorbraak is echter tot op heden uitgebleven. Reden daarvoor is dat er in het verleden geen langdurige aantrekkelijke subsidieregeling is geweest, zoals voor hernieuwbare elektriciteit. Ook zijn de prijsdalingen van deze systemen lang niet zo sterk als bij zonnestroom. In 2021 werd er 34 duizend vierkante meter aan zonnecollectoren bijgeplaatst, ongeveer dezelfde hoeveelheid als in 2020. Daartegenover staat dat 38 duizend vierkante meter uit gebruik is genomen (einde geschatte levensduur). Per saldo nam het totale oppervlak van de opgestelde zonnecollectoren daardoor met 4 duizend vierkante meter af tot afgerond 666 duizend vierkante meter.
+
+
+
+In 2018 en 2019 zijn een aantal grote systemen met zonnecollectoren geplaatst, wat de belangrijkste oorzaak was voor de groei in die jaren. Het overgrote deel van deze grotere systemen werd met ondersteuning van SDE+ in gebruik genomen en vond zijn weg naar landbouwbedrijven en utiliteitsgebouwen. In 2020 en 2021 is een afname te zien bij de geplaatste zonnecollectoren in de landbouw. Op woningen is in 2021 ongeveer evenveel geplaatst, met name zonneboilers, als in 2020.
+
+Sinds begin 2016 is er een nieuwe subsidieregeling voor zonnewarmtesystemen: de ISDE (zie ook paragraaf 2.7). In 2019 werd er voor ongeveer 33 duizend vierkante meter ISDE subsidie aangevraagd. In 2020 ging de subsidieaanvraag omlaag naar 29 duizend vierkante meter oppervlakte zonneboiler. In 2021 is dit verder teruggezakt naar 16 duizend vierkante meter. Opgemerkt moet worden dat vooral bij bedrijven niet alle aanvragen daadwerkelijk zullen leiden tot een geplaatst systeem en dat er bij bedrijven een vertraging kan zitten tussen moment van aanvraag en moment van plaatsen. Analyse van de ISDE data laat zien dat er tussen 2017 en 2020 steeds ongeveer ruim 20 duizend vierkante meter aan zonnewarmtesystemen met ISDE is geplaatst. In 2021 is dit afgenomen naar 13 duizend vierkante meter, wat in lijn is met de afname in aanvragen.
+
+Bron: CBS
+
+
+
+** Nader voorlopige cijfers
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.2.2 Zonnewarmte uit (RVO en CBS, 2022).
+
+De basis voor de statistiek is de database die Ecofys heeft opgesteld voor de jaren tot en met 2002 (Warmerdam, 2003). Het CBS heeft vervolgens de database geactualiseerd. De gegevens voor de bijgeplaatste afgedekte systemen zijn verkregen via een enquête bij de leveranciers van deze systemen. De respons was 93 procent voor verslagjaar 2021. Non-respons is bijgeschat op basis van gegevens van vorig jaar. De lijst van leveranciers is opgesteld met hulp van Rijksdienst voor Ondernemend Nederland, brancheorganisatie Holland Solar en informatie uit de ISDE.
+
+Onafgedekte systemen leveren een kleine bijdrage en worden vanaf verslagjaar 2012 geschat met een vaste aanname voor nieuw geplaatste systemen per jaar.
+
+Vanaf verslagjaar 2020 wordt de afzet van PVT-systemen, een combinatie van een fotovoltaïsche cel en een zonnecollector, gevraagd aan leveranciers. Deze systemen worden vaak in combinatie met een warmtepomp aangesloten en hebben als voordeel dat elektriciteit en warmte tegelijk worden opgewekt, waardoor de energieopbrengst per vierkante meter hoger ligt dan bij losse panelen/collectoren. Voorlopig zijn de investeringskosten voor deze systemen nog vrij hoog en is subsidie alleen voor grotere installaties mogelijk. Begin 2021 is besloten dat er minimaal 600 m 2 aan PVT-oppervlak moet liggen in combinatie met een warmtepomp met een vermogen van minimaal 500 kW om in aanmerking te komen voor SDE++ subsidie. Voor kleine systemen is er wel de BTW teruggave net als voor zonnestroom. Vanwege herleidbaarheid tot individuele bedrijven worden in deze publicatie geen verdelingen over PVT afzet in 2021 opgenomen.
+
+De onzekerheid in de hernieuwbare energie uit zonnewarmte wordt nu bepaald door een combinatie van factoren: de productie per eenheid collectoroppervlak, de levensduur van de collectoren en het bijgeplaatste collectoroppervlak. Het CBS schat de onzekerheid in de productie van zonnewarmte op 25 procent.
+
+
+
+Aardwarmte
+
+Aardwarmte is warmte die afkomstig is van het binnenste van de aarde en wordt ook geothermie genoemd. De laatste jaren kende aardwarmte een relatief forse groei; dit is in 2021 gestagneerd. Aardwarmte was in 2021 goed voor 2 procent van het eindverbruik van energie uit hernieuwbare bronnen.
+
+6.1 Aardwarmte
+
+Ontwikkelingen
+
+Sinds eind 2008 wordt in Nederland gebruik gemaakt van aardwarmte. In eerste instantie ging het om één glastuinbouwbedrijf dat op dit moment op twee plaatsen aardwarmte wint. Het succes van dit project heeft de belangstelling aangewakkerd en in 2021 zijn er in totaal 23 projecten in gebruik. De projecten kunnen weleens stil komen te liggen wegens technische problemen met de boorputten, risico op vervuiling van de bodem en seismische risico’s.
+
+De kosten van diepe bodemenergie zitten vooral in het boren van de put tot een diepte van één kilometer of meer. Het lastige punt daarbij is dat er geen garantie is op succes bij het boren. Om de ontwikkeling van diepe bodemenergie te stimuleren en de risico’s voor de initiatiefnemers te beperken, heeft de overheid een regeling in het leven geroepen die een gedeelte van het risico op het misboren afdekt. De regeling (RNES Aardwarmte) is in 2016 door de minister van Economische Zaken met vijf jaar verlengd.
+
+Vanaf 2012 komen projecten voor diepe bodemenergie ook in aanmerking voor SDE(+)(+)-subsidie. Diepe bodemenergie heeft per joule hernieuwbare energie relatief weinig subsidie nodig, waardoor het in de beginjaren van de competitieve SDE++ regeling weinig last van concurrentie met andere technieken. In de afgelopen jaren is hier verandering in te zien; andere technieken (voornamelijk zon en wind) worden steeds goedkoper, waardoor diepe bodemenergie in sommige gevallen toch achteraan de rij van subsidieaanvragen beland.
+
+Het realiseren van aardwarmteprojecten kent ook andere complicaties. In sommige gevallen zijn projecten al in het bezit van een SDE-subsidiebeschikking, maar kunnen deze door vertraagde vergunningverlening of complexiteit van de warmtevraag in de gebouwde omgeving niet binnen de gestelde termijn van de SDE worden gerealiseerd (Geothermie Nederland, 2022). Hierom heeft RVO de realisatietermijn van geothermieprojecten van vier jaar naar zes jaar verlengd. Daarnaast geldt er een langere berekende economische levensduur van 30 jaar. Hierdoor komt geothermie in de rangschikking van technieken eerder aan bod (RVO, 2022g).
+
+Voor geothermie is volgens een overzicht van RVO tot en met SDE++ 2021 voor 51 aanvragen (inclusief uitbreidingen van bestaande projecten) met een totaal vermogen van 1 148 megawatt subsidie toegezegd. Hiervan is inmiddels 529 megawatt gerealiseerd.
+
+In totaal produceerden de aardwarmte-installaties in 2021 6,2 petajoule aan warmte. Dat is ongeveer gelijk aan de warmteproductie in 2020, ondanks de start van drie nieuwe projecten halverwege 2021.
+
+Bron: CBS en LEI (Landbouweconomisch Instituut)
+
+** Nader voorlopige cijfers
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.3 Aardwarmte uit (RVO en CBS, 2022).
+
+Gegevens over de warmteproductie voor de jaren tot en met 2010 zijn door het CBS zelf opgevraagd bij het betreffende bedrijf. Vanaf 2011 tot en met 2013 is gebruik gemaakt van gegevens van het Landbouweconomisch Instituut (LEI) en voor 2014 en volgende jaren van data van CertiQ.
+
+
+
+Omgevingsenergie: buitenluchtwarmte en bodemenergie
+
+Omgevingsenergie is van nature voorkomende thermische en geaccumuleerde energie in het milieu met afgebakende grenzen, die in de buitenlucht, de bodem of soms het oppervlaktewater (hydrothermische energie) kan worden opgeslagen. Omdat de temperatuur van omgevingsenergie relatief laag is wordt meestal een warmtepomp gebruikt om deze te benutten. Bodemenergie wordt besproken in 7.1 en buitenluchtenergie in 7.2. Omgevingsenergie uit oppervlaktewater komt nog niet veel voor in Nederland en loopt mee met bodemenergie, omdat de betreffende warmtepompen vaak hetzelfde zijn. Omgevingsenergie is goed voor 6 procent van het eindverbruik van hernieuwbare energie in 2021.
+
+Bodemenergie (tot 500 meter diep) wordt al sinds 1990 toegepast in Nederland en kent een gestage groei door de jaren heen. Buitenluchtwarmte benut met behulp van warmtepompen is in de afgelopen jaren erg populair geworden. Het bruto eindverbruik van buitenluchtwarmte neemt sinds 2016 jaarlijks met ongeveer 30 procent toe.
+
+7.1 Bodemenergie
+
+Bodemenergie is omgevingsenergie die in de bovenste laag van de bodem een half jaar is opgeslagen. In de zomer wordt de koude uit de winter benut en in de winter de warmte uit de zomer. Dat gebeurt veelal door het oppompen van grondwater van bijvoorbeeld 150 meter diep. In de zomer wordt dit grondwater, dat een temperatuur heeft van 5 tot 10 graden, gebruikt om een gebouw te koelen. Na het koelen is dit water opgewarmd tussen 10 en 15 graden, en dit water wordt op een andere plek weer teruggepompt in de grond op een vergelijkbare diepte. In de winter wordt dit opgewarmde water weer opgepompt en gebruikt om het gebouw te verwarmen, waarna het afgekoelde water weer terug de bodem in gaat en de cirkel rond is. Bodemenergie wordt ook warmte/koude-opslag (WKO) genoemd.
+
+Water van 10 à 15 graden is niet zonder meer geschikt om een gebouw in de winter op een aangename temperatuur te krijgen. Daarom worden vaak warmtepompen gebruikt om de energie naar een hoger temperatuurniveau te brengen. De werking van een warmtepomp is vergelijkbaar met die van een koelkast, maar dan omgekeerd. Een koelkast maakt het binnenin kouder door warmte vanuit de koelkast naar buiten te pompen. Daardoor wordt het buiten de koelkast dus (iets) warmer. Een warmtepomp maakt het buiten (iets) kouder en binnen warmer. Net als een koelkast gebruikt een warmtepomp ook elektriciteit. Voor warmtepompen die gebruik maken van ondiepe bodemenergie levert één eenheid elektriciteit gemiddeld ongeveer vier eenheden warmte (RVO en CBS, 2022). De opwekking van één eenheid elektriciteit kost doorgaans twee tot tweeënhalve eenheden fossiele energie en een gasketel maakt ongeveer één eenheid warmte uit één eenheid aardgas. Het gebruik van een warmtepomp is per saldo dus energetisch voordeliger dan verwarming met een gewone aardgasketel. Een beperkte hoeveelheid ondiepe bodemwarmte wordt benut zonder warmtepompen. Het gaat dan om voorverwarming van ventilatielucht.
+
+Binnen de bodemenergie kan nog onderscheid gemaakt worden tussen open systemen en gesloten systemen. In open systemen wordt grondwater onttrokken waarna boven de grond de uitwisseling van warmte plaatsvindt voor koeling en verwarming. Daarna wordt het grondwater weer teruggepompt. In gesloten systemen wordt een gesloten buis of slang de grond ingebracht tot een diepte van 50 tot 100 meter. In deze buis stroomt een vloeistof voor warmtetransport en deze wordt verwarmd of gekoeld via de wand van de buis. Bij gesloten systemen wordt dus geen grondwater onttrokken uit de bodem. Door de stroming van het grondwater is bij open systemen een groter deel van de bodem betrokken bij de opslag van warmte en koude. De gemiddelde capaciteit van deze systemen is dus groter. Open systemen worden vooral toegepast bij grote kantoren, kassen of woonwijken. Gesloten systemen worden vaak toegepast bij kleine kantoren of (een kleine groep) woningen. Open systemen worden ook wel ‘watersystemen’ genoemd en gesloten systemen ‘bodemsystemen’.
+
+Bron: CBS
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers
+
+Bron: CBS
+
+Bron: CBS
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Ontwikkelingen
+
+Het gebruik van bodemenergie neemt gestaag toe: sinds 2019 groeide de warmte-onttrekking jaarlijks met ongeveer acht procent. Vooral in nieuwe grote kantoren is het een veel toegepaste techniek. Het is relatief snel rendabel, omdat in deze gebouwen naast een warmtevraag er vaak ook een behoorlijke koelvraag is en omdat er in nieuwe gebouwen het verwarmings- en koelsysteem direct bij aanleg al aangepast kan worden aan het gebruik van bodemenergie. Ook in de glastuinbouw worden grote systemen voor bodemenergie in gebruik genomen.
+
+Voor de open systemen is in 2020 in totaal 329 miljoen kubieke meter water rondgepompt; voor 2021 zijn nog geen uitkomsten beschikbaar.
+
+Warmtepompen en bodemenergie worden vaak toegepast in nieuwe gebouwen. De aangetrokken nieuwbouw van de afgelopen jaren, met een kleine dip in 2020 (CBS Statline, 2022b), zou ook de afzet van warmtepompen kunnen stimuleren. In 2021 is de afzet van warmtepompen die gebruik maken van bodemwarmte met 15 procent toegenomen ten opzichte van 2020, dit komt met name door de gesloten systemen. Een belangrijke invloed op de afzet van warmtepompen zal ook uitgaan van het vervallen van de verplichting voor netbeheerders om nieuwe woningen aan te sluiten op het gasnet per 1 juli 2018 en de subsidieregeling voor kleine warmtesystemen (ISDE).
+
+Uit een analyse van ontvangen RVO-databestanden met gegevens over aanvragen voor ISDE-subsidie blijkt dat in 2019 voor ongeveer 73 megawatt aan gesubsidieerde warmtepompen met bodemenergie is geplaatst, in 2020 ongeveer 87 megawatt en in 2021 ongeveer 64 megawatt. Voor het grootste deel ging het om warmtepompen bij nieuwe gebouwen. In 2021 werd ongeveer 20 procent van het vermogen van de gesubsidieerde warmtepompen bij woningen geplaatst. In 2020 was dit nog 34 procent, in 2019 55 procent. Vanaf 1 januari 2020 is het niet meer mogelijk om subsidie te vragen voor apparaten die in nieuwbouwwoningen worden geplaatst, wat een afname in de gesubsidieerde bodemwarmtepompen bij woningen verklaart.
+
+De meeste open systemen staan in de provincies Noord- en Zuid-Holland en Noord-Brabant. Deze verdeling reflecteert in grote lijnen de aanwezigheid van grote gebouwen, die zich goed lenen voor toepassing van warmte/koudeopslag met open systemen.
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.4.1 Bodemenergie uit (RVO en CBS, 2022).
+
+Voor de berekening van de bodemenergie is gebruik gemaakt van de verkoopgegevens van de leveranciers van warmtepompen en van gegevens over warmte/koudeopslag die de provincies verzamelen voor het verlenen en beheren van de vergunningen voor warmte/koude-opslagprojecten.
+
+Bij het verzamelen van de verkoopgegevens van warmtepompen is samengewerkt met de Vereniging Warmtepompen. Het CBS heeft zelf de leveranciers geënquêteerd die geen lid zijn van de branchevereniging.
+
+De hernieuwbare energie uit koude en de benutting van warmte zonder warmtepompen is afgeleid uit gegevens over het grondwaterdebiet van de provincies en kengetallen uit het Protocol Monitoring Hernieuwbare Energie .
+
+Lastig daarbij is dat uit de informatie van de provincies niet altijd duidelijk is of een project al in gebruik is. Ook is de informatie over de debieten niet compleet. Het CBS maakt schattingen voor ontbrekende informatie, maar daardoor worden de cijfers wel minder nauwkeurig. Vanwege deze grote onzekerheid en de benodigde analysetijd heeft het CBS besloten deze cijfers niet meer met de status voorlopig te publiceren maar alleen nog met de status definitief in december. Als gevolg daarvan zijn in deze publicatie nog geen koudecijfers over 2021 opgenomen.
+
+Koude is geen energiedrager in reguliere internationale energiestatistieken, maar hernieuwbare koude telt volgens de RED II wel mee voor het aandeel hernieuwbare energie vanaf verslagjaar 2021 (RVO en CBS, 2022). De methode om hernieuwbare koude te bepalen moet nog worden uitgewerkt, waardoor er nog geen cijfers beschikbaar zijn. Het CBS schat de onnauwkeurigheid in de cijfers over de hernieuwbare energie uit bodemenergie op ongeveer 25 procent.
+
+7.2 Buitenluchtwarmte
+
+Warmte uit de buitenlucht kan gebruikt worden om gebouwen te verwarmen met een warmtepomp. Het principe is hetzelfde als bij warmtepompen die gebruik maken van bodemenergie. Een belangrijk verschil is dat de gebruikte bodemwarmte gemiddeld een hogere temperatuur heeft dan de buitenlucht. Daardoor is het verschil tussen de temperatuur van de warmtebron en het afgiftesysteem hoger en heeft een warmtepomp op buitenlucht relatief meer elektriciteit (of gas) nodig dan een warmtepomp op bodemwarmte. Daar staat tegenover dat de aanleg van een systeem voor het benutten van de bodemwarmte een stuk duurder is dan een aanzuigpomp voor de buitenlucht. Buitenluchtwarmte is goed voor 4 procent van het eindverbruik van hernieuwbare energie in 2021.
+
+Ontwikkelingen
+
+Het gebruik van buitenluchtwarmte met warmtepompen groeit gestaag. De laatste jaren is de populariteit van dit type warmtepomp zelfs flink gestegen. In 2021 werden 346 duizend installaties geplaatst met een totaal vermogen van 1 900 megawatt. Het jaar daarvoor waren dit 231 duizend installaties met 1 350 megawatt aan vermogen. De groei van 2021 zit vooral in de afzet van warmtepompen gekoppeld aan luchtverwarmingssystemen. Veel van deze warmtepompen, in het bijzonder die geïnstalleerd zijn in woningen (300 duizend stuks), hebben een kleine capaciteit en zullen relatief vaak uitsluitend voor koeling gebruikt worden.
+
+Daarnaast neemt ook het aantal warmtepompen gekoppeld aan verwarmingssystemen op basis van water sterk toe. Het gaat dan ook vooral om installaties in woningen. Deze worden wel primair geplaatst voor verwarming.
+
+Warmtepompen met gebruik van buitenluchtwarmte kunnen relatief goedkoop geïnstalleerd worden in een nieuw gebouw en de toegenomen bouw van woningen en kantoren zal dan ook aan de stijging van de afzet hebben bijgedragen. Daarbij speelt ook dat de steeds strengere energienormen in de nieuwbouw en het vervallen van de aansluitplicht op het gasnet voor nieuwe woningen per 1 juli 2018 een extra aanzet heeft gegeven om warmtepompen te installeren.
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Daarnaast heeft de ISDE-regeling een impuls gegeven voor de afzet van warmtepompen. Uit een analyse van ontvangen RVO-databestanden met gegevens over aanvragen voor ISDE-subsidie blijkt dat in 2019 voor 150 megawatt aan warmtepompen met buitenlucht met ISDE is geplaatst, in 2020 was dit 140 megawatt en in 2021 rond de 100 megawatt. Het ging dan in alle gevallen om warmtepompen met water als afgiftesysteem, want voor warmtepompen met lucht als afgiftesysteem geldt geen subsidie. Sinds 2020 is de ISDE niet meer beschikbaar voor nieuwbouwprojecten waarvan de omgevingsvergunning na 30 juni 2018 is aangevraagd. Ongeveer de helft van de ISDE warmtepompen met buitenluchtwarmte werd bij woningen geplaatst in 2021.
+
+Voor bestaande woningen is de overstap van een gasaansluiting naar een warmtepomp vaak een grote investering, mede omdat naast de kosten van de installatie er ook vaak moet worden geïnvesteerd in het geschikt maken van de woning (voornamelijk isolatie-kosten). Een tussenoplossing is om een hybride warmtepomp te plaatsen, een warmtepomp die functioneert in combinatie met een aardgasketel die actief wordt als de warmtevraag niet meer door de warmtepomp kan worden geleverd. Vaak zijn dit buitenlucht warmtepompen met water als afgiftesysteem. Vanaf 2021 moeten particulieren bij het aanvragen van ISDE-subsidie voor warmtepompen aangeven of zij na het in gebruik nemen van de warmtepomp nog aardgas gebruiken voor ruimteverwarming. Uit een eerste analyse van de ISDE-gegevens blijkt dat van de 8,7 duizend gerealiseerde lucht-water warmtepompen bij particulieren in 2021 er in ongeveer 5,4 duizend van de gevallen sprake is van aardgasverbruik. Bij deze analyse is geen rekening gehouden met het type warmtepomp (sommige warmtepompen zijn gemaakt om als hybride te worden gebruikt) en is ook niet gecontroleerd of de vraag over ruimteverwarming correct is ingevuld.
+
+In totaal zijn er 48 duizend lucht-water warmtepompen in gebruik genomen bij woningen in 2021, 16 procent meer dan in 2020. Als aangenomen wordt dat de meeste hybride warmtepompen bij de bestaande woningen via een ISDE-aanvraag zijn gerealiseerd zijn er ongeveer 43 duizend niet-hybride (Eonly) warmtepompen geplaatst in 2021. Aannemende dat de meeste warmtepompen bij de bestaande woningen via een ISDE-aanvraag zijn gerealiseerd zijn de meeste lucht-water warmtepompen geplaatst in nieuwbouwwoningen (ongeveer 39 duizend installaties).
+
+De benutting van de buitenlucht voor verwarming met verwarmingssystemen op basis van lucht gebeurt van oudsher vooral in kantoorgebouwen. Het gaat dan vaak om omkeerbare warmtepompen. Dat zijn warmtepompen die in de zomer kunnen worden gebruikt als airco om te koelen, en in de winter om te verwarmen. De meerkosten van koelmachines die niet alleen kunnen koelen maar ook kunnen verwarmen zijn beperkt. Daardoor worden de omkeerbare warmtepompen vaak verkocht zonder veel subsidie. Wel is het mogelijk om voor efficiënte omkeerbare warmtepompen een korting te krijgen op de belasting via de Energie-investeringsaftrekregeling (EIA).
+
+De laatste jaren zijn er veel lucht-lucht systemen bij woningen geplaatst. Over de wijze van functioneren van deze systemen is weinig bekend, maar het zou kunnen dat deze apparaten primair voor koeling zijn aangeschaft en heel weinig voor verwarming worden gebruikt.
+
+Opvallend is dat de vermeden emissies van CO 2 voor warmtepompen op buitenlucht tot en met 2017 vaak negatief zijn, maar dat het vermeden verbruik van fossiele primaire energie positief is. De verklaring hiervoor is dat de besparing van deze warmtepompen afhangt van het verschil tussen het uitgespaarde aardgasverbruik en de daaraan gerelateerde emissies enerzijds (aardgasketel) en het extra verbruik van elektriciteit en de daaraan gerelateerde primaire energie en emissies anderzijds (warmtepomp). Elektriciteitsopwekking heeft volgens de huidige referenties een hogere CO 2‑ emissie per eenheid verbruikte energie dan warmteopwekking in een aardgasketel. De laatste jaren neemt de bijdrage van steenkool aan de elektriciteitsproductie in Nederland af, daardoor wordt de referentie elektriciteitsproductie minder CO 2‑ intensief en neemt de berekende CO 2 besparing van de warmtepompen met gebruik van buitenluchtwarmte toe tot ongeveer 240 kton.
+
+Overigens is het belangrijk om te weten dat zowel het vermeden verbruik van primaire energie als de vermeden emissies van CO 2 sterk afhangen van de energieprestatiefactor van de warmtepompen. Deze waarde voor deze factor is overgenomen van een richtsnoer van de Europese Commissie (zie ), maar feitelijk is nog erg weinig bekend over de prestaties van warmtepompen op buitenlucht in de praktijk.
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.4.2 Buitenluchtwarmte uit (RVO en CBS, 2022).
+
+In de EU-Richtlijn voor hernieuwbare energie wordt buitenluchtwarmte aerothermische warmte genoemd.
+
+Via gegevens over de afzet van warmtepompen en een aanname over de levensduur wordt het opgesteld vermogen bepaald. Daaruit worden vervolgens de relevante energiestromen bepaald op basis van kengetallen.
+
+Verkoopgegevens van de warmtepompen zijn verzameld in samenwerking met de branchevereniging. De Vereniging Warmtepompen heeft de verkoopgegevens van de leden geleverd. Het CBS heeft zelf de leveranciers geënquêteerd die geen lid zijn van de branchevereniging.
+
+Volgens de EU Richtlijn Hernieuwbare Energie mogen warmtepompen alleen meetellen als ze de energieprestatie (warmteproductie gedeeld door elektriciteitsverbruik) groter is dan een bepaalde norm. Vooral bij (oude) warmtepompen op buitenlucht is het onzeker of ze voldoen aan deze norm. In de Richtsnoer voor de rekenmethodiek voor warmtepompen (Europese Commissie, 2013) is vervolgens bepaald dat lidstaten zelf een expertschatting mogen maken voor het deel van de warmtepompen dat voldoet aan deze norm. Deze expertschatting hebben Segers en Busker (2015) verdisconteerd in de rekenfactor voor de omrekening van het vermogen naar de warmteproductie.
+
+Het onderzoek van Segers en Busker (2015) omvat data over schattingen van installateurs over in 2014 geplaatste systemen. Over de oude en nieuwere systemen is weinig bekend. Daarnaast zijn er geen goede representatieve data over de energieprestatie van de warmtepompen in de praktijk, waardoor het onduidelijk is welk deel van de aerothermische warmtepompen voldoet aan de ondergrens voor de energieprestatie uit de EU-Richtlijn Hernieuwbare Energie. Daarom blijft het eindverbruik van de aerothermische warmtepompen onzeker.
+
+Het CBS schat de onnauwkeurigheid voor de hernieuwbare energie uit buitenluchtwarmte op 40 procent.
+
+
+
+Biomassa
+
+Biomassa kan vele vormen aannemen, zoals voedsel of papier. In de energiestatistieken wordt biomassa echter alleen meegenomen als het wordt gebruikt als energiedrager. De import van bijvoorbeeld palmolie voor de voedingsindustrie wordt dus niet meegenomen. Biomassa is de belangrijkste bron van hernieuwbare energie en wordt op vele manieren gebruikt. In dit hoofdstuk worden alle technieken systematisch langs gelopen. Door onzekerheden rondom de duurzaamheid van de biomassa is er geen eenduidig percentage over de bijdrage van deze bron aan het bruto eindverbruik van hernieuwbare energie in 2021 volgens de EU-Richtlijn Hernieuwbare Energie. Voorlopig ligt de bijdrage tussen de 45 en 51 procent.
+
+8.1 Inleiding
+
+De belangrijkste toepassingen, goed voor drie kwart van het biomassaverbruik, zijn: afvalverbrandingsinstallaties (paragraaf 8.2), meestoken van biomassa in elektriciteitscentrales (paragraaf 8.3), het gebruik van vloeibare biotransportbrandstoffen (8.11) en het verbruik van biomassa in WKK-installaties (8.4). De resterende 25 procent betreft niet alleen het gebruik van biomassa door huishoudens (8.6) en het verbruik van biomassa voor (uitsluitend) warmte bij bedrijven (8.5). Ook kan, naast direct verbranden, de biomassa eerst worden omgezet in biogas, wat op stortplaatsen (8.7) gebeurt. Ook natte organische afvalstromen zijn vaak geschikt om te worden omgezet in biogas via vergisting. Dat gebeurt in veel rioolwaterzuiveringsinstallaties (8.8), in afvalwaterzuiveringsinstallaties in de industrie (8.10) en veel biogas wordt gemaakt uit vergisting van mest samen met ander organisch materiaal (co-vergisting van mest) (8.9).
+
+Ontwikkelingen
+
+Het primair verbruik van biomassa is vooral vanaf 2003 hard gegroeid en bereikte een piek in 2012. Het ging in eerste instantie vooral om een toename van het meestoken van biomassa in elektriciteitscentrales, gestimuleerd door de MEP-subsidies (zie ook 2.8). Later nam ook het gebruik van biomassa voor het wegverkeer toe door de introductie van de verplichting voor leveranciers van benzine en diesel tot het verbruik daarvan, veelal ingevuld door biobrandstoffen bij te mengen in gewone benzine en diesel. Ook het verbruik van biomassa voor elektriciteitsproductie nam toe. Het gaat hierbij vooral om enkele installaties die afvalhout verbranden en elektriciteit maken. Het verbruik van biomassa door afvalverbrandingsinstallaties en als biogas groeit meer geleidelijk.
+
+Na de piek in 2012 daalde het verbruik van biomassa door het teruglopen van het meestoken van biomassa als gevolg van het aflopen van de subsidie. Echter, vanaf 2018 is er weer groei te zien in het totale verbruik van biomassa doordat de subsidie op meestoken terugkeerde. In 2021 is deze groei wederom grotendeels te danken aan de toename in de meestook van biomassa in centrales. Na een dipje in 2020 laat het verbruik van vloeibare biotransportbrandstoffen een groei van 14 procent zien. Ook nam het verbruik biomassa voor warmte bij bedrijven toe met 11 procent ten opzichte van een jaar eerder. De overige technieken laten een kleinere groei zien in het verbruik (0 tot 10 procent).
+
+Bron: CBS
+
+1) Inclusief of exclusief onzekere biomassa volgens EU-Richtlijn 2018 (RED II).
+
+** Nader voorlopige cijfers
+
+Tabel 8.1.2 geeft het verbruik van biomassa op twee manieren: eindverbruik en vermeden verbruik van fossiele energie. In grafiek 8.1.1 wordt het primaire verbruik weergegeven. Bij het eindverbruik van energie gaat het om de vorm waarin het aan de eindverbruiker wordt geleverd: elektriciteit, warmte of brandstof. Bij het primair verbruik gaat het om de energie-inhoud van de eerst meetbare vorm van de verbruikte biomassa. Vooral bij elektriciteit is het verschil tussen primair en eindverbruik groot, omdat het omzettingsverlies bij de productie van elektriciteit uit biomassa groot is.
+
+Halverwege 2021 is de RED II in gebruik genomen, waarin aangescherpte duurzaamheidscriteria zijn opgenomen voor de biomassa die in bepaalde installaties gebruikt wordt. Dit zorgt voor een onzekerheidsbandbreedte voor het bruto energetische eindverbruik van biomassa. In tabel 8.1.2 is daarom het bruto energetisch eindverbruik van de verschillende biomassa-vormen exclusief en inclusief dit onzekere deel weergegeven. De aangescherpte duurzaamheidscriteria voor biomassa zijn niet van toepassing voor:
+
+Installaties die (biogeen) huishoudelijk afval gebruiken (afvalverbrandingsinstallaties)
+
+Installaties die vaste biomassa gebruiken en een thermisch ingangs vermogen onder de 20 MW hebben (alle houtkachels bij huishoudens zijn hierdoor uitgezonderd en een groot deel van de houtketels bij bedrijven).
+
+Installaties op biogas met een thermisch ingangs vermogen onder de 2 MW
+
+Vloeibare biotransportbrandstoffen (deze moeten aan andere duurzaamheidscriteria voldoen)
+
+Het vermeden verbruik van fossiele primaire energie is in de regel lager dan het primair verbruik van biomassa (8.1.1 en 8.1.2). Dat betekent dat 1 joule biomassa minder dan 1 joule fossiele energie uitspaart. Dit komt doordat het energetisch rendement van de installaties die biomassa verbruiken relatief laag is ten opzichte van de fossiele referentie. Het sterkst speelt dit bij afvalverbrandingsinstallaties en bij houtkachels in huishoudens. Omdat het bruto eindverbruik de basis is voor de berekening van het vermeden verbruik van fossiele primaire energie kan deze in de gevallen waar er een onzekerheid is niet worden berekend. Voor de berekening van het vermeden verbruik van fossiele primaire energie is geen complete levenscyclusanalyse (LCA) uitgevoerd (RVO en CBS, 2022), omdat dat ingewikkeld is en omdat er veel gegevens voor nodig zijn.
+
+Groen gas
+
+Groen gas is biogas dat is opgewerkt tot aardgaskwaliteit en geïnjecteerd wordt in het aardgasnet. Soms wordt ook ruw biogas tot groen gas gerekend of biogas dat wordt opgewerkt tot Compressed Natural Gas (CNG) voor verbruik in vervoer. Hier gaat het alleen over groen gas dat geïnjecteerd wordt in het aardgasnet. Directe injectie van ruw biogas in het aardgasnet kan niet, onder andere omdat de verbrandingswaarde van biogas een stuk lager is.
+
+Op stortplaatsen wordt al jaren groen gas gemaakt. De biogasproductie op stortplaatsen loopt echter terug, omdat er nog maar weinig afval voor lange tijd wordt gestort. Het meeste biogas voor groen gas is afkomstig van andere bronnen zoals vergisters van afvalverwerkingsbedrijven, industrie en landbouw. In de jaren na 2011 zijn er telkens nieuwe projecten bijgekomen met groen gas productie uit overig biogas. In de laatste jaren neemt ook de productie van groen gas uit mestvergisting toe. In 2021 groeide de totale productie van groen gas met 12 procent naar 225 miljoen kubieke meter. Dit komt overeen met iets meer dan vijf promille van het totale aardgasverbruik in Nederland.
+
+De groei in de productie van groen gas heeft vooral te maken met de subsidieregeling Stimulering Duurzame Energieproductie (SDE(+)(+)), die, in tegenstelling tot de voorgaande MEP, ook open staat voor groengasprojecten. Eind 2021 waren er 72 projecten met een beschikking in gebruik met een gezamenlijk vermogen van 375 megawatt (RVO, 2022a). Ook de mogelijkheid om groen gas mee te laten tellen voor het voldoen aan de verplichting voor hernieuwbare energie voor vervoer, in plaats van SDE-subsidie, is een stimulans voor de productie. In 2021 werd 1,7 PJ voor dat doel ingezet.
+
+Het bruto energetisch eindverbruik van groen gas wordt berekend door uit de Europese energiestatistieken voor Nederland af te leiden welk deel van het primair aardgasverbruik leidt tot bruto energetisch eindverbruik (Eurostat, 2011). Sinds eind 2018 is voor deze verdeling daarnaast mogelijk om onder bepaalde voorwaarden groen gas administratief over te boeken naar de sector vervoer (zie ook paragraaf 2.4). De gebruikte methode is geïmplementeerd in de tool SHARES van Eurostat en zit er op dit moment als volgt uit:
+
+Bepaal hoeveel groen gas dat is ingevoed in het nationale net wordt overgeboekt naar vervoer. In 2021 was dit 25 procent van alle groen gas.
+
+Verdeel de rest van het groen gas over vijf bestemmingen, evenredig met de bestemmingen van aardgas: energetisch eindverbruik voor warmte. Dit is verbruik in warmteketels plus de warmte uit aardgasinzet in warmtekrachtinstallatie energetisch eindverbruik voor elektriciteit. Dit is de productie van elektriciteit uit aardgas energetisch eindverbruik voor vervoer. Dit is de levering van aardgas voor vervoer niet-energetisch eindverbruik , vooral voor de productie van kunstmest transformatieverliezen, vooral voor de productie van elektriciteit al dan niet in combinatie met warmte.
+
+energetisch eindverbruik voor warmte. Dit is verbruik in warmteketels plus de warmte uit aardgasinzet in warmtekrachtinstallatie
+
+energetisch eindverbruik voor elektriciteit. Dit is de productie van elektriciteit uit aardgas
+
+energetisch eindverbruik voor vervoer. Dit is de levering van aardgas voor vervoer
+
+niet-energetisch eindverbruik , vooral voor de productie van kunstmest
+
+transformatieverliezen, vooral voor de productie van elektriciteit al dan niet in combinatie met warmte.
+
+De eerste drie bestemmingen vallen onder het bruto energetisch eindverbruik voor de RED I uit 2009 (Europees Parlement en Raad, 2009). In 2021 telde 83 procent van het groen gasproductie als bruto energetisch eindverbruik, waarvan 46 voor warmte, 12 voor elektriciteit en 25 voor vervoer. Op moment van schrijven van deze publicatie is het niet duidelijk hoe de nieuwe duurzaamheidscriteria zullen worden toegepast op het bruto eindverbruik van groen gas. Bij de genoemde getallen is verondersteld dat alle geproduceerde groen gas aan de duurzaamheidscriteria voldoet.
+
+In eerste instantie is het misschien wat tegen intuïtief dat niet alle groen gas meetelt bij het verbruik van hernieuwbare energie. Echter, het aardgasverbruik telt ook niet volledig mee bij het bepalen van de noemer voor het berekenen van het aandeel hernieuwbare energie.
+
+Duurzaamheid biomassa
+
+Biomassa telt als bron voor hernieuwbare energie omdat de CO 2‑ emissie die vrijkomt bij het verbruik van biomassa gecompenseerd wordt door CO 2‑ vastlegging bij de groei van planten die weer zorgt voor nieuwe biomassa (kortcyclische CO 2 ). Toch zijn er ook zorgen over de duurzaamheid van het gebruik van biomassa. Het gaat dan vaak over de bescherming van tropische bossen, de CO 2‑ effectiviteit over de hele keten, de lange tijd die er nodig is om nieuwe bomen te laten groeien en effecten op voedselprijzen. In de RED I uit 2009 zijn duurzaamheidscriteria opgenomen voor vloeibare biomassa en biogas voor vervoer. Dat heeft tot gevolg dat vanaf 2011 vloeibare biomassa die niet voldoet aan de criteria, niet meetelt voor de realisatie van de doelstelling en ook geen steun mag ontvangen van nationale regeringen via een subsidie, een korting op de accijns of een verplichting.
+
+In de nieuwe EU-Richtlijn Hernieuwbare Energie (RED II), welke zich richt op de periode 2021 tot en met 2030, is afgesproken om voor installaties op vaste en gasvormig biomassa boven een bepaalde capaciteitsgrens wel duurzaamheidscriteria te gaan hanteren. Bij het schrijven van deze publicatie was er nog onduidelijkheid over overgangsregels voor bestaande installaties en voor groen gas. Dat heeft tot gevolg dat er een onzekerheid is in de cijfers voor de EU-Richtlijn Hernieuwbare energie (het bruto eindverbruik) zoals ook beschreven in hoofdstuk 2 van deze publicatie en in ).
+
+Vanaf 2012 heeft de Nederlandse Emissieautoriteit gecontroleerd of biobrandstoffen voor vervoer die opgevoerd zijn voor de nationale bijmengplicht voldoen aan de duurzaamheidcriteria uit de RED (NEa, 2015). Het CBS heeft gegevens per bedrijf ontvangen van de NEa en vergeleken met eigen gegevens over biobrandstoffen. Daaruit is naar voren gekomen dat nagenoeg alle Nederlandse biobrandstoffen die geleverd zijn voor vervoer in Nederland voldoen aan de duurzaamheidscriteria. Voor vloeibare biomassa in stationaire installaties geldt al meerdere jaren dat ze alleen SDE subsidie kunnen krijgen als ze voldoen aan de duurzaamheidscriteria. Bij de uitvoering van deze subsidieregeling controleert RVO of de gebruikte biomassa adequaat is gecertificeerd en CBS ontvangt van RVO informatie over de hoeveelheid hernieuwbare energie met gecertificeerde biomassa.
+
+In juni 2022 is de laatste editie van een rapportage gepubliceerd door het Platform Bio-Energie (PBE) in samenwerking met RVO over het verbruik van hout in energie-installaties voor elektriciteit en warmte. Deze rapportage en voorgaande zijn in opvolging gemaakt van de Green Deal Duurzaamheid Vaste Biomassa die in 2015 afliep.
+
+De bedrijven waar de installaties (vanaf 1 megawatt) in gebruik zijn, hebben net als tijdens de Green Deal op vrijwillige basis aan het onderzoek meegewerkt (respons: 68 procent). De deelnemende partijen beogen met de jaarlijkse rapportage bij te dragen aan de gewenste openheid over de omvang, aard, herkomst en duurzaamheidsaspecten van de gebruikte biomassa. Zij hopen daarnaast dat de rapportage het draagvlak voor deze vorm van hernieuwbare energie bevordert. Deze rapportage heeft betrekking op vaste – houtachtige – biomassa die in 2021 direct of indirect is ingezet om elektriciteit en/of warmte op te wekken.
+
+Uit het rapport blijkt het grootste aandeel houtige biomassa (36% van in totaal 5,2 miljoen ton) afkomstig is uit eigen land. 28 procent komt uit Noord-Oost Europa (Baltische staten, Rusland of Wit-Rusland). Duitsland en België zijn verantwoordelijk voor 8% van de ingevoerde biomassa. Het overgebleven deel (ruim een kwart) komt uit Noord-Amerika. Vrijwel alle gebruikte houtige biomassa bestaat uit resthout dat vrijkomt bij onderhoud van bos, landschap en gemeentelijk groen, bij timmerfabrieken, uit bouw- en sloopwerkzaamheden en dergelijke. Niet opgenomen in deze rapportage zijn: gasvormige of vloeibare biobrandstoffen, fossiele brandstoffen of andere vaste biomassa (PBE/RVO, 2022).
+
+Ook weer voor 2021 was er een aparte rapportage over de aard, herkomst en certificering van biomassa die is meegestookt in kolencentrales (CE, 2022). In tegenstelling tot de rapportage van PBE en RVO worden andere installaties die houtige biomassa gebruiken hier niet meegenomen. Uit de rapportage van CE volgt dat de kolencentrales in 2021 vooral houtpellets meestoken, waarvan ongeveer de helft uit Noord-Amerika kwam en ongeveer 32 procent uit EU-landen. De overige 21 procent is afkomstig uit Europese landen die niet tot de EU behoren (inclusief Rusland). In 2021 bestond 92,6 massaprocent van de meegestookte biomassa uit biogene rest- en afvalstromen (categorie 5), 6,4% uit houtige biomassa uit bosbeheereenheden kleiner dan 500 hectare (categorie 2) en 1,1 procent uit houtige biomassa uit bosbeheereenheden groter dan 500 hectare (Categorie 1).
+
+Op nationaal niveau is discussie over de wenselijkheid van biomassa de laatste jaren geïntensifieerd, wat heeft geresulteerd in een SER advies over biomassa ( ), waarin de SER de overheid adviseert om het verbruik biomassa voor warmte met lage temperaturen (verwarming van gebouwen) af te bouwen en de regering is voornemens dit advies over te nemen ( ). Lastig is wel dat alternatieven voor biomassa voor het halen van de (internationaal afgesproken) duurzaamheidsdoelen een stuk duurder zijn en dat de opschaling daarvan nog veel onzekerheden kent ( ). Vanwege de verontreinigende emissies heef de overheid de ISDE subsidie (voor kleinere systemen bij woningen en bedrijven) met ingang van aanvragen al met ingang 2020 stopgezet ( ).
+
+Aanbod van vaste biomassa
+
+Het binnenlands verbruik van vaste biomassa, in hoofdzaak houtachtige producten uit reststromen, kon in de periode 2014 tot en met 2018 geheel voorzien worden vanuit binnenlandse productie. Per saldo was Nederland in deze periode exporteur van vaste biomassa voor energie. In 2013 was dat niet het geval toen houtpellets op grote schaal werden geïmporteerd, voornamelijk voor de bij- en meestook in elektriciteitscentrales.
+
+Vanaf 2019 is Nederland weer netto-importeur van houtpellets geworden. In 2020 groeide het binnenlands verbruik van vaste biomassa naar 94 petajoule, dat is 45 procent meer dan in 2019. Met name het verbruik van houtpellets nam toe door de toename in meestook van biomassa bij centrales. Voor een verdere uitsplitsing van de vaste biomassa zie . Voor 2021 zijn nog niet voldoende data beschikbaar om de tabel van een update te voorzien, hoewel op basis van de data van CE (2022) het aannemelijk lijkt dat de invoer van houtpellets wederom is toegenomen in 2021.
+
+In de volgende paragrafen van deze publicatie wordt nader ingegaan op het verbruik van andere niet-houtachtige biomassa zoals huishoudelijk afval en biogas.
+
+8.2 Afvalverbrandingsinstallaties
+
+Afval dat verbrand wordt door afvalverbrandingsinstallaties is op energiebasis voor ongeveer de helft van biogene oorsprong. Daarom telt ongeveer de helft van de energieproductie door afvalverbrandingsinstallaties als hernieuwbare energie. In Nederland zijn er twaalf afvalverbrandingsinstallaties. Deze grote installaties waren in 2021 goed voor 7 procent van het eindverbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+De productie van hernieuwbare energie uit afvalverbrandingsinstallaties (AVI’s) toont vanaf 2009 tot en met 2017 een duidelijke stijging. Tot en met 2011 had de stijging vooral te maken met het in gebruik nemen van nieuwe installaties, daarna kwam de stijging door nieuwe leidingen voor leveringen van stoom aan nabijgelegen industrie en warm water vooral voor bestaande stadsverwarmingsnetten. Bij veel installaties werd de warmte nog lang niet volledig benut, waardoor de extra warmteleveringen slechts in beperkte mate ten koste gingen van de elektriciteitsproductie. In 2021 is er bijna 74 petajoule afval verbrand, iets meer dan in 2020.
+
+Vanaf 1990 tot en met 2002 is het biogene aandeel van het verbrande afval langzaam gedaald. Dat had te maken met het opkomen van het apart inzamelen van groente-, fruit- en tuinafval. In 2003 kwam aan deze daling een eind en tot en met 2012 steeg de biogene fractie weer om tot 2016 min of meer constant te blijven (rond 55%). Een betere scheiding van het plastic afval speelde daarbij een rol (Agentschap NL, 2013). In 2020 was het aandeel 54 procent; dit percentage is overgenomen voor de berekeningen over 2021.
+
+Voor huishoudelijk afval is de import belangrijk. Reden daarvoor is dat de capaciteit van de afvalverbrandingsinstallaties de laatste jaren is uitgebreid en dat het binnenlandse aanbod van afval is afgenomen. Om de investering in de dure installaties terug te verdienen is het voor de bedrijven van belang om de installatie zoveel mogelijk te gebruiken. Dankzij de nabijheid van zeehavens is het relatief goedkoop om afval te importeren uit Europese landen waar de capaciteit voor verwerking van afval schaars is. Per 1 januari 2020 is een importheffing op buitenlands afval ingevoerd als onderdeel van het Urgenda-pakket om CO 2‑ uitstoot in Nederland te beperken. De Vereniging Afvalbedrijven heeft in 2019 een onderzoek laten uitvoeren dat aantoonde dat de importheffing geen CO 2‑ besparing oplevert in Nederland (PwC, 2019). Een onderzoek van TNO ondersteunt dit: de gevolgen van het storten van het niet-geïmporteerde afval in het land van herkomst leiden op Europees niveau tot meer CO 2‑ uitstoot (TNO, 2020a). Afvalbedrijven voorspelden ook dat het economisch onaantrekkelijk zou worden om afval te importeren door de nieuwe heffing (Vereniging Afvalbedrijven, 2019).Tot zo ver is dit nog niet terug te zien in de cijfers over 2020 en 2021. De cijfers over 2021 zijn nog voorlopig.
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+
+
+Het verschil tussen de bruto en de netto elektriciteitsproductie is bij de AVI’s groter dan bij de andere conversietechnieken ( ). Dit komt vooral doordat de AVI’s veel elektriciteit gebruiken voor rookgasreiniging. Sommige AVI’s gebruiken ook redelijk wat fossiele brandstoffen en warmte voor rookgasreiniging. Het verbruik van fossiele brandstoffen wordt verdisconteerd in de berekening van de productie van hernieuwbare elektriciteit en warmte (RVO en CBS, 2022).
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.1 Afvalverbrandingsinstallaties uit (RVO en CBS, 2022).
+
+Afvalverbrandingsinstallaties zijn verbrandingsinstallaties die geschikt zijn voor gemengde afvalstromen. Installaties die ontwikkeld zijn voor specifieke afvalstromen, zoals de thermische conversie-installatie in Duiven voor papierslib en de afvalhoutverbranders bij Twence in Hengelo, de AVR Rijnmond en de Huisvuilcentrale in Alkmaar, worden niet meegenomen bij de afvalverbrandingsinstallaties. Deze installaties tellen wel mee voor de hernieuwbare energie, maar dan bij de bedrijven die biomassa stoken voor elektriciteit (8.4).
+
+De belangrijkste bron voor het bepalen van de (hernieuwbare) energieproductie uit afvalverbranding zijn rapportages die de AVI’s leveren aan Rijkswaterstaat Leefomgeving voor de WAR en de vaststelling van de R1‑status (‘nuttige toepassing’). De eventuele ontbrekende gegevens zijn bijgeschat op basis van milieujaarverslagen.
+
+Op basis van de vergelijking tussen de milieujaarverslagen en de R1‑rapportages schat het CBS de onnauwkeurigheid in de geleverde energieproductie van de AVI’s op ongeveer 5 procent. De niet verkochte warmte is relatief gezien wat onzekerder, omdat het complex kan zijn om de stromen op een eenduidige manier af te bakenen. Alles bij elkaar genomen ligt de grootste onzekerheid in de hernieuwbare energie uit AVI’s bij de bepaling van de biogene fractie. Deze onzekerheid wordt geschat op 10 procent.
+
+8.3 Meestoken van biomassa in elektriciteitscentrales
+
+Bij het meestoken van biomassa in elektriciteitscentrales gaat het om centrales die kolen gebruiken als hoofdbrandstof. Een gedeelte van deze kolen kan vervangen worden door verschillende soorten biomassa. Omdat alle installaties waarin biomassa wordt meegestookt een vermogen boven de grens van 20 MW uit de RED II hebben telt de inzet van biomassa na juni 2021 wellicht niet mee voor het bruto eindverbruik van hernieuwbare energie. Door deze onzekerheid ligt de bijdrage van meestoken van biomassa in 2021 tussen de 5–10 procent van het eindverbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+De ontwikkeling van het meestoken van biomassa in elektriciteitscentrales verliep in de periode 2003–2012 met horten en stoten. Aanvankelijk zorgden technische aanpassingen van de centrales voor groei, maar halverwege de periode zorgde de afbouw van de MEP-subsidie voor stagnatie. Tussen 2013 en 2015 waren er geen subsidieregelingen die het meestoken van biomassa bij kolencentrales aantrekkelijk maakten.
+
+In 2016 en 2017 zijn in het kader van SDE+ weer nieuwe subsidieaanvragen voor het meestoken van biomassa in grote installaties geaccepteerd (RVO, 2022a). Sindsdien is er een duidelijke groei te zien. In 2021 werd ruim 56 petajoule aan biomassa meegestookt in de elektriciteitscentrales. Dat was 40 procent meer dan in 2020 en ook de grootste hoeveelheid meegestookte biomassa sinds deze techniek wordt toegepast. Desondanks daalde het aandeel biomassa in kolencentrales van 39 procent in 2020 naar 32 procent in 2021, omdat de kolencentrales veel meer werden ingezet. ( )
+
+Bron: CBS
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is.
+
+1) Renewable Energy Directive (RED II)/EU-Richtlijn uit 2018
+
+** Nader voorlopige cijfers
+
+
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.5 Bij- en meestook van biomassa in elektriciteitscentrales uit (RVO en CBS, 2022).
+
+Voor de inzet van biomassa is gebruik gemaakt van de opgaven van bedrijven uit de CBS-enquêtes. De gegevens uit de administratie van CertiQ en de CBS-enquêtes zijn op individueel niveau met elkaar geconfronteerd. De onnauwkeurigheid in de hernieuwbare energie uit het meestoken van biomassa in centrales wordt geschat op 5 procent.
+
+8.4 Stoken van biomassa voor elektriciteit en warmte (WKK) bij bedrijven
+
+Het gaat hier om installaties die vaste of vloeibare biomassa verbranden voor de productie van elektriciteit, meestal in combinatie met warmteproductie, uitgezonderd het meestoken van biomassa in elektriciteitscentrales. De belangrijkste groep zijn de vier installaties voor het verbranden van afvalhout in Hengelo, Alkmaar, Rotterdam en Delfzijl. Daarnaast gaat het om het verbranden van diverse afvalstromen zoals kippenmest of papierslib in installaties die speciaal ontworpen zijn voor deze soort biomassa en meerdere kleinschalige installaties die vooral schoon resthout verbranden. Voor deze kleine installaties is vaak warmte het hoofdproduct en elektriciteit het bijproduct.
+
+De ongeveer dertig installaties waren in 2021 goed voor 4–6 procent van het eindverbruik van hernieuwbare energie. De onzekerheid rondom toepassing van duurzaamheidscriteria voor biomassa zorgt voor de bandbreedte; de installaties die de vermogensgrens van 20 MW overschrijven zijn in de tweede helft van 2021 niet meegenomen bij de lage variant.
+
+Ontwikkelingen
+
+De jaarlijkse productie van individuele installaties kan sterk fluctueren door het al dan niet optreden van storingen en de noodzaak tot onderhoud. De biomassa verbruikt in deze installaties kent een stabiele groei sinds 2011. MEP-subsidie is de belangrijkste subsidieregeling geweest voor het bouwen van installaties in deze categorie. De SDE-subsidieregeling heeft nog niet geleid tot veel grote nieuwe installaties. Wel is er met steun van de SDE een aantal kleinere installaties bijgekomen die vooral warmte leveren. Nieuw is ook dat bestaande installaties met steun van de SDE worden aangepast en (veel) warmte gaan leveren. Belangrijk in 2017 was de aansluiting van de afvalhoutverbrander in Delfzijl op het lokale stoomnet. Sinds 2018 leveren de drie andere grote installaties voor het verbranden van afvalhout (in Alkmaar, Hengelo en Rotterdam) warmte aan stadsverwarming, voor een gedeelte in plaats van leveringen van warmte door afvalverbrandingsinstallaties.
+
+Bron: CBS
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is.
+
+1) Renewable Energy Directive (RED II)/EU-Richtlijn uit 2018
+
+** Nader voorlopige cijfers
+
+
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.4 Decentrale elektriciteitsproductie uit (RVO en CBS, 2022).
+
+Voor de elektriciteits- en warmteproductie is CertiQ de belangrijkste bron, met informatie uit de winning- en omzettingsenquêtes van het CBS als aanvulling. Als verdere aanvulling en controle is gebruik gemaakt van milieujaarverslagen. De onzekerheid in de hernieuwbare energie uit de decentrale biomassaverbranding voor elektriciteit wordt geschat op ongeveer 10 procent.
+
+8.5 Stoken van biomassa voor warmte bij bedrijven
+
+Biomassa kan in vaste en vloeibare vorm (afvalhout, slachtafval, papierslib) verstookt worden in ketels en kachels voor warmteproductie. Zo heeft de houtverwerkende industrie al jaren houtketels waarin de bedrijven hun eigen afvalhout stoken. Sinds 2006 hebben ook steeds meer bedrijven uit de intensieve veehouderij houtketels voor het verwarmen van stallen. In de meeste gevallen wordt de warmte door de producent zelf verbruikt, maar de laatste jaren worden biomassa warmteketels ook voor stadsverwarming gebruikt. Er is ook een aantal biomassaketels voor stadsverwarming die naast warmte ook wat elektriciteit leveren. Deze installaties tellen mee bij ‘Stoken van biomassa voor elektriciteit bij bedrijven’ (paragraaf 8.4).
+
+Het stoken van biomassa voor warmte draagt in 2021 voor 5–6 procent bij aan het totale verbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+In 2021 groeide de inzet van biomassa met 13 procent en de warmteproductie met 19 procent; in 2020 was dat respectievelijk 15 procent en 10 procent.
+
+Steeds meer warmte wordt geproduceerd, vooral door energiebedrijven, voor gebruik door derden. Bijvoorbeeld voor stadverwarming. De inzet van biomassa voor die ‘verkochte warmte’ steeg in 2021 met 26 procent naar 5 petajoule.
+
+Bron: CBS
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is.
+
+1) Renewable Energy Directive (RED II)/EU-Richtlijn uit 2018
+
+** Nader voorlopige cijfers
+
+
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Bron: CBS
+
+** Nader voorlopige cijfers
+
+Sinds 2012 komen de grotere ketels (vanaf 500 kW) in aanmerking voor SDE-subsidie. Dat heeft geleid tot een toename van de grotere ketels (groter dan 1 MW). Van 2016 tot 2020 konden particulieren en bedrijven voor klein zakelijk gebruik met subsidie uit de ISDE-regeling een biomassaketel (of pelletkachel) met een vermogen tot en met 500 kW aanschaffen. Met name de zakelijke markt was geïnteresseerd in biomassaketels, de aanvragen namen tot 2019 jaarlijks toe. De ISDE-regeling is gestopt voor aanvragen in 2020; voor zakelijk gebruik (bedrijven) is de regeling per 1 januari 2020 geheel gestopt maar voor particulieren was er een overgangsregeling. Hier is toen ook gebruik van gemaakt: het totale vermogen van de aangevraagde ketels was bijna 17 megawatt in 2020 en volledig bestemd voor woningen. Eind 2021 was het opgestelde vermogen van de biomassaketels iets lager dan eind 2020, een mogelijk gevolg van het stopzetten van de subsidie. De toename van de warmteproductie in 2021 wordt verklaard doordat er gedurende 2020 meerdere grote installaties zijn geplaatst in de landbouw en bij de energiebedrijven (zie tabel 8.5.4). Deze hebben heel 2021 kunnen bijdragen aan de warmteproductie.
+
+In paragraaf 8.1 is aandacht voor de ontwikkelingen op het gebied van de discussie over de wenselijkheid van de toepassing van biomassa als energiedrager.
+
+De meeste houtketels staan in Gelderland, Noord-Brabant en Overijssel. Dit zijn grote provincies met intensieve veehouderij, de sector met de meeste houtketels. De laatste jaren groeit het vermogen van de energiebedrijven; de provincie Noord-Holland heeft het hoogste vermogen wegens de grote installatie van de stadverwarming in Purmerend.
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.3 Warmteketels bij bedrijven voor vaste en vloeibare biomassa uit (RVO en CBS, 2022).
+
+De informatie over de warmteproductie en het brandstofverbruik van de ketels en kachels op brandstoffen anders dan hout komt uit overheidsregistraties zoals een subsidieregeling of milieujaarverslag dan wel uit directe waarneming (bij de grotere installaties) door het CBS.
+
+De gegevens over de aantallen en het vermogen van houtkachels voor warmte bij bedrijven zijn gebaseerd op inventarisaties onder de leveranciers van houtketels en houtkachels groter dan 18 kW. Voor deze inventarisatie stuurt het CBS elk jaar een vragenlijst naar de leveranciers.
+
+De uitsplitsing naar sector is gebaseerd op opgaven van de leveranciers van ketels en kachels. Ook de uitsplitsing naar provincie is gebaseerd op opgaven per installatie van de leveranciers van de ketels en kachels voor installaties groter dan 100 kW. Voor ketels en kachels kleiner dan 100 kW heeft het CBS geen gegevens per installatie. Voor deze ketels is de verdeling gebaseerd op de gemeenten van vestiging van de bedrijven die via de ISDE 2016–2019 een aanvraag voor een biomassaketel hebben gedaan.
+
+Door de non-respons op de CBS-vragenlijst, de onzekerheid over het aantal vollasturen van de houtketels en de timing van het uit gebruik nemen, bevatten de cijfers over de houtketels bij bedrijven een behoorlijke onzekerheid. Deze onzekerheid neemt echter iets af door de groei van het aandeel warmteproductie die volgt uit de data die overgenomen wordt uit de SDE-registratie. Al met al schat het CBS schat de onzekerheid op 30 procent.
+
+8.6 Stoken van biomassa door huishoudens
+
+Ongeveer een miljoen huishoudens hebben een houtgestookte installatie. Meestal worden deze installaties niet als hoofdverwarming gebruikt, maar bij elkaar wordt er toch een aanzienlijke hoeveelheid hout verstookt. Voor het eindverbruik van hernieuwbare energie telt de hoeveelheid verstookt hout en dit kwam in 2021 overeen met 6 procent van het bruto eindverbruik van hernieuwbare energie in Nederland.
+
+Daarnaast verbruiken veel Nederlandse huishoudens af en toe wat houtskool op de barbecue. Dit telt ook als verbruik van hernieuwbare energie. Het gaat om een tiende procent van het totale eindverbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+Bron: CBS en TNO
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers
+
+Binnen de huishoudelijke houtkachels worden vier soorten onderscheiden: open haarden, inzethaarden, vrijstaande kachels en pelletkachels. De laatste twee groepen worden veel vaker gebruikt en hebben een hoger rendement dan open haarden. Het aantal openhaarden daalt en het aantal inzethaarden blijft min of meer stabiel. Mogelijk door de concurrentie van de toegenomen verkopen van pelletkachels (met ISDE-subsidie tot 2020) daalt het aantal houtkachels. Het totale verbruik van hout door huishoudens is de laatste jaren ongeveer constant.
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.2 Houtkachels bij huishoudens uit (RVO en CBS, 2022).
+
+De gegevens voor de aantallen in gebruik zijnde huishoudelijke houtkachels, het houtverbruik en het rendement zijn afkomstig van een model van TNO wat geijkt is met data van CBS uit de energiemodule van WoON-onderzoek (Middelkoop en Segers, 2019).
+
+De verschillen met een schatting van het houtverbruik via de aanbodzijde zijn groot. Zowel de bepaling van het houtverbruik via de aanbodzijde (schatting van de opbrengst van brandhout uit bos, landschap, stedelijk groen en afval) als via de vraagzijde (enquête onder huishoudens) kent veel onzekerheden. Het CBS schat de onzekerheid in het houtverbruik op 30 procent (Middelkoop en Segers, 2019).
+
+De schatting van het houtskoolverbruik is gebaseerd op expertkennis van buiten het CBS. De database van het CBS-Budgetonderzoek bevat ook gegevens over het houtskoolverbruik. Door de beperkte waarneemperiode is het aantal waarnemingen van houtskoolaankopen klein en zit er veel statistische ruis in de uitkomsten. Het CBS schat de onzekerheid in het houtskoolverbruik op 50 procent.
+
+8.7 Stortgas
+
+Stortgas is biogas uit stortplaatsen. Het meeste afgevangen stortgas wordt omgezet in elektriciteit. Op vijf stortplaatsen wordt stortgas omgezet in een gas met eigenschappen die sterk lijken op die van aardgas. Dit groen gas wordt vervolgens in het aardgasnet geïnjecteerd. Daarnaast wordt er nog een beetje stortgas direct voor warmtetoepassingen gebruikt. In 2021 leverde het stortgas ongeveer 0,1 procent van het eindverbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+De productie van hernieuwbare energie uit stortgas is over haar hoogtepunt heen. De afname wordt veroorzaakt doordat steeds minder afval gestort wordt en het afval dat reeds gestort is steeds minder gas produceert (Rijkwaterstaat, 2015). Sinds 2014 neemt de hoeveelheid gestort afval licht toe (Rijkswaterstaat, 2018). Echter, het is daarmee niet zeker dat hieruit ook meer biogas gewonnen gaat worden. In 2020 is de winning van stortgas afgenomen naar rond de 400 terajoule. Voor 2021 zijn de cijfers nog niet compleet (alleen de cijfers over groen gasproductie zijn bekend, zie figuur 8.1.3) en zijn de cijfers van 2020 overgenomen.
+
+In 2021 zijn er aangescherpte duurzaamheidscriteria in gebruik genomen vanuit de RED II voor installaties boven de 2 MW die biogas gebruiken. Omdat de meeste installaties die biogas uit stortgas verbruiken onder deze grens zitten kon het bruto energetisch eindverbruik zonder problemen worden berekend voor 2021
+
+Bron: CBS
+
+1) Inclusief elektriciteit, warmte of vervoer toegerekend aan de productie van groen gas (biogas opgewaardeerd tot aardgaskwaliteit en geïnjecteerd in aardgasnet).
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is.
+
+** Nader voorlopige cijfers
+
+
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.6 Biogas uit (RVO en CBS, 2022).
+
+Tot en met 1996 komen de gegevens uit de energie-enquêtes van het CBS. Vanaf het jaar 1997 zijn de gegevens afkomstig uit de stortgasenquête in het kader van de Werkgroep Afvalregistratie (Rijkswaterstaat, 2015). Tot en met het verslagjaar 2004 werd deze enquête uitgevoerd door de Vereniging Afvalbedrijven, vanaf 2005 door Rijkswaterstaat Leefomgeving. In deze enquête worden energiegegevens van alle stortplaatsen gevraagd.
+
+De respons op de WAR-enquête is de laatste jaren (bijna) 100 procent. Eventuele ontbrekende gegevens zijn geschat op basis van de wel bekende gegevens. Het bruto eindverbruik van het in aardgas omgezette stortgas is berekend zoals beschreven in 8.1. De onzekerheid in het bruto eindverbruik van energie uit stortgas schat het CBS op 10 procent.
+
+8.8 Biogas uit rioolwater­zuiverings­installaties
+
+Biogas uit rioolwaterzuiveringsinstallaties (RWZI’s) komt vrij door het vergisten van het uit het zuiveringsproces geproduceerde zuiveringsslib. Slibgisting wordt vooral bij de grotere RWZI’s toegepast. Er zijn ongeveer 330 RWZI’s in Nederland en bij circa 70 RWZI’s wordt biogas gewonnen en nuttig gebruikt. Biogas uit RWZI’s draagt in 2021 ongeveer 1 procent bij aan het eindverbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+De productie van hernieuwbare energie met behulp van biogas uit RWZI’s was ongeveer stabiel tot en met 2010 maar nam daarna langzaam maar gestaag toe tot 2015. In de laatste vier jaar blijft het geleidelijk groeien. In 2020 komt de winning van biogas uit RWZI’s uit op 2,9 petajoule. Voor 2021 zijn de cijfers nog niet compleet (alleen de cijfers over groen gasproductie zijn bekend, zie figuur 8.1.3) en zijn de cijfers van 2020 overgenomen.
+
+In 2021 zijn er aangescherpte duurzaamheidscriteria in gebruik genomen vanuit de RED II voor installaties boven de 2 MW die biogas gebruiken. Omdat de meeste installaties die biogas uit RWZI’s verbruiken onder deze grens zitten kon het bruto energetisch eindverbruik zonder problemen worden berekend voor 2021.
+
+Bron: CBS
+
+1) Inclusief elektriciteit, warmte of vervoer toegerekend aan de productie van groen gas (biogas opgewaardeerd tot aardgaskwaliteit en geïnjecteerd in aardgasnet).
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers
+
+
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.6 Biogas uit (RVO en CBS, 2022).
+
+De gegevens zijn afkomstig uit de CBS-enquête Zuivering van Afvalwater. De respons op deze enquête is 100 procent. Vanaf het verslagjaar 2011 is het energiegedeelte van deze enquête gecombineerd met de uitvraag voor de Meerjarenafspraken Energiebesparing in samenwerking met Unie van Waterschappen, RVO en Arcadis. De grootste onzekerheid zit in de warmte; deze warmte wordt vaak niet gemeten maar geschat.
+
+Vanaf verslagjaar 2004 is voor het eerst gevraagd om de warmte uit te splitsen naar gebruiksdoel. Het blijkt dat een groot deel van de warmte wordt gebruikt om het productieproces van het biogas op temperatuur te houden. Deze warmte telt niet mee bij de berekening van het vermeden verbruik van fossiele primaire energie, maar wel bij de berekening van het bruto eindverbruik.
+
+Bij tien RWZI’s wordt het biogas omgezet in aardgas. Vanwege de geringe hoeveelheid, mogelijke vertrouwelijkheid van de gegevens en eenvoud werd deze aardgasproductie tot en met 2017 geteld als finaal verbruik van biogas.
+
+De onnauwkeurigheid van de hernieuwbare energie uit biogas van RWZI’s wordt geschat op 10 procent.
+
+8.9 Biogas, co- en monovergisting van mest
+
+Co- en monovergisting van mest omvat de productie van biogas uit het vergisten van mest, al dan niet samen met andere plantaardige materialen. Gemakshalve wordt co- en monovergisting van mest ook aangeduid als mestvergisting. Monovergisting van mest komt in kleine hoeveelheden voor, in 2021 was 7 procent van de energieproductie uit mestvergisting afkomstig uit een monovergister (inclusief vergisting met 95%-mestgehalte). Co- en monovergisting van mest leverde in 2021 ongeveer 3 procent van het eindverbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+Na een snelle opkomst van de mestvergisting onder invloed van de MEP-subsidie in de jaren tot en met 2008 vlakte de groei of trad er zelfs een daling op mede door de hoge prijzen van de co-substraten (Peene et al., 2011 en van den Boom en van der Elst, 2013). Daarna groeide het eindverbruik doordat, onder invloed van de aangepaste subsidieregels, er steeds meer warmte geproduceerd door de WKK-installaties. Vanaf 2018 is er voor het sinds lange tijd weer een duidelijke groei van de totale winning en verbruik van biogas uit mestvergisting. Dat hangt vooral samen met de toename van de productie van groen gas. In 2021 werd 46 procent van het biogas uit mest daarvoor ingezet.
+
+In 2021 zijn er aangescherpte duurzaamheidscriteria in gebruik genomen vanuit de RED II voor installaties boven de 2 MW die biogas gebruiken. Omdat de implementatie hiervan nog onzeker is is voor de voorlopige cijfers van 2021 aangenomen dat de helft van het eindverbruik van biogas uit mest voor elektriciteit en warmte mogelijk niet mee mag tellen. Biogas voor vervoer valt onder al lang bestaande certificering qua duurzaamheid volgens de RED en wordt gecontroleerd door de NEa. Dit telt daarom zeker volledig mee.
+
+Bron: CBS
+
+1) Aan het einde van het verslagjaar.
+
+2) Inclusief elektriciteit, warmte of vervoer toegerekend aan de productie van groen gas (biogas opgewaardeerd tot aardgaskwaliteit en geïnjecteerd in aardgasnet).
+
+3) Renewable Energy Directive (RED II)/EU-Richtlijn uit 2018
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers
+
+
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.6 Biogas uit (RVO en CBS, 2022).
+
+De bruto elektriciteitsproductie van de mestvergisters is bepaald aan de hand van gegevens uit de administratie van de certificaten voor Garanties van Oorsprong voor groene stroom van CertiQ.
+
+De certificaten voor Garanties van Oorsprong voor groene stroom van CertiQ of groen gas van Vertogas zijn een noodzakelijke voorwaarde voor de subsidie of claim voor de verplichting hernieuwbare energie voor vervoer, die weer een noodzakelijke voorwaarde is voor het rendabel exploiteren van mestvergisters. Het is dus zeer waarschijnlijk dat de administratie van CertiQ en Vertogas samen een nagenoeg volledig beeld geeft van de elektriciteits- en groen gasproductie door biogasinstallaties op landbouwbedrijven. De onzekerheid in de bruto elektriciteits- en groen gasproductie wordt daarom geschat op maximaal 5 procent. De onzekerheid in de warmteproductie is iets groter, omdat de warmte voor de gisting geschat wordt met een kengetal. Het CBS schat de totale onzekerheid in het bruto eindverbruik van co-vergisting van mest op 5 á 10 procent.
+
+8.10 Overig biogas
+
+Overig biogas omvat vanaf de jaren negentig biogas uit afvalwater dat gewonnen en gebruikt wordt in de voedingsmiddelenindustrie. Daar wordt via anaerobe afvalwaterzuivering biogas gewonnen dat wordt gebruikt voor de opwekking van elektriciteit en/of proceswarmte. Later zijn daar andere natte biomassastromen bijgekomen, zoals groente- fruit- en tuinafval of afval uit de voedingsmiddelenindustrie. Het gaat momenteel om projecten op ongeveer 40 locaties die in 2021 goed zijn voor bijna 2 procent van het bruto eindverbruik van hernieuwbare energie.
+
+Ontwikkelingen
+
+Bron: CBS
+
+1) Inclusief elektriciteit of warmte toegerekend aan de productie van groen gas (biogas opgewaardeerd tot aardgaskwaliteit en geïnjecteerd in aardgasnet).
+
+2) Renewable Energy Directive (RED II)/EU-Richtlijn uit 2018
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+**Nader voorlopige cijfers
+
+
+
+De productie van hernieuwbare energie uit overig biogas nam, met een uitschieter in 2015, gestaag toe; in 2021 nam de inzet van overig biogas af met 5 procent. Dit kwam door een lagere inzet voor de productie van groen gas. De toename tot en met 2010 betreft vooral nieuwe projecten waarbij elektriciteit wordt gemaakt uit biogas. Het opstarten was toen relatief aantrekkelijk vanwege de ondersteuning via de MEP-regeling.
+
+Vanaf 2011 wordt steeds meer overig biogas ingezet voor de productie van aardgas, ook wel groen gas genoemd. De productie van groen gas wordt ondersteund door de SDE–subsidieregeling en de mogelijkheid om groen gas mee te laten voor het voldoen aan de verplichting hernieuwbare energie voor vervoer. Eind 2021 werd op ongeveer 20 locaties groen gas gemaakt uit overig biogas. De productie van groen gas uit overig biogas nam in 2021 af met 11 procent. Groen gas blijft wel de belangrijkste bestemming van het biogas. De inzet van het biogas voor de productie van warmte en elektriciteit via warmtekrachtinstallaties bleef in 2021 nagenoeg gelijk aan 2020.
+
+In 2021 zijn er aangescherpte duurzaamheidscriteria in gebruik genomen vanuit de RED II voor installaties boven de 2 MW die biogas gebruiken. Omdat de implementatie hiervan nog onzeker is is voor de voorlopige cijfers van 2021 aangenomen dat de helft van het eindverbruik van overig biogas voor elektriciteit en warmte mogelijk niet mee mag tellen. Omdat het biogas verbruikt voor vervoer groen gas betreft en dit via andere duurzaamheidscriteria wordt getoetst is dit wel volledig meegenomen.
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.6 Biogas uit (RVO en CBS, 2022).
+
+Voor biogas in de industrie berust de waarneming deels op de reguliere CBS-enquêtes voor de winning, omzetting en het gebruik van energie. Non-respons wordt bijgeschat op basis van historische gegevens.
+
+Van veel nieuwere projecten, vaak buiten de industrie, is de elektriciteitsproductie bekend bij CertiQ en de groengasproductie bij Vertogas. Het CBS ontvangt deze productiegegevens van CertiQ en Vertogas en gebruikt de gegevens als basis om de benodigde gegevens uit te rekenen zonder directe waarneming.
+
+Het zwakste punt in de waarneming is de schatting van de warmteproductie, omdat warmte vaak niet wordt verkocht en daarom ook vaak niet wordt gemeten. Het CBS schat de onzekerheid in de hernieuwbare energie uit overig biogas op 10 procent.
+
+8.11 Vloeibare biotransportbrandstoffen
+
+Biobrandstoffen voor het wegverkeer zijn duurder dan de op aardolie gebaseerde brandstoffen. Om het verbruik van biobrandstoffen te stimuleren heeft de overheid de leveranciers van benzine en diesel vanaf 2007 verplicht om deze te leveren. Leveranciers kunnen ook (deels) aan deze verplichting voldoen door aardgas voor vervoer te administratief te vergroenen met groen gas certificaten uit Nederland mits over dit productie van dit groene gas geen subsidie wordt verstrekt.
+
+De meeste biobrandstoffen kunnen in pure vorm niet in gewone motoren van wegvoertuigen gebruikt worden. Motoren van bestaande wegvoertuigen draaien wel op met biobrandstoffen bijgemengde benzine en diesel, zolang de bijmengpercentages niet te groot worden. De meeste biobrandstoffen worden daarom in bijgemengde vorm op de markt gebracht.
+
+Het overheidsbeleid voor biobrandstoffen wordt sterk beïnvloed door Europese richtlijnen. Eerst was er de EU-Richtlijn voor Hernieuwbare Brandstoffen in het vervoer uit 2003 (Europees Parlement en de Raad, 2003). In deze richtlijn hebben lidstaten een niet bindende afspraak gemaakt om het aandeel biobrandstoffen op te laten lopen van 2 procent in 2005 tot 5,75 procent in 2010. De richtlijn was aanleiding voor het Besluit Biobrandstoffen ( Staatsblad , 2006), dat leveranciers verplichtte om biobrandstoffen te leveren.
+
+Later kwam er discussie over de wenselijkheid van biobrandstoffen. Als voordelen van biobrandstoffen worden genoemd: de reductie van broeikasgasemissies en de verminderde afhankelijkheid van de steeds schaarser wordende fossiele olie, die regelmatig afkomstig is uit landen waarmee de politieke relatie als instabiel wordt ervaren. Als nadeel van biobrandstoffen wordt vaak genoemd dat reductie van broeikasgasemissies maar zeer beperkt is, soms zelfs nihil, als alle, vaak indirecte, effecten worden meegenomen (Europese Commissie, 2012), ook al is het lastig om de indirecte effecten te berekenen. Ook kunnen biobrandstoffen concurreren met voedsel, wat daardoor duurder kan worden. Tot slot kunnen natuurgebieden bedreigd worden door een toename van de teelt van biobrandstoffen.
+
+In de RED I uit 2009 was bindend afgesproken dat in 2020 10 procent van alle energie voor vervoer uit hernieuwbare bronnen afkomstig is. Hernieuwbare elektriciteit voor vervoer telt daarbij ook mee (zie paragraaf 2.4). Biobrandstoffen voor vervoer zijn de belangrijkste component voor deze vervoersdoelstelling en de verwachting is dat dit voorlopig zo blijft (Rijksoverheid, 2010). Als gevolg van de discussie over de wenselijkheid van biobrandstoffen zijn in de EU-Richtlijn hernieuwbare energie duurzaamheidscriteria opgenomen voor vloeibare biomassa. Deze criteria moeten waarborgen dat bij de productie van de gebruikte vloeibare biomassa mensen, natuur en milieu voldoende worden beschermd. In 2015 is de Richtlijn aangepast en is afgesproken dat het verbruik van biobrandstoffen uit voedselgewassen beperkt wordt tot 7 procent van het totaal verbruik van benzine, diesel en elektriciteit voor vervoer. Zie ook paragraaf 2.4. Vanaf verslagjaar 2021 geldt de vernieuwde EU Richtlijn Hernieuwbare Energie (RED II), waarin is opgenomen dat dit aandeel moet oplopen tot 14 procent 2030 volgens een indicatief traject dat lidstaten zelf moeten vaststellen (artikel 25, RED II). De definitie van het aandeel hernieuwbare energie voor vervoer in RED II is wel anders dan in RED I, zie ook paragraaf 2.4.
+
+In de afgelopen jaren liep de verplichting voor oliebedrijven tot het leveren van biobrandstoffen langzaam op van 4 procent in 2010 tot en met 8,5 procent in 2018 ( Besluit Hernieuwbare Energie Vervoer 2015 , Staatsblad, 2014), geleidelijk oplopend naar 16,4 procent in 2020 ( Besluit Energie Vervoer Staatsblad, 2018). Voor 2021 is dit percentage verder opgelopen naar 17,5 procent (NEa, 2022).
+
+Bedrijven moeten aantonen dat de door hen geleverde biobrandstoffen voldoen aan de duurzaamheidscriteria uit de RED. Dat doen ze door gebruik te maken van certificeringssystemen. De Nederlandse Emissieautoriteit (NEa) controleert of bedrijven voldoende gecertificeerde biobrandstoffen op de markt hebben gebracht.
+
+Biobrandstoffen uit afval en houtachtige materialen worden als extra duurzaam gezien. Om het gebruik van deze biobrandstoffen extra te stimuleren mogen deze dubbel geteld worden voor de transportdoelstelling uit de EU-Richtlijn Hernieuwbare Energie . Voor de overall doelstelling voor hernieuwbare energie geldt deze dubbeltelling niet. Voor de nationale bijmengplicht geldt een dubbeltelling vanaf het verslagjaar 2009 ( Staatscourant , 2009)
+
+In 2021 was de bijdrage van biobrandstoffen voor het wegverkeer aan het totaal bruto eindverbruik van hernieuwbare energie 10 procent.
+
+Ontwikkelingen
+
+Het fysieke verbruik van duurzame vloeibare biobrandstoffen is in 2021 gestegen van 24 naar 28 petajoule. Het verbruik van biobenzine bleef ongeveer gelijk aan 2020 en dat van biodiesel nam toe met 21 procent. Bij biodiesel wordt grotendeels gebruik gemaakt van dubbeltellende biobrandstoffen, bij biobenzine voor het grootste deel van enkeltellende. De NEa publiceert jaarlijks een rapport met veel informatie over de herkomst en aard van de biobrandstoffen die meetellen voor de nationale verplichting (NEa, 2022).
+
+Het verbruik van biobrandstoffen voor vervoer loopt niet gelijk op met de verplichting, onder andere omdat de bedrijven de mogelijkheid hebben om het ene jaar extra hernieuwbare energie op de markt te brengen en deze extra inspanning administratief mee te nemen naar een volgend jaar. Daarnaast bood voor de jaren 2015 tot en met 2017 de wet- en regelgeving Energie voor Vervoer de bedrijven de mogelijkheid om biobrandstoffen te tellen voor de verplichting op een moment dat nog niet zeker was dat ze daadwerkelijk fysiek op de Nederlandse markt zouden komen (het telmoment van het CBS). Met ingang van het verslagjaar 2018 is wet- en regelgeving aangescherpt en zijn de verschillen tussen de bij NEa getelde biobrandstoffen en de door het CBS getelde biobrandstoffen veel kleiner geworden.
+
+Vanaf verslagjaar 2018 is het voor oliebedrijven mogelijk om biobrandstoffen geleverd aan schepen mee te tellen voor de verplichting om hernieuwbare energie voor vervoer te leveren. Als gevolg daarvan worden sinds 2018 ook biobrandstoffen geleverd aan schepen. De meeste van deze schepen varen naar het buitenland en als gevolg daarvan tellen deze leveringen als bunkers, een soort export, en niet bij het verbruik. De hoeveelheid bijgemengde biodiesel in bunkerbrandstoffen is enorm gestegen in 2020, van 2 naar bijna 10 petajoule.
+
+Bron: CBS
+
+1) Vanaf 2011 afgeleid uit opgaven van oliebedrijven aan NEa. In de jaren daarvoor was er nog geen verplichting tot het gebruik van systemen voor certificatie van de duurzaamheid van biomassa. In Europees verband is afgesproken om tot en met 2010 alle vloeibare biomassa als duurzaam te tellen.
+
+2) Volgens de berekening van de doelstelling voor hernieuwbare energie totaal uit de EU-richtlijn Hernieuwbare Energie uit 2009, dus zonder dubbeltelling.
+
+3) Dubbeltellend voor de verplichting uit de wet Hernieuwbare Energie Vervoer en de doelstelling voor hernieuwbare energie voor vervoer uit de EU-richtlijn Hernieuwbare Energie uit 2009.
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers.
+
+Bron: CBS
+
+1) Het gaat in deze tabel om alle biobrandstoffen, ongeacht of ze voldoen aan de duurzaamheidscriteria. Dit in tegenstelling tot tabel 8.11.2 waar het alleen gaat om duurzame biobrandstoffen.
+
+2) Dit zijn leveringen aan schepen die naar het buitenland varen en telt mee als een soort export en niet bij het verbruik.
+
+Een punt (.) betekent dat een cijfer onbekend, onvoldoende betrouwbaar of geheim is. Niets (blanco) geeft aan dat een cijfer op logische gronden niet kan voorkomen.
+
+** Nader voorlopige cijfers
+
+In 2021 was de Nederlandse productie van biodiesel ruim 76 petajoule. Dat is veel meer dan het binnenlands verbruik (18 petajoule) en de hoeveelheid in Nederland gebunkerde biobrandstoffen (7 petajoule). Een groot deel van de geproduceerde biodiesel gaat dan ook naar het buitenland.
+
+De productiecapaciteit van de biodieselfabrieken is in 2021, gestegen naar ruim 86 petajoule. Hiermee komt de bezettingsgraad van de installaties voor biodiesel uit op 88 procent.
+
+In Nederland wordt ook biobenzine geproduceerd. Het gaat om bio-ethanol, bio-methanol en bionafta. Er zijn niet zoveel fabrieken voor de productie van biobenzine. Daarom zijn de uitkomsten over de productie vertrouwelijk.
+
+Methode
+
+Zie voor een omschrijving van de methode inclusief rekenvoorbeelden 4.6.7 Vloeibare biotransportbrandstoffen uit (RVO en CBS, 2022).
+
+De cijfers over de productie van biobrandstoffen zijn afgeleid uit een enquête van het CBS. De respons op deze enquête was bijna 100 procent. Voor de energie-inhoud is gebruik gemaakt van de standaardwaarden uit de EU-Richtlijn voor Hernieuwbare Energie .
+
+De waarneming voor de handel, bijmenging en het verbruik van biobrandstoffen is gebaseerd op een combinatie van gegevens uit:
+
+de biobrandstoffenrapportages die oliebedrijven inleveren bij de Nederlandse Emissieautoriteit (NEa)
+
+de aardoliestatistiek van het CBS.
+
+In het kader van de bijmengplicht leveren oliebedrijven jaarlijks een rapportage aan de overheid over de hoeveelheid voor de markt geclaimde duurzame biobrandstoffen per locatie, inclusief de aard en oorsprong van de grondstoffen van de geleverde biobrandstoffen. Het CBS heeft per bedrijf de fysieke gegevens uit deze rapportages ontvangen van de NEa.
+
+Voor de CBS-oliestatistiek vullen alle belangrijke spelers op de oliemarkt (raffinaderijen, petrochemische industrie, handelaren en opslagbedrijven) elke maand een formulier in, met per olieproduct een complete balans. Bio-ETBE, bio-MTBE, biobenzine en biodiesel worden apart onderscheiden. De respons op deze enquête was 100 procent voor de bedrijven die relevant zijn voor biobrandstoffen. Er is echter wel een onzekerheid in de resultaten voor de balans van pure biobrandstoffen door het gebrek aan kwaliteit en volledigheid van de respons bij sommige bedrijven en doordat niet alle bedrijven die biobrandstoffen opslaan in de populatie zitten.
+
+Veel bedrijven hebben moeite met het beantwoorden van de vraag over de aanvoer en aflevering van bijgemengde biobrandstoffen. Om de administratieve lasten te beperken, staat het CBS toe dat deze vraag niet maandelijks wordt ingevuld. In plaats daarvan ontvangen de relevante bedrijven een extra vragenlijst waarin deze informatie op jaarbasis wordt uitgevraagd. Daarbij kunnen bedrijven ook aan de informatievraag van het CBS voldoen door het geven van een toelichting op gegevens die het bedrijf al aan de NEa heeft verstrekt. Voorwaarde daarvoor is dan wel dat de informatie van de NEa voldoende compleet is wat betreft de fysieke stromen van biobrandstoffen voor binnen- en buitenland.
+
+De informatie van de NEa over biobrandstoffen is in principe betrouwbaar en voor het CBS altijd een cruciale bron. Door definitieverschillen tussen de Energiestatistieken en de wet- en regelgeving Energie voor Vervoer moet CBS soms een vertaalslag maken, vaak op basis van extra informatie van de bedrijven. Deze vertaalslag kent echter wel een onzekerheid en daardoor is in de jaren met weinig definitieverschillen de onzekerheid in de CBS-cijfers relatief klein. Met ingang van verslagjaar 2018 is de wet- en regelgeving aangepast met het gevolg dat het verschil tussen belaste leveringen tussen CBS en NEa een stuk kleiner is geworden.
+
+De oliestatistiek van het CBS richt zich op fysieke stromen en voorraden. Echter, voorraden van bijgemengde biobrandstoffen worden slechts door een enkel bedrijf gerapporteerd, omdat het lastig is om gegevens over bijgemengde biobrandstoffen af te leiden uit de bedrijfsadministratie. Daarom neemt het CBS aan dat de veranderingen in de fysieke voorraden van bijgemengde biobrandstoffen nihil zijn en dat de bijgemengde biobrandstoffen direct worden geëxporteerd of geleverd op de binnenlandse markt.
+
+De eigen waarneming van het CBS bevat geen informatie over de duurzaamheid van de gebruikte biobrandstoffen, de dubbeltelling van biobrandstoffen en de vermeden emissies van broeikasgassen. Echter, door het combineren van informatie uit de rapportages aan de NEa met fysieke afzetcijfers kan het CBS toch deze informatie afleiden.
+
+De onzekerheid in de cijfers over de (fysiek) op de markt gebrachte biobrandstoffen zit vooral in de bestemming van de biobrandstoffen nadat ze door de bedrijven zijn geclaimd voor de Nederlandse markt bij de NEa. Komen deze op de binnenlandse markt, of worden ze uiteindelijk geëxporteerd? Het CBS schat de onzekerheid in de cijfers over de op de Nederlandse markt gebrachte biobrandstoffen op ongeveer 5 procent voor verslagjaar 2021.
+
+
+
+Literatuur
+
+Agentschap NL (2013), Statusdocument bio-energie 2012 .
+
+Boom, van den en van der Elst, C. (2013), Toekomst Biogas: Van laagwaardige input naar hoogwaardige output Rabobank Food & Agri Thema-update: Biogas, Januari 2013.
+
+CBS (2022a), , update 2020, februari 2022.
+
+CBS StatLine (2022b), , augustus 2022.
+
+CE (2022) , mei 2022.
+
+CertiQ (2022), , Statistisch jaaroverzicht 2021.
+
+Europees Parlement en de Raad (2003), Richtlijn 2003/30/EG ter bevordering van het gebruik van biobrandstoffen of andere hernieuwbare brandstoffen in het vervoer .
+
+Europees Parlement en de Raad (2009), Directive of the European Parliament and of the Council of 23 April 2009 on the promotion of the use of energy from renewable sources and amending and subsequently repealing Directives 2001/77/EC and 2003/30/EC.
+
+Europees Parlement en de Raad (2015), Directive of the European Parliament and of the Council of 9 September 2015, amending Directive 98/70/EC relating to the quality of petrol and diesel fuels and amending Directive 2009/28/EC on the promotion of the use of energy from renewable sources.
+
+Europees Parlement en de Raad (2018), RICHTLIJN (EU) 2018/2001 VAN HET EUROPEES PARLEMENT EN DE RAAD van 11 december 2018 ter bevordering van het gebruik van energie uit hernieuwbare bronnen.
+
+Europese Commissie (2012), Proposal for a DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Directive 98/70/EC relating to the quality of petrol and diesel fuels and amending Directive 2009/28/EC on the promotion of the use of energy from renewable sources. COM(2012) 595 final.
+
+Europese Commissie (2013), Besluit van de Commissie tot vaststelling van de richtsnoeren inzake de berekeninge van de Hernieuwbare energie uit warmtepompen.., C(2013) 1082.
+
+Eurostat (2011), Minutes of the meeting of the Working Party on “Renewable Energy Statistics” in December 2010.
+
+Eurostat (2022), SHARES 2020 results .
+
+Geothermie Nederland (2022),
+
+Kremer en Segers (2018), Zonnestroom naar regio , CBS Website
+
+
+
+Lensink, S.M., Wassenaar, J.A., Mozaffarian, M., Luxembourg, S.L., Faasen, C.J. (2012), Basisbedragen in de SDE+ 2013 Conceptadvies. ECN en KEMA, ECN-E--12-017.
+
+Middelkoop en Segers (2019), , Website CBS, oktober 2019 .
+
+Ministerie van Economische Zaken (2006), Doelstelling 9 procent duurzame elektriciteit in 2010 gehaald . Persbericht, 18 augustus 2006.
+
+Ministerie van Economische Zaken en Klimaat (2020) .
+
+Ministerie van Economische Zaken en Klimaat (2022)
+
+Nederlandse Emissieautoriteit (2015), Naleving jaarverplichting 2014 hernieuwbare energie vervoer en verplichting brandstoffen luchtverontreiniging , NEa, juli 2015.
+
+Nederlandse Emissieautoriteit (2022), Rapportage Energie voor Vervoer in Nederland 2021, 2022.
+
+Peene, P., Velghe F., Wierinck, I. (2011), Evaluatie van de vergisters in Nederland . Organic Waste Systems NV (OWS) in opdracht van Agentschap NL, september 2011, Gent, België.
+
+Platform Bio-Energie en Rijksdienst voor Ondernemend Nederland (2022), GEBRUIK VAN HOUTIGE BIOMASSA VOOR ENERGIEOPWEKKING PBE Jaarrapportage 2021, juni 2022.
+
+PBL (2019) Klimaat- en Energieverkenning, november 2019
+
+PBL (2020a)
+
+PBL (2020b) , december 2020
+
+PBL (2021), , 2021
+
+PricewaterhouseCoopers Advisory (PwC) (2019), Importheffing Buitenlands Afval en Uitstoot van Broeikasgassen, september 2019
+
+Rijksdienst voor Ondernemend Nederland (2017), Download Uitgaven MEP SDE(+) per regeling,
+
+
+
+Rijksdienst voor Ondernemend Nederland (2021a), Monitoringrapportage RVO Energie-Innovatie regelingen 2020
+
+Rijksdienst voor Ondernemend Nederland (2021b), Monitor Zon-pv 2020 in Nederland. Statusrapport Zon-pv in Nederland, peildatum 31-12-2020, september 2021
+
+Rijksdienst voor Ondernemend Nederland (2022a), Projecten in beheer SDE(+)(+)
+
+
+
+Rijksdienst voor Ondernemend Nederland (2022b), Kasuitgaven per technologie en Verwachte kasuitgaven,
+
+
+
+Rijksdienst voor Ondernemend Nederland (2022c),
+
+Rijksdienst voor Ondernemend Nederland (2022d), . Augustus 2022.
+
+Rijksdienst voor Ondernemend Nederland (2022e), , mei 2022.
+
+Rijksdienst voor Ondernemend Nederland (2022f), Monitor Zon-PV 2022 in Nederland. Statusrapport Zon-PV in Nederland, peildatum 31/12/2021. Utrecht: Rijksdienst voor Ondernemend Nederland, september 2021
+
+Rijksdienst voor Ondernemend Nederland (2022g),
+
+Rijksdienst voor Ondernemend Nederland en CBS (2022), , update 2022 .
+
+Rijksoverheid (2010), Nationaal actieplan voor energie uit hernieuwbare bronnen , Richtlijn 2009/28/EG.
+
+Rijksoverheid (2015), Kamerbrief Warmtevisie , april 2015.
+
+
+
+Rijksoverheid (2018), Nuon krijgt vergunning voor windpark zonder subsidie , maart 2018. https://www.rijksoverheid.nl/actueel/nieuws/2018/03/19/nuon-krijgt-vergunning-voor-windpark-zonder-subsidie
+
+Rijksoverheid (2019). . Rijksoverheid, juli 2019.
+
+Rijksoverheid (2020a) . Rijksoverheid, juni 2020
+
+Rijksoverheid (2020b). . Rijksoverheid, juli 2020.
+
+Rijksoverheid (2022a), , juni 2022
+
+Rijksoverheid (2022b), , juni 2022
+
+Segers, R. (2008), Three options to calculate the percentage renewable energy: an example for a EU policy debate . Energy Policy 36, p. 3243-3248.
+
+Segers, R. (2010), Energiebalans van Nederland: CBS versus IEA, Eurostat en UNFCCC , CBS website maart 2010.
+
+Segers, R. en Busker, H. (2015), Equivalent full load hours for heating of reversible air-air heat pumps , CBS, juni 2015.
+
+SenterNovem (2005), Windkaart van Nederland op 100 m hoogte . Uitgevoerd door KEMA. Publicatienummer 2 DEN-05.04, SenterNovem, Utrecht.
+
+SER (2013), Energieakkoord voor duurzame groei , website SER, september 2013.
+
+SER (2020), Advies Biomassa in balans, juli 2020
+
+Staatsblad (2006), Besluit Biobrandstoffen , nummer 542.
+
+Staatsblad (2014), Besluit Hernieuwbare Energie Vervoer, 2015 , nummer 460.
+
+Staatsblad (2018), Besluit Energie Vervoer , nummer 134.
+
+Staatscourant (2009), Regeling dubbeltelling betere biobrandstoffen , nummer 18709.
+
+Staatscourant (2019), , december 2019
+
+TNO (2020a) De bijdrage van verbranden van geïmporteerd afval aan de Nederlandse en Europese CO2-emissies., april 2020.
+
+TNO (2020b) Aanpassing TNO houtkachelmodel aan de WoON 2018 houtverbranding enquêteresultaten en prognoses van emissies van huishoudelijke houtkachels tot 2030, november 2020
+
+Vereniging Afvalbedrijven (2019), , december 2019.
+
+VVD en PvdA (2012), Bruggen slaan . Regeerakkoord, 29 oktober 2012.
+
+Warmerdam, J.M.(2003), Bijdrage Thermische zonne-energie 2002 . Ecofys i.o.v de NOVEM, Utrecht.
+
+
+
+

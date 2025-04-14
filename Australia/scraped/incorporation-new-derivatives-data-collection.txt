@@ -1,0 +1,28 @@
+Date:
+2021-12-16
+Article Title:
+ Incorporation of a New Derivatives Data Collection
+
+Article Content:
+This issue of the Australian National Accounts: Finance and Wealth includes the incorporation of the final stage, the derivative data collection of the Economic and Financial Statistics (EFS) collection. The EFS derivative collection captures derivative activity for Authorised deposit taking institutions (ADIs) and Registered Financial Corporations (RFCs) with domestic sectors and non residents. The derivative estimates are revised back to the June quarter 1994 and impacts the financial accounts and balance sheets.
+The September quarter 2021 release of the ABS Balance of Payments and International Investment Position replaced the data from the ABS Survey of International Investment for ADIs and RFCs with the EFS collection.
+Since the late 1990’s the ABS has intermittently consulted with ADIs and RFCs to assess the feasibility of sourcing derivatives estimates consistent with the System of National Accounts (SNA) principles. These consultations concluded that respondents were not able to report the data required to compile domestic derivatives estimates to SNA standards.
+The problems encountered were:
+As a result the ABS relied on a simple model to estimate the domestic derivatives market, which incorporated derivative activity with non residents from the ABS Survey of International Investment (SII).
+The problems encountered in collecting derivative data highlighted above were addressed during the development and implementation of the EFS collection. This was done through the provision of improved conceptual and practical guidance, and the development of systems by ADIs and RFCs which looked through the general ledger and harnessed data from the underlying trading systems.
+Confrontation against the new EFS estimates highlighted errors in the derivative model used to construct the previously published series. The errors include:
+The previously published series were corrected for these errors and were used to backcast the new EFS estimates. The correction of the errors was the main driver of changes to both the gross and net positions of ADIs and counterparty sectoral distributions in the back series.
+The implementation of the EFS derivatives data resulted in the introduction of estimates for three new counterparty sectors:
+Figure 1 to 3 below compare the September quarter 2021 derivative estimates with derivatives estimates published in the June quarter 2021. They include positions with both resident and non resident counterparties.
+  Partitioning changes in value during a period into transactions, valuation changes and volume changes.
+  Identifying contracts moving from a net asset to net liability position (or vice versa) through valuation changes.
+  Identifying of new contracts to a position during a quarter and settled contracts disappearing from a position during a quarter.
+  Identifying contracts by sector of counterparty.
+  For trading corporations and government entities: separation of derivatives from the underlying assets/liabilities being hedged.
+  Measuring contracts in a gross asset position and contracts in a gross liability position when they were settled on a net basis.
+  An overstatement of the liabilities of ADIs, particularly evident from the June quarter 2017.
+  Data quality issues in some input series within the derivative model.
+  The inclusion of derivative movements from the ABS SII in the extrapolation of estimates from the June quarter 2019 resulted in the overestimation of the ADI gross domestic asset and liability positions and distorted their net exposure.
+  Private non financial investment funds,
+  Public non financial corporations,
+  The household sector (reflecting the use of derivatives by family trusts to hedge interest rates).

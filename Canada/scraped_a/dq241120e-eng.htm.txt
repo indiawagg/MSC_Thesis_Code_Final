@@ -1,0 +1,13 @@
+Date:
+2024-11-20
+Article Title:
+The Daily — Active and public transportation spatial accessibility measures: Methodology and key results, 2022
+Article Content:
+Released: 2024 11 20
+This release provides methodological details and results of the spatial access measures produced by the Data Exploration and Integration Lab, Centre for Special Business Projects in partnership with Housing, Infrastructure and Communities Canada. 
+A total of 28 measures were produced for seven types of services or amenities and four modes of transportation. The service or amenity destinations include employment, healthcare facilities, public primary and secondary education facilities, public post secondary facilities, grocery stores, sports and recreation facilities, and cultural and art facilities. 
+For each of these destinations, the four transportation modes considered in this analysis are: access via public transit during peak hours, access via public transit during off peak hours, access via cycling and access via walking. Results were released in four databases, available online, one for each transportation mode variant. 
+All the Spatial Access Measures are computed at the dissemination block level for all of Canada. 
+The paper "Active and Public Transportation Spatial Accessibility Measures: Methodology and Key Results" is now available online
+The Spatial Access Measures database is also available online. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

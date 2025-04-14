@@ -1,0 +1,14 @@
+Date:
+2024-06-19
+Article Title:
+The Daily — Canadian Income Survey: Territorial estimates, 2022
+Article Content:
+Released: 2024 06 19
+In 2022, families and unattached individuals living in the territories had a median after tax income of $89,500, little changed from the previous year after adjusting for inflation. The Northwest Territories ($100,500) had the highest median after tax income, followed by Nunavut ($86,200) and Yukon ($84,500).
+The poverty rate in the territories was 24.2% in 2022, while the share of people in households with some form of food insecurity was 36.4%. Higher prices of goods and services may have been important contributors to higher poverty and food insecurity levels in Canada in 2022.
+Residents in the territorial capitals typically have higher incomes than those living outside the capital. The median after tax income of families and unattached individuals in 2022 was $108,300 in Yellowknife, while it was $104,300 in Iqaluit and $86,700 in Whitehorse.
+According to the Northern Market Basket Measure, 24.2% of the population living in the territories was below the poverty line in 2022, compared with 20.2% in 2021. The poverty rate for Yukon was 12.9% (about 5,200 people) in 2022, while it was 17.1% (about 7,300 people) for the Northwest Territories and 44.5% (about 16,700 people) for Nunavut. In comparison, according to the 2018 base Market Basket Measure, 9.9% of the population in the provinces was living in poverty in 2022.
+Statistics Canada also reports low income using the low income measure. According to the low income measure after tax (LIM AT), 16.0% of the population of the territories (about 19,300 people) lived in low income in 2022. By comparison, the low income rate for the provinces was 11.9% in 2022.
+It should be noted that unlike the Market Basket Measure, the LIM AT does not take into account regional differences in cost of living.
+In 2022, 36.4% of people in the territories lived in a household that experienced marginal, moderate or severe food insecurity. This represented a 10.0 percentage point increase from the 2021 rate of 26.4%. Food insecurity rates varied by territory, with Nunavut (62.6%) having the highest rate in 2022, followed by the Northwest Territories (27.6%) and Yukon (21.4%). In comparison, 22.9% of people in the provinces lived in households that reported some form of food insecurity in 2022.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

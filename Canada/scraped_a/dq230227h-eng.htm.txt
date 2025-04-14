@@ -1,0 +1,9 @@
+Date:
+2023-02-27
+Article Title:
+The Daily — Data availability: Pilot Study on Everyday Well-being, 2021
+Article Content:
+Released: 2023 02 27
+Data related to the Pilot Study on Everyday Well being are now available. This study represents Statistics Canada's first use of an application for mobile devices as a survey collection instrument and first use of the Experience Sampling Method to measure subjective well being.
+This data will be made available in the research data centres.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

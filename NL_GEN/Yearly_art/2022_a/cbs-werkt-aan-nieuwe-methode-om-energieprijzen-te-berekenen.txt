@@ -1,0 +1,30 @@
+Title: CBS werkt aan nieuwe methode om energieprijzen te berekenen
+Date: 2022-09-21 08:00:00 UTC
+
+Lead Text:
+                De stijgende energieprijzen en de hoge inflatie zorgen al geruime tijd voor bezorgdheid bij huishoudens. Dagelijks verschijnen er allerlei berichten over in de media. Het CBS heeft in twee eerdere artikelen uitgelegd hoe de energieprijzen in belangrijke mate van invloed zijn op de algehele toename van de inflatie. Daarnaast is het CBS onderzoek gestart naar een methode waarmee de actuele ontwikkelingen van energieprijzen verfijnder in kaart kunnen worden gebracht. Daarvoor maakt het statistiekbureau gebruik van data van de energiemaatschappijen die van voldoende kwaliteit zijn voor gebruik in de officiële statistiek. CBS-onderzoeker Hugo de Bondt vertelt er meer over.
+            
+
+Article Content:
+Dit is een geüpdatete versie van het artikel dat eerder op 15 september verscheen. De laatste alinea is toegevoegd.
+Grote hoeveelheden gegevens
+In juli en augustus van dit jaar is het CBS aan het rekenen geweest met data die aangeleverd zijn door de energiemaatschappijen. Die data hebben betrekking op de energieprijzen voor consumenten. Het zijn hele grote hoeveelheden gegevens, die samen ongeveer 75 procent dekken van alle huishoudens in Nederland waaraan energie wordt geleverd. De Bondt: ‘We hebben die databestanden op gedetailleerd niveau doorgespit en beoordeeld op kwaliteit. Het zijn kwalitatief goede bestanden gebleken. We hebben vertrouwen in die data voor gebruik in de officiële statistiek, maar we moeten nog wel een aantal exercities doen.’
+Doorrekenen met andere methoden
+De volgende stap in het proces is volgens De Bondt nadenken over een nieuwe methode om de cijfers te kunnen berekenen. ‘Op dit moment houden we nog steeds vast aan de bestaande methode. Met de huidige methode worden de prijzen waargenomen van nieuw afgesloten contracten. De prijsstijgingen van nieuwe contracten zien we daardoor meteen terug in de ConsumentenPrijsIndex (CPI). In Europa doet een aantal andere landen dat op dezelfde manier. De nieuwe data van de energiemaatschappijen maken het mogelijk om op een veel grotere schaal prijzen waar te nemen van nieuwe én bestaande contracten. Met die data worden een aantal berekeningsmethoden vergeleken. Vervolgens gaan we kijken welke methode het meest geschikt is. Dat is nog wel een tijdrovende klus. We moeten daarvoor een aantal criteria vaststellen, zoals praktische uitvoerbaarheid, bestendigheid voor een langere periode en afstemming op EU-regelgeving.’ 
+
+
+
+
+
+
+Vaste en variabele contracten
+Een tussenstap in deze berekeningen is bepalen hoe het verloop in het aantal vaste en variabele contracten in de afgelopen maanden is geweest. ‘We zijn nu zover dat we dit verloop in beeld hebben. Als we naar onze databestanden kijken, zien we duidelijk dat sinds januari 2022 het aantal vaste contracten voor elektriciteit daalt. In augustus bijvoorbeeld stond het aandeel op 33 procent, terwijl dat in januari nog 43 procent was. Voor gas geldt een soortgelijke daling. Dat zijn eenjarige of langdurigere contracten. Dat betekent dat steeds meer huishoudens nu een variabel contract hebben. Zij worden geconfronteerd met de hogere energieprijzen.’ Niet alleen het CBS, maar ook de Autoriteit Consument & Markt (ACM) heeft onlangs geconstateerd dat het aantal huishoudens met een variabel contract voor de levering van gas en elektriciteit in het afgelopen jaar flink is gestegen. 
+Sterk fluctuerende prijzen 
+Het aantal variabele contracten is sterk gestegen, omdat bij steeds meer huishoudens het vaste energiecontract afloopt en leveranciers nauwelijks meer nieuwe vaste contracten aanbieden. Vanwege de sterk fluctuerende prijzen zijn ze hiermee gestopt. De Bondt wijst er op dat de CBS-cijfers over de variabele en vaste contracten afwijken van de cijfers van de ACM: ‘Dat komt omdat we met verschillende databestanden werken. De CBS-data beslaan circa 75 procent van de markt. Maandelijks krijgen we dus data over een zeer groot aantal huishoudens. Uiteraard is de privacy van die huishoudens gegarandeerd. De data van de ACM omvatten alle maatschappijen, inclusief enkele die in de data van het CBS ontbreken. Dat is de reden waarom de percentages vaste contracten niet vergelijkbaar zijn.’
+Invoering nieuwe methode
+
+De laatste stap in het proces is volgens De Bondt de uiteindelijke invoering van de nieuwe methode. ‘Het tijdstip waarop dat gaat gebeuren, is nu nog lastig te bepalen. We hopen dat het onderzoeksrapport dit jaar gereed is. Op basis daarvan kunnen we aangeven wanneer we overstappen van de oude naar de nieuwe methode. Maar voordat het zover is, moeten we de nieuwe methode en het tijdstip van invoering ook nog afstemmen met het Europese statistiekbureau Eurostat.’
+Eerste berekeningen uitgevoerd
+Inmiddels zijn de eerste, voorlopige berekeningen uitgevoerd. Hieruit blijkt dat het inflatiecijfer met de nieuwe methode significant lager uitvalt dan wat het CBS nu publiceert. Op dit moment kan de exacte omvang van het verschil tussen de oude en nieuwe methode nog niet met voldoende zekerheid vastgesteld worden.  CBS gebruikt de komende tijd voor validatie en controle van de uitkomsten van deze berekeningen.
+
+

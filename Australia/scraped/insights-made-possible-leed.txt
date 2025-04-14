@@ -1,0 +1,23 @@
+Date:
+2021-10-26
+Article Title:
+ Insights made possible by the LEED
+
+Article Content:
+The Linked Employer Employee Dataset (LEED) brings together employer and employee information into a linked dataset, made possible through data integration. It provides the most comprehensive annual picture of employed persons, jobs and income at a fine geographic level including job holder occupation and industry of employers.
+The LEED is comprised of a person file, a job file and an employer file. All of the underlying data is sourced from data provided to the ABS by the ATO. It was established with 2011 12 data and currently includes eight years of data for the period 2011 12 to 2018 19. For further information see .
+Given the richness of more than 150 million job records over the eight years, the LEED provides more detailed insights into employed persons, jobs and income than are possible from other labour statistics. Over recent years it has supported labour market analysis that was only previously possible from five yearly Census data.
+Data from the LEED, through the Jobs in Australia release, can support labour market analysis at both the macro and micro levels; examining how specific events (such as natural disasters or pandemics) impact employees and employers; and in better understanding underlying structural changes in the labour market. It has been particularly useful for facilitating labour market research at detailed industry (4 digit ANZSIC) and regional (SA2 and LGA) levels.
+The LEED can provide further insights into job creation and destruction as industries change over time, the changes in employment by industry, entry and exit to the labour market and other labour market dynamics. It can also show the geographic dimensions of industry restructuring, features of secondary jobs, and characteristics of people with multiple jobs.
+The LEED sources some information about employers from the Business Longitudinal Analysis Data Environment (BLADE). The ABS is exploring further opportunities for integrating the LEED with other integrated datasets, to enable additional insights from this valuable data.
+The LEED data is available through a range of ABS products:
+Personal Income in Australia and Microdata: Jobs in Australia will be updated with 2018 19 data in late 2021. The LEED can also be accessed via customised data requests. 
+Two examples of possible uses of the data are shown below. 
+  
+  
+  
+Between the 25th and 29th of March in 2017, Cyclone Debbie caused enormous amounts of damage in Queensland, particularly the Local Government Area (LGA) of Whitsunday. The graph below explores the distribution of employee jobs per industry in Whitsunday in 2016 17 and 2017 18.
+The effect that Cyclone Debbie had on agriculture is apparent in this graph with 8.5% of employee jobs in the Agriculture, forestry and fishing industry in 2016 17 dropping to 7.5% in 2017 18 following extensive damage to farmlands. On the other hand employee jobs in the Construction industry grew from 8.8% in 2016 17 to 10.7% in 2017 18 as rebuilding took place during the recovery period. 
+Businesses can use the annual data in LEED to inform their decision making processes when considering expansion. For example, LEED data would be useful for a business that is planning to expand their presence into a new regional city in New South Wales. The LEED can provide insights into jobs and income at a point in time and in previous years.
+The table below displays employed persons and median incomes for five LGAs in New South Wales that represent similarly sized regional centres. The number of employed persons gives businesses an indicator of the size of the labour market they can hire from and sell to, while the median income will allow them to assess if they will be able to afford and attract employees.
+In addition to being able to compare across regions, the annual data also enables businesses to consider how employment and income have changed over recent years, to get a sense of the underlying labour market and economic trends in the community.

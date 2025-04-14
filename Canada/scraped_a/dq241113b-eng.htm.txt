@@ -1,0 +1,15 @@
+Date:
+2024-11-13
+Article Title:
+The Daily — Open database of infrastructure, October 2023 to June 2024
+Article Content:
+Released: 2024 11 13
+The Open Database of Infrastructure (ODI) Version 2 is now available as part of Statistics Canada's Linkable Open Data Environment. The ODI Version 2 comprises 11 infrastructure datasets within three categories:
+  Energy: Electrical grid, oil and gas, low carbon infrastructure.
+  Transport: Bridges and tunnels, airports, ports and marinas, railways.
+  Utilities: Potable water, solid waste, wastewater and storm water, telecommunications. 
+Each infrastructure type contains a set of common variables that are shared across categories, along with their own unique features. Variables that are common across infrastructure types include: unique identifier, infrastructure subtype, provider, source identifier, province or territory, region, census subdivision name and identifier, geometry, name, and source class. Descriptions for these listed variables, as well as variables unique to each infrastructure type, can be found in the metadata CSV files accompanying the data.
+Geographic coverage varies across ODI infrastructure types depending on licencing and availability of data. The ODI brings together data from municipal and provincial open data portals, and is made available under the Open Government Licence   Canada.
+For further information and to download the data, see the Open Database of Infrastructure (ODI) webpage.
+The ODI content is available for visualization on a map using the Linkable Open Data Environment Viewer.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

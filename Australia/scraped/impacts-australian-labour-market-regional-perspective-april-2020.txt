@@ -1,0 +1,19 @@
+Date:
+2020-05-21
+Article Title:
+ Impacts on the Australian labour market: A regional perspective, April 2020
+
+Article Content:
+The key labour market indicators published in the  show the large impacts on the Australian labour market between March and April, including:
+There have been varying impacts on the labour market across different parts of Australia. This article compares changes in the employment to population ratio, unemployment rate and participation rate between March and April, across each state capital and the rest of each state.
+Data below the state level, for capital cities and the rest of state, and at the more detailed Statistical Area Level 4 (SA4) is released in this detailed LFS release. Guidance on using SA4 data can be found in .
+  Employment falling by almost 600,000;
+  Unemployed people increasing by 100,000;
+  Unemployment rate increasing by 1.0 pts to 6.2%; and
+  Participation rate decreasing by 2.4 pts to 63.5%.
+Chart 1 shows the change in the employment to population ratio between March and April. The employment to population ratio shows the number of people aged 15 years and over that are employed as a percentage of the civilian population aged 15 years and over, and therefore controls for the size of the population across the different areas. In simple terms, it is a measure of how employed a population is.The employment to population ratio fell in all areas, with the largest fall occurring in Sydney (down 3.6 pts). The smallest decreases were seen outside the capital cities, with the rest of South Australia (down 1.2 pts), the rest of Victoria (down 1.2 pts), and the rest of Tasmania (down 1.3 pts) recording relatively small decreases.
+The unemployment rate increased in all capital cities between March and April, with the only regional decreases seen in the rest of Victoria (down 1.0 pts) and the rest of WA (down 1.8 pts).
+The largest increases in the unemployment rate were seen in Hobart (up 1.4 pts), the Northern Territory (up 1.2 pts) and Melbourne (up 1.1 pts).
+Participation rates fell in all areas between March and April, with the largest decreases recorded in Sydney (down 3.3 pts), the rest of WA (down 3.2 pts) and Adelaide (down 3.0 pts).
+The smallest decreases in the participation rate were in Tasmania, where Hobart decreased by 1.1 pts and the rest of Tasmania decreased by 1.0, and in the rest of SA (down 1.1 pts).
+For further information, email .

@@ -1,0 +1,14 @@
+Date:
+2024-02-22
+Article Title:
+The Daily — What contributed to the slowdown of investment in Canada after the mid-2000s?
+Article Content:
+Released: 2024 02 22
+Investment in capital, which is the main driver of growth in labour productivity, has been weak in Canada since the mid 2000s.
+A new study, "Investment Slowdown in Canada After the Mid 2000s: The Role of Competition and Intangibles," examines the sources of this weakness in capital investment among Canadian firms. It found that investment per worker among Canadian firms declined by 20% from 2006 to 2021.
+The decline in investment per worker was more significant in large  and medium sized firms compared with small firms. Large  and medium sized firms accounted for 90% of the overall decline in investment per worker from 2006 to 2021, much larger than their share of investment (65% in 2021).
+The decline in investment per worker was also larger in foreign controlled firms compared with domestically controlled ones. Foreign controlled firms contributed 30% of the decline in investment per worker from 2006 to 2021 but accounted for 20% of investment in that period.
+A shift in spending has contributed to weak capital investment. After 2006, firms spent more on intangible assets such as data, training, organizational changes, and brand equity relative to tangible assets such as machinery and equipment, and building structures. The share of intangible assets as a portion of total fixed assets on firms' balance sheets increased from 8% in 2006 to 17% in 2021.
+The entry rate or the percentage of new firms in a year declined from 12% in 2006 to 10% in 2019 and continued to decline at a faster pace during the first two years of the COVID 19 pandemic, down to 8% in 2020 and down to 7% in 2021. Fewer new firms means less competition among firms, which contributes to lower investment. Overall, the decline in both the rate of firm entry and competitive intensity in the pre pandemic period from 2006 to 2019 accounted for 30% of the decline in investment per worker during that period.
+The study "Investment Slowdown in Canada After the Mid 2000s: The Role of Competition and Intangibles," part of the Analytical Studies Branch Research Paper Series (Catalogue number11F0019M), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

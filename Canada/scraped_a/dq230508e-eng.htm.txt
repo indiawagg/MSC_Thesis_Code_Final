@@ -1,0 +1,11 @@
+Date:
+2023-05-08
+Article Title:
+The Daily — Open Database of Infrastructure
+Article Content:
+Released: 2023 05 08
+The Open Database of Infrastructure is now available as part of Statistics Canada's Linkable Open Data Environment (LODE) initiative. The LODE aims to enhance the use, accessibility and harmonization of open microdata from authoritative sources, such as municipal and higher levels of government and professional associations. It also supports the collaboration on open data and their use for the production of official statistics and for geospatial research. 
+The first version of the database (version 1.0) contains information on the following infrastructure asset types: bridges, tunnels, solid waste, wastewater, storm water, potable water, public transit stops, cycling routes and walking routes. 
+Each infrastructure type contains a set of common variables shared across categories, as well as some unique features. The following information is shared across infrastructure types: type, subtype, unique identifier, status, data provider, census subdivision name and unique identifier, provincial name and unique identifier, and latitude and longitude of the representative point. Unique features for each category are defined in the accompanying metadata.
+The Open Database of Infrastructure (Catalogue number34260003) is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

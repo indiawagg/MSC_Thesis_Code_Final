@@ -1,0 +1,43 @@
+Title : pandemic-insights-australian-smokers-2020-21.txt
+Context:smoker    Other – a respondent who smoked cigarettes , cigars or pipes , less frequently than daily 
+   Current non smoker – a respondent who did not smoke cigarettes
+Context:respondent who did not smoke cigarettes , cigars or pipes ( either regularly or less frequently than daily ) . This includes people who have never smoked or are ex
+
+Title : insights-hours-worked-april-2023.txt
+Context:2015 the reference commenced Sunday 29 March 2015 and Easter Friday was 3 April . Frequently State School holidays fall around the easter period . The school holiday period commenced
+
+Title : insights-australian-smokers-2021-22.txt
+Context:smoker    Other – a respondent who smoked cigarettes , cigars or pipes , less frequently than daily 
+   Current non smoker – a respondent who did not smoke cigarettes
+Context:respondent who did not smoke cigarettes , cigars or pipes ( either regularly or less frequently than daily ) . This includes people who have never smoked or are ex
+
+Title : guide-understanding-employee-earnings-and-hours-statistics-may-2021.txt
+Context:full time non managerial employees paid at the adult rate ' population is the most frequently used output category and provides a relatively homogenous employee group population . 
+ By
+
+Title : frequently-asked-questions-faqs-about-consumer-price-index.txt
+Context:inflation experienced by consumers , governments and other domestic institutions . 
+ The CPI is frequently called a cost of living index , but it differs in important ways from
+Context:how often prices typically change and the availability of data . Where price change occurs frequently , such as for food and petrol , weekly and monthly price data is
+
+Title : has-worker-compensation-reflected-labour-productivity-growth.txt
+Context:be referred to as “ Net decoupling ” . 
+ 5 .   See     Frequently asked questions for detailed use of productivity growth cycles . 
+ Table 1 presents
+
+Title : overseas-arrivals-and-departures-australia-2023-24-financial-year.txt
+Context:the top source country ( 99,910 arrivals ) and ‘ holiday ’ was the most frequently stated reason for journey ( 44 % ) . In 2013 14 , the
+Context:% . 
+ In the pre COVID period , ‘ holiday ’ was the most frequently reported reason for journey for visitor arrivals ( 47 % in 2018 19 )
+Context:change in travel behaviour , with ‘ visiting friends / relatives ’ becoming the most frequently reported reason for journey , and proportionally fewer travellers reporting ‘ holiday ’ as
+Context:% of trips . 
+ Prior to COVID , ‘ holiday ’ was the most frequently reported reason for residents returning from overseas trips ( 57 % in 2019 )
+
+Title : covid-19-mortality-wave.txt
+Context:certified : 
+ During the Omicron wave :  
+   Chronic cardiac conditions were the most frequently certified pre existing   condition for both the Delta and Omicron waves . Chronic
+
+Title : digital-platform-workers-australia.txt
+Context:The ABS will broaden the reference period to cover those undertaking digital platform work less frequently and will also ask about other members of the household working in this way
+

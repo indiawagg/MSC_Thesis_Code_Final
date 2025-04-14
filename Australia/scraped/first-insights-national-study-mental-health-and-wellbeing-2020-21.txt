@@ -1,0 +1,131 @@
+Date:
+2021-12-08
+Article Title:
+ First insights from the National Study of Mental Health and Wellbeing, 2020-21
+
+Article Content:
+In 2020 21 the Australian Bureau of Statistics conducted the first cohort of the National Study of Mental Health and Wellbeing (NSMHW), a component of the wider  (IHMHS). Information collected in the NSMHW will be used to help understand the mental health of Australians, including their use of services and their social and economic circumstances.
+First insights for 2020 21 are presented below. More comprehensive statistics will be released in June 2022, including the number of Australians with mental disorders such as depression and anxiety. See Future releases below for more information.
+In 2020 21, 15% of Australians aged 16 85 years experienced high or very high levels of psychological distress.
+  women were more likely to experience high or very high levels of psychological distress than men (19% compared with 12%)
+  one in five (20%) Australians aged 16 34 years experienced high or very high levels of psychological distress, more than twice the rate of those aged 65 85 years (9%).
+In 2020 21, 3.4 million Australians aged 16 85 years (17%) saw a health professional for their mental health.
+In addition to mental health related consultations with health professionals, around 612,000 Australians accessed other services for their mental health via phone or digital technologies, including crisis support or counselling services, online treatment programs and tools to improve mental health, and mental health support groups and forums.
+  13% of people saw a GP for their mental health
+  8% saw a psychologist.
+In 2020 21, 15% of Australians aged 16 85 years reported feeling lonely in the previous four weeks, while 16% of households experienced at least one financial stressor such as not being able to pay bills on time. 
+In 2020 21 many Australians (61%) took actions to help manage their mental health. Of all people aged 16 85 years:
+  37% increased their level of exercise or physical activity
+  29% practised thinking positively
+  28% did more of the things they enjoy.
+Comprehensive national estimates for 2020 21, including lifetime and 12 month prevalence of mental health disorders, are scheduled for release in June 2022. The sample of approximately 5,500 fully responding households is not sufficient to enable detailed analysis of state and territory estimates.
+The June 2022 release will include:
+Customised data extracts will be available from June 2022 onwards.  
+A comprehensive release from the second (2021 22) cohort of the NSMHW is expected to be published in July 2023.
+ 
+  data cubes (spreadsheets) containing national level estimates and associated measures of error, and a data item list
+  an expanded Methodology
+  detailed microdata may also be available on DataLab for users to undertake complex analysis of microdata in the secure ABS environment.
+The National Study of Mental Health and Wellbeing (NSMHW) is a component of the wider Intergenerational Health and Mental Health Study (IHMHS) funded by the Australian Government Department of Health.
+The 2020 21 cohort is the first of two in the NSMHW. Data for the NSMHW was collected in the Survey of Health and Wellbeing which was conducted by the Australian Bureau of Statistics (ABS). The first cohort was conducted between December 2020 and July 2021. The second cohort will be conducted from December 2021 to July 2022.
+Header 7: Scope
+Header 7: Sample design
+Header 7: Response rates
+The scope of the study includes:
+The study excluded the following people:
+The exclusion of persons living in Very Remote areas and discrete Aboriginal and Torres Strait Islander communities is unlikely to impact on national estimates, and will only have a minor impact on any aggregate estimates that are produced for individual states and territories, except the Northern Territory where the excluded population accounts for around 21% of persons.
+Households were randomly selected to participate in the study. One person aged 16 85 years or over was randomly selected in each household to complete the study questionnaire. If the randomly selected person was aged 16 17 years, parental consent was sought for the interview to proceed.
+The sample was designed to target persons aged 16 24 years to improve estimates for this age group. People in this age group had a higher probability of being selected in the sample.
+There were 5,554 fully responding households in the study, a response rate of 57.1%. These were completed face to face with an ABS interviewer.
+  all usual residents in Australia aged 16 85 years living in private dwellings
+  both urban and rural areas in all states and territories, except for very remote parts of Australia and discrete Aboriginal and Torres Strait Islander communities.
+  visitors to private dwellings
+  overseas visitors who have not been working or studying in Australia for 12 months or more, or do not intend to do so
+  members of non Australian defence forces stationed in Australia and their dependants
+  non Australian diplomats, diplomatic staff and members of their households 
+  people who usually live in non private dwellings, such as hotels, motels, hostels, hospitals, nursing homes and short stay caravan park (people in long stay caravan parks, manufactured home estates and marinas are in scope)
+  people in Very Remote areas
+  discrete Aboriginal and Torres Strait Islander communities.
+Some respondents were unable or unwilling to provide a response to certain data items. The records for these people were retained in the sample and the missing values were recorded as 'Not stated' or 'Don't know'. No imputation was undertaken for these missing values.
+Header 9: Collection method
+The study was collected over an 8 month period from 6th December 2020 to 31st July 2021. Households completed the study via a face to face interview. Interviews were conducted during periods when circumstances in individual jurisdictions permitted face to face interviewing according to relevant jurisdictional public health orders and restrictions.
+All households selected in the sample initially received a letter in the post with instructions to arrange an appointment with an Interviewer to complete the study. Two reminder letters were sent to households.
+Information collected in the study includes:
+  Household Information, which can be completed by any responsible adult in the household who is aged 18 years or over. The Household Information component of the study collects basic demographic information about all usual residents of the household, including those aged under 15 years, as well as information about the dwelling and household income.
+  Individual Questionnaire, which is completed by one randomly selected person in the household aged 16 85 years. The random selection is automatically performed upon completion of the Household Form.
+Header 10: Estimation methods
+As only a sample of people in Australia were surveyed, their results needed to be converted into estimates for the whole population. This was done through a process called weighting.
+The person and household level weights are then calibrated to align with independent estimates of the in scope population, referred to as ‘benchmarks’. The benchmarks use additional information about the population to ensure that:
+The initial weights were calibrated to the estimated resident population (ERP) at March 2021. The Australian population at March 2021 aged 16 85 years was 19,644,025 (after exclusion of people living in non private dwellings, very remote areas of Australia and discrete Aboriginal and Torres Strait Islander communities).
+Analysis showed that the standard weighting approach did not adequately compensate for undercoverage in the 2020 21 sample for variables such as educational attainment, household composition, and labour force status, when compared to other ABS surveys. Therefore, additional benchmarks were incorporated into the weighting strategy.
+Additional benchmarks were obtained from the ABS monthly Labour Force Survey (December 2020 to July 2021) for labour force status, educational attainment and household composition. These benchmarks were aligned to the estimated resident population aged 16 85 years, who were living in private dwellings in each state and territory, excluding very remote areas of Australia, at 31 March 2021.
+  each person or household is given a number (known as a weight) to reflect how many people or households they represent in the whole population
+  a person or household’s initial weight is based on their probability of being selected in the sample. For example, if the probability of being selected was one in 45, then the person would have an initial weight of 45 (that is, they would represent 45 people).
+  people or households in the sample represent people or households that are similar to them
+  the study estimates reflect the distribution of the whole population, not the sample.
+The  authorises the ABS to collect statistical information and requires that information is not published in a way that could identify a particular person or organisation. The ABS must make sure that information about individual respondents cannot be derived from published data.
+The ABS would like to thank all participants for their involvement in the National Study of Mental Health and Wellbeing. The information collected is critical to mental health policy, program development and evaluation in Australia.
+Header 13: Consultations with health professionals for mental health
+Header 13: Financial stress
+Header 13: Household
+Header 13: Loneliness
+Header 13: Other services for mental health accessed using digital technologies
+Header 13: Psychological distress
+Header 13: Self management strategies for mental health
+Header 13:  
+Respondents were asked about consultations with health professionals for mental health in the 12 months prior to interview. These included:
+One person in the household was asked to report on behalf of the entire household whether they experienced one or more of the following due to a shortage of money in the 12 months prior to interview: 
+One or more persons usually resident in the same private dwelling.
+Respondents were asked whether they felt lonely in the last 4 weeks prior to interview. This question was asked as part of a selected group of questions from the  (LCQ S). The LCQ S was developed by the Australian Mental Health Outcomes and Classification Network (AMHOCN) to assess social support and societal participation of Australians. 
+In addition to consultations with health professionals for mental health, respondents were asked whether they had accessed other services for their mental health using digital technologies, including the phone or internet in the 12 months prior to interview. Types of services included:
+The study collected information on psychological distress using the Kessler Psychological Distress Scale (K10). The Kessler Psychological Distress Scale (K10) is a widely used indicator, which gives a simple measure of psychological distress.
+Respondents were asked how often in the last four weeks they had felt:
+Using these questions, a five level response scale that corresponded to scores from 1 for ‘none of the time’ to 5 for ‘all the time’ were summed, with low scores indicating low levels of psychological distress and high scores indicating high levels of psychological distress. 
+Results are grouped according to the following categories:
+Respondents were asked about self management strategies they used for their mental health in the last 12 months. These included:
+  general practitioner
+  psychiatrist
+  psychologist
+  mental health nurse
+  other mental health professional – e.g. social worker, counsellor, occupational therapist
+  specialist doctor or surgeon – e.g. cardiologist, gynaecologist or urologist
+  other health professional – e.g. dietician, physiotherapist, pharmacist (advice only).
+  pawned or sold something because of a shortage of money 
+  went without meals 
+  went without dental treatment when needed
+  were unable to heat or cool your home 
+  sought financial assistance from friends or family 
+  sought assistance from welfare or community organisations
+  could not pay electricity, gas or telephone bills on time 
+  could not pay mortgage or rent payments on time 
+  could not pay for car registration or insurance on time 
+  could not pay home and/or contents insurance on time
+  could not make minimum payment on credit card.
+  crisis support or counselling services
+  treatment programs, training, assessment or other tools to improve mental health
+  mental health support groups, forums or chat rooms.
+  tired out for no good reason
+  nervous
+  so nervous that nothing could calm you down
+  hopeless
+  restless or fidgety
+  so restless you could not sit still
+  depressed
+  everything was an effort
+  so sad that nothing could cheer you up
+  worthless.
+  low (scores of 10 15, indicating little or no psychological distress)
+  moderate (scores of 16 21)
+  high (scores of 22 29)
+  very high (scores of 30 50).
+  taken non prescription medicines, vitamins, supplements or herbal remedies
+  changed your diet
+  practised meditation, mindfulness, yoga or other relaxation techniques
+  better organised home, life and other things
+  practised thinking positively and setting achievable goals
+  increased your level of exercise or physical activity
+  done more of the things you enjoy
+  seek support from family or friends
+  used alcohol or drugs
+  cut out alcohol or drugs
+  other.

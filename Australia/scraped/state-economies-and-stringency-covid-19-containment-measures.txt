@@ -1,0 +1,12 @@
+Date:
+2020-12-02
+Article Title:
+ State economies and the stringency of COVID-19 containment measures
+
+Article Content:
+In response to increasing numbers of COVID 19 cases in Melbourne, the Victorian state government implemented progressively stricter containment measures, peaking with stage 4 restrictions from 2nd August to 13th September. Meanwhile, other states relaxed restrictions significantly.
+Expanding on the analysis published in the  and  quarters, the ABS has applied the methodology developed for the  to each of Australia’s eight states and territories; using archived official sources to rank the severity of restrictions on movement and the government response. Eight indices have been produced measuring the stringency of a state government’s response to COVID 19 (Figure 1), with a score of 100 indicating a maximum level of restrictions.
+The stringency of the government response in each jurisdiction clearly had an impact on economic activity. State final demand, a measure of consumption and capital expenditure, was the best available indicator of quarterly economic activity for each state or territory. Figure 2 compares growth in state final demand from the December quarter 2019 (before restrictions were first implemented) to the September quarter 2020. Social distancing requirements and changes in consumer behaviour had an adverse impact on the consumption of goods and services.
+Household spending makes up the largest share of final demand in each state, and the impact of restrictions on movement were more evident here (Figure 3). 
+Since the December quarter, spending on services was limited across all states and territories by physical distancing requirements (Figure 4). This was especially evident in Victoria during the September quarter, due to stay at home orders, closures of non essential services, the cancellation of public events, and restrictions on gatherings.
+For more analysis of household consumption and the differences in state’s experiences over the September quarter, see the spotlight .

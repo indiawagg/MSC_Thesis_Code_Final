@@ -1,0 +1,15 @@
+Date:
+2021-02-16
+Article Title:
+ Year-end data variability
+
+Article Content:
+The movement in the Weekly Payroll Jobs and Wages series observed between late November 2020 and early January 2021, is consistent with labour market seasonality at year end. Estimates may also be affected by modified business reporting of STP data over this period. The underlying movement at year end in both payroll jobs and wages, will be somewhat hidden by these effects until ‘normal’ business reporting resumes. 
+The following graph highlights the similarity in the payroll jobs and wages index movement over this period in 2019 and 2020, incorporating previously unreleased data for 2019.
+The Australian labour market has a period of pronounced seasonality from December through to January due to:
+Estimates currently presented in the Weekly Payroll Jobs and Wages in Australia release are an ‘original’ data series and are not yet able to be produced with seasonal impacts removed (i.e. seasonally adjusted). 
+However, there are other labour statistics which are seasonally adjusted, which may provide further context in interpreting data in this release. For example, the original Labour Force series shows a regular seasonal fall in January each year, in both the number of employees and weekly hours worked.
+  increases in labour market activity before Christmas; and
+  a combination of public holidays, school holidays and lower business activity (in many industries) in the period after Christmas.
+A payroll job is a relationship between an employer and their employing enterprise. A payroll job is counted in any given reference week when an employee is paid in that week (through STP enabled payroll or accounting software and reported to the ATO) or an established payment pattern has enabled the inclusion of payroll jobs paid in weeks outside of the reference period. 
+Therefore, modified STP reporting while some businesses have reduced activity, can temporarily impact estimates of payroll jobs and their associated wages. However, when businesses resume 'normal' reporting patterns in early 2021, year end estimates in future releases will subsequently be updated and revised. Some businesses report more variably at year end than others, and may result in higher than usual levels of revision for both payroll jobs and wages when updated. For more information, see the Year end reporting section of .

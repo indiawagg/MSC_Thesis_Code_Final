@@ -1,0 +1,119 @@
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-august-2023.txt
+Context:deaths . The ABS has applied this model to estimate age specific death rates for certain age groups , and converted the expected death rates into an expected number of
+
+Title : queensland-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions . This information will not have the same level of
+
+Title : australian-capital-territory-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions ( ) . This information will not have the same
+
+Title : domestic-violence-experiences-partner-emotional-abuse.txt
+Context:
+ In the PSS , emotional abuse occurs when   a person is subjected to certain behaviours or actions that are aimed at preventing or controlling their behaviour , causing
+Context:
+ The statistics presented in this paper highlight strong associations between partner emotional abuse and certain socio demographic characteristics and other forms of violence . While the data shows a
+Context:which restricts everyday activities . 
+ Emotional abuse occurs when a person is subjected to certain behaviours or actions that are aimed at preventing or controlling their behaviour , causing
+
+Title : development-new-experimental-monthly-household-spending-indicator.txt
+Context:the most like for like comparison between the two classifications . In some cases , certain categories in one classification will not include products in another category . For example
+
+Title : western-australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions ( ) . This information will not have the same
+
+Title : australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions . This information will not have the same level of
+
+Title : producing-official-statistics-linked-data-technical-report.txt
+Context:by an interrogation of how classifications were made . The existence of any features having certain values for only one group of businesses ( that is , features with a
+Context:of their current year ’s profit relative to the previous year ’s . Aside from certain troublesome values ( causing the removal of some businesses from the dataset ) ,
+Context:5 .   
+ Appendix A summarises the data processing used to replace missing values in certain features where these are a consequence of the path of a respondent through the
+Context:selected five year period was informed by preliminary inspection . This prompted us to make certain decisions about which features to include in the study dataset . Selecting features that
+Context:many that would otherwise be omitted . The specific processes used to address missingness for certain features are described in Appendix A.  
+ The second case where infilling is required
+Context:businesses of having more profit increases than decreases .  
+ This study was subject to certain limitations which are outlined in the next subsection .  
+   subdividing the dataset too
+Context:not treated due to uncertainty or time constraints  
+ This pilot study was subject to certain constraints , such as the time available , and was limited to BCS data
+Context:dataset was defined . Conditions A and B employed there led to the exclusion of certain businesses from the dataset . We shall consider these exclusions , and any consequences
+Context:those of our lower profit score group . ) Further suppose that such businesses had certain characteristic features . Then , the exclusion of such businesses from our in scope
+Context: 
+ A disadvantage of changing the data format was that the data became incompatible with certain naïve classifier approaches ( e.g. Naïve Bayes ) that were used earlier in the
+Context:examine how this pattern differs from the feature values seen for other groups . If certain characteristics are only common to lower score businesses , this points us towards a
+Context:2 or 3 compared to the other possibilities . Further , we do not see certain combinations , such as compprod_bcs2 = compprod_bcs3 = 1 . Recalling the discussion above
+Context:most important features for classifier performance . Zero values also can limit the practicality of certain decision rules , such as comparing a sum ( say of the three compprod
+Context:between businesses .  
+ Similarly , the ambiguity of the “ 2 ” response for certain features ( which could contain some mix of relative increases and decreases ) may
+Context:in formulating simple classification rules . Figure 8 shows column graphs of values taken by certain features ( some high FI , some from a lower importance group ) across
+Context:Step 5 is included as an attempt to discriminate against the low values seen for certain features in low score businesses .  
+ Leaf result : Using the overall rule
+Context:ABS or data users to obtain additional insights from ABS data assets , subject to certain qualifications .   
+ Notably , the process used to collect a dataset such as
+Context:For example , it may be appropriate to review the range of possibilities available for certain survey questions , and how these are coded in a dataset , so that
+Context:had to be remedied by infilling . Further , the processes described below have rehabilitated certain features which were previously omitted due to their proportion of missingness exceeding our acceptable
+Context:is , assigned label 1 ) .   
+ A property of classification produced natively by certain classifiers in Python , such as random forests . The FI for a given
+
+Title : new-insights-economy-using-business-turnover-data.txt
+Context:timely manner .    Using the aggregate index , we can gain insights into how certain macroeconomic events   affected business turnover . This aggregate business turnover information will provide
+
+Title : south-australia-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions ( ) . This information will not have the same
+
+Title : independent-review-abs-aboriginal-and-torres-strait-islander-life-expectancy-estimates.txt
+Context:Islander deaths ( Recommendation 1 ) . Examination of relevant methods found that , under certain conditions , age specific adjustments produced life expectancy estimates with high errors . Given
+
+Title : victoria-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions ( ) . This information will not have the same
+
+Title : long-term-health-conditions.txt
+Context:cases without an interviewer present to help 
+   there may be potential sensitivities around reporting certain conditions 
+   the placement of the topic on the Census form may impact response
+
+Title : new-south-wales-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions ( ) . This information will not have the same
+
+Title : frequently-asked-questions-faqs-about-consumer-price-index.txt
+Context:cost of living index measures the change in the minimum expenditure needed to maintain a certain standard of living . 
+ In practice , no statistical agency compiles true cost
+
+Title : australian-defence-force-service.txt
+Context:group , many of whom may no longer be working ( 3 ) . 
+ Certain regional areas at the   had high numbers of current and previous ADF service
+
+Title : listing-psychosocial-risk-factor-icd-10-codes-inclusions-and-exclusions.txt
+Context:point in time    this means that the codes reflect what was available at a certain point . As coronial investigations progress psychosocial risk factor codes may change , with
+
+Title : measuring-owner-occupied-housing-consumer-price-index.txt
+Context:changes in the actual amounts paid ( or outlayed ) by households to maintain a certain standard of living . The biggest difference between the two approaches is the measurement
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-december-2023.txt
+Context:ABS has applied this model to estimate age specific death rates ( ASDRs ) for certain age groups , and converted the expected death rates into an expected number of
+
+Title : northern-territory-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:% ) . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions ( ) . This information will not have the same
+
+Title : guide-using-historical-estimates-comparative-analysis-and-reporting.txt
+Context:the Census . 
+ The Australian Census Longitudinal Dataset ( ACLD ) indicates that a certain proportion of the population will be counted as Aboriginal or Torres Strait Islander in
+Context:currently identified Aboriginal and Torres Strait Islander population may change in future years , if certain demographic assumptions were to hold . Each Census based series is independent from the
+
+Title : producing-official-statistics-linked-data.txt
+Context:is , assigned label 1 ) . 
+ A property of classification produced natively by certain classifiers in Python , such as random forests . The total FI is 100
+
+Title : tasmania-aboriginal-and-torres-strait-islander-population-summary.txt
+Context:in 2011 . 
+ The 2021 Census included a new topic to collect data on certain long term health conditions ( ) . This information will not have the same
+

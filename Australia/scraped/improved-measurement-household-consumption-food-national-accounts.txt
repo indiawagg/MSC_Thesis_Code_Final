@@ -1,0 +1,26 @@
+Date:
+2022-12-07
+Article Title:
+ Improved measurement of household consumption of food in the national accounts
+
+Article Content:
+Since 2020, the ABS has been using alternative data sources to enhance the quality of Household Final Consumption Expenditure (HFCE) estimates.
+Recently, the ABS has focused on using data from ‘point of sale’ systems (scanner data). Domestically and internationally, these data sources are increasingly used as they provide significant benefits due to their high frequency, coverage, and granularity. They also have the potential to reduce collection costs and the reporting burden placed on the community.
+The ABS currently receives supermarket scanner data that covers approximately 63% of all food consumption in Australia and this has enabled improved measurement of the household consumption of food.
+Estimates of HFCE of food calculated using supermarket scanner data were first published as a supplementary experimental series with the September 2021 quarterly National Accounts. Following an assessment of the performance of the experimental series across a range of quality dimensions over the subsequent year, the scanner data derived series was used for the calculation of HFCE of food estimates in the 2021 22 financial year Annual National Accounts and will be used to derive quarterly estimates from the September quarter 2022 onwards.
+Prior to the September 2022 National Accounts publication, HFCE of food estimates were compiled using the ABS Retail and Wholesale Industry Survey (RIS/WIS) and the ABS Retail Business survey. Detailed product level data on household consumption from RIS/WIS enabled an estimate of the delineation between retail sales (to consumers) and wholesale sales (to business), an estimated split between food and non food products and an estimation of product weights that could be applied to turnover data from the Retail Trade survey allowing for the application of price deflation to produce volume estimates. However, due to the size and cost of running this survey it was only run periodically with the last release in 2012 13.
+Since 2011, the ABS has received scanner data from major supermarket chains, which accounts for approximately 84% of all consumer expenditure in supermarkets and approximately 63% of all food consumption in Australia. The datasets are supplied weekly and include the following information:
+The ABS currently uses this data in the compilation of the  and .
+Since 2020 the ABS has been developing methods and processes to produce estimates of HFCE of food using the supermarket scanner data. These were published in .
+  Product/item description
+  Quantity of items sold
+  Dollar value of items sold
+  Geographical location of stores.
+There are more than 2 million distinct products in the supermarket scanner data, including both food and non food items. These products have been mapped to the Input Output Product Classification (IOPC), which is considered a building block of the National Accounts. These estimates were then aggregated to the Supply Use Product Classification (SUPC) and then to the Classification of Individual Consumption According to Purpose (COICOP), the classification used to categorise household spending.
+The ABS developed a machine learning tool, the , for large scale classification tasks such as the mapping of supermarket data to IOPC. Using this tool, the more than 2 million distinct products in the scanner data were mapped to 69 IOPCs and then to 13 SUPCs.
+Using supermarket scanner data to generate HFCE estimates of food allows for a more timely and accurate measurement of the range of food products sold in supermarkets. This enables more accurate measurement of the split between food and non food items and more granular measurement of price changes, which in turn produces higher quality volume estimates.
+There are slight differences between the growth rates of the HFCE of food estimates using the supermarket scanner data and the RIS/WIS Retail Trade Survey. Figure 1 shows this difference where the new estimates have been spliced into the September quarter 2021. The differences are likely due to improved accuracy from more detailed product information in the supermarket scanner data relative to the outdated RIS/WIS data.
+Compilation of HFCE Food using supermarket scanner data also provides new insights into consumption by type of product as seen in Figure 2.
+The implementation of supermarket scanner data into the compilation of HFCE of food is now complete. The ABS is now exploring the use of banks transaction data and scanner data from other major retailers to determine whether these data sources could further increase the quality of other components of HFCE. The ABS will provide updates on this work through information papers.
+Scanner data from major supermarkets have now been incorporated into the compilation of estimates of HFCE of food, replacing the previous technique based on RIS/WIS and the Retail Trade Survey. These data are available to download from ‘Data cubes’ in the ‘Data downloads’ section of the latest release.
+For more information or any queries relating to the food estimates and their implementation, please email: .

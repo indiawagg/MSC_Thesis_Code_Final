@@ -1,0 +1,14 @@
+Date:
+2023-07-11
+Article Title:
+The Daily — Statistics Canada's estimates for Sustainable Development Goal 9.1.1: Rural Access Index
+Article Content:
+Released: 2023 07 11
+The Rural Access Index (RAI) measures the transportation connectivity of a country's rural population and is calculated as the proportion of the rural population living within two kilometres of an all season road. 
+Except for the territories, RAI values range from 95.0% (British Columbia) to 99.9% (Prince Edward Island).
+The RAI has been adopted as Indicator 9.1.1 under Target 9.1 of the global Sustainable Development Goals framework. 
+The national RAI value for Canada is estimated at 97.7%.
+This estimate is based on a spatial analysis using data from the 2021 Census of Population and the road network geography in the 2021 Road Network File (RNF). The analysis was performed at the dissemination block level with the 2021 Census data in the Geographic Attribute File for the 2021 census year. This is the first iteration of the calculation for this indicator published by Statistics Canada.
+The 2021 Census of Population Dictionary defines rural areas as "all territory lying outside population centres" and population centres as areas with "a population of at least 1,000 and a population density of 400 persons or more per square kilometre." According to these definitions, 6.6 million people lived in rural areas in 2021 (Population growth in Canada's rural areas, 2016 to 2021).
+For the current RAI calculation, all elements of the road network in the RNF were considered to be all season, as no attribute differentiates between all season and seasonal roads. Hence, the resulting values are probably an overestimation of the rural population living within two kilometres of an all season road. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

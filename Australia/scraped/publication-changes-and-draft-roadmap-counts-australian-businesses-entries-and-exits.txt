@@ -1,0 +1,26 @@
+Date:
+2021-08-24
+Article Title:
+ Publication changes and Draft Roadmap - Counts of Australian Businesses, Entries and Exits
+
+Article Content:
+The annual CABEE publication has previously been published in February, 8 months after the reference period. 
+Early in 2021, user feedback was sought on the value of CABEE data and new methods presented in  to help focus future development of the annual CABEE publication.  A draft CABEE roadmap was established based on this feedback, articulating development priorities over the next 5 years.
+In line with the CABEE roadmap, the 2021 CABEE release includes:
+ 
+  Improvements to the release schedule (see below);
+  Ongoing release of high level quarterly CABEE experimental data (see );
+  More detailed entries and exits split (see ); and
+  The removal of super funds from CABEE scope (see ).
+Going forward, there will be 2 releases of the annual CABEE data.  The first in August (2 months after the reference period) and a second in December (6 months following the reference period).  
+The 24th August 2021 release will contain:
+The 16th December 2021 release will contain:
+The high level quarterly CABEE experimental data will be published on an ongoing basis within 3 months of the end of the reference period. 
+ 
+  Annual CABEE Datacube 1 timeseries tables (excluding turnover ie tables 17   20)
+  High level quarterly CABEE experimental data, original basis.
+  Turnover data (Datacube 1 tables 17   20)
+  Detailed CABEE tables including industry and geography data (Datacubes 2   11),
+  Seasonally adjusted quarterly CABEE experimental data: total businesses, entries and exits
+  Interactive maps
+An infographic that articulates the key priority areas for CABEE development over the next 5 years is available.  If you or someone from your agency would like to provide comment on the CABEE development priorities, please email: .

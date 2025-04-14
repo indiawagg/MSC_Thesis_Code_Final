@@ -1,0 +1,32 @@
+Title: Consumentenprijzen stijgen minder hard in maart
+Date: 2020-04-07 04:30:00 UTC
+
+Lead Text:
+                Consumentengoederen en -diensten waren in maart 1,4 procent duurder dan vorig jaar, meldt het CBS. In februari betaalde de consument 1,6 procent meer dan in februari 2019. 
+            
+
+Article Content:
+De consumentenprijsindex (CPI) is een belangrijke indicator voor het verschijnsel inflatie, maar is niet hetzelfde. De index geeft het prijsverloop weer van een pakket goederen en diensten zoals dagelijkse boodschappen, kleding, benzine, huur en verzekeringspremies. Inflatie is breder dan de prijsontwikkeling van consumentengoederen en –diensten, want bijvoorbeeld ook koopwoningen, industriële producten, aandelen en goud veranderen van prijs.
+De CPI is één van de inflatie-indicatoren die is opgenomen in het . Hierin staan ook andere inflatie-indicatoren zoals de prijsindex bestaande koopwoningen en de in- en uitvoerprijzen van de industrie.
+
+
+Prijsdaling motorbrandstoffen
+Motorbrandstoffen waren 4,1 procent goedkoper dan een jaar eerder en hadden daarmee een fors drukkend effect op de stijging van de consumentenprijzen. In maart betaalde de consument voor een liter euroloodvrij, de meest verkochte motorbrandstof, gemiddeld 1,59 euro. In februari was dit 1,69 euro per liter. De prijzen voor motorbrandstoffen in februari, waar naast benzine ook diesel en lpg onder vallen, waren 4,6 procent hoger dan een jaar eerder.
+Prijsstijgingen voedingsmiddelen
+De prijzen van voedingsmiddelen hadden daarentegen een opwaarts effect op de consumentenprijzen. Deze producten waren in maart gemiddeld 3,2 procent duurder dan een jaar eerder. In februari was de prijsstijging op jaarbasis 2,1 procent. Vooral de prijsontwikkeling van varkensvlees droeg in maart bij aan de stijging van de consumentenprijzen.
+
+
+Prijsstijging Nederland hoger dan eurozone
+Naast de consumentenprijsindex (CPI) berekent het CBS ook de Europees geharmoniseerde consumentenprijsindex (HICP).
+Consumentengoederen en -diensten in Nederland waren volgens de HICP in maart 1,1 procent duurder dan een jaar eerder, in februari was dat nog 1,3 procent. De prijsstijging in de eurozone nam af van 1,2 procent in februari naar 0,7 procent in maart. 
+
+
+
+De HICP wordt volgens de Europees geharmoniseerde methode berekend zodat deze kan worden vergeleken met andere lidstaten van de Europese Unie. De prijsindexcijfers voor de eurozone en de Europese Unie als geheel worden berekend uit de HICP’s van de afzonderlijke lidstaten. De Europese Centrale Bank (ECB) gebruikt deze cijfers voor het monetaire beleid.
+De HICP houdt in tegenstelling tot de CPI geen rekening met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. 
+Bijzonderheden met betrekking tot de prijswaarneming in maart 
+Door de overheidsmaatregelen in verband met de coronacrisis is de verkoop halverwege maart in een aantal branches volledig stilgelegd. Voor deze branches heeft het CBS desondanks prijzen kunnen verzamelen voor de CPI. Daarvan zijn voor pakketreizen en vliegtickets de prijzen ingezet tot het moment dat de overheidsmaatregelen van kracht werden.  
+
+Consumentenprijzen worden in Nederland met ingang van 1 januari 2020 niet meer fysiek in de winkel waargenomen, maar worden via onder meer transactiedata en webscraping verzameld. Hierdoor ondervindt de waarneming van de prijzen van producten en diensten weinig hinder van de overheidsmaatregelen in verband met de corona-crisis.
+
+

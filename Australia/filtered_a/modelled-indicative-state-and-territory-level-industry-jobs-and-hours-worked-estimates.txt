@@ -1,0 +1,79 @@
+Date:
+2023-09-08
+Article Title:
+ Modelled indicative state and territory level industry jobs and hours worked estimates
+
+Article Content:
+In response to the demand for a state and territory dimension to the Australian Labour Account, this article presents indicative state and territory level industry estimates for the Labour Account jobs and hours worked series. This is an update to the  article published alongside the June quarter 2022 release, with state and territory hours worked estimates included for the first time. 
+The estimates produced have been modelled by applying proportional factors to existing balanced national level Labour Accounts data. This is similar to the approach taken to produce indicative  estimates, which were published with the June quarter 2021 Labour Account release.
+Building a state and territory dimension directly into the compilation processes of the Labour Account is not yet feasible, given the limitations of existing data sources.
+In the meantime, this proportionally allocated state based Labour Account data provides useful insights into industries at the state and territory level, as it is based on the national level Labour Account industry information. The Labour Account provides the  of employment, jobs and hours worked at the national level.
+The approach to proportionally allocate state and territory level industry estimates involves constraining the number of jobs and hours actually worked to the national level industry totals of the Australian Labour Account. This means that the sum of all states and territories for a particular industry is equal to the Labour Account national estimate for that industry. As a result, the industry levels in each state and territory are heavily impacted by the Labour Account balancing process which reconciles household and business based estimates of filled jobs.
+More detail on the method used to derive these estimates is provided below.
+The state and territory industry level estimates were derived by applying proportional factors to the national level Labour Accounts data. These proportional factors were sourced from the Linked Employer Employee Dataset (LEED), which is a key source used in compiling the quarterly Labour Account, and from Weekly Payroll Jobs (WPJ) data for the latest periods.
+For the period September quarter 2011 to June quarter 2020, LEED estimates for filled and secondary jobs for each state and territory and industry subdivision were used to estimate main jobs by subtracting the estimates for secondary jobs from filled jobs.
+From September quarter 2020 onwards, subdivision level estimates for main and secondary jobs were extrapolated using the growth rate from WPJ estimates. This process excluded subdivision 76 (Defence), where the corresponding quarter estimates from LEED were extended to the current quarter.
+The LEED subdivision estimates for main and secondary jobs were totalled to produce national estimates for each industry subdivision. The state and territory estimates were divided by this national total to produce state and territory proportions for each industry subdivision.
+These proportions were applied to the balanced estimates from the Australian Labour Account to produce main and secondary job estimates for each state and territory by industry. Filled job estimates were produced by aggregating the main and secondary job estimates, and state and territory totals were produced by summing subdivision level estimates. The state and territory level vacant jobs estimates are derived by applying proportional factors to the Labour Account industry level vacant jobs estimates.
+The filled jobs data in this article are based on the state or territory of usual residence, not the location of the job.
+The data in this article are based, in part, on tax data supplied by the ATO to the ABS under the Taxation Administration Act 1953, which requires that such data is only used for the purpose of administering the Census and Statistics Act 1905. Any discussion of data limitations or weaknesses is in the context of using the data for statistical purposes, and is not related to the ability of the data to support the ATO's core operational requirements. Legislative requirements to ensure privacy and secrecy of this data have been adhered to. In accordance with the Census and Statistics Act 1905, results have been confidentialised to ensure that they are not likely to enable identification of a particular person or organisation.
+As the national level industry totals were proportionally allocated across the states and territories, rather than constrained to the state and territory employment levels from the LFS, this results in some inherent differences in the sum of all industries within a state or territory and the employment totals for that state or territory. This is something that could be addressed through a more sophisticated method if a greater degree of coherence were required.
+While the employed persons measure is conceptually equivalent to main jobs, the Labour Account estimate of main jobs includes the jobs worked by short term non residents, children, and defence force personnel, which are out of scope of the LFS estimates of employed persons.
+The state and territory industry level hours worked estimates were derived by applying proportional factors to the national level Labour Accounts data. These proportional factors were sourced from the Labour Force Survey (LFS).
+The LFS subdivision by state and territory estimates for hours worked during the reference week were totalled to produce national estimates for each industry subdivision. The state and territory estimates were divided by this national total to produce state and territory proportions for each industry subdivision. 
+These proportions were applied to the balanced subdivision estimates from the Australian Labour Account and summed together to produce quarterly hours actually worked for each state and territory by industry.
+Since the previous  article published with the June quarter 2022:
+These changes have resulted in revisions to the modelled indicative state and territory job estimates published with the June quarter 2022 release.
+  State and territory level industry hours actually worked estimates were added. 
+  New and updated data sources have been incorporated, including:Annual benchmarks used in estimating business side filled jobsData from the most recent Input Output and Supply Use tablesData from the 2021 Survey of Employee Earnings and HoursData from the 2019 20 Linked Employer Employee Dataset (LEED)
+  Annual benchmarks used in estimating business side filled jobs
+  Data from the most recent Input Output and Supply Use tables
+  Data from the 2021 Survey of Employee Earnings and Hours
+  Data from the 2019 20 Linked Employer Employee Dataset (LEED)
+  Weekly Payroll Jobs (WPJ) data has been applied from later in the time series, now starting with September quarter 2020, as LEED data is now available through to 2019 20.
+  A range of revisions and enhancements were implemented in the national level Australian Labour Account, including:A new method for allocating annual Labour Force Survey benchmarks for hours worked across quarters, incorporating information from each month of the quarterRefinements to the method used to estimate the number of employed short term non residents, and the number of child workers (employed children aged 5 14)For further information about these method changes, refer to .
+  A new method for allocating annual Labour Force Survey benchmarks for hours worked across quarters, incorporating information from each month of the quarter
+  Refinements to the method used to estimate the number of employed short term non residents, and the number of child workers (employed children aged 5 14)
+  For further information about these method changes, refer to .
+In the June quarter 2023, there were:
+  4.5 million main jobs
+  313,700 secondary jobs
+  129,100 job vacancies
+In the June quarter 2023, the total number of hours actually worked was 1.9 billion hours.
+In the June quarter 2023, there were:
+  3.7 million main jobs
+  291,100 secondary jobs
+  105,800 job vacancies
+In the June quarter 2023, the total number of hours actually worked was 1.6 billion hours.
+In the June quarter 2023, there were:
+  2.9 million main jobs
+  208,800 secondary jobs
+  77,700 job vacancies
+In the June quarter 2023, the total number of hours actually worked was 1.2 billion hours.
+In the June quarter 2023, there were:
+  968,200 main jobs
+  71,400 secondary jobs
+  25,000 job vacancies
+In the June quarter 2023, the total number of hours actually worked was 419.3 million hours. 
+In the June quarter 2023, there were:
+  1.5 million main jobs
+  117,000 secondary jobs
+  55,100 job vacancies
+In the June quarter 2023, the total number of hours actually worked was 654.8 million hours.
+In the June quarter 2023, there were:
+  305,500 main jobs
+  24,000 secondary jobs
+  7,100 job vacancies
+In June quarter 2023, the total number of hours actually worked was 125.3 million hours.
+In the June quarter 2023, there were:
+  143,000 main jobs
+  14,000 secondary jobs
+  6,400 job vacancies
+In the June quarter 2023, the total number of hours actually worked was 61.6 million hours.
+In the June quarter 2023, there were:
+  252,000 main jobs
+  23,400 secondary jobs
+  11,400 job vacancies
+In the June quarter 2023, the total number of hours actually worked was 108.3 million hours. 
+The following spreadsheet contains indicative estimates of filled jobs, main jobs, secondary jobs, job vacancies, and hours actually worked by industry, for each state and territory, for the period September quarter 2011 to June quarter 2023.
+For further information, or to provide feedback, please email .

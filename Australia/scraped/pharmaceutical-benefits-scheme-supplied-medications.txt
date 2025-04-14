@@ -1,0 +1,72 @@
+Date:
+2022-08-30
+Article Title:
+ Pharmaceutical Benefits Scheme Supplied Medications
+
+Article Content:
+  Two in three (63.4%) people were supplied with at least one PBS medication in the 6 months before or after NHS interview
+  Almost all (97.0%) people aged 75 years and over were supplied with a PBS medication
+  80.4% of people with one or more selected chronic conditions were supplied PBS medications
+The Australian Government subsidises the cost of many medicines for Australians through the Pharmaceutical Benefits Scheme (PBS). The PBS is regarded as a key component of the National Medicines Policy (NMP) which aims to improve positive health outcomes for all Australians through their access to and wise use of medicines[1].
+The PBS does not include over the counter medications, private prescriptions, dietary supplements, or medications supplied to most public hospital in patients. It should be noted that PBS data tells us when a medication is supplied but not whether the person took the medication.
+PBS medications are categorised according to the World Health Organization Anatomical Therapeutic Chemical (ATC) Classification System. The ATC is a system that classifies the active ingredients of medications according to the organ or system on which they act and their therapeutic, pharmacological and chemical properties[2]. For more information see Methodology.
+The ATC system includes 14 main anatomical or pharmacological groups. The list below includes examples of common uses and treatments:
+   A. Alimentary tract and metabolism – reflux, ulcer, anti nausea and diabetic medications
+   B. Blood and blood forming organs – blood thinners, vitamin K, anti anemic preparations (e.g. iron, B12, folic acid)
+   C. Cardiovascular system – cholesterol lowering, blood pressure and heart failure medication
+   D. Dermatologicals – topical corticosteroids for skin conditions (e.g. dermatitis, eczema)
+   G. Genito urinary system and sex hormones – contraceptives, menopausal and gynaecological medications
+   H. Systemic hormonal preparations, excluding sex hormones and insulins – anti inflammatory medications for autoimmune disorders (e.g. rheumatoid arthritis) and thyroid issues
+   J. Antiinfectives for systemic use – bacterial antibiotics and antivirals
+   L. Antineoplastic and immunomodulating agents – immunosuppressants and anti cancer medications
+   M. Musculo skeletal system – non steroid based anti inflammatory medications
+   N. Nervous system – pain relief and medications used for mental health
+   P. Antiparasitic products, insecticides and repellents – medications used for infestations, parasitic worms and insect pests
+   R. Respiratory system – asthma and Chronic Obstructive Pulmonary Disease (COPD) medications
+   S. Sensory organs – anti inflammatory and antibiotic medications used for the ear and eyes
+   V. Various – nutrients, treatment for high potassium/phosphate and other therapeutic medications
+In the 6 months before or after their NHS interview, nearly two in three (63.4%) people were supplied with at least one PBS medication. In 2020 21:
+  Females were more likely to be supplied with medications than males (70.0% compared to 56.6%)
+  The supply of medication increased with age, from 43.0% of children aged 0 17 years to 97.0% of people aged 75 years and over
+  People with a disability were more likely to be supplied a medication than those with no disability (81.1% compared to 56.3%)
+  On average, adults aged 18 years and over had more types of medications supplied than children (4.2 compared to 1.9).
+The proportion of people who were not supplied with a medication declined sharply with age, from 54.1% of children aged 0 17 years to 7.6% of people aged 65 74 years and then 2.0% of people aged 75 years and over.
+Of those who were supplied with PBS medications, an average of 3.9 different medication types were supplied. In 2020 21:
+  Almost one in five (18.9%) people were supplied with five or more different medication types
+  Seven in ten (72.1%) people aged 75 years and over were supplied with five or more different medication types and on average were supplied with almost eight.
+In 2020 21, the characteristics of people who were supplied with multiple PBS medications were as follows:
+  One quarter (24.5%) of people living in inner regional Australia were supplied with five or more medication types, compared to 17.4% living in major cities
+  People living in areas of most disadvantage were more likely to be supplied with five or more medication types than people living in areas of least disadvantage (24.1% compared to 14.0%)
+  Adults who experienced bodily pain in the last four weeks had a higher average number of medication types than those who did not experience bodily pain (4.6 compared to 3.1).
+Almost a third (30.6%) of people were supplied with Antiinfectives for systemic use medication, making it the most common type supplied. Other commonly supplied medication types included:
+Females were six times more likely than males to be supplied with a Genito urinary system and sex hormones medication (15.0% compared to 2.5%), and more likely than males to be supplied with a Nervous system medication (28.2% compared to 19.2%).
+  Nervous system – 23.7%
+  Cardiovascular system – 22.7%
+  Alimentary tract and metabolism – 18.8%.
+Three quarters (74.7%) of people aged 65 years and over were supplied with a Cardiovascular system medication, compared to 6.2% of people aged 18 44 years.
+Long term health conditions are conditions which were current at the time of the survey interview and had lasted, or were expected to last, 6 months or more. Selected chronic conditions are a subset of long term health conditions that are common, pose significant health problems, and have been a focus of ongoing public health surveillance[3].
+In 2020 21, nearly half (46.6%) of people had one or more selected chronic conditions[4]. These people were more likely than those without a chronic condition to be supplied with a PBS medication (80.4% compared to 48.6%). The supply of medication to people with a chronic condition varied by condition type:
+The prevalence of selected chronic conditions was more common with age[4]. Many people with chronic conditions had more than one at the same time (multimorbidity)[5]:
+  Heart, stroke and vascular disease – 97.2%
+  Osteoporosis – 96.1%
+  Kidney disease – 95.3%
+  Diabetes mellitus – 94.9%
+  Chronic obstructive pulmonary disease (COPD) – 93.9%
+  Cancer – 93.5%
+  Arthritis – 90.1%
+  Asthma – 83.8%
+  Mental and behavioural conditions – 79.6%
+  Back problems – 77.5%.
+  Nine in ten (90.5%) people with two or more chronic conditions had a PBS medication and on average were supplied with 6.4 medication types
+  More than half (54.2%) of people with two or more chronic conditions were supplied with a Cardiovascular system type medication compared to 24.7% with one chronic condition.
+As people age, they are more likely to have more than one condition at the same time and take multiple medications[6]. Although there is no standard definition, polypharmacy is often defined as the routine use of five or more medications at the same time[6]. It should be noted that PBS data cannot tell us whether multiple medications were routinely used or taken at the same time.
+In 2020 21, seven in ten (69.7%) people with three or more selected chronic conditions were supplied with five or more medication types, compared to 42.5% of people with two chronic conditions and 20.4% of people with one. The supply of five or more medication types also varied by condition type – from 28.6% of people with Mental and behavioural conditions to 74.1% of those with Heart, stroke and vascular disease.
+  Australian Parliament House, ‘’; accessed 03/08/2022.
+  Department of Health and Aged Care, ‘’; accessed 03/08/2022.
+  Australian Institute of Health and Welfare, ‘’; accessed 03/08/2022.
+  Australian Bureau of Statistics, ’’; accessed 03/08/2022.
+  Australian Institute of Health and Welfare, ‘’; accessed 03/08/2022.
+  World Health Organization, ‘’; accessed 03/08/2022.
+02/06/2023   This release contains:
+Previously published information referring to people supplied with Safety Net medications has been removed due to a reference period limitation within the dataset. This includes removing tables 3.1 to 3.4 in the Data downloads.
+

@@ -1,0 +1,92 @@
+Date:
+2023-04-26
+Article Title:
+ Insights Into Government Finance Statistics, Annual, 2021-22
+
+Article Content:
+The Australian economy recovered in 2021 22, as business and employment conditions improved following two years heavily impacted by the COVID 19 pandemic. In 2021 22 Gross Domestic Product (GDP) rose 3.7%, the largest rise in annual GDP since 2011 12 (a).
+Improved economic activity contributed to strong growth in total taxation revenue of 15.2% in 2021 22. Commonwealth company income tax and personal income tax significantly increased compared to the previous financial year. The strong residential property market drove significant increases in state and territory stamp duties on conveyances revenue for the second year in a row.
+The end of the 2020 21 financial year saw the cessation of the government subsidies such as JobKeeper and Boosting Cash Flow for Employers. Governments shifted the focus of their support to households and businesses affected by the third wave lockdowns.
+State and territory governments provided subsidies direct to businesses through the Commonwealth State Joint Business Support Programs. Across state and territories, the size of support packages were largest in New South Wales, Victoria, and ACT, and targeted towards industries and regions impacted by lockdowns. To contrast, the bulk of Commonwealth government support were for households, through COVID 19 Disaster Payments.
+Total general government health expense rose 12.1% in 2021 22, the highest annual growth rate over the past decade. During 2021 22, governments purchased and administered large quantities of COVID 19 vaccines and rapid antigen tests. Other healthcare spending continued to increase in the salaries and wages of frontline staff, COVID 19 testing, and personal protective equipment. Spending was particularly strong in Victoria and New South Wales.
+Severe flooding and natural disasters impacted large regions of Australia (b). Commonwealth and state government disaster recovery payments to businesses and households rose compared to 2020‑21.
+ 
+  using the GDP annual chain volume measures as published in Table 36 in the December quarter 2022 issue in Australian National Accounts: National Income, Expenditure and Product
+  Australian disasters, Disaster Assist, Department of Home Affairs, July 2022
+All levels of general government net operating balance was  $34.6b in 2021 22, up $110.9b on 2020 21. This is the largest recovery to the net operating balance in the GFS time series.
+The main contributors were:
+
+  15.2% rise in taxation revenue (up $89.9b)
+  54.0% fall in subsidy expenses (down $58.1b).
+The main contributors to the 14.5% rise in the Commonwealth taxation revenue in 2021 22 were:
+  28.0% rise in company tax (up $28.0b)
+  12.6% rise in personal income tax (up $27.0b)
+  3.1% rise in goods and services tax (GST) (up $2.3b). 
+The main contributors to the rise in state and local taxation revenue in 2021 22 were:
+  48.8% rise in stamp duties on conveyances (up $11.7b)
+  14.8% rise in payroll taxes (up $3.6b)
+  3.8% rise in gambling taxes (up $0.3b).
+In 2021 22 subsidy expenses:
+  fell 54.0% (down $58.1b) for all Australia driven by the conclusion and reduction of Commonwealth programs JobKeeper and Boosting Cash Flow For Employers
+  rose 123.2% (up $16.6b) for state and territories due to the commencement of the joint Commonwealth State Business Support Programs.
+All Australia general government net debt (L2) (c) was $779.4b or 33.8% of GDP in 2021 22.
+While all Australia net debt (L2) fell from the record 2020 21 levels (down $10.3b), 2021 22 was the second highest level of net debt recorded in the GFS time series.
+The main contributors were:
+34.6% rise in total state net debt (up $49.5b).
+  8.6% fall in National net debt (down $57.5b)
+  34.6% rise in total state net debt (up $49.5b).
+A matrix style presentation enables users to analyse different measures of debt and other liabilities.
+  L1 through L3 focus on governments’ liquidity
+  L4 through L6 focus on governments’ longer term budget sustainability
+The main contributors to the 6.6% rise in total education expenses in 2021 22 were:
+  9.7% rise in school education (up $5.8b)
+  5.7% rise in all other education (up $1.0b)
+  2.2% rise in tertiary education (up $0.9b).
+Key fiscal measures of the tertiary education sector continued to be impacted by the decrease in international students since the start of the COVID 19 pandemic.
+  5.8% fall in revenue (down $1.1b)
+  2.2% rise in expenses (up $0.9b)
+  0.9% fall in gross fixed capital formation (GFCF) (down less than $0.1b).
+The main contributors to the 12.1% rise in total health expenses in 2021 22 were:
+  59.0% rise in public health services (up $5.5b)
+  7.4% rise in hospital services (up $4.2b)
+  7.5% rise in community health services (up $3.7b).
+The main contributors to the 1.2% rise in total social protection expenses in 2021 22 were:
+127.0% rise in social exclusion and social protection not elsewhere classified (up $16.9b)
+8.7% rise in sickness and disability support payments (up $4.9b)
+1.9% fall in old age support payments (down $1.7b)
+6.6% fall in family and children support payments (down $3.3b)
+46.5% fall in unemployment support payments (down $13.9b).
+  127.0% rise in social exclusion and social protection not elsewhere classified (up $16.9b)
+  8.7% rise in sickness and disability support payments (up $4.9b)
+  1.9% fall in old age support payments (down $1.7b)
+  6.6% fall in family and children support payments (down $3.3b)
+  46.5% fall in unemployment support payments (down $13.9b).
+The main contributors to the 50.5% fall in total economic affairs expenses in 2021 22 were:
+  70.1% fall in general economic, commercial, and labour affairs (down $61.4b)
+  11.4% rise in fuel and energy (up $1.3b)
+  48.3% rise in communication (up $0.5b).
+The main contributors to the 9.3% rise in total Defence expenses in 2021 22 were:
+  14.0% rise in non employee expenses (up $2.6b)
+  464.0% rise in current & capital transfer expenses (up $0.9b)
+  3.3% rise in employee expenses (up $0.5b).
+The main contributors to the 6.4% rise in total transport expenses in 2021 22 were:
+  5.5% rise in road transport (up $1.1b)
+  7.9% rise in railway transport (up $0.7b)
+  5.2% fall in air transport (down $0.1b).
+The main contributors to the 10.6% rise in total public sector investment in new assets (k) in 2021 22 were:
+  11.7% rise in state and local (up $6.7b)
+  8.8% rise in public non financial corporations (up $2.0b)
+  11.7% rise in Commonwealth (up $1.7b)
+  5.4% fall in universities (down $0.1b).
+  Includes acquisitions of new non financial fixed produced assets. Second hand asset acquisitions and sales between sectors are excluded from this measure.
+ (2020 21)
+ (2019 20)
+ (September 2022)
+ (June 2022)
+ (March 2022)
+ (December 2021)
+ (September 2021)
+   Analysis (June 2021)
+   Analysis (March 2021)
+   Analysis (December 2020)
+   Analysis (September 2020)

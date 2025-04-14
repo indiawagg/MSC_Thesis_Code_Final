@@ -1,0 +1,11 @@
+Date:
+2023-06-30
+Article Title:
+The Daily — Proximity to services and amenities in Rural and Small Town Canada (ProximityRST) database, 2023
+Article Content:
+Released: 2023 06 30
+Even with the widespread digitalization of our society, physical proximity to services and amenities remains a major determinant of community sustainability and people's quality of life. Some examples of such services and amenities are education, healthcare, libraries and parks. In recent years, Statistics Canada has carried out work to develop such measures of proximity, leading to the release of the first nationwide Proximity Measures Database (PMD) in 2020, followed by a new version in June 2023. 
+Today, Statistics Canada is launching a new database on Proximity to service and amenities in Rural and Small Town Canada (ProximityRST). This database builds on the conceptual framework developed for the PMD, while extending "proximity" beyond walkability to accommodate the driving distances that residents of rural communities typically experience when accessing services and amenities. Rural and small town refers to areas in towns or municipalities outside the commuting zone of census metropolitan areas and census agglomerations.
+This database includes nine measures of access to services and amenities as well as an aggregate measure that combines the individual measures. 
+The product "Rural Data Viewer," part of Statistics Canada   Data Visualization Products (Catalogue number71 607 X), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,57 @@
+Date:
+2018-12-12
+Article Title:
+ Neighbourhood impacts on health
+
+Article Content:
+Overweight and obesity are major public health concerns with two thirds (67.0%) of Australian adults and almost one quarter (24.9%) of Australian children classified as overweight/obese in 2017 18 [1]. High body mass contributed 7.0% of all disease and injury burden in 2017 ranking only behind smoking in terms of contribution to disease burden [2]. Poor diet and insufficient physical activity are recognised as key contributors to overweight, obesity and chronic disease. In Australia, diet related risk factors such as low fruit vegetable intake contributed 2.0% and 1.4% respectively to the overall burden of disease [3], while physical inactivity contributed 5.0% [2]. Results from the 2017 18 National Health Survey (NHS) and previous surveys show that there was generally higher prevalence of overweight and obesity, poor diet and insufficient physical activity in low socioeconomic areas and outside of major cities [1].Recently, there has been a growing interest in the contribution of environmental factors to diet and physical activity behaviours and overweight/obesity. For example, the design of neighbourhoods (often referred to as the built environment), including the location of supermarkets and fast food outlets, may influence the foods an individual can purchase and consume [4]. For the first time, information about a range of environmental factors such as proximity to supermarkets and fast food outlets has been included in the 2017 18 National Health Survey.This article demonstrates the feasibility of using these data and provides an overview of some of the associations between proximity to supermarkets and fast food outlets and key health risk factors such as physical activity, body mass index, and consumption of fruit, vegetables and sugar sweetened drinks. Other environmental factors such as access to public open space and amenities, population density and commuting distance will be the subject of future articles. In this article, analysis of supermarkets and fast food outlets is conducted separately, however it is known that there is often co location of these venues with other commercial destinations and this could influence results.
+Counts of nearby major supermarkets and major fast food chains were calculated for NHS participants within a Geographic Information System (GIS) using information from external data providers as well as data held by the ABS. 
+Methods used to calculate these concepts are outlined in the National Health Survey Users' Guide (cat. no. 4363.0)  chapter and were developed in consultation with Dr Suzanne Carroll and Dr Neil Coffee from Centre for Research and Action in Public Health, Health Research Institute at the University of Canberra.
+Overall, 55.9% of Australians lived within 1500m of a supermarket, 33.8% within 1000m and 5.3% within 400m. For fast food outlets, the proportions were 43.8%, 25.3% and 4.1% respectively. However the likelihood of living in proximity to these amenities varied depending on the level of advantage or disadvantage of an area and by remoteness.People who had access to supermarkets within 1500m:
+  were more likely to live in areas of most disadvantage (65.8% compared to 55.1% living in areas of least disadvantage) 
+  were more likely to live in major cities (62.2%) than in inner regional (38.4%) or in outer regional and remote areas (40.5%) 
+Similarly, people who had access to supermarkets within 1000m:
+  were more likely to live in areas of most disadvantage (40.6% compared with 33.1% in areas of least disadvantage) 
+  were more likely to live in major cities (38.4% compared with 21.9% in inner regional and 20.7% in outer regional and remote areas) 
+People who had access to a fast food outlet within 1500m
+People who had access to a fast food outlet within 1000m
+  were more likely to live in areas of most disadvantage (51.9% compared with 40.7% in areas of least disadvantage) 
+  were more likely to live in major cities (52.1% compared with 21.0% in inner regional and 23.4% in outer regional and remote areas)
+  were also more likely to live in areas of most disadvantage (31.0% compared with 21.6% in areas of least disadvantage) 
+  were more likely to live in major cities (30.5% compared with 11.7% in inner regional and 11.1% in outer regional and remote areas) 
+People living in areas of most disadvantage or outside of major cities were more likely to experience higher rates of health risk factors [1]. What impact, if any, does the neighbourhood environment have on the health risk factors of individuals?
+Overall analysis showed that those living near supermarkets or fast food outlets were more likely to walk for transport and participate in physical activity. This may be indicative of living in an area with access to a wide range of facilities and amenities.Adults aged 18 years and over living within 1500m of a supermarket were:
+Adults aged 18 years and over living within 1500m of a fast food outlet were:
+  more likely to walk for transport (59.8% compared with 51.0% without a supermarket within 1500m) 
+  more likely to be physically active (83.0% compared with 79.4% without a supermarket) 
+  people aged 18 64 were more likely to have completed 150 minutes of physical activity (57.7% compared with 52.5% without a supermarket)[5]
+  more likely to walk for transport (61.7% compared to 51.4% without a fast food outlet) 
+  more likely to be physically active (83.7% compared to 79.5% without a fast food outlet) 
+  people aged 18 64 were more likely to have completed 150 minutes of physical activity (58.0% compared to 53.2% without a fast food outlet)[5] 
+Overall 67% of adults were overweight or obese and 24.9% of children aged 2 17 years. Those living in areas of most disadvantage or outside of major cities are more likely to be overweight or obese than those living in areas of least disadvantage or in major cities [1]. However, adults living near a supermarket or fast food outlet were less likely to be overweight or obese than those living further away. There was no difference for children aged 2 17 years.Adults living within 1500m of a supermarket were:
+Similarly, adults living within 1500m of a fast food outlet were:
+  less likely to obese (29.5% compared with 33.7% without a supermarket)
+  and as a result of this, were less likely to be overweight or obese (65.9% compared with 68.5% without a supermarket) 
+  less likely to be obese (28.6% compared with 33.6% without a fast food outlet).
+  and as a result, were less likely to be overweight or obese (64.7% compared with 69.0% without a fast food outlet) 
+The above pattern held for those living in areas of most disadvantage, where adults who had access to a supermarket within 1500m were:
+This pattern was also evident for fast food outlets. In areas of most disadvantage adults who had access to a fast food outlet within 1500m were also less likely to be obese (35.8% compared with 41.0% without a fast food outlet).
+  less likely to be obese (36.2% compared with 43.1% without a supermarket)
+  and as a result of this, were less likely to be overweight or obese (70.4% compared with 74.4% without a supermarket)
+For diet related risk factors such as consumption of sweetened drinks, fruit and vegetables, there was no difference in intakes depending on proximity to supermarkets or fast food outlets, despite there being an association with levels of disadvantage and remoteness. An exception to this was children (aged 2 17) with access to a supermarket within 1500m were less likely to be daily consumers of sugar sweetened drinks (5.4% compared to 9.0% of children who did not have access).
+While this article provides valuable information, there are some potential areas for further analysis and methodological improvements that could provide more insight. These include:
+This analysis shows that people living in areas of most socio economic disadvantage were more likely to have access to both supermarkets and fast food outlets within 1000m and 1500m than their counterparts in areas of least socio economic disadvantage.
+People living within 1000m or 1500m of a supermarket or fast food outlet were less likely to be overweight or obese and more likely to engage in physical activity.
+However, there does not seem to be a strong association between diet related risk factors such as consumption of sweetened drinks and proximity to supermarkets or fast food outlets. This was despite the fact that there is an association between diet related risk factors such as consumption of sweetened drinks and living in areas of greater disadvantage.
+  analysis of additional aspects of Australia’s built environment such as road and public transport networks 
+  investigating the access to and use of private vehicles in relation to how people access supermarkets and fast food outlets 
+  investigating the impact of living near multiple commercial destinations 
+  combining environmental information with more detailed nutrition survey information such as the  
+  improved coverage of supermarket and fast food chains used for this method of calculation 
+  further refinement of suitable distance measures in an Australian context 
+  further understanding of consumer food choices, food pricing and availability, perceptions of access to supermarkets and promotional strategies to provide further insights into health related diet risks 
+  Australian Bureau of Statistics (ABS) 2018 National Health Survey: First Results, 2017 18
+  Australian Institute of Health and Welfare (AIHW) 2017 
+  Australian Institute of Health and Welfare (AIHW) 2016. . Australian Burden of Disease Study series no. 3. BOD 4. Canberra.
+  National Heart Foundation 2012  
+   recommend that people should be active on most, if not all, days and recommend that adults aged 18 64 years should complete 150 300 minutes of moderate intensity physical activity or 75 150 minutes of vigorous intensity physical activity, or an equivalent combination of both, per week. The guidelines also recommend that adults aged 18 64 years do muscle strengthening activities on at least 2 days per week, however no analysis was reviewed to assess this part of the guideline against proximity to supermarkets and fast food outlets.

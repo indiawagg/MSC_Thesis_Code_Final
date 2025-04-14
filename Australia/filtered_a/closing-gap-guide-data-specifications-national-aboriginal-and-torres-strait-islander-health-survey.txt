@@ -1,0 +1,33 @@
+Date:
+2024-11-26
+Article Title:
+ Closing the Gap: guide to data specifications for the National Aboriginal and Torres Strait Islander Health Survey
+
+Article Content:
+The   includes 19 national targets across 17 associated outcomes. It is based on four that change how governments work with Aboriginal and Torres Strait Islander people and communities.
+Progress on the 17 national targets is monitored by the Productivity Commission and available in the. The Information Repository includes a  with the latest information on the targets and indicators, as well as an .
+The 2022–23 National Aboriginal and Torres Strait Islander Health Survey (NATSIHS) is one of many sources used to report progress against the targets and their indicators. This guide only includes targets where NATSIHS is the identified source. 
+This guide does not provide any data. It explains how various Closing the Gap indicators use data from the NATSIHS, including any inclusions/exclusions or grouping of categories within a data item that have been applied. This information will assist users in creating custom NATSIHS data that matches the specifications of these indicators when using the ABS TableBuilder product. 
+The 2022–23 NATSIHS data items and other supporting information such as the applicable populations and comparability with other ABS surveys, including the 2018–19 NATSIHS, can be found in the detailed index tab of the Data Item List located in the Data Downloads section on this page.
+Further information around definitions and concepts, collection method and comparability with earlier iterations of the NATSIHS can be found on the 
+For information on more general statistical terms and concepts, see .
+This guide refers to targets, indicators and measures as defined by the Productivity Commission. 
+  Targets are specific and measurable goals for each of the outcome areas.
+  Indicators represent the concepts, experiences, or activities that are being measured, including for each of the targets.
+  Contextual information indicators provide insight into the experiences of Aboriginal and Torres Strait Islander people under each socioeconomic outcome. 
+  Drivers indicators measure those factors that significantly impact the progress made against a socioeconomic target. 
+  Measures are a more detailed expression of an indicator and move us from the concept to a concrete understanding of what that concept means. Measures allow us to create or locate the right data sets to measure the indicator concept.
+Selected data for the data items mentioned in this guide can be accessed from the . Published data should be compared with caution. Please check footnotes and table specifications to ensure items are comparable with the Closing the Gap indicators – for example, age groups or remoteness areas used may or may not exactly match the indicator specifications.
+Data collected in the 2022–23 NATSIHS will be available in  scheduled for release via the ABS website in the first half of 2025. This product allow users to choose a topic and create custom tables.
+Custom data can also be requested via an ABS consultancy, which is a paid service. For more information, see  .
+The ABS supports a strengths based approach when disseminating data about the Aboriginal and Torres Strait Islander population.
+However, the ABS acknowledges some users may want to compare the NATSIHS data for the Aboriginal and Torres Strait Islander population with data for the non Indigenous population from other surveys, such as the National Health Survey.
+The Aboriginal and Torres Strait Islander population has a younger age structure than the non Indigenous population. Age is strongly related to many population characteristics, such as long term health conditions and employment patterns. To account for this, the ABS uses a technique called age standardisation to produce proportions that can be used for comparison purposes. Age standardised estimates of prevalence are those rates that ‘would have occurred’ should both the Aboriginal and Torres Strait Islander and non Indigenous populations have the same age composition.
+The ABS recommends any comparisons between the Aboriginal and Torres Strait Islander population and the non Indigenous population for characteristics which are associated with age are done using age standardised estimates. Age standardised estimates are not required when making comparisons by age group (for example, 18–24 years). 
+Age standardised estimates can be produced on request by the ABS as a paid consultancy – see  for more information. 
+The table below provides information on the three consistent 2022–23 NATSIHS data items required across all reporting requirements. 
+
+                                                                      
+
+For more information see: 
+For more information see: .

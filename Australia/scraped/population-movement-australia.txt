@@ -1,0 +1,111 @@
+Date:
+2022-11-08
+Article Title:
+ Population movement in Australia
+
+Article Content:
+The Census records a person’s usual address at three points in time: at the time of the Census, one year before the Census and five years before the Census. The place where a person stayed on Census Night is also captured as place of enumeration. This provides a rich dataset with information on the count and characteristics of people who moved within Australia, people who moved from overseas, and people who did not move at all in the period before each Census.
+For more information on the Location variables, including data use considerations, visit the . 
+Just over half (53.1%) of Australia’s population lived at the same address in the five years prior to the 2021 Census, which was consistent with previous censuses. In 2021, people were slightly more likely to have moved elsewhere in Australia than compared to the five years prior to the 2011 and 2016 Census.
+In 2021, most people lived at the same address as the year before. 14.3% of the population changed their address within Australia in the year prior to the 2021 Census, a slight increase compared to movement one year prior to the 2011 and 2016 Census.
+To explore data on population movement in different areas, see our . 
+  To interact with the map visit .
+  If the map page does not load, please try again later.
+  Use the tabs across the top of the map to view different years of data. On mobile devices click on the word 'Experience' where the map should appear and a new tab will open. Best viewed on a desktop or tablet device.
+  You can search for locations using names, addresses, suburbs or SA3 names. Capital cities of Australia can also be found in the Bookmark menu
+  Click on a region of interest to view data and graphs about that region.
+The boundaries used in this map are  boundaries according to the .
+Internal migration is the movement of people from one defined area to another within a country. It may be across the country (interstate), within a state or territory (intrastate), or even within the same suburb.
+Australia’s internal migration follows a well established pattern that coincides with significant life events. For example, young adults may move to commence higher education, enter the work force, or start a family. Higher rates of migration of young children are tied to that of their parents. Later in life, migration can be related to older children leaving home (down sizing), retirement and relocation for health and caring purposes[1,2]. 
+This section describes the characteristics of people who moved within Australia (internal movers) in the five years prior to 2021.
+The median age of people who moved within Australia between 2016 and 2021 was 33 years, while the median age of people who lived at the same address in this period (non movers) was 49 years. This was similar to the age profile of internal movers (33 years) and non movers (48 years) between 2011 and 2016. Associated with age and significant life events, there are a range of socio economic and personal reasons that influence a person's decision to move.
+Housing suitability and affordability is a common reason to relocate. For example, people may move to a different type of housing to suit the size of their household as their children grow up. Between 2016 and 2021, internal movers were more likely to rent at their current usual residence than non movers (45.2% compared to 14.7%). Non movers were more likely to live in houses that were owned outright or owned with a mortgage than those who moved within Australia (82.9% compared to 52.4%). Renting could provide internal movers with more flexibility and options when they are new to an area than if they bought a home.
+This pattern is similar to five year migration data from the 2016 Census   those who moved elsewhere in Australia were more likely to rent than those who did not move (45.2% compared to 13.8%) while non movers were more likely to own their home, either outright or with a mortgage, than those who moved (82.9% compared to 51.4%).
+Internal movers were more likely to be in the labour force than non movers. Of people aged 15 64 years who moved address between 2016 and 2021, 81.1% were in the labour force, meaning they were employed or looking for work. In comparison, 75.7% of people who did not move address were in the labour force.
+People working in some occupations were much more likely to move address. Occupations in the Defence Force had the highest proportion of people who had moved within the last five years. The occupations that were most likely not to have moved were farmers.
+Families with young children are an important part of the picture of migration in Australia. Just over 46.2% of families that moved elsewhere in Australia between 2016 and 2021 had children under 15 years, compared with 31.2% of families that did not move. This may be related to younger families moving to bigger housing that is more suitable for growing families.
+Families with dependent students (aged 15 to 24 years) were far less likely to move residence; only 5.8% of families that moved lived with children aged 15 years and over, compared to 9.9% of families that did not move. Lower mobility rates for families with older children may be related to housing circumstances and a desire not to disrupt children's education.
+Of the people who changed address between 2016 and 2021, the vast majority (87.0%) moved within the same state or territory. Only one in ten (10.9%) moved to a different state. This remained relatively consistent when compared to the past two censuses.
+In the five years before the 2021 Census, Queensland (QLD) recorded the largest net gain of people moving from a different state or territory (+107,500), followed by Tasmania (TAS) (+15,300) and the Australian Capital Territory (ACT) (+10,600). The remaining states and territories reported a net loss: New South Wales (NSW) ( 102,200); Northern Territory (NT) ( 13,400); Victoria (VIC) ( 9,500); Western Australia (WA) ( 6,711); and South Australia (SA) ( 1,600).
+ 
+The net migration for QLD exceeded +100,000 people, which was an unprecedented jump.  Conversely, the net migration for NSW surpassed  100,000 people, which was an unprecedented drop. No other state or territory broke +/ 16,000 net migration for 2021, and none went above +/ 70,000 people within the last three Census cycles, which indicated a significant change in population movement within the five years leading to 2021.
+Population turnover is another way to measure the movement of people into and out of an area. Population turnover is calculated by dividing gross moves (arrivals plus departures) by an area’s population. It indicates the rate at which the population can be replaced through migration. Population turnover is different to population growth, which is net change in population. It is possible for an area to have its population remain relatively unchanged (low to zero net migration) from one period to the next, but for its current residents to be different than those who were residents in the previous period. 
+Population turnover rates can indicate a change in a region’s composition which can influence its economy, housing market and demand for services[3]. 
+ 
+This case study will look at the characteristics of the arrivals and departures of the Northern Territory in the five years prior to the 2021 Census. That is, people who moved to the NT from another state or territory, compared with those who had left the NT to live elsewhere.
+Between 2016 and 2021, the NT had the highest turnover rate of any state or territory. This was despite a continual decline in its net migration over the past 15 years. Over the five years prior to 2021, the NT had a population turnover rate of 333 people per 1000 residents, which indicates that one in three NT residents aged five years and over were replaced as a result of interstate migration in this period.
+Those who arrived in the NT from a different state or territory were generally younger than those who departed. Between 2016 and 2021, the median age of arrivals was 31 years compared to 34 years for departures.
+Arrivals to the NT were more likely to be in the labour force (85.3%) than those departing (76.1%). People who lived at the same address as five years ago were much less likely to be in the labour force (64.2%) than those arriving and departing.
+The two most common industries of employment for people who arrived in the NT in the five years prior to 2021 were public administration and safety (23.4%) and health care and social assistance (18.4%). These were also the most common industries of the employed population in the NT (18.2% and 14.9% respectively).
+The construction industry had a much higher number of employees who left the NT in the last five years than arrived. This is consistent with the completion of a major natural gas project in 2018[4].
+Most people who had moved to the NT in the five years prior to 2021 came from QLD (25.9%), VIC (22.7%) and NSW (22.6%). Migration from QLD is usually the driver for NT arrivals however compared with 2016 Census results, there was a drop in QLD arrivals and a significant increase in arrivals from VIC and NSW in 2021.
+Departures from NT followed a similar pattern to arrivals. Most people leaving the NT went to QLD (34.3%), VIC (18.1%) and NSW (15.6%), with the remaining departures going to SA (13.3%), WA (13.2%), ACT (3%) and TAS (2.4%).
+When conducting analysis on migration at the capital city level, we can look at the population who move in and out of  and the  GCCSAs are built from. This excludes arrivals, departures and net movements of people who changed address within the GCCSA or SA4.
+Over the five year period to 2021, there was a net loss of 160,100 people from Australia’s capital cities. This was a significantly greater loss than the last two Census periods. In 2016 and 2011 there was a net loss of 43,100 people and 72,200 people, respectively over the five year period before the Census. The net loss in 2021 was the result of 835,000 arrivals (up from 774,300 people in 2016) and 995,100 departures (up from 817,400 people in 2016) to capital city areas.
+Between 2016 and 2021, Greater Brisbane gained the greatest number of people through net internal migration (+54,400) which represented 2.2% of its total population. This area includes Brisbane as well as Ipswich, Logan and Moreton Bay but does not include the other large cities in Southeast Queensland such as the Gold Coast and the Sunshine Coast.
+The city with the greatest loss over this time was Greater Sydney ( 154,800) which represented 3.0% of the city’s population. While Darwin experienced the greatest net loss proportionate to its population, representing 6.4% of its population, this was a loss of only 9,000 people.
+Looking at the number of people who reported a different address in the one year period before the 2021 Census, there was a net loss of 59,500 people from Australia’s capital cities. This was much higher than the loss experienced between 2015 and 2016 ( 12,300), and between 2010 and 2011 ( 25,300). The net loss in 2021 was the result of 308,000 arrivals (up from 283,200 people in 2016) and 367,500 departures (up from 295,400 people in 2016) to capital city areas.
+The capital city that experienced the biggest net loss was Sydney ( 49,100), which was 0.9% of the city’s population. While Darwin had the same proportionate loss ( 0.9%), because of its smaller population this represented a loss of 1,300 people.
+The city with the highest proportionate increase was Canberra (1.4%) which was a net increase of 6,200.
+Due to COVID 19, Melbourne had one of the longest cumulative lockdowns in the world. By the time of the Census on 10 August 2021, a Victorian who had lived in Melbourne and not left since the beginning of the pandemic would have spent 222 days in lockdown. Between 2020 and 2021, all SA4s in Greater Melbourne experienced a net loss in internal migration.
+Overall, Greater Melbourne had a net loss of 41,500 people to internal migration between 2020 and 2021. This was driven by a large outflow of departures ( 103,300 people). By contrast, Greater Melbourne experienced a net gain of 8,000 people to internal migration between 2015 and 2016.
+Of the people who left Greater Melbourne between 2020 and 2021, 39.6% stayed within Victoria, with the remainder moving to other states and territories.
+Seven out of the top ten SA4s with people who lived in Greater Melbourne one year ago were all in other areas of Victoria, with the highest number of arrivals going to Geelong (10%). While the number of people from Greater Melbourne who moved to Ballarat and the Gold Coast was about the same, it represented a far greater proportion of all movers to Ballarat (56.2%) than to the Gold Coast (12.9%).
+  Median age of 31 years
+  Employed (69.5%)
+  Live in a couple family with no children (46.7%)
+  Work in the health care and social assistance industry (14.7%)
+  Renting at their current usual address (53.3%, compared to 43.9% owning a home)
+  Live in a separate house (71.0%)
+Over the five year period prior to the 2021 Census, regional Australia had a net gain of 184,000 people (up from 81,600 in 2016). This was predominately driven by people moving to Rest of QLD (+63,700), Rest of VIC (+62,900) and Rest of NSW (+59,000), which offset the small net losses from Rest of WA ( 9,000) and Rest of NT ( 3,800).
+Sunshine Coast, Gold Coast, and Geelong SA4s had the largest positive net migration for regional areas. In fact, the Sunshine Coast and Gold Coast have ranked in the top three SA4s for positive net internal migration for the past three censuses (2011, 2016, 2021), while Geelong ranked in the top three for the past two censuses (2016, 2021).
+Migration during COVID 19 appeared to have a positive impact on regional QLD, with more than 37.1% of arrivals to Rest of QLD doing so between 2020 and 2021.
+Queensland saw significant growth in the five years prior to the 2021 Census. This growth was particularly strong in the coastal SA4s located in the southeast and in relative proximity to Brisbane. The Sunshine Coast (+28,500) and Gold Coast (+28,100) recorded the largest net gains of all SA4s in Australia between 2016 and 2021.
+This growth follows the same trend seen in previous censuses, with the net gains in these SA4s increasing each Census. Between 2011 and 2016, Sunshine Coast recorded the largest net gain (+22,700) of all SA4s in Australia, with Gold Coast the second largest (+20,800). Between 2006 and 2011, Gold Coast recorded the second largest net gain (+19,400) and Sunshine Coast had the third largest (+14,700).
+The majority of the arrivals between 2016 and 2021 were from neighbouring SA4s. For Gold Coast, the top five SA4s people arrived from were:
+For Sunshine Coast, the top five SA4s people arrived from were:
+Looking at the arrivals between 2020 and 2021, there is an increasing proportion from interstate SA4s. For example, the Melbourne – Inner SA4 was the source of 3.0% of arrivals into the Gold Coast and 2.7% of all arrivals into the Sunshine Coast between 2020 and 2021. In comparison, it was only responsible for 1.9% of arrivals to both Gold Coast and Sunshine Coast SA4s between 2016 and 2021.
+When comparing to data from previous censuses, a steady increase in the number of all interstate arrivals into both Gold Coast and Sunshine Coast can be seen, but this growth was accelerated between 2020 and 2021. This accelerated growth could be a result of the COVID 19 pandemic, as more people moved away from capital cities.
+  Richmond – Tweed (Northern NSW) – 7,277 people, 7.8% of all arrivals
+  Logan – Beaudesert (Qld) – 6,607 people, 7.1% of all arrivals
+  Brisbane – South (Qld) – 4,077 people, 4.4% of all arrivals
+  Brisbane Inner City (Qld) – 3,758 people, 4.1% of all arrivals
+  Brisbane – East (Qld) – 2,567 people, 2.8% of all arrivals.
+  Wide Bay (Qld) – 4,353 people, 6.1% of all arrivals
+  Brisbane Inner City (Qld) – 3,915 people, 5.5% of all arrivals
+  Moreton Bay – North (Qld) – 3,136 people, 4.4% of all arrivals
+  Moreton Bay – South (Qld) – 2,681 people, 3.8% of all arrivals
+  Brisbane – South (Qld) – 2,541 people, 3.6% of all arrivals.
+Of the 35,000 arrivals into Gold Coast SA4 between 2020 and 2021, almost 15,000 (42.8%) moved from elsewhere in QLD while the other 20,000 (57.2%) moved from another state or territory. In comparison to previous censuses, this was an increase in the proportion of interstate arrivals. Between 2015 and 2016, 53.3% of arrivals to the Gold Coast were from interstate, while 51.6% were from interstate between 2010 and 2011.
+The largest proportion of interstate arrivals into the Gold Coast were from NSW (32.5% of all arrivals) which was a similar proportion to 2016 (31.7%) and 2011 (30.4%). The second largest proportion were from VIC (16.2%) which was a significant increase from the proportion arriving from VIC in 2016 (10.1%) and 2011 (10.2%).
+  Median age of 31 years
+  Employed (64.4%)
+  Couple family with no children (46.2%)
+  Worked in health care and social assistance industry (15.4%)
+  Renting (52.9%, compared to 44.8% owned home)
+  Lived in a separate house (51.2%)
+Of the 24,400 arrivals into Sunshine Coast SA4 between 2020 and 2021, the majority moved from elsewhere in QLD (56.9%). This was a considerable decrease when compared to previous censuses   the proportion who arrived in the year prior to the 2016 Census was 65.1% and the proportion who arrived in the year prior to the 2011 Census was 66.5%. This decrease in intrastate arrivals to the Sunshine Coast was driven by an increase in interstate arrivals.
+The largest proportion of interstate arrivals (17.6%) came from NSW (up from 15.4% in 2016 and 14.7% in 2011). A similar proportion of arrivals (16.9%) came from VIC which was a significant increase from the proportion of arrivals from VIC in 2016 (9.2%) and 2011 (8.9%).
+  Median age of 35 years
+  Employed (62.4%)
+  Couple family with no children (46.5%)
+  Worked in the health care and social assistance industry (17.9%)
+  Owned their own home (54.1%, compared to 43.3% renting)
+  Lived in a separate house (72.9%)
+The most notable difference observed in population movements in the 2021 Census was a decrease in the number of residents who had lived overseas one and five years ago. People who lived overseas one or five years prior to the Census may have been Australian residents who were living overseas temporarily or new migrants to Australia. These numbers do not include people who may have been temporarily travelling overseas one and five years before the Census as these respondents would not have indicated this as their usual address.
+The 2021 Census counted 175,000 people who had lived overseas in 2020. This was much lower than 2016, when 399,600 people lived overseas in the year before (2015). A drop in the number of non Australian citizens accounted for most of this decrease (224,600 people). This was consistent with the decline in immigration due to the COVID 19 pandemic. Overseas migration for 2020 to 2021 fell 71% to 145,800 from 506,900 arrivals in the previous year[5].
+In 2021 almost half (49%) of those who lived overseas in 2020 were Australian citizens (85,800). This number has been consistent for the past three censuses, with only a slight decrease (700 less people) compared with 2016.
+In 2021, the median age for people who had lived overseas one year prior was 32 years. This was older than 2016 and 2011 which were both 27 years. The age group with the biggest change in 2021 was 15 to 24 years, which represented 12.3%, down from 23.3% in 2011 and 27.6% in 2016.
+The decrease in international students was a key contributor to this decline, as a large proportion of the 15 24 year age group engages in tertiary study. Of people who lived overseas in the year prior to the 2021 Census, only 6.1% were non citizens who attended a tertiary institution compared with 21.5% in 2016, and 13.4% in 2011. In the 2020 2021 financial year, there was only 2,590 temporary student visa arrivals compared with 593,100 in 2015 2016[6].
+Almost 1.3 million people counted in Australia in 2021 lived overseas five years previously (in 2016). This was a decrease of almost 90,000 (6.5%) compared with the 2016 Census which counted almost 1.4 million people who had lived overseas in 2011.
+When comparing the change between the 2011 and 2016 Census, the number of people who had been living overseas five years prior to the Census increased by 14.9%. The increase in 2016 was a result of the increase in non Australian citizens. This was consistent with the increase in new migrants to Australia over this time.
+The decrease in 2021 was contributed to by the disruption of immigration to Australia since 2020 due to the COVID 19 pandemic, with the number of non citizens who lived overseas five years prior to the Census decreasing. It is interesting that the number of Australian citizens returning to Australia in the five years prior to each of the last three Censuses has remained reasonably steady.
+Why do people move? A quick guide to understanding internal migration in Australia, 
+Bernard, Life course transitions and the age profile of migration, 2014.
+Perspectives on Regional Australia: Population Growth and Turnover in Local Government Areas (LGAs), 2006 2011, 
+  Why do people move? A quick guide to understanding internal migration in Australia, 
+  Bernard, Life course transitions and the age profile of migration, 2014.
+  Perspectives on Regional Australia: Population Growth and Turnover in Local Government Areas (LGAs), 2006 2011, 
+  Department of Treasury and Finance, Northern Territory Economy, 
+  Australian Bureau of Statistics, Overseas Migration 2020 21, 
+  Australian Bureau of Statistics, Overseas Arrivals and Departures, Australia, 

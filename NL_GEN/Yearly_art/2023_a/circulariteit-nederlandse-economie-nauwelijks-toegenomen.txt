@@ -1,0 +1,64 @@
+Title: Circulariteit Nederlandse economie nauwelijks toegenomen
+Date: 2023-01-26 14:00:00 UTC
+
+Lead Text:
+                13 procent van de grondstoffen die in 2020 ingezet werden in de Nederlandse economie bestond uit hergebruikte materialen. Dit percentage is vrijwel hetzelfde als in 2014. Wat betreft hergebruik is de circulariteit van de economie nauwelijks toegenomen. Dat blijkt uit de nieuwste cijfers van het CBS over grondstoffengebruik, die een onderdeel vormen van de Integrale Circulaire Economie Rapportage (ICER), een samenwerkingsverband van het PBL, CBS, CPB, CML, RIVM, RVO, Rijkswaterstaat, TNO en de Universiteit Utrecht.
+            
+
+Article Content:
+Om de grondstofafhankelijkheid en de milieu-impact van de Nederlandse economie te verminderen heeft het kabinet als doel gesteld dat de economie in 2050 volledig circulair is. Dit is een economie waarin zoveel mogelijk duurzame hernieuwbare grondstoffen worden gebruikt, producten en grondstoffen worden hergebruikt en waarin afval niet bestaat.
+Zand, grind, bouwmaterialen het meest hergebruikt
+Niet-metaal mineralen, waaronder zand en grind, werden met 31 procent het vaakst hergebruikt, iets meer dan in 2014 (29 procent). Dit is onder andere bouwafval dat voornamelijk wordt gebruikt voor de ophoging van wegen. Bij fossiel is het hergebruik laag, omdat fossiele energiedragers meestal worden verbrand voor energieopwekking. Wel kan het gebruik worden verminderd, bijvoorbeeld door meer hernieuwbare energie in te zetten.
+
+
+Grondstofverbruik na 2014 afgenomen
+Naast hergebruik is het verminderen van de grondstofbehoefte een andere manier om uiteindelijk volledig circulair te kunnen worden. De totale hoeveelheid grondstoffen die in de Nederlandse economie wordt ingezet exclusief gerecycled afval (de directe materiaalinzet) was in 2020 (359 miljard kilo) behoorlijk afgenomen ten opzichte van 2014 (390 miljard kilo). De daling in grondstoffeninzet komt met name door een lager gebruik van fossiele brandstoffen en niet-metaal mineralen. De stikstofcrisis, waardoor er minder gebouwd kon worden, speelt hierin een rol. Ook de coronacrisis was van invloed: door het verplichte thuiswerken was er minder woon-werkverkeer en werd er minder gevlogen. De daling in het gebruik van fossiele brandstoffen is mogelijk niet structureel.
+
+
+Groter deel grondstoffen komt uit buitenland
+Het aandeel grondstoffen dat de Nederlandse economie uit het buitenland haalt groeide in de periode 2014-2020 voor alle materiaalcategorieën behalve voor niet-metaal mineralen. Voor de directe materiaalinzet nam dit aandeel toe van 67 procent in 2014 tot 73 procent in 2020. Met name de afhankelijkheid van fossiele energiedragers uit het buitenland is gestegen, vooral van aardgas. Dit is het gevolg van de verminderde aardgaswinning in Groningen. Voor de directe inzet van metalen is Nederland volledig afhankelijk van het buitenland.
+
+
+Groot deel grondstoffen verwerkt tot exportproducten 
+In 2020 verwerkte de Nederlandse economie 409 miljard kilo grondstoffen en materialen. Een groot deel van deze grondstoffen wordt verwerkt en uiteindelijk geëxporteerd (179 miljard kilo of 44 procent). Voor het maken van consumentenproducten en andere goederen wordt 168 miljard kilo aan grondstoffen gebruikt. 
+Van de verwerkte grondstoffen gaat een flink deel (110 miljard kilo of ruim 25 procent), met name biomassa en fossiele energiedragers, ‘verloren’ als grondstof door verbranding en voedsel en andere producten die slechts een keer gebruikt kunnen worden (kort-cyclische producten). Dit levert een belangrijke bijdrage aan de uitstoot van CO2 en andere broeikasgassen. Een ander aanzienlijk deel van de grondstoffen komt terecht in de afvalstroom (60 miljard kilo), waarvan een deel gerecycled terugkomt in de grondstoffen die in de Nederlandse economie verwerkt worden (50 miljard kilo).  
+Dit gerecyclede afval kan slechts een klein deel van de totale hoeveelheid grondstoffen die nodig zijn vervangen. Op dit moment dekken de vrijgekomen secundaire materialen (50 miljard kilo) of zelfs al het afval (60 miljard kilo) niet het gebruik van materialen in de binnenlandse economie van 229 miljard kilo (energetisch verbruik en materiaalgebruik). Voor een circulaire economie moet het gebruik van fossiele energiedragers omlaag en moeten materialen efficiënter ingezet worden. Dit laatste kan bijvoorbeeld door levensduurverlenging of het delen van producten.
+
+
+Materiaalstromen in Nederland, miljard kilo, 2020Import (excl afval)
+374
+Import van afval
+22
+Wederuitvoer
+131
+93
+Verwerkte 
+materialen
+Binnenlandse
+winning
+409
+Export
+310
+Verlies
+110
+Energetisch verbruik
+61
+Materiaalgebruik
+168
+Voorraden
+Afval
+60
+Recycling
+50
+Kortcyclische 
+producten
+47
+Biomassa
+Fossiel
+Metaal
+MineraalImport (excl afval)374Import van afval22Wederuitvoer13193Verwerkte materialenBinnenlandsewinning409Export310Verlies110Energetisch verbruik61Materiaalgebruik168VoorradenAfval60Recycling50Kortcyclische producten47Materiaalstromen in Nederland, miljard kilo, 2020BiomassaFossielMetaalMineraal
+
+
+In de ICER wordt nagegaan hoe het staat met de transitie naar een circulaire economie, waarin grondstoffen zoveel mogelijk hergebruikt worden en zo min mogelijk nieuwe grondstoffen de economie binnen komen. Het CBS heeft bijgedragen aan de ICER door onder andere het maken van de Materiaalmonitor. Met de Materiaalmonitor worden de fysieke materiaalstromen van, naar en binnen de Nederlandse economie in kaart gebracht. De Materiaalmonitor wordt tweejaarlijks samengesteld en is vanaf 2014 beschikbaar.
+
+

@@ -1,0 +1,19 @@
+Date:
+2023-12-13
+Article Title:
+The Daily — Pension Satellite Account, 2022
+Article Content:
+Released: 2023 12 13
+Data on the Pension Satellite Account (PSA) are now available for 2022. These data tables will no longer be produced by Statistics Canada, as some data contained within this account are freely available from other sources, while other data elements required significant resources to address data gaps for reporting purposes. Statistics Canada is focusing on the social insurance pension schemes table published by the OECD, which contains information similar to that contained in the PSA. Data from this Annual National Accounts table can be found on the web page. Data can be found in other Statistics Canada sources including the National Balance Sheet Accounts, Financial Flow Accounts and the Current and capital accounts.
+The data visualization product "Pension satellite account: Interactive tool," which is part of Statistics Canada – Data Visualization Products (Catalogue number71 607 X), is now available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure.
+Further tables, accessible from the Data module of the Statistics Canada website, feature an up to date portrait of all sectors of the Canadian economy, including pensions. 
+National Balance Sheet Accounts (table 36 10 0580 01).
+Financial Flow Accounts (table 36 10 0578 01).
+Current and capital accounts (table 36 10 0112 01).
+Revenue, expenditure and budgetary balance   General governments (table 36 10 0477 01).
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+An overview of the scope and structure of the Pension Satellite Account and a description of the sources and methods used to derive its stock and flow estimates are available in the Guide to the Canadian Pension Satellite Account (Catalogue number13 599 X).
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

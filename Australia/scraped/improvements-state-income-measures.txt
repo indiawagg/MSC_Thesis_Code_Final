@@ -1,0 +1,78 @@
+Date:
+2020-11-20
+Article Title:
+ Improvements to state income measures
+
+Article Content:
+The Australian Bureau of Statistics has improved the measurement of income from gross state product (GSP) and related components in the state household income accounts. This article provides a summary of improvements to the methods and data sources used to compile these statistics.
+State and territory estimates of income from GSP (GSP (I)) are compiled by apportioning national results across jurisdictions using appropriate indicators. 
+Income from GSP is measure by:
+\(% MathType!MTEF!2!1!+ 
+% feaahqart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+% 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq Jc9
+% vqaqpepm0xbba9pwe9Q8fs0 yqaqpepae9pg0FirpepeKkFr0xfr x
+% fr xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGcbaGaam4raiaado
+% facaWGqbGaaiikaiaadMeacaGGPaGaeyypa0ZaaabqaeaacaWG0bGa
+% am4BaiaadshacaWGHbGaamiBaiaaykW7caWGMbGaamyyaiaadogaca
+% WG0bGaam4BaiaadkhacaaMc8UaamyAaiaad6gacaWGJbGaam4Baiaa
+% d2gacaWGLbGaaGjcVpaaBaaaleaacaWGPbGaamOBaiaadsgacaWG1b
+% Gaam4CaiaadshacaWGYbGaamyEaiaayIW7caWGybaabeaaaeqabeqd
+% cqGHris5aOGaey4kaSIaamiDaiaadggacaWG4bGaamyzaiaadohaca
+% aMc8UaamiBaiaadwgacaWGZbGaam4CaiaaykW7caWGZbGaamyDaiaa
+% dkgacaWGZbGaamyAaiaadsgacaWGPbGaamyzaiaadohacaaMe8Uaam
+% 4Baiaad6gacaaMc8UaamiCaiaadkhacaWGVbGaamizaiaadwhacaWG
+% JbGaamiDaiaadMgacaWGVbGaamOBaiaaykW7caWGHbGaamOBaiaads
+% gacaaMc8UaamyAaiaad2gacaWGWbGaam4BaiaadkhacaWG0bGaam4C
+% aaaa!8C84!
+GSP(I) = \sum {total\,factor\,income{{\kern 1pt} _{industry{\kern 1pt} X}}} + taxes\,less\,subsidies\;on\,production\,and\,imports\)
+Where,
+\(% MathType!MTEF!2!1!+ 
+% feaahqart1ev3aaatCvAUfeBSjuyZL2yd9gzLbvyNv2CaerbuLwBLn
+% hiov2DGi1BTfMBaeXatLxBI9gBaerbd9wDYLwzYbItLDharqqtubsr
+% 4rNCHbGeaGqiVu0Je9sqqrpepC0xbbL8F4rqqrFfpeea0xe9Lq Jc9
+% vqaqpepm0xbba9pwe9Q8fs0 yqaqpepae9pg0FirpepeKkFr0xfr x
+% fr xb9adbaqaaeGaciGaaiaabeqaamaabaabaaGceaqabeaacaWGub
+% Gaam4BaiaadshacaWGHbGaamiBaiaaykW7caWGMbGaamyyaiaadoga
+% caWG0bGaam4BaiaadkhacaaMc8UaamyAaiaad6gacaWGJbGaam4Bai
+% aad2gacaWGLbGaaGjcVpaaBaaaleaacaWGPbGaamOBaiaadsgacaWG
+% 1bGaam4CaiaadshacaWGYbGaamyEaiaayIW7caWGybaabeaakiabg2
+% da9iaadogacaWGVbGaamyBaiaadchacaWGLbGaamOBaiaadohacaWG
+% HbGaamiDaiaadMgacaWGVbGaamOBaiaaykW7caWGVbGaamOzaiaayk
+% W7caWGLbGaamyBaiaadchacaWGSbGaam4BaiaadMhacaWGLbGaamyz
+% aiaadohacaaMc8UaaiikaiaadoeacaWGpbGaamyraiaacMcacaaMi8
+% +aaSbaaSqaaiaadMgacaWGUbGaamizaiaadwhacaWGZbGaamiDaiaa
+% dkhacaWG5bGaaGjcVlaadIfaaeqaaaGcbaGaaGzbVlaaywW7caaMf8
+% UaaGzbVlaaywW7caaMf8UaaGzbVlaaywW7caaMf8UaaGzbVlaaysW7
+% caaMf8UaaGjbVlaaysW7caaMe8UaaGPaVlabgUcaRiaaysW7caWGNb
+% GaamOCaiaad+gacaWGZbGaam4CaiaaykW7caWGVbGaamiCaiaadwga
+% caWGYbGaamyyaiaadshacaWGPbGaamOBaiaadEgacaaMc8Uaam4Cai
+% aadwhacaWGYbGaamiCaiaadYgacaWG1bGaam4CaiaaykW7caGGOaGa
+% am4raiaad+eacaWGtbGaaiykaiaayIW7daWgaaWcbaGaamyAaiaad6
+% gacaWGKbGaamyDaiaadohacaWG0bGaamOCaiaadMhacaaMi8Uaamiw
+% aaqabaaakeaacaaMf8UaaGzbVlaaywW7caaMf8UaaGzbVlaaywW7ca
+% aMf8UaaGzbVlaaywW7caaMf8UaaGzbVlaaysW7caaMe8UaaGjbVlaa
+% ysW7caaMc8Uaey4kaSIaaGjbVlaadEgacaWGYbGaam4Baiaadohaca
+% WGZbGaaGPaVlaad2gacaWGPbGaamiEaiaadwgacaWGKbGaaGPaVlaa
+% dMgacaWGUbGaam4yaiaad+gacaWGTbGaamyzaiaaykW7caGGOaGaam
+% 4raiaad2eacaWGjbGaaiykaiaayIW7daWgaaWcbaGaamyAaiaad6ga
+% caWGKbGaamyDaiaadohacaWG0bGaamOCaiaadMhacaaMi8Uaamiwaa
+% qabaaaaaa!01DD!
+\begin{array}{l}
+Total\,factor\,income{{\kern 1pt} _{industry{\kern 1pt} X}} = compensation\,of\,employees\,(COE){{\kern 1pt} _{industry{\kern 1pt} X}}\\
+\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \;\quad \;\;\;\, + \;gross\,operating\,surplus\,(GOS){{\kern 1pt} _{industry{\kern 1pt} X}}\\
+\quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \quad \;\;\;\;\, + \;gross\,mixed\,income\,(GMI){{\kern 1pt} _{industry{\kern 1pt} X}}
+\end{array}\)
+Total factor income (TFI) and its components are compiled by industry.
+Improvements have been made to the estimation of GSP(I) through the incorporation of higher quality indicators. The following improvements have been implemented in the 2019 20 release of State Accounts:
+The improvements outlined above increased coherence across estimates within the state accounts, evident by reduced statistical discrepancy in nominal GSP. The statistical discrepancy relative to GSP reduced significantly with the improvement to income measures in the state accounts. Over the 30 year published timeseries, the statistical discrepancy contributed to less than 1.0% of GSP for each jurisdiction.
+  Incorporated higher quality indicators of COE, GOS and GMI by state by industry from the Economic Activity Survey.
+  Independent compilation of state and territory GOS and GMI. That is, compiled GOS by industry division by state, and GMI by industry division by state as opposed to GOS plus GMI by industry division by state. 
+  Compiled GMI in the state household income accounts to ensure consistency with total GMI by industry by state.
+The increased coherence across the state accounts enables future developments in the State Accounts program
+Improvements to compilation methods and the incorporation of higher quality data sources have resulted in revisions to the following timeseries (1989 1990 to 2018 19):
+  COE by state by industry division, which contributes to GSP, the state household income accounts, and the state agricultural income tables.
+  GOS plus GMI by state by industry division, which contributes to GSP.
+  GMI by state in the state household income accounts.
+  COE by state by sector which impacts quarterly estimates to be published in the September quarter 2020 release of Australian National Accounts: National Income, Expenditure and Product.
+  Chain volume measures of GSP are calculated by deflating the current price values of income from GSP by the implicit price deflators of the directly measured components of expenditure on GSP (i.e. state final demand and international trade). 

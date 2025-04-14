@@ -1,0 +1,24 @@
+Date:
+2024-11-07
+Article Title:
+ Export and Import Invoice Currencies, 2023-24
+
+Article Content:
+This article provides analysis, and a downloadable spreadsheet, relating to the major currencies used to invoice goods exported from and imported into Australia. The article follows similar analysis and statistics presented in the ABS article Export and Import Invoice Currencies, 2020 21.
+An invoice currency is the currency in which an invoice for exported or imported goods is denominated, prior to conversion to Australian Dollar (AUD).
+  In 2023 24, 88.9% of merchandise exports were invoiced in the United States Dollar (USD) and 8.8% in the Australian Dollar (AUD).
+  In 2023 24, 55.7% of merchandise imports were invoiced in the USD and 31.9% in the AUD.
+  In each of the financial years between 2015 16 and 2023 24, the United States Dollar (USD) was the most dominant currency used to invoice merchandise export transactions, representing an average of 86.5% of total value.
+  Across the nine year period, the AUD consistently accounted for the majority of the remaining merchandise export value, representing an average of 11.0% of total value.
+  During the period 2015 16 to 2023 24, the proportion of merchandise exports value invoiced in the USD increased by 7.4 percentage points to 88.9%, while the AUD decreased by 6.5 percentage points to 8.8%.
+  Changes in the value for each currency can be influenced by commodity movements over time. For example, the most dominant commodity group (metalliferous ores) is invoiced in USD for more than 99% of value. In addition, between 2015 16 and 2023 24, metalliferous ores increased from 28% to 32% of total value. 
+  During the period 2015 16 to 2023 24, the proportion of merchandise imports invoiced in both the USD and AUD remained relatively stable.
+  Imports invoiced in the USD consistently contributed more than half of all merchandise imports, averaging 55.5% per year over the 9 year period.
+  The AUD was the second most dominant currency, averaging 31.7% of imports per year.
+  While the Chinese Renminbi (RMB) remained a relatively minor currency in 2023 24 (1.4% of total merchandise imports), the proportion invoiced in RMB has doubled since 2015 16.
+Information on the invoice currencies used in export and import transactions is collected by the Department of Home Affairs and delivered to the ABS with other merchandise trade information required for statistical purposes.
+For exports, the ABS converts values reported in foreign currencies to the AUD using Reserve Bank of Australia daily exchange rates, based on the date of departure of the goods.
+For imports, the Department of Home Affairs converts values reported in foreign currencies to the AUD using exchange rates applicable on the date of departure of the goods from the overseas country. The ABS is provided details of the invoice currency, combined with the value of the import transaction denominated in the AUD.
+Some factors may complicate the measurement of invoice currencies. In Australian export and import statistics foreign currencies are converted to the AUD, using the exchange rate applicable on the day of shipment. Some trading partners may undertake the conversion using a different exchange rate or one applicable on a different day. Additionally, some exporters and importers hedge exchange rates and calculate the value of the transaction using the hedged exchange rate rather than the prevailing exchange rate (see the Further information section below for more details about hedging activity).
+Similar analysis was included in previous editions of International Trade in Goods and Services, Australia, including the September 2021, October 2016, June 2014, and June 2012 editions.
+For more information about hedging activity undertaken by importers and exporters in 2022, refer to .

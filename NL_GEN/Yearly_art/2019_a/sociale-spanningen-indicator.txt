@@ -1,0 +1,15 @@
+Title: Socialespanningenindicator
+Date: 2019-11-19 10:00:00 UTC
+
+Lead Text:
+                Een experimentele tool maakt het mogelijk om snel een actuele indicatie te krijgen van de veranderingen in sociale spanning en emoties in de samenleving. 
+Deze indicator is gebaseerd op het percentage berichten in openbaar beschikbare (sociale) media dat woorden bevat die te maken hebben met sociale spanning, onrust en justitie- en veiligheidsonderwerpen.
+            
+
+Article Content:
+Dit dashboard geeft dagelijks een indicatie van de sociale spanning en emoties in de samenleving.
+Door de toevoeging van indicatoren voor vijf belangrijke emoties (angst, woede, blijheid, verdriet en walging) is in het dashboard ook te zien welke emoties toe- en afnemen op dagen van verhoogde sociale spanning. De sentimentindicator laat daarnaast veranderingen in het sentiment (positief, neutraal of negatief) over de tijd zien.
+Hoe dit werkt ziet u in onderstaande video:
+[video: https://www.cbs.nl/nl-nl/video/fbcf8e0e4fc946309d73e8ac409d228e]
+
+

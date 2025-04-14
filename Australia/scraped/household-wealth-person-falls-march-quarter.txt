@@ -1,0 +1,17 @@
+Date:
+2020-06-25
+Article Title:
+ Household wealth per person falls in the March quarter
+
+Article Content:
+Average household wealth decreased 2.3 per cent (down $9,982) to $428,585 per person, the largest decrease since the September quarter 2011, according to figures released today by the Australian Bureau of Statistics (ABS).
+A fall in superannuation balances (8.2 per cent) and directly held equity holdings (5.3 per cent) contributed to reversing the household wealth gain in the December 2019 quarter. These falls were partly offset by a real (inflation adjusted) holding gain on land and dwellings of 1.9 per cent. Overall, total household wealth decreased 1.8 per cent in the March quarter 2020. A 0.5 per cent increase in the population was the reason average wealth fell more than total wealth.
+ABS Chief Economist Bruce Hockman said: "The March quarter 2020 financial account reflects the Australian financial markets early response to the economic uncertainty brought on by the COVID 19 pandemic."
+Private trading corporations, superannuation, non financial and non money market investment funds responded to the events of the March quarter 2020 by increasing liquidity in deposit balances. Private trading corporations increased deposit balances by 8.5 per cent, in anticipation that COVID 19 would negatively impact cash flows and their ability to cover expenses. Non financial and non money market investment funds boosted deposit balances to meet anticipated redemptions, largely from superannuation. Superannuation deposits also increased in preparation for members request for superannuation entitlements early.
+The deposit assets of banks increased 60.5 per cent, as the Reserve Bank of Australia injected extra liquidity into the financial system.
+While Australian banks typically rely on deposits to fund lending and debt issuances to manage liquidity, demand in the global debt markets plummeted in the second half of March quarter 2020 as institutional investors became more risk averse in response to the economic uncertainty created by the COVID 19 pandemic. This lack of activity reduced the ability of financial institutions to balance exposure to short term deposit liabilities with long term loan assets.
+The ABS has published a  article for this release which examines the impacts of COVID 19 pandemic on household wealth and superannuation. The article also shows some impacts of the RBA and government policy interventions on financial markets.
+  The time series for this release starts in June quarter 1988.
+  When reporting ABS data, the Australian Bureau of Statistics (or ABS) must be attributed as the source.
+  For media requests and interviews, contact the ABS Media Team on 1300 175 070 (8:30am   5:00pm Mon Fri).
+  Subscribe to our  and get media releases or products sent to you on release.

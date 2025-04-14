@@ -1,0 +1,21 @@
+Date:
+2024-11-21
+Article Title:
+The Daily — Census of Environment: Urban greenness, 2024
+Article Content:
+Released: 2024 11 21
+Canadian cities and towns were greener in the summer of 2024 compared with one year earlier, mostly due to less severe drought conditions across the country.
+"Urban greenness" is a measure that assesses the condition and health of an urban landscape. Vegetation contributes to more livable, beautiful communities by helping to clean the air, moderate the local climate, control water flow and provide habitats for wildlife, including mammals, insects and birds. 
+In the summer of 2024, just over three quarters (75.6%) of the land area of 1,016 population centres across Canada was classed as green, up slightly from 74.1% in the summer of 2023. 
+In the summer of 2024, Atlantic Canada had the greenest cities and towns in the country, while population centres in the Prairies had the lowest levels of greenness. These regional differences reflect geographical climate patterns and their effects on natural vegetation.
+Based on satellite imagery analysis, large urban population centres that were the greenest in the summer of 2024 were Kanata, Ontario (96.6%); St. John's, Newfoundland and Labrador (95.5%); Saint Jérôme, Quebec (94.7%); Gatineau, Quebec (94.2%); and Sherbrooke, Quebec (92.0%). 
+More than two thirds (70.3%) of the land area of Canada's large urban population centres was classed as green in the summer of 2024, up from 68.1% in the summer of 2023. The largest increase occurred in Saskatchewan, where the average vegetation greenness score rose 9.6 percentage points from one year earlier to 50.4%.
+Year over year, urban greenness rose in four of the five largest cities in the Prairie provinces in the summer of 2024, with Saskatoon (+22.1 percentage points to 46.0%) showing the largest increase. In contrast, Edmonton's urban greenness score dropped 9.6 percentage points to 44.2%.
+Urban greenness increased in all the largest cities of Atlantic Canada, Quebec, and British Columbia from one year earlier, with the exceptions of Saint Jérôme, Quebec ( 0.7 percentage points to 94.7%) and Victoria, British Columbia ( 0.9 percentage points to 84.5%). 
+Year over year, urban greenness rose in 9 of the 14 largest cities in Ontario, with Milton having the largest increase (+7.5 percentage points to 53.3%).
+Overall, the long term trend shows a decrease in urban greenness in Canada from 2000 to 2024. 
+Both urban expansion and densification can result in reductions in the quantity and quality of green areas in population centres. For example, built up area on the periphery of cities and towns grew by over 370 km2 from 2010 to 2020.
+Average urban greenness has fallen by 8.0 percentage points nationally when comparing the most recent five year period (2020 to 2024) to the baseline period (2000 to 2004).
+Urban greenness declined in every province and every major urban area over this period, with the largest drops seen in Canada's large urban population centres ( 10.4 percentage points from the 2000 to 2004 average to the current five year average). 
+The products "Urban greenness: Geospatial files" and "Urban greenness: Data product specifications" are now available in Census of Environment: Spatial information products (Catalogue number16 510 X).
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

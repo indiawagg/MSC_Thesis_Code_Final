@@ -1,0 +1,27 @@
+Title: Bijna helft grote bedrijven gebruikt Artificial Intelligence
+Date: 2021-10-14 22:00:00 UTC
+
+Lead Text:
+                In 2019 gebruikte 45 procent van de grote bedrijven (meer dan 500 werkzame personen) een of meer Artificial Intelligence-technologieën. Gemiddeld maakte 12 procent van de Nederlandse bedrijven gebruik van bijvoorbeeld spraakherkenning, machine learning en patroon- of gezichtsherkenning. Dit meldt het CBS in de publicatie ICT, kennis en economie 2021.
+            
+
+Article Content:
+            De cijfers over het gebruik van  door bedrijven zijn afkomstig uit een enquête onder bedrijven met tien of meer werkzame personen. Niet alle bedrijfstakken behoren tot de onderzoekspopulatie; onder andere landbouwbedrijven zijn niet ondervraagd.  
+Ruim een derde bedrijven in informatie en communicatie gebruikt AI
+
+In de informatie en communicatie zette 34 procent van de bedrijven in 2019 één of meer AI-technologieën in. Ook in de ICT-sector (32 procent) en bij researchinstellingen (28 procent), onderdeel van de bedrijfstak advies en onderzoek, gebruikten bedrijven relatief vaak AI. In andere bedrijfstakken, zoals de horeca, bouw en transport, maakten bedrijven beperkt gebruik van deze technologieën.
+Het gebruik van AI neemt evenredig toe met de bedrijfsgrootte. Kleine bedrijven, met 10 tot 20 werkzame personen, gebruikten het minst AI-technologie (8 procent).
+
+ 
+Machine learning meest gebruikte AI-technologie
+
+Machine learning voor data-analyse is de meeste gebruikte vorm van AI-technologie: 6 procent van de bedrijven paste deze technologie toe in 2019. Dit zijn technologieën waarbij data-analyse wordt uitgevoerd door het gebruik van zelflerende algoritmes.
+ Bijna een kwart van de grote bedrijven (500 of meer werkzame personen) zette deze vorm van AI in, tegen 4 procent van de kleine bedrijven (10-20 werkzame personen). Patroon- of gezichtsherkenning (beelden identificeren) en robot-ondersteunde procesautomatisering (menselijke handelingen nabootsen, zoals in een geautomatiseerd orderverzamelingssysteem) werd door 4 procent van de bedrijven toegepast.
+
+ 
+Robot-ondersteunende procesautomatisering meeste gebruikt in industrie 
+
+In de industrie zette 8 procent van de bedrijven robot-ondersteunende procesautomatisering in. Het was daarmee de meest gebruikte vorm van AI onder industriële bedrijven. In de gezondheidszorg werd spraakherkenning het vaakst gebruikt (6 procent). In alle andere bedrijfstakken was machine learning het meest gebruikte type AI-technologie in 2019.
+Bedrijven in ICT-gerelateerde bedrijfstakken gebruikten relatief vaak meerdere AI-technologieën. 12 procent van de bedrijven in de informatie en communicatie en 11 procent van de bedrijven in de ICT-sector pasten vier of meer AI-technologieën toe, tegen 2 procent voor alle bedrijven met 10 of meer werkzame personen.
+
+

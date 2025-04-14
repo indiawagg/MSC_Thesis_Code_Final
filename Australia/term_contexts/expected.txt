@@ -1,0 +1,943 @@
+Title : pandemic-insights-australian-smokers-2020-21.txt
+Context: 
+   Errors in coding or processing the survey data . 
+ Sampling error is the expected difference that can occur between the published estimates and the value that would have
+Context:confidence interval expresses the sampling error as a range in which the population value is expected to lie at a given level of confidence . A confidence interval is calculated
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-november-2022.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : twenty-seven-years-prisoners-australia.txt
+Context:be taken when comparing most serious offence data prior to 2018 . These changes are expected to have a marginal impact at the ANZSOC Division level . 
+ The Corrective
+
+Title : insights-government-finance-statistics-march-2024.txt
+Context:and Western Australia ( c ) . 
+ Recent announcements for energy bill relief are expected to contribute further strength to state social benefits in the 2024 25 financial year
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-doctor-certified-deaths.txt
+Context:the difference between the observed number of deaths in a specified time period and the expected numbers of deaths in that same time period . Excess mortality measures can account
+Context:19 pandemic . Different methodologies can be applied , with the goal to predict an expected number of deaths for a given year . Estimating the expected future seasonality for
+Context:goal to predict an expected number of deaths for a given year . Estimating the expected future seasonality for deaths can be a challenge in many models . The suitability
+Context:applying   a cyclical linear regression with a robust estimation procedure to produce both an expected number of deaths and a range of expected deaths for 2022 . The model
+Context:robust estimation procedure to produce both an expected number of deaths and a range of expected deaths for 2022 . The model has been applied to all cause and cause
+Context:annually are certified by a doctor , with some variability across jurisdictions .  
+ The expected number of deaths in 2022 has been projected using 2016 as the beginning of
+Context:patterns of mortality . While the actual number of deaths may be different from the expected number of deaths , it should fall within an expected range ( i.e. there
+Context:may be different from the expected number of deaths , it should fall within an expected range ( i.e. there is a 95 % chance that the expected number of
+Context:fall within an expected range ( i.e. there is a 95 % chance that the expected number of deaths would lie between the upper and lower bounds of the confidence
+Context:2016 to February 2022 that has   the number of actual observations plotted against the expected number of deaths estimated from the regression . The upper and lower thresholds (
+Context:death during the COVID 19 pandemic .  
+   There were 4,732   more deaths than expected in the first two months of 2022 . 
+   For all weeks in 2022
+Context:2022 . 
+   For all weeks in 2022 the number of deaths was higher than expected .  
+   For all weeks in 2022 the number of deaths exceeded the upper
+
+Title : deaths-due-covid-19-influenza-and-rsv-australia-2022-september-2024.txt
+Context:this cause .  
+ All data presented in this article is provisional . It is expected that numbers of deaths due to these causes will increase for more recent time
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-august-2023.txt
+Context:the difference between the observed number of deaths in a specified time period and the expected numbers of deaths in that same time period . Excess mortality measures can account
+Context:refers to the first 34 weeks of 2023 , up until 27 August 2023 . Expected mortality in this article is modelled as being in the absence of the COVID
+Context:COVID 19 pandemic . 
+ Key points : 
+   Mortality is 6.1 % higher than expected for the first eight months of 2023 .  
+   Mortality in July and August
+Context:months of 2023 .  
+   Mortality in July and August of 2023 is closer to expected levels .  
+   Mortality in the first eight months of 2022 was 14.1 %
+Context: 
+   Mortality in the first eight months of 2022 was 14.1 %   higher than expected .  
+ Australia has had multiple waves of COVID 19 infections since the start
+Context: 
+ The following table shows excess mortality for each jurisdiction expressed as the percentage above expected for that year . 
+ Excess mortality measures have been a common statistical tool
+Context:between the total number of deaths from all causes in a specified period and the expected numbers of deaths from all causes in that same period . Excess mortality measures
+Context:19 pandemic . Different methodologies have been applied , with the goal to predict an expected number of deaths for a given year . Choice of model and baseline can
+Context:for a given year . Choice of model and baseline can markedly affect estimates of expected ( and therefore excess ) mortality . Estimating the expected future seasonality for deaths
+Context:can markedly affect estimates of expected ( and therefore excess ) mortality . Estimating the expected future seasonality for deaths can be a challenge in many models . The suitability
+Context:applying   a cyclical linear regression with a robust estimation procedure to produce both an expected number of deaths and a range of expected deaths . The ABS has applied
+Context:robust estimation procedure to produce both an expected number of deaths and a range of expected deaths . The ABS has applied this model to estimate age specific death rates
+Context:model to estimate age specific death rates for certain age groups , and converted the expected death rates into an expected number of deaths for each age group . These
+Context:death rates for certain age groups , and converted the expected death rates into an expected number of deaths for each age group . These are then added across age
+Context:for each age group . These are then added across age groups to obtain an expected count for the total population .   Using ASDRs allows for changes in population
+Context:patterns of mortality . While the actual number of deaths may be different from the expected number of deaths , it should fall within an expected range ( i.e. there
+Context:may be different from the expected number of deaths , it should fall within an expected range ( i.e. there is a 95 % chance that the expected number of
+Context:fall within an expected range ( i.e. there is a 95 % chance that the expected number of deaths would lie between the upper and lower bounds of the confidence
+Context:until the end of winter ) for Australia   is estimated at 6.1 % above expected .  
+   This compares to 14.1 % for the first eight months of 2022
+Context:of 2023 . Since mid July , mortality has returned   more closely to   expected levels . 
+   Excess mortality has been consistently recorded over 2022 and the first
+Context:period corresponded with COVID 19 waves .  
+   Deaths were   significantly lower   than expected from the week beginning 1 June to mid July 2020 , dropping below lower
+Context:, it does show   an actual pattern of mortality where deaths were higher than expected . In past years excess mortality has typically   occurred during the winter months
+Context:end of winter ) for New South Wales is estimated at   4.8 % above expected .  
+   This compares to 15.0 % for the first eight months of 2022
+Context:  November 2022 to the end of July 2023 New South Wales recorded higher than expected mortality .   
+   COVID 19 associated mortality as recorded on death certificates   has
+Context:Wales   during 2022 and   2023 .  
+   Mortality in August was lower than expected . The number of deaths recorded in New South Wales during this period may
+Context:February 2023 and May to June 2023 . 
+   Excess mortality was 11.5 % above expected for 2022 . 
+   New South Wales   did not record excess mortality during
+Context:wave in the second half of 2021 .  
+   Although most jurisdictions recorded lower than expected mortality across the winter and spring months of 2020 .   New South Wales
+Context:until the end of winter ) for Victoria   is estimated at 7.6 % above expected .  
+   This compares to 16.9 % for the first eight months of 2022
+Context:the end of May 2023 .  
+   From June 2023 , mortality falls into the expected range of variation and is close to expected for much of this period .
+Context:June 2023 , mortality falls into the expected range of variation and is close to expected for much of this period .  
+   Victoria had the second highest excess mortality
+Context: 
+   Victoria had the second highest excess mortality recorded in 2022 at 14.0 % above expected .  
+   The highest peak in January 2022 ( 1,045 deaths ) was  
+Context:until the end of winter ) for Queensland   is estimated at 5.9 % above expected . 
+   This compares to 13.1 % for the first eight months of 2022
+Context:.  
+   Between February 2023 and May 2023 mortality in Queensland was mostly in the expected bounds of variation .  
+   During July and August 2023 mortality in Queensland is
+Context:of variation .  
+   During July and August 2023 mortality in Queensland is close to expected levels .  
+   Queensland   has some   distinct peaks of excess mortality since
+Context: 
+   Excess mortality in Queensland   for 2021 was 1.0 % and fell within the expected range of variation . 
+   Queensland was one of three   jurisdictions ( alongside
+Context:the end of winter ) for South Australia   is estimated at 6.2 % above expected . 
+   This compares to 11.4 % for the first eight months of 2022
+Context:the first eight months of 2022 . 
+   The number of deaths was within the expected range of variation for all weeks except one in the first eight months  
+Context: 
+   In July and August of 2023 , deaths in South Australia were close to expected .  
+   Except for two weeks in March , excess mortality was sustained in
+Context:key contributor to increased mortality during this time .   
+   Mortality was generally in the expected range of variation during the first two years of the pandemic . From June
+Context:. From June 2020 to the start of 2021 , mortality was mostly lower than expected .  
+   Excess mortality for the first eight months of 2023 ( until the
+Context:the end of winter ) for Western Australia   is estimated at 5.5 % above expected .  
+   This compares to 6.5 % for the first eight months of 2022
+Context: 
+   Mortality in Western Australia from the end of June 2023   was close to expected .  
+   Between April and May 2023 , deaths due to COVID 19 (
+Context:first two years of the pandemic ,   mortality in WA was generally within the expected range of variation . There was less than 1 % excess mortality in 2021
+Context:was less than 1 % excess mortality in 2021 . In 2020 , lower than expected mortality was recorded , with   a period of statistically significant lower than expected
+Context:than expected mortality was recorded , with   a period of statistically significant lower than expected mortality between   August and September .  
+   Excess mortality for the first eight
+Context:until the end of winter ) for Tasmania   is estimated at 12.6 % above expected . Tasmania has the highest recorded excess mortality rate of all jurisdictions .  
+  
+Context:From the end of July to the end of August 2023 mortality was close to expected .   
+   Deaths due to COVID 19 ( as identified on death certificates )
+Context:2022 . 
+   Prior to September 2021 , mortality in Tasmania was generally in the expected range . Similar to other states , there was a period of lower than
+Context:expected range . Similar to other states , there was a period of lower than expected mortality in 2020 . 
+   Excess mortality estimates for the Northern Territory are only
+Context:autumn ) for the Northern Territory   is estimated at   2.9 % below   expected . 
+   This compares to 14.1 % above expected for the five months of
+Context:at   2.9 % below   expected . 
+   This compares to 14.1 % above expected for the five months of 2022 .  
+   Excess mortality estimates for the Northern
+Context:low number of weekly deaths , calibration by age was not possible . Predicting an expected number of deaths from a small base can lead to volatility . This is
+Context:small base can lead to volatility . This is evident from the range of the expected number    the upper and lower bounds are wider to account for this high
+Context:in 2023   the number of deaths in the Norther Territory have been lower than expected . For most of the pandemic , mortality in the NT has been in
+Context:. For most of the pandemic , mortality in the NT has been in the expected range of variation .  
+   COVID 19 ( as identified on death certificates )
+Context:of winter ) for the Australian Capital Territory is estimated at 1.0 % below   expected . 
+   This compares to 10.2 % above expected for the first eight months
+Context:estimated at 1.0 % below   expected . 
+   This compares to 10.2 % above expected for the first eight months of 2022 . 
+   Since the end of April
+Context:end of April 2023 , mortality in the Australian Capital Territory has generally been below expected .   
+   Mortality in all weeks except three   in the first eight months
+Context:weeks except three   in the first eight months   of 2023 was within the expected   bounds of variation .  
+   Over the winter months of 2022 , deaths
+Context:certificates ) was a key contributor to excess mortality .   
+   Mortality was lower than expected across the first two years of the pandemic in the   Australian Capital Territory
+Context:over 95 years recorded the highest proportion of excess deaths at 12.1 % higher than expected . This age group has recorded the highest proportion of excess deaths each year
+Context:In 2020 , all age groups except those aged under 34 years recorded lower than expected excess mortality . In this age group 30 deaths above expected were recorded (
+Context:years recorded lower than expected excess mortality . In this age group 30 deaths above expected were recorded ( 0.7 % ) . This number and proportion is considered to
+Context:( 0.7 % ) . This number and proportion is considered to be within the expected range rather than statistically significant excess mortality .  
+ The analysis of 2020 2023
+Context:point . 
+ An upper threshold was chosen to define the upper limit of the expected number of deaths in the absence of an influenza epidemic . This upper threshold
+Context:down weighting outliers it aims to fit the model to patterns of mortality that are expected to occur in the absence of an epidemic .   This robust regression down
+Context:. However , any prolonged period of weeks , 2 or more , exceeding the expected range can suggest excess mortality has been signalled . 
+ The SAS function PROC
+Context:also the variance of the model parameter estimates . This provides an estimate of the expected variability of the observed values in the absence of an epidemic . 
+ Choosing
+Context:the number of years in the baseline ) is important as it can change the expected number of deaths . When selecting the reference period key attributes were required :
+Context:years to test ( these are presented below ) . Each baseline produced slightly different expected counts of deaths , which altered the % excess figures . The ABS decided
+Context:, no data from 2020 2023 is part of the reference period when predicting the expected number of deaths . Estimates of excess mortality are more accurate for years that
+Context:meaning the pattern of death should be stable over a period   to estimate an expected trend accurately . 
+   The baseline period needed to be applied consistently across jurisdictions
+Context:the rate of decline during 2015 2019 , resulting in a very low number of expected deaths in 2022 and 2023 . 
+   Not all jurisdictions experienced a severe influenza
+Context:overstating the rate of decline in WA and resulting in a very low number of expected deaths in 2022 and 2023 . This was also affected by the model –
+Context:harmonic with trend model is being used , volatility in the input trend affected the expected number of deaths . 
+   For smaller jurisdictions with low numbers of weekly deaths
+Context:for this analysis . 
+ Weekly mortality rates were calculated for 2013 2019 to predict expected weekly rates of death for 2020 2023 . Rates were then converted to numbers
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-march-2023.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-may-2022.txt
+Context:New South Wales . Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : impacts-flooding-december-quarter-2022.txt
+Context:assessments and repair of flood affected schools in New South Wales . This expenditure is expected to continue into 2023 .  
+ Defence personnel were deployed into flood affected regions
+
+Title : domestic-violence-experiences-partner-emotional-abuse.txt
+Context:a limitation , restriction , impairment , disease or disorder has lasted , or is expected to last for six months or more , which restricts everyday activities . 
+
+
+Title : deaths-due-acute-respiratory-infections-australia-2022-march-2024.txt
+Context:this cause .  
+ All data presented in this article is provisional . It is expected that numbers of deaths due to these causes will increase for more recent time
+
+Title : pharmaceutical-benefits-scheme-supplied-medications.txt
+Context:were current at the time of the survey interview and had lasted , or were expected to last , 6 months or more . Selected chronic conditions are a subset
+
+Title : australian-economy-12-things-you-need-know-about-december-quarter-2021.txt
+Context:of 2021 . But , businesses plan to increase their investment significantly , with their expected capital expenditure for 2022‑23 growing by 10.8 % . 
+   International trade slowed during
+
+Title : insights-government-finance-statistics-june-2022.txt
+Context:22.1 cents per litre from 30 March 2022 . The reduction in fuel excise is expected to continue until 28 September 2022 . 
+   44.2 % rise in company income
+
+Title : insights-job-mobility-quarterly-labour-force-statistics-february-2022.txt
+Context:of quarterly measures from the Labour Force Survey that also provide insights into recent and expected mobility . These include information on employment tenure and future expectations ( which have
+Context:was relatively consistent with previous November to February movements . 
+ People indicating that they expected to retire in the next year also increased , up to 179,000 people in
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-january-2023.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : insights-australian-smokers-2021-22.txt
+Context: 
+   Errors in coding or processing the survey data . 
+ Sampling error is the expected difference that can occur between the published estimates and the value that would have
+Context:confidence interval expresses the sampling error as a range in which the population value is expected to lie at a given level of confidence . A confidence interval is calculated
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-july-2022.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : insights-job-mobility-quarterly-labour-force-statistics.txt
+Context:of quarterly measures from the Labour Force Survey that also provide insights into recent and expected mobility . These include information on employment tenure and future expectations ( which have
+Context:around 24,000 over the previous five August November periods . 
+ People indicating that they expected to retire in the next year also increased , up to 159,000 people in
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-january-2024.txt
+Context:% ) during the Delta wave . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ COVID 19
+
+Title : monthly-international-trade-services-compilation-guide.txt
+Context:the use of intellectual property . These adjustments reflected the increase in spend and activity expected from players , staff , officials , and spectators who travelled to Australia to
+
+Title : autism-australia-2022.txt
+Context:any long term health conditions ( diseases or disorders ) which have lasted or are expected to last for 6 months or more . Autism is one of the long
+Context:in this area is conducted and awareness of autism in females increases , it is expected that more accurate diagnosis can be made , which may influence reported prevalence rates
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-june-2022.txt
+Context:New South Wales . Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : position-skills-anzsco.txt
+Context:taken regarding whether microcredentials should be included when recognising skill . It concludes with the expected timeframe for implementation . 
+ ANZSCO has not reflected all changes in skill since
+Context:developing a tool which will enable customised views of the ANZSCO classification . This is expected to support analysis of skill as Occupations can be grouped according to a given
+
+Title : towards-national-ocean-account.txt
+Context:the model , producing a per meter value of seawall construction of $ 11600 . Expected lifespan values of between 25 and 100 years were used , resulting in a
+Context:mangrove forests assumed a normal distribution of age centred around the mid point of an expected life of mangrove ( 100 years ) . And growth was assumed to be
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-november-2023.txt
+Context:% ) during the Delta wave . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ COVID 19
+
+Title : restraint-clauses-australia-2023.txt
+Context:higher proportion of employers reported an increased use than a decreased use . 
+ The expected future use   of each restraint clause was asked of all businesses , regardless
+Context:‘ very likely ’ and 14.4 % indicated ‘ somewhat likely ’ ) .  
+ Expected future use was strongly correlated with an employer ’s current use . 
+ If
+Context:If a business was currently using a clause type , it was highly likely they expected to continue to use it in the future . 77.1 % of businesses that
+Context:business was not currently using a clause type , it was less likely that they expected to use it in the future . 
+ 45.6 % of businesses that did
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-september-2023.txt
+Context:% ) during the Delta wave . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ COVID 19
+
+Title : covid-19-mortality-australia-deaths-registered-until-28-february-2023.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : understanding-life-expectancy-estimates-2020-2022.txt
+Context:of how long , on average , people of a particular age and sex are expected to live . They are not a measure of how long an individual is
+Context:expected to live . They are not a measure of how long an individual is expected to live . 
+ Life expectancy estimates are often used to assess a population
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-october-2022.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : producing-official-statistics-linked-data-technical-report.txt
+Context:other FY . Employing a similar approach to that described above , it is still expected that infilling can provide a reasonable value . In the case of busownyr_bcs there
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-may-2023.txt
+Context:and Victoria . 
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : insights-job-attachment-january-2024.txt
+Context:those not in the labour force compared to previous years . This was to be expected , given the smaller relative size of the not in the labour force population
+Context:consistently larger proportion of the unemployed compared to previous years . This was to be expected , given the smaller relative size of the unemployed population during a particularly tight
+
+Title : deaths-due-covid-19-influenza-and-rsv-australia-2022-may-2024.txt
+Context:this cause .  
+ All data presented in this article is provisional . It is expected that numbers of deaths due to these causes will increase for more recent time
+Context:deaths involving RSV have been increasing . Numbers of deaths due to these causes are expected to increase for all months in 2024 , but especially for May .  
+  
+
+Title : interpreting-abs-productivity-statistics.txt
+Context:the extrapolation was lower than the benchmark estimate . Revisions to indicator based methods are expected which means productivity estimates will also be revised , resulting in an increased likelihood
+Context:increased likelihood of a higher short run distortion to productivity measures . These distortions are expected to recede as firmer source data become available through the supply use benchmarks .
+Context:to temporary economic shocks .  
+ Hours worked , on the other hand , is expected to reflect utilisation more accurately than capital because unutilised / underutilised labour is not
+Context:has been technological innovation in the non market sector , productivity growth measures would be expected to be understated relative to corresponding market sector growth measures.¹⁶ 
+ The ABS has
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic.txt
+Context:of statistically significant excess deaths .  
+   Deaths due to respiratory diseases remained lower than expected in 2021 .  
+ COVID 19 has continued to impact the lives of people
+Context:the difference between the observed number of deaths in a specified time period and the expected numbers of deaths in that same time period . Excess mortality measures can account
+Context:19 pandemic . Different methodologies can be applied , with the goal to predict an expected number of deaths for a given year . Estimating the expected future seasonality for
+Context:goal to predict an expected number of deaths for a given year . Estimating the expected future seasonality for deaths can be a a challenge in many models . The
+Context:applying   a cyclical linear regression with a robust estimation procedure to produce both an expected number of deaths and a range of expected deaths for 2021 . The model
+Context:robust estimation procedure to produce both an expected number of deaths and a range of expected deaths for 2021 . The model has been applied to all cause and cause
+Context:2016 to December 2021 that has   the number of actual observations plotted against the expected number of deaths estimated from the regression . The upper and lower thresholds (
+Context:annually are certified by a doctor , with some variability across jurisdictions .  
+   The expected number of deaths in 2021 has been projected using 2016 as the beginning of
+Context:patterns of mortality . While the actual number of deaths may be different from the expected number of deaths , it should fall within an expected range ( i.e. there
+Context:may be different from the expected number of deaths , it should fall within an expected range ( i.e. there is a 95 % chance that the expected number of
+Context:fall within an expected range ( i.e. there is a 95 % chance that the expected number of deaths would lie between the upper and lower bounds of the confidence
+Context:deaths are above or below normal .  
+   There were over 5,000 deaths more than expected in Australia during 2021 . This is the result of sustained periods during the
+Context:. This is the result of sustained periods during the year which had higher than expected deaths . Only a small number of time periods reached statistical significance . 
+  
+Context:number of time periods reached statistical significance . 
+   There were 1,734 fewer deaths than expected in 2020 with sustained weeks across the winter months reaching statistical significance .  
+  
+Context:across the winter months reaching statistical significance .  
+   There were 3,630 more deaths than expected in 2017 driven by a severe flu season , but higher numbers of these
+Context:statistically significant when compared with 2021 .  
+   There were about 5,000 more deaths than expected in Australia in 2021 .   For most weeks in 2021 the number of
+Context:weeks in 2021 the number of deaths were higher than the projection but within the expected range .  
+   There were five weeks in 2021 where the actual number of
+Context:are single points in time , they all fall within extended periods of higher than expected mortality . 
+   Deaths due to COVID 19 make an impact on all cause
+Context:2021 ( see graph 2 below ) .  
+   There were 1,734 fewer deaths than expected in 2020 with periods during the winter months being statistically significant . The lower
+Context:in 2020 with periods during the winter months being statistically significant . The lower than expected number of deaths provide insight into how COVID 19 public health measures may have
+Context:wave .  
+   A severe influenza season in 2017 contributed to 3,630 more deaths than expected in 2017 . Between mid July to mid September the number of deaths reached
+Context:interpreted with caution . 
+   All jurisdictions except the Northern Territory recorded a higher than expected number of deaths in 2021 .  
+   Victoria and South Australia both   had
+Context:, Queensland , Western Australia , Tasmania and Australian Capital Territory recorded a higher than expected number of deaths , they were generally within the expected range . 
+   Victoria
+Context:Territory recorded a higher than expected number of deaths , they were generally within the expected range . 
+   Victoria has recorded the highest number of deaths above expectation during
+Context:.  
+   New South Wales , Queensland , Western Australia and Tasmania recorded lower than expected deaths in 2020 , with some periods reaching statistical significance in these states (
+Context:, South Australia and Tasmania .  
+   In 2021 there were 13 more deaths than expected in New South Wales . This annual pattern falls within the expected range of
+Context:more deaths than expected in New South Wales . This annual pattern falls within the expected range of doctor certified mortality and the difference is not considered statistically significant .
+Context:beginning 4 October 2021 and the end of November 2021 mortality was generally lower than expected but still within the expected range .  
+   COVID 19 mortality is notable in
+Context:the end of November 2021 mortality was generally lower than expected but still within the expected range .  
+   COVID 19 mortality is notable in all cause mortality figures from
+Context:see graph 2 below ) .  
+   In 2020 there were 1,292 less deaths than expected occurring in New South Wales . Between the week beginning 11 May 2020 and
+Context:week beginning 11 May 2020 and the end of November 2020 mortality was lower than expected . There were four weeks where the reported number of deaths reached statistical significance
+Context:the lower threshold collectively ) .  
+   In 2017 there were 1,876 more deaths than expected with a virulent influenza season occurring . Across the winter months there was sustained
+Context:during this period .  
+   In 2021 there were 2,782 deaths in Victoria above the expected number . For every week except two the number of deaths was above expectation
+Context:3,152 deaths above expectation . There are a number of periods that are outside the expected range indicating statistical significance . There were 504 observations that exceeded the upper bound
+Context:expectation during this period .  
+   In 2021 there were 853 deaths higher than the expected number in Queensland . While there were single weeks of statistically significant excess mortality
+Context:weeks of statistically significant excess mortality , the number of deaths primarily remained within the expected range .  
+   In the weeks beginning 1 February , 22 February , 24
+Context:.  
+   From the end of November 2021 mortality has been sustained at higher than expected levels , although only one week ( 20 December ) reached statistical significance .
+Context:from the virus have occurred in 2022 .  
+   There were 786 less deaths than expected in Queensland in 2020 . From mid April until mid December 2020 , the
+Context:mid April until mid December 2020 , the number of deaths primarily remained lower than expected with three weeks recording statistically significant lower mortality ( weeks beginning 15 June ,
+Context:2020 ) .  
+   From the week beginning 20 January 2020 mortality was higher than expected until the end of March 2020 . Of this period , two weeks reached
+Context:analysed by underlying cause of death only . 
+   There have been 5,966 lower than expected deaths due to respiratory diseases ( including diseases such as influenza , pneumonia and
+Context:) between 2020 and 2021 . There have been prolonged periods where the difference in expected and observed deaths was statistically significant ( 1,646 observations were beyond the lower bound
+Context:the week beginning 6 April 2020 deaths due to respiratory diseases have been lower than expected .  
+   From the week beginning 25 May 2020 until the week beginning 23
+Context:respiratory diseases was last recorded in 2017 .  
+   There have been 4,235 lower than expected deaths due to influenza and pneumonia through the COVID 19 pandemic . Since April
+Context:19 pandemic . Since April 2020 the number of deaths has not once exceeded the expected number of deaths in a weekly period .  
+   For the majority of the
+Context:.  
+   For the majority of the COVID 19 pandemic the difference in observed and expected deaths due to influenza and pneumonia has been statistically significant .  
+   There have
+Context:In 2017 there were 1,061 deaths due to influenza and pneumonia that were higher than expected . There were sustained periods of statistically significant excess mortality with 706 deaths exceeding
+Context:with 706 deaths exceeding the upper threshold .  
+   There have been 188 higher than expected deaths due to chronic lower respiratory conditions in 2021 . There were two weeks
+Context:of November 2020 and May 2021 deaths were sustained above expectation but were primarily within expected range .  
+   Between June and November 2021 deaths due to chronic lower respiratory
+Context:and November 2021 deaths due to chronic lower respiratory conditions   were generally lower than expected for a sustained period but still within the range of expectation .  
+   The
+Context:a sustained period but still within the range of expectation .  
+   The lower than expected number of deaths due to chronic lower respiratory conditions was statistically significant for the
+Context:2017 .  
+   There have been 724 deaths due to cancer that were higher than expected in 2021 . Deaths due to cancer have remained primarily in the expected range
+Context:higher than expected in 2021 . Deaths due to cancer have remained primarily in the expected range during this period .  
+   Over the two week period beginning 22 November
+Context:significantly in excess . This two week period followed a week of statistically lower than expected deaths and the significance of these events should be interpreted with caution .  
+  
+Context:be interpreted with caution .  
+   Between 2016 2019 cancer mortality has generally fallen between expected ranges . Intermittent points where the number of deaths has exceeded the upper threshold
+Context:differ for specific cancer types . 
+   In 2021 , there were 75 less than expected deaths from diabetes . There was one week in 2021 where diabetes deaths exceeded
+Context:and 22 February 2021 ) . This comes after a sustained period of higher than expected deaths due to diabetes in 2020 .  
+   There were 165 higher than expected
+Context:than expected deaths due to diabetes in 2020 .  
+   There were 165 higher than expected deaths due to diabetes observed in 2020 . A period of two consecutive weeks
+Context:the community .  
+ 
+   Deaths from dementia during the COVID 19 pandemic were generally within expected ranges . The majority of observed deaths were below expected deaths in 2020 and
+Context:19 pandemic were generally within expected ranges . The majority of observed deaths were below expected deaths in 2020 and above expected deaths in 2021 .  
+   In 2021 there
+Context:ranges . The majority of observed deaths were below expected deaths in 2020 and above expected deaths in 2021 .  
+   In 2021 there were 523 deaths due to dementia
+Context:.  
+   In 2021 there were 523 deaths due to dementia that were higher than expected . In various weeks over the year , 54 observations collectively were above the
+Context:with caution .  
+   From May 2020 to October 2020 dementia mortality was generally below expected projections . In the weeks beginning 29 June 2020 and 13 July 2020 the
+Context:point . 
+ An upper threshold was chosen to define the upper limit of the expected number of deaths in the absence of an influenza epidemic . This upper threshold
+Context:down weighting outliers it aims to fit the model to patterns of mortality that are expected to occur in the absence of an epidemic .   This robust regression down
+Context:to avoid over fitting of the model . The regression is then used to forecast expected numbers of deaths for the current year . 
+ The cyclical regression model includes
+Context:. However , any prolonged period of weeks , 2 or more , exceeding the expected range can suggest excess mortality has been signalled . 
+ The SAS function PROC
+Context:also the variance of the model parameter estimates . This provides an estimate of the expected variability of the observed values in the absence of an epidemic . 
+ 1
+
+Title : addressing-historical-coherence-experimental-two-year-innovation-rate.txt
+Context:is defined as the proportion of two year innovation active businesses : 
+ The “ expected number of businesses ” is used since complete two year responses were not available
+Context:active in the first year given their relevant characteristics . 
+ The imputation method is expected to have a minimal effect on the final TYIRs since the level of imputation
+Context:a single year to two year reference period , however , these statistics are not expected , nor intended , to match future data .    Most notably , the
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-september-2022.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : weather-and-natural-disaster-impacts-australian-national-accounts.txt
+Context:. 
+ The rebuilding of destroyed or damaged dwellings , commercial buildings and infrastructure is expected to contribute to GDP in future quarters . 
+ At an industry level ,
+
+Title : insights-australian-exports-lithium.txt
+Context:46 % of the world ’s lithium came from Australia and exports of lithium are expected to continue to increase , forecasted to contribute $ 9.4 billion in revenue to
+
+Title : improvements-labour-force-estimation-method.txt
+Context:, the number of employed people in November 2023 , in original terms , is expected to be revised down slightly , by around 0.4 per cent ( around 60,000
+Context:revisions related to the major five yearly population rebenchmarking .  
+ The above summary of expected revisions provides an indication of the changes resulting from the estimation changes , as
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-first-quarter-2023.txt
+Context:refers to the first 12 weeks of 2023 , up until 26 March 2023 . Expected mortality in this article is modelled as being in the absence of the COVID
+Context:
+ The following table shows excess mortality for each jurisdiction expressed as the percentage above expected for that year . 
+ Excess mortality measures have been a common statistical tool
+Context:between the total number of deaths from all causes in a specified period and the expected numbers of deaths from all causes in that same period . Excess mortality measures
+Context:19 pandemic . Different methodologies have been applied , with the goal to predict an expected number of deaths for a given year . Choice of model and baseline can
+Context:for a given year . Choice of model and baseline can markedly affect estimates of expected ( and therefore excess ) mortality . Estimating the expected future seasonality for deaths
+Context:can markedly affect estimates of expected ( and therefore excess ) mortality . Estimating the expected future seasonality for deaths can be a challenge in many models . The suitability
+Context:applying   a cyclical linear regression with a robust estimation procedure to produce both an expected number of deaths and a range of expected deaths to the first quarter 2023
+Context:robust estimation procedure to produce both an expected number of deaths and a range of expected deaths to the first quarter 2023 . This model was also used for four
+Context:) are used to model counts . Each ASDR is modelled separately to obtain an expected rate of death for that age group . Rates are reverted to counts of
+Context:reverted to counts of deaths and then added up across age groups to obtain an expected count for the total population . Previously , counts of deaths were modelled only
+Context:is provided in the Methodology section .  
+   The baseline period used to predict the expected number of deaths in 2020 2023 includes the years 2013 2019 . Previously ,
+Context:go into the model , for example , the baseline years used to predict the expected number of deaths .  
+ The most common research question being assessed with excess
+Context:during the COVID 19 pandemic ( 2020 2023 ) compare to the number of deaths expected had the pandemic not occurred ? ' . For this research , expected deaths
+Context:of deaths expected had the pandemic not occurred ? ' . For this research , expected deaths are modelled using data from before the pandemic ( usually ending at 2019
+Context:' If COVID 19 is now part of our mortality profile , should a new expected number of deaths be calculated , which incorporates deaths from the virus into the
+Context:incorporates deaths from the virus into the count ? ' . For this research , expected deaths would need to be modelled including COVID 19 in the baseline . This
+Context:baseline . This information could be used for planning ( e.g. how many deaths are expected while COVID 19 is circulating ) and give an indication of what is happening
+Context:Importantly , this information could not be used to answer the first research question regarding expected deaths in the absence of a pandemic because the baseline in this model would
+Context:during the COVID 19 pandemic ( 2020 2023 ) compare to the number of deaths expected had the pandemic not occurred ? ' . This is for several reasons :
+Context:issues to consider , including understanding how many deaths due to COVID 19 may be expected during a given year . There is not a clear answer to this .
+Context:. For example , when we consider how many COVID 19 associated deaths may be expected in Australia for the first three months of the year there have been marked
+Context:of stable time series for deaths due to the virus , introducing challenges for modelling expected counts . The ABS will work with stakeholders to develop a way forward ,
+Context:to March   2023   that has   the number of deaths plotted against the expected number of deaths estimated from the regression . The upper and lower thresholds (
+Context:The 2013 2019 time series is shown to highlight the model fit used to estimate expected deaths in 2020 2023 .  
+ The second graph focuses on 2020 2023 ,
+Context:patterns of mortality . While the actual number of deaths may be different from the expected number of deaths , it should fall within an expected range ( i.e. there
+Context:may be different from the expected number of deaths , it should fall within an expected range ( i.e. there is a 95 % chance that the expected number of
+Context:fall within an expected range ( i.e. there is a 95 % chance that the expected number of deaths would lie between the upper and lower bounds of the confidence
+Context:to March   2023   that has   the number of deaths plotted against the expected number of deaths estimated from the regression . The upper and lower thresholds (
+Context:The 2013 2019 time series is shown to highlight the model fit used to estimate expected deaths in 2020 2023 .   The second graph focuses on 2020 2023 ,
+Context:to March   2023   that has   the number of deaths plotted against the expected number of deaths estimated from the regression . The upper and lower thresholds (
+Context:The 2013 2019 time series is shown to highlight the model fit used to estimate expected deaths in 2020 2023 .   The second graph focuses on 2020 2023 ,
+Context:to March   2023   that has   the number of deaths plotted against the expected number of deaths estimated from the regression . The upper and lower thresholds (
+Context:The 2013 2019 time series is shown to highlight the model fit used to estimate expected deaths in 2020 2023 .  
+   The second graph focuses on 2020 2023 ,
+Context:.  
+   While excess mortality for 2023 for Australia   is at 9.1 % above expected , this is lower than   excess mortality for the first quarter   in
+Context:  excess mortality for the first quarter   in 2022 which was 16.6 % above expected .  
+   COVID 19 associated deaths were   still a key contributor to excess
+Context:decreased in February and March .  
+   Nearly every week in 2022 recorded higher than expected mortality . Mortality during this time exceeded the upper bounds , resulting in statistically
+Context:this period corresponded with the Omicron waves .  
+   Deaths are significantly lower   than expected from the week beginning 1 June to mid July 2020 , dropping below lower
+Context:time period , it shows an actual pattern of mortality where deaths were higher than expected . In past years excess mortality has typically   occurred during the winter months
+Context:influenza seasons .  
+   Excess mortality in New South Wales was   8.6 % above expected   for the first quarter of 2023 .  
+   From mid February 2023 deaths
+Context:.  
+   From mid February 2023 deaths in New South Wales generally fall into the expected range of variation , i.e. there was no statistically significant excess mortality .  
+  
+Context:mortality .  
+   Excess mortality for the first quarter of 2023 ( 8.6 % above expected ) was lower than   the corresponding quarter in 2022 ( 20.5 % )
+Context:deaths occurred   during the Omicron period .  
+   Excess mortality was 10.7 % above expected for 2022 . 
+   New South Wales   did not record excess mortality during
+Context:mortality during the Delta wave in 2021 .  
+   Although most jurisdictions recorded lower than expected mortality across the winter and spring months of 2020 .   New South Wales
+Context:the entire winter period .  
+   Excess mortality in Victoria   was 12.0 % above expected for the first quarter of 2023 .  
+   From mid March , mortality falls
+Context:the first quarter of 2023 .  
+   From mid March , mortality falls into the expected range of variation .  
+   Excess mortality for the first quarter of 2023 (
+Context:variation .  
+   Excess mortality for the first quarter of 2023 ( 12.0 % above expected ) was lower than   the corresponding quarter in 2022 ( 21.7 % )
+Context: 
+   Victoria had the second highest excess mortality recorded in 2022 at 13.2 % above expected   ( second to Tasmania at 13.6 % ) . Excess mortality in Victoria
+Context:. There were only 4 weeks in Victoria in 2022 where mortality was lower than expected .  
+   The highest peak in January ( 1,043 deaths ) is similar to
+Context:other jurisdictions had low rates of infections .  
+   Excess mortality was 7.8 % above expected in Queensland for the first quarter of 2023 . 
+   Although mortality has been
+Context:for the first quarter of 2023 . 
+   Although mortality has been   above the expected number from October 2022 , there is only a 3 week period from mid
+Context:) .  
+   Excess mortality for the first quarter of 2023 ( 7.8 % above expected ) was lower than   the corresponding quarter in 2022 ( 12.1 % )
+Context: 
+   Until the Omicron period , mortality in Queensland   during 2021 fell within the expected range of variation . Excess mortality was less than 1 % in 2021 .
+Context:more than 4 % .  
+   Excess mortality in South Australia was 8.9 % above expected for the first quarter of 2023 . 
+   The number of deaths was within
+Context:for the first quarter of 2023 . 
+   The number of deaths was within the expected range of variation for all weeks in the first quarter of 2023 .  
+  
+Context:2023 .  
+   Excess mortality for the first quarter of 2023 ( 8.9 % above expected ) was lower than   the corresponding quarter in 2022 ( 12.2 % )
+Context:key contributor to increased mortality during this time .   
+   Mortality was generally in the expected range of variation during the first two years of the pandemic . From June
+Context:. From June 2020 to the start of 2021 , mortality was mostly lower than expected .   
+   Excess mortality in Western Australia was   6.1 % above expected in
+Context:lower than expected .   
+   Excess mortality in Western Australia was   6.1 % above expected in the first quarter of 2023 . 
+   While only two weeks exceeded the
+Context:the upper bound ( reach   statistical significance ) , mortality was consistently above the expected number of deaths in the first quarter of 2023 .  
+   Excess mortality in
+Context:in Western Australia is similar in the first quarter of 2023 ( 6.1 % above expected ) , compared to the first quarter of 2022 ( 6.3 % ) .
+Context:first two years of the pandemic ,   mortality in WA was generally within the expected range of variation . There was less than 1 % excess mortality in 2021
+Context:was less than 1 % excess mortality in 2021 . In 2020 , lower than expected mortality was recorded , with   a period of statistically significant lower than expected
+Context:than expected mortality was recorded , with   a period of statistically significant lower than expected mortality between   August and September .  
+   Excess mortality in Tasmania was  
+Context:  August and September .  
+   Excess mortality in Tasmania was   17.3 % above expected for the first quarter of 2023 . Tasmania has   the highest excess mortality
+Context:where excess mortality was higher in the first quarter of 2023 ( 17.3 % above expected ) than the first quarter of 2022 ( 12.3 % ) .  
+   Excess
+Context:mortality .  
+   Prior to September 2021 , mortality in Tasmania was generally in the expected range . Similar to other states , there was a period of lower than
+Context:expected range . Similar to other states , there was a period of lower than expected mortality in 2020 .  
+   Excess mortality estimates for the Northern Territory are only
+Context:to a coroner in the NT .  
+   While the NT recorded 10.1 % above expected excess mortality in 2022 , this number should be treated with caution . There
+Context:low number of weekly deaths , calibration by age was not possible . Predicting an expected number of deaths from a small base can lead to volatility . This is
+Context:small base can lead to volatility . This is evident from the range of the expected number    the upper and lower bounds are wider to account for this high
+Context:.  
+   There are   some weeks in 2022 where mortality was above what was expected for sustained periods , indicating some likely excess mortality . For most of the
+Context:. For most of the pandemic , mortality in the NT has been in the expected range of variation .  
+   COVID 19 contributed to increased mortality in 2022 .
+Context:months .  
+   Excess mortality in the Australian Capital Territory was   8.9 % above expected for the first quarter of 2023 . 
+   Mortality in all weeks except one
+Context:Mortality in all weeks except one in the first quarter of 2023 was within the expected   bounds of variation .  
+   Excess mortality for the first quarter of 2023
+Context:variation .  
+   Excess mortality for the first quarter of 2023 ( 8.9 % above expected ) was similar to the   first quarter of 2022 ( 9.2 % )
+Context:COVID 19 was a key contributor to excess mortality .   
+   Mortality was lower than expected across the first two years of the pandemic in the   Australian Capital Territory
+Context:point . 
+ An upper threshold was chosen to define the upper limit of the expected number of deaths in the absence of an influenza epidemic . This upper threshold
+Context:down weighting outliers it aims to fit the model to patterns of mortality that are expected to occur in the absence of an epidemic .   This robust regression down
+Context:. However , any prolonged period of weeks , 2 or more , exceeding the expected range can suggest excess mortality has been signalled . 
+ The SAS function PROC
+Context:also the variance of the model parameter estimates . This provides an estimate of the expected variability of the observed values in the absence of an epidemic . 
+ Choosing
+Context:the number of years in the baseline ) is important as it can change the expected number of deaths . When selecting the reference period key attributes were required :
+Context:years to test ( these are presented below ) . Each baseline produced slightly different expected counts of deaths , which altered the % excess figures . The ABS decided
+Context:, no data from 2020 2023 is part of the reference period when predicting the expected number of deaths . Estimates of excess mortality are more accurate for years that
+Context:meaning the pattern of death should be stable over a period   to estimate an expected trend accurately . 
+   The baseline period needed to be applied consistently across jurisdictions
+Context:the rate of decline during 2015 2019 , resulting in a very low number of expected deaths in 2022 and 2023 . 
+   Not all jurisdictions experienced a severe influenza
+Context:overstating the rate of decline in WA and resulting in a very low number of expected deaths in 2022 and 2023 . This was also affected by the model –
+Context:harmonic with trend model is being used , volatility in the input trend affected the expected number of deaths . 
+   For smaller jurisdictions with low numbers of weekly deaths
+Context:for this analysis . 
+ Weekly mortality rates were calculated for 2013 2019 to predict expected weekly rates of death for 2020 2023 . Rates were then converted to numbers
+
+Title : deaths-due-covid-19-influenza-and-rsv-australia-2022-july-2024.txt
+Context:this cause .  
+ All data presented in this article is provisional . It is expected that numbers of deaths due to these causes will increase for more recent time
+
+Title : australias-journey-work.txt
+Context:. 
+ The top occupations for those who travelled to work were : 
+ As expected , more people were able to travel to work in states with less COVID
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-april-2022.txt
+Context:( 2,438 ) . Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-march-2022.txt
+Context:( 2,324 ) . Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : release-historic-agricultural-data-and-update-future-agricultural-data.txt
+Context:statistics . An expanded range of detailed commodity data that will fill these gaps is expected to be developed over the next few years , including : 
+ Other data
+
+Title : long-term-health-conditions.txt
+Context:: 
+ Respondents were asked to include health conditions that have lasted , or are expected to last , for six months or more and to include health conditions that
+
+Title : guide-understanding-employee-earnings-and-hours-statistics-may-2021.txt
+Context:employment then , all other things being equal , the average weekly earnings would be expected to decrease . In contrast , the impact of these compositional changes is counted
+
+Title : new-census-insights-income-australia-using-administrative-data.txt
+Context:and older compared with 47 to 52 % for other states ) . 
+ As expected , the age group with the largest cohort of non pensioners ( 927,000 persons
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-july-2023.txt
+Context:and Victoria . 
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : new-houses-being-built-smaller-blocks.txt
+Context:over 10 years . 
+ The floor area of a house is defined as the expected quantity of useable space within the dwelling ( including attachments ) at its completion
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-june-2023.txt
+Context:and Victoria . 
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : has-worker-compensation-reflected-labour-productivity-growth.txt
+Context:workers rise faster than the prices of goods and services consumed , workers compensation is expected to grow faster than the consumer prices . This results in an improvement in
+Context:are producing are rising slower than those they are consuming , then compensation growth is expected to lag the cost of living , making these workers worse off . 
+
+
+Title : 12-things-happened-australian-economy-march-quarter-2022.txt
+Context:global events continuing to impact the Australian economy , the June quarter national accounts are expected to continue to show some volatility . 
+
+
+Title : covid-19-mortality-australia-deaths-registered-until-31-august-2022.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : measuring-australias-excess-mortality-during-covid-19-pandemic-until-december-2023.txt
+Context:of the COVID 19 pandemic ( 2020 2023 ) compare to the number of deaths expected had the pandemic not occurred ? ' . See   section in the previous
+Context:the difference between the observed number of deaths in a specified time period and the expected numbers of deaths in that same time period . Excess mortality measures can account
+Context:19 pandemic until the end of December 2023 for Australia and states and territories . Expected mortality in this article is modelled as being in the absence of the COVID
+Context:for more information .  
+   Excess mortality remained in 2023 at 5.1 % higher than expected .  
+   Excess mortality decreased across all jurisdictions except Tasmania in 2023 when compared
+Context:were more than fifty percent lower compared to 2022 .  
+   Mortality was close to expected levels between July and October of 2023 but higher than expected for the other
+Context:Mortality was close to expected levels between July and October of 2023 but higher than expected for the other months of 2023 .  
+   Tasmania and Victoria recorded the highest
+Context: 
+ The following table shows excess mortality for each jurisdiction expressed as the percentage above expected for that year . 
+ Excess mortality measures have been a common statistical tool
+Context:between the total number of deaths from all causes in a specified period and the expected numbers of deaths from all causes in that same period . Excess mortality measures
+Context:19 pandemic . Different methodologies have been applied , with the goal to predict an expected number of deaths for a given year . Choice of model and baseline can
+Context:for a given year . Choice of model and baseline can markedly affect estimates of expected ( and therefore excess ) mortality . Estimating the expected future seasonality for deaths
+Context:can markedly affect estimates of expected ( and therefore excess ) mortality . Estimating the expected future seasonality for deaths can be a challenge in many models . The suitability
+Context:applying   a cyclical linear regression with a robust estimation procedure to produce both an expected number of deaths and a range of expected deaths . The ABS has applied
+Context:robust estimation procedure to produce both an expected number of deaths and a range of expected deaths . The ABS has applied this model to estimate age specific death rates
+Context:age specific death rates ( ASDRs ) for certain age groups , and converted the expected death rates into an expected number of deaths for each age group . These
+Context:ASDRs ) for certain age groups , and converted the expected death rates into an expected number of deaths for each age group . These are then added across age
+Context:for each age group . These are then added across age groups to obtain an expected count for the total population .   Using ASDRs accounts for changes in population
+Context:patterns of mortality . While the actual number of deaths may be different from the expected number of deaths , it should fall within an expected range ( i.e. there
+Context:may be different from the expected number of deaths , it should fall within an expected range ( i.e. there is a 95 % chance that the expected number of
+Context:fall within an expected range ( i.e. there is a 95 % chance that the expected number of deaths would lie between the upper and lower bounds of the confidence
+Context:.  
+   Excess mortality for Australia in 2023 was estimated at   5.1 % above expected . This is a decrease compared to 2022 , where excess mortality was recorded
+Context:in November and December . Between July and October , mortality was closer to   expected levels . 
+   COVID 19 associated deaths were   still a key contributor to
+Context:" or " with "   COVID 19 for 2023 has been largely within the expected bounds of variation .  
+   Deaths due to COVID 19 ( as identified on
+Context:with peaks in COVID 19 waves .  
+   Deaths were   significantly lower   than expected from the week beginning 1 June to mid July 2020 , dropping below lower
+Context:, it does show   an actual pattern of mortality where deaths were higher than expected . In past years excess mortality has typically   occurred during the winter months
+Context:Excess mortality for New South Wales in 2023 was estimated at   3.3 % above expected , down from 11.5 % in 2022 .  
+   From early   November 2022
+Context:, May to June 2023 and in December 2023 New South Wales recorded higher than expected mortality .   
+   Mortality between August and October 2023 was lower than expected .
+Context:higher than expected mortality .   
+   Mortality between August and October 2023 was lower than expected .  
+   COVID 19 associated mortality as recorded on death certificates   has been
+Context:wave in the second half of 2021 .  
+   Although most jurisdictions recorded lower than expected mortality across the winter and spring months of 2020 .   New South Wales
+Context:.  
+   Excess mortality for Victoria in 2023 was estimated at   6.3 % above expected , down from 14.0 % in 2022 .   
+   In 2023 , mortality was
+Context:down from 14.0 % in 2022 .   
+   In 2023 , mortality was higher than expected until the start of June . During the winter months mortality was close to
+Context:expected until the start of June . During the winter months mortality was close to expected , followed by a period of lower than expected mortality in September . From
+Context:winter months mortality was close to expected , followed by a period of lower than expected mortality in September . From November , sustained higher than expected mortality occurred .
+Context:period of lower than expected mortality in September . From November , sustained higher than expected mortality occurred .  
+   Victoria recorded excess mortality in August 2020 , from late
+Context:Victoria during these periods .  
+   From June 2023 , mortality falls largely in the expected range of variation and is close to expected for much of this period .
+Context:2023 , mortality falls largely in the expected range of variation and is close to expected for much of this period .  
+   Victoria had the second highest excess mortality
+Context:.  
+   Excess mortality for Queensland in 2023 was estimated at   4.6 % above expected , down from 10.6 % in 2022 .  
+   From July to early November
+Context:2022 .  
+   From July to early November 2023 mortality in Queensland was close to expected , with some sustained periods of lower than expected mortality . From mid November
+Context:mortality in Queensland was close to expected , with some sustained periods of lower than expected mortality . From mid November , higher than expected mortality was sustained .  
+  
+Context:some sustained periods of lower than expected mortality . From mid November , higher than expected mortality was sustained .  
+   Queensland   has had some   distinct peaks of
+Context: 
+   Excess mortality in Queensland   for 2021 was 1.1 % and fell within the expected range of variation . 
+   Queensland was one of four   jurisdictions ( alongside
+Context: 
+   Excess mortality for South Australia in 2023 was estimated at   4.8 % above expected , down from 10.0 % in 2022 . 
+   The number of deaths was
+Context:down from 10.0 % in 2022 . 
+   The number of deaths was within the expected range of variation for all weeks except one in 2023 . Between January and
+Context:. Between January and June 2023 deaths were mostly higher than predicted but within the expected range of variation .  
+   Since July 2023 , deaths in South Australia were
+Context:of variation .  
+   Since July 2023 , deaths in South Australia were closer to expected .  
+   South Australia experienced several weeks of excess mortality between January 2022 and
+Context:key contributor to increased mortality during this time .   
+   Mortality was generally in the expected range of variation during the first two years of the pandemic . From June
+Context:. From June 2020 to the start of 2021 , mortality was mostly lower than expected .  
+   Excess mortality for Western Australia in 2023 was estimated at   5.2
+Context: 
+   Excess mortality for Western Australia in 2023 was estimated at   5.2 % above expected , down from 7.1 % in 2022 .  
+   Mortality in Western Australia from
+Context:in Western Australia from the end of June until mid October 2023 was close to expected . From mid November until the end of December 2023 sustained higher than expected
+Context:to expected . From mid November until the end of December 2023 sustained higher than expected mortality was recorded .  
+   Between April and May 2023 , deaths due to
+Context:first two years of the pandemic ,   mortality in WA was generally within the expected range of variation . There was less than 1 % excess mortality in 2021
+Context:was less than 1 % excess mortality in 2021 . In 2020 , lower than expected mortality was recorded , with   a period of statistically significant lower than expected
+Context:than expected mortality was recorded , with   a period of statistically significant lower than expected mortality between   August and September .  
+   Excess mortality for Tasmania in 2023
+Context:.  
+   Excess mortality for Tasmania in 2023 was estimated at   10.1 % above expected . Tasmania was the only jurisdiction where excess mortality in 2023 was comparable to
+Context:to 2022 ( 10.0 % ) .  
+   Due to small numbers of deaths the expected range is relatively wide for Tasmania . Despite having the highest percentage excess mortality
+Context:excess mortality in Australia , only a few weeks were outside the bounds of the expected range . Sustained higher than expected mortality was recorded in the last two months
+Context:a few weeks were outside the bounds of the expected range . Sustained higher than expected mortality was recorded in the last two months of 2023 .  
+   For most
+Context:most weeks in 2022 and 2023 , the number of deaths reported were above the expected number of deaths , resulting in cumulative excess mortality for both years .   
+  
+Context:2023 .  
+   Prior to September 2021 , mortality in Tasmania was generally in the expected range . Similar to other states , there was a period of lower than
+Context:expected range . Similar to other states , there was a period of lower than expected mortality in 2020 . 
+   Refer to the methodology regarding the adjustment made to
+Context:mortality in 2020 . 
+   Refer to the methodology regarding the adjustment made to modelling expected deaths for Tasmania in this publication , and why four age groups were modelled
+Context:Northern Territory based on available data in 2023 was estimated at   1.0 % below expected , compared to 19.4 % above expected in 2022 .  
+   Excess mortality estimates
+Context:2023 was estimated at   1.0 % below expected , compared to 19.4 % above expected in 2022 .  
+   Excess mortality estimates for the Northern Territory   should be
+Context:low number of weekly deaths , calibration by age was not possible . Predicting an expected number of deaths from a small base can lead to volatility . This is
+Context:small base can lead to volatility . This is evident from the range of the expected number    the upper and lower bounds are wider to account for this high
+Context: 
+   For most of the pandemic , mortality in the NT has been in the expected range of variation .  
+   COVID 19 ( as identified on death certificates )
+Context:mortality for the Australian Capital Territory in 2023 was estimated at   1.3 % above expected , down from 10.4 % in 2022 . 
+   Between mid April and mid
+Context:and mid October 2023 , mortality in the Australian Capital Territory has generally been below expected .    Since mid October , mortality has generally been above expected but within
+Context:generally been below expected .    Since mid October , mortality has generally been above expected but within the expected range of variation . 
+   Mortality fell within the expected
+Context:.    Since mid October , mortality has generally been above expected but within the expected range of variation . 
+   Mortality fell within the expected bounds of expected variation
+Context:above expected but within the expected range of variation . 
+   Mortality fell within the expected bounds of expected variation for 48 of the 52 weeks of 2023 . There
+Context:within the expected range of variation . 
+   Mortality fell within the expected bounds of expected variation for 48 of the 52 weeks of 2023 . There was some sustained
+Context:for 48 of the 52 weeks of 2023 . There was some sustained higher than expected mortality across January and February . While there are some higher weeks of mortality
+Context:certificates ) was a key contributor to excess mortality .   
+   Mortality was lower than expected across the first two years of the pandemic in the   Australian Capital Territory
+Context:years recorded the highest proportion of excess deaths in 2023 at 9.2 % higher than expected . This age group has recorded the highest proportion of excess deaths each year
+Context:In 2020 , all age groups except those aged under 34 years recorded lower than expected excess mortality . In this age group 34 deaths above expected were recorded (
+Context:years recorded lower than expected excess mortality . In this age group 34 deaths above expected were recorded ( 0.7 % ) . This number and proportion is considered to
+Context:( 0.7 % ) . This number and proportion is considered to be within the expected range rather than statistically significant excess mortality .  
+ The analysis of 2020 2023
+Context:point . 
+ An upper threshold was chosen to define the upper limit of the expected number of deaths in the absence of an influenza epidemic . This upper threshold
+Context:down weighting outliers it aims to fit the model to patterns of mortality that are expected to occur in the absence of an epidemic .   This robust regression down
+Context:. However , any prolonged period of weeks , 2 or more , exceeding the expected range can suggest excess mortality has been signalled . 
+ The SAS function PROC
+Context:also the variance of the model parameter estimates . This provides an estimate of the expected variability of the observed values in the absence of an epidemic . 
+ Choosing
+Context:the number of years in the baseline ) is important as it can change the expected number of deaths . When selecting the reference period key attributes were required :
+Context:years to test ( these are presented below ) . Each baseline produced slightly different expected counts of deaths , which altered the % excess figures . The ABS decided
+Context:, no data from 2020 2023 is part of the reference period when predicting the expected number of deaths . Estimates of excess mortality are more accurate for years that
+Context:meaning the pattern of death should be stable over a period   to estimate an expected trend accurately . 
+   The baseline period needed to be applied consistently across jurisdictions
+Context:the rate of decline during 2015 2019 , resulting in a very low number of expected deaths in 2022 and 2023 . 
+   Not all jurisdictions experienced a severe influenza
+Context:overstating the rate of decline in WA and resulting in a very low number of expected deaths in 2022 and 2023 . This was also affected by the model –
+Context:harmonic with trend model is being used , volatility in the input trend affected the expected number of deaths . 
+   For smaller jurisdictions with low numbers of weekly deaths
+Context:for this analysis . 
+ Weekly mortality rates were calculated for 2013 2019 to predict expected weekly rates of death for 2020 2023 . Rates were then converted to numbers
+Context:30 people in each age group . 
+ When measuring the robustness of the estimated expected number of deaths , assessment against the model assumptions must be made . For
+Context:years , 70 84 years and 85 + years . When producing the estimate of expected deaths for the 70 84 age group , the assumptions were not met .
+Context:to measure the effects of influenza , short periods ( 1 2 years ) of expected deaths are forecasted . As we are now looking at 4 years of estimates
+Context:deaths are forecasted . As we are now looking at 4 years of estimates for expected deaths there is some deterioration in the estimate as the prediction window gets further
+Context:estimate as the prediction window gets further from the time period selected to model the expected values . Rather than making adjustments to the baseline , a decision was made
+Context:an older population , this change better suited the underlying population , resulting in estimated expected deaths in 2022 and 2023 that more closely matched assumptions .  
+ Note that
+
+Title : sexual-assault-perpetrators.txt
+Context:length 
+ [ 1 ]   Median sentence length data ( both aggregate sentence and expected time to serve ) represent only prison sentences being served by prisoners on the
+Context:20 years 
+   3.4 % were serving 20 years or more 
+ Header 47 : Expected time to serve 
+ Of sentenced sexual assault prisoners who were in custody on
+Context:were in custody on 30 June : 
+ Over two thirds of prisoners had an expected time to serve of between 2 and 10 years : 
+   The median expected
+Context:an expected time to serve of between 2 and 10 years : 
+   The median expected time to serve was 5.1 years 
+   The median expected time to serve increased
+Context:years : 
+   The median expected time to serve was 5.1 years 
+   The median expected time to serve increased from 5 years in 2010 to 5.3 years in 2019
+Context:increased from 5 years in 2010 to 5.3 years in 2019 
+   5.3 % were expected to serve less than a year 
+   10 % were expected to serve between
+Context:
+   5.3 % were expected to serve less than a year 
+   10 % were expected to serve between 1 and less than 2 years 
+   32 % were expected
+Context:were expected to serve between 1 and less than 2 years 
+   32 % were expected to serve between 2 and less than 5 years 
+   36 % were expected
+Context:were expected to serve between 2 and less than 5 years 
+   36 % were expected to serve between 5 and less than 10 years 
+   12 % were expected
+Context:were expected to serve between 5 and less than 10 years 
+   12 % were expected to serve between 10 and less than 15 years 
+   2.8 % were expected
+Context:were expected to serve between 10 and less than 15 years 
+   2.8 % were expected to serve between 15 and less than 20 years 
+   Less than 1 %
+Context:to serve between 15 and less than 20 years 
+   Less than 1 % were expected to serve 20 years or more 
+ Header 49 : Age 
+ Header 49
+Context:been described elsewhere . 
+ Header 51 : Aggregate sentence length 
+ Header 51 : Expected time to serve 
+ Header 51 : Imprisonment rate 
+ Header 51 : Indeterminate
+Context:for the current episode . 
+ The period of imprisonment that a convicted prisoner is expected to serve . In most cases this refers to the time between the date
+
+Title : covid-19-mortality-wave.txt
+Context:  due to COVID 19 received by the ABS as occurring during this month are expected to be between 50 60 % .  
+ There were 12,545 deaths of people
+Context:deaths in March and April . Typically , in a year where mortality follows an expected pattern , deaths due to respiratory diseases increase during the winter months .  
+
+Context:followed by January with 24 deaths . The number of deaths for later months is expected to increase as additional information on deaths are received .  
+ Over the course
+
+Title : covid-19-mortality-australia-deaths-registered-until-30-april-2023.txt
+Context:COVID 19 .  
+   Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : covid-19-mortality-australia-deaths-registered-28-february-2022.txt
+Context:( 2,059 ) . Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : covid-19-mortality-australia-deaths-registered-31-january-2022.txt
+Context:( 1,557 ) . Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised
+Context:2 of the pandemic in Australia . The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS .  
+ Of the
+
+Title : how-administrative-data-improved-quality-2021-census.txt
+Context:confidence that the Census data was accurate , particularly when it was n’t what we expected . 
+ In some areas , the occupancy rate for the 2021 Census was
+Context:also used administrative data to check Census counts when they did n’t match what we expected from our official measure of Australia ’s population at that time ( the Estimated
+Context:, the Census count for people aged 25 39 in Tasmania was higher than we expected from ERP ( difference between the dark blue and orange lines in Figure 4
+
+Title : value-renewable-energy-construction.txt
+Context:commenced when the site works begin . The commencement value reported is based on the expected project cost upon commencement and is not revised to reflect changes in the project
+

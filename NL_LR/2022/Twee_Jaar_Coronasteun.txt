@@ -1,0 +1,482 @@
+Article Content:
+ Over deze publicatie
+
+De coronapandemie heeft de afgelopen tweeënhalf jaar wereldwijd grote impact gehad op de gezondheid, de economie en de maatschappij. Zo ook in Nederland. Om de gevolgen van de pandemie en de daaraan verbonden contactbeperkende maatregelen voor bedrijven te verzachten, zijn er in deze periode steunmaatregelen in het leven geroepen. Het Centraal Bureau voor de Statistiek (CBS) heeft in samenwerking met het Ministerie van Economische Zaken en Klimaat (EZK) en de Rijksdienst voor Ondernemend Nederland (RVO) vanaf mei 2020 het gebruik van deze coronasteunmaatregelen door bedrijven gevolgd. In dit rapport staat de deelname van bedrijven aan het pakket met steunmaatregelen centraal. Het gebruik wordt in het licht van het verloop van de coronacrisis geplaatst. De cijfers zijn bijgewerkt tot en met juni 2022.
+
+Dit rapport is tot stand gebracht in samenwerking tussen het Ministerie van Economische Zaken en Klimaat, de Rijksdienst van Ondernemend Nederland en het Centraal Bureau voor de Statistiek. Dit is een samenwerkingsverband binnen het zogeheten BAT-lab. In deze publicatie zijn geïntegreerde resultaten opgenomen, waardoor de bijdragen van elke organisatie afzonderlijk niet op elke plek in de publicatie te duiden zijn. Desalniettemin is elke organisatie verantwoordelijk voor de eigen inbreng vanuit de eigen institutionele rol. EZK DG B&I is verantwoordelijk voor de beleidsmatige context.
+
+
+
+Inleiding
+
+In dit rapport wordt verslag gedaan van de steunmaatregelen voor bedrijven en ondernemers tijdens de coronacrisis. Aan de orde komen vragen als: hoeveel bedrijven en ondernemers hebben hier gebruik van gemaakt? In welke branches zaten deze? Was de inschatting van omzetverlies en een beroep op steun bij aanvang van de regelingen in lijn met de realisaties? Welke bedragen waren er met de regelingen gemoeid? Ook wordt stilgestaan bij de vraag wat de steun voor bedrijven en de economie heeft betekend.
+
+Het rapport geeft de stand van zaken vanaf maart 2020 tot en met 30 juni 2022. Dit betekent nog niet dat dit de definitieve cijfers over de steunmaatregelen zijn. Van veel bedrijven is voor de diverse regelingen nog niet de definitieve vaststelling van de steun opgemaakt. Nieuwe aanvragen zijn er echter niet meer: sinds april 2022 zijn de coronasteunmaatregelen namelijk afgebouwd en vanaf 1 oktober 2022 moeten ook de uitgestelde belastingen terugbetaald worden. Over het korte- en langetermijneffect van deze unieke overheidsinterventie zal nog de nodige studie worden verricht. Dit rapport biedt daartoe een eerste feitenbasis.
+
+De opbouw van het rapport is als volgt. In het volgende hoofdstuk wordt achtergrondinformatie gegeven over de coronapandemie in Nederland, de contactbeperkende maatregelen en de steunmaatregelen. Hoofdstuk 3 beschrijft op hoofdlijnen het regelingengebruik door bedrijven en ondernemers tijdens de coronacrisis. In hoofdstuk 4 wordt ingezoomd op het gebruik van de vier grootste regelingen: de tegemoetkoming voor de loonkosten, de tegemoetkoming voor vaste lasten, de inkomensondersteuning voor zelfstandigen en het uitstel van belastingbetaling. Het gebruik van de krediet- en garantieregelingen wordt besproken in hoofdstuk 5. Het rapport sluit af met een bespiegeling over ruim twee jaar corona en overheidssteun, inclusief een vooruitblik (hoofdstuk 6).
+
+
+
+Achtergrond
+
+In dit hoofdstuk wordt eerst een beeld geschetst van de coronapandemie in Nederland, inclusief de contactbeperkende maatregelen die werden opgelegd. Daarna wordt ingegaan op het effect van de pandemie en de genomen maatregelen op de economie. Vervolgens wordt ingegaan op de steunmaatregelen voor ondernemers en bedrijven, het feitelijke onderwerp van dit rapport. Aangegeven wordt welke van de maatregelen in het rapport zijn opgenomen. Het hoofdstuk sluit af met een korte achtergrond van de cijferverzameling.
+
+2.1 Verloop coronapandemie in Nederland
+
+2020: eerste en tweede golf
+
+Eind december 2019 bereikten de eerste signalen over een uitbraak van een nieuw coronavirus in de Chinese stad Wuhan ons land. Kort daarop werden de eerste besmettingen in Europa bekendgemaakt (in Italië) en in februari werd de eerste coronabesmetting in Nederland vastgesteld. In reactie hierop volgden maatregelen om de verspreiding van het virus te beperken. Het kabinet stelde op 23 maart een ‘intelligente lockdown’ in, waarbij onder andere de scholen en de kinderopvang moesten sluiten, thuiswerken de norm werd en sociale contacten moesten worden vermeden. Deze maatregelen waren vooral gericht op het beheersbaar houden van de druk op de zorg. De aantallen besmettingen en ziekenhuisopnames liepen snel op. De mogelijkheid om te testen op het virus werd uitgebreid. In april 2020 werd de ‘anderhalvemetersamenleving’ geïntroduceerd. Dat hield enerzijds versoepelingen in van de mate waarin men thuis moest blijven, maar anderzijds het devies om 1,5 meter afstand te houden bij contact met een ander persoon. Na een afname liepen de besmettingen in de zomer van 2020 weer sneller op, wat de opmaak vormde voor een tweede besmettingsgolf vanaf oktober. Als reactie hierop werden steeds verdergaande lockdown-maatregelen ingevoerd. Eind november werden de contactbeperkende maatregelen verzwaard en verlengd, waardoor Nederland tijdens de feestdagen in december in een harde lockdown zat, waarbij bijvoorbeeld alleen de essentiële winkels open waren. Eind 2020 verschenen in het Verenigd Koninkrijk de eerste berichten over een verontrustende mutatie van het virus, de bètavariant, die ook in Nederland aanleiding gaf tot nog verdergaande maatregelen.
+
+2021: derde en vierde golf én vaccinatiecampagne
+
+Het jaar 2021 startte met de invoering van een avondklok en een verlenging van de lockdown, maar de scholen mochten vanaf begin februari deels weer open. Ook startte het jaar met de eerste coronavaccinatie, wat het begin inluidde van de nationale vaccinatiecampagne. De snelle ontwikkeling van een vaccin leek een uitweg te gaan bieden uit de crisis. Eind februari werd een voorzichtige verruiming van de lockdown aangekondigd. Vanaf maart liepen de besmettingen weer verder op, wat resulteerde in de derde golf. In de zomer ging de samenleving gecontroleerd open, wat bijvoorbeeld inhield dat naar kantoor gaan weer gedeeltelijk mocht en er geen regels meer golden voor het aantal bezoekers thuis. Er heerste optimisme, maar het najaar bracht een nieuwe besmettingsgolf (de vierde) en opnieuw aanscherping van de contactbeperkingen. Vanwege de zorgen over de opkomst van de omikronvariant en de druk die dat op de zorg zou betekenen, werd aan het einde van 2021 wederom opgeschaald naar een harde lockdown.
+
+2022 (tot oktober): afbouw maatregelen
+
+In januari werd de harde lockdown versoepeld. Het aantal IC-opnames en de oversterfte als gevolg van omikronbesmettingen bleek mee te vallen. Gedurende het voorjaar werden de contactbeperkende maatregelen steeds minder streng. In maart werden de coronaregels adviezen: de gevolgen van het virus waren op z’n retour en vanaf april 2022 waren er nagenoeg geen maatregelen meer van kracht.
+
+2.2 Gevolgen van de coronapandemie en de contactbeperkende maatregelen voor economie en bedrijven
+
+De coronapandemie had en heeft grote impact op het maatschappelijk leven. Het economische verkeer werd sterk verstoord, met gevolgen voor ondernemers, bedrijven en werknemers. Een heel zichtbaar feit was dat bedrijven in bepaalde sectoren, zoals horecazaken en niet-essentiële winkels in de detailhandel, vanwege de contactbeperkende maatregelen tijdens bepaalde perioden hun deuren moesten sluiten. Deze bedrijven werden direct geraakt en vrijwel geheel belemmerd in hun mogelijkheden om omzet te maken. Hetzelfde gold voor ondernemers in contactberoepen. Ook waren er bedrijven die indirect werden geraakt. Zo werden toeleveranciers van de gesloten sectoren geconfronteerd met grote omzetverliezen. Aan de andere kant waren er bedrijfstakken voor wie deze sluitingen van delen van de economie een forse omzetgroei betekenden. Consumenten en bedrijven gingen op zoek naar nieuwe manieren van werken, winkelen en leven. Webwinkels, thuisbezorgers en aanbieders van apps voor bijvoorbeeld videobellen zagen hun klantenkring toenemen.
+
+Ook buiten de harde lockdownperiodes was er sprake van maatregelen die een belemmering betekenden voor de bedrijfsvoering van sommige sectoren, bijvoorbeeld in de vorm van opgelegde openings- en sluitingsuren. De anderhalvemetersamenleving hield een continue beperking in voor bedrijven die afhankelijk zijn van de bijeenkomst van grote groepen mensen, zoals de cultuur, de sport, de evenementenbranche en de toeleveranciers van deze branches.
+
+Naast de effecten van de maatregelen zelf op individuele bedrijven, was er ook sprake van een bredere economische impact van de pandemie. Een voorbeeld hiervan is een sterke daling van de consumptie en een stijging van het ziekteverzuim. Daarnaast veroorzaakten de beperkende maatregelen in andere landen een stevige verstoring in de toeleveringsketens en een verdere ontwrichting van de reisbranche.
+
+De meest direct getroffen bedrijven zagen door de omzetdalingen hun liquide middelen verdampen en het risico op bedrijfsopheffingen stijgen. Hierdoor dreigde een sterk banenverlies en een verstoring van de rest van de economie.
+
+2.3 Tijdelijke coronasteunmaatregelen
+
+In reactie op de coronabesmettingen en de beperkende maatregelen kondigden ministers en staatssecretarissen van Economische Zaken en Klimaat, Financiën en Sociale Zaken en Werkgelegenheid op 17 maart 2020 het eerste noodpakket banen en economie aan. Dit eerste noodpakket richtte zich met tijdelijke steunmaatregelen met name op de door de contactbeperkende maatregelen getroffen sectoren. In latere uitbreidingen werd de steun verbreed naar bedrijven in de hele economie. Deze coronasteun beoogde de werkgelegenheid te behouden, zwakkere liquiditeitsposities van bedrijven tijdelijk te overbruggen en de continuïteit van bedrijven te borgen. Het was gericht op zowel zzp’ers als mkb-ondernemers en grootbedrijven.
+
+Gedurende de crisisperiode werden de noodpakketten meermaals verlengd. Bestaande regelingen werden uitgebreid en nieuwe regelingen ingevoerd. De inrichting van de steunmaatregelen volgde het verloop van de gezondheidscrisis. Zo werden regelingen uitgebreid om geraakte sectoren specifieke steun te geven, zoals de module Voorraad Gesloten Detailhandel van de TVL, die de door de sluiting geraakte detailhandelszaken extra ondersteuning gaf. Het omgekeerde gebeurde ook. Toen de ziekenhuisopnames in de zomer van 2021 afnamen, meldde het kabinet dat de generieke steunmaatregelen per 1 oktober 2021 zouden stoppen. Maar op 16 november 2021 werd, volgend op nieuwe contactbeperkende maatregelen, besloten de steunmaatregelen toch te verlengen.
+
+Veel coronasteunmaatregelen werden door de acute nood en de onvoorspelbaarheid van de pandemie en de economische effecten onder grote tijdsdruk vorm gegeven door de uitvoeringsorganisaties, zoals de Rijksdienst voor Ondernemend Nederland, het Uitvoeringsinstituut Werknemersverzekeringen (UWV) en de Belastingdienst. Daarom werd gewerkt met regelingen en voorschotten op basis van verwachtingen vooraf. Zie het kader aan het eind van dit hoofdstuk voor de verschillende soorten regelingen.
+
+2.4 Verslaglegging coronasteunmaatregelen
+
+Spoedig na de start van de crisis en de introductie van de steunmaatregelen, werd onder regie van het CBS, EZK en RVO een data-infrastructuur opgezet waarin de registraties bijeen werden gebracht van de organisaties die het noodpakket uitvoerden. Zo ontstond de mogelijkheid van het actueel monitoren van het gebruik en bereik van de steunmaatregelen. De eerste cijfers, in de vorm van tabellensets en begeleidende berichtgeving, werden eind mei 2020 gepubliceerd, waardoor al in een vroegtijdig stadium aanvullende inzichten beschikbaar kwamen naast de informatie van de uitvoeringsinstanties zelf. Hierna volgden nog negen cijferoverzichten. De data-infrastructuur wordt ook ingezet voor gerichte analyses en het in beeld brengen van de effecten van het steunbeleid.
+
+Dit rapport is gebaseerd op informatie uit de elfde tabellenset en geeft een overzicht van het gebruik van de coronasteunmaatregelen vanaf het begin van de coronacrisis tot en met 30 juni 2022. Alle generieke nationale regelingen zijn in het rapport opgenomen. Het betreft de regelingen waarmee de grootste bedragen waren gemoeid en die gericht waren op gebruik door grote groepen bedrijven.
+
+Daarnaast zijn er tijdens de coronacrisis vele specifieke regelingen van kracht geweest. Bijvoorbeeld voor landbouwbedrijven, voor ondernemers in de culturele sector, voor bedrijven die in de crisisperiode zijn gestart en zelfs heel gerichte regelingen zoals voor ijsbanen en zwembaden. Dergelijke bijzondere regelingen maken geen onderdeel uit van dit overzichtsrapport. Een overzicht van de opgenomen coronasteunmaatregelen, staat in het kader.
+
+In het rapport opgenomen coronasteunmaatregelen
+
+Hieronder staat een korte beschrijving van de verschillende soorten regelingen. De regelingen zijn ingedeeld in vijf hoofdgroepen.
+
+Tegemoetkoming voor loonkosten
+
+Dit betreft de Tijdelijke Noodmaatregel Overbrugging voor Werkgelegenheid (NOW). De NOW werd uitgevoerd door het UWV. De NOW heeft acht aanvraagperiodes gekend, tussen maart 2020 en maart 2022. Via de NOW konden ondernemers die omzetverlies van minimaal 20 procent verwachtten, bij het UWV een tegemoetkoming in de loonkosten aanvragen om hun personeel in dienst te kunnen houden. De maximale tegemoetkoming bedroeg, afhankelijk van de aanvraagperiode, 80 of 90 procent van de vooraf berekende loonkosten. Ook de overige voorwaarden konden per aanvraagperiode verschillen.
+
+Tegemoetkoming voor vaste lasten
+
+Dit betreft de Tijdelijke Ondersteuning Getroffen Sectoren (TOGS) en de Tegemoetkoming Vaste Lasten (TVL). Beiden werden uitgevoerd door RVO. De TOGS bestond uit een eenmalige uitkering van 4 duizend euro voor mkb-bedrijven die in de periode 16 maart 2020 tot en met 15 juni 2020 minstens 4 duizend euro aan vaste lasten verwachtten te maken en minstens 4 duizend euro aan omzetverlies. De uitkering kon worden aangevraagd door specifieke bedrijfstakken volgens een vastgestelde lijst met SBI-codes (branches). Na De TOGS volgde de TVL. Deze kende zeven aanvraagperiodes en liep tot en met maart 2022. De voorwaarden konden per aanvraagperiode wijzigen. Ondernemers met een verwacht omzetverlies van 30 procent (bij de TVL Q4 2021 was dat 20 procent) konden een subsidie toegezegd krijgen voor een deel van hun vaste lasten. Het maximale bedrag varieerde, afhankelijk van de aanvraagperiode tussen de 50 duizend euro en 550 duizend euro voor het mkb en tussen de 600 duizend euro en 1,2 miljoen euro voor grootbedrijven. In bepaalde aanvraagperiodes konden bedrijven in specifieke sectoren ook aanspraak maken op opslagen en modules (bijvoorbeeld de Vaste Lasten Evenementen).
+
+Inkomensondersteuning voor zelfstandigen
+
+Dit betreft de Tijdelijke overbruggingsregeling zelfstandig ondernemers (Tozo). De Tozo werd aangekondigd in het eerste noodpakket in maart 2020 en liep in vijf aanvraagperiodes tot en met september 2021. Zelfstandigen konden aanspraak maken op aanvullende inkomensondersteuning voor levensonderhoud en een lening voor bedrijfskapitaal om de financiële gevolgen van de coronacrisis op te vangen. De aanvullende ondersteuning vulde het inkomen aan tot het sociaal minimum. De Tozo werd uitgevoerd door de gemeenten.
+
+Bijzonder uitstel van belastingbetaling
+
+Ondernemers konden door een tijdelijke versoepeling bij de Belastingdienst uitstel aanvragen voor het betalen van bijna alle soorten belastingen. De invorderingsrente was tijdelijk op 0,01 procent gezet. Er werden ook geen verzuimboetes opgelegd en reeds opgelegde verzuimboetes werden verminderd als er uitstel van betaling in verband met corona was verleend. Het bijzondere uitstel kon worden verkregen tot en met eind maart 2022.
+
+Krediet- en garantieregelingen
+
+Met dit type regelingen konden ondernemers tegen relatief gunstige voorwaarden kredieten afsluiten of stond de overheid garant voor een deel van de leningen. Het gaat hierbij om de volgende regelingen: De Corona-uitbreiding van de Borgstelling MKB-Kredieten (BMKB-C), de Corona-uitbreiding van de Garantie Ondernemingsfinanciering (GO-C), het Klein Krediet Corona (KKC), de Corona-uitbreiding van het Borgstellingskrediet voor de Landbouw (BL-C), de Corona Overbruggingslening (COL) en de mogelijkheden voor corona-specifieke overbruggingskredieten en uitstel van aflossing bij Qredits.
+
+Nadere informatie
+
+Meer gedetailleerde informatie over de loonkostenregelingen staat op de website van het UWV. Voor de vastelastenregelingen is er de website van RVO en voor het uitstel van belastingbetaling de website van de Belastingdienst. De krediet- en garantierelingen worden nader toegelicht in hoofdstuk 5 van dit rapport.
+
+
+
+
+
+Noten
+
+Coronavirus: kabinet neemt pakket nieuwe maatregelen voor banen en economie | Nieuwsbericht | .Overzicht gebruik coronasteun­maatregelen
+
+Dit hoofdstuk geeft een overzicht van het gebruik van steunmaatregelen door bedrijven in Nederland. Er wordt ingegaan op zowel het totale gebruik vanaf maart 2020 tot en met juni 2022, als het gebruik per periode. Daarnaast wordt onderscheid gemaakt naar bedrijfstak en bedrijfsgrootte. Tot slot zal ingegaan worden op geldbedragen die met de steun zijn gemoeid en op regionale verschillen. Op meer specifieke details per regeling wordt ingegaan in hoofdstuk 4 en 5.
+
+3.1 Mate van gebruik
+
+Ruim een op de drie bedrijven in Nederland heeft tijdens de coronacrisis gebruik gemaakt van minimaal een van de steunregelingen. Dat zijn in totaal bijna 652 duizend bedrijven. De vier meest gebruikte en grootste soorten regelingen zijn de Tijdelijke overbruggingsregeling zelfstandig ondernemers (Tozo), het bijzonder uitstel van belastingbetaling, de vastelastenregelingen (TOGS of TVL) en de Tijdelijke Noodmaatregel Overbrugging voor Werkgelegenheid (NOW). Van alle bedrijven maakten de meesten gebruik van de Tozo-regeling (18 procent). Deze regeling was specifiek bedoeld voor kleine zelfstandig ondernemers. Ruim driekwart van alle bedrijven in Nederland is een zelfstandig ondernemer. Krediet- en garantieregelingen werden relatief veel minder gebruikt (1 procent).
+
+De meeste bedrijven met steun maakten gebruik van één van de vier veelgebruikte regelingen (22 procent van alle bedrijven in Nederland). De overige bedrijven (13 procent) maakten gebruik van een combinatie van twee of drie, of van alle vier de grote soorten regelingen. Hoe meer regelingen, des te minder vaak dit voorkwam.
+
+Het verloop van het gebruik van de coronasteunmaatregelen wordt in figuur 3.1.2 geschetst aan de hand van de loonkostenvergoeding (NOW), vastelastenregelingen (TOGS of TVL) en Tozo. Vooral aan het begin van de coronacrisis wisten ondernemers niet goed wat de impact zou zijn van de beperkende maatregelen en deed een groot aantal bedrijven een beroep op een van deze drie regelingen. Bij het tweede steunpakket dienden aanzienlijk minder bedrijven een aanvraag in. In het derde kwartaal van 2020 waren er dan ook minder beperkende maatregelen dan in het voorgaande kwartaal. Duidelijk is dat het gebruik van de coronasteunmaatregelen door bedrijven in de tijd samenhangt met de lockdowns en andere beperkende maatregelen. Dit geldt vooral voor de vastelastenregelingen. Tijdens de zomer van 2020 liepen de besmettingen langzaamaan op en in oktober ging Nederland weer gedeeltelijk in lockdown. Hierdoor nam het gebruik van steunregelingen door bedrijven weer toe. Zo nam het aandeel bedrijven met een vastelastenregeling toe van 2 procent in het derde kwartaal van 2020 naar 5 procent in het eerste kwartaal van 2021. Dat is een ruime verdubbeling, wat deels ook verklaard kan worden vanuit het feit dat de voorwaarden voor de regeling waren versoepeld. Ook bij de heropleving van het coronavirus en de beperkende maatregelen in de winter van 2021 liep het beroep op de vastelastenregeling weer op. In de eerste drie maanden van 2022 maakte nog 1,3 procent van de bedrijven gebruik van loonsteun en 1,8 procent van de vastelastenregeling.
+
+3.2 Gebruik naar bedrijfsgrootte en bedrijfstak
+
+Of bedrijven een beroep deden op de coronasteunregelingen, en zo ja op welke, hangt sterk samen met de omvang van het bedrijf. Bedrijven met één werkzame persoon maakten aanzienlijk minder gebruik van steun dan bedrijven met twee werkzame personen of meer, respectievelijk 30 en 52 procent. Vooral bedrijven met 10 tot 50 werkzame personen (65 procent) en 50 tot 250 werkzame personen (58 procent) deden beroep op steun.
+
+De Tozo-regeling was vooral bedoeld voor kleine zelfstandig ondernemers en dat is ook duidelijk in de cijfers terug te zien: deze werd vooral door bedrijven met één werkzame persoon of met 2 tot 10 werkzame personen gebruikt. De loonkostenvergoeding daarentegen werd met name aangevraagd door middelgrote bedrijven van 10 tot 250 werkzame personen. Deze regeling is bedoeld om werkgevers te steunen, zodat zij het loon van werknemers door konden betalen bij verminderde inkomsten. Ook maakten middelgrote bedrijven relatief het vaakst gebruik van uitstel van belastingbetaling. Een tegemoetkoming voor vaste lasten werd relatief het vaakst door de wat kleinere bedrijven van 2 tot 10 en van 10 tot 50 werkzame personen aangevraagd.
+
+NOW, Tozo en het aantal werkzame personen
+
+De NOW-regeling was gericht op bedrijven met personeel voor het doorbetalen van hun werknemers, de Tozo was meer gericht op kleine zelfstandig ondernemers voor hun eigen levensonderhoud. Voor een goede vergelijking, zoals in het volgende verdiepende hoofdstuk, met de populatie van bedrijven in Nederland, wordt het gebruik van de NOW-regeling vaak afgezet tegen alle bedrijven met twee of meer werkzame personen en de Tozo tegen alle bedrijven met één werkzame persoon.
+
+Toch is er ook een beperkt aantal bedrijven met meer dan één werkzame persoon (als grootteklasse-aanduiding) dat een beroep deed op de Tozo. De ondernemer kan bijvoorbeeld voor zichzelf een beroep moeten doen op Tozo en voor zijn of haar personeel op de NOW. Daarnaast geldt dat Tozo-cijfers over ‘bedrijven’ slechts indicatief zijn.
+
+Ook maakt een klein aantal bedrijven met één werkzame persoon gebruik van de NOW. De grootteklasse-aanduiding van een bedrijf weerspiegelt een arbeidsvolume. Als een deeltijd-werkgever voor een deeltijd-werknemer in een bedrijf NOW heeft aangevraagd en samen werken ze (afgerond) 1 voltijdsequivalent, dan is dat bijvoorbeeld een bedrijf met één werkzame persoon dat een beroep doet op de NOW-regeling.
+
+Niet alle bedrijfstakken werden in dezelfde mate getroffen door de maatregelen om het coronavirus in te dammen. Tijdens de verschillende lockdowns werden sommige bedrijfstakken, zoals de horeca en niet-essentiële winkels, volledig of deels gesloten. Daarnaast had de anderhalvemetersamenleving veel impact op contactberoepen. Een uitsplitsing naar bedrijfstak laat dan ook zien dat vooral horecabedrijven beroep deden op een of meer van de steunmaatregelen (77 procent). Ook meer dan de helft van de bedrijven in de overige dienstverlening (zoals kappers en schoonheidssalons) en vervoer en opslag (waaronder taxi’s) maakten gebruik van een steunregeling. In de cultuur, sport en recreatie en handel (waaronder zowel winkels als groothandels) gold dit voor bijna de helft van de bedrijven (45 procent, respectievelijk 42 procent). In de financiële dienstverlening deden bedrijven naar verhouding het minst vaak beroep op coronasteun (13 procent).
+
+3.3 Totaalbedragen per regeling
+
+Tot en met 30 juni 2022 hebben bedrijven in totaal ongeveer 34 miljard euro ontvangen vanuit de loonkosten- en vastelastenregelingen. Het merendeel daarvan bestond uit de vergoeding voor loonkosten (23,9 miljard). Deze bedragen zijn opgebouwd uit de definitief vastgestelde subsidies op 30 juni 2022 en de op die datum nog niet vastgestelde maar eerder toegekende subsidies.
+
+De totale Tozo-uitgaven bedroegen ongeveer 3,5 miljard euro. Verder hadden bedrijven medio 2022 in totaal nog 20,8 miljard euro uitstaan aan uitgestelde belastingen. Dit bedrag moet door bedrijven binnen vijf tot zeven jaar afgelost worden. Over de hele periode is ongeveer 47 miljard euro aan belastingen uitgesteld geweest, waarvan meer dan de helft dus inmiddels al is betaald. Verder stond de overheid garant voor 1,3 miljard euro en verstrekte daarnaast 0,3 miljard euro aan de in deze rapportage opgenomen kredieten.
+
+In de volgende twee hoofdstukken wordt in meer detail op deze bedragen ingegaan. De Tozo wordt hierbij buiten beschouwing gelaten, want het CBS beschikt, anders dan voor de andere regelingen, niet over bedrijfsgegevens met Tozo-bedragen.
+
+3.4 Gebruik naar regio
+
+Hieronder wordt een kort beeld geschetst van het gebruik van de regelingen naar regio. Het gaat hierbij om de deelname van bedrijfs vestigingen . Deelname aan de onderzochte regelingen, zoals in de rest van het rapport, wordt in principe op bedrijfsniveau bepaald. Bedrijven kunnen echter uit een of meerdere vestigingen bestaan in verschillende regio’s. Aangenomen is dat als een bedrijf gebruik maakt van een regeling, dit gebruik op alle vestigingen van toepassing is.
+
+Tussen de provincies is er enig verschil in het aandeel bedrijfsvestigingen dat minstens één coronasteunmaatregel gebruikte. Wel wijkt het gebruik per provincie niet veel af van het gemiddelde in Nederland (37 procent). In Limburg en Noord-Holland werd relatief het meest gebruik gemaakt van een van de financiële regelingen (respectievelijk 41 en 40 procent). Van alle provincies deden bedrijfsvestigingen in Utrecht (33 procent) en Drenthe (34 procent) het minst vaak een beroep op steun.
+
+De verschillen in het gebruik van coronasteunmaatregelen per gemeente zijn groter dan op provinciaal niveau. Het hoogst is het gebruik op de Waddeneilanden, Vlieland, Ameland, Terschelling en Schiermonnikoog (55 tot 63 procent van alle bedrijfsvestigingen). In Noord-Holland springen er vooral een aantal steden uit zoals Amsterdam, Beverwijk en Zandvoort (ongeveer 45 procent). Ook in Limburg zijn er twee steden, Valkenburg aan de Geul en Vaals, waar ruim 45 procent van de vestigingen een beroep deed van coronasteun. Van alle gemeenten in Nederland was het gebruik het laagst in Rozendaal en Lopik, met respectievelijk 21 en 22 procent.
+
+Zoals in paragraaf 3.2 is getoond, ontvingen bedrijven en dus ook bedrijfsvestigingen in de horeca, overige persoonlijke dienstverlening, vervoer en opslag en cultuur het vaakst steun via een of meer regelingen. Ook zijn er bedrijfstakken zoals de financiële dienstverlening die weinig of geen beroep deden op steun. Verschillen tussen regio’s zouden dan ook kunnen samenhangen met verschillen in de zogeheten sectorstructuur, ofwel het meer voorkomen van bepaalde bedrijfstakken en grootteklassen in de regio’s. In Limburg zijn er bijvoorbeeld relatief veel bedrijfsvestigingen in de horeca en de overige persoonlijke dienstverlening en tevens relatief veel bedrijven met twee of meer werkzame personen. Als hiermee rekening wordt gehouden, ofwel wordt gecorrigeerd voor de sectorstructuur, dan wijkt Limburg in het gebruik van de regelingen niet meer duidelijk af van het Nederlandse gemiddelde. Dit gaat echter lang niet voor alle regio’s op. In Noord-Holland, waaronder Amsterdam, blijft het verschil met het Nederlandse gemiddelde overeind, ook als er met de sectorstructuur rekening wordt gehouden. Vrijwel alle bedrijfstakken in die regio doen een groter dan gemiddeld beroep op de steunmaatregelen. De verschillen in sectorstructuur per regio bieden over het geheel genomen geen afdoende verklaring voor verschillen tussen regio’s in het gebruik van steunmaatregelen.
+
+
+
+
+
+Noten
+
+Bedrijven worden door andere instanties dan het CBS meestal geregistreerd als juridische eenheid, veelal aan de hand van hun registratienummer bij de Kamer van Koophandel (KVK), hun fiscale nummer of hun loonheffingsnummer. Voor het onderzoek naar de coronasteunmaatregelen zijn deze eenheden op KVK-nummer of fiscaal nummer gekoppeld aan het Algemeen Bedrijven Register (ABR) van het CBS. Daarbij worden de juridische eenheden verbonden aan de zogeheten bedrijfseenheid (BE). Niet elke juridische eenheid kan daarbij één-op-één worden gekoppeld aan een bedrijfseenheid. De bedrijfseenheid is de statistische eenheid van het CBS die gebruikt wordt om de economische werkelijkheid te beschrijven. Het kan worden omschreven als de feitelijke transactor van het productieproces in brede zin.
+
+Omdat een bedrijfseenheid de economische werkelijkheid beschrijft en niet zozeer de juridische, fiscale of administratieve werkelijkheid, bestaat er een verschil tussen het aantal 'bedrijven' zoals deze bij andere instanties bekend zijn onder hun juridische registratie en het aantal 'bedrijven' (feitelijk bedrijfseenheden) zoals deze door het CBS worden gerapporteerd.
+
+In dit rapport zijn bedrijven dus bedrijfseenheden, alleen in hoofdstuk 5 worden ook juridische eenheden genoemd. Bij regelingsbedragen gaat het om de totale met de regeling gemoeide bedragen, de verbijzonderingen van de bedragen naar bedrijfskenmerken zijn exclusief de niet-gekoppelde juridische eenheden.
+
+Tozo is een tegemoetkoming aan huishoudens, deze wordt dan ook geregistreerd op het niveau van huishoudens. De koppeling naar bedrijfseenheden, dus de vraag welk ‘bedrijf’ van Tozo gebruik maakte, wordt gelegd via de personen in het huishouden en de aan hun verbonden bedrijven (via de zogeheten Satelliet Zelfstandig Ondernemers – SZO). Het gebruik van Tozo door ‘bedrijven’ is daarmee slechts een indicatief gegeven (een persoon kan bijvoorbeeld eigenaar zijn van meerdere bedrijven). Anders dan voor de andere regelingen zijn in de beschikbare registraties geen bedragen opgenomen. Als in deze rapportage wordt gesproken over de Tozo-deelname van bedrijven, gaat het om de inkomensondersteuning voor levensonderhoud, niet om de Tozo-kredieten.
+
+Zie ook .
+
+De toegekende tegemoetkoming ging uit van een geschat subsidiebedrag op basis van de door de bedrijven verwachte omzet. Het geschat subsidiebedrag in de toekenning bepaalde het voorschot dat ondernemers ontvingen. Dat voorschot was 80 procent van het toegekende subsidiebedrag. Na afloop van de subsidieperiode dient de werkelijke omzet te worden opgegeven en wordt vastgesteld of het bedrijf aanspraak kon maken op de tegemoetkoming, en zo ja wat de hoogte van de tegemoetkoming had moeten zijn.
+
+Inclusief uitvoeringskosten en als voorlopige tussenstand. Zie ook en .
+
+Meer flexibiliteit binnen aflossingsregeling coronabelastingschuld | Nieuwsbericht | .Gebruik vier grootste regelingen nader bekeken
+
+Dit hoofdstuk gaat achtereenvolgens in op de vier meest gebruikte coronasteunmaatregelen: loonkostenregelingen, vastelastenregelingen, Tozo en uitstel van belastingbetaling. Voor de eerste drie regelingen wordt hierbij stilgestaan bij het aantal bedrijven dat er per aanvraagperiode gebruik van maakte. Verder wordt ingezoomd op de branches waar de meeste steun werd aangevraagd en er wordt ingegaan op de vraag hoe lang bedrijven een beroep deden op de regelingen. Bij de loonkosten- en vastelastenregelingen komt ook het verschil tussen de toegekende bedragen en de vastgestelde bedragen aan de orde. Voor het uitstel van belastingbetaling wordt getoond hoeveel bedrijven op verschillende peilmomenten uitstel hadden aangevraagd, wat de hoogte van de aanslag was en op welke soorten belastingen het uitstel betrekking had. Aan het slot van het hoofdstuk komt aan bod in welke mate bedrijven meerdere van de vier regelingen combineerden.
+
+4.1 Loonkostenregelingen
+
+Gebruik per aanvraagperiode
+
+De Tijdelijke Noodmaatregel Overbrugging voor Werkgelegenheid (NOW) was een subsidie voor werkgevers om het loon van werknemers door te kunnen betalen tijdens de coronacrisis. Vooral aan het begin van de coronacrisis werd er een groot beroep gedaan op de eerste loonkostenregeling. Bedrijven konden op dat moment logischerwijs niet helemaal goed inschatten wat de gevolgen zouden zijn van de beperkende maatregelen op hun bedrijfsvoering. Van alle bedrijven vroeg 6 procent de NOW-1‑regeling aan. Dat waren bijna 121 duizend bedrijven. De daaropvolgende loonkostenregelingen werden door minder bedrijven aangevraagd. Van de laatste regeling, de NOW-6, maakte nog ongeveer 24 duizend bedrijven gebruik.
+
+Van de bedrijven met een loonkostensubsidie nam een op de drie één keer deel aan een NOW-regeling. De meeste van deze bedrijven namen deel aan de NOW-1. Het aantal bedrijven dat beroep deed op meerdere loonkostenregelingen neemt af bij een oplopend aantal regelingen. Bedrijven die minstens zes keer gebruik maakten van de in totaal acht, worden gezegd hier frequent gebruik van te hebben gemaakt. Dit gold voor bijna 19 procent van de bedrijven met loonkostensteun. Deze bedrijven horen tot de sectoren die het hardst geraakt zijn door de genomen maatregelen tijdens de coronacrisis.
+
+Gebruik per branche
+
+Vooral bioscopen maakten frequent gebruik van de loonkostenregeling. Van de bedrijven in deze branche nam bijna drie kwart minstens zes keer deel aan een van de acht NOW-regelingen. Ook door theaters en schouwburgen en hotel-restaurants werd veelvuldig een beroep op de regeling gedaan, respectievelijk 64 en 54 procent. Deze drie branches horen dan ook tot de sectoren die gedurende de gehele coronacrisis in hun bedrijfsvoering werden belemmerd. Daartegenover waren er branches die zwaar in hun bedrijfsvoering werden geraakt tijdens de eerste lockdownperiode in 2020, maar die daarna weer (gedeeltelijk) klanten konden ontvangen. Tot de branches die om die reden voornamelijk in de eerste fase van de pandemie een groot beroep op een loonkostenregeling deden, behoren warenhuizen, tandartsen en tandheelspecialisten, zwembaden en sportaccommodaties, en kappers.
+
+Bedrag aan steun
+
+Niet alleen deden relatief veel horecabedrijven een beroep op de loonkostenregelingen (zie ook B2), ook ontvingen ze tezamen het meeste aan loonkostensteun van alle bedrijfstakken : 4,3 miljard euro. Ruim de helft van deze loonkostensubsidie in de horeca ging naar bedrijven met minder dan 50 werkzame personen. De sectoren waar de meeste bedrijven beroep deden op loonsteun ontvingen niet automatisch de hoogste subsidies. De hoogte van de loonkostensubsidie van bedrijven en daarmee de sector hangt grotendeels af van de personeelsomvang. Dit is goed zichtbaar in de sector vervoer en opslag, en verhuur en overige zakelijke diensten. Van alle vervoer- en opslagbedrijven ontvingen bedrijven met 50 of meer werkzame personen bijna 2,8 miljard van de 3,1 miljard euro aan NOW.
+
+Toekenningen en vaststellingen
+
+Bedrijven die beroep deden op een loonkostenregeling kregen door het Uitkeringsinstituut Werknemersverzekeringen een bedrag toegekend op basis van het verwachte omzetverlies in een bepaalde periode en de loonsom in een bepaalde referentiemaand. Achteraf werd vastgesteld hoe hoog de tegemoetkoming daadwerkelijk moest zijn, op basis van gerealiseerde omzetten en daadwerkelijke loonsommen in de betreffende periode.
+
+Voor de meeste NOW-regelingen heeft deze vaststelling nog niet of gedeeltelijk plaats gevonden. Alleen voor de eerste aanvraagperiode was de vaststelling van de bedragen op 30 juni 2022 (peildatum van dit rapport) voor een belangrijk deel compleet (69 procent). Bij het merendeel van de bedrijven met de NOW-1‑regeling bleek de vaststelling lager dan de toekenning (59 procent) of zelfs gelijk aan nul (26 procent). Bij deze bedrijven bleek hun omzetverlies dus achteraf mee te vallen (minder dan 20 procent in de drie aangesloten maanden). Kijkend naar de vastgestelde bedragen per medio 2022 voor de NOW-1, komt dit totaalbedrag per saldo tot nu toe 3,4 miljard euro lager uit dan eerder is toegekend op basis van ingeschat omzetverlies. Aan het begin van de coronacrisis waren bedrijven vrij pessimistisch over de omzetverwachtingen. Er heerste vanzelfsprekend veel onzekerheid en kennelijk verwachtte men een grotere negatieve impact op de omzet.
+
+In totaal was met de NOW-1‑regeling een subsidiebedrag gemoeid van bijna 6,5 miljard euro. Dit was het hoogste bedrag van alle loonkostenregelingen. Bedrijven ontvingen uit de laatste regeling, de NOW-6, tezamen nog 1,5 miljard euro.
+
+4.2 Vastelastenregelingen
+
+De tegemoetkoming ondernemers getroffen sectoren COVID-19 (TOGS) was een eenmalige uitkering aan midden- en kleinbedrijven. Deze regeling was bedoeld voor verschillende specifieke bedrijfstakken die direct schade ondervonden van diverse kabinetsmaatregelen om het coronavirus in te dammen. Daarna kwam de regeling ter tegemoetkoming voor de vaste lasten (TVL). Deze regeling (TVL-1) was in eerste instantie ook bedoeld voor specifieke groepen mkb-ondernemers met een significant omzetverlies en werd later beschikbaar gesteld voor meer bedrijfstakken en tevens voor startende en grote ondernemingen.
+
+Gebruik per aanvraagperiode
+
+Een op de tien bedrijven in Nederland deed via de Rijksdienst voor Ondernemend Nederland een beroep op de TOGS. Dat waren in totaal 195 duizend bedrijven, ruim anderhalf keer zo veel als het aantal bedrijven met NOW in deze periode. De TVL-1 werd door minder bedrijven aangevraagd (39 duizend). Van de vastelastenregelingen die golden tijdens de lockdownperiode eind 2020 en begin 2021 (TVL Q4 2020 en TVL Q1 2021) werd weer vaker gebruik gemaakt. Dat hangt niet alleen samen met de mate waarin bedrijven werden getroffen, maar ook met het feit dat de laatste voor meer bedrijven open stonden dan de TVL-1.
+
+Ruim de helft van alle bedrijven met een vastelastenregeling maakte eenmalig gebruik. De bedrijven die één keer deelnamen aan de vastelastenregeling maakten vooral gebruik van de TOGS-regeling (83 procent). Net als bij de NOW neemt het aantal bedrijven dat beroep deed op meerdere vastelastenregelingen af bij een oplopend aantal regelingen. Van de deelnemende bedrijven nam 11 procent minstens zes keer deel aan een vastelastenregeling.
+
+Gebruik per branche
+
+Net als bij de loonkostenregeling maakten vooral bioscopen veelvuldig gebruik van een vastelastenregeling. Voor 44 procent van de bioscopen gold dat ze minstens zes keer deelnamen aan een vastelastenregeling. Ook door de horecabranches werd veelvuldig beroep gedaan op zowel de loonkosten- als de vastelastenregelingen. De kermisattracties en fitnesscentra maakten vooral gebruik van de vastelastenregeling en minder van de loonkostenregeling. In deze twee branches zijn vooral bedrijven met weinig personeel actief. Ook taxichauffeurs deden vooral frequent beroep op tegemoetkoming voor vaste lasten (25 procent) en veel minder vaak voor loonkosten (8 procent). Binnen de taxibranche zijn er veel kleine bedrijven, 81 procent is een eenmanszaak.
+
+Bedrag aan steun
+
+Horecabedrijven ontvingen niet alleen het hoogste bedrag aan loonkostensteun, maar ook aan vastelastensteun. In totaal ontvingen horecabedrijven 2,7 miljard euro als tegemoetkoming voor hun vaste lasten. Daarop volgden de handel- en de cultuursector met respectievelijk 1,6 en 1,2 miljard euro.
+
+Bij de loonkostenregeling bepaalde de bedrijfsgrootte in termen van werkgelegenheid de omvang van de steun. Van het totale bedrag aan loonsteun ging ruim de helft naar bedrijven met 50 werkzame personen of meer. Bij de vastelastenregeling hing de omvang van de steun niet samen met de personeelsomvang, maar met de hoogte van de afschrijvingen op vaste activa en van de overige bedrijfskosten. Het merendeel van de subsidie ging naar middelgrote bedrijven van 2 tot 10 en van 10 tot 50 werkzame personen.
+
+Toekenningen en vaststellingen
+
+Bij de TOGS ontvingen ondernemers bij toekenning meteen het definitieve bedrag van 4 duizend euro. Voor deze regeling vond geen vaststelling achteraf plaats. De daaropvolgende vastelastenregelingen waren, net als de loonkostenregelingen, gebaseerd op een verwacht percentage omzetverlies en een vooraf vastgesteld gemiddeld aandeel vaste lasten in de omzet per bedrijfstak. Achteraf wordt het bedrag vastgesteld op basis van de daadwerkelijke omzetten.
+
+Voor de vastelastenregelingen ligt het aantal vaststellingen hoger dan bij de loonkostenregeling. Bij de eerste vier TVL-regelingen (TVL-1, TVL Q4 2020, TVL Q1 2021 en TVL Q2 2021) was het merendeel (86 tot 97 procent) van de toegekende bedragen eind juni 2022 vastgesteld. Voor de TVL Q3 2021 gold dit voor bijna de helft van de toegekende bedragen. Voor de recentere regelingen hebben er medio 2022 nog (vrijwel) geen vaststellingen plaats gevonden.
+
+In totaal ontvingen bedrijven 864 miljoen euro uit de TOGS-regeling. Via de TVL Q1 2021 en TVL Q2 2021 werden in totaal de meeste subsidies verstrekt aan bedrijven; respectievelijk 2,1 en 2 miljard euro. Vanaf de TVL Q1 2021 stond de vastelastenregeling ook voor startende en grotere bedrijven open.
+
+Van meer dan de helft van de bedrijven met een TVL-1 regeling lag het vastgestelde bedrag lager dan het toegekende. Precies het omgekeerde gold voor de daaropvolgende regeling, de TVL Q4 2020. Ruim twee derde van de bedrijven kreeg bij deze regeling een hogere vaststelling dan toekenning. Wat hierbij een rol speelde, is dat in de laatste drie maanden van 2020 Nederland van een gedeeltelijke lockdown naar een volledige lockdown ging. Hierdoor viel het omzetverlies van veel bedrijven hoger uit dan vooraf ingeschat. Tevens van belang is dat bij vaststelling van de TVL Q4 2020 een hoger subsidiepercentage werd gehanteerd dan bij de verlening. Bij de verlening was het subsidiepercentage 50 procent en bij vaststelling was dit 50 tot 70 procent, afhankelijk van de omzetderving.
+
+Bij de TVL Q1 2021 en TVL Q2 2021 bleek dat het merendeel van de bedrijven vaak een goede inschatting had gemaakt van hun verwachte omzetverlies. Voor het eerste kwartaal van 2021 was bij 54 procent van de bedrijven de vaststelling gelijk aan de toekenning en in het tweede kwartaal was dit bij 77 procent het geval. In de loop der tijd werd tevens de groep bedrijven steeds kleiner waarvoor de vaststelling van de vastelastenregeling gelijk was aan nul. Bij de TVL-1 regeling gold dit voor 21 procent van de bedrijven en bij de TVL Q2 2021 nog voor slechts 2,5 procent. Bedrijven werden steeds realistischer in het inschatten van hun te verwachten omzetverlies. Het totaal van de vastgestelde bedragen per medio 2022 voor TVL-regelingen is 5,8 miljard euro. Per saldo tot nu toe valt dat 0,6 miljard euro lager uit dan eerder is toegekend op basis van ingeschat omzetverlies.
+
+4.3 Tozo
+
+De Tozo was bedoeld om zelfstandig ondernemers te ondersteunen in hun inkomen voor levensonderhoud. Deze steun werd door gemeentes uitgekeerd aan huishoudens waarvan zeker één getroffen zelfstandige lid was. De registratie van het gebruik van de Tozo-regeling is dan ook op huishoudensniveau. Om te bepalen hoeveel bedrijven Tozo gebruikten, zijn de personen in deze huishoudens gekoppeld aan gegevens over zelfstandig ondernemers. Het gebruik van Tozo door bedrijven zoals beschreven in deze paragraaf is dan ook een indicatie.
+
+Gebruik per aanvraagperiode
+
+De Tozo werd aangekondigd in het eerste steunpakket van maart 2020 en liep in vijf aanvraagperiodes tot 1 oktober 2021. Tijdens de eerste aanvraagperiode werd het vaakst gebruik gemaakt van deze regeling. Bijna 313 duizend bedrijven maakten gebruik van Tozo-1, oftewel 17 procent van alle bedrijven. Tozo-2 werd door ongeveer 109 duizend bedrijven aangevraagd. Vanaf de tweede aanvraagperiode gold voor de Tozo een partnerinkomenstoets: de hoogte van de aanvullende uitkering was afhankelijk van het totale huishoudinkomen, in plaats van het persoonlijk inkomen zoals bij Tozo-1. Van Tozo-3 maakten bijna 124 duizend bedrijven gebruik. Daarna nam het gebruik af tot iets minder dan 45 duizend bij Tozo-5.
+
+Het grootste deel (57 procent) van de bedrijven die een beroep deden op de Tozo, deed dat maar één keer. Veruit het grootste deel van deze bedrijven (93 procent) gebruikte alleen Tozo-1. Van alle Tozo-gebruikers nam 16 procent twee keer deel aan een regeling. Een op de tien bedrijven met Tozo maakte van alle vijf aanvraagperiodes gebruik. Maakten bedrijven vier of vijf keer gebruik van een Tozo-regeling, dan wordt hier gesproken van frequent gebruik. Dit gold voor 17 procent van alle bedrijven met een Tozo-regeling.
+
+Gebruik per branche
+
+Bij de resultaten naar branches worden alleen de bedrijven met één werkzame persoon meegenomen. De Tozo-regeling werd vooral door eenmanszaken aangevraagd (81 procent). Vooral taxichauffeurs deden veelvuldig beroep op de Tozo-regeling, namelijk 44 procent. Daarnaast vallen kermisexploitanten op, 36 procent van hen gebruikte minstens vier keer Tozo. Naast vervoer per taxi komt in de top 10 van frequent gebruik ook de branche ongeregeld personenwegvervoer voor: 16 procent van deze eenmanszaken gebruikte frequent Tozo. Onder deze groep valt bijvoorbeeld vervoer per autobus van toeristen of andere groepen personen zonder vaste dienstregeling, en ander toeristisch vervoer als huifkarren. Van de kappers en auto- en motorrijscholen maakten respectievelijk 68 en 67 procent minimaal één keer gebruik van een Tozo-regeling. In deze branches werd door relatief weinig eenmanszaken frequent gebruik gemaakt van Tozo. Door 3 procent van de kappers en 4 procent van de rijscholen werd de Tozo veelvuldig gebruikt.
+
+4.4 Uitstel van belastingbetaling
+
+Gedurende de hele steunperiode was er de mogelijkheid om bijzonder uitstel van belastingbetaling aan te vragen. Het uitstel kon voor bijna alle soorten belastingen verleend worden. Het uitstel betrof de op het moment van verzoek openstaande schuld. Er waren geen restricties qua type bedrijf. De cijfers in deze paragraaf hebben betrekking op bepaalde peilmomenten die overeenkomen met de momenten waarop de monitoringscijfers verschenen. Tussen deze peilmomenten kunnen bedrijven hun belastingschuld (volledig) hebben betaald.
+
+Gebruik uitstel van belastingbetaling
+
+In 2020 schommelde het aantal bedrijven met openstaand uitstel van belastingbetaling tussen de 127 en 140 duizend. Op 30 juni 2022 hadden bijna 205 duizend bedrijven openstaand uitstel van belastingbetaling. Dat is ongeveer 11 procent van alle bedrijven. Van alle bedrijven die eind juni 2022 nog belasting moesten betalen, was twee derde een eenmanszaak en een kwart een bedrijf met twee tot tien werkzame personen.
+
+Het uitstaande uitgestelde bedrag hangt samen met het aantal bedrijven met openstaand uitstel van belastingbetaling. Met de toename van het aantal bedrijven met een openstaande belastingschuld van 2020 naar 2021 steeg ook de omvang van de totale openstaande belastingschuld. Op het meest recente peilmoment, 30 juni 2022, stond nog een belastingschuld open van 20,8 miljard euro.
+
+Uitstel naar type belasting
+
+Bij aanvraag van uitstel van bijvoorbeeld inkomstenbelasting werd ook gelijktijdig uitstel verleend voor bijdrage zorgverzekeringswet, vennootschapsbelasting, loonheffing en omzetbelasting, en omgekeerd. Vooral eenmanszaken en bedrijven met twee tot tien werkzame personen hebben uitstel van bijdrage zorgverzekeringswet en inkomstenbelasting gekregen. Bij het uitstel van betaling voor loonheffingen en vennootschapsbelasting, gaat het vooral om bedrijven met minstens tien werkzame personen.
+
+4.5 Gecombineerd gebruik meerdere regelingen
+
+Bedrijven konden tijdens de coronacrisis veelal aanspraak maken op meerdere soorten steun, bijvoorbeeld door twee of meer verschillende regelingen te gebruiken op hetzelfde moment of door tijdens verschillende steunrondes andere soorten regelingen te gebruiken. Van de bedrijven die gebruik maakten van minstens een van de vier grote regelingen, maakte bijna twee vijfde gebruik van twee of meer verschillende typen steun. De overige drie vijfde deed tijdens de crisis beroep op slechts één grote regeling.
+
+In deze paragraaf wordt specifieker ingegaan op dit gecombineerd gebruik. Daarbij wordt onderscheid gemaakt tussen bedrijven met één werkzame persoon en bedrijven met twee of meer werkzame personen, omdat de verschillende regelingen verschillende doelgroepen hebben. Het gecombineerd gebruik van de meest gebruikte soorten steunmaatregelen wordt uitgelicht. Voor bedrijven met één werkzame persoon zijn dat de vastelastenregelingen, de Tozo (de regeling specifiek bedoeld voor zelfstandig ondernemers) en het uitstel van belastingbetaling. Voor bedrijven met twee of meer werkzame personen zijn dat de NOW (de loonkostenregelingen, specifiek bedoeld voor bedrijven met werknemers), de vastelastenregelingen en het uitstel van belastingbetaling.
+
+Bedrijven met één werkzame persoon maakten meestal gebruik van maar één van de grote regelingen. Gebruik van enkel Tozo kwam het vaakst voor, namelijk bij 39 procent van de eenmanszaken die een beroep deden op een grote steunmaatregel (170 duizend bedrijven). Bij de tweede groep – bedrijven met twee of meer werkzame personen – komt gecombineerd gebruik van drie grote steunmaatregelen van alle mogelijke combinaties juist het meest voor. De verschillen tussen de combinaties zijn hier kleiner. Een vijfde van de bedrijven met minstens één grote coronasteunmaatregel maakte aanspraak op alle drie de grote betreffende regelingen. Het gaat om 44 duizend bedrijven. Van de eenmanszaken maakten 22 duizend bedrijven (5 procent) aanspraak op drie grote regelingen.
+
+
+
+
+
+Noten
+
+Bedragen naar bedrijfstak zijn alleen beschikbaar voor gekoppelde bedrijfseenheden. Het totaal over alle bedrijfstakken is dan ook iets kleiner dan het totale regelingsbedrag zoals genoemd in hoofdstuk 3.
+
+Bedragen naar bedrijfstak zijn alleen beschikbaar voor gekoppelde bedrijfseenheden. Het totaal over alle bedrijfstakken is dan ook iets kleiner dan het totale regelingsbedrag zoals genoemd in hoofdstuk 3.Het gebruik van garanties en leningen
+
+In de vorige hoofdstukken zijn directe steunmaatregelen besproken, die het karakter van een subsidie of uitstel van belastingbetaling hebben. Daarnaast zijn er tijdens de coronacrisis ook maatregelen genomen om de werking van de kapitaalmarkt te versterken en beter te enten op de overbrugging van de coronaschokken. Het gaat hierbij om borgstellingen voor kredieten (ofwel: garanties) en om leningen. In beide gevallen betreft het ondersteuning aan ondernemers waarin de kapitaalmarkt zelf niet voorziet en een terrein waar de overheid – ook voor de coronacrisis – al actief op was.
+
+5.1 Soorten regelingen
+
+Garanties
+
+In maart 2020 werd door het kabinet aangekondigd dat ondernemers gesteund zouden gaan worden in hun behoefte aan liquiditeit via onder andere een verruiming van de Borgstelling MKB-kredieten. Het belangrijkste doel was te zorgen dat bedrijven met een gezond toekomstperspectief gefinancierd konden blijven. Daarbij werd in eerste instantie de focus gelegd op het mkb en werd een verruiming van de BMKB aangekondigd. Deze verruiming (BMKB-C) hield een verhoging in van het borgstellingskrediet (van 50 procent naar 75 procent), een verlaging van de provisie en een langere looptijd van de staatsgarantie. De BMKB-C was aan te vragen vanaf 21 maart 2020 tot en met het tweede kwartaal 2022.
+
+Ook grote bedrijven kunnen tegen grenzen aanlopen, ondanks dat zij doorgaans meer financiële buffers hebben om tegenvallende omzetten op te vangen. Dit geldt in het bijzonder voor ondernemingen waarvan de omzet in lockdownperiodes geheel of grotendeels wegviel. Via de verruiming van de Garantie Ondernemingsfinanciering konden mkb- en grootbedrijven eveneens aanspraak maken op meer financiering. Ondernemingen konden bij banken een lening krijgen met een hoger percentage staatsgarantie: 80 of 90 procent (afhankelijk van de omzet van de onderneming) in plaats van de gebruikelijke 50 procent. De maximale lening bedroeg daarbij 150 miljoen euro. Het totale garantiebudget voor de GO werd substantieel verhoogd, waardoor meer bedrijven hier gebruik van konden maken. De GO-C was aan te vragen tussen 29 april 2020 en 15 juni 2022.
+
+In mei 2020 werd een garantieregeling opgezet die speciaal was bedoeld voor bedrijven met een kleine financieringsbehoefte, de Klein Krediet Corona (KKC). Ondernemers konden bij hun financier een lening aanvragen tussen de 10 duizend en 50 duizend euro, waarbij de overheid garant stond voor 95 procent van de hoofdsom. De KKC was aan te vragen vanaf 29 mei 2020 tot en met het tweede kwartaal van 2022.
+
+Naast deze generieke garantieregelingen werd in het eerste noodpakket specifieke kredietsteun aangekondigd voor de landbouw-, tuinbouw-, visserij- en aquacultuursector. Door de afnemende vraag, zowel nationaal als internationaal, stonden de prijzen van deze sector onder druk en namen de verkopen af. De Borgstelling MKB-Landbouwkredieten werd daarom verruimd tot de BL-C. Het maximumbedrag voor de borgstelling werd verhoogd van 1,2 naar 1,5 miljoen euro. De overheid stond voor 70 procent van de lening borg; dit is gelijk aan de reguliere BL. De BL-C was aan te vragen vanaf 21 maart 2020 tot en met het tweede kwartaal 2022.
+
+Leningen
+
+Om de risico’s van de coronacrisis voor startende ondernemers en ondernemers uit het kleinbedrijf te verkleinen werd er door het kabinet extra geld vrijgemaakt voor Qredits, een stichting die microkredieten beschikbaar stelt voor ondernemingen die via andere kanalen niet aan krediet kunnen komen. Bij Qredits konden ondernemers uitstel van (bestaande) aflossingsverplichtingen met rentekorting aanvragen én (nieuwe) corona overbruggingskredieten (voor bestaande ondernemers tot maximaal 25 duizend euro en voor beginnende ondernemers gestart in het eerste halfjaar van 2022 tot maximaal 35 duizend euro). Vanaf 18 maart 2020 was uitstel van aflossing mogelijk en vanaf 23 juli 2020 konden kredieten worden aangevraagd. Voor beide onderdelen was de regeling open tot en met het tweede kwartaal van 2022.
+
+Vanaf eind april 2020 konden ondernemers aanvullende steun aanvragen voor startups, scale-ups en innovatieve mkb’ers via de Corona Overbruggingslening. De Regionale Ontwikkelingsmaatschappijen (ROM’s) in samenwerking met Techleap voerden deze regeling uit. Het gaat hierbij om bedrijven die overwegend met extern eigen vermogen gefinancierd zijn. Daarnaast stond de COL onder voorwaarden open voor mkb’ers die hun groei hebben gefinancierd met intern eigen vermogen en die geen bancaire financieringsrelatie hebben (met uitzondering van een beperkte rekening-courant verhouding). De COL bood kredieten aan tussen de 50 duizend euro en 2 miljoen euro. De COL liep tot 1 juli 2021.
+
+Ter verduidelijking, bij de genoemde garanties staat de overheid garant voor een deel van een lening, die door de ondernemer bij een financier is aangevraagd. De genoemde leningen zijn een vorm van financiering die direct door Qredits en de ROM’s (via Techleap) aan ondernemers verstrekt werden, door extra middelen van het kabinet.
+
+5.2 Het gebruik van garanties
+
+De BMKB, GO en BL bestonden al vóór de crisisperiode, waardoor de verruiming vroeg in de pandemie geregeld kon worden door het Ministerie van Economische Zaken en Klimaat en de Rijksdienst voor Ondernemend Nederland. Bedrijven die hun financiële reserves door de coronapandemie in het voorjaar van 2020 zagen afnemen, konden door de verruiming met het coronaluik al vroeg in de crisis gebruik maken van de liquiditeitssteun.
+
+Het totaal aantal toegekende garanties per week was in de maanden maart, april en mei 2020 het hoogst. Daarna namen de toegekende garanties sterk af. Vanaf de zomer van 2020 konden ondernemers ook aanspraak maken op andere ondersteuning, zoals het uitstel van belastingbetaling, de TVL en de NOW. Mogelijk waren deze (subsidie)regelingen aantrekkelijkere alternatieven dan de leningen voor ondernemers. In 2020 werd voornamelijk gebruik gemaakt van de BMKB-C en vanaf de zomer ook de KKC.
+
+In aantallen is de BMKB-C het vaakst gebruikt. De GO-C het minst, maar vanwege de grote omvang per garantie is het totale garantiebedrag van deze regeling wel hoger dan bij de andere garantieregelingen.
+
+1) Voor GO-C zijn enkel garantiebedragen bekend.
+
+Uitleg garantie- en leningbedragen
+
+Het leningbedrag is het totale bedrag dat door het bedrijf aangevraagd is als lening. Het garantiebedrag duidt het deel van de lening aan waarvoor de overheid garant staat. Door deze garantie loopt de financier minder risico, en kan deze dus gemakkelijker en sneller kredieten verstrekken. Hierdoor konden bedrijven makkelijker en meer geld lenen.
+
+De verschillende garantieregelingen bedienen deels verschillende doelgroepen, maar er zijn ook overeenkomsten. Dit is terug te zien in de bedrijfskenmerken van de gebruikers. Tabel 5.2.3 geeft een overzicht van een tweetal bedrijfskenmerken voor de regelingen BMKB-C, GO-C, KKC en BL-C.
+
+1) Percentages hoeven niet op te tellen tot 100 procent vanwege afronding en onderdrukking.
+
+In het algemeen worden de garantieregelingen het vaakst gebruikt door bedrijven die ouder zijn dan zeven jaar. Dit komt mede doordat deze bedrijven vaak al een bankrelatie hebben, die snel kon worden aangewend op het moment dat deze regelingen verruimd werden. Daarnaast waren de gebruikers veelal bedrijven met twee tot tien werkzame personen, behalve bij de GO-C. Deze werd het vaakst gebruikt door bedrijven met 50 tot 250 werkzame personen. De gebruikers van de BMKB-C, GO-C en KKC zijn veelal afkomstig uit de sectoren horeca, handel en specialistisch zakelijke diensten. Voor de BL-C is dat de landbouw.
+
+De BMKB-C heeft een ander doel dan de reguliere BMKB. De reguliere BMKB is er voor investeringen die resulteren in omzetgroei. De BMKB-C beoogde een tijdelijk liquiditeitstekort op te vangen bij bedrijven die geraakt werden door de coronacrisis. Dit zien we terug in het gebruik van beide regelingen. De groep gebruikers van de BMKB-C verschilt van de reguliere gebruikers. Zo’n 36 procent van de BMKB-C-gebruikers zijn horecabedrijven tegen 22 procent van de BMKB-gebruikers in 2019. Dit komt doordat horecabedrijven hard geraakt werden door de lockdowns. Daarnaast waren bedrijven met BMKB-C vaak ouder dan de reguliere gebruikers. Een deel van de jonge bedrijven kwam in het begin van de introductie van de garantieregelingen niet in aanmerking omdat bedrijven moesten aantonen in de kern financieel gezond te zijn op basis van jaarrekeningen uit 2018 en 2019. Een juiste risico-inschatting was voor banken in deze onzekere periode lastig te maken. Daarnaast bestond er voor kleine bedragen ook de KKC (gunstigere voorwaarden) en Qredits, waar veel kleine bedrijven gebruik van hebben gemaakt.
+
+Gebruik garanties in combinatie met andere regelingen
+
+De garantieregelingen werden minder gebruikt dan verwacht. Dit kan onder andere verklaard worden doordat andere (subsidie)regelingen met aantrekkelijkere voorwaarden beschikbaar kwamen. Overigens hebben veel bedrijven met een krediet- of garantieregeling ook daar gebruik van gemaakt. In totaal ontvingen 11 645 bedrijven een toezegging voor een krediet of garantie. Ongeveer 87 procent hiervan heeft ook NOW, een vastelastenregeling en/of uitstel van belastingbetaling toegekend gekregen. Een mogelijke verklaring is dat banken bij de beoordeling van de aanvragen ook keken naar de vraag of de onderneming zich al voldoende had ingespannen om andere steun, zoals de subsidies, aan te trekken.
+
+Een andere mogelijke verklaring is dat er minder behoefte was aan externe financiering. Uit de conjunctuurenquête uit mei 2021 bleek dat 75 procent van de bedrijven in de sectoren horeca en cultuur, sport en recreatie aangaf geen investeringsbehoefte te hebben, of de investeringen uit beschikbare eigen middelen te hebben gedaan. In de overige sectoren lag dit op 80 tot 90 procent. Uit aanvullend onderzoek blijkt dat bedrijven met coronasteun minder vaak financiering zochten voor groeidoelen zoals de uitbreiding of vernieuwing van hun bedrijf en investeringen in het personeelsbestand dan bedrijven zonder steun.
+
+Naast bovengenoemde verklaringen, bleek de coronacrisis een aantal sectoren minder hard te raken dan eerder verwacht. De verruiming van de Borgstelling Landbouw was bijvoorbeeld specifiek gericht op de landbouw-, tuinbouw-, visserij- en aquacultuursectoren. Deze sectoren herstelden zich al in 2020, na een kleine afname van de toegevoegde waarde in het tweede kwartaal. Dit in tegenstelling tot bijvoorbeeld de horecabedrijven, waar de impact van de coronacrisis in dit opzicht juist erg groot was.
+
+5.3 Het gebruik van leningen
+
+Kleine en middelgrote bedrijven, startende bedrijven, startups en scale-ups konden tijdens de coronacrisis extra krediet krijgen of onder betere voorwaarden geld lenen. Hierdoor konden deze bedrijven hun liquiditeitspositie verbeteren. Het gaat hierbij om de overbruggingskredieten die Qredits verstrekte, het uitstel van aflossing (met rentekorting) die Qredits aan ondernemers aanbood en de COL.
+
+Via Qredits hebben bijna 3 duizend bedrijven uitstel van aflossing gekregen. Op 30 juni 2022 stond voor 63 miljoen euro krediet uit. Van het overbruggingskrediet van Qredits hebben ruim 2 duizend bedrijven gebruik gemaakt. Op 30 juni 2022 stond nog voor 33 miljoen euro coronaoverbruggingskrediet uit. Van de COL hebben 870 bedrijven gebruik gemaakt en het totaal gecommitteerde leningsbedrag van de COL is 289 miljoen euro.
+
+In het begin van de crisisperiode werd het vaakst gebruik gemaakt van de COL en uitstel van aflossing via Qredits. Vanaf het najaar van 2020 werd nog slechts een beperkt aantal Corona Overbruggingsleningen en uitstel van aflossing toegekend. Het gebruik van het overbruggingskrediet van Qredits laat geen afname zien in aantallen. Van mei 2020 tot en met juni 2022 varieerde het aantal toegekende aanvragen tussen de 10 en 45 bedrijven per week.
+
+De verschillende leningsregelingen bedienen verschillende doelgroepen. Dit is terug te zien in de bedrijfskenmerken van de gebruikers. Tabel 5.3.2 geeft een overzicht van een aantal bedrijfskenmerken voor de Qredits-regelingen en de COL.
+
+1) Percentages hoeven niet op te tellen tot 100 procent vanwege afronding en onderdrukking.
+
+Qredits richt zich op een specifieke doelgroep: kleine en jonge bedrijven (starters). Ongeveer 69 procent van het aantal bedrijven met uitstel van aflossing heeft één werkzame persoon. Dit geldt voor 70 procent van de bedrijven met een coronaoverbruggingskrediet. Het waren hoofdzakelijk jonge bedrijven die een beroep op Qredits deden tijdens de crisisperiode. Van de bedrijven die uitstel van aflossing hebben gehad, had 45 procent een leeftijd tot drie jaar. Ook onder bedrijven met een coronaoverbruggingskrediet was dit de grootste groep (37 procent). Evenals bij de borgstellingen en garanties waren de bedrijven die van Qredits gebruik hebben gemaakt voornamelijk afkomstig uit de handel en de horeca. Dit zijn de sectoren die economisch gezien het hardst geraakt zijn door de diverse lockdowns.
+
+De COL bereikte voornamelijk jonge bedrijven: 44 procent van de bedrijven met een COL-krediet heeft een bedrijfsleeftijd tot drie jaar. Het grootste deel (46 procent) van de COL-gebruikers heeft twee tot tien werkzame personen. De COL-gebruikers zijn voornamelijk actief in de informatie & communicatie en de specialistisch zakelijke dienstverlening. Hieronder vallen bijvoorbeeld bedrijven in de sector softwareontwikkeling en dienstverlening op het gebied van IT. Dit kan verklaard worden uit de achtergrond van de doelgroep van de regeling. Techleap en de ROM’s hebben een rapport gemaakt over de gebruikers van de COL. Daarin wordt onder andere gemeld dat meer dan de helft van de aanvragen gedaan werd door startups.
+
+
+
+
+
+Noten
+
+De financier is bij het afsluiten van het borgstellingskrediet een eenmalige garantieprovisie verschuldigd aan RVO. Deze provisie is gebaseerd op het borgstellingskrediet en het tarief is afhankelijk van de looptijd. De financier rekent deze provisieverplichting aan de ondernemer door. Zie .
+
+Er wordt vergeleken met gebruikers van de BMKB in het pre-coronajaar 2019 om eventuele onderlinge substitutie tussen de beide regelingen uit te sluiten.
+
+Meeste bedrijven hadden geen extra extern vermogen nodig vanwege corona ( ).
+
+Span, T, B. Bos, E. Brouwer, H. van der Wiel, S. Sleijpen-Snoek en T. Smits (2022), De zoektocht naar bedrijfsfinanciering in tijden van corona: Verschillen tussen gebruikers en niet-gebruikers van de coronasteunmaatregelen, te verschijnen als BAT-lab-rapport.
+
+Dit is het nog openstaande bedrag van de oorspronkelijke hoofdsom, exclusief rente.
+
+.Epiloog
+
+Auteurs: Theo Roelandt, Henry van der Wiel (Ministerie van Economische Zaken en Klimaat)
+
+Het coronavirus heeft onze samenleving en economie de afgelopen twee jaar ernstig op de proef gesteld. Hoewel het aantal besmettingen gedurende 2022 soms weer opliep en vaccinatieprogramma’s nodig blijven, lijken de directe maatschappelijke en economische effecten van de gezondheidscrisis in een rustiger vaarwater te zijn gekomen. Sinds april 2022 zijn de coronasteunmaatregelen afgebouwd en vanaf 1 oktober moeten ook de uitgestelde belastingen terugbetaald worden. Volgens het kabinet wegen de voordelen van het ondersteunen van bedrijven niet meer op tegen de nadelen daarvan. De normale economische dynamiek moet weer de ruimte krijgen. Dit hoofdstuk laat zien hoe de Nederlandse economie er na de coronacrisis voorstaat en welke gevolgen dat heeft voor de nabije toekomst.
+
+6.1 De Nederlandse economie na coronacrisis
+
+Nederland staat er medio 2022 goed voor in internationaal perspectief (zie grafiek 6.1.1). Afgemeten aan de ontwikkeling van het bruto binnenlands product (bbp) lijkt de veerkracht van de Nederlandse economie groot. Na een forse krimp in de eerste maanden na de uitbraak van de coronapandemie was het bbp medio 2021 alweer terug op het niveau van net voor de uitbraak. Vanaf het vierde kwartaal 2019 gerekend is van alle grote EU-landen het herstel het sterkst geweest in Nederland, zelfs nog sterker dan in de VS.
+
+Volgens het Centraal Planbureau (CPB) was in Europees perspectief het steunpakket in Nederland in 2020 bovengemiddeld groot. De omvang van het Nederlandse steunpakket lag met 3,6 procent van het bbp iets boven het Europese gemiddelde van 3,3 procent. Nederland heeft volgens het CPB ook geprofiteerd van economische steunmaatregelen in andere landen. Die hebben zowel de uitval van de exportvraag als de kans op een Europees brede crisis beperkt.
+
+Dat het Nederlandse bedrijfsleven veerkrachtig oogt, blijkt ook uit andere kengetallen. Het aantal faillissementen onder bedrijven in 2020 en 2021 was historisch laag. Mede doordat de werkgelegenheid in Nederland relatief goed op peil bleef, steeg de werkloosheid hier minder hard dan in de rest van Europa. Buiten Nederland nam de werkgelegenheid sterker af en nam de werkloosheid sterker toe. De Nederlandse steun was volgens het CPB voor een relatief groot gedeelte gericht op baanbehoud (via de NOW-regeling) en ze was ruimhartiger dan vergelijkbare regelingen in Europa. Uit onderzoek blijkt dat de samenstelling van de Nederlandse werkgelegenheid in 2020 wel is veranderd. Niet alleen verschilde de werkgelegenheidseffecten van de crisis sterk tussen sectoren, maar ook tussen vaste en flexibele werkgelegenheid en tussen bedrijven met of zonder toegekende NOW-steun. Werknemers met een flexibel contract verloren vaker hun baan, en gingen naar bedrijven die minder last hadden van de crisis. Bedrijven lijken de overheidssteun te hebben benut om de kennis en competenties van vast personeel te kunnen behouden.
+
+Ook de R&D-inspanningen namen in 2020 volgens het CBS toe. Dit betrof zowel de inzet van R&D-personeel als de uitgaven voor eigen R&D. R&D-inspanningen zijn belangrijk voor het toekomstig groeipotentieel van de economie en voor het aanpakken van de maatschappelijke uitdagingen op de terreinen van duurzaamheid, water, voedsel, gezondheid en veiligheid.
+
+6.2 Eerste inzichten werking beleid
+
+Het CPB concludeert dat het coronasteunpakket van 2020 effectief was in het realiseren van de doelstellingen. De opzet van de generieke steunmaatregelen droeg in grote mate bij aan de effectiviteit. Het CPB concludeert ook dat – naarmate de tijd verstreek – de kosten van het generieke steunbeleid stegen terwijl de baten van baanbehoud in een arbeidsmarkt met meer vraag afnamen. Het kabinet was zich ervan bewust dat de opzet van het steunbeleid – dat in een hele korte tijdsperiode aan het begin van de crisis ingericht moest worden – ook risico’s had voor de doelmatigheid van de maatregelen. Terecht zijn er zorgen over mogelijke nadelige gevolgen van langdurige steun en dan met name verstoring van de bedrijvendynamiek. Uit onderzoek blijkt dat er van een serieuze verstoring geen sprake was, maar dat de steun deels ook terecht kwam bij zwakkere bedrijven. En dat er in 2020 sprake was van oversterfte onder bedrijven die geen steun hadden ontvangen. Veel van deze bedrijven hadden voor de coronacrisis ook al een lage productiviteit. Ook zijn er bedrijven opgeheven die wel steun hadden ontvangen. Deze bedrijven stonden er voor de coronacrisis al vaker minder financieel gezond voor. Ook waren zij minder productief dan bedrijven die wel overeind bleven (al dan niet met steun).
+
+Een en ander overziend lijkt de steun niet echt in de weg te hebben gestaan van creatieve destructie, waarbij nieuwe bedrijven de ruimte krijgen en de productiefactoren worden ingezet bij de meest productieve bedrijven. Tevens blijkt uit een schatting van Seip et al. (2022) dat het aantal zwakke bedrijven dat dankzij de steun van de overheid in 2020 overeind is gebleven, beperkt is. Toekomstige evaluaties moeten meer zicht bieden op de mate van doeltreffendheid en doelmatigheid van de verschillende steunmaatregelen.
+
+Met de stopzetting van het steunpakket vanaf het tweede kwartaal 2022 verandert ook de aanpak van de overheid. De uitgangspunten van het kabinet zijn dat de samenleving zoveel mogelijk open is en dat continuïteit en toegankelijkheid van de zorgketen gewaarborgd is. Bij een eventuele nieuwe golf staat de eigen verantwoordelijkheid van burgers en bedrijven centraal en wordt dit ondersteund door reclamespotjes zoals ‘alleen samen’. Geen ‘intelligente lockdown’ meer, maar een ‘intelligent openhouden’ van de samenleving en het controleren van de druk op de zorg. Alleen in het worst-case scenario bij langdurige en volledige sluiting wordt een nieuw coronasteunpakket overwogen.
+
+6.3 Afsluitend
+
+Vanuit een macroperspectief lijkt Nederland goed uit de coronacrisis te zijn gekomen, en ook internationaal gezien staan we er nog steeds goed voor. Maar donkere wolken pakken zich samen. Er staat op dit moment nog een belastingschuld van 20,8 miljard euro uit bij ondernemingen die binnen zeven jaar moet worden terugbetaald. De Nederlandsche Bank (DNB) constateerde dat ongeveer de helft van de bedrijven die uitstel van belastingbetaling hebben, gedurende de komende vijf jaar de helft van hun winst moeten gebruiken voor terugbetalingen. Daarnaast moeten ook nog behoorlijk wat bedrijven NOW of TVL terugbetalen (zie de paragrafen 4.2 en 4.3). Dit kan tot financiële problemen leiden bij een deel van deze bedrijven. Daarbovenop zijn de economische vooruitzichten mede door de Oekraïne-oorlog en allerlei toeleveringsproblemen op korte termijn niet florissant. Gevoed door de hoge inflatie, energieprijzen en mogelijke gastekorten dreigt een recessie. Zulke schokken gaan het bedrijfsleven raken en het risico op opheffingen of faillissementen vergroten. Die risico’s lijken, althans voor een deel van de bedrijven, nu groter dan voor corona omdat buffers zijn geslonken en een deel van de bedrijven blijvend te kampen heeft met een verslechterde uitgangspositie vanwege de nog bestaande schuldenlast. Recentelijk rapporteerde het CBS al over oplopende bedrijfsopheffingen. In het eerste halfjaar van 2022 zijn 76 duizend bedrijven opgeheven. Sinds de start van de meetmethode in 2007 was dit aantal niet zo hoog. Veel analisten voorzien voor het einde van dit jaar een krimp van de economie door de energiecrisis, de economische gevolgen van de oorlog in Oekraïne, vraaguitval en de gevolgen van de koopkrachtdalingen. Kortom, een volgende lakmoesproef voor de eerder sterk gebleken weerbaarheid van onze economie.
+
+
+
+
+
+Noten
+
+Kamerbrief over langetermijnvisie coronasteun | Kamerstuk | .
+
+Verstegen, L., E. van der Wal en C. Deijl, , CPB, 28 september 2021.
+
+Zie o.a. Diris, R., L. van Doorn en O. van Vliet (2022), , ESB, 107(4805), 42–45 en Roelandt, T., H. van der Wiel, T. Smits en E. Brouwer (2022), , ESB, 107(4810), 251-253.
+
+R&D-uitgaven ruim 18 miljard euro in 2020 ( ).
+
+Roelandt, T., H. van der Wiel, E. Brouwer en B. Bos (2021), , ESB, 106(4799), 312-313.
+
+Roelandt, T., H. van der Wiel en E. Brouwer (2022), , ESB, 107(4813), 424-426.
+
+Seip, M., B. Bos, E. Brouwer, H. van der Wiel, T. Smits en T. Span (2022), , Ministerie van EZK, 29 juni 2022.
+
+Kamerbrief over langetermijnvisie coronasteun | Kamerstuk | .
+
+J. de Winter en B. Pruijt, , DNB, 29 maart 2022.
+
+Hoogste aantal bedrijfsopheffingen sinds 2007 in het eerste halfjaar ( ).Onderzoeks­verantwoording
+
+Dit rapport is tot stand gekomen in het kader van het BAT-lab, het beleidsanalyse-laboratorium van het Directoraat-Generaal voor Bedrijfsleven en Innovatie (DG B&I) van het ministerie van Economische Zaken en Klimaat. Daarin wordt samengewerkt door het Centraal Bureau voor de Statistiek, de Rijksdienst voor Ondernemend Nederland en het Beleidsanalyseteam van DG B&I. Centraal in deze samenwerking staan beleidsgedreven analyses op basis van microdata.
+
+Informatieverzameling door het CBS
+
+Het coronavirus en het coronabeleid hadden een grote invloed op de economie. Sommige bedrijfstakken ondervonden veel minder vraag, ervaarden problemen in de toeleveringsketen of moesten van de overheid tijdelijk hun deuren sluiten. Om ondernemers, werkgevers, werknemers en bedrijven te ondersteunen voerde het kabinet steunmaatregelen in.
+
+Bovenstaande ontwikkelingen beïnvloedden de sociale zekerheid, economische groei en de financiële positie van bedrijven en de overheid. Het CBS heeft de wettelijke taak hier statistieken over te maken en heeft daarvoor data nodig. Data over het gebruik van steunmaatregelen is voor sommige statistieken essentieel. Denk hierbij bijvoorbeeld aan statistieken over de financiële positie van ondernemingen en de overheid. Om die reden vroeg het CBS aan de uitvoeringsorganisaties van de belangrijkste steunmaatregelen om deze data aan het CBS te leveren.
+
+Aanleiding voor monitoring steunmaatregelen
+
+Om meer inzicht te krijgen in de impact van de coronacrisis op het bedrijvenbeleid ontstond bij EZK in dezelfde periode de behoefte om te monitoren welke typen bedrijven gebruik maken van de verschillende steunmaatregelen. Op verzoek van EZK en in samenwerking met de verschillende uitvoeringsinstanties heeft het CBS de dataverzameling uitgebreid met andere regelingen gerelateerd aan het bedrijvenbeleid van EZK. De gecombineerde informatie is vervolgens omgezet in een systeem waarmee de deelname aan de steunmaatregelen kon worden gevolgd. Het bestaande samenwerkingsverband BAT-lab maakte het mogelijk direct na het begin van de invoering van de eerste regelingen, te starten met de monitoring.
+
+Monitor steunmaatregelen
+
+Van 28 mei 2020 tot en met 21 februari 2022 verscheen tien keer eerder een monitor in de vorm van een tabellenset. In deze tabellensets is het gebruik van de verschillende regelingen en de daaraan verbonden bedragen in beeld gebracht naar bedrijfstak, bedrijfsgrootte, bedrijfsleeftijd en het aandeel snelgroeiende bedrijven. Daarnaast laten de tabellen zien of bedrijven gebruik maken van dezelfde type regelingen in opeenvolgende tijdvakken en of ze verschillende soorten regelingen met elkaar combineren (bijvoorbeeld subsidies, garanties en uitstel van betaling). Ook is regelmatig opgenomen hoe het de bedrijven vergaat, door een koppeling te maken met de omzet- of baanontwikkeling in een verslagkwartaal. Hierbij zijn gebruikers en niet-gebruikers van steunmaatregelen tegen elkaar afgezet.
+
+Het gebruik van de regelingen naar regio is in een aparte tabellenset in beeld gebracht. Tevens zijn er twee aanvullende tabellensets opgesteld met een overzicht van de bedrijven in de culturele en creatieve sector, respectievelijk de sport en hun deelname aan de verschillende regelingen. Deze aanvullende tabellen zijn samengesteld op verzoek van het ministerie van Onderwijs, Cultuur en Wetenschappen (OCW), respectievelijk het ministerie van Volksgezondheid, Welzijn en Sport (VWS).
+
+Elk van de tien tabellensets is vergezeld gegaan van een CBS-nieuwsbericht met een korte analyse van de belangrijkste actuele bevindingen van dat moment. Tegelijkertijd heeft het ministerie van EZK steeds een beschrijving van de resultaten en een aantal toelichtende analyses gepubliceerd, op basis van de tabellensets van het CBS. Zie daarvoor: bedrijvenbeleidinbeeld.nl.
+
+Analyse steunmaatregelen
+
+Naast eerder genoemde publicaties heeft het BAT-lab op basis van de verzamelde gegevens tot nu toe drie verdiepende studies gepubliceerd. Zo is onderzocht hoe innovatie-inspanningen, productiviteit, solvabiliteit en liquide middelen van bedrijven voor de start van de coronacrisis de kans beïnvloeden dat bedrijven gebruik maken van steun. In de tweede studie is nagegaan in welke mate banen in stand zijn gebleven door de NOW en welke gevolgen dit op korte termijn had voor de verhouding tussen de vaste en tijdelijke werkgelegenheid. De derde studie betrof een onderzoek naar de invloed van coronasteunmaatregelen op bedrijfsopheffingen.
+
+Beschikbaarstelling microdata steunmaatregelen
+
+Onder voorwaarden kunnen andere instanties microdata gebruiken om zelf onderzoek te doen via de Remote Access (RA) faciliteit van het CBS. De microdatabestanden over steunmaatregelen worden ook via RA beschikbaar gesteld. Zo kunnen deze bestanden breder worden gebruikt voor nadere analyses. Daarnaast biedt deze data-infrastructuur de basis voor een evaluatie van het noodpakket (zie ook hoofdstuk 6). Onder andere de Algemene Rekenkamer, het Centraal Planbureau, De Nederlandse Bank, het ministerie van Financiën, Erasmus Universiteit Rotterdam-Rotterdam School of Management en SEO Economisch Onderzoek hebben al onderzoek uitgevoerd met deze microdata.
+
+Verantwoording brondata en datakoppelingen van dit rapport
+
+Dit rapport is gebaseerd op de informatie uit de elfde tabellenset en vormt samen met die tabellenset de elfde monitor. De gegevens in deze rapportage gaan over het gebruik van de coronasteunmaatregelen zoals bekend op 30 juni 2022. Op het moment van publicatie zijn dit de meest actuele beschikbare integrale gegevens. Een overzicht van de gebruikte steunmaatregelen en de verstrekker van de onderliggende data staat in Tabel B1.1.
+
+Aanvragen NOW-1 t/m NOW-6
+
+Vaststellingen NOW-1 t/m NOW-3.3
+
+Aanvraagperiodes TVL-1, TVL Q4 2020 t/m Q1-2022
+
+Vaststellingen TVL-1, TVL Q4 2020 t/m Q3-2021
+
+Aanvraagperiodes 1 t/m 5
+
+Bedrijven worden door uitvoeringsinstanties geregistreerd als juridische- of administratieve eenheid. Bij RVO, Techleap en Qredits is dit het registratienummer bij de Kamer van Koophandel (KVK), bij het UWV is dit het loonheffingsnummer en bij de Belastingdienst is dit het fiscale nummer. Deze eenheden in de databestanden zijn door het CBS gekoppeld aan zogeheten economische bedrijfseenheden (BE) in het Algemeen Bedrijven Register (ABR) van het CBS. Met de BE kan daarna de koppeling gemaakt worden naar andere dataregisters van het CBS over bedrijven.
+
+De koppeling van de Tozo, een registratie op het niveau van huishoudens, is op bovenstaande een uitzondering. De personen in het huishouden worden via een CBS-register met eigenaren van bedrijven gekoppeld aan bedrijfseenheden. Het gebruik van Tozo door ‘bedrijven’, zoals in de tabellen en in dit rapport weergegeven, mag dan ook alleen als indicatief worden beschouwd.
+
+Meer informatie over de data, de koppelingen, de bronnen en de daarbij horende begrippen is te vinden in de technische toelichting van de elfde tabellenset.
+
+
+
+
+
+Noten
+
+Hoeveel bedrijven gebruiken steunmaatregelen coronacrisis door de overheid? ( ).
+
+.
+
+.
+
+Microdata: Zelf onderzoek doen ( ).
+
+Publicaties RA-onderzoek ( ).
+
+
+
+Naast de in dit rapport opgenomen regelingen, bevat de tabellenset ook gegevens over de zogeheten evenementenregelingen.Overzicht gebruik steunmaatregelen naar bedrijfstak
+
+
+
+Lijst met afkortingen
+
+
+
+

@@ -1,0 +1,22 @@
+Date:
+2020-09-02
+Article Title:
+ Understanding the differences in price measures
+
+Article Content:
+The national accounts produce a set of price measures in the form of Implicit Price Deflators (IPD), which generally track well against the more commonly used price measures, such as the Consumer Price Index (CPI). While there are scope, coverage and conceptual differences between these measures they are generally comparable over time. Since the onset of the pandemic in Australia, these differences have increased, most notably between the Household Final Consumption Expenditure (HFCE) IPD and the CPI.
+The CPI fell 1.9% in the June quarter 2020 compared to a smaller fall in the HFCE IPD of 0.9%. This is the largest difference since September 2000.
+The CPI measures the change in the cost of purchasing a fixed basket of goods and services over time, and as such captures pure price change only.
+An IPD is an index obtained by dividing a current price value by its corresponding chain volume estimate. Unlike the CPI, IPDs include a combination of changes in both prices and the composition of expenditure.
+There are a number of scope, coverage and conceptual differences between the two measures:
+  HFCE relates to expenditure by all Australian resident households (in Australia and overseas) and private non profit institutions serving households. CPI relates to expenditure by all Australian resident households in the eight capital cities only.
+  There are categories of expenditure included in HFCE that are not in scope of the CPI. These include gambling expenditure, indirect finance and insurance services and imputed rental of owner occupied dwellings.
+  There are categories which are excluded from HFCE but are included in the CPI. An example is purchases of dwellings, which are recorded as Gross Fixed Capital Formation (GFCF) in the National Accounts.
+  The HFCE price measures are derived using a range of data sources in addition to the CPI such as producer price indexes, wage price indexes, stock exchange indexes, and public sector deflators relating to education and hospital expenditure.
+  There are differences in expenditure weights due to the broader scope of HFCE, which also influence overall price movements. For example, fuel prices have a larger weight in the CPI due to its narrower scope.
+One of the key drivers of the differences observed in the quarter related to the classification and treatment of social benefits paid for child care.
+On the 2nd April 2020, the Government announced the "Early Childhood Education and Care Relief Package” resulting in fee free child care for households.
+In the national accounts, these payments are recorded as Government Final Consumption Expenditure (GFCE) as the Government is deemed to be purchasing the service on behalf of households. As a result of this treatment, the HFCE IPD reflected only the changes in ‘gross prices’ charged by the child care centres prior to the deduction of government social benefits. The CPI recorded this as a decline in out of pocket expenses for households resulting in a 95% fall in the Child Care expenditure category. Excluding the impact of the Child Care group from the CPI results in a June quarter fall of 0.8% (rather than the 1.9% fall in the headline CPI) which aligns more closely with the fall in the HFCE IPD of 0.9%. For more information see:  (cat. no. 1359.0).
+Table 1 shows expenditure categories with expenditure weights that were significantly different in the CPI and the HFCE IPD. In particular, the weighting differences for fuel and rent had sizeable impacts on the divergence of the price measures during the June quarter.
+  Fuel prices declined dramatically due to low global demand as a result of COVID 19 restrictions imposed around the world.
+  Weak rental market conditions as a result of COVID 19 movement restrictions and rising vacancy rates saw rents fall across Australia.

@@ -1,0 +1,17 @@
+Date:
+2024-09-06
+Article Title:
+The Daily — Securities statistics, second quarter 2024
+Article Content:
+Released: 2024 09 06
+Net borrowings by Canadian corporations and governments in the form of debt securities totalled $27.2 billion in the second quarter, down from net issuances of $89.0 billion in the previous quarter. The activity in the second quarter was led by the government sector and by non financial corporations, and it mainly reflected debt refinancing operations.
+Overall, the total outstanding value of Canadian debt securities, in book value terms, reached $5,869.9 billion at the end of the second quarter, up $42.0 billion from the previous quarter.
+Net issuances of debt securities by the government sector totalled $15.7 billion in the second quarter, down significantly from the previous two quarters. The financing activity targeted long term debt securities (+$32.4 billion) and was moderated by net retirements of short term debt securities ( $16.7 billion). Specifically, provincial and territorial governments issued a net $36.6 billion of bonds, the highest amount in four years. Meanwhile, they repaid $28.8 billion of money market instruments, the largest retirement on record.
+Canadian non financial corporations were also net borrowers of funds in the second quarter, raising $14.2 billion on credit markets. Firms from the construction industry contributed the most to the net issuance activity, followed by those from the transportation and warehousing industry. 
+In contrast, Canadian financial corporations repaid a net $2.7 billion of debt securities over the second quarter, led by chartered banks. Specifically, Canadian chartered banks repaid a net $29.9 billion worth of debt securities with fixed interest rates and issued instruments with variable rates totalling $19.9 billion.
+In June, the Bank of Canada reduced its policy interest rate by 25 basis points to 4.75%, the first reduction since March 2020.
+Net retirements of Canadian equity securities totalled $8.5 billion in the second quarter, a 10th consecutive quarter in which retirements exceeded new issuances. Retirements in the second quarter were driven by merger and acquisition activities and, to a lesser extent, share buyback activities. The market value of outstanding Canadian equity securities reached $4,240.6 billion at the end of the second quarter, down $16.0 billion from the previous quarter. Canadian equity prices, as measured by the Standard and Poor's / Toronto Stock Exchange composite index, decreased by 1.3% in the second quarter.
+The data visualization product "Securities statistics," part of the series Statistics Canada – Data Visualization Products (Catalogue number71 607 X), is available online.
+The document "Enhancing Canada's statistics on securities," part of Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X), is also available.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, features an up to date portrait of national and provincial economies and their structure.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

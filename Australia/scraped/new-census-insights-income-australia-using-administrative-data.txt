@@ -1,0 +1,82 @@
+Date:
+2023-05-02
+Article Title:
+ New Census insights on income in Australia using administrative data
+
+Article Content:
+  For the first time, we have produced new insights on the incomes of Australians by adding administrative data to the Census.
+  This data shows that median personal income across Australia was $789 and median household income was $1,770.
+  The main source of income for most Australians was employee wages or salary (56.4% of people aged 15 years and over), while 23.4% received most of their income from government benefits and allowances.
+  The age pension was the most common government benefit received (32.9%). In this article we present a detailed case study comparing age pensioners with other older Australians.
+Using data from the Australian Tax Office (ATO) and the Department of Social Services (DSS), we added new income variables to the Census for people aged 15 years and older. These variables use personal Income Tax Returns, Payment Summaries, and Government benefit payment information to calculate the amount and types of income that persons, families, and households received in the 2020–21 financial year.
+For more information on how we calculate this income and add it to the Census, refer to .
+New information provided by this data includes Total income in $10 per week categories, Main source of income, and Main type of government benefit payment. This data enables Census data to be analysed in greater detail, and for important new populations like pensioners and self funded retirees.
+Administrative data is information that government departments, businesses and other organisations collect. They collect information for a range of reasons such as:
+Some examples of administrative data:
+We only collect and use administrative data for statistics and research. We don’t share or release this information in a way that could identify anyone.
+  registrations
+  sales
+  record keeping.
+  personal income tax information from the Australian Taxation Office
+  information about the number of people who use Medicare from the Department of Health.
+Total weekly income indicates the average weekly income that persons, families and households received in the 2020–21 financial year. This income is recorded in dollar amounts in the linked data from the ATO and DSS, which we have grouped into $10 per week categories. These detailed income groups enable new insights into the income of Australia not previously available in the Census. For example, we can calculate median incomes more accurately than we could using the existing Census income question. For further information on the Total weekly income variables refer to the .
+The national median weekly personal income was $789. The ACT had the highest median personal income at $1,158, while the state with the lowest median personal income was Tas at $696.
+The national median weekly household income was $1,770. In line with personal income, the ACT had the highest median household income at $2,364, while Tas had the lowest median household income at $1,402.  
+Median incomes in Capital City areas were larger than in Rest of State areas. In WA, median incomes were very similar between Perth and the rest of WA ($845 per week for Greater Perth compared with $826 for Rest of WA).
+More than 1.6 million people and 275,000 households had zero income. More than 6.8 million people (36.8% of the applicable population) earned less than $500 per week.
+The chart above shows weekly income in $100 ranges. The administrative data allows us to look at incomes in even greater detail, in $10 ranges.
+The chart below shows the detailed distribution of Total weekly incomes less than $1,000. The distribution of incomes is generally smooth across the ranges, however there are two notable spikes:
+  There are nearly 800,000 persons, or 4.3% of the applicable population, who earned between $490 and $499 per week.
+  Nearly 600,000 persons, or 3.2% of the applicable population, earned between $380 and $389 per week.
+  Most of these people had Government benefit payments as their Main source of income, particularly the Age Pension and Disability Support Payment.
+The distribution of income varied substantially across different age groups. People aged 35 44 and 45 54 had the highest personal median incomes at $1,318 and $1,289 respectively. People aged 15 19 had the lowest median income at $25, including 44% who had Nil or negative income.
+More than 4 in 5 persons aged 75 years and older earned less than $500 per week (81.5%). Data for older age groups should be interpreted with caution as superannuation data is under recorded in the administrative data, therefore total incomes are likely to be under recorded in administrative data. For further information see .
+Nearly half of those aged 15 19 had Nil or Negative income (44%), and 9 in 10 earned less than $500 per week (90.3%).
+Looking across states and territories, incomes tended to be higher in the ACT and lower in Tasmania. Data for the NT should be interpreted with caution as the data linkage rates were lower than for other states and territories. This means that administrative income data added to the Census for NT may not be representative of everyone living in the Territory.
+More females earned less than $1,000 per week than males (6.08 million compared with 4.77 million). At the other end of the income spectrum, there were nearly 2.5 times more males than females with an income of $3,500 or more per week (approximately 484,000 compared with 194,000). There were more than 3 times more males than females with income $10,000 per week or higher (approximately 42,000 compared with 13,000).
+Administrative data gives us new insights on high income earners as it is provided up to $10,000 per week, while the Census income question only captures incomes as high as $3,500 per week. 
+There were approximately 55,000 persons who were high income earners, or 0.29% of the applicable population. The median age was 51 years.
+The top four SA2s with the greatest proportion of people whose total weekly income was $10,000 or more were all located in central Sydney.
+Main source of income refers to the largest source of income a person, household or family received. Examples of sources include employee wages and salary, government benefits and allowances, and investment income.
+Main source of income is a new variable on the Census and enables new insights about the income of Australia. More than half of people had employee wages and salary as their Main source of income (56.4% or more than 10.5 million people). Government benefits and allowances were the Main source of income for one in 4 people (23.4% or 4.4 million people).
+As income increased, so did the proportion of people whose Main source of income was from investments or own unincorporated business income. For those with income of $10,000 per week or higher, 53.1% received most of their income from employee wages and salary, 26.2% received most from investments, and 19.3% received most from own unincorporated business income. Note that persons who received Nil or negative income do not have a Main source of income.
+Employee wages and salary was the Main source of personal income for most people aged between 15 and 64 years (68.1%). The proportion of people whose Main source of income was government benefits and allowances increased from ages 55 years and older but was lower for ages 90 years and older, where the proportion of people with Nil or negative income increased. One in 9 people aged 60 years and older had their Main source of income from investments (11.2%), compared with one in 31 people aged under 60 (0.3%). Income from own unincorporated business as the Main source was more common among 30  to 64 year olds than other age groups.
+The ACT had the greatest proportion of people whose Main source of income was from employee wages and salary compared to other states and territories at 66.6%. The ACT also had the greatest proportion of people with most of their income coming from superannuation (6.5%) and the smallest proportion of people whose Main source of income was government benefits and allowances (12.0%). This may reflect the unique characteristics of the ACT in terms of higher public service employment and associated access to and reporting of specialised superannuation pension schemes available to public servants. Data on superannuation should be interpreted with caution as these recipients are underrepresented in the administrative data. For further information see .
+Tas had the greatest proportion of people whose Main source of income was government benefits and allowances at 29.3%.
+NT statistics should be interpreted with caution, as there is lower availability of administrative income data compared to other states and territories.
+Main type of government benefit payment indicates the Main type of government benefit payment that a person, family or household received based on all government benefits, pensions, and allowances recorded in administrative data. Some examples include the Age Pension; Newstart Allowance and Jobseeker; Family Tax Benefits; and Disability Support Pension. Benefit payments may be received in addition to other sources of income (see Main source of income).
+Nearly one in 3 people received a government benefit payment in the 2020–21 financial year (31.8% or 6.6 million people). The Age Pension was the most common government payment received; nearly 2.2 million (32.9%) people who received a government benefit payment got their largest payment from the Age Pension. The next most common Main government benefit payment types were Newstart Allowance or Jobseeker (1.34 million or 20.3%), Family Tax Benefits (850,000 or 12.8%), and Disability Support Pension (585,000 or 8.9%).
+There are large differences in Main type of government benefit payment across age groups. These mainly reflect the eligibility criteria to receive each payment, for example the Age Pension was most prevalent in people aged 65 years and older. Persons under 65 years are ineligible for the Age Pension while older persons were less likely to receive other types as they leave the workforce.
+There are also substantial differences in the percentage of persons who received a government benefit across age groups. Two in 5 people aged 20 24 years received a government benefit payment (39.5%), the highest percentage within the working ages. A lot more older people received a government benefit payment than persons aged 15 64. Three in 5 persons aged 65 to 74 years (63%), and more than four in 5 persons aged 75 years and older (82.6%) received a government benefit payment.
+Using administrative income data allows us to gain new insights about people in vulnerable population groups. By combining Total weekly income, Main source of income, and Main type of government benefit payment, we can gain new insights about Australians who receive most of their income from the Age Pension (age pensioners).
+We explore the regions of Australia where age pensioners live – quiet coastal towns appear to be a popular choice. We also look at several social characteristics and compare the outcomes for age pensioners with other people aged 65 years and older (non pensioners). Compared to non pensioners, age pensioners have several distinct differences in social circumstances. They:
+  receive lower total income
+  have higher prevalence of long term health conditions
+  have lower educational attainment
+  have higher prevalence of renting their home
+  are more likely to live alone
+  have lower socio economic advantage.
+Nearly half of people aged 65 years and older receive most of their income from the Age Pension (47.8% or 2,029,000 persons).
+More age pensioners are female than non pensioners. 56.6% of age pensioners are female, while only 50.9% of non pensioners are female.
+NT and ACT had fewer age pensioners than other states (approximately 33% of persons aged 65 years and older compared with 47 to 52% for other states).
+As expected, the age group with the largest cohort of non pensioners (927,000 persons) is around the typical retirement age (65 69 years). For age pensioners, 70 74 years is the age group with the largest Age Pensioner cohort (570,000 persons) while the 85 89 years age group had the highest percentage of age pensioners (64.1%) and 65 69 years had the lowest percentage (25.6%).
+Quiet coastal towns appear to be popular retirement locations for age pensioners. The SA2 which had the highest proportion of age pensioners was Tuncurry on the NSW mid north coast at 26.5% or more than a quarter of the total population. The top ten list for age pensioners is quite different to the top ten list for non pensioners aged 65 years and older, only Tea Gardens – Hawks Nest, NSW is present in both lists.
+Areas with large proportions of age pensioners tended to also have large proportions of non pensioners. Areas with large proportions of non pensioners however tended to have lower proportions of age pensioners. For example, in Yarralumla in the ACT 25.1% of residents are non pensioners (aged 65 and older) while only 2.8% are age pensioners.
+A greater proportion of age pensioners had a total weekly income from administrative data between $150 and $649 per week than non pensioners (79.5% compared to 20.5%). The largest difference was for those with income between $300 and $499 per week (85.4% for age pensioners and 14.6% for non pensioners).
+For people aged 65 and older with total weekly income of $800 or more per week the vast majority (98.4%) were non pensioners; this group received income mainly from superannuation, own unincorporated business, investments or other sources.
+In all age groups more age pensioners reported having one or more of the selected long term health conditions in the 2021 Census, compared to non pensioners. As age increased, the difference in prevalence of people with a long term health condition increased between age pensioners and non pensioners, with the greatest difference for those aged 90 and older (80.0% for age pensioners and 64.8% for non pensioners).
+  Non pensioners aged 65 years and older were 2.5 times more likely to have a bachelor’s degree or higher (25.6% compared with 10.3%).
+  Age pensioners were nearly twice as likely not to have completed Year 10 (28.4% compared with 16.1%).
+  The same number of age pensioners and non pensioners own their home outright (70.1% of age pensioners compared with 70.5% of non pensioners).
+  15.6% of age pensioners reside in dwellings which are rented compared to 11.1% of non pensioners.
+  10.0% of age pensioners lived in dwellings which were owned with a mortgage, compared to 15.3% of non pensioners.
+A greater proportion of people aged 65 years and older who live in one person households were age pensioners (29.5%) compared to non pensioners (22.7%). Non pensioners were more likely to live in two person households (57.7%) compared to age pensioners (52.7%).
+There are substantial differences in socio economic wellbeing indicators between age pensioners and non pensioners. We have used the  to measure socio economic wellbeing, which we have grouped into five quintiles each containing 20% of the population. The lowest quintile, quintile 1, denotes the 20% of persons with the greatest relative socio economic disadvantage. The highest quintile, quintile 5, denotes the 20% of persons with the greatest relative advantage.
+There are substantially more age pensioners than non pensioners in quintile 1, the quintile of greatest disadvantage (29.7% of age pensioners are in quintile 1, compared with 19.6% of non pensioners). There are more than twice as many non pensioners than age pensioners in quintile 5, the quintile of greatest advantage (23.6% of non pensioners are in quintile 5, compared with 10.6% of age pensioners).
+The percentage of non pensioners is highest in quintile 5 (23.6%), however is very similar in the other four quintiles (between 18.6% and 19.6%). The percentage of age pensioners is highest in quintile 1 (29.7% or 600,000 people) and decreases in each ascending quintile, with only 1 in 10 in quintile 5 (10.6%).
+Further information on how income was measured using administrative data can be found in  and in the :
+  
+  
+  
+  .
+13/02/2024   , High income earners: corrected figure for proportion of high income earners for the applicable population. 

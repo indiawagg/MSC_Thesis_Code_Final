@@ -1,0 +1,139 @@
+Date:
+2022-08-30
+Article Title:
+ Long-term health conditions
+
+Article Content:
+The most commonly reported long term health conditions in the Australian population were a mental health condition (8.8%), arthritis (8.5%) and asthma (8.1%).
+  Over 8 million people had at least one long term health condition, 31.7% of the Australian population.
+  Of those with a long term health condition, 54.1% were female and 45.9% were male.
+  There is a strong link between age and incidence of long term health conditions, as the proportion of those with a long term health condition increases with age.
+  The most commonly reported long term health conditions in the Australian population were a mental health condition (8.8%), arthritis (8.5%) and asthma (8.1%).
+This article presents information about Australians who have one or more long term health conditions and is based on data collected in the 2021 Census. It explores long term health conditions in relation to other Census variables such as demographic and socio economic characteristics; where people live; household composition; and cultural and linguistic diversity. This information is important in the planning and management of health services and targeted support for those living with long term health conditions.
+2021 was the first time that the long term health conditions question was asked on the Census. In the past, the Census has helped with breakthrough health discoveries   the Australian Census was critical to discovering the link between rubella measles and congenital problems with unborn children. For more detail, see the .
+More information about the long term health conditions question, including definitions and levels of non response, is provided at the end of this article in .
+According to the 2021 Census, approximately 8,064,000 people had at least one long term health condition, 31.7% of the Australian population.
+Rates of the long term health conditions that were collected in the Census are calculated by dividing the total number of respondents with a particular condition, by the total population. These rates are:
+  mental health condition (8.8%)
+  arthritis (8.5%)
+  asthma (8.1%)
+  diabetes (4.7%)
+  heart disease (3.9%)
+  cancer (2.9%)
+  lung condition (1.7%)
+  stroke (0.9%)
+  kidney disease (0.9%)
+  dementia (0.7%).
+Of those with a long term health condition:
+The proportion of those with a long term health condition increased with age:
+  54.1% were female (4,359,000 females)
+  45.9% were male (3,705,000 males)
+  the median age was 55 years (compared to 38 years for all of Australia).
+  11.7% of people aged 0 14 years had a long term health condition
+  29.1% of people aged 15 64 years had a long term health condition
+  61.4% of people aged 65 84 years had a long term health condition
+  73.1% of people aged 85 years and over had a long term health condition.
+Females were more likely to have long term health conditions than males, which could also be influenced by age (median age of females was 39 years, median age of males was 37 years). They were also more likely to have multiple conditions:
+Older people were more likely to have multiple long term health conditions compared to younger people. 11.6% of people aged 65 years and over had three or more conditions compared to 1.6% of those aged 15 64 years. Of people with long term health conditions:
+  19.8% of females had one condition (compared to 17.9% of males)
+  6.6% of females had two conditions (compared to 5.1% of males)
+  3.4% of females had three or more conditions (compared to 2.7% of males).
+  18.8% of people had one condition (median age 50 years)
+  5.9% of people had two conditions (median age 63 years)
+  3.0% of people had three or more conditions (median age 71 years).
+The rate of the selected long term health conditions varied between males and females. Females were more likely than males to have conditions such as arthritis, a mental health condition and dementia, while males were more likely than females to have conditions such as heart disease, diabetes and stroke.
+The median age of people with the different types of long term health conditions varied. Those with asthma or a mental health condition had a lower median age (40 years and 42 years respectively) than those with stroke or dementia (73 years and 83 years respectively).
+When examining long term health condition in age cohorts, different trends can be seen for some conditions.
+Rates of mental health conditions and asthma are more evenly distributed across age groups, suggesting these conditions are not linked to ageing. The majority of other listed long term health conditions increase with age. Heart disease, cancer, diabetes and stroke begin to decrease from 80 and 90 years, suggesting that people with these conditions have a shorter life span than those with other conditions.
+Many people with long term health conditions have more than one condition. This may result in more complex health care needs and require management and coordination of care across multiple parts of the health system(1). The 2021 Census has 12 output variables for the most commonly reported comorbidities. A list of these variables can be found in the .
+In the 2021 Census, the most common comorbidities reported were:
+Comorbidity of conditions varied between males and females. Males most commonly reported arthritis and heart disease (1.3%), whereas females most commonly reported arthritis and mental health condition (2.2%).
+  arthritis and mental health condition (1.7% of the total population or approximately 423,000 people)
+  arthritis and asthma (1.5% or approximately 380,000 people)
+  arthritis and heart disease (1.4% or 348,000 people).
+According to the 2021 Census 37.5% of people living in Tasmania had a long term health condition, compared to 31.7% of Australians, and 23.4% of those living in the Northern Territory. This is likely a reflection of the age profiles of these states and territories (the median age of people living in the Northern Territory was 33 years compared to 42 years for those living in Tasmania).
+The rate of types of long term health conditions varied between states and territories. The most commonly reported long term health condition in VIC, QLD, WA and the ACT was a mental health condition, whereas in NSW, SA and TAS it was arthritis. In the NT the mostly commonly reported condition was asthma. 
+Apart from in the NT and WA, people living outside Greater Capital Cities in the Rest of State areas were more likely to have a long term health condition than those living in Greater Capital Cities.
+The rate of the different long term health conditions varied between those living in Greater Capital Cities and those living in Rest of State areas. For example, in Greater Melbourne, Brisbane, Adelaide, Perth and Hobart the most commonly reported long term health condition was a mental health condition. For those living in the Rest of State areas, the most commonly reported long term health condition was arthritis.
+36.0% of people living in , such as nursing homes or hospitals, had a long term health condition compared to 31.6% of those who were living in private dwellings. This reflects the age profile of people living in different dwelling types. People living in non private dwellings had a median age of 51 years, compared to a median age of 38 years for those living in private dwellings.
+Over three quarters of people living in nursing homes (77.1%) and those living in accommodation for the retired or aged that wasn't self contained (76.7%) had a long term health condition.
+People living in non private dwellings were also more likely to have multiple long term health conditions than those living in private dwellings:
+The rate of all the long term health conditions apart from asthma was higher for those living in non private dwellings compared to those living in private dwellings.
+  8.7% of people living in non private dwellings had two conditions (compared to 5.8% of those living in private dwellings)
+  9.2% of people living in non private dwellings had three or more conditions (compared to 2.9% of those living in private dwellings).
+More than four in ten (43.0%) people with dementia were living in non private dwellings.
+More than half (51.5%) of people living in lone person households had a long term health condition compared to 29.4% of those living in other types of households. This is likely a reflection of the age profile of the different types of households. People living in lone person households had a higher median age of 60 years compared to median ages of 36 years for people living in one family households and 30 years for people living in group households.
+People living in lone person households were more likely to have multiple long term health conditions than those living in other types households:
+  27.5% of those living in lone person households had one condition (compared to 18.0% of those living in other types of households)
+  12.1% of those living in lone person households had two conditions (compared to 5.1% of those living in other types of households)
+  7.6% of those living in lone person households had three or more conditions (compared to 2.3% of those living in other types of households).
+People in lone person households had the highest rates of all of the selected long term health conditions. Excluding asthma and any other long term health condition(s), they were twice as likely to report most long term conditions compared with people living in family and group households. 20.3% of people living in a lone household reported having arthritis, compared with 7.3% of people who lived in family or group households.
+There is no single way to define what it means to be from a culturally and linguistically diverse background. For example, it can refer to people who were not born in Australia; whose language used at home is a language other than English; or those who do not speak English well (referred to as English language proficiency). It can also include Aboriginal or Torres Strait Islander people – or can comprise a mix of these(2).
+Aspects of cultural and linguistic diversity may influence long term health conditions outcomes and impact a person’s ability to access health care services.
+However, the following analysis of Census long term health conditions data by these types of variables also supports the concept of the ‘healthy migrant effect’ (i.e. health requirements and eligibility criteria ensuring that generally those in good health migrate to Australia). Although immigrants come from diverse regions of the world, almost all demonstrate good, if not better, health on arrival and for some years following than the Australian born population. This better health is reflected in longer life expectancy, lower death and hospitalisation rates, and a lower prevalence of some lifestyle related risk factors(3).
+Of those who had a long term health condition, 73.7% were born in Australia and 26.2% were born overseas (excluding those who did not respond to this question). This was higher than the total Australian population with 70.5% reporting being born in Australia and 29.5% reporting being born overseas.
+Over half of people in Australia who were born in Greece (56.1%) and Italy (53.7%) had a long term health condition. Rates of people with a long term health condition were also high for those in Australia born in Scotland (47.9%), England (45.5%) and Germany (44.9%). 
+These proportions are likely to be impacted by the age profiles of the populations born in these countries. For example, the median age of those born in Greece was 74 years and the median age of those born in Italy was 72 years.
+People in Australia who were born in Italy and Greece were most likely to have multiple long term health conditions.
+Rates of long term health conditions in other common countries of birth in Australia include:
+  Of the people who were born in New Zealand 34.7% had a long term condition.
+  Of the people who were born in China (excludes SARs and Taiwan) 16.1% had a long term condition.
+  Of the people who were born in India 14.2% had a long term condition.
+People born in the following countries also had high rates of the selected long term health conditions:
+  Scotland   arthritis (17.6%), cancer (6.4%) and lung condition (4.6%)
+  Australia   asthma (9.9%)
+  Lebanon   diabetes (14.2%) and kidney disease (1.9%)
+  Germany   heart disease (9.9%), dementia (2.5%) and stroke (2.4%)
+Access to affordable and decent quality health care services is an important social determinant of health. A person who either does not speak the local language, or has a limited ability to communicate in the local language, may be disadvantaged when trying to access health care services, which may result in poorer health outcomes.
+According to the 2021 Census, of those who had a long term health condition:
+Of the people who spoke English only, 36.8% had a long term health condition, compared to 22.4% of people who used a language other than English at home. One third (33.1%) of people who spoke a language other than English and did not speak English well or at all had a long term health condition, compared to 20.4% of people who spoke English very well or well.
+Apart from asthma, rates of each type of long term health condition were higher for people who did not speak English well or at all, compared to those who spoke English very well or well. This is likely driven by age with the median of all people who use another language at home and do not speak English well or at all being 52 years. The median age for people who use another language at home and speak English well or very well was 35 years.
+  83.5% spoke English only (compared to 72.0% of the total population)
+  15.9% used a language other than English at home (compared to 22.5% of the total population)
+  Aside from English the most common languages spoken at home were Italian (7.7% compared to 3.2% of the total population), Arabic (7.3% compared to 5.2% of the total population) and Mandarin (6.8% compared to 9.6% of the total population).
+The level of household income may impact a person’s ability to afford and access health care services.
+Rates of people with a long term health condition were highest in the bracket with an equivalised household income of $400 $499 per week (52.9%). The median age of those in this income bracket was 64 years, the highest median age in any household income bracket.
+In 2021, close to nine in ten people (88.1%) with a  had a long term health condition compared to three in ten (29.8%) people without a need for assistance.
+People with multiple long term health conditions had a greater need for assistance from a person for core activities. 40.9% of people with three or more conditions had a need for assistance, compared to 20.4% with two conditions, 10.0% with one condition, and 2.1% of people with none of the selected conditions.
+Those with the following long term health conditions had the greatest need for assistance with core activities:
+  81.9% of people with dementia
+  46.2% of people who had a stroke
+  35.1% of people with kidney disease.
+This suggests that particularly dementia and stroke may be more debilitating conditions that require more assistance.
+More data related to health can be found in the  on the  page. 
+  Australian Institute of Health and Welfare, 
+  Australian Institute of Health and Welfare, 
+  Australian Institute of Health and Welfare, 
+The 2021 Census included a new health topic to capture data about the proportion of Australians reporting selected long term health conditions. This allows for the analysis of long term health conditions data at more detailed geographic and sub population levels than ABS health surveys can support. The Census also collects information about a range of characteristics of people, enabling analysis across a range of socio economic and demographic dimensions.
+For further information about ABS sources of long term health conditions data and to assist with appropriate use of the data, please see .
+The Census included a single, long term health conditions question which asked people of all ages if they have been told by a doctor or nurse that they have any of these long term health conditions:
+Respondents were asked to include health conditions that have lasted, or are expected to last, for six months or more and to include health conditions that:
+The following 2021 Census long term health conditions variables are analysed in this article:
+It should be noted that the variable ‘Whether has one or more long term health condition(s)’ includes those who reported any other long term health condition(s), whereas the ‘Count of selected long term health conditions’ variable excludes any other long term health condition(s).
+For further information about the 2021 Census long term health conditions output variables please refer to the .
+  arthritis
+  asthma
+  cancer (including remission)
+  dementia (including Alzheimer’s)
+  diabetes (excluding gestational diabetes)
+  heart disease (including heart attack or angina)
+  kidney disease
+  lung condition (including COPD or emphysema)
+  mental health condition (including depression or anxiety)
+  stroke
+  any other long term health condition(s) 
+  may recur from time to time
+  are controlled by medication
+  are in remission. 
+  Whether has one or more long term health condition(s) ()
+  Count of selected long term health conditions ()
+  Type of long term health condition () 
+‘Not stated’ responses were included in totals when calculating proportions reported in this article unless otherwise stated.
+‘Overseas visitors’ and ‘Not applicable’ responses were excluded from totals when calculating proportions reported in this article.
+The 2021 Census was the first time that the long term health conditions data has been collected. When conducting any analysis of this data, it is important to consider non response rates and factors which may have contributed to this, for example:
+The table below summarises rates of non response for the long term health conditions question by selected population characteristics. The non response rate for Count of long term health conditions (CLTHP) was 8.1% in 2021, the highest of all the 2021 Census variables. 
+For more information in Census data collection, processing and quality see the .
+  response may vary by population characteristics
+  the data relies on the respondent self reporting health conditions, or in some cases reporting on behalf of someone else, in most cases without an interviewer present to help
+  there may be potential sensitivities around reporting certain conditions
+  the placement of the topic on the Census form may impact response, for example the long term health conditions question appeared on the back page of the Interviewer Household form

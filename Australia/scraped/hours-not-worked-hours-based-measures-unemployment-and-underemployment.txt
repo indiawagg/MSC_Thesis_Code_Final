@@ -1,0 +1,30 @@
+Date:
+2020-06-18
+Article Title:
+ Hours not worked: Hours-based measures of unemployment and underemployment
+
+Article Content:
+The unemployment and underemployment estimates published monthly provide 'headcount' measures (i.e. the number of people who are unemployed or underemployed).
+Another way of looking at underutilised labour supply is to consider the 'volume' of potential labour supply (i.e. the number of 'hours not worked' by those unemployed and underemployed). The ABS produces these measures on a quarterly basis, and they complement both the headcount measures of underutilisation and the volume measures of hours worked. The data are only available on an ‘original’ basis (i.e. not seasonally adjusted).
+Hours based measures relate to the hours sought by unemployed people and the additional hours preferred by underemployed people. For underemployed people, the additional preferred hours include:
+Chart 1 shows the headcount and hours based unemployment and underemployment rates. The hours based measures are the hours sought by unemployed and the additional hours preferred of the underemployed, as a proportion of all the hours worked and not worked in the labour force. Simple formulas for these measures, showing how they are calculated, can be found in the July 2003 issue of .
+Between February and May, in original terms, the unemployment rate increased from 5.5% to 6.9% and the underemployment rate increased from 8.4% to 12.9%. Over the same period the hours based unemployment rate increased from 4.2% to 5.6%, while the hours based underemployment rate more than doubled, increasing from 3.1% to 6.3%.
+  the number of additional hours they would prefer, and are available, to work (for part time workers); and
+  the difference between usual hours and the hours actually worked in the reference week (for full time workers who worked part time hours for economic reasons).
+Chart 2 shows that, consistent with the falls in hours worked, there was a large increase in the total number of underutilised hours (hours not worked) for both men and women between February and May. Male underutilised hours increased by 65% to 32 million hours per week, while female underutilised hours increased by 43% to 25 million hours per week.
+Chart 3 shows that the increase in underutilised hours was driven by increases in both unemployed hours not worked and underemployed hours not worked. For the first time in the series, there were more underemployed hours than unemployed hours.
+Chart 4, which provides a per person average of available hours, shows that:
+  the increase in total unemployed hours not worked was largely driven by the increase in the number of unemployed people; and
+  the increase in total underemployed hours not worked was driven by an increase in the individual hours not worked, as well as the increase in the number of underemployed people.
+Chart 5, which shows the total number of hours not worked by the underemployed population, highlights that the increase in the hours based underutilisation rate observed in Chart 1 has largely been driven by the large increase in the full time underemployed   that is, those full time employed people who worked less than 35 hours for economic reasons (e.g. they were stood down, or there was insufficient work or no work available).
+The previous charts show the volume of hours sought by the unemployed, and the hours not worked of the underemployed.
+There are also additional groups of employed people who also can be considered to have 'underutilised hours', but are not included in the standard 'underemployed ' population. These are:
+Headcount measures of these groups are published monthly in  Tables 24 and 25.
+Chart 6 shows a large increase in hours not worked by full time employed people between February and May, with the inclusion of full time employed people who would prefer (and are available) to work more hours.
+For the part time series, there was also a large increase in the hours not worked of part time employed people, reflecting the usually small number of part time employed who work less than their usual hours (or no hours) for economic reasons (who are not included in the 'underemployed' population).
+  full time employed people who would prefer (and are available) to work more hours;
+  full time employed people who worked less than their usual hours for economic reasons, but still worked more 35 hours or more; and
+  part time employed people who worked less than their usual hours (or no hours) for economic reasons.
+Chart 7 shows all the hours not worked for economic reasons for all full time and part time employed people, highlighting the particularly large increase for full time employed people between February and May.
+ 
+Chart 8 shows the hours not worked for economic reasons by full time employed men and women. The particularly pronounced increase for men is consistent with the relatively larger increases observed in the male headcount underemployment rate.

@@ -1,0 +1,18 @@
+Date:
+2020-06-24
+Article Title:
+ New statistical resource for tracking Australian deaths
+
+Article Content:
+The first in a new series of monthly, provisional reports aimed at tracking changes in mortality during the COVID 19 pandemic was released today by the Australian Bureau of Statistics (ABS).
+Director of Health and Vital Statistics at the ABS, James Eynstone Hinkins, said the reports would provide insights into patterns of mortality during the COVID 19 pandemic, and allow early identification of emerging health issues during the recovery period.
+“The report shows that more than 33,000 doctor certified deaths occurred from 1 January to the end of March 2020,” said Mr Eynstone Hinkins. “The highest number of deaths were recorded in the last week of March."
+“Deaths in that last week of week of March from pneumonia, diabetes and dementia were higher than expected numbers based on historic averages."
+“It will be important to confirm whether those increases are sustained before drawing any conclusion from this data.”
+Additional information on COVID 19 deaths registered since the start of the pandemic shows the most common co morbidities were hypertension, diabetes, chronic lower respiratory diseases, cancer, and dementia.
+Comprehensive data and analysis can be found in Provisional mortality statistics (cat. no. 3303.0.55.004), available for free download from the    .
+This release is part of a range of additional products produced by the ABS to measure the impact of COVID 19.
+  Data in this report are provisional, are limited to deaths certified by doctors (not coroner referred), are based on date of death and state or territory of registration. Data are not comparable with annual data released in Deaths, Australia (cat. No. 3302.0) or Causes of Death, Australia (cat. No. 3303.0).
+  When reporting ABS data, the Australian Bureau of Statistics (or ABS) must be attributed as the source.
+  For media requests and interviews, contact the ABS media team at 
+  Subscribe to our  and get media releases or products sent to you on release.

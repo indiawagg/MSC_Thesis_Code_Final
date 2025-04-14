@@ -1,0 +1,38 @@
+Date:
+2022-08-11
+Article Title:
+ Characteristics spotlight: 2022
+
+Article Content:
+The Weekly Payroll Jobs and Wages in Australia estimates are compiled from data collected via the Single Touch Payroll (STP) system, which facilitates employers in reporting jobholder payroll information to the Australian Taxation Office.
+Distributions of jobholder and employer characteristics provide insights into the key populations contributing to these estimates.
+Distributions are useful in understanding the composition of payroll jobs and jobholder populations. A range of factors can influence the share of payroll jobs and characteristics of jobholders, and how this composition changes over time. Characteristics may differ between geographies, businesses, or groups of jobholders, and further influenced by variations in:
+STP data used for this release do not include information on hours worked or hours paid for, or the employment status of jobholders. Where a jobholder holds more than job, each job will be counted as a unique payroll job. Proportions of payroll jobs therefore differ from those compiled from employment estimates, which are based on the main job of a jobholder.
+More information on the proportion of multiple jobholders and participation rates can be found in ,   and .
+Payroll jobs reported via STP exclude owner managers of unincorporated enterprises (OMUEs). OMUEs are more prevalent in some industries (such as Construction and Agriculture, forestry and fishing) and based on Labour Force data are more likely to be male. 
+Reference weeks presented in this article refer to the weeks ending 14 March 2020, 13 March 2021 and 12 March 2022. The week ending 14 March 2020 was the week in which Australia reached 100 cases of COVID 19 infections.
+  rates of multiple jobholding,
+  workforce participation rates,
+  access to flexible work arrangements, and
+  workforce demand caused by environmental factors such as the pandemic and limited migration.
+The state and territory of a payroll job is determined by the residential address of the jobholder. Although jobholders may change their residential address within a year, it is held constant throughout a financial year in these estimates. Further details on the annual update to jobholder characteristics are found in the .
+The distribution of payroll jobs has largely held steady across states and territories in the two years since mid March 2020. The largest change in payroll job share occurred in New South Wales, which saw a decrease of 0.4 percentage points in the year to mid March 2022.
+The industry of a payroll job is derived from an annual snapshot of the employing business characteristics on the ABS Business Register. More detail on how characteristics are updated are found in the .
+In mid March 2022, the industries with the largest share of payroll jobs were Healthcare and social assistance (15.3%), Retail trade (9.9%) and Education and training (8.9%). Overall, distributions remained broadly similar over time, although there was some variation in industries share of payroll jobs between 2021 and 2022, with the largest changes occurring in:
+  Accommodation and food services, which decreased its share by 0.5 percentage points, and
+  Health care and social assistance and Professional, scientific and technical services, which both increased their share by 0.3 percentage points.
+Although broadly equal, the share of payroll jobs held by men and women has changed between mid March 2020 and mid March 2022. The share of payroll jobs held by women increased by 0.4 percentage points, and those held by men decreased by 0.4 percentage points.
+The proportion of payroll jobs held by men and women varies between industry. In mid March 2022:
+  Health care and social assistance industry held the largest share of payroll jobs worked by women (78.3%), and
+  the Construction industry held the largest share of payroll jobs worked by men (81.5%).
+The share of payroll jobs held by men and women within industries does not change significantly over time. Between 2021 and 2022:
+  the largest change in the share of payroll jobs held by women occurred in the Mining industry, which saw a 1.4 percentage point increase, and
+  the Rental, hiring and real estate services industry which saw the largest increase in share of payroll jobs held by men, increasing by 0.6 percentage points.
+The distribution of payroll jobs across age groups between men and women is broadly similar over time, with more than a third of payroll jobs held by people aged between 25 39 years.  
+For sex by age group, the largest changes in payroll jobs share between 2021 and 2022 were:
+  in the 40 44 year old age group for payroll jobs held by women, up 0.3 percentage points, and
+  in the 40 44 year old and the 50 54 year old age groups for payroll jobs held by men, which both increased by 0.3 percentage points.
+The 0.6 percentage point decrease in payroll job share for jobholders aged 15 19 years old, between mid March 2021 and 2022, is influenced by a high proportion of unknown sex (around 20%) within this age group at mid March 2022.
+STP data is linked to other information held by the ABS to derive characteristics of jobholders such as age and sex. Where this information cannot be linked or sourced, it is assigned an ‘unknown’ category. Sex characteristics can only be sourced from ATO Client Register data which is updated once a year from an annual snapshot.
+The distribution of payroll jobs by sex by persons aged 15 19 years old are affected by a higher proportion of records with unknown sex than other age groups. Jobholders in this age group are more likely to be new income tax registrants and hence missing from the current snapshot (where sex is sourced). Further detail on this impact is described in the Update of jobholder characteristics section in the historical . 
+Further distributions of jobholder and employer characteristics by state and territory are updated in each release in the  data download.  

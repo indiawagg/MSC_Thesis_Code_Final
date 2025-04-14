@@ -1,0 +1,11 @@
+Date:
+2020-05-14
+Article Title:
+ Understanding differences between Labour Force employment statistics and Weekly Payroll Jobs
+
+Article Content:
+The ABS has recently released experimental estimates of changes in paid employee jobs and changes in wages in Weekly Payroll Jobs and Wages in Australia. The estimates are compiled in near real time and published fortnightly, using Single Touch Payroll (STP) data provided to the Australian Taxation Office (ATO) by businesses with STP enabled payroll or accounting software each time the business runs its payroll.
+This information provides complementary insights to the Labour Force statistics on employment. While changes in paid employee jobs can provide an indication of changes in how employed the population is, it is important to remember that the measures are different.
+The table below highlights key differences that should be considered when comparing changes in paid employee jobs with changes in employment.
+ 
+For further information, please email .

@@ -1,0 +1,9 @@
+Date:
+2023-05-16
+Article Title:
+The Daily — Canadian Economic Tracker: A new data visualization tool
+Article Content:
+Released: 2023 05 16
+The new Canadian Economic Tracker presents selected monthly indicators from Statistics Canada's Common Output Database Repository to highlight the interrelated dynamics within the Canadian economy. The goal of this tool is to provide timely, granular and customizable data and interactive charts of economic activity to the public. The Tracker currently includes six indicators: business openings and closures, employment and weekly earnings, job vacancies and vacancy rates, gross domestic product, the Consumer Price Index, and the Industrial Product Price Index. 
+The Canadian Economic Tracker, which is part of the series Statistics Canada   Data Visualization Products (Catalogue number71 607 X), is now available. 
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

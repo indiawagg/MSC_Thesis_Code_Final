@@ -1,0 +1,142 @@
+Date:
+2022-07-21
+Article Title:
+ Pandemic insights into Australian smokers, 2020-21
+
+Article Content:
+  One in ten adults were current daily smokers (10.7% or 2.1 million adults)
+  Men were more likely than women to smoke daily (12.6% compared to 8.8%)
+  Adults with fair or poor health were more likely to be current daily smokers (17.7%)
+Tobacco smoking is one of the largest preventable causes of death and disease in Australia. Smoking is estimated to kill almost 20,500 Australians a year (13% of all deaths) and was responsible for 8.6% of the total burden of disease in Australia in 2018[1]. It is associated with an increased risk of a wide range of health conditions, including: heart disease, diabetes, stroke, cancer, renal disease, eye disease and respiratory conditions such as asthma, emphysema and bronchitis.
+Smoker status refers to the frequency of smoking of tobacco, including manufactured (packet) cigarettes, roll your own cigarettes, cigars and pipes. Respondents were asked to describe their smoking status at the time of interview, categorised as: 
+Smoker status analysis excludes chewing tobacco, electronic cigarettes (and similar vaping devices) and smoking of non tobacco products.
+  Current daily smoker – a respondent who regularly smoked one or more cigarettes, cigars or pipes per day
+  Current smoker   Other – a respondent who smoked cigarettes, cigars or pipes, less frequently than daily
+  Current non smoker – a respondent who did not smoke cigarettes, cigars or pipes (either regularly or less frequently than daily). This includes people who have never smoked or are ex smokers.
+  One in ten adults were current daily smokers (10.7% or 2.1 million adults)
+  One in twelve (8.3%) adults aged 18 24 years smoked daily – this increased with age until 55 64 years where the rate peaked at 13.7% before dropping to 3.4% at age 75 years and over
+  Men were more likely than women to smoke daily (12.6% compared to 8.8%)
+  The majority (98.0%) of 15 17 year olds reported that they were current non smokers.
+The characteristics of adults who were most likely to be current daily smokers in 2020 21 were:
+  Adults born in Australia were more likely to be current daily smokers than those born overseas (12.2% and 7.6%)
+  Those who spoke English at home were almost twice as likely to be current daily smokers compared with those who spoke a language other than English (11.4% and 5.8%)
+  More than one in five (22.0%) adults who were unemployed were current daily smokers
+  Adults living in areas of most disadvantage were more than three times as likely to be current daily smokers compared with adults living in areas of least disadvantage (17.8% and 5.8%)
+  Adults living in outer regional and remote Australia were almost twice as likely to be current daily smokers compared with those living in major cities (17.9% and 9.3%)
+  More than one in five (23.4%) adults living in group households were current daily smokers
+  Almost one in five (18.3%) adults who had a highest level of educational attainment of Year 10 or below were current daily smokers
+  Adults who reported their health as fair or poor were more than twice as likely to be current daily smokers compared with those who reported their health as excellent or very good (17.7% and 7.6%).
+The 2020 21 data has been reviewed against data from the Organisation for Economic Cooperation and Development (OECD)[3] and other available international sources that were collected during the ongoing COVID 19 pandemic. Data from the OECD has been specifically selected for comparison to the 2020 21 data if it was collected in a similar time frame. Available data from other sources include:
+International smoker status analysis excludes electronic cigarettes (and similar vaping devices). Note that these sources have different modes of collection, different definitions of current smokers, and different strategies to manage collection during the ongoing COVID 19 pandemic. See reference links.
+  The Canadian Community Health Survey 2020[4]
+  The National Survey for Wales September 2020[5]
+  The New Zealand Health Survey 2020 21[6]
+  The Scottish Health Survey August September 2020[7]
+  The United States National Health Interview Survey 2019 20[8].
+Australian data cannot be directly compared to international sources with different methodologies. The graph shows how Australia’s daily smoker data relates to selected countries during the same time period. One in ten (10.3%) Australians aged 15 years and over were current daily smokers, with 7.3% in Iceland and 19.8% in Spain.
+The Australian total current smoker rate, which includes both daily and less frequent smoking, is similar to other developed countries:
+  Of Australians aged 15 years and over, 11.4% were current smokers in 2020 21, while 10.9% of New Zealanders were current smokers in 2020 21[6]
+  Similarly, 11.8% of Australians aged 18 years and over were current smokers in 2020 21, compared to 12.4% of Americans in 2020[8]
+  In 2020, 9% of persons aged 16 years and over were current smokers in Scotland[7] and in 2021 14% of persons aged 16 years and over were current smokers in Wales[5].
+  Australian Institute of Health and Welfare, ‘Australian Burden of Disease Study 2018: Interactive data on risk factor burden’, ; accessed 24/11/2021.
+  Department of Health, ‘Tobacco control timeline’, ; accessed 18/11/2021.
+  Organisation for Economic Co operation and Development (OECD) Data, ‘Daily smokers’, ; accessed 18/11/2021.
+  Statistics Canada, ‘Health characteristics: annual estimates’, ; accessed 18/11/2021.
+  Welsh Government, ‘National Survey for Wales (quarterly survey): January to March 2021’, ; accessed 18/11/2021.
+  New Zealand Ministry of Health, ‘New Zealand Health Survey 2020 21’, ; accessed 01/12/2021.
+  Scottish Government, ‘Scottish Health Survey – telephone survey – August/September 2020: main report’, ; accessed 18/11/2021.
+  Centers for Disease Control and Prevention (CDC), ‘Early release of selected estimates based on data from the 2020 National Health Interview Survey’, ; accessed 15/10/2021.
+21/07/2022 – This release contains:
+Data revision to Smoker Status, Australia data cube, affecting ‘Migrant status’, ‘Family composition of household’, and ‘Level of highest educational attainment’ in table 2.
+Smoking estimates in this release are drawn from the  dataset which is an experimental dataset built from common content included in all surveys conducted from July 2020 to June 2021.
+The household surveys included in this experimental dataset are:
+These surveys collected a standard set of information which were pooled to produce the Smoker Status dataset, including age, sex, country of birth, main language, employment, education, migrant and visa status, and current smoker status.
+Pooling this content from multiple surveys has produced a large sample size, for the purpose of providing more accurate national smoking estimates compared to any individual survey. Pooled smoking data will be released annually for 2020 21, 2021 22 and 2022 23 financial years.
+  National Health Survey (NHS) 2020 21
+  
+  
+  Time Use Survey (TUS) 2020 21
+  .
+The surveys used to create this dataset were collected during the COVID 19 pandemic. To maintain the safety of survey respondents and ABS Interviewers, surveys were primarily collected via online, self complete forms with some telephone and face to face interviews conducted where possible. Non response is usually reduced through Interviewer follow up of households who have not responded. As this was not possible during lockdown periods, there have been significant impacts on response rates and sample representativeness. Due to these changes, comparisons to previous smoking data over time are not recommended.
+Smoking data has previously been pooled from the 2017 18 National Health Survey (NHS) and the 2017 18 Survey of Income and Housing (SIH) and the smoking estimates were published in December 2018.
+While similar in that both pooled datasets have been used to produce smoking estimates, the 2020 21 Smoker Status dataset has expanded data sources, collection methodologies and content. It should not be used to create a time series with 2017 18 (and previous) data for smoking trends. The 2020 21 Smoker Status dataset is considered a break in series, and reflects the specific time point only.
+The scope of the dataset is as follows:
+The following people were excluded:
+  Usual residents (URs) in Australia aged 15 years and over living in private dwellings were in scope for all household surveys, noting that the SHWB had an age scope of 16 to 85 years
+  Both urban and remote areas in all states and territories, except for very remote parts of Australia and discrete Aboriginal and Torres Strait Islander communities
+  Members of the Australian permanent defence forces living in private dwellings and any overseas visitors who have been working or studying in Australia for the last 12 months or more, or intend to do so.
+  Visitors to private dwellings
+  Overseas visitors who have not been working or studying in Australia for 12 months or more, or do not intend to do so
+  Members of non Australian defence forces stationed in Australia and their dependents
+  Non Australian diplomats, diplomatic staff and members of their households
+  People who usually live in non private dwellings, such as hotels, motels, hostels, hospitals, nursing homes and short stay caravan park (people in long stay caravan parks, manufactured home estates and marinas are in scope)
+  People in very remote areas
+  Discrete Aboriginal and Torres Strait Islander communities.
+Households were randomly selected to participate in the surveys used for the pooled dataset. If the randomly selected person was aged 15 17 years, parental consent was sought for the interview to proceed.
+The total sample pooled from the five surveys was 30,564 households and 42,117 persons.
+The mode of collection varied across surveys due to the timing of enumeration in relation to the COVID 19 pandemic and specific survey requirements. Modes of collection utilised were:
+  Self completed online form
+  Telephone interview with an ABS trained Interviewer
+  Face to face interview with an ABS trained Interviewer (limited numbers)
+  Self completed paper form (limited numbers).
+All household surveys collected a common set of information including:
+See the data item list for the  dataset for more details about content.
+  Demographics   Age, Sex, Country of Birth, Main language spoken, Marital status
+  Household details   Type, Size, Household composition, Tenure, SEIFA, Geography
+  Labour force status
+  Educational attainment
+  Self assessed health status
+  Migrant and Visa status
+  Current smoker status.
+As only a sample of people in Australia were surveyed, their results needed to be converted into estimates for the whole population. This was done through a process called weighting:
+The person and household level weights are then calibrated to align with independent estimates of the in scope population, referred to as ‘benchmarks’. The benchmarks use additional information about the population to ensure that:
+Benchmarks align to the estimated resident population (ERP) at December 2020, aged 15 years and over, which was 9,782,954 households and 20,285,817 people (after exclusion of people living in non private dwellings, very remote areas of Australia and discrete Aboriginal and Torres Strait Islander communities).
+There was no imputation for missing data on the pooled dataset. Any records with an unacceptable level of missing data were removed. However, if the level of missing data was minimal, the records were kept with ‘not stated’ values where needed.
+Pooled sample counts and weighted estimates are presented in the table below.
+  Each person or household is given a number (known as a weight) to reflect how many people or households they represent in the whole population
+  A person or household’s initial weight is based on their probability of being selected in the sample. For example, if the probability of being selected in the survey was one in 45, then the person would have an initial weight of 45 (that is, they would represent 45 people).
+  People or households in the sample represent people or households that are similar to them
+  The survey estimates reflect the distribution of the whole population, not the sample.
+Two types of error are possible in estimates based on a sample survey: 
+  Non sampling error    
+  Sampling error.
+Non sampling error is caused by factors other than those related to sample selection.  It is any factor that results in the data values not accurately reflecting the true value of the population.
+It can occur at any stage throughout the survey process. Examples include:
+  Selected people that do not respond (e.g. refusals, non contact)
+  Questions being misunderstood 
+  Responses being incorrectly recorded 
+  Errors in coding or processing the survey data.
+Sampling error is the expected difference that can occur between the published estimates and the value that would have been produced if the whole population had been surveyed. Sampling error is the result of random variation and can be estimated using measures of variance in the data.
+One measure of sampling error is the standard error (SE). There are about two chances in three that an estimate will differ by less than one SE from the figure that would have been obtained if the whole population had been included. There are about 19 chances in 20 that an estimate will differ by less than two SEs.
+The relative standard error (RSE) is a useful measure of sampling error. It is the SE expressed as a percentage of the estimate:
+
+Only estimates with RSEs less than 25% are considered reliable for most purposes. Estimates with larger RSEs, between 25% and less than 50% have been included in the publication, but are flagged to indicate they are subject to high SEs. These should be used with caution. Estimates with RSEs of 50% or more have also been flagged and are considered unreliable for most purposes. RSEs for these estimates are not published.
+Another measure of sampling error is the Margin of Error (MOE). This describes the distance from the population value that the sample estimate is likely to be within and is particularly useful to understand the accuracy of proportion estimates. It is specified at a given level of confidence. Confidence levels typically used are 90%, 95% and 99%.
+For example, at the 95% confidence level, the MOE indicates that there are about 19 chances in 20 that the estimate will differ by less than the specified MOE from the population value (the figure obtained if the whole population had been enumerated). The 95% MOE is calculated as 1.96 multiplied by the SE:
+
+The RSE can also be used to directly calculate a 95% MOE by:
+
+The MOEs in this publication are calculated at the 95% confidence level. This can easily be converted to a 90% confidence level by multiplying the MOE by:
+
+or to a 99% confidence level by multiplying the MOE by:
+
+Depending on how the estimate is to be used, an MOE of greater than 10% may be considered too large to inform decisions. For example, a proportion of 15% with an MOE of plus or minus 11% would mean the estimate could be anything from 4% to 26%. It is important to consider this range when using the estimates to make assertions about the population.
+A confidence interval expresses the sampling error as a range in which the population value is expected to lie at a given level of confidence. A confidence interval is calculated by taking the estimate plus or minus the MOE of that estimate. In other terms, the 95% confidence interval is the estimate +/  MOE. 
+Proportions or percentages formed from the ratio of two estimates are also subject to sampling errors. The size of the error depends on the accuracy of both the numerator and the denominator. A formula to approximate the RSE of a proportion is given below. This formula is only valid when the numerator (x) is a subset of the denominator (y):
+
+When calculating measures of error, it may be useful to convert RSE or MOE to SE. This allows the use of standard formulas involving the SE. The SE can be obtained from RSE or MOE using the following formulas:
+
+The difference between two survey estimates (counts or percentages) can also be calculated from published estimates. Such an estimate is also subject to sampling error. The sampling error of the difference between two estimates depends on their SEs and the relationship (correlation) between them. An approximate SE of the difference between two estimates (x   y) may be calculated by the following formula:
+
+While this formula will only be exact for differences between unrelated characteristics or sub populations, it provides a reasonable approximation for the differences likely to be of interest in this publication. 
+When comparing estimates between surveys or between populations within a survey, it is useful to determine whether apparent differences are 'real' differences or simply the product of differences between the survey samples. 
+One way to examine this is to determine whether the difference between the estimates is statistically significant. This is done by calculating the standard error of the difference between two estimates (x and y) and using that to calculate the test statistic using the formula below:
+
+where
+
+If the value of the statistic is greater than 1.96, we can say there is good evidence of a statistically significant difference at 95% confidence levels between the two populations with respect to that characteristic. Otherwise, it cannot be stated with confidence that there is a real difference between the populations.
+This release presents national smoking estimates for 2020 21. Commentary presents analysis by age groups, sex and selected population characteristics.
+Data Cubes (spreadsheets) in this release contain smoking estimates, proportions and their associated measures of error.
+Detailed microdata is also available on DataLab for users who want to undertake interactive (real time) complex analysis of microdata in the secure ABS environment.
+The Census and Statistics Act 1905 authorises the ABS to collect statistical information, and requires that information is not published in a way that could identify a particular person or organisation. The ABS must make sure that information about individual respondents cannot be derived from published data.
+To minimise the risk of identifying individuals in aggregate statistics, a technique called perturbation is used to randomly adjust cell values. Perturbation involves small random adjustment of the statistics which have a negligible impact on the underlying pattern. This is considered the most satisfactory technique for avoiding the release of identifiable data while maximising the range of information that can be released. After perturbation, a given published cell value will be consistent across all tables. However, adding up cell values in Data Cubes to derive a total may give a slightly different result to the published totals. The introduction of perturbation in publications ensures that these statistics are consistent with statistics released via services such as TableBuilder.

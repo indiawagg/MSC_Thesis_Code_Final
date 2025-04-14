@@ -1,0 +1,51 @@
+Date:
+2021-04-29
+Article Title:
+ Victims of sexual assault: time to report and age at incident
+
+Article Content:
+  In 2019, there were 26,892 victims of sexual assault recorded by police.  
+  Around three quarters (73%) of sexual assaults were reported to police within one year compared with at least 93% for other offence types.
+  44% of sexual assault victims were aged under 15 years when the incident occurred.
+The annual Recorded Crime – Victims publication presents national statistics about victims of crime for selected offences recorded by state and territory police agencies during a calendar year. The statistics are based on the date the offence was reported to or detected by police. This may not reflect the date the incident occurred, nor the age the victim was at the time of the incident.
+For this article, two additional variables for the Recorded Crime – Victims collection were derived to address this data gap:
+This is the first time that data for these two variables have been published. These data are now available from 2014 onwards.
+The statistics presented throughout this article are available as data tables in Excel spreadsheet format which can be accessed from the  section.   
+  time to report which measures the time between the date the incident occurred and the date the incident was recorded by police
+  age at incident which measures the age of the victim at the date of incident
+In 2019, around three quarters of sexual assault victims (73% or 19,606 victims) reported the incident to police within one year. In comparison, at least 93% of victims across other offence types reported the incident to police within one year.
+Between 2014 and 2019, the total number of victims of sexual assault recorded by police has increased from 20,741 to 26,892 victims, an increase of 30% (6,151 victims). Accounting for population growth over time, the sexual assault victimisation rate increased from 88 to 106 victims per 100,000 persons.
+Over the same period, victims who reported the incident of sexual assault to police:
+These results show that the increase in sexual assaults recorded by police over the last five years (30%) was driven by both an increase in reports of incidents occurring within a year and also reports of incidents that occurred over a year ago.
+  within a year, increased from 15,955 to 19,606 victims (up 23%)
+  one year and over, increased from 4,759 to 7,263 victims (up 53%)
+The number of female victims of sexual assault recorded by police (22,337 victims) was five times more than male victims (4,378 victims) in 2019. This ratio remained consistent between 2014 and 2019.
+There were differences in the time to report to police for males and females:
+  75% of females (or 16,653 victims) reported the incident of sexual assault within one year compared with 64% of males (or 2,807 victims)
+  6% of females (or 1,307 victims) reported the incident of sexual assault 20 years or more after the incident compared with 16% of males (or 713 victims)
+For most selected offences, age at incident was generally the same as age at report, as the majority of incidents were reported to police within one year.
+For sexual assault, age at incident may differ from the age at report due to the greater variability in the time to report to police.
+The difference between age at incident and age at report for sexual assault reflects the variance in the time to report for this offence type. These findings have remained consistent between 2014 and 2019.
+  Age at incident: In 2019, 44% of all sexual assault victims recorded by police were aged under 15 years when the incident occurred. The most common age group was between 10 and 14 years (24% or 6,485 victims).
+  Age at report: 30% of all sexual assault victims recorded by police were aged under 15 years at the date of report to police. The most common age was between 15 and 19 years (25% or 6,678 victims).
+For female victims of sexual assault, the most common age groups at incident were between 15 and 19 years (23% or 5,196 victims) and between 10 and 14 years (23% or 5,188 victims).
+For male victims of sexual assault, the most common age group at incident was under 10 years (36% or 1,591 victims).
+In 2019, there were 1,307 female and 713 male victims of sexual assault who reported an incident that occurred 20 years or more ago.
+  Of the 713 male victims, 49% were aged under 10 years and 40% were between 10 and 14 years when the incident occurred.
+  Of the 1,307 female victims, 55% were aged under 10 years when the incident occurred.
+The proportion of sexual assault victims who reported the incident to police within a year was higher when the offender was a stranger compared with a known person. For example, in New South Wales:
+Where the offender was a family member, the jurisdictions with the largest proportion of sexual assault incidents reported to police 20 years or more after the incident occurred were:
+  91% of incidents were reported within one year when the offender was a stranger
+  72% of incidents were reported within one year when the offender was known to the victim
+  Victoria (17% reporting 20 years or more after the incident or 278 victims)
+  South Australia (14% or 57 victims)
+  New South Wales (12% or 340 victims)
+  Tasmania (25% or 16 victims)
+One third (33% or 8,985 victims) of all sexual assaults reported to police were FDV related in 2019.
+In 2014, about 34% of FDV related sexual assault victims reported to police one year or more after the incident. This increased to 40% of FDV related sexual assault victims reporting one year or more after the incident in 2019.
+For the 7,683 female victims of FDV related sexual assault:
+For the 1,258 male victims of FDV related sexual assault:
+  9% reported 20 years of more after the incident (716 victims)
+  over a quarter were aged under 10 years when the incident occurred (28% or 2,125 victims)
+  14% reported 20 years or more after the incident (180 victims)
+  more than half were aged under 10 years when the incident occurred (60% or 760 victims)

@@ -1,0 +1,32 @@
+Title: Toename dataonthulling bij grote bedrijven
+Date: 2021-05-06 22:00:00 UTC
+
+Lead Text:
+                In 2019 had 25 procent van de bedrijven met 250 of meer werknemers te maken met dataonthulling waarbij een intern incident de oorzaak was, in 2016 was dit nog 17 procent. Daarnaast had 8 procent van de bedrijven in 2019 te maken met dataonthulling als gevolg van een aanval van buitenaf, zoals een hack van het ICT-systeem. Dat blijkt uit een meerjarig overzicht van onderzoek over het ICT‐gebruik van bedrijven gepresenteerd in de Cybersecuritymonitor 2020 van het CBS.
+            
+
+Article Content:
+
+
+Van de Nederlandse bedrijven met 2 of meer werknemers kreeg 3 procent (4858 bedrijven) in 2019 te maken met. 2 procent van de bedrijven kreeg te maken met dataonthulingsincidenten als gevolg van een aanval (hack of inbraak) van buitenaf. 
+Grote bedrijven hebben meer dataonthullingsincidenten 
+
+Dataonthulling vindt vaker plaats bij grote bedrijven. Bedrijven met 250 of meer werknemers hebben relatief het meest te maken met dataonthullingsincidenten en bij deze bedrijven is het aantal dataonthullingsincidenten ook het sterkst toegenomen. 
+
+In 2016 kwamen onthulling door eigen personeel en een aanval van buitenaf bij respectievelijk 17 en 6 procent van de grote bedrijven voor, in 2019 was dit 25 en 8 procent. Ter vergelijking; ongeveer 2 procent van de kleine ondernemingen (twee tot tien werknemers) gaf aan in 2019 te maken te hebben gehad met een dataonthullingsincident. Dit percentage is  de laatste jaren min of meer gelijk gebleven.
+
+
+
+Meeste dataonthullingsincidenten in zorgsector
+Dataonthullingsincidenten vinden relatief vaak plaats in de gezondheidszorg. In 2019 werd bij 6 procent van de bedrijven uit deze sector een dataonthullingsincident met een interne oorzaak gemeld en bij 1 procent van deze bedrijven werd een onthulling veroorzaakt door een aanval van buitenaf.
+
+Ook in de ICT-sector vonden relatief veel dataonthullingsincidenten plaats: 4 procent van de bedrijven in deze sector had in 2019 te maken met een dergelijk incident met interne oorzaak en 3 procent van de ICT-bedrijven was slachtoffer van een aanval van buitenaf.
+
+
+Minder datavernietigings- en uitvalsincidenten door aanval van buitenaf 
+Het aantal ICT‐veiligheidsincidenten door datavernietiging of door uitval van  is de afgelopen vier jaar afgenomen. Zo gaf 24 procent van de bedrijven met meer dan 250 werknemers in 2016 aan een datavernietigingsincident gehad te hebben door een aanval van buitenaf, dat was in 2019 afgenomen naar 6 procent. 
+
+De uitval van ICT‐systemen door een aanval van buitenaf nam af van 23 procent in 2016 naar 11 procent in 2019. Deze afname doet zich vooral voor bij bedrijven in de gezondheidszorg.
+
+
+

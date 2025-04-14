@@ -1,0 +1,78 @@
+Date:
+2020-09-15
+Article Title:
+ Under-reporting of hearing impairment in the Aboriginal and Torres Strait Islander population
+
+Article Content:
+This peer reviewed feature article was co authored by Dr Scott Avery, Western Sydney University. Dr Avery was a member of the National Aboriginal and Torres Strait Islander Health Survey Advisory Group and is a member of other expert advisory groups at the Australian Bureau of Statistics (ABS). Dr Avery provided analysis on the significance of the data and social and cultural influences on the reporting of hearing impairment that emerges from his prior research [1].
+This article explores:
+In its national Aboriginal and Torres Strait Islander health surveys, the ABS asks people whether they have a long term hearing impairment. However:
+In an attempt to assess the level of under reporting of hearing impairment, the ABS added an independent measure of hearing impairment for the first time as part of the 2018–19 National Aboriginal and Torres Strait Islander Health Survey.
+The hearing test was not a comprehensive diagnostic test. However, it provided a basis to identify the difference between the level of long term hearing impairment that is self reported and that which is independently measured by the hearing test. This difference is a measure of the degree to which hearing impairment may be under reported within the Aboriginal and Torres Strait Islander population. It is not possible from this data to identify the reasons for this difference, which points to a need for further research.
+  the extent of under reporting of hearing impairment within the Aboriginal and Torres Strait Islander population
+  the demographic characteristics of people with a hearing impairment
+  the relationship between hearing impairment and selected educational, employment and health outcomes. 
+  this does not capture hearing impairment data for people who are not aware they have a hearing impairment, or are aware but choose not to disclose it
+  asking people to report hearing impairment may also contribute to the under reporting of hearing impairment for cultural and social reasons, such as hearing impairment being an accepted part of the human condition [2]. 
+  This took the form of a voluntary, self administered hearing test for people aged seven years and over without a cochlear implant.
+  This test required respondents to use the interviewer’s laptop to listen through headphones and respond to a series of beeps by pressing a key. (See Hearing data (appendix) for more information about how the hearing test was conducted and response rates.) 
+  More than four in 10 (43% or 290,400) people aged seven years and over without a cochlear implant had a hearing impairment measured by the test in one or both ears at the time of interview.
+  Almost eight in 10 (79% or 228,500) of those people did not report having a long term hearing impairment. This indicates under reporting of hearing impairment within the Aboriginal and Torres Strait Islander population is likely to be substantial and warrants further detailed inquiry.
+  People aged 18 years and over with a moderate, severe or profound hearing impairment experience greater inequality in educational, employment and health outcomes compared to people with no measured hearing impairment. This is significant for Closing the Gap policy aimed at delivering better life outcomes for Aboriginal and Torres Strait Islander people [3] and other disability policy.
+The hearing test indicated more than four in 10 (43% or 290,400) people aged seven years and over had a hearing impairment in at least one ear at the time of interview:
+The proportion of people with a hearing impairment measured in at least one ear at the time of interview:
+The proportion of males with a severe or profound hearing impairment (5.6%) was higher than for females (3.3%). The proportion of males and females with either a hearing impairment in one ear only or a mild or moderate hearing impairment was about the same.
+  20% (135,800 people) had a hearing impairment in one ear only
+  23% (154,300 people) had a hearing impairment in both ears – 15% (99,400 people) had a mild impairment, 3.6% (24,600 people) had a moderate impairment and 4.4% (30,100 people) had a severe or profound impairment, based on the ear with the lowest level of impairment [4]. 
+  was about the same for males (43%) and females (42%)
+  was higher for people living in remote areas (59%) than non remote areas (39%)
+  increased with age from 35 years and over, doubling from 41% of people aged 35–44 years to 82% of people aged 55 years and over. 
+The proportion of people living in remote areas with a hearing impairment in one ear only (26%) or a mild impairment (23%) was higher than for those living in non remote areas (19% and 13% respectively). The proportion of people with either a moderate or a severe or profound impairment was about the same for those living in non remote and remote areas.
+By age 55 years and over, the proportion of people with a moderate, severe or profound hearing impairment (30%) was about the same as for those with a mild impairment (33%), and higher than for those with an impairment in one ear only (19%).
+This section compares some selected educational, employment and health outcomes for people by level of hearing impairment. For the sake of simplicity and to illustrate the distinction in comparative educational, employment, and health outcomes, the discussion that follows focuses on two groups from opposite ends of the hearing spectrum:
+While people with a hearing impairment in one ear only or with a mild impairment are excluded from this section, the data for those two groups is available in the data cubes.
+A total of 18% of people aged 18 years and over with a moderate, severe or profound hearing impairment had completed Year 12 or equivalent, less than half the proportion with no measured impairment (41%).
+  those with no measured hearing impairment, and
+  those with a measured moderate, severe or profound hearing impairment. 
+More than four in 10 (43%) people aged 18 years and over with a moderate, severe or profound hearing impairment had a non school qualification, compared with more than five in 10 (57%) for those with no impairment.People aged 18–64 years with a moderate, severe or profound hearing impairment had different labour force outcomes than people with no measured hearing impairment. For example:
+  37% were employed [5], compared with 57% with no impairment
+  60% were out of the labour force, almost double the proportion of those with no impairment (31%). 
+The proportion of people aged 18 years and over with a moderate, severe or profound hearing impairment who rated their own health as excellent or very good (23%) was less than half the proportion of those with no impairment (47%). Conversely, the proportion who rated their health as fair or poor (45%) was more than double that for people with no impairment (20%).
+Respondents were also asked whether they had a hearing impairment that had lasted, or was expected to last, for at least six months. See Hearing data (appendix) for more information about self reported long term hearing impairment.
+In analysing these results, it should be acknowledged that the hearing test used was not a comprehensive diagnostic test. This means hearing impairment measured at the time of interview may not always relate to a long term hearing impairment. For example, hearing impairment on the day of the test may have been due to short term ear congestion associated with a cold, or limitations with the hearing test, such as being undertaken with background noise present rather than in a soundproof room.
+Despite any limitations of the hearing test, the difference between the proportion of people with a measured hearing impairment and those with a self reported long term hearing impairment assists with identifying:
+Almost eight in 10 (79% or 228,500) people aged seven years and over may have an unreported hearing impairment – that is, they had a hearing impairment in at least one ear measured by the hearing test at the time of interview but did not report having a long term hearing impairment.
+The proportion of people who may have an unreported hearing impairment:
+  the degree to which hearing impairment may be under reported within the Aboriginal and Torres Strait Islander population
+  the demographic characteristics of people who may have an unreported hearing impairment that might assist in the targeting of hearing programs. 
+  was similar for males (77%) and females (80%)
+  was higher for people living in remote areas (84%) than non remote areas (77%)
+  ranged from 66% for people aged 55 years and over to 92% for children aged 7–14 years [6]
+  ranged from 53% for people with a moderate, severe or profound impairment to 87% for people with a hearing impairment in one ear only. 
+The following graphs compare the proportion of people with a hearing impairment measured at the time of interview and the proportion who reported a long term hearing impairment.
+The proportion of people with a measured hearing impairment was higher than for those with a self reported long term hearing impairment across all age groups. For children aged 7–14 years, the proportion with measured hearing impairment (29%) was more than six times higher than reported hearing impairment (4.3%).
+The proportion of people living in non remote areas with a measured hearing impairment (39%) was more than three times higher than the proportion with a reported hearing impairment (12%). For people living in remote areas, the proportion with a measured impairment (59%) was more than five times higher than the proportion with a reported impairment (11%).
+There are two headline findings in the analysis of this hearing data:
+This information has not previously been available as part of a nationally representative dataset. Although measured hearing impairment may not always relate to a long term hearing impairment, these findings expose, for the first time, that under reporting of hearing impairment within the Aboriginal and Torres Strait Islander population may be substantial and warrants further detailed inquiry.
+It is not possible from this data to determine the cause of hearing impairment or the reasons for under reporting within the Aboriginal and Torres Strait Islander population, which points to a need for further research. However, the cultural and social influences that might be contributing to the under reporting and which could be investigated in further research include:
+Determining whether these factors are having an effect on under reporting will require a different research methodology to the quantitative methods used for the National Aboriginal and Torres Strait Islander Health Survey.
+The other significant feature in the data is the connection that can be drawn between hearing impairment and attaining equity in outcomes in education, employment and in achieving good health.
+Data on some social outcomes were not collected in this survey, including interactions with the police, the justice system, and the child protection system. The connection between hearing impairment and areas of social policy such as these remain an under investigated issue and should be included in further research on the impact of hearing impairment and health and wellbeing outcomes for Aboriginal and Torres Strait Islander people.
+  43% of people were found to have some hearing impairment at the time of interview
+  almost eight in 10 people with a measured hearing impairment did not report having a long term hearing impairment. 
+  barriers to obtaining a diagnosis of hearing impairment
+  barriers in managing health conditions which may lead to hearing impairment in the short or long term
+  the cost of hearing aids and other hearing technology
+  fear of stigmatisation and exclusion (such as being bullied or socially excluded) if they identify as having a hearing impairment, particularly for young people in a school environment
+  cultural influences on how hearing impairment and disability is seen within Aboriginal and Torres Strait Islander communities – not as a ‘problem’ but instead an expected and accepted part of the human condition [2, 7]. 
+  People with a measured moderate, severe or profound hearing impairment experience greater inequality in education, employment and health outcomes than people with no measured impairment.
+  The connection between hearing impairment and these observations reinforce that hearing is not just a health issue, it is also a social, education and employment issue.
+  This suggests improvements in hearing health and in the diagnosis and treatment of hearing impairment, particularly among children, would support improved outcomes in these areas.
+  The link between hearing impairment and inequality in educational attainment and employment is also significant for Closing the Gap policy aimed at delivering better life outcomes for Aboriginal and Torres Strait Islander people [3] and other disability policy. It highlights a greater need to understand the impact of hearing impairment in attaining health and social equality for Aboriginal and Torres Strait islander people. 
+  Avery S, 2018, Culture is Inclusion: A Narrative of Aboriginal and Torres Strait Islander People with Disability, First Peoples Disability Network (Australia), Sydney.
+  Senate Community Affairs Reference Committee, Parliament of Australia, 2010, , p 127.
+  National Indigenous Australians Agency, Closing the Gap, <>, last accessed 05/08/2020.
+  Respondents with a hearing impairment in both ears were classified as having a mild, moderate or severe or profound impairment based on the ear with the lowest level of impairment. See Hearing data (appendix) for more information.
+  The estimate for employed has a high Margin of Error and should be used with caution.
+  The estimate for children aged 7–14 years has a high Margin of Error and should be used with caution.
+  See, for example: Ariotti L, 1999, , Australian Journal of Rural Health, 7: 216–222; Avery S, Culture is Inclusion: A Narrative of Aboriginal and Torres Strait Islander People with Disability; Gilroy J, Donelly M, Comar S and Parmenter T, 2016, , Australian Indigenous Health Bulletin, 16(1); King JA, Brough M and Knox M, 2014, Negotiating Disability and Colonisation: the Lived Experience of Indigenous Australians with a Disability, Disability and Society, 25(5): 738–750.

@@ -1,0 +1,22 @@
+Date:
+2020-09-17
+Article Title:
+ Strong employment growth for non-employees
+
+Article Content:
+The number of employed people increased by 111,000 between July and August in seasonally adjusted terms, an increase of 0.9%. Over a similar period, the payroll jobs index decreased by 1.2% (see ).
+The increase in employment, and the difference between the employment and payroll jobs series, can be explained by the strong employment growth for non employees and the differences in the concepts and scope of the employment and payroll jobs measures
+Employed people are categorised according to their 'Status of Employment', which reflects the nature of the employer employee relationship. Employed people are classified in the LFS as either an:
+Owner managers (self employed people) may or may not have employees working for their business.
+In original terms, there was a 44,500 net increase in employment between July and August. This growth in original employment can be attributed to an increase in the number of owner managers (self employed people) without employees, most of whom working in an unincorporated enterprise (e.g. a sole trader), which increased by 50,200 (Chart 1). In contrast, there was minimal growth in the number of employees (up 2,600).
+The increase in owner managers without employees is greater than the overall increase in employment as there was also a 9,300 decrease in the number of Contributing family workers.
+  Employee   that is, a person who works for an employer;
+  Owner manager of an incorporated enterprise   that is, a self employed person who owns and operates their own incorporated business, and are therefore legally separate from their business;
+  Owner manager of an unincorporated enterprise   e.g. a self employed person operating a business as a sole trader; or a
+  Contributing family worker.
+Chart 2 shows the monthly changes in status in employment, indexed to March. It shows that changes in the number of employees and owner managers without employees were relatively similar between April and July. However, they diverged in August, with the number of owner managers without employees returning close to the level in March.
+Payroll jobs are 'employee jobs' for which a payment was reported to the Australian Taxation Office through Single Touch Payroll. They include the jobs held by employees and owner managers of incorporated enterprises (the latter of whom can be paid through the payroll of their business).
+Owner managers of unincorporated enterprises, the largest component of the employment growth in August, are not covered by payroll jobs measures. There is also lower coverage of small businesses (<20 employees) in the payroll jobs data than large and medium businesses. As a result, the increase in owner managers of incorporated enterprises without employees is also less likely to be reflected in the payroll jobs series.
+Chart 3 compares the most recent payroll jobs index with indexes for seasonally adjusted and original employment, and employees plus owner managers of incorporated enterprises (as this is the most comparable employed group within the potential scope of payroll jobs measures). Consistent with Chart 2, it shows that growth in the number of employees (including owner managers of incorporated enterprises) has been slower than for all employed people over the last 2 months, and is also more consistent with the payroll jobs index.
+The chart also shows slightly different phasing of changes according to when employees are no longer being paid, compared with when they are no longer considered to be employed. More information on this and other differences can be found in , which was published in the April and May issues of Labour Force, Australia.
+For further information, email .

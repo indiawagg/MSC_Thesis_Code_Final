@@ -1,0 +1,27 @@
+Date:
+2020-09-24
+Article Title:
+ Impacts of COVID-19 on superannuation funds
+
+Article Content:
+Household wealth (measured as net worth) stood at $11.1 trillion at the end of June quarter 2020. The largest assets were residential assets (measured as land and dwellings) ($7.2 trillion) and superannuation assets (pension entitlements) ($3.1 trillion). Superannuation is the largest financial asset on the household balance sheet. This spotlight looks at the impacts of the COVID 19 pandemic on superannuation funds. 
+The superannuation funds balance sheet evolved rapidly through 2020. In the March quarter 2020, superannuation financial assets contracted ($258.4 billion) as the COVID 19 pandemic heightened uncertainty in the global share markets (measured as equity). By the end of June, the sector had partly recovered with an increase of $130.2b in financial assets, as improved investor sentiment drove valuation gains in share markets. 
+While price effects drove the overall movement in superannuation assets during March and June, there were some significant compositional changes to assets, as seen in the graph below.
+During the March quarter, superannuation funds increased deposit assets by $37.8 billion to: 
+In the June quarter, superannuation funds invested a further $4.1b in deposits assets in anticipation of members accessing a second round of early release payments from 1 July. See  for a description of the conceptual treatment of the policy within these estimates.
+Superannuation funds built the high level of deposits by selling equities and debt securities.
+The largest asset class of superannuation funds are equities, making up 71.4% of total assets as at end of June. During the March and June quarters superannuation funds: 
+Debt securities made up 7.3% of total assets of superannuation as at the end of June. During:
+  meet member requests to switch to lower risk investment options
+  ensure sufficient cash reserves for the withdrawals in the June quarter from the implementation of the government’s policy for early release of superannuation
+  reduced their exposure to non resident (measured as rest of world) equities by selling off $8.7b in March quarter and a further $8.4b in the June quarter. The last time superannuation funds sold off non resident equities was in September quarter 2013.
+  redeemed $6.2b of equity units in non money market and non financial investment funds in March quarter.
+  March quarter, superannuation funds sold $9.9b of long term and $4.4b of short term debt securities issued by the Commonwealth government and non residents.
+  June quarter, with the increased issuance of debt securities, superannuation funds bought $11.9b of short and long term debt securities issued by authorised deposit taking institutions, the Commonwealth government and non residents.
+The largest liability of superannuation funds are the pension entitlements (measured as equity in reserves of pension funds) of households, which are in turn financial assets of households.
+Transactions of pension entitlements are made from employer and employee (includes voluntary) contributions plus investment income earned by the superannuation funds less benefits paid out and administrative expenses.
+Transactions of pension entitlements were $18.4b during June quarter, the weakest June quarter estimate since 2010. This was due to: 
+  $18.1 billion of benefits being paid out under the early release of superannuation scheme
+  lower employer and employee contributions due to jobs losses across the economy
+  lower voluntary employee contributions as household saved for COVID 19 related emergencies
+  lower superannuation investment income due to significant decline in dividend income

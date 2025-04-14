@@ -1,0 +1,32 @@
+Title: Kleine bedrijven minder vaak slachtoffer cyberaanval
+Date: 2018-10-18 22:00:00 UTC
+
+Lead Text:
+                Kleine bedrijven hebben minder vaak te maken met een cyberaanval dan grotere. Van de bedrijven met 2 tot 10 werkzame personen werd 9 procent in 2016 geconfronteerd met een ICT-incident dat van buitenaf werd veroorzaakt. Bij bedrijven met 250 of meer werkzame personen kwam dit bij 39 procent voor. Voor beide groepen geldt dat deze incidenten bij de helft van de getroffen bedrijven tot kosten hebben geleid. Dit meldt het CBS op basis van de Cybersecuritymonitor 2018.
+            
+
+Article Content:
+
+
+Bedrijven met 250 of meer werkzame personen hadden in 2016 met 23 procent meer last van uitval door cyberaanvallen van buitenaf dan kleine bedrijven met 2 tot 10 werkzame personen (6 procent). Van alle  kwam uitval door storingen in alle grootteklassen het meeste voor. Ook daar hadden grotere bedrijven met 55 procent meer last van dan kleine bedrijven (21 procent).
+
+Dat grotere bedrijven meer last hebben van ICT-incidenten kan samenhangen met het feit dat daar meer mensen met een computer werken, wat de kans op incidenten groter maakt. Daarnaast hebben grotere bedrijven ook vaak een complexere ICT-infrastructuur, waarmee meer mis kan gaan.
+
+
+Bij kleine bedrijven industrie en ICT vaak slachtoffer
+Het aantal ICT-incidenten verschilt per bedrijfstak . Zo geven vooral de kleine bedrijven in de ICT-sector (12 procent) en de industrie (10 procent) vaak aan last te hebben van ICT-incidenten door aanvallen van buitenaf. Kleine bedrijven in de horeca (6 procent) en de gezondheids- en welzijnszorg (5 procent) hadden minder vaak te kampen met cyberaanvallen.
+Vaker interne oorzaak ICT-incidenten kleine bedrijven
+ICT-incidenten kunnen zowel ontstaan door een aanval van buitenaf als door een interne oorzaak, zoals verkeerd geïnstalleerde soft- of hardware of onbedoelde onthulling van gegevens door een medewerker. Ten opzichte van grotere bedrijven hebben ICT-incidenten bij kleine bedrijven vaker een interne oorzaak. Bij kleine bedrijven met 2 tot 10 werkzame personen hadden 2 op de 3 ICT-incidenten een interne oorzaak. Bij grotere bedrijven met 250 of meer werkzame personen was dat 2 op de 5.
+
+
+ICT-incidenten bij kleine bedrijven  in de gezondheids- en welzijnszorg hadden het vaakst een interne oorzaak (84 procent). Bij de ICT-sector is dit aandeel 60 procent.
+Minder dan tien procent bedrijven meldt ICT-incident
+Van de bedrijven met een ICT-incident meldt 7 procent dit bij één of meerdere instanties zoals de politie, de Autoriteit Persoonsgegevens, een securityteam of hun bank. De grootste bedrijven melden ICT-incidenten veel vaker (41 procent) dan de kleinste bedrijven (6 procent). Grote bedrijven melden deze ICT-incidenten het vaakst bij de Autoriteit Persoonsgegevens; daarna worden bij de politie de meeste meldingen gedaan. De kleinste bedrijven melden incidenten het vaakst bij hun bank.
+
+
+
+Kleine bedrijven nemen minder veiligheidsmaatregelen
+Kleine bedrijven krijgen minder vaak met ICT-incidenten te maken en treffen in vergelijking met grote bedrijven minder veiligheidsmaatregelen. Gedacht moet worden aan het installeren van antivirussoftware, een beleid voor sterke wachtwoorden en authenticatie via een software- of een hardware-token. Van de kleine bedrijven neemt 60 procent drie of meer van de gevraagde maatregelen, terwijl dit voor de bedrijven met 250 of meer werkzame personen 98 procent is.
+
+
+

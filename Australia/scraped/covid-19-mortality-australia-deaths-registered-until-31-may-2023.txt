@@ -1,0 +1,116 @@
+Date:
+2023-06-28
+Article Title:
+ COVID-19 Mortality in Australia: Deaths registered until 31 May 2023
+
+Article Content:
+  18,012 deaths where people died with or from COVID 19 that occurred by 31 May 2023 have been registered and received by the ABS. 
+  The underlying cause of death for 14,289 (79.3%) of these people was COVID 19. 
+  There were a further 3,723 people who died of other causes (e.g. cancer) but COVID 19 contributed to their death.  
+  Chronic cardiac conditions were the most common pre existing chronic condition for those who had COVID 19 certified as the underlying cause of death.
+  310 Aboriginal and Torres Strait Islander people died from or with COVID 19 since August 2021. 
+The Coronavirus Disease 2019 (COVID 19) is a respiratory infection caused by a new coronavirus. On 11 March 2020 the World Health Organization (WHO) declared COVID 19 to be a pandemic.
+There are 18,012 death registrations that have been received by the ABS where an individual is certified as having died from or with COVID 19 between the start of the pandemic and 31 May 2023. Of the 563,903 death registrations received by the ABS (both doctor and coroner certified) in Australia during the pandemic period, 3.2% are of people who have died with or from COVID 19. This number of deaths is a preliminary figure and represents only those deaths for which registration has been completed through the jurisdictional Registries of Births, Deaths and Marriages (the civil registration system). The number of deaths of people who have died from or with COVID 19 during this time period will increase as additional registrations are received by the ABS. Deaths which occurred in the most recent published months will have the largest increases as more registrations are received. 
+Data published by the ABS is collected through the civil registration system. Civil registration based data is not directly comparable with that released from disease surveillance systems which are designed to release information rapidly on both infections and mortality. 
+Information about mortality sourced from the registration based system takes longer to receive than information reported through the surveillance system, but it is more comprehensive and can provide important additional insights into deaths from COVID 19. Cause of death information is sourced from the Medical Certificate of Cause of Death (MCCD), which enables identification of the underlying cause of death and other associated causes. These data sources also provide demographic information about the decedent (e.g. age, sex and country of birth).
+There were 18,332 deaths which occurred and were registered by 31 May 2023 and had COVID 19 written as a term on the death certificate. The composition of these 18,332 deaths is as follows: 
+Deaths due to COVID 19: 
+These 14,289 deaths are considered to be "due to" COVID 19 and are included in underlying cause mortality tabulations in this report.
+COVID 19 related deaths: 
+Other deaths include: 
+  14,075 with an underlying cause of death assigned to acute COVID 19 infection with the virus being confirmed by PCR or rapid antigen testing. 
+  187 deaths that were due to long term effects of COVID 19 (e.g. post COVID 19 condition, long COVID 19). 
+  23 deaths that were certified as being due to suspected COVID 19 with the virus not confirmed through testing at the time of certification.
+  4 deaths that were certified as Multisystem inflammatory syndrome associated with COVID 19.
+  3,723 deaths which were COVID 19 related. This is where the person either died with COVID 19 (confirmed or suspected) or had complications from a previous COVID 19 infection (e.g. post COVID 19 condition) but the virus was not the underlying cause of death. While COVID 19 did not directly cause the death in these people, it was still considered to contribute to death. These deaths are included in COVID 19 related death tabulations of this report (i.e. people dying with COVID 19) and are included in overall totals. 
+  57 deaths which had a negative COVID 19 result recorded on the death certificate. When a negative COVID 19 test result is recorded on a death certificate an ICD 10 code of “Z03.8 Examination and observation for other specified reasons” is assigned to capture the information communicated by the doctor. These deaths are not included in COVID 19 mortality reporting. 
+  266 deaths which occurred in people who had COVID 19 but recovered and had no lasting complications, or COVID 19 was listed on the death certificate but did not contribute to death. These mentions of COVID 19 on the death certificate are captured with an ICD 10 code of “U08.9 Personal history of COVID 19”. These deaths are not included in COVID 19 mortality reporting. 
+  6 deaths of neonates (infants aged under 28 days) where a personal history of COVID 19 was mentioned as a condition in the mother. The infant was not COVID 19 positive. All diseases in the infant and the mother certified on a Medical Certificate of Cause of Perinatal Death are assigned an ICD 10 code. These mentions of COVID 19 on the death certificate are captured with an ICD 10 code of “U08.9 Personal history of COVID 19”.  These deaths are not included in COVID 19 mortality reporting. 
+Australian cause of death data is coded to the International Classification of Diseases, 10th revision which is governed by the WHO. Case definitions, certification guidelines and coding rules have been implemented for international use.
+A death directly due to COVID 19 is defined by the WHO as a death resulting from a clinically compatible illness, in a probable or confirmed COVID 19 case, unless there is a clear alternative cause of death that cannot be related to COVID disease (e.g. trauma). There should be no period of complete recovery from COVID 19 between illness and death.
+In response to the emergence of COVID 19 the WHO issued new emergency codes to be used when coding causes of death for statistical purposes.
+WHO coding rules stipulate that when a country routinely tests for COVID 19, U07.1 should be assigned as the default code. In the Australian context COVID 19 may be confirmed by polymerase chain reaction (PCR) or rapid antigen testing (RAT).
+This code is used for suspected or clinical diagnoses of COVID 19 where testing is not completed or inconclusive.
+This code is used when:
+These deaths are not included in COVID 19 mortality tabulations.
+This code is used to link long term conditions including chronic lung conditions that are the result of the virus. These deaths are included in COVID 19 mortality tabulations.
+This code is used to identify people who have died from a multi inflammatory response syndrome associated with COVID 19. 
+A further code “Z03.8 Examination for observation and other specified reasons” can be used to record a negative test result in order to capture this information on the death certificate. These deaths are not tabulated as being due to COVID 19.
+The international rules and guidance for selecting the underlying cause of death for statistical tabulation apply when COVID 19 is reported on a death certificate. COVID 19 is not considered as due to, or as an obvious consequence of, other diseases and conditions. These rules are also applied to cause of death coding for Influenza and selected other infectious diseases. There is no provision in the classification to link COVID 19 to other causes or modify its coding in any way.
+Almost all deaths due to COVID 19 in Australia have confirmation of the virus through testing. Of the 14,289 registered COVID 19 deaths occurring by 31 May 2023, 14,262 (99.8%) were coded to U07.1, (confirmed) COVID 19, virus identified. There were 23 (0.2%) deaths where the doctor certified that it was a suspected case of COVID 19 with no confirmation through testing recorded at the time the MCCD was completed. There were 4 deaths that were certified as Multisystem inflammatory syndrome associated with COVID 19.
+  U07.1 COVID 19 virus identified
+  U07.2 COVID 19 virus not identified
+  U08 Personal history of COVID 19
+  A person has recovered from COVID 19 and no long term effects have been certified as contributing to an individual’s death.
+  COVID 19 is listed on the death certificate but it did not contribute to the death. 
+  U09 Post COVID 19 condition
+  U10 Multisystem inflammatory syndrome associated with COVID 19
+The table below shows the number of registered deaths due to COVID 19 over the course of the pandemic by month of occurrence.  
+  The number of deaths occurring in April and May 2023 is not reflective of the true total and will increase as additional death registrations are received by the ABS. Other time periods may also change if the death registration process has been delayed. 
+  Deaths due to COVID 19 fell substantially in February 2023 after the recent peak in December 2022. Since February 2023, deaths have remained relatively low. 
+  Cumulatively, the highest number of deaths have occurred during the Omicron wave. 
+  Males had a higher number of registered deaths (7,855) due to COVID 19 than females (6,434 deaths).
+  The highest number of COVID 19 deaths occurred among those aged 80 89 years (5,362). For females, the age group with the highest number of COVID 19 deaths was those aged over 90 years.
+  Males aged under 80 years had a higher number of deaths than females (2,820 compared with 1,589).
+  The median age for those who died from COVID 19 was 85.7 years (83.9 years for males, 87.6 years for females).
+  As of 31 May 2023, the most registered deaths due to COVID 19 had occurred in New South Wales (5,040) and Victoria (4,900).
+  Around seven out of every ten deaths due to COVID 19 have occurred in New South Wales and Victoria.
+  Additional deaths due to COVID 19 for this time period are expected to be received in coming months for most jurisdictions as death registrations are finalised. 
+COVID 19 was the underlying cause of death for 14,289 registered deaths that have been received by the ABS occurring up to 31 May 2023. The WHO defines the underlying cause of death as the disease or condition that initiated the train of morbid events leading to death. Diseases and conditions reported on the MCCD that are not the underlying cause of death are referred to as associated causes. Associated causes can be either: 
+Examining conditions in the causal sequence can provide insights into how a disease progresses and leads to death. Examining pre existing chronic conditions provides an understanding of risk factors that might contribute to death from a particular disease. Both can inform health prevention and intervention policies.
+Most deaths due to COVID 19 have other conditions listed on the death certificate (95.7%). The table below shows that over half of all certificates had both a causal sequence and pre existing conditions listed on the certificate. 
+On average, deaths due to COVID 19 had 3.1 other diseases and conditions certified alongside the virus. 
+  Conditions listed in the causal sequence (the chain of events leading to death). These are conditions that were caused by COVID 19 and its complications; or
+  Pre existing chronic conditions, often listed in Part II of the MCCD as ‘other conditions relevant to the death’. These are conditions that a person had before they contracted COVID 19.
+COVID 19 is a respiratory illness that weakens the immune system causing inflammation. This commonly leads to poor respiratory outcomes such as viral pneumonia and secondary infection. Other manifestations such as acute kidney injury and cardiac complications have also been reported but these are less common. 
+Disease progressions were described in a causal sequence by the certifier in 10,078 (70.5%) of the 14,289 deaths due to COVID 19 outlined in this report. Among these 10,078 deaths:
+  Acute respiratory diseases were the most commonly certified diseases listed as a consequence of COVID 19.
+  Pneumonia was present as a consequence of COVID 19 in nearly 60% of deaths where a causal sequence was certified by a doctor.
+  Other acute outcomes including infections (e.g. sepsis) and renal complications were certified in 11.5% and 10.1% of deaths respectively.
+People with pre existing chronic conditions have greater risk of developing severe illness from COVID 19. While pre existing chronic conditions do not cause COVID 19, they increase the risk of COVID 19 complications and therefore increase the risk of death. 
+Pre existing chronic conditions were reported on death certificates for 11,560 (80.9%) of the 14,289 deaths due to COVID 19 deaths outlined in this report. Of these 11,560 deaths:
+  Chronic cardiac conditions including coronary atherosclerosis, cardiomyopathies and atrial fibrillation were the most commonly certified co morbidities, present in 39.6% of the 11,560 deaths.
+  Dementia including Alzheimer's disease was certified as a pre existing condition in 30.1% of deaths due to COVID 19 with a chronic condition mentioned.
+  Chronic respiratory conditions were certified as a pre existing condition in 18.0% of the deaths with a chronic condition mentioned.
+  Cancer was a pre existing condition in 16.8% of the 11,560 deaths. Blood and lymph cancers (e.g. leukaemia) were the most commonly certified cancer type among those deaths. 
+  Diabetes, a condition that weakens the immune system, was certified as a pre existing condition in 15.6% of deaths with a chronic condition mentioned.
+  The type of comorbidities most commonly present in Australian deaths due to COVID 19 are consistent with those reported internationally.
+  Those who died of COVID 19 with a country of birth of overseas, had an age standardised death rate 1.4 times higher than that of people who were born in Australia (16.1 deaths per 100,000 people versus 11.4 deaths).
+  Those with a country of birth in the Middle East had the highest age standardised death rate at 36.0 deaths per 100,000 people.
+  Those with a country of birth in Sub Saharan Africa had the lowest age standardised death rate at 9.7 per 100,000 people.
+  Those born in the Eastern European region had the highest median age at death at 91.0 years. Those born in the Oceania and Antarctic region (excluding Australia) had the lowest median age at death at 74.6 years. 
+Socio economic indexes rank areas in Australia according to relative socio economic advantage and disadvantage.
+  The number of people who died due to COVID 19 was nearly 3 times higher in those in quintile 1 (most disadvantaged) than those in quintile 5 (least disadvantaged). For males the ratio is 2.6, while for females the ratio is 3.2.
+  Proportions of COVID 19 mortality were similar for both males and females across each quintile.
+  People living in the least disadvantaged areas (quintile 5) had the lowest numbers of deaths due to COVID 19.
+For death registrations received by the ABS up to 31 May 2023, there were 3,723 people who died with COVID 19 rather than directly from the virus itself. In this article, these deaths are referred to as COVID 19 related deaths.
+A COVID 19 related death is one where there is a disease or injury pathway to death that is not directly caused by the virus. For example, a person may have late stage cancer that has metastasised extensively causing organ damage leading to death. This person may also have contracted COVID 19. While the virus or its complications may have negatively impacted health in an immuno compromised person, the virus itself did not cause the terminal event leading to death (e.g. organ failure caused by metastases). In this example, the underlying cause of death would be recorded as cancer and COVID 19 would be considered an associated cause of death.
+Most recorded COVID 19 related deaths (3,714 deaths, 99.8%) occurred during the Delta and Omicron waves. There were 9 COVID 19 related deaths (0.2%) recorded during wave 1 and 2 of the pandemic in Australia. The number of COVID 19 related deaths is expected to increase as additional registrations are received by the ABS. 
+Of the 3,723 people who died with COVID 19, cancers were the most common underlying cause of death. Blood and lymph cancers (e.g. leukaemia) were the most commonly certified cancer type among those deaths. Circulatory system diseases were the second most common underlying cause of death in COVID 19 related deaths. Ischaemic heart diseases were the most common cause of circulatory system disease for those who died with COVID 19. 
+Aboriginal and Torres Strait Islander peoples are at heightened risk of more severe outcomes from COVID 19. There are several reasons for this, including higher rates of socioeconomic disadvantage, higher rates of chronic diseases and limited access to culturally safe health care.
+This article presents information on Aboriginal and Torres Strait Islander people who have died ‘from’ COVID 19 (where it directly caused conditions leading to death) or ‘with’ COVID 19 (where it was a contributing factor but did not directly cause death). For most of the analysis deaths ‘from’ and ‘with’ COVID 19 are presented together due to small numbers of deaths.
+There were 310 COVID 19 associated deaths of Aboriginal and Torres Strait Islander people between August 2021 and May 2023 across all jurisdictions in Australia. There were no recorded deaths due to COVID 19 of Aboriginal and Torres Strait Islander people in 2020 through to July 2021.
+There have been deaths recorded in all jurisdictions of Aboriginal and Torres Strait Islander people. However, the rest of this analysis focusses on deaths registered in New South Wales, Queensland, Western Australia, South Australia and the Northern Territory only. Only these five states and territories have evidence of a sufficient level of Indigenous identification and high enough numbers of Aboriginal and Torres Strait Islander deaths to support mortality analysis.
+There were 283 Aboriginal and Torres Strait Islander people who had COVID 19 certified as a cause of death across the five jurisdictions. Of these people:
+  189 died due to COVID 19. This is where the virus caused complications that led directly to death. A further 94 people died “with COVID 19”. This is where another disease caused the terminal complication causing death but COVID 19 was a contributing factor.
+  The age standardised death rate for deaths from COVID 19 is similar for Aboriginal and Torres Strait Islander males and females. Aboriginal and Torres Strait Islander females had a higher death rate for deaths with COVID 19 than males.
+  Of those who died from or with COVID 19, a higher proportion of Aboriginal and Torres Strait Islander people died with COVID 19 as a contributing factor compared with non Indigenous people (33.2% compared with 24.2%).
+  The mortality rate from COVID 19 is 1.6 times higher in Aboriginal and Torres Strait Islander people compared to non Indigenous people.
+  For Aboriginal and Torres Strait Islander females, the rate of mortality with COVID 19 is nearly three times higher than that of non Indigenous females.
+  The highest age specific death rate for Aboriginal and Torres Strait Islander people is in those aged 75 years and over. 
+  Aboriginal and Torres Strait Islander females aged 45 54 and 75 years and over had higher age specific death rates than males.
+  The rate of mortality in Aboriginal and Torres Strait Islander people aged 45 54 and 55 64 years of age is 4.3 times higher than non Indigenous people of the same age.
+Additional causes of death certified on the Medical Certificate of Cause of Death provides more information on mortality from COVID 19. Examining conditions in the causal sequence can provide insights into how a disease progresses and leads to death. Examining pre existing chronic conditions provides an understanding of risk factors that might contribute to death from a particular disease. Both can inform health prevention and intervention policies.
+Aboriginal and Torres Strait Islander people have a high prevalence of chronic diseases such as diabetes, renal disease, and cardiovascular disease with an earlier onset of these conditions. Chronic disease is a leading contributor to the burden of disease among Aboriginal and Torres Strait Islander peoples.
+For the Aboriginal and Torres Strait Islander people who died from COVID 19:
+  Over 60% developed pneumonia as a consequence of COVID 19. 
+  Chronic cardiac conditions were the most common pre existing condition present in 37.9% of deaths.
+  Diabetes, chronic respiratory conditions and chronic kidney diseases were present in around 24 34% of deaths. 
+  A higher proportion of Aboriginal and Torres Strait Islander people had diabetes, chronic kidney disease, chronic respiratory diseases, hypertension and obesity listed as pre existing chronic conditions compared to non Indigenous people.
+  Aboriginal and Torres Strait Islander people had an average of 3.9 additional conditions listed on the death certificate. This compares to an average of 3.4 additional conditions on the death certificate among non Indigenous people.
+SEIFA ranks areas in Australia according to relative socio economic advantage and disadvantage. Nearly 50% of the Aboriginal and Torres Strait Islander population are in quintile 1 (most disadvantaged). The majority of deaths associated with COVID 19 deaths occurred among Aboriginal and Torres Strait Islander people in quintile 1 (most disadvantaged).
+Those who live in regional areas can be susceptible to poorer health outcomes. Aboriginal and Torres Strait Islander peoples living in remote areas have a lower life expectancy and higher rates of chronic disease than people living in urban areas. The table below shows mortality rates by region for those who died from COVID 19. Age standardised death rates are presented below to enable comparison between populations with different age structures for those living in different regions.
+For Aboriginal and Torres Strait Islander people who died from or with COVID 19:
+  The highest number of deaths for Aboriginal and Torres Strait Islander people occurred among those living in inner and outer regional areas.
+  The highest age standardised death rate for Aboriginal and Torres Strait Islander people was among those living in remote and very remote areas.
+  The age standardised death rate was higher for Aboriginal and Torres Strait Islander people across all remoteness areas compared to non Indigenous people. The rate ratio was highest for those living in remote and very remote communities (3.9 times higher). 

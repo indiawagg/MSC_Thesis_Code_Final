@@ -1,0 +1,84 @@
+Date:
+2024-04-23
+Article Title:
+ Insights Into Government Finance Statistics, Annual, 2022-23
+
+Article Content:
+Net operating balance
+Australia’s net operating balance was $38.3 billion in 2022 23, up $73.0 billion from the previous year. This was the second largest increase over the past decade and follows a $110.8 billion increase in 2021 22. In 2022 23 Australia’s government revenue rose 11.1% (up $92.5 billion) and expenses rose 2.3% (up $19.5 billion). 
+Taxation revenue was the largest contributor to the rise in total revenue, driven by strength in personal income tax, company income tax, GST, and payroll tax. Royalty income was the second largest contributor, driven by the introduction of progressive coal royalty rates in Queensland on 1 July 2022, and high commodity export volumes during 2022 23 (a).
+The largest contributors to the growth in total expenses for 2022 23 were social benefits to households in goods and services, other employee expenses, and interest expenses.
+Partially offsetting the rise in total expenses were falls in subsidies and current monetary transfers to households.
+Growth in social benefits to households was driven by higher costs for the National Disability Insurance Scheme (NDIS), Aged Care Subsidy, Child Care Subsidy, and state power bonuses for households. 
+Other employee expenses rose relatively strongly with increased wages from re negotiated enterprise bargaining agreements, bonuses, cost of living adjustments and higher levels of staffing for frontline services. 
+Interest expenses increased due to higher interest rates and additional government borrowing.
+Subsidy expenses and current monetary transfers to households fell in 2022 23 due to the cessation of large COVID 19 and natural disaster payments (e.g. Commonwealth State Joint Business Support Program, Pandemic Leave Disaster Payment, and the COVID 19 Disaster Payment).
+  is a summary measure that reflects the on going sustainability of government operations
+  is derived by transactions in revenues less transactions in expenses
+  is equal to the change in net worth due to transactions.
+  Source: 
+Australia’s taxation revenue increased 10.6% (up $72.7 billion) and accounted for around 78.6% of the growth in total revenue in 2022 23. Commonwealth taxation revenue accounted for 93.0% (up $67.6 billion) of the rise in taxation revenue while state and local contributed 7.0% (up $5.1 billion).
+Commonwealth taxation increased 12.3% (up $67.6 billion) in 2022 23. Commonwealth taxation was largely driven by personal income tax, company income tax, goods and services tax (GST), and excises on crude oil. Partially offsetting the rise in Commonwealth taxation was a 61.0% (down $16.2 billion) fall in income tax paid by superannuation funds.
+Personal income tax increased 14.9% (up $36.2 billion) due to strong growth in employment (a) and wages (b). Company income tax increased 20.9% (up $26.8 billion) due to high profitability in the mining sector driven by sustained high global prices for commodities produced by that sector.
+GST increased 14.2% (up $10.7 billion) due to increased consumption of items subject to GST (c).
+Excises on crude oil LPG and petroleum products increased 18.1% (up $3.3 billion) due to higher CPI based indexation rates (d) combined with increased consumption volumes following restrictions the year before.
+  Source: 
+  Source: 
+  Source: 
+  Source: 
+State and local taxation revenue increased 3.9% (up $5.2 billion) in 2022 23. State and local taxation was largely driven by state payroll taxes, land taxes, and taxes on gambling devices.
+Payroll tax rose 20.2% (up $5.7 billion) due to the strength in the labour market (a) (b) and pay increases in the health, aged care, and education sectors. In 2022 23 Victoria and Queensland also adopted new mental health and wellbeing surcharges levied through payroll tax to fund expanded mental health services.
+Land tax rose 21.2% (up $2.6 billion) and was driven by significant increases in land valuation rates in Victoria and New South Wales (c) (d).
+Taxes on gambling devices rose 37.8% (up $1.5 billion), driven by increased activity in hotels and clubs in New South Wales, Victoria, and Queensland.
+In 2022 23 the rise in state and local taxation revenue was partially offset by a decline of 20.0% ($7.1 billion) in state stamp duties on conveyances. This reflected softening in the New South Wales, Victorian and Queensland property markets, relative to the record high house prices in 2021 22.
+  Source: 
+  Source: 
+  Source: 
+  Source: 
+The Classification of the Functions of Government (COFOG) disaggregates government expenditure by the purpose for which the funds are used. The classification of the functions of government   Australia (COFOG A) are outlined in the .
+Australian expenses in 2022 23 were $885.5 billion.
+The main contributors to the growth in expenses were:
+The rise in total expenses was partially offset by a fall in economic affairs, which decreased $13.5 billion (down 23.1%).
+  $14.8 billion rise in general public services (up 18.8%) 
+  $6.7 billion rise in education (up 5.4%)
+  $2.4 billion rise in environmental protection (up 12.6%) 
+  $2.1 billion rise in social protection (up 0.9%)
+  $1.1 billion rise in health (up 0.6%)
+General public services grew significantly, increasing 18.8% (up $14.8 billion) and accounted for 10.6% of total general government expenses in 2022 23. The increase in general public services was driven by public debt transactions. 
+Public debt transactions increased 33.0% (up $13.3 billion), driven by interest expenses which rose due to higher interest rates, additional government borrowing and accrued interest on defined benefit superannuation across all Australia.
+Education increased 5.4% (up $6.7 billion) and accounted for 14.7% of total general government expenses in 2022 23. This was driven by broad increases in expenses across school and tertiary sectors.
+Pre primary and primary education and secondary education increased 7.6% (up $5.0 billion) and were the largest component of the increase in education expenses. Employee costs for government schools rose due to increased wages and cost of living adjustments. In addition, payments to non government schools and funding for kindergarten and preschool contributed to the rise in pre primary and primary education expenses. 
+Tertiary education increased 4.1% (up $1.7 billion) in 2022 23, due to a recovery in international student numbers in Australia following the COVID 19 pandemic and education services provided by universities.
+Environmental protection increased 12.6% (up $2.4 billion) and accounted for 2.4% of total general government expenses in 2022 23. This was driven by increased subsidy payments for the creation of Renewable Energy Certificates from large scale renewable energy generation and additional funding to establish the new Commonwealth Department of Climate Change, Energy, the Environment and Water.
+Social protection increased 0.9% (up $2.1 billion) and accounted for 28.1% of total general government expenses in 2022 23. The increase in social protection was driven by government payments for disability, old age, and family and children. 
+Disability payments increased 13.6% (up $8.4 billion) due to a rise in individual support costs and the number of people with disability participating in the NDIS (a). 
+Old age payments increased 8.8% (up $7.8 billion) due to an increase in the Aged Care Subsidy, age pension, and other aged care support.
+Family and children payments increased 4.5% (up $2.1 billion) due to increased family tax and other assistance benefits. Child Care Subsidy rose due to the introduction of higher Child Care Subsidy rates for eligible families and additional support for second and subsequent children during 2022 23.
+The increase in social protection was partially offset by a decline in social exclusion not elsewhere classified n.e.c. of 66.9% ($13.5 billion), following the cessation of the Pandemic Leave Disaster Payment and COVID 19 Disaster Payment.
+  Source: 
+Health increased 0.6% (up $1.1 billion) and accounted for 20.6% of total general government expenses in 2022 23. The increase in health was driven by medical products appliances and equipment, and hospital services. The increase in health expenses was partially offset by a fall in public health services.
+Medical products appliances and equipment increased 14.1% (up $2.6 billion) due to an increase in the Pharmaceutical Benefit Scheme, with increased participation and additional medical listings.
+Hospital services increased 2.4% (up $1.5 billion), noting the rate of growth in 2022 23 is lower compared to previous years as pandemic response measures have ceased and COVID 19 cases have fallen.
+Public health services decreased 17.6% (down $2.6 billion) due to lower distribution of rapid antigen tests (RATs) and COVID 19 vaccinations during 2022 23, compared to 2021 22.
+Economic affairs decreased 23.1% (down $13.5 billion) and accounted for 5.1% of total general government expenses in 2022 23. The decrease in economic affairs was driven by general economic, commercial, and labour affairs.
+General economic, commercial, and labour affairs decreased 63.7% (down $17.6 billion) and was the largest contributor to the fall in economic affairs due to the cessation of the Commonwealth State Joint Business Support Program in 2022 23. 
+The fall in total economic affairs was partially offset by other economic affairs categories. Other economic affairs rose 13.3% (up $4.1 billion) due to state energy rebates and higher Research and Development Tax Incentive subsidies.
+Australia's other employee expenses (a) increased 6.9% (up $13.4 billion) in 2022 23, which is the largest increase in other employee expenses since 2008 09. The main contributors were increased wages and numbers of frontline employees (b), bonus payments, primarily in health, education, and public order and safety. Other employee expenses accounted for 23.4% of total general government expenses in 2022 23.
+State government other employee expenses increased 7.0% (up $9.2 billion) for 2022 23. Other contributors to the increase in other employee expenses were:
+  Commonwealth up 9.2% (up $2.8 billion)
+  local government up 6.2% (up $0.9 billion)
+  universities up 2.5% (up $0.4 billion).
+  Other employee expenses include wages, salaries and supplements, fringe benefit tax, workers compensation and other employee expenses n.e.c.
+  Source: 
+Net debt is the sum of government securities and other interest bearing liabilities, minus the sum of cash and deposits, advances paid and investments, loans, and placements. This can be used to assess the financial position and ability of governments to meet debt obligations.
+Australia net debt (L2) (a) was $783.8 billion in 2022 23. This is an increase of $4.6 billion (up 0.6%) from 2021 22. 
+Net debt (L2) as a percentage of GDP can be used as an indicator of the ability of governments to make future payments on its debt. Net debt (L2) as a percentage of GDP (b) fell from 33.4% in 2021 22 to 30.6% in 2022 23.
+  L2 is comparable to government reporting of net debt under Australian accounting standards.
+  Source: 
+The main contributors to the 0.6% increase in net debt (L2) in 2022 23 were:
+  3.0% fall in National (a) net debt (down $18.1 billion)
+  12.8% rise in total state net debt (up $24.6 billion).
+  National includes both the Commonwealth and Control not further defined (n.f.d.) levels of government. The control n.f.d. sector contains units where jurisdiction is shared between two or more governments, or classification of a unit to a jurisdiction is otherwise unclear. The main types of units currently falling into this category are the public universities.
+A matrix style presentation enables users to analyse different measures of debt and other liabilities.
+  L1 through L3 focus on governments’ liquidity.
+  L4 through L6 focus on governments’ longer term budget sustainability.

@@ -1,0 +1,1808 @@
+Article Content:
+ Inleiding
+
+1.1 Aanleiding en doel van het onderzoek
+
+Rijkswaterstaat Water, Verkeer en Leefomgeving (WVL) heeft het Centraal Bureau voor de Statistiek de opdracht gegeven voor het samenstellen van basisbestanden over het goederenwegvervoer voor de statistiekjaren 2015, 2016, 2017, 2018 en 2019.
+
+De basisbestanden vormen de input voor verkeers- en vervoersmodellen, die een belangrijke rol spelen in beleidsvorming. Maatregelen die verkeer en vervoer beïnvloeden, zoals de aanleg van infrastructuur of vormen van beprijzing, worden vrijwel altijd afgewogen door het in kaart brengen van de effecten van deze maatregelen met modellen. De modellen moeten voortdurend worden aangepast aan de hand van nieuwe inzichten en (technische) mogelijkheden. Behalve bij verkeers- en vervoersmodellen worden de basisbestanden ook gebruikt bij tal van andere specifieke studies en onderzoeken, bijvoorbeeld in het kader van MIRT-verkenningen.
+
+In de afgelopen dertig jaar zijn er voor diverse jaren basisbestanden goederenvervoer (BBGV) aangemaakt: 1986, 1992, 1998, 2004, 2011 en in de periode 2014–2019. De BBGV’s zijn omvangrijk en complex. De basisbestanden goederenwegvervoer zijn slechts één onderdeel van de BBGV. Zo bestaan er naast die van het goederenwegvervoer ook BBGV’s voor de binnenvaart en spoor. Voor 1998 werden de bestanden van deze modaliteiten aangevuld met zeevaart en pijpleiding als onderdeel van een transportketenbestand. Dit rapport richt zich uitsluitend op de modaliteit wegvervoer.
+
+In 2019 heeft CBS voor het statistiekjaar 2018 gedetailleerde wegvervoer-bestanden ter beschikking besteld voor het produceren van een basisbestand goederenwegvervoer. Het werken met verouderde basisdata leidt tot minder betrouwbare uitkomsten van de modellen en analyses. Vanuit dit oogpunt zijn actuele en betrouwbare basisbestanden essentieel.
+
+Het doel van de opdracht is de actualisatie van het basisbestand wegvervoer 2018. Dit doel sluit naadloos aan bij de missie van het Centraal Bureau voor de Statistiek om betrouwbare en samenhangende statistische informatie te publiceren, die inspeelt op de behoefte van de samenleving. Het resultaat is een set wegvervoerbestanden van het basisjaar 2019. Deze set is gelijk aan die van het statistiekjaar 2018. Ook de gehanteerde methoden zijn gelijk aan die van de basisbestanden 2018. Vanaf 2018 zijn de bestelauto’s (ten opzichte van 2016) wel met een verbeterde vragenlijst, en voor het beroepsvervoer een (iets) hogere steekproef waargenomen (zie paragraaf 2.1.2).
+
+1.2 Opzet van het onderzoek
+
+Het doel van de statistiek van het wegvervoer is het samenstellen van overzichten (per kwartaal) met informatie over het binnenlandse en internationale goederenvervoer over de weg. Deze informatie wordt gespecificeerd naar aantal ritten, afgelegde afstand, vervoerd gewicht en vervoersprestatie (ladingtonkilometers). De goederenstromen worden uitgesplitst naar goederensoort en naar landen en regio’s van lading en lossing. Daarnaast wordt er onderscheid gemaakt tussen beroepsvervoer (vervoer van goederen tegen betaling voor rekening van derden) en eigen vervoer (het vervoer van goederen voor eigen rekening).
+
+Met het basisbestand kan het verkeer en vervoer over de weg binnen Nederland – maar ook van en naar Nederland – door zowel Nederlandse als buitenlandse voertuigen worden beschreven. Het basisbestand goederenwegvervoer bestaat uit informatie over voertuig-, rit-, en zendingsgegevens voor het statistiekjaar 2019. Om kwalitatief goede basisbestanden te leveren zijn de bestanden op gedetailleerd niveau gecontroleerd en geanonimiseerd. Met anonimiseren wordt bedoeld dat alle informatie die herleidbaar is naar persoonsgegevens (zoals kentekens en bedrijfsinformatie) niet in de basisbestanden worden getoond.
+
+CBS hanteert bij het analyseren en corrigeren van de goederenwegvervoercijfers normaliter een top-down benadering, waarbij eerst wordt gekeken of de cijfers op macroniveau van de gewenste kwaliteit zijn. Wanneer nodig wordt er verder ingezoomd. Bij de basisbestanden goederenwegvervoer 2019 is het echter van belang dat alle data van voldoende kwaliteit zijn. Om die reden is het noodzakelijk om extra gaafmaakwerk en modelmatige verbeteringen toe te passen bij de huidige waarneming.
+
+Een uitgebreide beschrijving en verantwoording van de onderzoeksresultaten is weergegeven in hoofdstuk 2 ‘Beschrijving van het onderzoek’.
+
+1.3 Leeswijzer
+
+Deze rapportage omtrent de basisbestanden goederenwegvervoer 2019 bestaat uit drie delen.
+
+In het eerste deel staat de gehanteerde methodologie centraal. De onderzoeksmethode, populatie-, steekproef- en responsgegevens zijn beschreven in hoofdstuk 2. Tevens is weergegeven hoe de resultaten van de uitkomsten kunnen worden geïnterpreteerd. In hoofdstuk 2 is bovendien inzichtelijk gemaakt hoe de verschillende bestanden zijn ingedeeld en hoe deze bestanden zich onderling verhouden. De kwaliteit van de uitkomsten komt aan de orde en er zal een overzicht worden gegeven van de verschillen (in waarneming en (steekproefmethoden)) tussen de basisbestanden vanaf 2014 met die van de basisbestanden 2011, omdat er in 2013 een trendbreuk heeft plaatsgevonden vanwege wijzigingen in methodologie en uitvraagstrategie. Het hoofdstuk eindigt met een overzicht van de door WVL gewenste basisbestanden wegvervoer en een uitgebreide recordomschrijving van de uiteindelijk geleverde eindbestanden.
+
+Het tweede deel van dit rapport richt zich op de variabelen van de basisbestanden. In hoofdstuk 3 worden de werkzaamheden gepresenteerd die zijn uitgevoerd om de basisbestanden te construeren. Tevens zijn diverse tabellen opgenomen om de analyses en resultaten inzichtelijk te maken. Er is naar gestreefd om zoveel mogelijk aan te sluiten bij de werkwijze en methoden die gebruikt zijn bij het maken van de vorige edities van het basisbestand omwille van de consistentie van de cijfers. Hierdoor kunnen trendbreuken zo veel mogelijk worden voorkomen. Echter door een verbeterde waarneming en verbeterde methoden is er op een aantal vlakken wel sprake van een breuk tussen de basisbestanden vanaf 2014 met de vorige edities. In hoofdstuk 3 worden de afzonderlijke variabelen beschreven, inclusief tabellen en grafieken.
+
+Het derde, en laatste, deel bestaat uit diverse bijlages waarin extra achtergrondinformatie over diverse variabelen is opgenomen. Deze bijlages zijn terug te vinden in hoofdstuk 4.
+
+Aan het einde van het rapport is tevens een begrippenlijst toegevoegd waarin gehanteerde afkortingen en begrippen nader worden toegelicht.
+
+
+
+Beschrijving van het onderzoek
+
+2.1 Populatie
+
+De doelpopulatie van de basisbestanden goederenwegvervoer 2019 is onder te verdelen in het Nederlands bedrijfsvoertuigenpark met meer dan 2 ton laadvermogen, het Nederlandse bedrijfsvoertuigenpark met een laadvermogen onder de 2 ton (bestelauto’s) en de buitenlandse vervoerders. De populatie- en steekproefomvang van deze drie categorieën zijn beschreven in deze paragraaf.
+
+Nederlandse bedrijfsvoertuigen (met meer dan 2 ton laadvermogen)
+
+De basis voor de bestanden vormt de informatie voortkomend uit de wegvervoerenquête. In deze enquête vullen bedrijven, voor Nederlandse kentekens met een maximaal toegestaan gewicht (laadvermogen plus leeg gewicht) van meer dan 3,5 ton, verkeer- en vervoersgegevens in.
+
+De doelpopulatie omvat alle Nederlandse bedrijfsvoertuigen. De informatie komt uit het register van de Rijksdienst wegverkeer (RDW). Een aantal categorieën voertuigen, waaronder militaire voertuigen, landbouwvoertuigen en bedrijfsvoertuigen ouder dan 25 jaar, vallen buiten het onderzoek. De statistische eenheden zijn Nederlandse bedrijfsvoertuigen met een maximaal toegestaan gewicht van meer dan 3,5 ton. Het gaat hierbij om bijna 39 duizend steekproefkentekens per jaar op een populatie van bijna 135 duizend kentekens, zie tabel 2.1.1 en 2.1.2.
+
+2.1.1 Populatie Nederlands bedrijfs­voertuigenpark (boven 2 ton laadvermogen) per kwartaal, 2019
+
+2.1.2 Steekproef Nederlands bedrijfsvoertuigenpark (boven 2 ton laadvermogen) per kwartaal, 2019
+
+De trekkingskans van het Nederlandse bedrijfsvoertuigenpark is steekproefstratum afhankelijk. Gemiddeld is deze kans ruim 33 procent. De steekproefstrata (in totaal 74) zijn vastgesteld op basis van branche (SBI), bouwjaar van het voertuig, laadvermogen van het voertuig en het type voertuig (vrachtauto, trekker, speciaal voertuig) en sinds 2013 de grootte van het wagenpark (zie ook 2.1.1 Verschillen steekproefmethodologie grote vrachtauto’s 2019 (en die van 2014–2018) met 2011). De respons wordt opgehoogd met de ‘ophoogfactor’ (x 13 weken x (populatie/respons)). Op de volgende pagina wordt voor één stratum een voorbeeld gegeven van hoe de ophoging in zijn werk gaat.
+
+In het stratum met de volgende kenmerken:
+
+Beroepsvervoer
+
+Laadvermogenklasse tussen 3,5 ton en 15 ton
+
+Leeftijd: jonger dan 5 jaar
+
+Type voertuig: vrachtauto
+
+Kentekens behoren tot een wagenpark >30 kentekens
+
+was er in het eerste kwartaal 2014 sprake van een populatie 1 882 en een respons van 157 (uit een steekproef van 200). De ophoogfactor naar het kwartaal wordt als volgt berekend:
+
+(1 882/157) * 13 (weken) = 155,8
+
+Vanaf het statistiekjaar 2013 heeft CBS veranderingen doorgevoerd in de gehanteerde steekproefmethodologie. In onderstaande paragrafen worden deze veranderingen beschreven, omdat deze ook gevolgen hebben voor de volgtijdelijke vergelijkbaarheid tussen de statistiekjaren 2011 (basisbestandjaar) met de statistiekjaren 2014–2019 (nieuwe basisbestand jaren, met gelijke steekproefmethodologie).
+
+De steekproefomvang is in de jaren 2014–2019 ten opzichte van 2011 aanzienlijk lager. Er is bijna een derde minder steekproefkentekens uitgevraagd. Dit is gebeurd in het kader van een administratief lastendrukverlichtingsprogramma binnen CBS (zie kader Showcase wegvervoer). Ook was het sinds 2013 mogelijk om door verbeterde koppelingen tussen kentekengegevens en bedrijfsgegevens de kentekens behorende tot particulieren eruit te filteren (ongeveer 2,5 procent van de totale populatie), zowel uit de populatie als uit de steeproef. Kentekens van particulieren behoren namelijk niet tot de doelpopulatie binnen de verordening voor Eurostat (Europese Commissie, 2010). Een methodologisch intern CBS-onderzoek heeft uitgewezen dat de verlaging van de steekproef een beperkte invloed had op de steekproefmarges.
+
+Tegenover de steekproefdaling staat een aanzienlijk hogere respons. Deze is toegenomen van 2011 met ruim 18 procentpunt naar 91 procent in 2019.
+
+Ook de kwaliteit van de respons is flink verbeterd. Er is minder stilstand van het voertuig opgegeven (ook een vluchtcategorie in de vragenlijst) en er zijn meer ritten per kenteken gerapporteerd. Daarnaast is het voor bedrijven in de nieuwe, in 2013 geïntroduceerde, vragenlijst mogelijk om meer zendingen per rit (tot een maximum van 15 per dag) op te geven dan in 2011 toen er nog maximaal 4 zendingen per rit konden worden opgegeven. Voor bedrijven die via XML (rechtstreeks uit Transport Management Systemen) aanleveren worden vanaf 2013 alle opgegeven zendingen bij een rit verwerkt (ten opzichte van 2011 maximaal 4). Als resultaat telt het Basisbestand deelritten in 2019 ruim 586 duizend records (47 procent meer dan in 2011).
+
+Een belangrijke wijziging bij de basisbestanden 2014–2019 ten opzichte van de basis­bestanden 2011 heeft betrekking op de spreiding in de uitvraag. In 2011 werden bedrijven nog slechts 1 week per jaar (met al de getrokken steekproefkentekens) uitgevraagd. Dit leidde tot steekproeftoevalligheden in de cijfers omdat grote, in de statistiek dominante bedrijven, in niet representatieve weken werden getrokken. Bijvoorbeeld een groot bouwbedrijf in een periode van vorstverlet of bouwvak. In de periode 2014–2019 is deze voorwaarde voor bedrijven met een wagenpark groter dan 30 losgelaten. De kentekens van deze bedrijven zijn gespreid over het jaar uitgevraagd. Dit betreft ongeveer een derde van de kentekens. Dit heeft geleid tot een veel representatievere verdeling van het waargenomen goederenwegvervoer over het jaar.
+
+Kader: Showcase wegvervoer
+
+In het kader van een groot administratieve lastendrukverlichtingsprogramma binnen CBS is de uitvraag van het goederenwegvervoer als eerste statistiek (showcase) verbeterd. Samen met Transport Logistiek Nederland (TLN), de Organisatie voor Eigen vervoerders en de verladers (EVO) en 25 wegtransportbedrijven is er een nieuwe vragenlijst ontwikkeld die veel sneller is in te vullen en veel beter aansluit bij de dagelijkse praktijk bij transport­bedrijven. Ook is de frequentie van de uitvraag aangepakt. Moesten grote transportbedrijven de gegevens van al hun kentekens voor 1 week per jaar binnen twee weken aanleveren, sinds 2013 kunnen ze dat gespreid over het jaar doen, waardoor het voor de bedrijven beter te plannen is. De lastendruk (gemeten in euro’s) is voor het bedrijfsleven in één jaar tijd met twee derde omlaag gebracht. Bedrijven zijn nu veel beter in staat de juiste (hoeveelheid) gegevens (gespreid) aan CBS te leveren, waardoor de kwaliteit van de statistiek van het wegvervoer aanzienlijk is verbeterd. Dit geldt ook voor de perceptie van het bedrijfsleven ten aanzien van de enquête. Stond de enquête voor aanvang van het project ‘showcase wegvervoer’ nog steevast in de administratieve ergernissen en lasten top 10 uitgebracht door de EVO en jaarlijks aangeboden aan de Tweede Kamer, inmiddels is de enquête als resultaat van het showcase-project daaruit verdwenen.
+
+In tabel 2.1.3 zijn enkele uitkomsten van de steekproef weergeven van het jaar 2019. De percentages behorend bij ‘gereden’, ‘terreinwerk’, ‘niet gereden’ en ‘niet in bezit’ hebben betrekking op de 33 746 kentekens waarvan gegevens zijn ontvangen (Internet, XML en papier). De netto respons is het resultaat van de ontvangen respons (bruto respons) minus de categorie ‘niet in bezit’. Deze laatste categorie wordt buiten beschouwing gelaten (‘technische non-respons’).
+
+2.1.3 Steekproef Nederlands bedrijfsvoertuigenpark, 2019
+
+Nederlandse bestelauto’s
+
+Bedrijfsvoertuigen met een maximaal toegestaan gewicht van minder dan 3,5 ton (onder de 2 ton laadvermogen) vallen onder de noemer bestelauto’s. Bestelauto’s zijn in 2016 met een verbeterde vragenlijst en een hogere steekproef uitgevraagd. Het onderzoek, grotendeels gefinancierd door het Kennisinstituut voor Mobiliteitsbeleid (KiM)) is in 2018 nog een keer worden herhaald en verbeterd. In 2019 en 2020 is de vragenlijst voortgezet, maar nu gefinancierd vanuit de Topsector Logistiek. De vragenlijst is tot stand gekomen in samenwerking met de brancheorganisaties TLN en EVO. De laatste keer dat het onderzoek vóór 2016 is gehouden was in 2012.
+
+Onderstaand de belangrijkste veranderingen in de waarneming waarop het basisbestand 2016 (vergeleken met de uitvraag van 2012) is samengesteld:
+
+Hogere steekproef (factor 4)
+
+Door verbeteringen in de uitvraag (ontmoedigen papier, verbeteringen in de vragenlijst) meer kentekens met ritten waarop het basisbestand is gebaseerd (8 224 in 2016, 1 670 in 2012; factor 5)
+
+Door betere afleiding meer deelritten (118 118 in 2016 en 19 800 in 2012; factor 6)
+
+In de vragenlijst is de categorie ‘bouw’ toegevoegd aan de categorieën ‘service’, ‘goederenvervoer’ en ‘post en koeriers’.
+
+In de vragenlijst wordt nu gevraagd naar het onderscheid van het vervoerd gewicht naar goederen en gereedschap (standaard op de bestelwagen). In 2012 werd alleen naar het totaal vervoerd gewicht gevraagd.
+
+In de vragenlijst wordt gevraagd naar de 5 belangrijkste plaatsen van rijden, in 2012 waren dat er 3.
+
+In de vragenlijst wordt bij alle categorieën naast het aantal ritten naar het aantal stops gevraagd.
+
+Vanaf statistiekjaar 2018 is de uitvraag onder eigenaren van bestelauto’s, gebaseerd op de ervaringen van 2016 verder verbeterd op de volgende punten:
+
+Hogere steekproef beroepsvervoer
+
+De steekproef onder steekproefstrata bij het beroepsvervoer is verhoogd. Aanleiding was dat Rijkswaterstaat extra interesse had in specifiek het post- en pakketvervoer. Het aandeel van het post- en pakketvervoer in het totale bestelautovervoer is echter klein, waardoor een goede geografische verdeling beperkt mogelijk was. Omdat het beroepsvervoer relatief (vergeleken met de categorieën bouw, service en goederenvervoer) een hoog aandeel heeft in het post- en pakketvervoer en de streekproef voor het beroepsvervoer en eigen vervoer apart is gestratificeerd, heeft het CBS de steekproeffracties voor de beroepsvervoerstrata vanaf statistiekjaar 2018 verhoogd.
+
+Verbeterde vermelding van de steekproefperiode in de vraagstelling
+
+Vergeleken met de vrachtauto’s (steekproefperiode van 1 week) heeft de bestelauto-enquête een kortere enquêteperiode van 3 dagen. Veel bedrijven moesten in 2016 naast de vrachtauto-enquête ook de bestelauto-enquête invullen. Er waren aanwijzingen dat er bedrijven waren die gegevens over 1 week (in plaats van 3 dagen) invulden in de bestelauto-enquête. Dit ondanks dat op de brief en in de enquête (aan de zijkant van in het invulscherm) de specifieke dagen van de enquêteperiode stonden vermeld. Om deze reden heeft het CBS, gelijk bij de eerste vraag, de specifieke dagen van de enquêteperiode, nogmaals vermeld. Dit heeft als gevolg gehad dat er tussen 2016 en 2018 een trendbreuk (omlaag) heeft plaatsgevonden. Het CBS is nog bezig deze breuk te kwantificeren (op basis van kilometerstanden beschikbaar uit Nationale Autopas/RDW) en ook terug te leggen voor 2016.
+
+Extra vraagstelling naar type stop
+
+Er zijn, naast de opdrachtgever voor het bestelauto-onderzoek, nog diverse andere gebruikers van de data over het bestelautovervoer. In een gebruikers-overleg georganiseerd door de opdrachtgever is nog expliciet de wens uitgesproken meer te weten over het type stop: ‘zakelijk adres’, ‘particulier adres’ en ‘afhaalpunt’. Dit in verband met de (toenemende) interneteconomie. Deze onderverdeling wordt nu uitgevraagd in de enquête. Voor wat betreft de categorieën bouw en service wordt gevraagd naar ‘bouwplaats’ in plaats van ‘afhaalpunt’. Deze informatie is niet opgenomen in het basisbestand.
+
+Toevoegen extra variabele lengte van bestelauto’s
+
+Wel opgenomen, op verzoek van Rijkswaterstaat, is de variabele: lengte categorie opgenomen (Lengte_cat), met 2 categorieën >560 cm en ≤560 cm. De lengte van bestelauto’s is voor een beperkt deel gevuld (35 procent) in het RDW. Aan de hand van merkcode en voertuigtype is nog 55 procent opgezocht op diverse internetsites. Het restant is verdeeld aan de hand van Maximale Massa voertuig (hoge correlatie met de lengte van het voertuig), zie ook paragraaf 3.31.
+
+Uitvraag bij taxi busjes
+
+De busjes van 9 personen (inclusief chauffeur) behoorden in 2016 nog niet tot de populatie waar de steekproef uit is getrokken. Deze zijn sinds 2018 wel toegevoegd. Eigenaren van deze (taxi)busjes hebben de enquête ingevuld en hierin vragen beantwoord, waarmee het aantal vervoerde personen en kilometers die de personen aflegden kunnen worden geschat. Deze zijn echter niet opgenomen in het basisbestand bestelauto’s, omdat deze data van het goederenvervoer bevat.
+
+Rijkswaterstaat heeft Significance (Significance, 2019) gevraagd controles uit te voeren op het basisbestand bestelauto’s op een aantal aspecten: vulling van de variabelen, ruimtelijke vulling en spreiding, ritlengteverdelingen en totale omvang van het vereer. Uit alle analyses die Significance heeft gedaan blijkt dat het basisbestand bestelauto’s geschikt moet worden geacht voor gebruik binnen het project Basisprognoses 2021.
+
+Voor 2019 zijn de steekproeffracties en de vragenlijst niet aangepast, maar 2020 zijn de volgende veranderingen ingepland:
+
+Op verzoek van Rijkswaterstaat zal nu ook bij de categorie ‘personenvervoer/privé’ worden gevraagd naar de belangrijkste plaatsen van rijden (maximaal 5).
+
+Daarnaast wordt, op verzoek van de opdrachtgever (Connekt/Topsector Logistiek) en diverse gebruikers, een vraag toegevoegd waarbij de bedrijven per bestelauto voor de plaatsen van rijden, per plaats, moet aangeven of de bestelauto hierbij een bestemming heeft gehad in een in de ‘zones in en rond het stadscentrum, waar het betaald parkeren is (of parkeren met parkeerkaart of vergunning)’. Dit om in de toekomst te voldoen aan de informatiebehoefte rondom het vervoer in ‘zero-emission’ zones.
+
+In tabel 2.1.4 en 2.1.5 wordt de populatie en steekproefomvang van bestelauto’s in 2019 weergegeven. Het responspercentage bij bestelauto’s was 42 procent (17 082 kentekens). Omdat er een deel is ingezet voor privédoeleinden of zakelijk personenvervoer, een deel niet heeft gereden gedurende de enquêteperiode en een deel van de voertuigen op het moment van aanschrijven niet meer bij de geregistreerde eigenaar in bezit was zijn er uiteindelijk 8 620 voertuigen met ritten opgenomen in de basisbestanden 2019.
+
+2.1.4 Populatie Nederlands bestelautopark per kwartaal, 2019
+
+2.1.5 Steekproef Nederlands bestelautopark per kwartaal, 2019
+
+In paragraaf 2.2.2 wordt achtereenvolgens de uitgevraagde gegevens, de bepaling van het ritpatroon, toekennen ritafstand (beladen en leeg), verdeling van het vervoerd gewicht en de verdeling van de goederensoort beschreven.
+
+Buitenlandse vervoerders
+
+Naast Nederlandse voertuigen zijn ook buitenlandse voertuigen meegenomen in de basisbestanden. Statistische informatie over buitenlandse voertuigen wordt door andere statistische bureaus verzameld en op microniveau naar Eurostat verzonden. Deze informatie wordt vervolgens door Eurostat geaggregeerd terug geleverd aan de statistische bureaus van de lidstaten, de zogenaamde D-tabellen. D-tabellen bestaan om de nationale autoriteiten van andere lidstaten dan het rapporterende land in staat te stellen volledige statistieken over het wegvervoer in eigen land te produceren.
+
+2.2 Onderzoeksmethoden
+
+Zowel de Nederlandse bedrijfsvoertuigen, de Nederlandse bestelauto’s als de buitenlandse vervoerders kennen een eigen onderscheidende onderzoeksmethode. Deze paragraaf beschrijft in hoofdlijnen de onderzoeksmethodiek die gehanteerd is bij de basisbestanden goederenwegvervoer 2019. Hierbij is een onderverdeling gemaakt tussen de Nederlandse bedrijfsvoertuigen met een laadvermogen van meer dan 2 ton (vrachtauto’s en trekkers), de Nederlandse bedrijfsvoertuigen met een laadvermogen tot 2 ton (bestelauto’s) en buitenlandse voertuigen.
+
+Bedrijfsvoertuigen (boven 2 ton laadvermogen)
+
+Berichtgevers van de bedrijfsvoertuigen met een laadvermogen boven twee ton kunnen de door CBS gevraagde gegevens aanleveren óf via een internetvragenlijst, óf via een XML-bericht (elektronisch aftappen van informatie uit het Transport Management Systeem van goederenwegvervoerders of andere systemen waarin ritgegevens zijn opgeslagen). Op verzoek is tevens een papieren versie van de vragenlijst beschikbaar. De berichtgevers zijn de eigenaren van de Nederlandse bedrijfsvoertuigen. Bij lease en verhuur wordt de gebruiker van het voertuig benaderd.
+
+CBS controleert de ontvangen gegevens op plausibiliteit. Er vindt bijvoorbeeld een controle plaats op vervoerd gewicht in combinatie van het laadvermogen. CBS levert ook wegvervoerdata aan Eurostat die daar strenge eisen aan stelt. Als de data niet 100 procent voldoet aan deze eisen, zal Eurostat deze data ook niet accepteren (zie bijlage VIII voor een overzicht van deze eisen). In de handleiding van Eurostat (‘Road freight transport methodology’ (2011)) worden de richtlijnen validatie van (micro)data, maar ook ten aanzien van de methodologie en definities van variabelen uitvoerig beschreven. De ontvangen enquêtegegevens worden vervolgens opgehoogd naar het totale aantal voertuigen in de verslagperiode.
+
+Naast enquêtegegevens worden de bestanden verrijkt door middel van het register van Rijksdienstwegverkeer (RDW) en classificatiegegevens (voor de goederen: NSTR en NST2007 en voor de geografische variabelen: NUTS). Ten slotte zijn een aantal variabelen, waarvoor geen enquête en/of registergegevens voor handen waren, (modelmatig) geschat. De extra inspanningen om te komen tot een zo gaaf mogelijk bestand worden uitgevoerd door ervaren medewerkers van het team wegvervoer. Op de volgende pagina volgt een algemene beschrijving hoe de variabelen tot stand zijn gekomen en hoe de drie bestanden (Ritten, deelritten en zendingen) met elkaar samenhangen. In hoofdstuk 3 wordt per variabele nog gedetailleerder ingegaan op hoe deze tot stand zijn gekomen (ook voor wat betreft de bestelauto’s en buitenlandse voertuigen). In bijlage X wordt hiervan een beknopt overzicht gepresenteerd.
+
+Grofweg zijn de volgende typen variabelen te onderscheiden: periode-aanduiding, geografische (statistisch en dynamisch) en goederen classificaties, telvariabelen (oftewel de variabelen die beginnen met de letter O = Opgehoogd, zie paragraaf 2.1.2 voor een beschrijving van de ophoging), voertuigkenmerken, ritkenmerken en administratieve kenmerken. Zie tabel 2.2.1 voor een overzicht van deze variabelen.
+
+2.2.1 Typen variabelen basisbestanden
+
+Op de vragenlijst wegvervoer worden de volgende gegevens per zending gevraagd:
+
+Laadlocatie (plaatsnaam en/of postcode)
+
+Loslocatie (plaatsnaam en/of postcode)
+
+Vervoerd gewicht
+
+Goederensoort
+
+Op de vragenlijst wegvervoer worden bedrijven gevraagd de zendingen op te geven tot een maximum van 15 per dag. In tegenstelling tot de vorige vragenlijst op basis waarvan de basisbestanden 2011 zijn samengesteld hoeven bedrijven niet zelf aan te geven of de zendingen tot een bepaalde rit behoren. De vragenlijst is samen met brancheorganisaties en transportbedrijven ontwikkeld (zie 2.1.1 Showcase wegvervoer) en in dat project is gebleken dat bedrijven in de praktijk andere ritdefinities hanteren dan zoals gehanteerd door Eurostat (zie definities beladen en lege rit in de begrippenlijst). In plaats daarvan dienen bedrijven vóór laden en/of na lossen aan te geven of het voertuig leeg is. Vóórdat bedrijven per dag (van de steekproefperiode) de zendingen dienen op te geven wordt er eerst de volgende stuurvraag gesteld:
+
+Voor welk soort vervoer werd het voertuig gedurende de enquête gebruikt? Bedrijven kunnen dan zelf aangeven of ze het voertuigen hebben ingezet voor:
+
+Één laadlocatie, meerdere loslocaties (verspreiden, distribueren)
+
+Één loslocatie, meerdere laadlocaties (verzamelen, ophalen)
+
+Één laadlocatie, één loslocatie ((less than) Full Truck Load FTL/LTL)
+
+Combinatie van bovenstaande
+
+Voertuigen worden namelijk gedurende de enquête vaak voor één soort vervoer gebruikt (of voor distributie, of voor ophalen (groupage) of voor éénzendingsritten (FTL/LTL)). Als het bedrijf voor een bepaald kenteken optie 1 heeft gekozen, dan hoeft vervolgens alleen na de opgegeven loslocatie te worden aangegeven of het voertuig leeg is. Kiest het bedrijf voor optie 2 dan hoeft het bedrijf alleen vóór laden op te geven of het voertuig leeg is. Kiest het bedrijf voor optie 3 dan hoeft het bedrijf niet aan te geven of het voertuig leeg is; elke zending is dan een rit. Kiest het bedrijf voor optie 4 dan dient het bedrijf zowel vóór laden als ná lossen aan te geven of het voertuig leeg is. In geval van het vervoer van zeecontainers wordt nog extra informatie gevraagd (namelijk type container, containernummer en of de container leeg of beladen is). Deze informatie is van belang om het gewicht van de zeecontainer te bepalen. Ook het vervoer van een lege zeecontainer betreft een beladen rit. Om in het zendingsscherm van zeecontainers te komen worden bedrijven in een eerder stadium op de vragenlijst de vraag gesteld (eerst op wagenparkniveau en vervolgens op kentekenniveau) of er sprake is van het vervoer met zeecontainers.
+
+Zie bijlage XI voor printscreens van de zendingschermen uit de internetvragenlijst. Op basis van de toestand van het voertuig (leeg-beladen vóór laden of ná lossen wordt bepaald of zendingen behoren tot een rit.
+
+De opgegeven zendingen worden door het bedrijf vaak niet volgtijdelijk opgegeven en kunnen elkaar overlappen. Bijvoorbeeld een rit van Heerlen naar Eindhoven kan de volgende twee zendingen bevatten:
+
+Zending 1: Heerlen – Eindhoven
+
+Zending 2: Roermond – Weert
+
+Het waarschijnlijke ritpatroon is in dit geval:
+
+Van Heerlen naar Roermond, van Roermond naar Weert en van Weert naar Eindhoven. De eindbestemming van de rit is Eindhoven, terwijl de laatst opgegeven locatie Weert is.
+
+Het basisprincipe voor het bepalen van de vertrekplaats en aankomstplaats van de rit is als volgt:
+
+De eerst opgegeven laadplaats wordt gelijkgesteld aan de vertrekplaats van de rit. Vervolgens worden alle opgegeven laad- en loslocaties gesorteerd op basis van lengte- en breedtegraad. De locatie die het dichts bij de eerst opgegeven laadplaats ligt wordt de locatie die als tweede wordt aangedaan en de locatie die het verst af ligt wordt de locatie die als laatste wordt aangedaan. Deze locatie betreft dan meteen de aankomstplaats van de rit. De afstand tussen alle locaties wordt afgeleid op basis van routeplanningssoftware (optimale route) en de som daarvan is de ritafstand. In geval van ritten die in een boog lopen (bij distributie en groupage) wordt ook rekening gehouden met de richting (heen en terug).
+
+De route-informatie wordt niet weggeschreven in een database van CBS en deze data wordt dan ook verder niet gebruikt voor de afleiding van de deelritten. De deelritafleidingsmethode wordt beschreven in de volgende paragraaf.
+
+Het deelrittenbestand beschrijft de afgelegde route op hoofdlijnen en bevat de delen van een rit tussen laad- en/of loslocaties van de vervoerde zendingen. De informatie over de vervoerde goederen betreft alle zendingen die op dat deel van de rit vervoerd worden. Een rit van Rotterdam naar Amsterdam, met een zending van Rotterdam naar Gouda, zal een andere route volgen dan een rit van Rotterdam naar Amsterdam met één lading. Om inzicht te krijgen in de gereden routes, worden voor alle zendingen deelritten bepaald.
+
+We onderscheiden 3 soorten ritten:
+
+Distributieritten
+
+Groupageritten
+
+Overige ritten (Groupage- en distributieritten)
+
+Voor definities van een zending, deelrit, distributierit, groupagerit en distributie- en groupagerit zie de begrippenlijst achteraan deze rapportage.
+
+In figuur 2.2.2 staat de grafische weergave van de bepaling van deelritten bij de 3 soorten ritten.
+
+Distributieritten
+
+De herkomsten van alle zendingen zijn hetzelfde. Dit is een veel voorkomende situatie, waarbij ook vaak de zendingafstand oplopend is. Met andere woorden, de zendingafstand van de eerste zending is kleiner dan de zendingafstand van de tweede zending , etc. In het geval van een rit van A naar B en een zending van A naar C zijn derhalve de volgende deelritten geconstrueerd: de eerste deelrit van A naar B en de tweede deelrit van B naar C. In het geval dat de afstanden niet oplopend waren, zijn de records eerst op oplopende afstand gesorteerd en zijn vervolgens de deelritten geconstrueerd. Voorbeeld van een distributierit:
+
+Voor sortering
+
+Zending 1 50 km
+
+Zending 2 10 km
+
+Zending 3 100 km
+
+Na sortering
+
+Zending 1 wordt zending 2
+
+Zending 2 wordt zending 1
+
+Zending 3 wordt zending 3
+
+Deelritafleiding:
+
+Deelrit 1 Laadplaats zending 1 –Losplaats zending 1
+
+Deelrit 2 Losplaats zending 1 – Losplaats zending 2
+
+Deelrit 3 Losplaats zending 2 – Losplaats zending 3
+
+Groupageritten
+
+De bestemmingen van alle zendingen zijn hetzelfde. Vaak is de zendingafstand aflopend, dus de afstand van de eerste zending is groter dan de afstand van de tweede zending etc. In het geval van een rit van A naar B en een zending van C naar B, zijn derhalve de volgende deelritten geconstrueerd: van A naar C en van C naar B. In het geval dat de afstanden niet aflopend waren, zijn de records eerst op aflopende afstand gesorteerd, waarna de deelritten geconstrueerd zijn. Voorbeeld van een groupagerit:
+
+Voor sortering
+
+Zending 1 50 km
+
+Zending 2 10 km
+
+Zending 3 100 km
+
+Na sortering
+
+Zending 1 wordt zending 2
+
+Zending 2 wordt zending 3
+
+Zending 3 wordt zending 1
+
+Deelritafleiding:
+
+Deelrit 1 Laadplaats zending 1 –Laadplaats zending 2
+
+Deelrit 2 Laadplaats zending 2 – Laadplaats zending 3
+
+Deelrit 3 Laadplaats zending 3 – Losplaats zending 3
+
+Overige ritten
+
+Dit is een restcategorie, waarbij herkomsten en bestemmingen van de zendingen allebei verschillend zijn. Een voorbeeld hiervan is een eerste van A naar B en een tweede zending van C naar D. Voor deze restcategorie geldt dat de zendingsafstanden eerst aflopend naar zendingsafstand worden gesorteerd, dat vervolgens een ritpatroon wordt afgeleid, waarbij eerst alle goederen worden geladen, en daarna successievelijk gelost. Voorbeeld van een ‘overige rit’:
+
+Zending 1 = 50 km
+
+Zending 2 = 10 km
+
+Zending 3 = 100 km
+
+Na sortering
+
+Zending 1 wordt Zending 2
+
+Zending 2 wordt Zending 3
+
+Zending 3 wordt Zending 1
+
+Deelritafleiding:
+
+Deelrit 1 Laadplaats z1 –Laadplaats z2
+
+Deelrit 2 Laadplaats z2 – Laadplaats z3
+
+Deelrit 3 Laadplaats z3 – Losplaats z3
+
+Deelrit 4 Losplaats z3 – Losplaats z2
+
+Deelrit 5 Losplaats z2 – Losplaats z1
+
+De goederensoort is bij deelritten als volgt bepaald: indien er 2 of meer zendingen behoren bij 1 rit, is voor de deelrit de NSTR aangehouden van de goederen met het grootste gewicht. Als voorbeeld een rit met 2 zendingen waarbij 10 ton zand en 5 ton cement wordt vervoerd. De eerste zending is het afleveren van cement. Voor deze deelrit wordt dus de NSTR van zand gebruikt voor de totale vracht van 15 ton.
+
+De zendingsafstanden tussen in de wegvervoerenquête opgegeven laad- en loslocaties worden afgeleid op basis van routeplanningssoftware. De routeplanningssoftware gaat uit van optimale afstanden tussen de locaties. Deze optimale afstanden worden jaarlijks geactualiseerd. Bij éénzendingsritten en rondritten is de zendingsafstand gelijk aan de ritafstand. Bij meerzendingsritten ligt de som van alle zendingsafstanden per definitie hoger dan de ritafstand van het voertuig. Bij de deelritten is de afstand tussen de verschillende laad- en losplaatsen de werkelijk gereden afstand. De som van de deelritafstanden is daarom wel gelijk aan de totale ritafstand van het voertuig.
+
+In 2011 was het voor een bedrijf slechts mogelijk om maximaal 4 zendingen per rit op te geven. Ook voor bedrijven die via XML aanleveren gold dat er maximaal 4 zendingen werden verwerkt (indien er bij XML meer zendingen werden aangeleverd, werd het gegroepeerd tot een rondrit). Vanaf 2013 is het voor bedrijven mogelijk om meer zendingen op te geven, via de enquête tot een maximum van 15 per dag en bij XML zelfs ongelimiteerd. Het aantal deelritten is daarom toegenomen van 400 duizend tot 540 duizend. Werd een distributierit binnen bijvoorbeeld een bepaald gebied in 2011 vaak nog een rondrit (met dus slechts 1 zending), nu kunnen binnen dat gebied diverse deelritten worden afgeleid. Indien de plaats-postcode combinatie bij laden gelijk is aan de plaats-postcode combinatie bij lossen bij de categorie ‘overige ritten’ toch deelritten aangemaakt. Omdat er in deze gevallen geen afstand kan worden afgeleid (de laadlocatie is immers gelijk aan de loslocatie) betreft de deelritafstand standaard 5 kilometer bij Nederlandse plaatsen en 10 kilometer buitenlandse plaatsen. Dit onder de aanname dat de kans groter is dat binnen Nederland in kleinere plaatsen wordt gereden dan buiten Nederland. Indien zowel alle laadplaatsen hetzelfde zijn en alle losplaatsen worden deze zendingen gegroepeerd tot één deelrit.
+
+Omdat de variabelen lege ritten en afstand van lege ritten geen verplichte variabelen voor Eurostat betreffen en om lastendrukverlichting voor het bedrijfsleven te bereiken worden lege ritten vanaf 2010 niet meer uitgevraagd. Ze worden afgeleid tussen de aankomstplaats van de rit en de vertrekplaats van de volgende rit. De afstand wordt bepaald op basis van externe routeplanningssoftware (Locatienet).
+
+Indien de eerste rit op een dag op minder dan 120 km vanaf de standplaats start zal een lege aanrijrit worden aangemaakt (parameter gebaseerd op een aanname op basis van analyses van experts uit de periode dat lege ritten nog werden uitgevraagd. Indien deze afstand groter is (dit betreft dus een aanname)kan niet met zekerheid worden gezegd of er geen lege of beladen rit volgt na de laatste rit in de week vóór de enquêteweek).
+
+Indien de laatste rit op een dag minder dan 120 km vanaf de standplaats eindigt zal een lege terugrijrit worden aangemaakt. Indien deze afstand groter is is (ook dit betreft een aanname), kan niet met zekerheid worden gezegd of er geen lege of beladen rit volgt na de laatste rit in de week voor de enquêteweek).
+
+Ook aan het eind van de dag kan er een terugrijrit worden aangemaakt (en vervolgens ook een aanrijrit de dag erna). Het voertuig gaat alleen leeg terug naar de standplaats aan het einde van de dag wanneer de afstand (B) tussen de Aankomst plaats van de laatste rit van de dag en de Standplaats samen met de afstand (C) tussen de Standplaats en de RitVertrekplaats van de volgende dag minder dan 120 km langer is dan de afstand (A) tussen de aankomst­plaats van de laatste rit van de dag vertrekplaats van de eerste rit van de volgende dag.
+
+Nu volgt een algemene beschrijving van de variabelen uit het basisbestand en de bepaling van die variabelen voor wat betreft bedrijfsvoertuigen boven 2 ton laadvermogen. Voor meer detailinformatie per variabele en controletellingen, grafieken en kaarten, zie hoofdstuk 3.
+
+De variabelen jaar, kwartaal en dag worden bepaald uit steekproefdata. De enquête wordt immers in een bepaalde week van het jaar bij bedrijven uitgezet en bedrijven dienen per dag vervoersgegevens in te vullen.
+
+Bedrijven dienen per dag, per zending de laadlocatie en de loslocatie op te geven. Ze kunnen hierbij de plaatsnaam en/of postcode opgeven. Aan de hand van een externe geocodeerservice (Locatienet) wordt de opgegeven locatie terug herleid naar een lengte- en breedtegraad. Op het moment dat de geocodeerservice een opgegeven locatie niet herkend (bijvoorbeeld op het moment dat fouten in de opgave zitten), dan wordt deze locatie handmatig gecorrigeerd. Als een locatie is gegeocodeerd dan wordt ook een landcode teruggegeven en indien de plaatsnaam (of de postcode) niet is opgegeven, wordt de postcode (plaatsnaam)teruggegeven. Vanuit Eurostat worden jaarlijks ‘shapes’ (een vector bestand) beschikbaar gesteld per NUTS3. Voor het bepalen van de NUTS wordt de lengte- en breedtegraad geconfronteerd met deze shapes. De SMILE-zone wordt bepaald aan de hand van een koppeltabel op NUTS3 niveau. Deze koppeltabel is door Rijkswaterstaat aangeleverd (zie bijlage IV). De LMS-zone en gemeente worden bepaald op basis van een eveneens door Rijkswaterstaat aangeleverde koppeltabel (plaatsnaam-gemeentecode-postcode-LMS-zone). Indien er geen postcode bekend is kan er meestal ook geen directe koppeling met LMS-zone worden gelegd (ongeveer 50 procent van de gevallen). In dat geval wordt de LMS modelmatig bepaald op basis van het NRM-bestand (arbeidsplaatsen/aantal inwoners), zie voor deze modelmatige afleiding paragraaf 3.1. De variabele: locatiekenmerk werd in het verleden (2004) nog wel gevuld en uitgevraagd in de wegvervoerenquête, maar de kwaliteit van deze variabele was voor de basisbestanden 2011 onvoldoende en sinds 2013 is de vraag naar locatiekenmerk in de wegvervoerenquête komen te vervallen. De variabele die het type locatie beschrijft (o.a. distributie-groothandel, industrie, zeehaven, spoorterminal, binnenvaartterminal) is wel nog als variabele in de bestanden opgenomen, maar de vulling van deze variabele is volledig leeg (NULL).
+
+De variabelen grensovergang, transitoland en richting worden bepaald op basis van de laadloscombinatie. Voor een gedetailleerde beschrijving van de totstandkoming van deze variabelen, zie hoofdstuk 3.
+
+De variabelen NST2007, NSTR, Verschijningsvorm, ADR-klasse, GEVI en Stofcategorie zijn gekoppeld aan de goederensoort en ook aan de zending. Per (deel)rit kunnen er immers meerdere zendingen met verschillende goederensoortclassificaties zijn. Per (deel)rit is er in het basisbestand echter maar 1 record beschikbaar, dus zal er een keuze moeten worden gemaakt welke goederensoortclassificatie wordt gehanteerd. Dit is altijd de goederensoortclassificatie behorende tot de zending met het meeste vervoerd gewicht. De goederensoort kunnen bedrijven opgeven in de enquête (of in het XML-bericht). Via een goederencodeermodule die CBS in eigen beheer heeft worden goederensoorten bewerkt en wordt er via een koppellijst een NST2007, een NSTR, een ADR-klasse en een VN-nummer aan gekoppeld. Indien de goederensoort niet door de codeermodule wordt herkend (bijvoorbeeld als er een fout in de opgave zit), dan wordt de goederensoort handmatig gaafgemaakt. In geval van gevaarlijke stoffen wordt bedrijven gevraagd in de enquête het VN-nummer op te geven. Aan de hand van de koppellijst wordt vervolgens ook de Goederensoort, NSTR en NST2007 bepaald. Aan de hand van het VN-nummer kan ook via een koppellijst de GEVI worden bepaald. En aan de hand van het VN-nummer in combinatie met de GEVI kan via een koppellijst de Stofcategorie worden bepaald.
+
+Alle variabelen in de basisbestanden die beginnen met een O betreffen de zogenaamde telvariabelen. Het zijn variabelen die bijvoorbeeld gesommeerd of gemiddeld kunnen worden. De som van het OBPGEW in het zendingen bestand (680 miljoen ton) betreft het totaal vervoerd gewicht door Nederlandse voertuigen in 2018. De O staat voor opgehoogd. De statistieken voor het goederenwegvervoer zijn immers gebaseerd op een steekproef en om uitspraken te doen over de hele populatie zal de responsdata moeten worden opgehoogd. Hoe de ophoging in zijn werk gaat wordt beschreven in paragraaf 2.1.1. Een aantal variabelen zijn samengesteld (vermenigvuldigd met afstand): tonkm, teukm en laadvermogenkm. Van de afstand gerelateerde variabelen is zowel het totaal opgenomen als de afstand over Nederlands grondgebied. De afstand op Nederlands grondgebied wordt vastgesteld aan de hand van routeplannings-software.
+
+De variabelen euronorm, asconfiguratie, laadvermogenklasse en voertuigtype zijn gebaseerd op het RDW. De nationaliteit van het voertuig is in het ritten-zendingen-deelritten bestand standaard Nederlands. Elk EU-land levert namelijk alleen voor in dat land geregistreerde kentekens gegevens aan Eurostat. In het geval dat het RDW geen volledige informatie geeft (voor de euronorm heeft de RDW geen volledige dekking en de bij asconfiguratie en laadvermogenklasse is ook bepalend hoe het voertuig daadwerkelijk op de weg is ingezet) zijn modelmatige afleidingen gebruikt (zie hoofdstuk 3).
+
+Het rittype en het aantal zendingen per rit worden bepaald aan de hand van opgegeven zendingen en het toestand van het voertuig vóór laden en na lossen (beladen/leeg). Hoe dit gebeurt, is eerder in dit hoofdstuk beschreven. Het soort vervoer (beroepsvervoer of eigen vervoer) is ook een ritkenmerk en dus niet een bedrijfskenmerk. Per bedrijf is weliswaar bekend tot welke branche het bedrijf behoort (dus ook de branche van het beroepsgoederenvervoer), maar een bedrijf behorende tot het eigen vervoer (bijvoorbeeld een groothandel) kan toch een rit tegen betaling voor derden verrichten. In dat geval behoort de rit toch tot het beroepsvervoer. Bedrijven kunnen op de enquête aangeven of de voertuigen gedurende de enquêteperiode zijn ingezet voor alleen beroepsvervoer, alleen eigen vervoer of voor beiden. In geval dat kentekens zijn ingezet voor zowel beroepsvervoer als eigen vervoer dan dienen ze dit in de enquête voor elke dag te specificeren. Indien ze zelfs op een dag aangeven zowel beroepsvervoer als eigen vervoer te hebben verricht, dan betreft elke eerste rit beroepsvervoer en elke tweede rit eigen vervoer.
+
+Elk record in het basisbestand bevat ook een ophoogfactor (veld ‘FAKTOR). Door onopgehoogde waardes (op basis van respons) te vermenigvuldigen met de ophoogfactor worden de telvariabelen (die gelden voor de populatie) bepaald. Elk bestand heeft ook een ritrecordnummer. In het deelritten- en zendingenbestand zijn ook de ritrecordnummers opgenomen, zodat per rit ook de bijbehorende deelritten (deelritrecordnummers) of het bijbehorende zendingen (zendingrecordnummer) te achterhalen zijn. In het deelrittenbestand zijn per deelrit ook de twee zendingrecordnummers opgenomen waaruit de deelrit is opgebouwd.
+
+Door de nieuwe wegvervoerenquête en uitvraagstrategie krijgt CBS sinds 2013 meer en betere informatie binnen over het wegvervoer. Het percentage stilstand en terreinwerk percentage is lager en het aantal ritten per kenteken is hoger. Vooral omdat in de oude vragenlijst bedrijven gegevens van meerdere ritten en zendingen in één rondrit stopten gingen veel gegevens verloren (zie ook kader 3.8.2). De verbeterde waarneming heeft geleid tot een opwaartse trendbreuk. De trendbreuk is in kaart gebracht via structurele tijdreeksanalyse waarbij gebruik is gemaakt van hulpinformatie waar geen sprake is geweest van een verandering in methoden en/of waarneming die hebben geleid tot een trendbreuk. De hulpinformatie betroffen tijdreeksen van volume-ontwikkelingen van de Nationale rekeningen (voor wat betreft wegvervoer relevante branches) en van de Internationale handel. Deze reeksen hadden namelijk een hoge correlatie met de reeksen van het wegvervoer.
+
+Op het vervoerd gewicht was er een trendbreuk op het totale vervoer van ruim 19 procent. Op de totale afstand was geen significante trendbreuk (binnen de ruis van het tijdreeksmodel). Bedrijven gaven namelijk in 2011 wel nog de totale kilometers op bij een rondrit. Er was echter wel sprake van een verschuiving van binnenlands naar internationaal en van beladen naar leeg. Zie het overzicht van de trendbreuken in tabel 2.2.4. Bij rondritten wordt namelijk veelal één (binnenlandse) laadplaats opgegeven die gelijk is aan de losplaats en de afstand van rit werd volledig aan de beladen afstand toegekend, terwijl het voertuig in werkelijkheid meerdere grensoverschrijdende beladen en/of lege (terug)ritten kan hebben gemaakt.
+
+In tabel 2.2.4 wordt de hoogte van de trendbreuken getoond.
+
+2.2.4 Significante Trendbreuken wegvervoer sinds 2013
+
+CBS heeft vanaf 2010 op microniveau correcties doorgevoerd om de trendbreuk te repareren en deze verbeterde data zijn inmiddels opnieuw geleverd aan Eurostat.
+
+Bestelauto’s
+
+In deze paragraaf worden de methoden uiteengezet die zijn gebruikt om van de gegevens in 2019 uitgevraagd bij bedrijven over bestelauto’s te komen tot het basisbestand 2019. Achtereenvolgens zullen worden beschreven: de uitgevraagde gegevens, de bepaling van het ritpatroon, toekennen ritafstand (beladen en leeg), verdeling van het vervoerd gewicht en de verdeling van de goederensoort.
+
+De volgende gegevens worden bij bedrijven met bestelauto’s uitgevraagd gedurende de enquêteperiode (= 3 dagen):
+
+Categorie (bouw, service, post- en koeriersdienst, goederenvervoer)
+
+Aantal ritten
+
+Aantal stops (aangedane adressen)
+
+Standplaats
+
+Belangrijkste plaatsen van rijden (max. 5)
+
+Gemiddeld gewicht gedurende den enquêteperiode(bij bouw en serviceauto’s), totaal gewicht per dag bij (post- koeriers en goederenvervoer)
+
+% gewicht goederen en % gewicht gereedschap (bij bouw en service)
+
+Km totaal gedurende de enquêteperiode (km-standen)
+
+Km leeg (alleen bij post- en koeriersdienst en goederenvervoer; bij de categorieën bouw en service wordt er niet naar lege kilometers gevraagd omdat er vanuit wordt gegaan dat er minimaal gereedschap in de laadruimte ligt.)
+
+Km buitenland
+
+Er zijn dus minimaal 1 en maximaal 6 (standplaats en 5 belangrijkste plaatsen van rijden) plaatsen bekend. Op basis van deze locaties worden ritten afgeleid. Omdat bedrijven niet het exacte ritpatroon hoeven op te geven zijn er bepaalde aannames en keuzes gemaakt. Het opgegeven vervoerd gewicht en kilometers (beladen en leeg) zijn wel uitgevraagd.
+
+Bij de categorie goederenvervoer is aan bedrijven gevraagd in de vragenlijst het aantal beladen ritten op te geven conform Eurostat-definitie (zie ‘beladen rit’ in de begrippenlijst). Bij de categorieën service, bouw en post- en koeriersdiensten, staat een rit voor het aantal keer dat het voertuig terugkeert op de standplaats.
+
+Er wordt uitgegaan van 4 ritpatronen:
+
+Aantal opgegeven ritten ≥aantal opgegeven plaatsen, geen lege kilometers
+
+Aantal opgegeven ritten ≥aantal opgegeven plaatsen, wel lege kilometers
+
+Aantal opgegeven ritten
+
+Aantal opgegeven ritten
+
+Onderstaand wordt de vier ritpatronen aan de hand van voorbeelden uitgewerkt. In de onderstaande voorbeelden wordt uitgegaan van de volgende plaatsen:
+
+Standplaats = Heerlen
+
+Belangrijkste gemeente van rijden 1 = Heerlen
+
+Belangrijkste gemeente van rijden 2 = Maastricht
+
+Belangrijkste gemeente van rijden 3 = Sittard
+
+R = Rit
+
+D = Deelrit
+
+Beladen = Met zending
+
+Leeg = Zonder zending
+
+Bij de categorieën service en bouw worden er geen lege ritten bepaald, omdat er vanuit wordt gegaan dat er minimaal gereedschap in de laadruimte ligt.
+
+Van elke rit worden er 2 deelritten (=D) gemaakt (een deelrit heen van de standplaats naar de belangrijkste plaats van rijden) en een deelrit terug (van de belangrijkste plaats van rijden naar de standplaats).
+
+Aantal opgegeven ritten (=R) = 5
+
+Van elke rit worden er 2 ritten (=R) gemaakt, namelijk de rit heen, van de standplaats naar de belangrijkste plaats van rijden en een aparte rit terug (van de belangrijkste plaats van rijden naar de standplaats).
+
+Aantal opgegeven ritten (=R) = 5
+
+Van elke rit wordt een rondrit gemaakt langs alle opgegeven plaatsen. Uiteindelijk eindigt de rit weer bij de standplaats. In het basisbestand 2015 zijn er geen rondritten gemaakt (alleen heen- en terugritten).
+
+Aantal opgegeven ritten (=R) = 2
+
+Van elke rit wordt een rondrit gemaakt langs alle opgegeven plaatsen. De beladen rit eindigt bij de laatst opgegeven plaats van rijden. Daarna volgt een nieuwe lege rit van de laatst opgegeven plaats van rijden naar de standplaats.
+
+Bedrijven geven op hoeveel kilometers de bestelauto gedurende de gehele enquêteperiode rijdt (op basis van kilometerstanden). Voor de verdeling van de kilometers worden eerst tussen de deelritvertrekplaats en deelritaankomstplaats de berekende afstand bepaald (optimale route). Vervolgens is het aandeel per vertrekaankomstcombinatie berekend en uitgedrukt in het totaal van de berekende afstand van alle opgegeven ritten. Deze factoren worden losgelaten op de daadwerkelijk in de vragenlijst opgegeven beladen afstand gedurende de enquêteperiode.
+
+Voorbeeld bij bouw en serviceauto’s (alleen beladen kilometers):
+
+Afstand berekend o.b.v. optimale route (routeplanner):
+
+Heerlen – Heerlen = 5 km (standaard indien vertrekplaats = aankomstplaats)
+
+Heerlen – Maastricht = 25 km
+
+Heerlen – Sittard = 15 km
+
+De totaal aantal gereden kilometers zijn:
+
+Aandelen:
+
+Vervolgens worden de aandelen vermenigvuldigd met de daadwerkelijk gereden kilometers.
+
+Opgegeven kilometers op basis van kilometerstanden gedurende de enquêteperiode: 180 km.
+
+Het kan dus voorkomen dat de ritafstand in het basisbestand per deelritrecord (flink) lager of hoger is dan de daadwerkelijk berekende afstand tussen laad-loscombinaties.
+
+Alleen bij de categorieën goederenvervoer en post- en koeriersdiensten kunnen lege kilometers worden opgegeven. De bouw- en serviceauto’s zijn per definitie beladen. Nadat het bedrijf heeft opgegeven hoeveel kilometers er gedurende de enquête is gereden, wordt gevraagd hoeveel kilometers daarvan leeg waren. De beladen kilometers worden berekend door de lege kilometers in mindering te brengen op het totaal aantal kilometers. Als lege kilometers zijn opgegeven, dan is de tweede deelrit (de terugrit) altijd leeg (rittype = 0). Omdat het aantal beladen kilometers meestal ongelijk is aan het aantal lege kilometers, kunnen de kilometers van deelrit 1, de beladen heenrit (=B) en deelrit 2 de lege terugrit (=L) afwijken.
+
+Voorbeeld: een bedrijf geeft op dat het gedurende de enquête week 5 ritten heeft gemaakt, waarbij hij in totaal 180 kilometers heeft gereden. Daarnaast geeft het bedrijf aan dat daarvan 80 km leeg was.
+
+De berekende afstand is dus voor zowel de beladen heenrit als de lege terugrit: 75 km.
+
+Allereerst worden weer voor beladen km en lege km afzonderlijk aandelen bepaald (dus zowel de beladen kilometers als de lege kilometers moeten optellen tot 1).
+
+Vervolgens worden de aandelen bij de beladen ritten met de beladen kilometers (100 km) en de aandelen bij de lege ritten met de lege kilometers (80 km) vermenigvuldigd.
+
+Voor elke rit, leeg en beladen wordt aan de hand van de routeplanner de afstand binnen Nederland en de totale afstand berekend. Ook de berekende buitenlandse kilometers worden geijkt met de opgegeven buitenlandse kilometers (volgens bovenstaand beschreven methoden).
+
+In een select aantal gevallen zijn er zowel lege kilometers als buitenlandse kilometers opgegeven. Van belang is dat zowel de opgegeven lege kilometers, buitenlandse kilometers als het totaal aantal kilometers matchen met de door bedrijven opgegeven kilometers.
+
+Er zijn drie varianten.
+
+Variant 1: Er is een buitenlandse laad- of losplaats aanwezig (laad- of loslancode <> NL)
+
+Opgegeven:
+
+Aantal ritten 3
+
+Totaal kilometers: 220
+
+Totaal leeg: 100
+
+Totaal internationaal: 120
+
+Standplaats: Maastricht Belangrijkste plaatsen van rijden: Luik, Sint-Truiden
+
+In dit geval wordt patroon 2 gehanteerd.
+
+Verdeling lege kilometers: 33+47+33 = 113: (33/113)*100 = 29 lege kilometers Maastricht-Luik en (47/113*100) = 42 lege kilometers Maastricht-Sint-Truiden.
+
+Verdeling beladen kilometers: uitgaande van nieuwe lege kilometers: (220 – 100)= 120 km beladen. Verdeling over de ritten (33/113)*120 = 35 km beladen Maastricht-Luik en (47/113)*120 = 50 beladen kilometer Maastricht – Sint-Truiden.
+
+Totaal afstand internationaal (Afstand herverdeeld – afstandnl berekend) = 150
+
+Er zijn 120 km internationaal opgegeven.
+
+((35-15)/150)*120 = 16,Afstandnl nieuw = 35-16 = 19
+
+((29-15)/150)*120 = 11, Afstandnl nieuw = 29-11 = 18
+
+((50-5)/150)*120 = 36, Afstandnl nieuw = 50-36 = 14
+
+((42-5)/150)*120 = 30, Afstandnl nieuw = 42-30 = 12
+
+((35-15)/150)*120 = 16, Afstandnl nieuw = 35-16 = 19
+
+((29-15)/150)*120 = 11, Afstandnl nieuw = 29-11 = 18
+
+Variant 2: Er zijn alleen maar Nederlandse laad- of losplaatsen, maar er zijn buitenlandse kilometers gemaakt (zendingsafstandtotaal >Zendingsafstandnl)
+
+Opgegeven:
+
+Aantal ritten: 2
+
+Totaal kilometers: 400
+
+Totaal leeg: 0
+
+Totaal Internationaal: 300
+
+Standplaats: Maastricht. Belangrijkste plaats van rijden: Bergen op Zoom, Heerlen
+
+In dit geval wordt patroon 1 gehanteerd.
+
+Totaal kilometers berekend: 149+149+25+25 = 348 km
+
+Herverdeelde afstand totaal Maastricht- Bergen op Zoom: (149/348)*400 = 171 km
+
+Herverdeelde afstand totaal Maastricht- Heerlen: (25/348)*400 = 29 km
+
+In dit geval wordt patroon 1 gehanteerd
+
+Variant 3: Er zijn alleen maar Nederlandse laad- of losplaatsen en er zijn volgens de routeplanner geen buitenlandse kilometers gemaakt (Voor alle ritten geldt zendingsafstandtotaal = Zendingsafstandnl)
+
+Aantal ritten: 2
+
+Totaal kilometers: 200
+
+Totaal leeg: 0
+
+Totaal Internationaal: 50
+
+Standplaats: Maastricht. Belangrijkste plaats van rijden: Heerlen, Sittard, Roermond
+
+In dit geval wordt patroon 3 gehanteerd.
+
+Afstand totaal berekend Afstandnl berekend
+
+Totaal afstand berekend: 244 km. Werkelijke afstand bijvoorbeeld Maastricht-Heerlen: (25/244)*300 = 31
+
+De buitenlandse kilometers worden over alle ritten als volgt verdeeld: 31-((31/200)*50) etc
+
+Bij serviceauto’s wordt het gemiddeld gewicht gevraagd per rit gedurende de hele enquêteperiode. Bij de categorieën Post- en Koeriersdiensten en Goederenvervoer wordt het totaal geladen gewicht per dag gevraagd.
+
+Voor deze categorie geldt dat per dag het totaal geladen gewicht en het aantal ritten voor die dag worden gevraagd. Per dag wordt het gewicht verdeeld over het aantal deelritten die dag (=Dag), die volgens het eerder beschreven ritpatroon zijn vastgesteld.
+
+Voorbeeld: het bedrijf geeft op de eerste dag op en totaal geladen gewicht 1 000 kg, op de tweede dag 1 rit en totaal geladen gewicht 600 kg en op de derde dag 2 ritten en totaal geladen gewicht 800 kg. Dan is de gewichtsverdeling over de deelritten als volgt:
+
+Voor deze categorie geldt dat naar het gemiddeld vervoerd gewicht gedurende de enquête­periode wordt gevraagd. Serviceauto’s rijden enerzijds standaard met gereedschap/voorraden in de auto, anderzijds gaan er (retour)goederen in en uit de bestelauto.
+
+Voorbeeld: voor een serviceauto wordt opgegeven dat er 5 ritten zijn gemaakt en gemiddeld met 250 kg alleen wordt gereden, waarvan 100 kg aan goederen en 150 kg aan gereedschap. Deze 250 kg wordt als volgt over de deelritten verdeeld.
+
+De ritten worden evenredig over de 3 steekproefdagen verdeeld. Is het aantal opgegeven ritten niet deelbaar door 3 (dagen) krijgt de eerste dag(en) een extra rit.
+
+Het vervoerd gewicht aan gereedschap wordt elk deel van een rit meegenomen. Het vervoerd gewicht aan goederen/materialen betreft de som van de hoeveelheid afgeleverde goederen/materialen en retour genomen goederen/(afval)materialen gedurende de complete rit. Het vervoerd gewicht aan goederen per deelrit betreft het (percentage goederen * totaal gewicht)/Aantal (afgeleide) deelritten per rit.
+
+De variabele In het basisbestand bestelauto’s die het vervoerd gewicht aan goederen representeert betreft OBPGEW. De variabele dit het totaal gewicht (gereedschap en goederen) representeert betreft OBC.
+
+Alleen bij de categorie ‘goederenvervoer’ wordt naar de goederensoort gevraagd. Op basis van de ingevulde goederensoort wordt een NSTR en een NST2007 toegekend (op dezelfde manier als deze wordt bepaald bij de vrachtauto’s). De goederensoorten bij de andere categorieën wordt bepaald op basis van branche (SBI-2008).
+
+Buitenlandse vervoerders
+
+Om de nationale autoriteiten van andere lidstaten dan het rapporterend land in staat te stellen volledige statistieken over het wegvervoer in het eigen land te produceren worden door Eurostat aan alle lidstaten D-tabellen verstrekt. Deze dienen als bron om de tabel van de buitenlandse voertuigen te vullen.
+
+De variabelen die bij de D-tabellen behoren zijn: GEO-detail (NUTS-3), lading/lossing, goederen: NST2007 in separate tabel (idem voor ADR-klasse), verschijningsvorm, ladinggewicht, tkm, vkm, aantal bewegingen en aantal waarnemingen. Variabelen die modelmatig geïmputeerd worden zijn: NSTR2 en NST2007 en LMS-zone (op basis van NUTS-3), TEU, correctie brutogewicht (excl. tarra) en brutoplusgewicht (incl. tarra). In tabel 2.2.3 is weergegeven welke geaggregeerde gegevensbestanden door Eurostat aan CBS verstrekt zijn.
+
+2.2.5 Inhoud D-tabellen
+
+Bron: Europese Commissie (2010), p. 4-5
+
+Opmerking: Voor de D-tabellen wordt de volgende classificatie gebruikt:
+
+Soort vervoer: eigen vervoer/beroepsvervoer
+
+Leeftijdsklasse: drie klassen
+
+Afstandsklassen: vier klassen
+
+Gebied: NUTS-3
+
+Periodes: jaar
+
+Assenconfiguratie: geaggregeerd op basis van soort voertuig (vrachtwagen, geleed voertuig en samenstel)
+
+In het document ‘Methodologies used in surveys of road freight transport in Member States and Candidate Countries’ van Eurostat staat een uitgebreide toelichting van de onderzoeksmethode van de overige EU-lidstaten, kandidaat-lidstaten van de EU en EFTA-landen.
+
+2.3 Kwaliteitseisen van de uitkomsten
+
+Voor de statistieken van het goederenvervoer over de weg geldt dat de resultaten gebaseerd zijn op steekproefonderzoek waarbij sprake is van een zekere betrouwbaarheidsmarge. Voor de grote vrachtvoertuigen (Nederlandse en buitenlandse) boven 2 ton laadvermogen geldt dat Eurostat kwaliteitseisen stelt. Voldoet de data niet aan deze kwaliteitseisen dan zal Eurostat de data ook niet accepteren. De validatieregels die Eurostat aan de microdata stelt zijn beschreven in bijlage VIII. Hierbij wordt onderscheid gemaakt tussen verplichte variabelen (in dit geval mogen geen foutieve records worden aangeleverd) en niet-verplichte variabelen. Verplichte variabelen waar Eurostat op checkt zijn vervoerd gewicht, goederensoort (NST2007), Laad- en loslocaties (juiste NUTS en landcodes), totale beladen afstand, transitolanden, tonkilometer, aantal beladen ritten, laadvermogen van het voertuig, periode gerelateerde variabelen (Jaar, kwartaal), richting, rittype, type vervoer (beroepsvervoer/eigen vervoer) en ophoogfactoren.
+
+Omdat in het basisbestand wegvervoer ook veel niet voor Eurostat verplichte variabelen zijn opgenomen, zijn er nog een grote hoeveelheid extra controles verricht, zowel intern door CBS zelf (zie bijlage IX) als extern door Panteia en Rijkswaterstaat om de kwaliteit van het basisbestand te borgen. Het gaat hierbij om specifieke geoclassificaties (LMS, SMILE, Gemeente), om afstand gerelateerde variabelen specifiek op Nederlands grondgebied, bepaalde voertuigkenmerken (euronorm, asconfiguratie), bepaalde goederenclassificaties (NSTR, GEVI, Stofcategorie), grensovergangen, de dag van vertrek, waarde van goederen en containervariabelen (Teu, aantal containers).
+
+Voor de basisbestanden van 2019 (gelijk aan die van 2014–2018) zijn met Rijkswaterstaat kwaliteitscriteria vastgelegd (zie tabel 2.3.1 en tabel 2.3.2)
+
+2.3.1 Kwaliteitscriteria
+
+Definities
+
+Compleetheid
+
+Percentage aantal ingevulde velden.
+
+Correctheid
+
+Percentage aantal correct ingevulde velden (voor zover te bepalen).
+
+Uitlegbaarheid
+
+Oorzaak van eventuele afwijkingen t.o.v. verwachte waarden is bekend en gerapporteerd.
+
+Het belang (deze was voor compleetheid, correctheid en uitlegbaarheid voor alle variabelen gelijk) van de verschillende variabelen wordt weergegeven in tabel 2.3.2.
+
+2.3.2 Kwaliteitscriteria per variabele (zie tabel 2.3.1)
+
+In hoofdstuk 3 wordt per variabele beschreven hoe deze tot stand zijn gekomen: op basis van waarneming, registers, koppellijsten of modelmatig (of een combinatie) ingeschat. Specifiek voor de variabele voertuigtype ontbreekt er informatie. Bij de Nederlandse voertuigen kan het type ‘LZV’ en de ‘Trekker solo’ niet apart worden afgeleid (informatie ontbreekt in de wegvervoerenquête). Daarnaast wordt óf de vrachtauto wel/niet met aanhanger rijdt weliswaar modelmatig geschat, maar is aanvullend onderzoek noodzakelijk om de kwaliteit van deze variabele vast te stellen. Voor buitenlandse voertuigen ontbreekt de informatie volledig bij doorvoer (Richting = 4), omdat deze informatie niet door Eurostat aan de lidstaten wordt gerapporteerd,. Voor enkele landen ontbreekt de informatie ook nog voor andere stromen (Richting 1-3), omdat zij deze informatie niet aan Eurostat aanleveren. Voor meer informatie, zie paragraaf 3.6. In bijlage X wordt nog een overzicht gepresenteerd van alle variabelen in de basisbestanden en hoe deze tot stand zijn gekomen.
+
+2.4 Omschrijving eindbestanden
+
+In deze paragraaf wordt de structuur van de basisbestanden weergegeven. In de basisbestanden zijn in ieder geval de ritten opgenomen van de Nederlandse en buitenlandse voertuigen die (gedeeltelijk) op Nederlands grondgebied hebben gereden.
+
+Voor de Nederlandse vrachtvoertuigen geldt dat alle ritten zijn opgenomen (dus ook ritten die niet over Nederlands gebied zijn gegaan). Indien er over Nederlands grondgebied wordt gereden zijn deze ritten namelijk ondergebracht in de categorie ‘Doorvoer door Nederland zonder overlading’. In de andere gevallen zijn deze vervoerstromen opgenomen in de categorie ‘Overig’. Voorbeelden van deze laatste categorie zijn:
+
+Cabotage: Een Nederlandse vervoerder die goederen vervoert tussen twee buitenlandse plaatsen in hetzelfde land, bijvoorbeeld van Keulen naar Berlijn.
+
+Derdelandenvervoer: Een Nederlandse vervoerder die goederen vervoert tussen twee buitenlandse plaatsen die niet in hetzelfde land liggen, bijvoorbeeld van Keulen naar Milaan.
+
+De basisbestanden goederenwegvervoer 2019 voor zowel Nederlandse vrachtauto’s, Buitenlandse vrachtauto’s en bestelauto’s gaan uit van een zelfde structuur, zodat deze bestanden naar behoefte kunnen worden samengevoegd. In tabel 2.4.1 wordt het totaal aantal records per bestand weergegeven.
+
+2.4.1 Aantal records per bestand
+
+Er hebben in de basisbestanden 2019, vergeleken met die van 2018, geen wijzigingen in de variabelen plaatsgevonden.
+
+In vergelijking tot het rittenbestand beschikt het zendingenbestand over twee extra variabelen: ‘recnr1_2’ en ‘zendingrecnr’ en ‘stofcat’. Ook het deelrittenbestand kent twee extra variabelen ten opzichte van het rittenbestand. Daar waar het zendingenbestand de variabele ‘zendingrecnr’ bevat, heet deze in het deelrittenbestand ‘deelrittenrecnr’ en is ‘recnr1_2’ gesplitst in de variabelen ‘recnr1’ en ‘recnr2’. De ‘recnr’-variabelen zijn geïntroduceerd om de oorspronkelijke volgorde van de zendingen weer te geven en de bijbehorende deelritten aan te geven. De reden hiervoor is dat op deze wijze te achterhalen is welke deelritten en zendingen bij welke ritten behoren.
+
+Voor het basisbestand bestelauto’s geldt dat er sinds 2015 twee extra variabelen zijn toegevoegd: 1. Het kenmerk van het voertuig (bouw, service, post- en koeriers, goederenvervoer) en kenmerk van de deelrit (of het een heen of terugrit naar de standplaats betreft).
+
+Het rittenbestand bestaat uit 61 variabelen en het zendingen- en deelrittenbestand bestaan uit 64 variabelen. Het bestelautobestand bevat 63 variabelen en het bestand buitenlandse voertuigen 60. Voor de eerste 60 variabelen geldt dat ze over alle vijf de bestanden gelijk zijn.
+
+De variabele ‘oaantrit’ geeft het aantal opgehoogde ritten weer. Het ritten-, bestelauto- en buitenlandersbestand beschikt over deze variabele. Bij het deelrittenbestand wordt het aantal opgehoogde deelritten aangeduid met ‘oaantdrit’ en bij het zendingenbestand het aantal opgehoogde zendingen met ‘oaantzend’.
+
+In de geleverde bestanden zijn in de SPSS-versie voor alle variabelen de omschrijvingen (labels) toegevoegd (incl. SPSS-syntax). Dit vergemakkelijkt het werken met de bestanden aangezien deze op gedetailleerde wijze de inhoud van de variabele omschrijven.
+
+In de volgende tabellen is de inhoud van de afzonderlijke tabellen weergegeven. Per variabele is beschreven welk soort variabele het betreft (numeriek of tekst), de lengte in posities en de omschrijving van de variabele. Tabel 2.4.2 laat de structuur zien van het rittenbestand dat CBS heeft opgeleverd. De recordomschrijving van het deelrittenbestand staat beschreven in tabel 2.4.3 De structuur van het zendingenbestand is weergegeven in tabel 2.4.4 en de samenstelling van het bestelauto- en buitenlandersbestand zijn gepresenteerd in tabel 2.4.5 en 2.4.6.
+
+2.4.2 Recordomschrijving rittenbestand
+
+Bron: CBS
+
+2.4.3 Recordomschrijving deelrittenbestand
+
+Bron: CBS
+
+2.4.4 Recordomschrijving zendingenbestand
+
+Bron: CBS
+
+2.4.5 Recordomschrijving bestelautobestand
+
+Bron: CBS
+
+2.4.6 Recordomschrijving buitenlandersbestand 1)
+
+Bron: CBS
+
+1) Niet alle variabelen in het basisbestand worden geleverd door de EU-lidstaten. Zie bijlage X voor een overzicht van welke variabelen in het basisbestand beschikbaar zijn (en hoe deze tot stand zijn gekomen) en welke niet.
+
+
+
+Variabelen Basisbestand 2019
+
+In dit hoofdstuk staan de variabelen in de basisbestanden centraal. Het hoofdstuk beschrijft de werkzaamheden die zijn uitgevoerd om de wegmatrix te construeren. Er is naar gestreefd om zoveel mogelijk aan te sluiten bij de werkwijze en methoden die gebruikt zijn bij het maken van het basisbestand goederenwegvervoer 2011 omwille van de consistentie van de cijfers. Hierdoor kunnen trendbreuken zo veel mogelijk worden voorkomen. In Bijlage VII worden er nog per variabele (voor elk basisbestand: vrachtauto’s NL (ritten, deelritten, zendingen), bestelauto’s en buitenlandse voertuigen, een aantal kengetallen getoond (min, max, som, gemiddelde en standaarddeviatie).
+
+3.1 Laadplaats en losplaats
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+LAND_LAD
+
+LAND_LOS
+
+LMS_LAD
+
+LMS_LOS
+
+GEM_LAD
+
+GEM_LOS
+
+NUTS_LAD
+
+NUTS_LOS
+
+RICHTING
+
+Het betreffen verschillende geografische coderingen van de laadplaats en de losplaats. Daarnaast worden ook SMILE-zones vastgesteld van laden en lossen, deze worden verder toegelicht in paragraaf 3.24.
+
+De landcodes (laden en lossen) worden bepaald aan de hand van door de bedrijven in de wegvervoerenquête opgegeven laad/loslocaties (plaatsnaam/postcode). Hier wordt een extern locatieserver (locatienet) voor gebruikt. Aan de hand van de laadland-loslandcombinaties wordt de richting afgeleid, zie tabel 3.1.1.
+
+3.1.1 Afleiding van de Richting
+
+De LMS-zonering betreft een door Rijkswaterstaat bepaalde geografische indeling als onderdeel van het verkeersmodel ten behoeve van prognoses over de belasting van het hoofdwegennet (Landelijk Model Systeem). LMS-zones worden bepaald aan de hand van een door Rijkswaterstaat vastgestelde koppeltabel postcodes – LMS-zones. Deze zijn opgenomen in het NRM-basisbestand 2014 dat door RWS aan het CBS is geleverd (zie bijlage XI voor de koppeltabel Gemeente – LMS). Voor Nederlandse vrachtauto’s en trekkers geldt dat de postcodes en laad- en losplaatsen via de CBS wegvervoerenquête worden uitgevraagd. De postcodes zijn echter voor ongeveer 40 procent van alle laad- en losplaatsen bekend (het betreft geen verplichte variabele). Om toch tot een volledige dekking te komen voor de LMS-zonering, zijn de volgende stappen doorlopen.
+
+Indien de berichtgever de postcode heeft ingevuld in de CBS-wegvervoerenquête dan is de LMS-zonering van het bijbehorend postcodegebied overgenomen. Omdat met namen in de havengebieden in Amsterdam en Rotterdam door respondenten vaak plaatsnamen in plaats van postcodes worden opgegeven (Bedrijven geven bijvoorbeeld Botlek als laadplaats op zonder postcode) is er extra gaafmaakwerk verricht om de vulling van de postcodes met 10 procent punten te verhogen naar ongeveer 50 procent. LMS-zones van de postcodes van plaatsnamen met maar één postcodegebied zijn als zodanig overgenomen.
+
+De overige LMS-zones zijn verdeeld aan de hand van bedrijfsgegevens voor de laadplaatsen en losplaatsen. Dezelfde verdeelsleutel is gehanteerd als bij de vorige edities van de basisbestanden (2011, 2014, 2015 , 2016 en 2017): bij laadplaatsen voor goederen met NSTR 0 het aantal arbeidsplaatsen in de landbouw en bij de overige NSTR-hoofdstukken (1 t/m 9) het aantal arbeidsplaatsen in de industrie. Indien de verschijningsvorm van de vervoerde goederensoorten neobulk/stukgoed betreft, is voor de losplaatsen een andere verdeelsleutel berekend, namelijk op basis van het aantal inwoners (deze is namelijk meer gerelateerd aan de consumptie van goederen). Wanneer de verschijningsvorm vaste bulk, vloeibare bulk of container is, wordt voor de losplaatsen dezelfde verdeelsleutel gehanteerd als bij de laadplaatsen. Hiermee wordt een 100 procent vulling bewerkstelligd. Bij deze modelmatige methode is het NRM-basisbestand 2014 gebruikt. Op kaart 3.1.1 en 3.1.2 worden respectievelijk het aantal ritten per LMS-zone van lading en het brutogewicht per LMS-zone van lossing getoond.
+
+In het bestand met het buitenlandse voertuigen worden LMS-zones modelmatig ingeschat volgens dezelfde methodiek als bij Nederlandse voertuigen (voor zover deze nog niet waren te bepalen aan de hand van goed ingevulde postcodes) op basis van het NRM-basisbestand met wel twee belangrijke verschillen:
+
+Voor de buitenlandse voertuigen zijn laad- en loslocaties alleen bekend op NUTS-3 niveau. Het toekennen van LMS-zones gaat dus via verdeelsleutel NUTS3‑LMS-zone.
+
+Voor het bepalen van de verdeelsleutel is alleen informatie uit het NRM-bestand van het aantal arbeidsplaatsen gebruikt (en dus niet van het aantal inwoners).
+
+Bij de Nederlandse voertuigen en bestelauto’s wordt aan de hand van door bedrijven opgegeven laad-loslocaties (plaatsnaam/postcode) via een koppellijst de gemeentecodes vastgesteld. In het bestand buitenlandse voertuigen zijn deze gevuld vanuit de reeds vastgestelde LMS-zones, op basis van de verdeling van het aantal deelritten uit het deelrittenbestand (aantal deelritten per LMS naar gemeenten). Kaart 3.1.4 toont het vervoerd gewicht door buitenlandse voertuigen naar gemeente van laden.
+
+De geografische afleidingen van bestelauto’s is beschreven in paragraaf 2.2.2. Zie kaart 3.1.4 voor het aantal ritten van bestelauto’s per Nuts van laden.
+
+NUTS-zones worden afgeleid uit door Eurostat aangeleverde Shape-files. Vanaf statistiekjaar 2018 is er een nieuwe NUTS-classificatie: NUTS 2016 in gebruik genomen (In bijlage XII zijn de veranderingen van Nederlandse NUTS-regio’s gepresenteerd). De door bedrijven opgegeven laad-loslocaties worden teruggebracht tot een lattitude-longitude. Vervolgens wordt dit geconfronteerd met de shapefiles waarna de NUTS-zone wordt bepaald. Vanaf 2015 is de NUTS 2015 in werking getreden en ook geïmplementeerd in de basisbestanden.
+
+3.2 Grenspost in en uit volgens LMS-zonering
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+GRENSIN
+
+LMS_GIN
+
+GRENSUIT
+
+LMS-GUIT
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat de grensposten in niet in de CBS-wegvervoersenquête zijn opgenomen. Dit was nog wel het geval in de periode 2004–2009 (voor alleen de in- en uitvoer, dus niet voor de doorvoer). Deze gegevens zijn net als bij de basisbestanden 2011 en 2014–2016 gebruikt om de meest plausibele grensovergang in te schatten (grensovergangen die ná 2009 zijn ontstaan zijn dus niet meegenomen). Per ‘paartje’ (laad- en losplaats) is de door bedrijven vaakst opgegeven grensovergang als uitgangspunt genomen. Bij de laadplaats-losplaats combinaties die periode 2004–2009 niet voorkwamen is de vaakst ingevulde grensovergang op basis van NUTS3‑paartjes bepaald.
+
+Het restant is automatisch opgezocht via een google-maps algoritme, waarbij voor elke herkomst en bestemming relatie (via optimale route) de exacte grensovergang wordt vastgesteld. In 2017 werd dit nog handmatig opgezocht. Bij het vervoer door Nederland, maar met een laad- en losplaats in het buitenland (doorvoer) zijn de grensin en de grensuit bepaald aan de hand van een randomverdeling van de bepaalde grensovergangen van uitvoer en invoer. Hierbij is wel onderscheid gemaakt tussen richting: zuid (laad- of losland: Zuid is Groot-Brittannië, België, Ierland, Luxemburg, Spanje, Frankrijk, Portugal, Italië of Zwitserland) en richting: west (overige laad- of loslanden).
+
+Bij de buitenlandse voertuigen is voor in- en uitvoer de vaakst ingevulde grensovergang uit de Nederlandse wegvervoer enquête in de periode 2004–2009 op basis van NUTS-paartjes als uitgangspunt genomen. De grensin en grensuit bij de doorvoer zijn op dezelfde manier bepaald als bij de Nederlandse vrachtvoertuigen.
+
+Bij de bestelauto’s zijn de grensovergangen ook via het google-maps algoritme opgezocht aan de hand van de optimale route tussen laadplaats en losplaats.
+
+De verdeling van het aantal inkomende ritten naar grenspost is weergegeven in tabel 3.2.1 (top 10). Het aantal uitgaande ritten naar grensposten is getoond in tabel 3.2.2 (top 10). Per grensovergang wordt er ook een LMS-zone (de LMS-zone waarin de grensovergang valt) via een koppeltabel bepaald.
+
+3.2.1 Aantal ritten uitgesplitst naar top 10 inkomende grenspost, 2019
+
+3.2.2 Aantal ritten uitgesplitst naar top 10 uitgaande grenspost, 2019
+
+3.3 Goederengroep NST2007 en NSTR
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+NST2007
+
+NSTR_HFD
+
+NSTR_GR
+
+Deze variabele geeft informatie over de goederen die vervoerd worden. NSTR (Nomenclature uniforme des marchandises por les Statistiques de Transport, revisée) is een in Europa veel gebruikte classificatie van goederen. De codering is hiërarchisch opgebouwd. Door gebruik te maken van een indeling van 1 tot 4 cijfers kunnen goederen op het gewenste detailniveau worden geclassificeerd. In de basisbestanden is het minimale detailniveau NSTR-2.
+
+Sinds 2008 is de NST2007 van kracht binnen de lidstaten van de Europese Unie. De NST2007 is opgenomen met 3 digits.
+
+De goederenomschrijvingen worden uitgevraagd in de CBS-wegvervoerenquête. Een goederencodeermodule is gehanteerd om goederensoorten op een eenduidige wijze te coderen. Goederenomschrijvingen worden gecodeerd op GN8 of op NSTR-4 niveau. Bij (te) algemene goederen wordt de NSTR-2 gecodeerd. In de basisbestanden is dit geaggregeerd naar NSTR-2 digit en NST2007 3 digit niveau. Indien er meerdere zendingen met verschillende goederensoorten zijn bij een rit, is gekozen voor de NSTR (en NST2007)-code met het hoogste gewicht.
+
+De NSTR voor buitenlandse voertuigen voor wat betreft de in- en uitvoer is bepaald volgens een model, zie bijlage I. Voor de doorvoer is geen goederensoort informatie bekend, maar is deze wel bepaald via een random verdeling op basis van een (niet gewogen) gemiddelde van de in- en uitvoer. Bij de basisbestanden 2011 was de NSTR bij doorvoer voor buitenlandse voertuigen nog als onbekend (standaard NSTR 99) bepaald.
+
+Voor de bestelauto’s zijn bedrijven in geval dat de bestelauto is ingezet voor goederenvervoer gevraagd goederensoorten op te geven. Op basis van deze informatie zijn de NSTR en NST2007 toegekend. Bij de categorie Post- en koeriers betreft de NST2007 en de NSTR behorende bij goederensoort post en pakketten. Bij de de categorieën bouw en service is de goederensoort geschat op basis van de SBI, waarin het bedrijf actief is.
+
+3.3.1 Vervoerd gewicht uitgesplitst naar NSTR-1 goederengroep, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+In de tabellen 3.3.1 en 3.3.2 is een overzicht weergegeven van het totaal aantal bruto plus vervoerde tonnen per NSTR-1 digit goederengroep en NST2007-2 digits goederengroep (zendingen-, buitenlanders,- en bestelautobestand). Hieraan gekoppeld is de uitsplitsing beroepsvervoer en eigen vervoer uit het rittenbestand.
+
+3.3.2 Vervoerd gewicht uitgesplitst naar NST2007 goederengroep, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.4 Verschijningsvorm
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+VERSVORM
+
+In 1986 is de indeling van verschijningsvormen (het uiterlijk van de transportlaadeenheid; vrachttype) van goederen vastgesteld door de ‘Economic Commission for Europe Working Party on Facilitiation of International Trade Procedures’ van de Verenigde Naties, en is als zodanig overgenomen door Eurostat. Het betreft de volgende indeling in 10 categorieën (CBS kent een 11‑delige categorisering waarbij de categorie ‘hangende goederen’ is toegevoegd):
+
+Liquid Bulk (no cargo unit);
+
+Solid bulk (no cargo unit);
+
+Large freight containers;
+
+Other freight containers;
+
+Palletised goods;
+
+Pre-slung goods;
+
+Mobile, self-propelled units – live animals;
+
+Other mobile units;
+
+This code is not allocated;
+
+Other cargo types.
+
+In de basisbestanden wordt uitgegaan van de volgende vierindeling:
+
+natte bulk;
+
+droge bulk;
+
+stukgoed/neobulk;
+
+container.
+
+Aangezien CBS beschikt over gegevens op basis van de eerder benoemde tien-indeling, zijn enkele categorieën uit de Eurostat indeling samengevoegd om tot de gewenste vierindeling te komen. De WVL-categorie ‘container’ behelst de Eurostat categorieën 2 en 3. De WVL-categorie ‘stukgoed/neobulk’ bevat de Eurostat categorieën 4, 5, 6, 7, 8 en 9. De Eurostat categorieën 0 en 1, ten slotte, komen overeen met respectievelijk ‘natte bulk’ en ‘droge bulk’.
+
+De verschijningsvorm van de goederen wordt sinds 2013 niet meer bij bedrijven uitgevraagd. De redenen hiervoor waren lastendrukverlichting voor bedrijven en de magere invulkwaliteit. Daarnaast is er een alternatieve methode om verschijningsvorm te bepalen beschikbaar (ook gehanteerd om de kwaliteit van de informatie over verschijningsvorm te verhogen bij de basisbestanden uit 2011). De verschijningsvorm is namelijk goed af te leiden uit de goedereninformatie (NSTR4), het vervoerd gewicht en het type voertuig.
+
+Er is rekening gehouden met het type vervoermiddel, omdat het type vervoermiddel (uitgedrukt in zgn. inrichtingscodes) voor een deel bepaalt welke verschijningsvormen vervoerd kunnen worden. Bijvoorbeeld: tankwagens zijn ontworpen om zowel vloeibare – en in mindere mate vaste (in poedervorm) – bulk te transporteren. Een kipper zal over het algemeen droge bulk vervoeren. Dit betekent echter niet dat het mogelijk is om in alle gevallen een één-op-één relatie te leggen tussen alle type vervoermiddelen en verschijningsvormen. Zo zijn er veel gebruikte vervoermiddelen die meerdere verschijningsvormen kunnen vervoeren, zoals trekkers met opleggers, open wagens, en wagens voor wisselbare opbouw.
+
+Om die reden is ook het vervoerd gewicht als hulpvariabele meegenomen om de NSTR4‑digit goederencodes naar verschijningsvorm te hercoderen. Uit data toen de verschijningsvorm nog wel werd uitgevraagd bij bedrijven, blijkt dat het vaak voorkomt dat 4‑digit NSTR’s verdeeld zijn over meer dan één verschijningsvorm. Zo kan een brede NSTR categorie als ‘0999 Overige grondstoffen van dierlijke of plantaardige oorsprong’ verschillende soorten producten omvatten, hetgeen resulteert in verschijningsvormen variërend van vloeibare bulk tot stukgoed/neobulk. Anderzijds is het vanzelfsprekend dat het vervoer van bijvoorbeeld aardappelen plaatsvindt in zowel de verschijningsvorm ‘droge bulk’ en ‘stukgoed/neobulk’: van het land naar het distributiecentrum worden aardappelen vervoerd als ‘droge bulk’ en van het distributiecentrum naar winkels op pallets als ‘stukgoed/neobulk’. Wanneer het voor de hand ligt dat er meer dan één verschijningsvorm is bij een goederencode, wordt ook het vervoerd gewicht gehanteerd als hulpvariabele.
+
+Per NSTR4‑digit is het gemiddeld gewicht bepaald per verschijningsvorm. Uit analyse blijkt dat het gewicht bij natte en droge bulk aanzienlijk hoger is dan het gewicht bij ‘stukgoed/neobulk’, ondanks het feit dat het dezelfde goederensoort betreft. Op basis van deze verschillen in gewichten is het mogelijk om ritten te verdelen onder meer dan één verschijningsvorm. In bijlage II is de hercoderingstabel van de NSTR4‑digit’s naar verschijningsvorm weergegeven. Een lege rit heeft als verschijningsvorm ‘NULL’ gekregen.
+
+De verschijningsvorm van buitenlandse voertuigen bij het binnenlandse en het bilateraal vervoer is, met uitzondering van de verschijningsvorm waar ook het voertuigtype als kenmerk is meegenomen, op dezelfde manier afgeleid als bij de Nederlandse vrachtvoertuigen. Omdat er voor de buitenlandse voertuigen geen informatie beschikbaar is over het type voertuig, heeft codering alleen plaatsgevonden op basis van het vervoerd gewicht per goederensoort.
+
+Voor de doorvoer is er vanuit Eurostat bij buitenlandse voertuigen geen goederensoort informatie bekend en dus ook geen verschijningsvorm. De verschijningsvorm is wel bepaald aan de hand van de belangrijkste verschijningsvorm (gemeten in vervoerd gewicht) per NSTR bij de overige stromen.
+
+De verschijningsvorm van bestelauto’s is standaard vastgesteld op stukgoed/neobulk.
+
+In tabel 3.4.1 is een overzicht gegeven van het vervoerde brutoplusgewicht uitgesplitst naar verschijningsvorm. De gegevens van de Nederlandse vrachtauto’s en trekkers zijn gebaseerd op het rittenbestand.
+
+3.4.1 Vervoerd gewicht uitgesplitst naar verschijningsvorm, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+Figuur 3.4.2 laat de verschijningsvorm zien met het hoogst aantal brutoplusgewicht per Nederlandse LMS-zone. Van alle 4 de categorieën verschijningsvormen was de categorie ‘container’ vrijwel alleen in de regio Rotterdam de belangrijkste.
+
+3.5 Containerindicator
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+CONTKL
+
+CONTLB
+
+OCONTBEL
+
+OCONTLG
+
+De variabele ‘containerindicator’ (CONTLB) geeft aan óf de goederen in containers vervoerd worden. Indien er sprake is van containervervoer is per vervoerde container aangegeven of het om een beladen of lege container gaat. De variabele (CONTKL) geeft aan of het om 20ft, 30ft of 40ft zeecontainers gaat. Voor de Nederlandse vrachtwagenvervoerders is de informatie uitgevraagd in de CBS-wegvervoerenquête.
+
+De gegevens van buitenlandse voertuigen van deze variabele komen niet voort uit de D-tabellen van Eurostat. De variabele is ook niet gevuld in het basisbestand. Voor de bestelauto’s is de aanname gemaakt dat er geen containers vervoerd worden door bestelauto’s.
+
+Tabel 3.5.1 geeft een overzicht van het vervoerde brutoplusgewicht van lege en beladen containers (OCONTLG en OCONTBEL). Dit gewicht is verder uitgesplitst naar voertuigtype en type vervoer. De tabel is gemaakt op basis van het rittenbestand.
+
+3.5.1 Vervoerd gewicht uitgesplitst naar containerindicator, 2019
+
+3.6 Voertuigtype
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+TYPEVRTG
+
+In de basisbestanden goederenwegvervoer 2015 zijn de volgende zeven voertuigtypen beschikbaar:
+
+vrachtauto;
+
+vrachtauto met aanhangwagen;
+
+trekker met oplegger;
+
+bestelauto;
+
+trekker solo;
+
+speciaal voertuig;
+
+Langere en Zwaardere Vrachtautocombinatie (LZW).
+
+Voor de Nederlandse vrachtauto’s, trekkers en bestelauto’s is deze variabele samengesteld op basis van kentekeninformatie uit het RDW-bestand. Voor de andere voertuigtypen is de kentekeninformatie uit het RDW aangevuld met informatie uit de wegvervoerenquête (bijvoorbeeld om te bepalen of er een aanhanger is ingezet). De gegevens van buitenlandse voertuigen van deze variabele komen voort uit de D-tabellen van Eurostat. Voertuigtype gegevens van buitenlandse voertuigen bij de doorvoer (Richting = 4) ontbreken. De landen België, Zwitserland, Hongarije en Italië hebben ook geen voertuigtype gegevens voor de andere richtingen aangeleverd. Deze informatie is in de basisbestanden niet gevuld.
+
+De bestelauto’s vallen vanzelfsprekend altijd in categorie 4.
+
+Andere afleiding van laadvermogen opleggers/aanhangers
+
+Sinds 2013 is er in de vragenlijst wegvervoer geen informatie meer uitgevraagd over kentekens van opleggers en aanhangers: 1. Omdat het aandeel van buitenlandse opleggers de laatste jaren steeds groter werd (hiervan ontbreekt kentekeninformatie), 2. Omdat de invulkwaliteit slecht was en 3. Omdat er in de nieuwe structuur van de vragenlijst geen mogelijkheid meer was opleggerkentekens uit te vragen. Het laadvermogen van de oplegger wordt sinds 2013 afgeleid op basis van Maximale Massa Aanhanger. Onderzoek (op basis van bekende en goed gevulde opleggers in voorgaande jaren) heeft namelijk uitgewezen dat er een hoge correlatie is tussen laadvermogen en de maximale massa aanhanger. De Trekker solo is vanaf 2013 ook niet meer te onderscheiden van de trekker met lege oplegger omdat opleggerkentekens dus niet meer apart worden uitgevraagd. Ook lzv’s kunnen niet apart worden afgeleid.
+
+Bij bedrijven die via XML aanleveren worden (indien bekend) wel opleggerkentekens aangeleverd. Het gaat hierbij om vier procent van het totaal aantal ritten uitgevoerd door trekker voor opleggers.
+
+Tabel 3.6.1 laat de verdeling zien van het vervoerd brutoplusgewicht naar voertuigtype. De gegevens van de Nederlandse vrachtauto’s en trekkers zijn gebaseerd op het rittenbestand.
+
+3.6.1 Vervoerd gewicht uitgesplitst naar voertuigtype, 2019
+
+3.7 Laadvermogenklasse
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+LVMKL
+
+Het laadvermogen van een voertuig is de maximum toegestane massa van de lading van een voertuig. Dit is het verschil tussen de maximaal toegestane massa van het voertuig en de massa van het voertuig in lege toestand. De laadvermogens van de voertuigen zijn onderverdeeld in 17 klassen.
+
+De laadvermogenklassen zijn samengesteld op basis van kentekeninformatie uit het RDW-bestand voor de Nederlandse vrachtauto’s, trekkers en bestelauto’s. Voor de buitenlandse voertuigen ontbreekt deze informatie in de D-tabellen. De laadvermogens van oplegger/aanhangers zijn in de basisbestanden vanaf 2014 op een andere manier bepaald dan voor het basisbestand 2011, zie kader: ‘Andere afleiding van laadvermogen opleggers/aanhangers’.
+
+De verdeling van het aantal ritten naar laadvermogenklasse is gepresenteerd in tabel 3.7.1. Onderscheid is gemaakt tussen lege en beladen ritten. Het rittenbestand heeft als bron gediend voor het bepalen van het aantal ritten van de Nederlandse vrachtauto’s en trekkers.
+
+3.7.1 Aantal ritten uitgesplitst naar laadvermogenklasse, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.8 Type rit
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+RIT_TYPE
+
+Bij de variabele ‘type rit’ zijn de volgende categorieën mogelijk:
+
+Lege rit;
+
+Rit met 1 zending;
+
+Rit met 2 zendingen;
+
+Rit met 3 zendingen;
+
+Rit met 4 of meer zendingen;
+
+Rondrit.
+
+Voor Nederlandse vrachtauto’s en trekkers (rittype 1 tot en met 6) geldt dat deze variabele wordt afgeleid uit informatie in de CBS-wegvervoerenquête (zie ook kader: Anders afleiden van rondritten’). Kader 3.8.1 beschrijft hoe de lege ritten (rittype 0) modelmatig worden afgeleid.
+
+Om de kwaliteit van deze variabelen te verhogen is extra gaafmaakwerk verricht. De meeste correcties die zijn doorgevoerd hadden betrekking op ritten die eigenlijk zendingen zijn (en omgekeerd). Op dit terrein maken de bedrijven de meeste invulfouten, rit- en zending definities worden door bedrijven verschillend en vaak anders dan de ritdefinitie zoals die door CBS/Eurostat wordt gehanteerd uitgelegd. Ten opzichte van 2011 is het aandeel rondritten in de basisbestanden 2014–2019 gedaald van bijna een derde van de ritten naar minder dan een procent ten gunste van de andere categorieën.
+
+Anders afleiden van rondritten
+
+In de enquête van 2011 werd het type rit, waaronder de rondrit, uitgevraagd bij bedrijven. De rondritoptie was voor bedrijven vaak een vluchtroute op de vragenlijst, want hier vulden bedrijven heen- en (lege) terugritten in, maar ook distributieritten, groupageritten, ophalen en brengen tegelijk, complete dagen en zelfs een complete week. Vanaf 2013 wordt het type rit niet meer apart uitgevraagd, maar kunnen bedrijven alle laad- en losplaatsen opgeven (tot een maximum van 15 per dag), waarbij ze dienen aan te geven of het voertuig voor laden en/of na lossen leeg is. Aan de hand daarvan wordt het ritpatroon en ook het aantal zendingen behorende bij die rit afgeleid. Vanaf 2013 zijn er gemiddeld per jaar nog minder dan een procent rondritten (tov ruim 30 procent in 2011). De rondritten die nog in het bestand aanwezig zijn, zijn door CBS zelf bepaald. Dit betreffen bedrijven die op 1 dag één zending opgeven waarbij de laadplaats gelijk is aan de losplaats, maar aan de hand van opgegeven kilometerstanden kan worden aangenomen dat er meer kilometers zijn gereden dan dat er bij een eenzendingsrit mag worden verwacht. Analyse van de bedrijven die dit opgeven heeft uitgewezen dat de bedrijven ook daadwerkelijk binnen de stand rondrijden (bijvoorbeeld bevoorrading binnenstad Amsterdam en vervoer van groenafval door de gemeente).
+
+Voor de buitenlandse voertuigen geldt dat alle ritten met belading gecategoriseerd zijn als ritten met 1 zending. De Italiaanse en Portugese statistische bureaus hebben geen lege ritten geleverd aan Eurostat en deze zijn ook niet opgenomen in de basisbestanden. Voor de buitenlandse voertuigen geldt dat de rit gelijk is aan de zending. Het basisbestand bestelauto’s betreft een deelritbestand. De afleidingsmethodiek van de afzonderlijke deelritten staat beschreven in paragraaf 2.2.2.
+
+De verdeling van het aantal ritten naar type rit is weergegeven in tabel 3.8.1. Het aantal ritten van de Nederlandse vrachtauto’s en trekkers komen voort uit het rittenbestand. In tabel 3.14.1 is tevens het brutoplusgewicht gepresenteerd, uitgesplitst naar type rit.
+
+3.8.1 Aantal ritten uitgesplitst naar type rit, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.9 Type vervoer
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+TYPEVERV
+
+Met deze variabele wordt onderscheid gemaakt tussen beroepsvervoer en eigen vervoer. Beroepsvervoerders verrichten vervoer van goederen voor derden tegen betaling. Eigen vervoerders verrichten vervoer uitsluitend bestemd voor/afkomstig van eigen bedrijf of onderneming.
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat deze variabele wordt uitgevraagd in de CBS-wegvervoerenquête.
+
+De gegevens van buitenlandse voertuigen van deze variabele komen niet voort uit de D-tabellen van Eurostat. Het type vervoer wordt bij de bestelauto’s afgeleid vanuit branchegegevens (SBI).
+
+In tabel 3.9.1 staat het vervoerd brutoplusgewicht van het beroepsvervoer en eigen vervoer uitgesplitst naar richting. Aangezien de gegevens van de buitenlandse vervoerders (behalve van de Belgen) onbekend is, zijn de buitenlandse voertuigen niet meegenomen in onderstaande tabel.
+
+3.9.1 Vervoerd gewicht uitgesplitst naar richting, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+In figuur 3.9.2 is het aandeel beroepsvervoer en eigen vervoer per land weergeven (op NUTS-0 niveau). Een algemene trend, die waar te nemen valt, is: hoe verder van Nederland hoe minder groot het aandeel eigen vervoer.
+
+3.10 Nationaliteit vervoerder
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+NATIONAL
+
+De nationaliteit van de vervoerder staat voor het land van registratie van het voertuig. Elke EU-lidstaat maakt statistieken van de voertuigen die in het eigen land staan geregistreerd. Aangezien alleen Nederlandse vervoerders in de CBS-wegvervoerenquête worden geënquêteerd, betekent dit automatisch dat de nationaliteit van de Nederlandse vrachtauto’s, trekkers en bestelauto’s, de Nederlandse is (landcode NL).
+
+De gegevens van buitenlandse voertuigen van deze variabele komen voort uit de D-tabellen van Eurostat (zie bijlage VI voor de landcodes per land).
+
+Het totaal vervoerd brutoplusgewicht uitgesplitst naar nationaliteit van de vervoerder is weergegeven in tabel 3.10.1.
+
+3.10.1 Vervoerd gewicht uitgesplitst naar richting en nationaliteit vervoerder, 2019
+
+3.11 Aantal zendingen
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+ZENDPRIT
+
+OAANTZEND
+
+Met een zending wordt bedoeld: de hoeveelheid goederen van één zelfde soort die in één keer voor één opdrachtgever van één laadplaats naar één losplaats van één geadresseerde wordt vervoerd (met één vervoermiddel). Voor Nederlandse vrachtauto’s en trekkers geldt dat de zendingen wordt uitgevraagd in de CBS-wegvervoerenquête.
+
+Het aantal ritten van buitenlandse voertuigen is afkomstig van de D-tabellen van Eurostat. Voor buitenlandse voertuigen wordt aangenomen dat een beladen rit gelijk is aan een zending (meerzendingsritten worden door veel landen niet opgegeven). Het aantal ritten is tevens opgenomen in de uitvraag van de bestelauto’s. Vervolgens zijn de ritten opgedeeld in deelritten. De afleidingsmethodiek van deze deelritten staat beschreven in paragraaf 2.2.2.
+
+Het overzicht van het aantal ritten uitgesplitst naar aantal zendingen per rit is weergegeven in tabel 3.11.1. Het aantal ritten van de Nederlandse vrachtauto’s en trekkers zijn gebaseerd op het rittenbestand. Voor de bestelauto’s zijn het aantal deelritten gepresenteerd.
+
+3.11.1 Aantal ritten uitgesplitst naar aantal zendingen per rit, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.12 Aantal beladen/lege containers en TEU
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+OTEULG
+
+OTEUBEL
+
+De afkorting TEU staat voor ‘Twenty feet Equivalent Unit’. TEU is de aanduiding voor afmetingen van (lege en beladen) containers: 1 TEU staat voor een 20ft container, 1.5 TEU voor een 30ft container en 2 TEU voor een 40ft container. Andere maten van containers (bijvoorbeeld de 45ft container) zijn niet apart in de CBS-vervoersenquête opgenomen.
+
+Er kunnen gedurende één rit ook combinaties van containers voorkomen, bijvoorbeeld zowel een 20ft container als een 40ft container. Bij de berekening van de TEU’s gedurende de rit wordt uitgegaan van het totaal aan containers (zowel leeg als beladen). In theorie is het mogelijk dat er twee (of drie) containers met één zending worden vervoerd. Maar ook twee of meer zendingen in één container behoort tot de mogelijkheden.
+
+In het zendingenbestand is voor de aparte zendingen het aantal TEU’s van de rit gedeeld door het aantal zendingen per rit. In het deelrittenbestand is het aantal TEU’s van de rit gedeeld door het aantal deelritten per rit. Zo telt het aantal TEU’s voor het zendingen- en deelrittenbestand op naar het rittenbestand. Extra gaafmaakwerk is verricht om de kwaliteit te verhogen.
+
+De gegevens van buitenlandse voertuigen van deze variabele komen niet voor de D-tabellen van Eurostat en zijn zodoende niet opgenomen in de basisbestanden. Voor de bestelauto’s is de aanname gemaakt dat geen containers vervoerd worden door bestelauto’s.
+
+Tabel 3.12.1 laat een overzicht zien van het aantal containers en vervoerde TEU’s uitgesplitst naar containerklasse voor de Nederlandse vrachtauto’s en trekkers. De tabel is gebaseerd op het rittenbestand.
+
+3.12.1 Aantal containers en TEU’s uitgesplitst naar containerklasse, 2019
+
+De haven van Rotterdam is de grootste haven van Europa. Figuur 3.12.2 presenteert om die reden het aantal beladen TEU’s met als laadplaats Rotterdam (599) naar NUTS-2 losplaats van de Nederlandse vrachtvoertuigen.
+
+Een overzicht van het aantal beladen en lege containers uitgesplitst naar richting met als detailniveau het type voertuig is weergegeven in tabel 3.12.3. De gepresenteerde cijfers zijn gemaakt op basis van het rittenbestand.
+
+3.12.3 Aantal beladen en lege containers uitgesplitst naar richting, 2019
+
+3.13 Aantal ritten
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+OAANTRIT
+
+Een beladen rit start op het moment dat goederen voor de eerste keer worden geladen en waarbij het voertuig daarvoor leeg was (of het moment dat de trekker wordt gekoppeld aan een beladen oplegger) en eindigt op het moment dat goederen worden gelost en het voertuig vervolgens leeg komt (of het moment dat de trekker wordt ontkoppeld aan een beladen oplegger).
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat de ritten worden afgeleid uit informatie in de CBS-wegvervoerenquête. Bedrijven moeten namelijk per steekproefvoertuig voor de gehele enquêteperiode aangeven of ze alleen éénzendingsritten, alleen distributie, alleen groupage of een combinatie verrichten. Daarnaast moeten bedrijven per dag de zendingen opgeven (tot een maximum van 15; zendingen met een dezelfde goederensoort en dezelfde losplaats mogen worden samengevoegd). Vervolgens moeten voor- en/of na de laadloscombinatie van de zending (bij distributie alleen na, bij groupage alleen voor en bij een combinatierit voor en na) opgeven of het voertuig leeg is. Aan de hand van deze informatie leidt CBS het ritpatroon af. Om de kwaliteit te verhogen is extra gaafmaakwerk verricht. Bij het aantal ritten geldt dat één record voor één rit staat (in het rittenbestand). Het opgehoogd aantal ritten per rit (=record) staat gelijk aan de ophoogfactor.
+
+De gegevens van buitenlandse voertuigen van deze variabele staan in de D-tabellen van Eurostat. De variabele ‘aantal ritten’ is ook opgenomen in de uitvraag van de bestelauto’s. De ritten zijn bij bestelauto’s opgedeeld in deelritten. Voor de afleidingsmethodiek van de deelritten zie paragraaf 2.2.2.
+
+Tabel 3.13.2 presenteert het aantal ritten uit het rittenbestand uitgesplitst naar richting. Als detailniveau is type vervoer gehanteerd. De gegevens van de Nederlandse vrachtauto’s en trekkers zijn gebaseerd op het rittenbestand. Voor de bestelauto’s zijn het aantal deelritten gepresenteerd.
+
+In figuur 3.13.1 is het aandeel van het binnenlands vervoer, de internationale afvoer en aanvoer van goederenstromen over de weg per Nederlandse provincie weergegeven, op basis van het aantal ritten. De figuur is samengesteld op basis van het deelrittenbestand.
+
+3.13.2 Aantal ritten uitgesplitst naar richting, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.14 Totaal vervoerd (brutoplus) gewicht
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+OBPGEW
+
+Het brutoplusgewicht is het gewicht van het vervoerde goed vermeerderd met het gewicht van de verpakkingen (brutogewicht) en het gewicht van de zeecontainers (brutoplusgewicht). Voor Nederlandse vrachtauto’s en trekkers geldt dat de variabele ‘totaal vervoerd gewicht’ wordt uitgevraagd in de CBS-wegvervoerenquête. Er is extra gaafmaakwerk (bijvoorbeeld correcties op hoge, niet reële gewichten) verricht om de kwaliteit te verhogen.
+
+In de basisbestanden wordt naast het brutogewicht (OBPGEW) ook het ladinggewicht (OBCGEW) onderscheiden. Het brutogewicht wordt uitgevraagd in de CBS-wegvervoerenquête. Het ladinggewicht wordt bepaald door het brutogewicht te nemen minus het gewicht van de zeecontainer (zie ook paragraaf 3.15 Vervoerd gewicht beladen/lege container).
+
+De gegevens van buitenlandse voertuigen van deze variabele komen voort uit de D-tabellen van Eurostat. Bij bestelauto’s wordt bij de categorie bouw en service naar het gemiddeld vervoerd gewicht gedurende de enquêteperiode gevraagd. Dit vervoerd gewicht is opgedeeld in vervoerde goederen en gereedschap dat standaard in de laadruimte van de bestelauto aanwezig is. Voor de categorieën goederenvervoer en post en koeriers wordt het totaal vervoerd gewicht per dag uitgevraagd. Voor de verdelingsmethodiek van het vervoerd gewicht over de verschillende deelritten: zie paragraaf 2.2.2.
+
+De onderstaande tabel 3.14.1 is gebaseerd op het rittenbestand en toont het brutoplusgewicht verdeeld over het type rit.
+
+3.14.1 Vervoerd gewicht uitgesplitst naar type rit, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.15 Vervoerd gewicht beladen/lege container
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+OBCGEW
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat er in de CBS-wegvervoerenquête wordt gevraagd naar containertype. Het gewicht van een 20 ft container is 2,3 ton en voor een 40 ft container 3,7 ton. Een 30 ft container weegt 3 ton. Deze maatstaven worden internationaal gehanteerd. Er is extra gaafmaakwerk verricht (bijvoorbeeld als er door een foutieve opgave te veel TEU (meer dan 3) wordt vervoerd) om de kwaliteit te verhogen.
+
+De gegevens van buitenlandse voertuigen van deze variabele komen niet voort uit de D-tabellen van Eurostat en zijn niet in het basisbestand opgenomen. Voor de bestelauto’s is de aanname gemaakt dat geen containers vervoerd worden door bestelauto’s.
+
+Tabel 3.15.1 geeft een weergave van het brutoplusgewicht en het brutogewicht containervervoer uitgesplitst naar lege/beladen container en containertype. Tevens laat de onderstaande tabel het aantal ritten zien.
+
+3.15.1 Vervoerd gewicht en aantal ritten uitgesplitst naar lege/beladen container, 2019
+
+3.16 Ingezet laadvermogen
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+OLVM
+
+Het laadvermogen van een voertuig is de maximum toegestane massa van de lading van een voertuig. Dit is het verschil tussen de maximaal toegestane massa van het voertuig en de massa van het voertuig in lege toestand. Het ingezet laadvermogen is het laadvermogen dat daadwerkelijk is ingezet. Indien er sprake is van een aanhanger of oplegger dan betreft het ingezet laadvermogen het laadvermogen van de vrachtwagencombinatie (en dus niet enkel van het trekkende voertuig). Voor de Nederlandse vrachtauto’s, trekkers en bestelauto’s is deze variabele samengesteld op basis van kentekeninformatie uit het RDW bepaald. De oplegger/aanhanger informatie wordt afgeleid (zie kader 3.6.1).
+
+Voor buitenlanders is het laadvermogen niet bekend en ook niet in de basisbestanden opgenomen. Voor de bestelauto’s wordt de informatie bepaald op basis van de RDW.
+
+3.17 Ladingtonkilometers totale traject/Nederlands grondgebied
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+OTONKM
+
+OTONKMNL
+
+Het begrip ladingtonkilometer vormt een uniforme maateenheid voor de vervoersprestatie en komt overeen met de verplaatsing van een ton lading over een afstand van één kilometer. De variabele ladingtonkilometers wordt berekend aan de hand van de zendingsafstand vermenigvuldigd met het vervoerd gewicht. De ladingtonkilometers worden op zendingniveau berekend. Om deze variabele ook op ritniveau te vullen worden de tonkilometers van de afzonderlijke zendingen gesommeerd. Voor rondritten is slechts 1 zending bekend, waarbij de laadplaats gelijk is aan de losplaats. Hier wordt ervan uitgegaan dat het voertuig gedurende de rit leegkomt en geldt voor de berekening van de ladingtonkilometers: zendingsafstand vermenigvuldigd met het vervoerd gewicht 0,5 (km * ton * 0,5).
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat het vervoerd gewicht (waar deze variabele van wordt samengesteld) worden uitgevraagd in de CBS-wegvervoerenquête. Aan de hand van het ritpatroon en routeplanningssoftware worden de kilometers per rit bepaald en ook de afstand op Nederlands grondgebied.
+
+De gegevens van buitenlandse voertuigen van de variabele ‘Ladingtonkilometers totale traject/Nederlands grondgebied’ zijn in de D-tabellen van Eurostat alleen bekend voor het totale traject. De afstand op Nederlands grondgebied is vervolgens bepaald aan de hand van een gemiddelde voor elke combinatie NUTS-laden en NUTS-lossen (op basis van de Nederlandse vrachtvoertuigen). Voor de doorvoer (richting 4) is net de afstand op Nederlands grondgebied bepaald tussen de beide grensovergangen. De totale afstand en ladingtonkilometers bij de doorvoer is bepaald aan de hand van gemiddelde afstanden tussen laad- en loslocaties (met transitoland Nederland). Bij bestelauto’s zijn de afstanden op Nederlands grondgebied bij internationale ritten bepaald aan de hand van routeplanningssoftware.
+
+Tabel 3.17.1 is samengesteld op basis van het zendingenbestand en geeft de ladingtonkilometerprestaties weer van de Nederlandse vrachtauto’s en trekkers, uitgesplitst naar richting.
+
+3.17.1 Ladingtonkilometerprestatie uitgesplitst naar richting, 2019
+
+3.18 Voertuigafstand totale traject/Nederlands grondgebied
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+OASFT
+
+OAFSTNL
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat de voertuigafstand wordt afgeleid op basis van ritpatroon en routeplanningssoftware. Ook om de afstand te bepalen op Nederlands grondgebied wordt gebruik gemaakt van routeplanningssoftware. Het totaal van de afgeleide ritafstanden gedurende de enquêteperiode wordt vergeleken met opgegeven kilometerstanden. In de gevallen van een grote afwijking worden de ritpatronen opnieuw bekeken en gaafgemaakt. Voorbeeld van een veel gemaakte fout: een bedrijf geeft via de kilometerstanden (begin en eind) op gedurende de enquêteweek 1 000 kilometers te hebben gereden. De totale ritafstand tussen laad- en losplaatsen komt echter uit op 5 000 km. Dit kan voorkomen als het bedrijf niet goed aangeeft dat zendingen tot één rit behoren. Zendingen worden als afzonderlijke ritten opgegeven, met als gevolg dat er onterechte heen en terugritten worden gemaakt. Ook een foutief opgegeven (en gegeocodeerde) laad- of loslocatie kan een oorzaak zijn.
+
+Indien de laad- en losplaats hetzelfde is bij een rit, deelrit of zending is de afstand afhankelijk van de oppervlakte van de gemeente en varieert van minimaal 5 kilometer bij kleine Nederlandse gemeenten tot 32,5 kilometer bij de grootste gemeente (Haarlemmermeer).
+
+Voor de afstandsbepaling van buitenlandse voertuigen en bestelauto’s bij de basisbestanden 2017, zie paragraaf 3.17.
+
+Tabel 3.18.1 toont de gereden kilometers van de Nederlandse vrachtauto’s, trekkers en bestelauto’s op het Nederlands grondgebied, uitgesplitst naar richting. De totale gereden kilometers zijn gepresenteerd in tabel 3.18.2. Ook deze tabel is gebaseerd op het rittenbestand en het bestelautobestand.
+
+3.18.1 Voertuigkilometerprestatie op Nederlands grondgebied uitgesplitst naar richting, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.18.2 Totale voertuigkilometerprestatie uitgesplitst naar richting, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.19 Laadvermogentonkilometer totale traject/Nederlands grondgebied
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+OLVMKM
+
+OLVMKMNL
+
+De variabele laadvermogentonkilometer wordt bepaald door het laadvermogen te vermenigvuldigen met de ritafstand (laadvermogen *km)
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat de zendingsafstand wordt bepaald met routeplanningssoftware aan de hand van opgegeven laad- en losplaats in de CBS-wegvervoerenquête. Om de afstand te bepalen op Nederlands grondgebied wordt ook gebruik gemaakt van routeplanningssoftware. De informatie van de variabele laadvermogen wordt gehaald uit het register van de Rijksdienst wegverkeer (RDW). Voor de bepaling van het laadvermogen van opleggers en aanhangers zie kader 3.6.1.
+
+Omdat voor de buitenlandse voertuigen het laadvermogen niet bekend is, zijn er ook geen gegevens over het aantal laadvermogentonkilometers op Nederlands grondgebied en het totale traject. De variabele ‘Laadvermogentonkilometer totale traject/Nederlands grondgebied’ is wel opgenomen bij het Basisbestand bestelauto’s en op dezelfde manier afgeleid als bij de grote vrachtauto’s.
+
+Tabel 3.19.1 is gebaseerd op het rittenbestand en het bestelautobestand en geeft een overzicht van het aantal laadvermogentonkilometers op het Nederlandse grondgebied en het totale traject, uitgesplitst naar richting, van de Nederlandse vrachtauto’s/trekkers en bestelauto’s.
+
+3.19.1 Laadvermogentonkm uitgesplitst naar richting, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.20 TEU-kilometers totale traject/Nederlands grondgebied
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+OTEUKM
+
+OTEUKMNL
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat het containertype wordt uitgevraagd in de CBS-wegvervoerenquête. De afkorting TEU staat voor ‘Twenty feet Equivalent Unit’. TEU is de aanduiding voor afmetingen van containers: 1 TEU staat voor een 20ft container, 1.5 TEU voor een 30ft container en 2 TEU voor een 40ft container. Andere maten van containers (bijvoorbeeld de 45ft container) zijn niet apart in de CBS-vervoersenquête opgenomen. Door het aantal TEU’s te vermenigvuldigen met de afstand (voor de zending is dit de zendingsafstand, voor de rit is dit de ritafstand en voor de deelrit is dit de deelritafstand) worden de TEU-kilometers bepaald. Om de afstand te bepalen op het Nederlandse grondgebied wordt gebruik gemaakt van routeplanningssoftware.
+
+De TEU-kilometers voor de buitenlandse voertuigen zijn modelmatig bepaald (zie voor de bepaling van TEU’s bijlage I). Met betrekking tot de doorvoer (richting 4) waren bij de basisbestanden 2011 alleen nog de TEU-kilometers op Nederlands grondgebied te bepalen (de afstand tussen de beide grensovergangen), maar in 2015 (en ook in 2014) is ook de totale afstand bepaald (Afstanden tussen laad- en loslocaties zijn bepaald aan de hand van afstanden bekend bij Nederlandse voertuigen/handmatig opgezocht via google maps.
+
+Tabel 3.20.1 is samengesteld op basis van het deelrittenbestand en geeft de TEU-kilometerprestaties weer van de Nederlandse vrachtauto’s en trekkers, uitgesplitst naar richting. Bovendien is er in de tabel onderscheid gemaakt tussen beroepsvervoer en eigen vervoer.
+
+3.20.1 TEU-kilometerprestatie uitgesplitst naar richting, 2019
+
+3.21 Gevaarlijke stoffen typering volgens ADR
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+ADR_KL
+
+Er zijn goederen die door hun specifieke eigenschappen tot de groep van gevaarlijke stoffen behoren. Afhankelijk van de specifieke eigenschappen zijn deze goederen ingedeeld in de zogenaamde, ADR-gevarenklassen.
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat deze variabele wordt uitgevraagd in de CBS-wegvervoerenquête of afgeleid (indien niet op de vragenlijst aangegeven) aan de hand van de goederensoort. Voor veel goederensoorten is namelijk bekend tot welke gevaarlijke stoffen categorie ze behoren. De complete ADR-indeling is weergegeven in bijlage III. In deze bijlage is een koppeltabel weergegeven van GEVI-codes naar ADR-codes en NSTR’s op 4‑digit niveau. Indien sprake is van meerdere verschillende zendingen met verschillende gevaarlijke stoffen bij een rit is gekozen voor de ADR-code met het hoogste gewicht.
+
+3.21.1 Aantal ritten uitgesplitst naar ADR-klasse, 2019
+
+Het overzicht van de verdeling van het aantal ritten (op basis van het rittenbestand) van de Nederlandse vrachtauto’s en trekkers naar ADR-klasse en richting is getoond in tabel 3.21.1.
+
+De gegevens van buitenlandse voertuigen van deze variabele komen niet voor in de D-tabellen van Eurostat en zijn niet meegeleverd. Voor de bestelauto’s is aangenomen dat er geen gevaarlijke stoffen worden vervoerd.
+
+Behalve ADR-gevarenklassen en gevaarsidentificatienummers (zie paragraaf 3.26) bevatten de basisbestanden goederenwegvervoer vanaf 2015 tevens een stofcategorie-indeling. Deze variabele (stofcat) is toegevoegd aan het zendingen- en rittenbestand en geeft een specifieke indeling van stoffen in een beperkt aantal categorieën voor de risicoberekening van transport met gevaarlijke stoffen. Uitgangspunt voor de indeling zijn de voor externe risico’s relevante stofeigenschappen, zoals vluchtigheid, brandbaarheid en toxiciteit. De stofcategorie-indeling betreft een hoger aggregatieniveau dan het VN-nummer (ook wel stofidentificatienummer), maar is gedetailleerder dan de ADR-klasse indeling.
+
+3.22 Spreiding over de week en over het jaar
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+KWARTAAL
+
+DAG_STRT
+
+Voor Nederlandse vrachtauto’s en trekkers en bestelauto’s geldt dat deze variabele wordt uitgevraagd in de enquête. De informatie wordt bepaald aan de hand van de steekproefweken. De gegevens van buitenlandse voertuigen van deze variabele komen niet voort uit de D-tabellen van Eurostat en zijn dan ook niet opgenomen in het basisbestand.
+
+Tabel 3.22.1 laat de verdeling van het brutoplusgewicht zien per dag. Uitgangspunt bij deze tabel is de dag van vertrek van een rit, onderverdeeld naar type vervoer. De tabel 3.22.2 laat de verdeling van het vervoerd gewicht over de kwartalen van 2019 zien.
+
+3.22.1 Vervoerd gewicht uitgesplitst naar dag van vertrek, 2019
+
+Bij tabel 3.22.2 staat het kwartaal van vertrek van een rit centraal, en dan uitgedrukt in het brutoplusgewicht.
+
+3.22.2 Vervoerd gewicht uitgesplitst naar kwartaal van vertrek, 2019
+
+1) Onder de noemer vrachtauto’s vallen naast vrachtauto’s tevens vrachtauto’s met aanhangwagens, trekkers, trekkers met oplegger, speciale voertuigen en Langere en Zwaardere Vrachtautocombinaties (LZV’s).
+
+3.23 GEVI-gevaarlijke stoffen
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+GEVI
+
+Het gevaarsidentificatienummer (GEVI) verwijst naar een getal dat aangeduid staat op de bovenste helft van een kemlerbord. Dit oranje kemlerbord is verplicht bij het vervoer van gevaarlijke goederen. In feite is de GEVI-gevaarlijke stoffen indeling een verfijning van de ADR-klasse (voor ADR-klasse zie paragraaf 3.21).
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat het VN-nummer wordt uitgevraagd in de CBS-wegvervoerenquête of wordt afgeleid aan de hand van de goederensoort indien bedrijven geen VN-nummer opgeven. Aan de hand van een koppeltabel is vervolgens het GEVI-nummer bepaald, zie bijlage III. De gegevens van buitenlandse voertuigen van deze variabele komen niet voort uit de D-tabellen van Eurostat. Voor de bestelauto’s is aangenomen dat er geen gevaarlijke stoffen worden vervoerd.
+
+Vanwege het omvangrijke aantal GEVI-gevaarlijke stoffen is er voor gekozen om in figuur 3.23.1 enkel de top-5 gevaarsidentificatienummers met het hoogste aandeel vervoerd gewicht weer te geven. De figuur is samengesteld op basis van het zendingenbestand.
+
+3.24 Laadplaats/losplaats volgens SMILE-indeling
+
+In deze paragraaf worden de volgende variabelen uit het basisbestand toegelicht:
+
+SMILE_LAD
+
+SMILE_LOS
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat laad- en losplaatsen worden uitgevraagd in de CBS-wegvervoerenquête. Aan de laad- en losplaatsen wordt een NUTS-3 code toegekend. Aan de hand van een koppeltabel is vervolgens de SMILE-codering bepaald, zie bijlage IV.
+
+Voor de buitenlandse voertuigen geldt dat laad- en losgegevens op het niveau van NUTS3 beschikbaar zijn in de D-tabellen van Eurostat. Aan de hand van de eerde genoemde koppeltabel is vervolgens de SMILE-codering bepaald. Ook voor de bestelauto’s zijn laad- en losplaatsen bepaald en is de SMILE-indeling beschikbaar. In figuur 3.24.1 wordt op basis van het zendingenbestand het geladen gewicht naar SMILE-zone weergegeven.
+
+3.25 Transitolanden
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+TLAND (1 t/m 5)
+
+Transitolanden zijn landen waar goederen door worden vervoerd zonder dat er gelost of geladen wordt. Transitolanden worden bepaald aan de hand van routeplanningssoftware en omdat de routeplanningssoftware in geval van transitolanden geen 100% correcte uitkomsten teruggeeft is er extra gaafmaakwerk verricht om de kwaliteit te verhogen (bijvoorbeeld: indien de laadlocatie bij een rit Nederland is, kan dit niet ook nog een transitoland bij die rit zijn).
+
+De variabele transitolanden betreft een verplichte variabele voor Eurostat. Echter, de transitolanden zijn bij ritten niet allemaal vermeld in de D-tabellen. Wel bekend is of buitenlandse voertuigen tijdens ritten Nederland als transitoland hebben gehad (in de D-5 tabellen). Op basis van deze informatie is de doorvoer van buitenlandse voertuigen vastgesteld. De transitolanden van ritten van de overige buitenlandse voertuigen zijn bepaald op basis van NUTS-paartjes en optimale routes. Voor ritten van en naar het Verenigd Koninkrijk is de aanname gemaakt dat de route via Calais gaat, dus bij de laad- of losplaats in Nederland via de transitolanden België en Frankrijk. Niet aan Nederland gerelateerde ritten (waarbij er geen sprake is van een Nederlandse vervoerder én waarbij Nederland geen transitoland is) zijn niet opgenomen in de data.
+
+Indien er meer dan vijf transitolanden zijn, worden de eerste twee transitolanden ná laden van de goederen en de laatste drie transitolanden vóór lossen van de goederen vermeld. Voor een select aantal ritten naar Frankrijk en naar het Verenigd Koninkrijk zijn voor bestelauto’s in de basisbestanden 2017 ook transitolanden zijn vastgesteld.
+
+Het aantal ritten naar transitoland gedurende 2017 is gepresenteerd in figuur 3.25.1. De figuur is gebaseerd op het deelrittenbestand en het buitenlandersbestand.
+
+3.26 Waarde vervoerde goederen in euro
+
+In deze paragraaf wort de volgende variabele uit het basisbestand toegelicht:
+
+OWAARDE
+
+De ‘waarde vervoerde goederen’ is de waarde van de vervoerde goederen in euro tegen handelsprijzen. De variabele komt voort uit de resultaten van het CBS-project ‘Integratie Handel en Transport’, waarin handelsstatistieken worden gekoppeld met vervoerstatistieken.
+
+Deze variabele is via een model geschat. Het model wordt beschreven in het artikel ‘ Integratie van internationale handels- en transportstromen; een nieuwe statistiek over internationale goederenstromen ’ (De Blois, Alberda & Boonstra, 2013). De waarde-gewichtverhoudingen zijn vastgesteld op basis van handelsprijzen en dateren van het jaar 2018 en informatie over het brutogewicht uit de CBS-wegvervoerenquête. Door deze waarde-gewichtverhoudingen per gemiddeld per goederensoort te vermenigvuldigen met het bruto gewicht is de waarde van de goederen bepaald. Daar waar mogelijk gebeurt de vermenigvuldiging op het gedetailleerde GN8‑niveau (in totaal 8 944 verschillende goederensoorten). In de overige gevallen wordt NSTR4‑digit als uitgangspunt gebruikt. In enkele gevallen is ook NSTR4‑digit niet bekend. Voor deze goederensoorten is geaggregeerd naar NSTR2‑digit niveau.
+
+De waarde-gewichtverhoudingen zijn gemaakt voor zowel de invoer en de uitvoer. Bij het internationaal vervoer waarbij de goederen in Nederland zijn geladen en in het buitenland worden gelost, zijn de waarde-gewichtverhoudingen behorende de uitvoer gehanteerd. Bij internationaal vervoer waarbij de goederen in het buitenland zijn geladen en gelost zijn in Nederland, zijn de waarde-gewichtverhoudingen behorende de invoer gehanteerd. Voor het binnenlands vervoer, cabotage en derde landen vervoer is het gemiddelde van de waarde-gewichtverhoudingen behorende bij de invoer én uitvoer gebruikt.
+
+Voor deze variabele geldt dat er vanaf 2016 een trendbreuk (omhoog) optreedt. Sinds dit jaar zijn de waarde-gewichtsverhoudingen specifiek vastgesteld voor de modaliteit wegvervoer (voorheen alle modaliteiten). Omdat via de weg, vergeleken met de andere modaliteiten relatief hoogwaardigere goederen worden vervoerd liggen de waarde-gewichtsverhoudingen hoger, vanaf 2016 dan in de jaren er voor, zie tabel 3.26.1.
+
+Het gewicht is uitgedrukt in brutogewicht, hetgeen resulteert in een waarde-brutogewicht factor (WBF) per goederensoort. Bijvoorbeeld: indien een bepaalde goederensoort een WBF heeft van 0,5 dan is de waarde van de goederensoort 500 euro per 1 000 kilogram. In bijlage V staan de WBF’s van alle goederensoorten op NSTR4‑digit niveau.
+
+In NSTR-groep 99 zit zowel goud als onbekende goederen. Omdat niet alle goederen te coderen zijn (en dus als onbekend zijn geclassificeerd), wordt de waarde voor deze NSTR-groep overschat. Bij buitenlandse voertuigen is de waarde van goederen op basis van de NSTR-2 digit bepaald (en dus niet op de onderliggende niveaus GN8 en NSTR4). Omdat bij buitenlandse voertuigen de NSTR-groep relatief vaak onbekend is (NSTR = 99) – bij doorvoer wordt dit zelfs standaard aangehouden – wordt de waarde van goederen overschat. Voor de uitvoer geldt bij NSTR-groep 99 een omrekeningsfactor van €35,65. Voor de invoer is deze omrekeningsfactor €93,92. In de analyse van deze variabele (naar richting) bij de buitenlandse voertuigen dient hier rekening mee te worden gehouden.
+
+3.26.1 Waarde-brutogewicht factor (WBF) goederenwegvervoer NSTR1-digit, 2015
+
+Bron: CBS
+
+3.26.2 Waarde vervoerde goederen t.o.v. brutoplusgewicht uitgesplitst naar NSTR1, 2019
+
+Voor de bestelauto’s is deze variabele ook volledig bepaald op basis van omrekeningsfactoren op NSTR-2 digits niveau.
+
+Tabel 3.26.2 laat de waarde van de vervoerde goederen zien ten opzichte van het brutoplusgewicht, uitgesplitst naar de richting. Ter verduidelijking is tevens het aandeel van de richting van de waarde en het brutoplusgewicht weergegeven.
+
+In tabel 3.26.3 wordt op NSTR 1 digit niveau de waarde en het gewicht van de goederen getoond.
+
+3.26.3 Waarde vervoerde goederen t.o.v. brutoplusgewicht uitgesplitst naar NSTR1, 2019
+
+In tabel 3.26.4 wordt op NST2007 2 digits niveau de waarde en het gewicht van de goederen getoond. Bij emballage en lege zeecontainers (vallend onder de NST2007 16) is de waarde van de goederen standaard 0.
+
+3.26.4 Waarde vervoerde goederen t.o.v. brutoplusgewicht uitgesplitst naar NSTR1, 2019
+
+3.27 Asconfiguratie
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+ASCONF
+
+De asconfiguratie staat voor het totale aantal assen van een wegvoertuig of een combinatie van voertuigen en de plaatsing van deze assen. De variabele ‘asconfiguratie’ is samengesteld op basis van kentekeninformatie uit het RDW-bestand. Per kenteken is het aantal (hef)assen en de maximale aslast per as beschikbaar. De asconfiguratie bestaat uit 3 cijfers, te weten:
+
+Het eerste cijfer van de asconfiguratie heeft betrekking op het type voertuig (zie paragraaf 3.6).
+
+Het tweede cijfer van de asconfiguratie bevat informatie over het maximaal aantal assen (inclusief hefassen) van het trekkende motorvoertuig.
+
+Het derde cijfer van de asconfiguratie geeft het maximaal aantal assen van de aanhanger/oplegger (inclusief hefassen) weer.
+
+Aanhangers/opleggers worden afgeleid (zie kader 3.6.1). Op basis van uitkomsten van een analyse van wel bekende opleggers is het aantal assen geschat (zie tabel 3.27.1).
+
+3.27.1 Schatting van het aantal assen op basis van laadvermogen
+
+Voor de bestelauto’s geldt dat de asconfiguratie standaard 420 is. De D-tabellen bevatten geen informatie over de asconfiguratie. Om die reden is het buitenlanders-bestand als volgt gevuld (9=onbekend):
+
+Vrachtauto = 190
+
+Vrachtauto met aanhangwagen = 299
+
+Trekker met oplegger = 399
+
+Trekker solo = 590
+
+In de onderstaande figuren is het aandeel van het aantal assen weergegeven per type voertuig in procenten. In figuur 3.27.2 is het aandeel van de asconfiguratie getoond van het voertuigtype ‘Trekker met oplegger’ en van het voertuigtype ‘Vrachtauto met aanhangwagen’. De figuur is samengesteld op basis van het deelrittenbestand.
+
+3.28 Dag van de lading
+
+Bij de basisbestanden 2019, net als bij de basisbestanden 2011 en 2014–2018, is de variabele ‘dag van de lading’ niet toegevoegd aan de bestanden. Wel is de dag van vertrek bekend. Tabel 3.22.1 toont de verdeling van het brutoplusgewicht per dag. Uitgangspunt bij deze tabel is de dag van vertrek van een rit en het detailniveau is het type vervoer.
+
+3.29 Euronorm
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+EURONORM
+
+Om de emissie van verontreinigende stoffen door het wegverkeer terug te dringen, zijn door de EU normen vastgesteld waaraan voertuigen moeten voldoen. Hoe hoger de normering, hoe recenter het voertuig op de markt is gekomen en hoe minder vervuilend het voertuig is voor het milieu.
+
+Voor Nederlandse vrachtauto’s en trekkers geldt dat de Euronorm is samengesteld op basis van kentekeninformatie uit het RDW-bestand. Omdat deze variabele ruim 80 procent gevuld was, is de ontbrekende informatie geschat op basis van de datum van de eerste toelating tot het verkeer, zie tabel 3.29.2. Voor bestelauto’s is de Euronorm in het basisbestand 2016 voor het eerst bepaald. Hiervan is het grootste deel, 69 procent, afgeleid op basis van bouwjaar (zie tabel 3.29.3).
+
+Voor de buitenlandse voertuigen zijn geen gegevens met betrekking tot de Euronorm beschikbaar, maar wel de volgende drie leeftijdscategorieën: 0–3 jaar, 4–7 jaar en 8 jaar en ouder. Voor het bepalen van de Euronorm is een matrix gemaakt van de euronormen op basis van RDW-data van de Nederlandse vrachtvoertuigen binnen deze bouwjaarklassen. Via een random verdeling is de Euronorm bij buitenlandse voertuigen toegekend (zie in tabel 3.29.1 een voorbeeldverdeling bij voertuigtype 1 (=vrachtauto),0–3 jaar).
+
+3.29.1 Aandeel Nederlands vrachtauto’s; 0-3 jaar
+
+Bron: Belastingdienst
+
+3.29.2 Euroklasse indeling vrachtauto’s
+
+Bron: Belastingdienst
+
+3.29.3 Euroklasse indeling bestelauto’s
+
+Bron: Belastingdienst
+
+De verdeling van euronormen van Nederlandse vrachtauto’s en trekkers naar voertuigkilometers is weergegeven in tabel 3.29.4. Als detailniveau is de richting genomen. Ter verduidelijking is in de tabel tevens het percentage weergegeven van de euronormen per richting. Voor het maken van de tabel is het rittenbestand gebruikt.
+
+3.29.4 Voertuigkilometers uitgesplitst naar euronorm, 2019
+
+3.30 Stofcategorie
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+STOFCAT
+
+Bij een risicoanalyse vervoer van gevaarlijke stoffen maar Rijkswaterstaat gebruik van stofcategorieën:
+
+LF (1 of 2) – brandbare vloeistoffen
+
+LT (1 t/m 6) – toxische vloeistoffen
+
+GF (0 t/m 3) – brandbare gassen
+
+GT (0 t/m 5) – toxische gassen
+
+GP – speciale stofcategorie ten behoeve van tunnels
+
+NR, GNR, LNR, SNR – (voor de externe veiligheid) niet relevante stoffen
+
+SF – brandbare vaste stoffen
+
+STW en LTW – vaste en vloeibare stoffen die in aanraking met water toxische stoffen produceren
+
+SFW en LFW – vaste en vloeibare stoffen die in aanraking met water brandbare stoffen produceren
+
+De stofcategorie wordt bepaald aan de hand van een koppeltabel: combinatie GEVI en VN-nummer. Zie in tabel 3.30.1 een overzicht van de LT3 en bijbehorende GEVI en VN-nummers.
+
+3.30.1 Voorbeeld koppeling stofcategorie-VN-nummer-Gevi
+
+De stofcategorie is sinds 2015 ook toegevoegd aan het (deel)rittenbestand. Een (deel)rit krijgt de stofcategorie toegekend (gemeten in vervoerd gewicht) van de belangrijkste zending van die rit.
+
+3.31 Extra variabelen bestelauto’s
+
+In deze paragraaf wordt de volgende variabele uit het basisbestand toegelicht:
+
+Heen_Terug
+
+Kenmerk
+
+Lengte_Cat
+
+Er wordt een type bestelauto (kenmerk) bepaald, namelijk of de bestelauto is ingezet voor bouw, service, goederenvervoer of voor het brengen/ophalen van post en pakketten (post en koeriers). De categorie bouw is, vergeleken met de basisbestand 2015 en 2015, als categorie toegevoegd vanaf het basisbestand 2016 (en ook in de uitvraag bij bedrijven met bestelauto’s).
+
+Elke rit van een bestelauto wordt gesplitst in deelritten. De laatste deelrit (terug naar de standplaats) van elke rit wordt getypeerd als terug, de overige deelritten als heen, zie paragraaf 2.2.2 voor de methodebeschrijving.
+
+Nieuw in het basisbestand bestelauto’s, op verzoek van Rijkswaterstaat, is de variabele: lengte categorie opgenomen (Lengte_Cat), met 2 categorieën >560 cm en ≤560 cm. De lengte van bestelauto’s is voor een beperkt deel gevuld (35 procent) in het RDW. Aan de hand van merkcode en voertuigtype is nog 55 procent opgezocht op diverse internetsites. Het restant is verdeeld aan de hand van Maximale Massa voertuig (vanwege een hoge correlatie met de lengte van het voertuig). Van alle bestelauto’s >560 cm had 89 procent een Maximale Massa voertuig van >3 199 kg en 92 procent van de bestelauto’s ≤560 cm had een Maximale Massa voertuig van <3 200 kg.
+
+
+
+Bijlage
+
+4.1 Bewerkingen op buitenlandse vervoerders
+
+Buitenlandse wegvervoerders
+
+Op basis van de D-tabellen van Eurostat worden de gegevens van de buitenlandse wegvervoerders ingepast in de structuur van de basisbestanden.
+
+De D-tabellen die zijn gebruikt hebben als hoofdclassificatie variabele de regio’s op NUTS3 niveau. Modelmatig zijn de NSTR-groepen toegevoegd en zijn de TEU’s bepaald. Als gevolg van uiteenlopende definities over het bruto-plus gewicht bij containervervoer zijn het brutoplus- en het brutogewicht en de hiervan afgeleide eenheden opnieuw bepaald. De cijfers in deze bijlage hebben betrekking op het jaar 2011 (het basisjaar van de vorige basisbestanden) en zijn als voorbeeld bedoeld. De onderliggende data van de toegepaste methodiek wordt jaarlijks geactualiseerd.
+
+NSTR
+
+Voor de basisbestanden is de goederengroep NSTR nodig. Deze variabele zit niet in de Eurostat-levering. Sinds 2010 is wel de verschijningsvorm in combinatie met de laad- en losregio’s beschikbaar. Daarnaast zijn er ook tabellen waarin of alleen de laadregio in NL of alleen de losregio in NL is gegeven in combinatie met de NST2007.
+
+Het imputeren van de NSTR gebeurt op basis van de variabele ‘CARGO TYPE’ (verschijningsvorm).
+
+De verdeling over de verschijningsvormen van de buitenlandse vervoerders lijkt sterk op die van de Nederlandse vervoerders. Alleen groep 4 en 9 lijken verwisseld te zijn. Daarom is er voor gekozen om deze categorieën samen te voegen.
+
+I.1 Verdeling verschijningsvorm
+
+De D-tabellen (alle EU-landen (excl. België; deze worden apart bewerkt (zie paragraaf 1.2) en Noorwegen, Zwitserland en Liechtenstein) zijn bij CBS bewerkt. De verdeling van de NSTR binnen de verschijningsvormen zoals die bij de Nederlandse vervoerders voorkomt is de input voor het verdeelmodel.
+
+Bovendien bestaan er regionale verschillen in de verdeling van de verschijningsvorm en dus voor goederensoorten. Om een hanteerbare en reproduceerbare methode te kunnen maken wordt gekozen voor de 4 landsdelen Noord-, Zuid-, West- en Oost- Nederland) In combinatie met de 8 verschijningsvormen (0,1,2,3,4+9+X,5,6,7) en de vier regio’s ontstaat een matrix met 32 reeksen NSTR per jaar. Daarnaast wordt een aparte tabel voor elke richting (aanvoer/afvoer) gemaakt.
+
+Restrictie: De verdeling heeft alleen betrekking op het Internationaal beroepsvervoer. Het resultaat is een tabel met maximaal (verschijningsvorm*regio)*richting* goederensoorten = 32*2*53 = 3 392 cellen.
+
+In de praktijk zullen het er minder zijn omdat niet alle combinaties logisch zijn. Hieruit volgt een voorbeeld van verdeling, zie tabel 1-2.
+
+I.2 Voorbeeld verdeling
+
+Van elk aggregaat is het aantal waarnemingen bekend. Per waarneming wordt aan de hand van de combinatie Regio-Richting-Verschijningvorm in het gedeelte van de tabel random bepaald welke NSTR2 en NST2007 er bij hoort. Door een random getal te trekken (tussen 1 en 10 000) en te kijken in welke range (laagste waarde .. hoogste waarde) het getal valt kan de NSTR2 en NST2007 die bij deze range hoort worden geïmputeerd. Als een combinatie wel bij de buitenlandse vervoerders voorkomt, maar niet bij de Nederlandse, dan wordt de regiocomponent verwijderd en wordt op landniveau de vergelijking gemaakt.
+
+Als er dataregels zijn die 25 waarnemingen vertegenwoordigen deze regel gedesaggregeerd en wordt 25 keer de NST2 en NST2007 bepaald. Dit levert dan 25 outputregels op. Achteraf worden de outputregels met dezelfde kenmerken weer geaggregeerd.
+
+Voorbeeld: record met combinatie Regio-Richting-Verschijningvorm (1,1,1) krijgt het randomgetal 5 121 toegewezen. Dit getal ligt in de range 4 067..5 413 en krijgt dan de NSTR2 = 18 en de NST2007 = 04 (zie Tabel I.2).
+
+Vergelijking tussen imputaties en waarneming
+
+Voor België zijn de basisdata uit de A-tabellen beschikbaar. Deze data zijn gebruikt om de imputatie methode uit de vorige paragraaf te valideren. Daarom is naast de NSTR (2 digit) ook de NST2007 bepaald. Hierdoor wordt de methode vergelijkbaar met de uitgebreidere Belgische data.
+
+In figuur 1-1 is de verdeling over de NST2007 hoofdstukken weergegeven van zowel de waargenomen als de geschatte hoeveelheden.
+
+De conclusie is dat de toegepaste imputatie-methode voldoende robuust is, rekening houdend met de marges die ook in de steekproeven zit, om op de D-tabellen van Eurostat toe te passen. Door het effect van de ‘random hot-deck’ methode liggen de waarden meestal in de buurt van de waarnemingen.
+
+Imputeren van TEU’s en aanpassen Brutoplusgewicht
+
+Van buitenlandse voertuigen wordt door Eurostat geen informatie over aantal containers en containertypes aan de EU-lidstaten verstrekt. Slechts enkele EU-lidstaten nemen deze gegevens ook waar. Wel levert Eurostat informatie over de verschijningsvorm van de vervoerde goederen. Één van de mogelijke verschijningsvormen betreft zeecontainers (2: ‘large containers’). Omdat CBS wel informatie waarneemt over het aantal containers en containertypes kan aan de hand van gegevens van Nederlandse voertuigen een gemiddeld aantal TEU worden berekend (bij een bepaald vervoerd tonnage in zeecontainers). Aan de hand hiervan kunnen ook de TEU’s bij de buitenlandse voertuigen worden geschat. Omdat buitenlandse voertuigen het tarra gewicht (gewicht van de zeecontainer) niet apart als lading tellen wordt er ook nog een correctie gedaan op het brutoplusgewicht. De methode wordt hieronder in meer detail beschreven.
+
+I.3 Containervervoer Nederlandse wegvervoerders 2011
+
+Op basis van de Eurostat voorschriften voor het berekenen van het ladinggewicht (EU_ladinggewicht), wordt voor lege containers het tarra als lading geteld, voor beladen containers geldt het brutogewicht van de lading. In bovenstaande tabel is dit 8,2 [B1]en 29,6 mln ton [B2] en in totaal is dit 37,8 mln. Dit totaal dient als basis om samen met het aantal TEU’s [A] het gemiddelde gewicht per TEU te berekenen voor de Nederlandse vervoerders. Hieruit volgt dat het gemiddeld gewicht per TEU ([B1]+[B2])/[A1] 4,500 ton is (GewichtPerTeu).
+
+Omdat de methodiek voor het bepalen van het vervoerde gewicht bij de buitenlandse vervoerders hetzelfde is, wordt het lading gewicht van deze groep gedeeld door het gemiddelde gewicht per TEU. Het resultaat is het aantal geschatte TEU’s.
+
+Bovendien weegt een gemiddelde container 7,788 ton. (GewichtPerContainer).
+
+Met behulp van deze factor wordt het EU_ladinggewicht van ritten met verschijningsvorm = 2 (containers) omgerekend naar TEU’s.
+
+[ 2‑1 ] TEU = EU_Ladinggewicht/gemiddeld gewicht per TEU = EU_ladinggewicht/4,500.
+
+Om binnen de definities van CBS te passen dient het brutoplus- en brutogewicht voor buitenlandse wegvervoerders herberekend te worden. In de CBS data wordt een lege container opgenomen met brutogewicht = 0, terwijl bij de buitenlandse vervoerders in zo’n geval het eigen gewicht van de container (tarra) in het gewichtsveld wordt geplaatst.
+
+Omdat niet bepaald kan worden of in de buitenlandse data een beladen of lege container vervoerd is, wordt dit als volgt opgelost:
+
+bepaal op basis van de NL-data het eigengewicht per TEU.
+
+[ 2‑2 ] Tarra per TEU = (Gewicht brutoplus – Gewicht bruto )/Aantal TEU
+
+(46 705 871– 29 559 652)/8 392 597 = 2,043 ton tarra per TEU
+
+Het ladinggewicht bij de buitenlandse containervervoerders is eigenlijk een mix van bruto- en brutoplusgewicht en wordt verder aangeduid als EU_ladinggewicht.
+
+Door het EU_ladinggewicht te corrigeren voor lege containers ontstaat het brutogewicht. Hiertoe wordt aangenomen dat 50% van de containers leeg is. Het EU_ladinggewicht wordt verminderd met het tarra van de lege containers.
+
+[ 2‑3 ] BrutoGewicht = EU_Ladinggewicht – 0,5 * TEU * Tarra per TEU
+
+en
+
+[ 2‑4 ] BrutoPlusGewicht = EU_Ladinggewicht + 0,5 * TEU * Tarra per TEU
+
+I.4 Buitenlandse wegvervoerders 2011
+
+In de buitenlandse gegevens komt 5,4 mln ton aan containervervoer voor. Op basis van formule
+
+[ 2‑1 ] TEU = EU_Ladinggewicht/gemiddeld gewicht per TEU = EU_ladinggewicht/4,500.[ 2‑1] wordt
+
+het aantal TEU bepaald op:
+
+5 392 284/4,5 = 1 198 285 TEU
+
+50% van de containers is leeg. Hiervan is het tarragewicht opgenomen in het ladinggewicht. Dit wordt er weer vanaf gehaald volgens formule [ 2‑3] en [ 2‑4]:
+
+GewichtBruto = 5 392 284 – (0,5 * 1 198 285 * 2,043) =
+
+5 392 284 – 1 224 048 = 4 168 236
+
+GewichtBrutoPlus = 5 392 284 + (0,5 * 1 198 285 * 2,043) =
+
+5 392 284 + 1 224 048 = 6 616 332
+
+I.5 Buitenlandse wegvervoerders, tonnen gecorrigeerd, 2011
+
+NB. Door afrondingen op lokaal niveau kunnen de getallen minimaal afwijken.
+
+4.2 Hercodering NSTR naar verschijningsvorm
+
+Onderstaand wordt de hercodering van NSTR naar verschijningsvorm getoond. Indien de inrichtingscode van het voertuig de waarde heeft gelijk aan de waarde in onderstaande tabel, dan wordt de verschijningsvorm bepaald op basis van de inrichtingscode (bijvoorbeeld vloeibare bulk bij tankwagen). Indien dit niet het geval is, dan gelden de criteria op basis van het vervoerd gewicht of alleen de NSTR. In de meeste gevallen is een koppeling van 4 digits NSTR naar verschijningsvorm mogelijk. In sommige gevallen zijn goederensoorten door bedrijven zo algemeen omschreven dat NSTR alleen op 2 op zelfs 1 digit is afgeleid. In deze gevallen is er een koppeling van NSTR2 (en NSTR1) met verschijningsvorm bepaald. Zie ook paragraaf 3.4 voor de toelichting van verschijningsvorm.
+
+II.1 Hercoderingstabel NSTR4-digit naar verschijningsvorm
+
+1) Een code waarmee de uitvoeringsvorm van de inrichting van een voertuig wordt aangegeven (trekker, tankwagen, vrachtauto, kiepwagen
+
+4.3 GEVI-koppeltabel
+
+In deze bijlage is de koppeltabel weergegeven van het gevaarsidentificatienummer (GEVI) naar ADR-codes. De GEVI-indeling is een verfijning van de ADR-indeling. Daar waar een GEVI-code in twee ADR-klassen valt, is deze GEVI-code aangeduid met een toegevoegde ‘a’ achter de code. Dit is bijvoorbeeld het geval bij GEVI-code 30.
+
+Tevens is aan deze koppeltabel de goederenclassificatie op NSTR4‑digit niveau toegevoegd. Om het overzicht niet te verliezen is er voor gekozen om geen letters toe te voegen wanneer een GEVI- of ADR-code over meer dan één NSTR4‑digit goederenclassificatie beschikt.
+
+III.1 Koppeltabel GEVI-codes naar ADR-codes en NSTR4-digits
+
+4.4 SMILE-indeling
+
+In deze koppeltabel is de SMILE-indeling weergegeven ten opzichte van de Nederlandse NUTS 3‑gebieden. Ook voor de buitenlandse NUTS 3‑gebieden is een SMILE-codering beschikbaar, maar gelet op de omvang van deze lijst is er voor gekozen om hier alleen de Nederlandse SMILE-gebieden te presenteren.
+
+IV.1 Koppeltabel SMILE-indeling
+
+4.5 Waarde-brutogewicht factor (WBF) voor het wegvervoer, per NSTR4, 2016
+
+V.1 WFB-Invoer
+
+Bron: De Blois, C.J., A.P. Alberda, en H.J. Boonstra (2013), Integratie van internationale handels- en transportstromen; een nieuwe statistiek over internationale goederenstromen
+
+V.2 WFB-Uitvoer
+
+Bron: De Blois, C.J., A.P. Alberda, en H.J. Boonstra (2013), Integratie van internationale handels- en transportstromen; een nieuwe statistiek over internationale goederenstromen
+
+4.6 Landencodering volgens de Geonomenclatuur
+
+VI.1 Alfabetische codelijst naar de naam van het land of gebied
+
+4.7 Descriptives basisbestanden
+
+VII.1 Deelritten
+
+VII.2 Ritten
+
+VII.3 Zendingen
+
+VII.4 Buitenlandse voertuigen
+
+VII.5 Bestelauto’s
+
+4.8 Eurostatcontroles op micro wegvervoerdata
+
+Onderstaand een lijst met Errors = E en Warnings = W waar Eurostat CBS-wegvervoer microdata regulier op checkt. CBS-microdata (waar de basisbestanden op zijn gebaseerd) moeten 100% correct zijn (geen errors), anders accepteert Eurostat de data niet.
+
+VIII.1 Eurostatcontroles op micro wegvervoerdata
+
+4.9 Overzicht van variabelen en hoe deze tot stand zijn gekomen
+
+Op de volgende pagina een overzicht van de variabelen in de basisbestanden en hoe deze tot stand zijn gekomen:
+
+A = Afgeleid
+
+K = Via koppellijst
+
+L = Locatienet (routeplanningssoftware)
+
+N = Niet beschikbaar
+
+R = Register
+
+W= Waarneming
+
+Ook een combinatie is mogelijk.
+
+Het basisbestand buitenlanders betreft alleen richting 1 – 3. Bij buitenlanders doorvoer (richting 4) zijn alleen type rit, vervoerd gewicht, aantal ritten en laad- en losNUTS bekend. Indien variabelen niet bekend zijn, dan zijn ze in de basisbestanden opgenomen als leeg (= ‘NULL’).
+
+IX.1 Overzicht van variabelen en hoe deze tot stand zijn gekomen
+
+4.10 ‘Printscreens’ zendingschermen internetvragenlijst
+
+Vanaf de volgende pagina volgen ‘printscreens’ van de internet vragenlijst (de schermen waar de zendingen dienen te worden ingevuld) in geval van (less than) full truck loads, distributie, groupage, combinatie en zeecontainers.
+
+(Less-than) Full-truckloadscherm (1 laadlocatie, 1 loslocatie)
+
+Distributie
+
+Groupage
+
+Combinatie/anders scherm
+
+Zeecontainers
+
+4.11 Koppeltabel Gemeente – LMSVAM
+
+XI.1 Koppeltabel Gemeente – LMSVAM
+
+4.12 Koppeltabel NUTS2013 – NUTS2016
+
+Onderstaand wordt een koppeltabel NUTS2013 – NUTS2016 – Corop gepresenteerd. Voor statistiekjaar 2018 is een nieuwe NUTS-indeling (NUTS2016) in gebruik genomen. Dit heeft geleid tot 7 nieuwe NUTS-codes in Nederland. Bij de basisbestanden is ook een tabel meegeleverd waarbij alle Europese NUTS-wijzigingen zijn vermeld.
+
+XII.1 Koppeltabel NUTS2013 – NUTS2016 – COROP
+
+
+
+
+
+Noten
+
+De zgn. D-tabellen zijn bestanden die aan de lidstaten ter beschikking worden gesteld voor het aanvullen van de eigen goederenvervoergegevens met die van de buitenlandse vervoerders. Om privacy redenen zijn niet alle variabelen opgenomen in de D-tabellen. Sommige variabelen worden met behulp van de Nederlandse gegevens bijgeschat.Begrippenlijst
+
+Op 21 oktober 2015 is de gepubliceerd (een samenwerkingsverband tussen CBS en Transport Logistiek Nederland (TLN). Veel van onderstaande begrippen zijn afkomstig uit deze begrippenlijst.
+
+ADR
+
+Accord européen relatief au transport international de marchandises Dangereuses par Route (ADR) : De voorschriften voor het vervoer van gevaarlijke stoffen over de weg staan in een Europese overeenkomst, het ADR. Het ADR is onderdeel van het Nederlandse VLG (regeling Vervoer over Land van Gevaarlijke stoffen). De Wet vervoer gevaarlijke stoffen vormt de basis van de regelgeving voor het vervoer van gevaarlijke stoffen over de weg.
+
+ADSEI
+
+De Algemene Directie Statistiek en Economische Informatie (ADSEI, vaak ook Statbel genoemd), voorheen het Nationaal Instituut voor de Statistiek (NIS), heeft in België de verantwoordelijkheid voor de nationale (officiële) statistieken. Daarnaast is de ADSEI belast met de productie van Europese statistieken.
+
+BBGV
+
+BBGV is de afkorting voor basisbestanden goederenvervoer.
+
+Beladen rit
+
+Een beladen rit start op het moment dat goederen voor de eerste keer worden geladen en waarbij het voertuig daarvoor leeg was (of het moment dat de trekker wordt gekoppeld aan een beladen oplegger) en eindigt op het moment dat goederen worden gelost en het voertuig vervolgens leeg komt (of het moment dat de trekker wordt ontkoppeld aan een beladen oplegger).
+
+Beroepsgoederenvervoer
+
+Vervoer van goederen in opdracht van derden tegen betaling. Ook wel Beroepsvervoer genoemd.
+
+Cabotage
+
+Binnenlands goederenvervoer door een voertuig dat in een ander land is geregistreerd. Bij cabotagevervoer door Nederlandse voertuigen liggen de plaats van lading en van lossing in één ander land, m.a.w. het land van lading is gelijk aan het land van lossing.
+
+CBS
+
+Het Centraal Bureau voor de Statistiek (CBS) heeft als taak het publiceren van betrouwbare en samenhangende statistische informatie, die inspeelt op de behoefte van de samenleving. Naast de verantwoordelijkheid voor de nationale (officiële) statistieken is CBS ook belast met de productie van Europese (communautaire) statistieken.
+
+COROP
+
+De naam COROP is een afkorting van Coördinatiecommissie Regionaal Onderzoeksprogramma. Nederland is ingedeeld in 40 COROP-gebieden die bestaan uit meerdere aangrenzende gemeenten. De indeling in COROP-gebieden is een regionaal niveau tussen provincies en gemeenten in. De indeling wordt gebruikt voor regionaal onderzoek.
+
+D-tabellen
+
+D-tabellen bestaan om de nationale autoriteiten van andere lidstaten dan het rapporterende land in staat te stellen volledige statistieken over het wegvervoer in eigen land te produceren. Deze tabellen worden aangeleverd door Eurostat.
+
+Deelrit
+
+Het deel van een rit van het ene stoppunt naar het andere stoppunt, oftewel een etappe.
+
+Derdelandenvervoer
+
+Goederenvervoer tussen twee in verschillende landen gelegen plaatsen door een voertuig dat in een derde land staat geregistreerd. Bij derdelandenvervoer door Nederlandse voertuigen ligt de plaats van lading in een ander land als de plaats van lossing, en beiden liggen zij buiten Nederland.
+
+Distributierit
+
+Een rit waarbij er gedurende de rit meerdere stoppunten voor lossen zijn.
+
+EFTA
+
+De Europese Vrijhandelsassociatie (EVA) is een samenwerkingsverband tussen Liechtenstein, Noorwegen, IJsland en Zwitserland. De associatie is beter bekend onder het Engelstalige ‘European Free Trade Association’ (EFTA).
+
+Eigen vervoer
+
+Vervoer van goederen met één of meer vrachtauto’s dat voor eigen rekening wordt verricht dan wel als werkzaamheid van ondersteunende aard die direct samenhangt met de hoofdwerkzaamheid binnen de bedrijfsactiviteiten.
+
+Euronorm
+
+De EU heeft sinds begin jaren ’90 verplichte grenswaarden gesteld waaraan de emissies van nieuw op de markt gebrachte vrachtauto’s moeten voldoen. De eerste normstelling (Euro 1) trad in 1992 in werking en had betrekking op de emissies van stikstofoxiden (NOx), koolwaterstoffen (HC), koolmonoxide (CO) en fijnstof (PM10). Deze normen zijn in 1996 (Euro 2), 2000 (Euro 3) en 2005 (Euro 4) verder aangescherpt. Euro 5 is sinds oktober 2008 verplicht voor nieuwe typen en vanaf 1 oktober 2009 voor alle nieuw verkochten voertuigen. Inmiddels is door de EU de Euro 6‑norm vastgesteld, die in 2013 verplicht wordt.
+
+Eurostat
+
+Eurostat is het statistische bureau van de Europese Unie. De taak van dit directoraat-generaal is de Europese Unie te voorzien van goede statistische informatie. Eurostat draagt ook bij aan het harmoniseren van statistieken, zodat gegevens vergelijkbaar worden.
+
+GEVI
+
+GEVI is de afkorting voor gevaarsidentificatienummer. Bij het vervoer van gevaarlijke stoffen over de weg, moet aangegeven worden om welke stoffen het gaat. Dit gebeurt door middel van het GEVI, een getal dat aangeduid staat op de bovenste helft van een kemlerbord.
+
+GIS
+
+Een geografisch informatiesysteem, afgekort tot GIS, is een informatiesysteem waarmee (ruimtelijke) gegevens of informatie over geografische objecten, zogeheten geo-informatie kan worden opgeslagen, beheerd, bewerkt, geanalyseerd, geïntegreerd en gepresenteerd.
+
+GN8
+
+De Goederencodelijsten zijn door Eurostat benoemd in de Gecombineerde Nomenclatuur (GN). Deze Gecombineerde Nomenclatuur bevat de goederenindeling die door de Europese Unie voor de statistieken van de Internationale Handel in Goederen wordt voorgeschreven. De GN is een 8‑cijferige indeling. De jaarlijkse veranderingen vloeien voort uit aanpassingen die zowel voor de Douane als voor de statistiek nodig zijn.
+
+Groupagerit
+
+Een rit waarbij er gedurende de rit meerdere stoppunten voor laden zijn.
+
+Groupage- en distributierit
+
+Een rit waarbij er gedurende de rit meerdere stoppunten voor laden en lossen zijn.
+
+Intermodaal vervoer
+
+Multimodaal vervoer van goederen, in dezelfde intermodale transporteenheid, met opeenvolgende vervoerswijzen zonder dat bij de verandering van de vervoerswijze de goederen zelf worden verplaatst.
+
+ISO
+
+De Internationale Organisatie voor Standaardisatie (ISO) is een internationale organisatie dat wereldwijd gepatenteerde, industriële en commerciële standaarden
+
+promoot. Doel van de organisatie is de internationale normalisatie van diverse standaarden.
+
+Lege rit
+
+Begint op het moment dat het voertuig volledig leeg van een plaats vertrekt en eindigt op het moment dat het voertuig op een plaats gaat laden.
+
+LMS
+
+Het Landelijk Model Systeem Verkeer en Vervoer (LMS) is een strategisch verkeers- en vervoersmodel. Met het LMS kunnen prognoses gemaakt worden van de mobiliteit en de belastingen van het hoofdwegennet en het spoornetwerk.
+
+MIRT
+
+MIRT is de afkorting voor Meerjarenprogramma Infrastructuur, Ruimte en Transport. De Rijksoverheid bepaalt samen met de gemeenten en provincies hoe de ruimte in Nederland het best ingericht kan worden. In het MIRT staat welke vraagstukken er zijn op het gebied van ruimte, infrastructuur en transport, welke oplossingen er zijn en welke investeringen nodig zijn.
+
+NRM
+
+Het Nieuw Regionaal Model (NRM) is een strategisch modelinstrument voor het verkennen van de effecten van het regionale verkeers- en vervoersbeleid. Het Nieuw Regionaal Model (NRM) is de regionale afgeleide van het LMS. Een deel van de ‘output’ van het landelijke model is dan ook ‘input’ voor het NRM. Doel van het model is in te zoomen op knelpunten die met het LMS zijn geïdentificeerd.
+
+NST/R
+
+In de vervoerstatistieken van het CBS wordt voor de classificatie van goederen gebruik gemaakt van een indeling die gebaseerd is op de Nomenclature uniforme des marchandises pour les Statistiques de Transport, Revisée (NSTR). Deze codering is sinds 1 januari 1967 van kracht binnen de lidstaten van de Europese Unie.Door de hiërarchische opbouw van codenummers is het mogelijk goederen te groeperen tot 10 hoofdstukken (1‑digit) en 52 groepen (2‑digit) op basis van het eerste, respectievelijk de twee eerste cijfers van het codenummer.
+
+NST2007
+
+Uniforme goederennomenclatuur voor de vervoersstatistiek. Indeling die is gebaseerd op de ‘Nomenclature uniforme des marchandises pour les Statistiques de Transport, 2007’. Deze codering is sinds 2008 van kracht binnen de lidstaten van de Europese Unie.
+
+NUTS
+
+NUTS is de afkorting voor het nomenclatuur van territoriale eenheden voor statistiek, in het Frans: ‘Nomenclature des Unités Territoriales Statistiques’. NUTS is de regionale indeling van het Europese statistiekbureau Eurostat. Deze is ingevoerd om over heel Europa vergelijkbare regio’s te hebben, waardoor Europese statistieken regionaal goed vergelijkbaar zijn.
+
+RDW
+
+De RDW is een publieke dienstverlener in de mobiliteitsketen. De RDW beschikt over een grote expertise door jarenlange ervaring met de uitvoering van wettelijke en opgedragen taken. RDW is de bevoegde instantie op het gebied van toelating van voertuigen en onderdelen daarvan, toezicht en handhaving, registratie, informatieverstrekking en documentafgifte.
+
+Rijkswaterstaat
+
+Rijkswaterstaat is de uitvoeringsorganisatie van het Ministerie van Infrastructuur en Milieu en werkt dagelijks aan een veilig, leefbaar en bereikbaar Nederland. Zie ook Water, Verkeer en Leefomgeving.
+
+SBI
+
+De Standaard Bedrijfsindeling (SBI) is een hiërarchische indeling van economische activiteiten. Van de SBI zijn 2 revisies beschikbaar: SBI ’93 en SBI 2008. De codes daarvan zijn niet gelijk.
+
+SMILE
+
+Het Strategisch Model Integrale Logistiek en Evaluatie (SMILE), is een scenario-verkenner voor het goederenvervoer. SMILE heeft tot doel het op inzichtelijke wijze aangeven van de consequenties van economische en logistieke ontwikkelingen op middellange en lange termijn voor de Nederlandse economie, de transport- en distributiesector, de verkeersproductie en het milieu.
+
+Tarra van een zeecontainer
+
+Het gewicht van de lege zeecontainer.
+
+TEU
+
+Een statistische eenheid die op een ISO-container met een lengte van 20 voet (6,10 m) gebaseerd is. Deze eenheid wordt gebruikt als een standaardmaat voor containers van verschillende capaciteit en voor het beschrijven van de capaciteit van containerschepen of -terminals. Eén ISO-container van 20 voet is gelijk aan 1 TEU.
+
+TMS
+
+Het TMS is een sectorspecifiek Enterprise Resource Planningssysteem (ERP) dat steeds meer in opmars komt in het logistieke bedrijf. De backofficesoftware of het transportmanagementsysteem stelt transporteurs in staat bestellingen om te zetten in dossiers, de planning te organiseren en automatisch factoren als beschikbare lading, assets, stopplaatsen of resterende rij- en rusttijden door te sturen naar de vrachtwagen. Omgekeerd verwerkt het transportmanagementsysteem ook de feedback die vrachtwagens terugsturen. Op basis daarvan kunnen nauwkeurige kostencalculaties uitgevoerd worden.
+
+TNO
+
+TNO is een onafhankelijke onderzoeksorganisatie die op basis van haar expertise en onderzoek een belangrijke bijdrage levert aan de concurrentiekracht van bedrijven en organisaties, aan de economie en aan de kwaliteit van de samenleving als geheel.
+
+Transitolanden
+
+Transitolanden zijn landen waar goederen door vervoerd worden zonder dat in dat land geladen of gelost wordt. Transitovervoer wordt vaak ook doorvoer genoemd.
+
+WBF
+
+De afkorting WBF staat voor waarde-brutogewicht factor. De WBF geeft de verhouding weer van het brutogewicht en de waarde (in euro’s) van een bepaalde goederensoort.
+
+WVL
+
+Onderdeel van Rijkswaterstaat dat de visie op het hoofdwegennet, hoofdvaarwegennet en het hoofdwatersysteem en op onze leefomgeving ontwikkelt. Zie ook Rijkswaterstaat.
+
+XML
+
+XML is de Engelse afkorting voor ‘Extensible Markup Language’. XML is een standaard van het World Wide Web Consortium voor de syntaxis van formele opmaaktabellen waarmee men gestructureerde gegevens kan weergeven in de vorm van een platte tekst. Het XML-formaat wordt gebruikt om gegevens op te slaan en om gegevens over het internet te versturen.
+
+Zending
+
+De hoeveelheid goederen van één zelfde soort, die in één keer van één laadplaats naar één losplaats wordt vervoerd op één vervoermiddel. Als een zending over verschillende trajecten door verschillende voertuigen wordt vervoerd, dan moet dit gezien worden als een aparte zending per voertuig.
+
+
+
+Literatuur
+
+Hoofdstuk 2
+
+CBS (2016), Basisbestanden goederenwegvervoer 2014. Rapportage.
+
+Europese Commissie (2010), ‘Verordening (EU) Nr. 202/2010 van de Commissie van 10 maart 2010 tot wijziging van Verordening (EG) nr. 6/2003 van de Commissie betreffende de verspreiding van statistieken inzake het goederenvervoer over de weg’, Publicatieblad van de Europese Unie, L 61/24 van 11-3-2010.
+
+Eurostat (2011), Road freight transport methodology. Reference Manuel for the implementation of Council Regulation No 1172/98 on statistics on the carriage of goods by road , Eurostat Methodologies and Working Papers, ISSN 1777-0375, Luxembourg: Publications Office of the European Union.
+
+Eurostat (2011), Methodologies used in surveys of road freight transport in Member States and Candidate Countries , Eurostat Methodologies and Working Papers, ISSN 1977–0375, Luxembourg: Publications Office of the European Union.
+
+NEA Transportonderzoek en -opleiding (2007), Basisbestanden Goederenwegvervoer 2004: Wegmatrix Buitenlandse Vervoerders , Kenmerk: R20070026/30378000/dui/leu, Rijswijk: NEA.
+
+NEA Transportonderzoek en -opleiding (2007), Basisbestanden Goederenwegvervoer 2004: Wegmatrix Nederlandse Vervoerders , Kenmerk: R20070128/30378200/dui/rlo, Rijswijk: NEA.
+
+NEA Transportonderzoek en -opleiding (2007), Basisbestanden Goederenwegvervoer 2004: Wegmatrix Totaal , Kenmerk: R20070136/30378000/dui/leu, Rijswijk: NEA.
+
+Hoofdstuk 3
+
+Belastingdienst (2013), Motorrijtuigenbelasting vrachtauto , , bezocht op 02-05-2013.
+
+CBS (2016), Basisbestanden goederenwegvervoer 2014. Rapportage.
+
+De Blois, C.J., A.P. Alberda, en H.J. Boonstra (2013), Integratie van internationale handels-en transportstromen; een nieuwe statistiek over internationale goederenstromen , ongepubliceerd artikel, , Heerlen/Den Haag: Centraal Bureau voor de Statistiek.
+
+
+
+

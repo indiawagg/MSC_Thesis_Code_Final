@@ -1,0 +1,19 @@
+Date:
+2021-06-01
+Article Title:
+ Classifying COVID-19 policy interventions during March quarter 2021 in macroeconomic statistics
+
+Article Content:
+The impact of the COVID 19 pandemic continues to drive the largest fiscal response to an event in modern Australian history, with the focus of new policy interventions now shifting to support economic recovery.
+The ABS continue to undertake extensive consultation with stakeholders and subject matter experts to determine appropriate classifications for COVID 19 policy interventions. These classifications are based on well established conceptual frameworks (footnote 1), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to Government Finance Statistics (GFS) and the National Accounts (NA).
+The COVID 19 policies are grouped into five broad categories (footnote 2):
+  Increased healthcare and frontline services spending
+  Provision of assistance to households
+  Provision of assistance to corporations, unincorporated enterprises and non profit institutions
+  Relaxation of tax and non tax revenue obligations
+  Capital injections, establishment of new, or extended, lending facilities and provision of guarantees
+Government fiscal support through the quarter continued to be targeted towards healthcare spending and provision of assistance to households, businesses and non profit institutions.
+Spending on subsidies by the Commonwealth and state governments continued to sharply decrease during the March quarter. This was driven primarily by the tapering of Boosting Cash Flow for Employers payments and JobKeeper payments (which ended in March 2021).
+Since the beginning of the pandemic, Commonwealth and state governments spending on social benefits to households in goods and services has increased significantly compared to historical levels. These levels remained elevated during the March quarter, driven by ongoing expansions to Commonwealth social programs and COVID related supplementary funding for policy areas like disability and aged care support, as well as state based rebates to households for electricity bills.
+Health care spending also remained elevated because of ongoing COVID 19 health response expenditure on frontline staff and personal protective equipment (PPE). The roll out of COVID 19 vaccines commenced in February 2021 but did not materially affect government final consumption expenditure this quarter.
+IMF (2020), "COVID 19: How to Record Government Policy Interventions in Fiscal Statistics", Special Series on Statistical Issues in Response to COVID 19, IMF publication, viewed at 

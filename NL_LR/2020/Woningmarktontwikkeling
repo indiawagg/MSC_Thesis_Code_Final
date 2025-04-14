@@ -1,0 +1,502 @@
+Article Content:
+ Inleiding
+
+Dit rapport beschrijft de methode die het Centraal Bureau voor de Statistiek (CBS) gebruikt om de woningmarktontwikkelingen rondom het Groningenveld te onderzoeken. Het inleidend hoofdstuk gaat in op de achtergrond van het onderzoek en de opzet van het rapport.
+
+De aardbevingen die ontstaan door de gaswinning in het Groningenveld hebben mogelijk invloed op de omliggende woningmarkt. Om hier meer inzicht in te krijgen, heeft de Nationaal Coördinator Groningen (NCG) het Centraal Bureau voor de Statistiek (CBS) gevraagd onderzoek uit te voeren naar de woningmarktontwikkelingen rondom het Groningenveld. De achtergrond en de uitkomsten van dit onderzoek worden beschreven in een en de rapportenreeks Woningmarktontwikkelingen rondom het Groningenveld.
+
+Het eerste rapport verscheen in december 2015. Sindsdien verschijnen regelmatig nieuwe publicaties, waarin de onderzoeksperiode telkens wordt verlengd. Dit methoderapport behandelt de methode die is gebruikt vanaf de rapportage die de periode tot en met het tweede kwartaal van 2019 beschrijft. De vorige indeling was gebaseerd op de gehonoreerde schademeldingen tot en met oktober 2016. Sindsdien zijn er nieuwe aardbevingen geweest en schademeldingen bijgekomen. De gebiedsindeling in het huidige onderzoek houdt rekening met de gehonoreere schademeldingen tot en met 2 augustus 2019.
+
+De eerder toegepaste methoden worden in het eerste en tweede toegelicht. Op de punten waar de in dit rapport beschreven methode afwijkt, wordt dit benoemd.
+
+Het doel van dit onderzoek is om inzicht te geven in de ontwikkelingen op de woningmarkt in het aardbevingsgebied rondom het Groningenveld. Dit wordt gedaan door de woningmarkt van gebieden zonder (referentiegebied) en met meer en minder schade (risicogebied) door aardbevingen te vergelijken. De hiervoor gehanteerde gebiedsindeling komt in hoofdstuk 2 aan bod.
+
+De verschillende gebieden worden op zes kernindicatoren vergeleken die een beeld geven van de ontwikkeling van de woningmarkt. Deze kernindicatoren zijn het aandeel verkochte en te koop staande woningen, de verkoopduur, de te-koopduur, de verhouding tussen vraagprijs en verkoopprijs en prijsontwikkelingen. Hoofdstuk 3 bespreekt deze indicatoren.
+
+Om een vollediger beeld te schetsen van de woningmarktontwikkelingen rondom het Groningenveld is daarnaast een aantal aanvullende analyses uitgevoerd waarbij de ontwikkelingen van de WOZ-waarde en de verhuisbewegingen worden onderzocht. Deze analyses komen in hoofdstuk 4 aan bod.
+
+In dit onderzoek is gekozen om het risicogebied te definiëren als buurten met gehonoreerde schademeldingen. Er is echter ook verkend of de gebiedsindeling sterk zou verschillen wanneer deze zou worden gebaseerd op de historische aanwezigheid van aardbevingen. Hoofdstuk 5 beschrijft deze verkenning.
+
+
+
+Gebiedsindeling
+
+De kern van het onderzoek bestaat uit een vergelijking van de woningmarktontwikkelingen tussen gebieden met meer en minder schade door aardbevingen. Dit hoofdstuk beschrijft hoe deze gebiedsindeling is vastgesteld.
+
+2.1 Inleiding
+
+Om de woningmarktontwikkelingen tussen gebieden met meer en minder schade door aardbevingen te kunnen vergelijken, zijn de buurten in (de nabijheid van) het aardbevingsgebied voor de kernanalyses ingedeeld in vier categorieën:
+
+Het referentiegebied met (vrijwel) geen woningen met aardbevingsschade.
+
+Het risicogebied met een relatief laag aandeel woningen met schade.
+
+Het risicogebied met een gemiddeld aandeel woningen met schade.
+
+Het risicogebied met een relatief hoog aandeel woningen met schade.
+
+Daarnaast zijn er enkele buurten in het onderzoeksgebied uitgesloten van het onderzoek omdat zij qua sociaaleconomische en demografische kenmerken dusdanig afwijken dat zij de vergelijking tussen gebieden met meer en minder aardbevingsschade vertroebelen. Deze buurten horen bij het zogenaamde uitzonderingsgebied. Figuur 2.1.1 geeft aan welke buurten bij welk gebied horen.
+
+Omdat er sprake is van krimp in delen van het onderzoeksgebied, wordt eveneens onderzocht of de woningmarktontwikkelingen verschillen tussen gebieden waar dit al dan niet speelt. Voor de krimpanalyse zijn de buurten in vier categorieën ingedeeld: risicobuurten met en zonder krimp, en referentiebuurten met en zonder krimp. Er wordt geen extra onderscheid gemaakt naar de schade intensiteit binnen de risicobuurten. Tabel 2.1.2 vat de gebiedsindelingen die gehanteerd worden in het onderzoek samen.
+
+2.1.2 Indeling in onderzoeksgebieden
+
+Paragraaf 2.2 beschrijft hoe de indeling naar risico- en referentiebuurten is aangebracht. Daarbij worden eerst de bronnen beschreven en daarna de methode. Vervolgens bespreekt paragraaf 2.3 de analyse die is uitgevoerd om vast te stellen welke buurten tot het uitzonderingsgebied horen. De resterende buurten in het risicogebied zijn in drie verschillende schadecategorieën ingedeeld. De methode die hiervoor is gebruikt wordt beschreven in paragraaf 2.4. Ten slotte behandelt paragraaf 2.5 de indeling naar krimp- en niet-krimpregio’s.
+
+2.2 Risico- en referentiegebied
+
+Bronbestanden
+
+Het aandeel woningen met schade bepaalt of een buurt tot het risico- of referentiegebied behoort. Het aandeel woningen met schade is vastgesteld door per buurt het aantal woningen met schade te delen door het totale aantal woningen. Om deze berekening uit te voeren is dus informatie nodig over het aantal woningen met schade en de woningvoorraad in de betreffende buurt. De bronnen die hiervoor zijn gebruikt, worden hierna beschreven.
+
+De bestanden die worden gebruikt om te bepalen hoeveel woningen schade hebben opgelopen zijn afkomstig van het Centrum Veilig Wonen (CVW) en van de Tijdelijke Commissie Mijnbouwschade Groningen (TCMG). Huiseigenaren rondom het Groningenveld kunnen schade aan hun woning melden bij de TCMG. In het verleden kon dat bij het CVW. In de vorige methode werd daarom enkel gebruik gemaakt van het CVW-bestand. Nadat een schademelding is gedaan wordt onderzocht of de schade is ontstaan door een aardbeving als gevolg van de gaswinning. Is dat het geval, dan kan de TCMG (en in het verleden het CVW) overgaan tot schadeherstel ofwel uitbetaling. De gebruikte schadebestanden bevatten alle dossiers met het bijbehorende schadebudget die zijn aangemaakt tussen 16 augustus 2012 (toen de grote beving bij Huizinge plaatsvond) en 2 augustus 2019. Hierbij moet worden opgemerkt dat de bestanden ook dossiers bevatten die nog niet in behandeling zijn genomen. Uit de bestanden kan niet worden opgemaakt wanneer de schade precies is ontstaan en ook niet of en wanneer de schade weer is hersteld.
+
+In dit onderzoek worden woningen met aardbevingsschade gedefinieerd als woningen met een totaal gehonoreerd schadebudget boven de € 0,-. Er is onderzocht of de gebiedsindeling heel anders zou uitpakken wanneer deze niet wordt gebaseerd op basis van het aandeel woningen met schade, maar op basis van de aanwezigheid van aardbevingen. Dit blijkt niet het geval. Hoofdstuk 5 bespreekt deze analyse in meer detail.
+
+Adressen met een schadebudget van € 0,- worden uitgesloten omdat het volgens het CVW of de TCMG dan gaat om adressen waarbij de gemelde schade geen gevolg is van een aardbeving, of waarbij het dossier nog niet in behandeling genomen. In het laatste geval is er mogelijk wel schade door een aardbeving, maar deze is nog niet officieel vastgesteld. Voor een (onbekend) deel van deze adressen geldt dat er later alsnog schade kan worden toegekend. Bij de interpretatie van de cijfers moet daarom rekening worden gehouden met een mogelijke onderschatting van het aandeel woningen met schade.
+
+Niet alle adressen in het schadebestand betreffen woningen; er zitten ook dossiers van bedrijven en scholen tussen. Om enkel de woningen met schade te kunnen selecteren, is het schadebestand gekoppeld aan de woningvoorraadstand die ontleend is uit de Basisregistratie Adressen en Gebouwen (BAG). Ook kan met behulp van informatie uit de BAG worden bepaald in welke buurt een woning ligt. Na de koppeling is het dus mogelijk om het aantal woningen met schade per buurt te bepalen. De BAG wordt in de volgende paragraaf beschreven.
+
+De Basisregistratie Adressen en Gebouwen (BAG) is gebruikt om de woningvoorraad per buurt te bepalen. De BAG bestaat uit de Basisregistratie Gebouwen en de Basisregistratie Adressen. In de Basisregistratie Gebouwen zijn onder andere alle verblijfsobjecten in Nederland opgenomen. Daarnaast bevat de registratie bijvoorbeeld ook standplaatsen en ligplaatsen. Vanuit de Basisregistratie Adressen is een adres beschikbaar. Gemeenten dragen zorg voor de vulling van de BAG. Zij zijn verplicht te zorgen voor een volledige, juiste en actuele registratie van verblijfsobjecten op hun grondgebied. Om vanuit de BAG de woningvoorraad te bepalen, zijn alle verblijfsobjecten met de functie ‘wonen’ geselecteerd. Dit is gedaan op basis van de woningvoorraadstand van 1 januari 2019. Om vervolgens de voorraad per buurt te kunnen bepalen, zijn buurtcodes aangekoppeld met behulp van de beschikbare adresinformatie.
+
+Methode
+
+Dit onderzoek heeft niet betrekking op alle Nederlandse buurten, maar alleen op een selectie van die buurten: de onderzoekspopulatie. De onderzoekspopulatie voor dit rapport bestaat uit buurten met schade door gaswinning uit het Groningenveld en buurten in de nabije omgeving van deze buurten. Om te bepalen welke buurten tot het risico- en referentiegebied behoren, is gekeken naar het aantal en aandeel woningen met aardbevingsschade.
+
+Wanneer in een buurt erg weinig woningen staan met aardbevingsschade is de verwachting dat deze buurt niet anders wordt gezien als een buurt zonder schade. Daarom worden buurten pas tot het risicogebied gerekend wanneer aan minimaal 5 woningen een schadevergoeding is toekend en waar minimaal 1% van alle woningen een budget voor schadeherstel toegekend heeft gekregen. De buurten die niet aan deze criteria voldoen, vormen het referentiegebied. Dit is een kleine aanpassing ten opzichte van de vorige methode, toen een ondergrens van minimaal 3 woningen werd gehanteerd.
+
+Het risicogebied is in een latere stap ingedeeld in drie verschillende schadecategorieën. Dit wordt beschreven in paragraaf 2.4. Daarnaast wordt voor zowel het gehele risico- als referentiegebied een indeling gemaakt naar gebieden met en zonder bevolkingskrimp. Deze indeling wordt beschreven in paragraaf 2.5.
+
+2.3 Uitzonderingsgebied
+
+Bronbestanden
+
+Om zo zuiver mogelijk te meten of de woningmarkt zich anders ontwikkelt in buurten met meer of minder aardbevingsschade, is het belangrijk om alternatieve verklaringen zo veel mogelijk uit te sluiten. Hierom is gekeken of buurten afwijken op de volgende kenmerken die ervoor kunnen zorgen dat de woningmarkt zich er anders ontwikkelt: leeftijdsopbouw, inkomen, aandeel mensen met een baan, WOZ-waarde, aandeel koopwoningen en bevolkingsdichtheid. Deze uitsluitingsanalyse is opnieuw uitgevoerd voor de nieuwe gebiedsindeling. De informatie over deze kenmerken is uit de volgende bronnen afgeleid:
+
+De Gemeentelijke Basisadministratie Persoonsgegevens (GBA) is de digitale bevolkingsregistratie van Nederland tot en met 2014. In de GBA zijn van iedere ingeschrevene gegevens als Burgerservicenummer (BSN), geboortedatum, geslacht, geboorteland en woonplaats geregistreerd. Van ingezetenen zijn bovendien gegevens over het huishouden waartoe de persoon behoort opgenomen. Voor ingezetenen wordt een adres in Nederland geregistreerd, voor niet-ingezetenen een adres buiten Nederland.
+
+Het GBA is gebruikt voor het bepalen van de leeftijdsopbouw per buurt. Hierbij is per buurt het percentage inwoners in de leeftijdscategorieën 0 tot 15 jaar, 15 tot 25 jaar, 25 tot 45 jaar, 45 tot 65 jaar en 65 plus bepaald op 31 januari 2012. Daarnaast is ook het aantal mensen met een leeftijd tussen 15 en 75 jaar bepaald op basis van het GBA. Dit aantal wordt gebruikt om het aantal mensen met baan in de leeftijdscategorie 15 tot 75 te bepalen. Deze afleiding wordt verder besproken bij de bron ‘polisadministratie’.
+
+De BAGplus is de in paragraaf 2.2 beschreven BAG waaraan de WOZ-waarde en eigendomssituatie zijn toegevoegd. Door gebruik te maken van de BAGplus kunnen koopwoningen worden onderscheiden van huurwoningen en van niet-woningen. De BAGplus is beschikbaar vanaf voorraadstand 1 januari 2012. Omdat gemeenten taxeren naar de waarde van 1 januari van het voorgaande jaar, bevat de BAGplus 2012 de WOZ-waarden met waardepeildatum 1 januari 2011. De BAGplus bevat de voorlopige WOZ-waarde.
+
+Op basis van de BAGplus is het percentage koopwoningen per buurt bepaald op peildatum 1 januari 2012. Daarnaast zijn de mediane WOZ-waarden per buurt bepaald op 1 januari 2013, oftewel de WOZ-waarden met waardepeildatum 1 januari 2012. Deze worden alleen bepaald voor gebouwen met een woonfunctie met een waarde groter dan € 0, -. Het gaat daarbij om de ongecorrigeerde WOZ-waardes.
+
+De Polisadministratie bevat gegevens over banen en is gebaseerd op data uit de loonaangiften van de Belastingdienst. De loonaangiften bevatten gegevens over inkomstenverhoudingen (uit de loonadministratie) van werkgevers en andere inhoudingsplichtigen.
+
+Met behulp van de Polisadministratie is het aantal mensen met baan bepaald op 1 januari 2012. Dit aantal is gedeeld door het totaalaantal mensen in de leeftijdscategorie 15 tot 75 jaar dat is bepaald met behulp van het GBA. Het resultaat is het aandeel van mensen met inkomen uit een baan in de leeftijdscategorie 15 tot 75 jaar per buurt.
+
+De inkomensstatistiek is gebruikt als bron van informatie over het gestandaardiseerde huishoudinkomen. De inkomensstatistiek maakt gebruik van gegevens van onder andere de Belastingdienst en Dienst Uitvoering Onderwijs (DUO) en bevat uit registraties afgeleide gegevens over het jaarinkomen van huishoudens in Nederland. De doelpopulatie bestaat uit de Nederlandse bevolking op 31 december van een onderzoeksjaar. Het betreft alleen personen die zijn ingeschreven in de GBA.
+
+Voor de selectie van het uitzonderingsgebied is de mediaan van het gestandaardiseerde huishoudinkomen bepaald per buurt op 31 december 2011. Het gestandaardiseerde inkomen is het besteedbaar inkomen gecorrigeerd voor verschillen in grootte en samenstelling van het huishouden. Hierdoor kunnen huishoudens van verschillende grootte met elkaar vergeleken worden.
+
+Het Geografisch basisregister (GBR) bevat alle adressen van Nederland voorzien van de postcode, de gemeentecode, de wijk- en buurtcode en de coördinaten van het betrokken 500x500 meter rastervierkant. Op basis hiervan wordt de bevolkingsdichtheid van een gebied bepaald. Het is een maatstaf voor het aantal inwoners per oppervlakte van een buurt.
+
+De bevolkingsdichtheid wordt berekend door het aantal inwoners per buurt te delen door de oppervlakte in hectare (ha) van die buurt. Het aantal inwoners is berekend over 2012 voor de buurtindeling van 2019. De oppervlakte in hectare per buurt wordt dan ook bepaald voor buurten in 2019.
+
+Methode
+
+Tussen de buurten in de onderzoekspopulatie bestaan verschillen in de sociaaleconomische en demografische kenmerken. Deze kenmerken hebben invloed op de woningmarkt. Om de invloed van aardbevingsschade zoveel mogelijk te onderscheiden van andere invloeden is het belangrijk dat, met uitzondering van de aanwezigheid van schade door aardbevingen, de buurten in het onderzoeksgebied sociaaleconomisch en demografisch zoveel mogelijk overeenkomen. Om dit te bewerkstelligen is een analyse gedaan om te bepalen welke buurten sterk afwijken van de rest van de buurten. Al deze afwijkende buurten tezamen worden vervolgens aangeduid als het uitzonderingsgebied en worden niet meegenomen in de woningmarktanalyses. De risico- en referentiegebieden zullen vervolgens bestaan uit buurten die, gelet op sociaaleconomische en demografische factoren, met elkaar te vergelijken zijn. Deze analyse is ook voor de vorige gebiedsindeling uitgevoerd. Het is relevant deze te updaten voor de herziene gebiedsindeling. Daarbij is op hoofdlijnen gebruik gemaakt van dezelfde systematiek als eerder. Hoe de huidige systematiek precies in elkaar zit, wordt hierna in detail uitgewerkt.
+
+Om te bepalen welke buurten tot het uitzonderingsgebied horen, zijn de volgende sociaaleconomische en demografische kenmerken op buurtniveau geanalyseerd:
+
+Leeftijdsopbouw; het aandeel mensen in de leeftijdscategorieën 0 tot 15 jaar, 15 tot 25 jaar, 25 tot 45 jaar, 45 tot 65 jaar en 65 plus.
+
+Inkomen; de mediaan van het gestandaardiseerd besteedbaar huishoudinkomen (exclusief studenten).
+
+Percentage mensen met een baan; het aandeel van mensen met inkomen uit een baan in de leeftijdscategorie 15 tot 75 jaar.
+
+Woningwaarde; de mediaan van de WOZ-waarde. De WOZ-waarde van zowel huur- als koopwoningen wordt meegenomen in de bepaling.
+
+Percentage koopwoningen; het aandeel koopwoningen in het totaal aantal woningen.
+
+Bevolkingsdichtheid; het aantal inwoners per hectare van een buurt.
+
+Deze kenmerken zijn bepaald vóór de hevige aardbeving die in het derde kwartaal van 2012 bij Huizinge plaatsvond. Dit is gedaan omdat de aardbevingen effect kunnen hebben op de sociaaleconomische en demografische kenmerken van buurten. Om aan te sluiten bij de administratieve werkelijkheid ten tijde van de methodeherziening, wordt wel de buurtindeling van 2019 gebruikt. Voor de buurten in 2019 wordt dus vastgesteld wat hun kenmerken voor de beving in Huizinge waren.
+
+De methode om afwijkende buurten te selecteren bestaat uit vier stappen:
+
+Op basis van de buurten in het risicogebied zijn per indicator grenzen opgesteld voor wanneer een buurt een kleine afwijking of een grote afwijking heeft ten opzichte van de overige buurten. Afwijkingen worden bepaald door eerst te kijken naar de afstand tussen het 25e en het 75e percentiel van de waarnemingen, dit is de interkwartielafstand (IQR). In de IQR valt 50% van de waarnemingen. Een kleine afwijking wordt gezien als een waarde met een afstand van meer dan 1,5 maal de IQR vanaf het 25 e of 75 e percentiel. Een grote afwijking wordt gezien als 3 maal de IQR vanaf het 25 e of 75 e percentiel.
+
+Deze grenzen worden vervolgens zowel toegepast op buurten in het risico- als in het referentiegebied.
+
+Omdat de leeftijdsopbouw uit vijf verschillende categorieën bestaat, zijn voor deze indicator 5 afwijkingsscores bepaald. Met behulp van een beslisboom wordt hiermee één gecombineerde score bepaald. De resulterende score kan net als bij de andere indicatoren drie waardes aannemen; geen afwijking, kleine afwijking of grote afwijking.
+
+Wanneer een buurt op één of meer van de indicatoren een grote afwijking heeft wordt deze buurt tot het uitzonderingsgebied gerekend. Ook wanneer een buurt drie of meer keer een kleinere afwijking heeft, wordt deze tot het uitzonderingsgebied gerekend.
+
+Naast het uitsluiten van buurten op basis van bovenstaande methodiek, zullen de steden Groningen en Assen worden uitgesloten vanwege hun stedelijkheid. Door middel van de woonplaatsgrenzen in het BAG register worden de steden afgebakend in de gemeenten Groningen en Assen. De verwachting is dat zelfs in een relatief doorsnee buurt in de steden Groningen en Assen de woningmarktdynamiek anders zal zijn dan in een buurt buiten deze twee steden. De woningmarktdynamiek verschilt in stedelijke gebieden namelijk van die in landelijke gebieden. Dit zit hem niet alleen in kenmerken die op buurtniveau in steden waarneembaar zijn (zoals de leeftijd van de bewoners, of de bevolkingsdichtheid). Het verschil ontstaat ook door landelijke ontwikkelingen zoals verstedelijking en de aanwezigheid van een groter aantal voorzieningen in de directe omgeving buiten de eigen buurt (zoals werkgelegenheid, winkels, cultuur, ziekenhuizen, scholen, et cetera).
+
+Daarnaast zullen buurten met minder dan 15 woningen worden uitgesloten, om het risico op onthulling te voorkomen. Het uitzonderingsgebied zal dus bestaan uit alle buurten die sociaaleconomisch of demografisch afwijken, die tot de steden Groningen of Assen behoren of die minder dan 15 woningen hebben.
+
+In tabel 2.3.1 is een lijst opgenomen van alle buurten (buiten buurten in de steden Groningen en Assen en buurten met minder dan 15 woningen) die in het uitzonderingsgebied vallen op basis van sociaaleconomische en demografische kenmerken. Per buurt is aangegeven op basis van welk criterium deze is uitgesloten. Het volledige uitzonderingsgebied en de gebiedsindeling van de overige buurten zijn opgenomen in bijlage I.
+
+2.3.1 Uitzonderingsgebied op basis van sociaaleconomische en demografische kenmerken
+
+2.4 Categorieën risicogebieden
+
+Nadat het uitzonderingsgebied is bepaald is duidelijk welke buurten onderdeel blijven uitmaken van het risico- en referentiegebied. Tussen de buurten die in het risicogebied vallen kunnen grote verschillen bestaan in het aandeel woningen dat schade heeft. Het aandeel woningen met schade is bepaald via de methode beschreven in paragraaf 2.2.
+
+Om te kunnen beschrijven of de woningmarkt zich anders ontwikkelt in gebieden met uiteenlopende schade-intensiteit, is het risicogebied ingedeeld in drie klassen. De indeling is drie klassen is bepaald door middel van het combineren duidelijke grenzen in de verdeling van woningschade-aandelen en de eis van een globale evenredige verdeling van het aantal woningen in de woningvoorraad over de klassen. Op basis hiervan is de grens van het risicogebied met een relatief klein aandeel woningen met schade bepaald. Tussen de twee hoogste categorieën is geen duidelijke grens zichtbaar. Het onderscheid tussen deze categorieën is bepaald door het aantal woningen in de woningvoorraad evenredig te verdelen over de klassen. Dit heeft de volgende indeling opgeleverd:
+
+Relatief laag aandeel woningen met schade: 1% tot en met 10% van de woningvoorraad heeft schade.
+
+Gemiddeld aandeel woningen met schade: 11% tot en met 55% van de woningvoorraad heeft schade.
+
+Relatief hoog aandeel woningen met schade: 56% of meer van de woningvoorraad heeft schade.
+
+De buurten met een hoog aandeel woningen met schade zijn over het algemeen minder dichtbevolkt en qua oppervlakte groter. Hierdoor is het oppervlak van de zwaardere risicocategorie relatief groot in verhouding tot de lichtere categorieën. Dit zie je terug in onderstaande figuur.
+
+In de bijlage is een volledige lijst opgenomen van alle buurten en de indeling naar gebieden.
+
+In verband met de consistentie zal de gebiedsindeling de komende periode steeds worden bepaald op basis van het schadebestand van 2 augustus 2019. Wel zullen veranderingen in het aandeel schademeldingen in de gaten gehouden worden. Bij grote veranderingen zal de indeling worden heroverwogen.
+
+2.5 Gebieden met en zonder krimp
+
+Naast de indeling naar gebieden met verschillende schade-intensiteit wordt voor het gehele risico- en referentiegebied een indeling gemaakt naar krimpregio’s en niet-krimpregio’s. Onder de krimpregio’s vallen alle buurten die binnen een van de gemeenten liggen die volgens de indeling van de rijksoverheid als krimpgebied zijn aangeduid. In bijlage I is per buurt aangegeven of zij onderdeel uitmaken van een gemeente met of zonder krimp. Voor de uitsplitsing naar krimp/geen-krimp in het risicogebied wordt geen verdere uitsplitsing gemaakt naar schade-intensiteit. In figuur 2.5.1 is de indeling van buurten naar krimp en niet-krimp weergegeven.
+
+
+
+
+
+Noten
+
+In bepaalde gevallen kan ook gekozen worden voor deelname aan de zogenoemde stuwmeerregeling. Het TCMG-bestand bevat ook de deelnemers aan de stuwmeerregeling.
+
+Het gaat om schade als gevolg van aardbevingen. Schades als gevolg van overige mijnbouw gerelateerde schade zijn uitgesloten. Deelnemers die budget ontvangen vanuit de stuwmeerregeling tellen eveneens mee als schadegevallen.
+
+Zie het vorige voor meer informatie.
+
+Een buurt krijgt een grote afwijkingsscore voor leeftijd wanneer a) er op 2 of meer van de leeftijdscategorieën een grote afwijking is, of b) er in één categorie een grote afwijking is en daarnaast drie of meer keer een kleine afwijking is. Een buurt krijgt een kleine afwijkingsscore voor leeftijd wanneer a) er één keer een grote afwijking is en een of twee keer een kleine afwijking of b) er geen grote afwijking is en er drie keer of meer een kleine afwijking is. Alle andere buurten, krijgen geen afwijkingsscore voor leeftijd.
+
+Met ‘tot en met’ wordt bedoeld dat alle waarden in de hoogste waarde (hier: 10%) bij de betreffende categorie meetellen.
+
+De officiële indeling per 1 januari 2019 is te vinden.Kernindicatoren
+
+In het onderzoeksrapport staan zes indicatoren centraal. Vijf indicatoren beschrijven de verkoopbaarheid van woningen. Dit zijn: aantal verkochte woningen, aantal te koop-staande woningen, verkoopduur, te-koopduur, en de verhouding tussen vraagprijs en verkoopprijs. De zesde indicator is de prijsontwikkeling van verkochte woningen. Dit hoofdstuk beschrijft op welke manier de zes indicatoren worden vastgesteld.
+
+3.1 Inleiding
+
+Dit hoofdstuk is als volgt opgebouwd. In paragraaf 3.2 worden de gebruikte bronbestanden toegelicht. Paragraaf 3.3 beschrijft de operationalisering van de vijf verkoopbaarheidsindicatoren en de gehanteerde methode. Voor deze indicatoren zijn niet alleen de risicogebieden vergeleken met het referentiegebied, maar zijn eveneens woningen in het hoge en lage segment met elkaar vergeleken. Deze uitsplitsing wordt verder toegelicht in paragraaf 3.4. De gehanteerde methode voor het vaststellen van de prijsindicator wordt beschreven in hoofdstuk 3.5. Alle indicatoren die in dit hoofdstuk worden beschreven, worden op kwartaalbasis berekend in de vorm van een trendmatige ontwikkeling per indicator. In paragraaf 3.6 wordt behandeld hoe is vastgesteld wat de maximaal haalbare periodiciteit is waarover met voldoende betrouwbaarheid gepubliceerd kan worden. Deze paragraaf beschrijft ook hoe de betrouwbaarheid van de resultaten is bepaald. Ten slotte is in deze paragraaf de methode toegelicht waarmee de trendmatige ontwikkeling in de cijfers is vastgesteld.
+
+3.2 Bronbestanden
+
+De zes indicatoren maken gebruik van dezelfde bronbestanden. Daarom worden in deze paragraaf eerst de gebruikte bronbestanden beschreven, voordat de operationalisering en de methode voor het vaststellen van de indicatoren wordt toegelicht. Per bron wordt beschreven wat de inhoud van het bestand is. Vervolgens wordt aangegeven welke bewerkingen en filters zijn toegepast.
+
+NVM-bestand
+
+Het bestand van de Nederlandse Vereniging van Makelaars (NVM) vormt de basis van alle kernindicatoren behalve het aantal verkochte woningen. Het bevat bestaande woningen die ergens tussen 1 januari 1985 en het einde van de onderzoeksperiode te koop hebben gestaan bij NVM-makelaars. Het gaat om zowel woningen die daadwerkelijk zijn verkocht als om woningen die nu nog te koop staan of van de markt zijn teruggetrokken. Hierbij moet worden opgemerkt dat sommige verkopen pas een tijd na de verkoopdatum worden geregistreerd. Het aantal verkopen in de meest recente kwartalen wordt daardoor onderschat. De dekking van het NVM-bestand is in de jaren voor 2000 ongeveer 50 procent van de markt en neemt daarna steeds verder toe. Voor de jaren vanaf 2010 bevat het NVM-bestand ongeveer 90 procent van alle verkochte woningen in het onderzoeksgebied. Verkopen die zonder NVM-makelaar zijn gedaan, ontbreken in het bestand.
+
+Van alle woningen is bekend op welk moment ze op de markt zijn gekomen en, indien van toepassing, op welk moment ze weer van de markt af zijn gehaald. Dit laatste kan het gevolg zijn van terugtrekking of van een daadwerkelijke verkoop. In het geval van een verkoop is zowel de verkoopprijs als de verkoopdatum bekend. De verkoopdatum is de dag waarop het koopcontract is getekend. Naast gegevens over aan- en afmelding van de woningen zijn ook diverse woningkenmerken opgenomen in het bestand, zoals adresgegevens, type woning, bouwperiode, inhoud, oppervlakte, aantal verdiepingen, soort tuin en parkeergelegenheid.
+
+De kwaliteit van de variabelen in het bestand is niet altijd optimaal, vooral voor de jaren tot 2000. Om het bestand geschikt te maken voor analysedoeleinden is daarom eerst een aantal bewerkingen toegepast. Zo zijn aan- en afmelddata omgedraaid indien de afmelddatum vóór de aanmelddatum lag.
+
+Ieder record in het bestand bevat een aanmelding van een woning. Eén en dezelfde woning kan meerdere keren te koop zijn gezet. Deze woning zit dan meerdere keren in het bestand. Records van woningen die tijdelijk van de woningmarkt zijn teruggetrokken en binnen drie maanden weer opnieuw te koop zijn gezet zijn samengevoegd. In dat geval beschouwen we beide verkoopperioden als aaneengesloten.
+
+Het komt ook voor dat meerdere records van één en dezelfde woning elkaar overlappen, dat wil zeggen dat de woning opnieuw is aangemeld voordat het andere record is afgemeld. Dit kan verschillende oorzaken hebben. Bij elk mogelijk scenario zijn er beslisregels opgesteld om te bepalen welke aanmelding van die woning in het bestand moet worden behouden.
+
+Tot slot zijn buurtcodes toegevoegd op basis van de postcode en het huisnummer in het bestand. Wanneer postcode of huisnummer niet goed is ingevuld of ontbreekt, is het niet mogelijk een buurtcode aan te koppelen. Hierdoor worden enkele transacties niet meegenomen in de analyse. Het effect hiervan is echter minimaal.
+
+Het NVM-bestand bevat een groot aantal records dat niet binnen de reikwijdte van het onderzoek valt. Het gaat dan bijvoorbeeld om woningen die niet tot de gedefinieerde onderzoeksgebieden behoren of woningen die buiten de onderzoeksperiode te koop hebben gestaan. Daarom is er een filter aan het bestand toegevoegd waarmee kan worden bepaald welke records meegenomen moeten worden in de analyse.
+
+Binnen het filter vallen de records die:
+
+in één van de onderzoeksgebieden (risicogebieden of referentiegebied) liggen.
+
+een woonhuis of appartement betreffen. Bouwgrond en garageboxen worden buiten beschouwing gelaten.
+
+tot het onroerend goed behoren. Woonboten en stacaravans zijn uitgesloten.
+
+ergens in de onderzoeksperiode te koop hebben gestaan. Dat wil zeggen dat de woning tussen 1 januari 1985 (start bestand) en de meest recente onderzoeksperiode is aangemeld én dat de woning, indien afgemeld, op of na 1 januari 1995 is afgemeld.
+
+Voor verkochte woningen geldt naast bovengenoemde criteria dat zij alleen binnen de relevante selectie vallen als:
+
+de woning daadwerkelijk verkocht is. Verkopen onder voorbehoud zijn uitgesloten.
+
+de verkoopprijs en de oorspronkelijke vraagprijs groter dan of gelijk zijn aan 10 duizend euro en kleiner dan of gelijk aan 5 miljoen euro. Hiermee worden verkopen met een onrealistische prijs buiten beschouwing gelaten.
+
+Voor de prijsindicator zijn twee aanvullende filters toegepast. Dit is gedaan om te voorkomen dat niet plausibele transacties de regressie verstoren. Woningen zijn niet geselecteerd als:
+
+De inhoud kleiner is dan 21 m³. De grens is gesteld op 21 m³ omdat dit de minimale inhoud is die een woning in Nederland volgens Bouwbesluit 2012 moet hebben.
+
+Het logaritme van de verkoopprijs van de woning valt buiten het interval van 99% rond het gemiddelde. Het gemiddelde logaritme van de verkoopprijs is bepaald, evenals de standaarddeviatie. Woningen die 2,58 standaarddeviaties of meer van het gemiddelde afwijken, worden verwijderd. Dit filter wordt toegepast om te voorkomen dat zeer hoge of zeer lage prijzen de regressie bovengemiddeld beïnvloeden.
+
+BAG en Woonruimteregister
+
+Informatie over de woningvoorraad is noodzakelijk om twee van de verkoopbaarheidsindicatoren te kunnen berekenen: het aandeel te koop staande en verkochte woningen. Om de woningvoorraad te bepalen van 1995 t/m 2011 is gebruik gemaakt van het Woonruimteregister (WRG). Het WRG is een registratie met adressen en bevat de voorraad van woonruimten op 1 januari. Uit het WRG kan onder andere de woningvoorraad worden afgeleid. Voor de woningvoorraad is de typering ‘woning’ geselecteerd. De BAG is gebruikt voor het bepalen van de woningvoorraad vanaf 2012. De BAG is uitgebreider beschreven in paragraaf 2.2.
+
+De WRG en BAG gegevens sluiten niet volledig op elkaar aan. Dit levert in 2012 een trendbreuk op in de woningvoorraadcijfers. Door structurele tijdsreeksmodellen (Durbin en Koopman, 2012) toe te passen kan er voor de breuk worden gecorrigeerd. In het kader van een structureel tijdsreeksmodel wordt een tijdreeks opgeknipt in verschillende latente onderdelen (bijvoorbeeld een trend, een seizoens-effect (bij maandelijkse data) of een cyclus). Daarnaast kan ook een breuk in de trend worden geschat.
+
+De methodeherziening die in 2019 heeft plaatsgevonden, heeft tot een nieuwe indeling van de onderzoeksgebieden geleid. De tijdsreeksmodellen zijn op deze nieuwe onderzoeksgebieden toegepast. Deze modellen zijn gelijk aan degenen die voor de vorige gebiedsindeling zijn gebruikt.
+
+Kadasterbestand
+
+Het verkopenbestand van het Kadaster bevat alle woningen die vanaf 1 januari 1995 verkocht zijn. Het Kadaster heeft de wettelijke taak alle verkooptransacties van onroerende zaken te registreren. Naast de verkoopprijs worden ook adres, woningtype en datum van overdracht geregistreerd. De verkoopprijs is inclusief eventueel aanwezige grond, tenzij het een woning met erfpacht betreft. De prijs is exclusief bijkomende kosten zoals notariële kosten, makelaars- of taxateursdiensten en overdrachtsbelasting. Ook roerende zaken (zoals boedel) worden uitgesloten. De verkoopdatum die bij het Kadaster is geregistreerd is de datum van de juridische overdracht. Deze datum ligt gemiddeld twee tot drie maanden na de datum waarop het koopcontract is getekend. Het bestand heeft een volledige dekking. Op basis van dit bestand is het aantal verkochte woningen bepaald.
+
+3.3 Ontwikkelingen verkoopbaarheidsindicatoren
+
+Het onderzoek behandelt vijf indicatoren die de verkoopbaarheid van woningen vaststellen:
+
+Aantal verkochte woningen als percentage van de woningvoorraad.
+
+Aantal te koop staande woningen als percentage van de woningvoorraad.
+
+Aantal dagen dat verkochte woningen te koop hebben gestaan (verkoopduur).
+
+Aantal dagen dat te koop staande woningen al te koop staan (te-koopduur).
+
+Verkoopprijs als percentage van de oorspronkelijke vraagprijs (prijsverhouding).
+
+Deze vijf indicatoren zijn als volgt geoperationaliseerd:
+
+1 = Het aantal woningen dat in kwartaal x is verkocht als percentage van de woningvoorraad aan het eind van kwartaal x.
+
+2 = Het aantal woningen dat aan het eind van kwartaal x te koop staat als percentage van de woningvoorraad aan het eind van kwartaal x.
+
+3 = De mediane verkoopduur van alle woningen die in kwartaal x verkocht zijn. De verkoopduur is het aantal dagen tussen de aanmelddatum en de afmelddatum van de woning.
+
+4 = De mediane te-koopduur van alle woningen die aan het eind van kwartaal x te koop staan. De te-koopduur is het aantal dagen tussen de aanmelddatum en de laatste dag van het kwartaal.
+
+5 = De mediane prijsverhouding van alle woningen die in kwartaal x verkocht zijn. De prijsverhouding is de verkoopprijs als percentage van de oorspronkelijke vraagprijs.
+
+De eerste twee indicatoren zijn gerelateerd aan de totale woningvoorraad. Hierdoor kunnen de resultaten beter in de tijd en ook tussen verschillende gebieden worden vergeleken. Volgtijdelijke vergelijkbaarheid is ook de reden dat bij indicator 3, 4 en 5 is gekozen voor de mediaan in plaats van het rekenkundig gemiddelde. De mediaan is namelijk minder gevoelig voor uitschieters in de data.
+
+Vanwege het kleine aantal waarnemingen per kwartaal vertonen de reeksen van de verschillende indicatoren een grillig verloop. Om een beter beeld te krijgen van de trendmatige ontwikkeling is een smoothing techniek toegepast; namelijk een state spacemodel. Dit is verder uitgelegd in paragraaf 3.6.
+
+3.4 Hoog en laag segment
+
+Omdat het prijssegment mogelijk van invloed is op de verkoopbaarheid van woningen, is voor alle verkoopbaarheidsindicatoren ieder jaar een aparte uitsplitsing gemaakt naar woningen in het hoge en lage segment.
+
+De uitsplitsing naar segment wordt gemaakt op basis van het NVM-bestand, beschreven in paragraaf 3.2. Woningen worden tot het hogere segment gerekend indien de oorspronkelijke vraagprijs boven 200 duizend euro ligt. Woningen met een oorspronkelijke vraagprijs onder of gelijk aan 200 duizend euro worden tot het lagere segment woningen gerekend. De uitsplitsing wordt zowel voor het risicogebied als het referentiegebied gemaakt. Voor de uitsplitsing naar hoog/laag segment in het risicogebied wordt geen onderscheid gemaakt naar schade-intensiteit. Het hogere segment risicogebied bestaat dus uit alle woningen met een oorspronkelijke vraagprijs boven 200 duizend euro, gelegen in een buurt waar aan minimaal 5 woningen en aan minimaal 1% van de woningen een schadevergoeding is toegekend.
+
+3.5 Prijsontwikkelingen verkochte woningen
+
+De zesde indicator, de prijsontwikkeling van bestaande koopwoningen, is gemeten aan de hand van een kenmerkenmodel. Een kenmerkenmodel ziet een woning als een set woningkenmerken. Voorbeelden van woningkenmerken zijn de grootte van de woning of het woningtype. Elk kenmerk heeft invloed op de prijs van een woning. Zo zal een woning met een grote woonoppervlakte duurder zijn dan een woning met een kleine oppervlakte, gegeven de overige kenmerken. Met behulp van regressieanalyse kan de invloed van de woningkenmerken op de prijs worden bepaald. Hiermee kan de gemeten prijsontwikkeling worden gecorrigeerd voor veranderingen in de samenstelling en kwaliteit van de set verkochte woningen.
+
+Selectie van woningkenmerken
+
+De NVM-dataset bevat circa 100 woningkenmerken. Het is niet zinvol deze allemaal op te nemen in het kenmerkenmodel. Een model heeft na opname van de belangrijkste woningkenmerken vaak al een vrij grote verklaarkracht. Toevoeging van extra kenmerken voegt dan nauwelijks verklaarkracht toe, terwijl het lastiger wordt om significante resultaten uit de regressieanalyse te krijgen. Daarom is gekozen voor een beperkt aantal woningkenmerken. Een nadeel hiervan is dat het model hierdoor minder geschikt is voor unieke objecten, zoals woonboerderijen. Aan de meer algemene kenmerken van zulke woningen is niet af te leiden dat het om een bijzondere woning gaat, terwijl dit wel tot uitdrukking komt in de prijs.
+
+Omdat niet alle 100 woningkenmerken opgenomen kunnen worden in het model, is er een selectie gemaakt van beschikbare woningkenmerken in de NVM-dataset. Bij het maken van de selectie is allereerst gekeken of er voldoende woningen worden verkocht die het kenmerk bezitten. Daarnaast moeten er betrouwbare data over dit kenmerk beschikbaar zijn. Tot slot moet er voldoende variatie van het kenmerk aanwezig zijn in het onderzoeksgebied. De kenmerken die aan deze voorwaarden voldoen zijn doorgerekend in het kenmerkenmodel. Woningkenmerken die niet significant bleken zijn verwijderd. Daarnaast zijn ook kenmerken verwijderd die weinig effect bleken te hebben op de verkoopprijs. Onderstaande kenmerken zijn uiteindelijk opgenomen in het kenmerkenmodel:
+
+Inhoud van de woning.
+
+Grootte van het perceel behorende bij de woning.
+
+Woningtype.
+
+Bouwperiode van de woning.
+
+Gemeente waarin de woning is gelegen.
+
+Staat van het onderhoud binnen.
+
+Staat van het onderhoud buiten.
+
+De kenmerken 1 tot en met 5 behoren tot de belangrijkste kenmerken die verkoopprijzen verklaren (Diewert, 2013). De kenmerken 6 en 7 zeggen iets over de staat waarin de woning verkeert. Deze kenmerken zijn in het kader van dit onderzoek van belang, omdat er woningen in deze regio zijn die te maken hebben met schade als gevolg van aardbevingen.
+
+Het is gebruikelijk om in een kenmerkenmodel een variabele voor locatie op te nemen, omdat de locatie van een woning een belangrijke verklarende variabele is voor de prijs van de woning. In dit geval is gekozen voor de variabele gemeente omdat op deze manier rekening gehouden wordt met het imago van de gemeente. Wanneer een bepaalde buurt een minder goede naam heeft, dan beperkt zich dat vermoedelijk niet tot deze ene buurt. Mogelijk mijden kopers ook omliggende buurten, omdat deze vlakbij een buurt met een minder goede naam ligt. Om voor dit soort imago effecten te corrigeren, wordt de variabele gemeente meegenomen.
+
+In deze studie zijn verschillende mogelijkheden onderzocht om het effect van aardbevingen mee te nemen in het kenmerkenmodel. Zo is gekeken naar de mogelijkheid om schademeldingen op te nemen. Dit bleek echter niet haalbaar, omdat niet achterhaald kan worden in hoeverre een woning schade heeft op het moment van verkoop. Daarnaast is gekeken naar de mogelijkheid om het aantal aardbevingen per woning mee te nemen. Het meenemen hiervan is mogelijk, maar voegt weinig verklaarkracht toe aan het model. Dat komt doordat de buurten waar regelmatig aardbevingen voorkomen zijn samengevoegd tot de drie risicogebieden. Omdat vrijwel alle woningen in deze gebieden aardbevingen hebben doorgemaakt, is dit geen onderscheidend kenmerk tussen de woningen binnen deze gebieden. Er is wel verschil in de mate waarin woningen schade hebben opgelopen. Daarom is de staat van het onderhoud meegenomen. Indien een woning aardbevingsschade heeft op het moment van verkoop, dan nemen we aan dat dit hierin tot uitdrukking komt.
+
+Het opnemen van de variabele onderhoud heeft als nadeel dat er gecorrigeerd wordt voor aardbevingsschade aan woningen. Toch is het beter om de variabele onderhoud in het model op te nemen. Allereerst is dit nodig om tijdreeksen te kunnen maken. De kwaliteit van de set verkochte woningen verschilt van periode tot periode. In het ene kwartaal worden bijvoorbeeld beter onderhouden woningen verkocht dan in het andere kwartaal. Door te corrigeren voor het onderhoud van woningen kunnen vergelijkingen in de tijd worden gemaakt ondanks verschillen in de kwaliteit van de set verkochte woningen. Eenzelfde redenering gaat op voor het vergelijken tussen de verschillende gebieden in het onderzoek. Door te corrigeren voor eventuele aardbevingsschade kan worden onderzocht of er sprake is van een verschil in prijsontwikkeling tussen de risicogebieden en het referentiegebied ongeacht een verschil in de kwaliteit van verkochte woningen. Op deze manier kan een uitspraak worden gedaan over de vraag of er in het risicogebied sprake is van een andere prijsontwikkeling dan in het referentiegebied, ook als het gaat om niet beschadigde woningen.
+
+Bovenstaande selectie van woningkenmerken is gemaakt op basis van onderzoek naar verkochte bestaande koopwoningen. De kenmerken van verkochte bestaande koopwoningen kunnen verschillen van de kenmerken van niet-verkochte woningen of van de kenmerken van nieuwbouwkoopwoningen. De beschreven bevindingen en de resultaten van het model zijn daarom ook alleen van toepassing op verkochte bestaande koopwoningen.
+
+Regressieanalyse
+
+Door middel van een standaard time dummy methode wordt het logaritme van de verkoopprijs verklaard aan de hand van een set woningkenmerken en dummy variabelen. In de vorige paragraaf zijn de zeven kenmerken beschreven die zijn opgenomen in het model. Daarnaast is het kwartaal waarin woningen zijn verkocht opgenomen in het model. Zo is de invloed van de periode waarin de verkoop plaatsvond gemeten. Het model ziet er als volgt uit:
+
+Log(Verkoopprijs) = Constante + Verkoop kwartaal + log(Inhoud) + Perceel + Woningtype + Bouwperiode + Gemeente + Onderhoud binnen + Onderhoud buiten + Ruis
+
+Bij een time dummy methode wordt er één regressie uitgevoerd voor alle perioden samen. In dit geval is de regressie uitgevoerd met behulp van de kleinstekwadratenmethode op kwartaaldata van het eerste kwartaal van 1995 tot en met de meest recente periode die in het rapport wordt beschreven. Voor elk onderscheiden onderzoeksgebied is een aparte regressieanalyse uitgevoerd.
+
+Om te bepalen in hoeverre het model geschikt is voor het verklaren van de verkoopprijs, is R² berekend. Dit is een maatstaf waarmee bepaald kan worden in hoeverre het model geschikt is voor het verklaren van de variantie in de uitkomsten. R² is een waarde tussen 0 en 1, waarbij geldt: hoe hoger de waarde hoe beter het model geschikt is voor het verklaren van de variantie in de uitkomsten.
+
+Controleren modelaannames
+
+Het regressiemodel is gebaseerd op een aantal aannames. Deze aannames zijn gecontroleerd en zijn hieronder besproken:
+
+De residuen zijn homoscedastisch. Dit wil zeggen dat ze een constante variantie hebben. Deze aanname is gecontroleerd met behulp van de zogenoemde Breusch-Pagan test. Hieruit bleek dat de residuen niet homoscedastisch, maar heteroscedastisch zijn en dat verhoogt de standaardfout van de coëfficiënten. Daarom is een zogenoemde hccm-test uitgevoerd om de significantie van de woningkenmerken te controleren. Hierbij is rekening gehouden met de heteroscedasticiteit. Uit de test bleek dat de geselecteerde woningkenmerken allen significant zijn. Dit betekent dat met zekerheid kan worden gesteld dat de geselecteerde woningkenmerken invloed hebben op de verkoopprijs van de woning.
+
+De residuen zijn ongecorreleerd. Dit is een belangrijke aanname. Het wil zeggen dat de residuen niet met elkaar samenhangen. Er is geen resterend patroon in de residuen aanwezig dat door toevoeging van een extra woningkenmerk aan het model verklaard zou kunnen worden.
+
+De residuen zijn normaal verdeeld. Dit is nodig om bepaalde statistische toetsen uit te kunnen voeren die alleen onder deze aanname werken. De residuen in dit onderzoek zijn normaal verdeeld.
+
+Deze aannames zijn tijdens het bepalen van het model (het vinden van de optimale verzameling kenmerken) herhaaldelijk gecontroleerd. Als niet (geheel) aan de aannamen werd voldaan was dit een teken dat het model verbeterd kon worden. Naast de genoemde toets op heteroscedasticiteit zijn de aannamen gecontroleerd door de eigenschappen van de residuen visueel te bestuderen. Bij deze visuele controle bleken nog outliers met een grote invloed op de regressie in de data te zitten. Deze zogenoemde influential outliers zijn verwijderd met behulp van Cook’s Distance.
+
+3.6 Betrouwbaarheidsmarges en trendlijnen
+
+Alle ontwikkelingen worden gerapporteerd op kwartaalbasis in de vorm van een trendmatige ontwikkeling per indicator. In deze paragraaf is eerst behandeld hoe is vastgesteld wat de maximaal haalbare periodiciteit is waarmee met voldoende betrouwbaarheid gepubliceerd kan worden. Vervolgens is besproken hoe deze betrouwbaarheid is vastgesteld. Ten slotte is de methode toegelicht waarmee de trendmatige ontwikkelingen in de cijfers zijn bepaald.
+
+Periodiciteit
+
+Het aantal verkochte woningen per kwartaal in de onderzoeksgebieden is klein. Daarom gaat een aantal van de indicatoren voor deze gebieden gepaard met relatief grote marges. Het gaat met name om de prijsindices, maar geldt ook voor sommige verkoopbaarheidsindicatoren. De berekende indicatoren zullen in die gevallen minder betrouwbaar zijn dan voor gebieden met veel verkopen. Inzicht in de betrouwbaarheid van de berekende cijfers is belangrijk omdat dit bepaalt wat de hoogste frequentie is waarvoor cijfers gepubliceerd kunnen worden. De onzekerheidsmarges worden groter en de betrouwbaarheid kleiner door over kortere periodes te rapporteren. Bovendien zal het patroon over de perioden van de indicator een grilliger verloop hebben.
+
+Om een schatting van de onzekerheid te maken, zijn de prijsindexmethoden voor verschillende periodiciteiten toegepast. Hierbij zijn telkens de 95%-betrouwbaarheidsintervallen berekend. Zowel de onzekerheidsmarges rond het geschatte niveau als de marges rond de ontwikkeling van de prijsindexcijfers zijn bepaald. Op basis hiervan is besloten dat het CBS de prijsindexcijfers niet gedetailleerder dan op kwartaalbasis met voldoende nauwkeurigheid kan publiceren. Ook voor de verkoopbaarheidsindicatoren wordt deze periodiciteit gehanteerd.
+
+Om toch voldoende inzicht te krijgen in de onderliggende ontwikkelingen, ondanks de onzekerheid in de cijfers en de grilligheid van het verloop van de indicatoren, zijn voor alle indicatoren trendlijnen berekend. De methode hiervoor wordt verderop toegelicht.
+
+Varianties
+
+De berekende prijsindices en enkele van de verkoopbaarheidsindicatoren zijn schattingen van onbekende grootheden. Zoals met elke statistische methode kennen deze schattingen daarom een onzekerheid. Die wordt uitgedrukt met een variantie, waarmee vervolgens een onzekerheidsmarge in de vorm van een 95%-betrouwbaarheidsinterval berekend kan worden. Voor al deze indicatoren is sprake van reeksen van opeenvolgende schattingen. De variantie kan daarom per periode verschillen.
+
+Voor het kenmerkenmodel (Eurostat, 2013) is een formule waarmee de variantie bepaald kan worden niet beschikbaar. Bij deze methode wordt een lineaire regressie uitgevoerd en wordt vervolgens een transformatie (het nemen van de exponent) uitgevoerd op bepaalde regressiecoëfficiënten om de prijsindex te berekenen. Deze coëfficiënten hebben weliswaar een bekende standaardfout, maar voor de getransformeerde coëfficiënten is deze fout niet triviaal te berekenen. Om toch een variantie te kunnen berekenen, zijn de varianties via een ‘bootstrap’-procedure (Efron en Tibshirani, 1993) op empirische wijze bepaald voor de prijsindices. In deze procedure is een steekproef (met teruglegging) getrokken uit het bestaande bestand met huizenverkopen die even groot is als het oorspronkelijke bestand. Dit is per periode gebeurd. Vervolgens is voor dit nieuwe bestand de prijsindex per periode berekend. Door dit geheel een groot aantal keer te herhalen (1000 keer) kon de variantie van prijsindex over alle herhalingen worden berekend.
+
+Voor de verkoopbaarheidsindicatoren zijn om verschillende redenen geen varianties bekend. Voor sommige indicatoren geldt dat ze gebaseerd zijn op alle transacties in een periode, maar iets proberen te zeggen over de woningmarkt als geheel. Dit geldt voor de indicator ‘Verhouding tussen de verkoopprijs en de oorspronkelijke vraagprijs’. In dit geval is het beter om de transacties te zien als een steekproef uit de totale woningvoorraad. De samenvattende maat is dan een schatting van een onbekende populatieparameter. Alvorens de samenvattende maat te berekenen, zijn op de brongegevens nog een aantal bewerkingen uitgevoerd, zoals het verwijderen van transacties die onrealistisch zijn of die de samenvattende maat te sterk zouden beïnvloeden. De samenvattende maat is dus een schatting van de waarde voor de gehele woningvoorraad, en kent daardoor een variantie. Door de bewerkingsstappen valt de variantie ervan echter niet te berekenen.
+
+Nadat de indicatoren bepaald zijn, zijn trendlijnen berekend. De methode hiervoor wordt in de volgende paragraaf behandeld. Deze methode kent ook weer een variantie en gaat ervan uit dat de bronreeksen om de trendlijnen te bepalen geen onzekerheid kennen. Zoals hierboven beschreven kennen alle indicatoren een bepaalde onzekerheid. Daarom is de trendlijnmethode zo aangepast dat deze ook rekening houdt met de hierboven beschreven varianties van de indicatoren. De marge van de trendlijnen geeft daarna de gecombineerde onzekerheid weer van zowel de brondata als de schattingsmethode. Dit is echter alleen mogelijk voor de prijsindices. Voor de verkoopbaarheidsindicatoren is alleen de onzekerheid van de trendlijnmethode vastgesteld. Dit is dus een ondergrens voor de totale onzekerheid.
+
+Wanneer naast een niveauschatting ook ontwikkelingen van belang zijn, moet er rekening mee worden gehouden dat de variantie en dus de onzekerheid in de ontwikkeling niet rechtstreeks overgenomen kan worden uit de varianties van de niveauschattingen. Het gaat immers om de ratio tussen twee schattingen die beide een variantie kennen. De variantie van deze ratio wordt via een benadering geschat. Hierbij zal meestal het geval zijn dat de relatieve onzekerheidsmarge op een ontwikkeling groter is dan de relatieve onzekerheidsmarge op de niveauschatting.
+
+Trendlijnen
+
+Voor alle indicatoren is het belangrijk de trendmatige ontwikkeling te scheiden van toevallige fluctuaties en systematische schommelingen. Zo kan worden bepaald of de ontwikkeling per indicator verschilt tussen het risicogebied en het referentiegebied. Om deze trendmatige ontwikkeling te berekenen, worden voor alle indicatoren state spacemodellen en bijbehorende schattingstechnieken gebruikt (Durbin en Koopman, 2012; Harvey, 1989; Koopman et al., 2008). Deze methodologie gebruikt filters om de onderliggende trend te bepalen.
+
+In deze state spacemodellen wordt ervan uitgegaan dat elke tijdreeks bestaat uit een aantal componenten die niet waargenomen kunnen worden. Deze componenten zijn expliciet gemodelleerd. De in dit onderzoek gebruikte modellen zijn allen speciale gevallen van dezelfde state spaceformulering. De basis hiervoor is een univariaat model met niveau en trend, met een seizoencomponent daaraan toegevoegd. De state spacemodellen gaan ervan uit dat elk van deze componenten zich langzaam ontwikkelt (en dus stochastisch is). Sommige componenten zijn echter vast (ofwel deterministisch). De reeksen worden behalve uit niveau en seizoen ook verklaard middels een of meerdere verklarende variabelen. Via deze component is hulpinformatie in het model opgenomen die een betere verklaring aan de ontwikkeling van de reeks kan geven. Deze variabelen zijn als regressie-effect toegevoegd aan het model. De laatste twee componenten bestaan uit de uitbijters en de breuken. Dit zijn respectievelijk eenmalige extreme waarden in de reeks en plotselinge verschuivingen in het niveau van de reeks. Beide zijn verstorende effecten die expliciet zijn gemodelleerd. Alle componenten samen verklaren de variaties in de reeks. Het kleine gedeelte dat niet met het model kan worden verklaard, is de onregelmatige component of ruis.
+
+Naast het opnemen van deze componenten is de modelformulering uitgebreid zodat de formulering rekening houdt met onzekerheid in de brondata. De marge van de trendlijnen geeft daarmee de gecombineerde onzekerheid weer van zowel de brondata als van de schattingsmethode.
+
+Voor elke reeks kan de precieze modelformulering verschillen. Niet elk van de genoemde componenten hoeft voor elke reeks opgenomen te zijn in het model. Daarnaast kunnen sommige componenten zowel stochastisch als deterministisch gemodelleerd worden. Er is voor gekozen om de modellering per reeks te optimaliseren, en dus niet per se hetzelfde model te hanteren voor alle reeksen (voor de verschillende onderzoeksgebieden) van een indicator.
+
+Via de genoemde filters kan de grootte van elk van de componenten van de reeks geschat worden. De trendmatige ontwikkeling bestaat dan uit de oorspronkelijke reeks zonder de seizoencomponent en de ruiscomponent, maar inclusief de regressie-effecten, uitbijters en breuken.
+
+
+
+
+
+Noten
+
+Het programma OxMetrics 7 (Doornik, 2007) in combinatie met een SsfPack package (Koopman et al., 2008) wordt gebruikt om de breuk in het kader van deze structurele tijdsreeksmodellen te schatten.
+
+Een kenmerkenmodel wordt ook wel een hedonisch model genoemd.
+
+Voor meer over hedonische methoden, zie: De Haan, J. and E. Diewert (2013) Hedonic Regression Methods. In: Eurostat, ILO, IMF, OECD, UNECE and the World Bank, Handbook on Residential Property Prices Indices(RPPIs) (pp. 50-64) . Luxembourg: Publications Office of the European Union.Aanvullende analyses
+
+Naast de zes kernindicatoren, wordt er een aantal aanvullende analyses gedaan. Het doel van deze analyses is om een vollediger beeld van de ontwikkelingen op de woningmarkt te schetsen. Het vierde hoofdstuk gaat in op deze aanvullende analyses en de daarbij gebruikte methodes.
+
+4.1 Inleiding
+
+De eerste aanvullende analyse is een vergelijking van de ontwikkeling van de WOZ-waarde van de koopwoningvoorraad in het risicogebied met die van woningen in het referentiegebied. De gebruikte bron en de gehanteerde methode van deze analyse wordt beschreven in paragraaf 4.2. De tweede aanvullende analyse is een vergelijking van de verhuisbewegingen vanuit, naar en binnen het risicogebied met de verhuisbewegingen vanuit, naar en binnen het referentiegebied. De bron en methode voor deze analyse worden beschreven in paragraaf 4.3.
+
+4.2 WOZ-waardeontwikkelingen
+
+Bronbestand
+
+Voor het bepalen van de WOZ-waardeontwikkelingen wordt steeds gebruik gemaakt van de meest recente BAGplus. Dit is het BAG-bestand verrijkt met WOZ-waarden. De BAGplus is beschreven in paragraaf 2.3.
+
+Er worden filters toegepast op de BAGplus om koopwoningen te kunnen onderscheiden van huurwoningen en niet-woningen. Anders gezegd, er wordt een filter toegepast om de koopwoningvoorraad te selecteren. Daarnaast wordt een filter toegepast om niet-plausibele WOZ-waarden te verwijderen. De volgende filters worden toegepast:
+
+Objecten met de WOZ gebruiksfunctie wonen worden geselecteerd. Dit komt overeen met gebruiksfunctie 10 en 11.
+
+Objecten gedefinieerd als Eigen Woning.
+
+Objecten met een WOZ-waarde groter dan of gelijk aan 10 duizend euro en kleiner dan of gelijk aan 5 miljoen euro worden geselecteerd.
+
+Methode
+
+De ontwikkeling van de WOZ-waarde van bestaande koopwoningen is berekend door per onderzoeksgebied de som van de WOZ-waarden in een bepaald jaar te delen door de som van de WOZ-waarden in het voorgaande jaar. Alleen woningen die in beide opeenvolgende jaren voorkomen, worden meegenomen. Op deze manier wordt voorkomen dat de gemeten ontwikkeling wordt beïnvloed door verschillen in de samenstelling van de woningvoorraad tussen beide jaren.
+
+Per jaar is op deze manier een groeifactor berekend. De index wordt berekend door de factor van een bepaald jaar te vermenigvuldigen met de index van het voorgaande jaar. Zo ontstaat de reeks die start op waardepeildatum 1 januari 2011.
+
+Alle indicatoren in het onderzoek zijn herschaald naar het derde kwartaal van 2012. Omdat de WOZ-waarde jaarlijks per januari wordt vastgesteld, is het niet mogelijk om op dit punt exact bij de andere indicatoren in het onderzoek aan te sluiten. De WOZ-index is daarom per waardepeildatum 1 januari 2012 op 100 gesteld. Dit is de meest recente WOZ-waarde op het moment dat de grootste beving tot dan toe plaatsvond.
+
+4.3 Verhuisbewegingen
+
+Bronbestand
+
+Voor de verhuizingen wordt gebruik gemaakt van de Basisregistratie Personen (BRP) en de Gemeentelijke Basisadministratie Persoonsgegevens (GBA). De BRP is sinds 2014 de opvolger van de GBA. De GBA werd toegelicht in paragraaf 2.3. De verhuizing wordt afgeleid uit de BRP/GBA aan de hand van een adreswijziging.
+
+Methode
+
+Jaarlijks worden de verhuisbewegingen van, naar en binnen het risico- en referentiegebied weergegeven. De verhuisbewegingen worden weergegeven op huishoudensniveau. Onder een huishouden wordt hier zowel een particulier als een institutioneel huishouden verstaan. Voor het bepalen van een huishouden wordt gebruik gemaakt van een referentiepersoon. Een referentiepersoon is het lid van het huishouden ten opzichte van wie de posities van de andere leden in het huishouden worden bepaald en van wie de kenmerken eventueel ook aan het huishouden worden toegekend. Per kwartaal wordt de referentiepersoon van het huishouden bepaald. De aanname is dat als de referentiepersoon in een bepaald kwartaal verhuist, het hele huishouden verhuist in het betreffende kwartaal. De verhuisbewegingen worden bestudeerd voor alle kwartalen vanaf het derde kwartaal van 2012.
+
+
+
+Gebiedsindeling op basis van aardbevingen
+
+In hoeverre verandert de indeling naar referentie- en risicogebied als deze gebaseerd wordt op aardbevingen in plaats van gehonoreerde schademeldingen? Deze vraag wordt in dit hoofdstuk beantwoord.
+
+5.1 Inleiding
+
+Het doel van dit onderzoek is om inzicht te geven in de ontwikkelingen op de woningmarkt in het aardbevingsgebied rondom het Groningenveld. Hiertoe wordt het onderzoeksgebied ingedeeld in een risico- en een referentiegebied, waartussen een vergelijking plaatsvindt met betrekking tot verschillende kernindicatoren. In dit onderzoek is gekozen om het risicogebied te definiëren als buurten met gehonoreerde schademeldingen. Dat zijn immers de buurten waar aangetoond is dat aardbevingen de kwaliteit van woningen aantasten. De verwachting is dat vooral in zulke buurten de woningmarkt beïnvloed wordt. Deze methode kan als nadeel hebben dat er gebieden worden opgenomen in het referentiegebied waar weliswaar geen schademeldingen zijn gedaan, maar waar wel bevingen hebben plaatsgevonden. Dit zou ruis kunnen introduceren in de vergelijking tussen risico- en referentiegebied. Hierdoor zou het kunnen dat het verwachte verschil tussen risico- en referentiegebied niet te zien is, of onderschat wordt doordat de woningmarkt in het gebied dat als referentiegebied is geclassificeerd op basis van schademeldingen, toch beïnvloed wordt door aardbevingen.
+
+In dit hoofdstuk wordt verkend of, en in hoeverre de indeling naar referentie- en risicogebied verandert wanneer het risicogebied gebaseerd wordt op aardbevingen in plaats van gehonoreerde schademeldingen. Het hoofdstuk begint met een uiteenzetting van de methode waarmee buurten op basis van aardbevingen zijn ingedeeld in referentie- en risicogebied. Voor de indeling op basis van schademeldingen, zie hoofdstuk 2.
+
+5.2 Onderzoeksgebied
+
+Bij het indelen van buurten naar referentie- en risicogebied op basis van aardbevingen wordt hetzelfde onderzoeksgebied gehanteerd als bij het indelen van buurten op basis van schademeldingen. Dat wil zeggen, dezelfde buurten die bij de indeling op basis van schademeldingen zijn aangemerkt als risico- of referentiegebied, worden ook meegenomen wanneer de indeling wordt gemaakt op basis van aardbevingen. Hierdoor kan voor alle buurten vergeleken worden of ze bij gebruik van verschillende methodes om de gebiedsindeling af te bakenen, bij andere categorieën (referentie- of risicogebied) worden ingedeeld. Uitzonderingsgebieden worden wederom uitgesloten (zie paragraaf 2.3 voor meer informatie over uitzonderingsgebieden).
+
+5.3 Bronbestanden
+
+Catalogus geïnduceerde bevingen KNMI
+
+De catalogus geïnduceerde bevingen van het Koninklijk Nederlands Meteorologisch Instituut (KNMI) wordt gebruikt om te bepalen in welke buurten aardbevingen plaatsvinden. Deze catalogus bestaat uit alle geïnduceerde bevingen vanaf 26 december 1986. In de catalogus zijn het tijdstip, de locatie en de magnitude van de aardbeving opgenomen. Met het oog op maximale vergelijkbaarheid met de indeling op basis van schades, zijn bevingen die plaats hebben gevonden vóór de eerste (16 augustus 2012) en na de laatste schademelding (2 augustus 2019) uitgesloten.
+
+Daarnaast wordt een ondergrens gesteld aan de kracht van de aardbevingen die meegenomen worden in de analyses. Het is bekend dat onder de grens van ongeveer magnitude 1, het meetnet van seismische sensoren niet iedere aardbeving gedurende gehele onderzoeksperiode registreert. Dit hangt af van de afstand tussen de sensor en het epicentrum van de beving. Om vergelijking tussen buurten mogelijk te maken, worden alleen bevingen met een magnitude groter dan 1 op de schaal van Richter meegenomen.
+
+5.4 Cumulatieve PGA waarden
+
+Of een woning risico loopt op schade door een aardbeving, wordt niet alleen bepaald door de aardbeving zelf, maar ook door eigenschappen van de bodem en diverse andere factoren. Binnen de kaders van dit onderzoek is het niet mogelijk om deze mee te nemen en vervolgens per woning het risico op schade te bepalen. Er moet daarom een statistische benadering worden gebruikt die deze gemeenschappelijke invloeden zo zuiver mogelijk uitdrukt.
+
+Om het risico dat een beving tot schade leidt te meten, wordt veelvuldig gebruikt gemaakt van een maat voor de maximale versnelling van de bodem aan het aardoppervlak gedurende een aardbeving: de PGA (Peak Ground Acceleration). Hoe groter de PGA-waarde, hoe groter de kans op schade. Er is een bekend verband tussen deze PGA-waarde en de kracht van de aardbeving op de schaal van Richter, rekening houdend met de afstand van het hypocentrum van de beving tot een bepaald punt op het oppervlak en dempende invloed van het tussenliggende bodemmateriaal (Dost et al., 2013). Op basis van dit verband is het mogelijk om voor iedere buurt in het onderzoeksgebied een representatieve PGA-waarde te berekenen behorend bij iedere aardbeving in de catalogus. Om het cumulatieve effect van alle aardbevingen in iedere buurt in kaart te brengen worden de PGA-waarden voor alle geselecteerde bevingen opgeteld. Dit resulteert in een cumulatief risico, wat wordt uitgedrukt als R c. Voor elke buurt wordt R c berekend en vervolgens genormaliseerd. Na normalisatie ligt de waarde van R c voor iedere buurt altijd tussen de 0 en 1, waarbij 0 geen risico en 1 de maximale kans betekent.
+
+5.5 Grenswaarde risicogebied
+
+Er zijn geen standaard grenswaarden voor R c beschikbaar die bepalen of de woningen in een buurt kans op aardbevingsschade lopen en dus tot het risicogebied moeten worden gerekend. In deze verkenning is gekeken naar de spreiding van R c tussen de buurten in het onderzoeksgebied, zie figuur 5.5.1. Na een exploratieve analyse waarin verschillende grenswaarden zijn bekeken, is gekozen voor de grenswaarde die correspondeert met de waarde waarbij 30% van de buurten binnen het risicogebied vallen. Deze grenswaarde is R c =0.05. Buurten met een R c ≤0.05, worden als referentiegebied beschouwd, en buurten met een R c >0.05 zijn risicobuurten.
+
+In figuur 5.5.1 zijn buurten op de x-as gerangschikt op hun R c waarde (klein naar groot). Ieder puntje stelt één buurt voor, de positie op de y-as is de R c waarde. De rode lijn geeft de gekozen grenswaarde weer.
+
+5.6 Resultaten
+
+In figuren 5.6.1 en 5.6.2 wordt twee keer het onderzoeksgebied weergegeven. Op beide kaarten zijn de buurten ingedeeld in risico- en referentiegebied (er wordt geen verdere uitsplitsing van het risicogebied in laag-midden-hoog weergegeven). Het risicogebied wordt steeds weergegeven in donkerblauw, het referentiegebied in lichtblauw. Uitzonderingsgebieden en overige buurten die niet binnen het onderzoeksgebied vallen zijn niet gekleurd. In figuur 5.6.1 zijn de buurten ingedeeld op basis van schademeldingen, in figuur 5.6.2 is de indeling gemaakt op basis van aardbevingen.
+
+Een vergelijking van deze twee kaartjes laat zien dat de indeling op basis van cumulatieve PGA-waarden voor het grootste deel gelijk is aan de indeling op basis van schademeldingen. De twee methodes leiden echter niet tot identieke resultaten; er is een aantal gebieden rond de grens tussen risico- en referentie gebied, dat bij de ene methode wel en bij de andere methode niet bij het risicogebied wordt ingedeeld. Dit is hoogstwaarschijnlijk het gevolg van het gebruik van een arbitraire grenswaarde. Buurten die bij het gebruik van de ene methode in het risicogebied worden ingedeeld en bij gebruik van de andere methode in het referentiegebied, liggen dichtbij de grenswaarde van R c = 0.05.
+
+Omdat de resultaten van de twee methodes niet substantieel van elkaar verschillen kiest het CBS er vanwege de consistentie voor om uit te blijven gaan van een gebiedsindeling op basis van schademeldingen.
+
+5.7 Conclusie
+
+In dit hoofdstuk is verkend of er een aanpassing nodig is aan de methode om het onderzoeksgebied in te delen in risico- en referentiegebied. Het onjuist indelen van aardbevingsgebieden zou namelijk ruis kunnen introduceren in de vergelijking tussen risico- en referentiegebied. Hiertoe is bekeken in hoeverre de indeling naar referentie- en risicogebied verandert wanneer de indeling gebaseerd wordt op verschillen in aardbevingsintensiteit, in plaats van schademeldingen.
+
+Een vergelijking van het onderzoeksgebied na indeling in referentie- en risicogebied op basis van de twee methodes leidt tot de conclusie dat de resultaten van de methodes niet substantieel van elkaar verschillen. Het CBS kiest er daarom vanwege de consistentie voor om ook in de toekomst gebruik te maken van een methode die uitgaat van schademeldingen.
+
+
+
+Bijlage I Gebiedsindeling per onderzoeksgebied
+
+Onderstaande tabellen geven per onderzoeksgebied aan welke buurten binnen dit gebied vallen. De methode voor de gebiedsindeling is beschreven in hoofdstuk 2.
+
+Bijlage I Gebiedsindeling referentiegebied
+
+Bijlage I Gebiedsindeling risicogebied met lage schade-intensiteit
+
+Bijlage I Gebiedsindeling risicogebied met gemiddelde schade-intensiteit
+
+Bijlage I Gebiedsindeling risicogebied met hoge schade-intensiteit
+
+Bijlage I Gebiedsindeling uitzonderingsgebied
+
+
+
+Literatuur
+
+Diewert, E. (2013), Elements for a Conceptual Framework. In: Eurostat, ILO, IMF, OECD, UNECE and the World Bank, Handbook on Residential Property Prices Indices(RPPIs) (pp. 22–36). Luxembourg: Publications Office of the European Union.
+
+Doornik, J. (2007), An object-oriented matrix programming language Ox 5. London: Timberlake Consultants Press.
+
+Dost, B., Caccavale, M., Eck, T. van, Kraaijpoel, D. (2013), Report on the expected PGV and PGA values for induced earthquakes in the Groningen area, KNMI report. Royal Netherlands Meteorological Institute (De Bilt).
+
+Durbin, J. en S.J. Koopman (2012), Time series analysis by state space methods, Oxford University Press.
+
+Efron, B. en Tibshirani, R.J. (1993), An Introduction to the Bootstrap. Chapman & Hall/CRC, London.
+
+Eurostat, ILO, IMF, OECD, UNECE and the World Bank (2013), Handbook on Residential Property Prices Indices (RPPIs).
+
+Haan, J. de en E. Diewert (2013), Hedonic Regression Methods. In: Eurostat, ILO, IMF, OECD, UNECE and the World Bank, Handbook on Residential Property Prices Indices(RPPIs) (pp. 50–64). Luxembourg: Publications Office of the European Union.
+
+Harvey, A.C. (1989), Forecasting, structural time series models and the Kalman filter, Cambridge University Press.
+
+Koopman, S.J., N. Shephard, en J.A. Doornik (2008). SsfPack 3.0: Statistical algorithms for models in state space form. London: Timberlake Consultants Press.
+
+
+
+

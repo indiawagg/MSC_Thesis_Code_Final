@@ -1,0 +1,23 @@
+Date:
+2024-07-31
+Article Title:
+The Daily — Provincial and Territorial Natural Resources Satellite Account, 2022
+Article Content:
+Released: 2024 07 31
+Real gross domestic product (GDP) of the natural resources sector increased across several provinces and territories in 2022, with large increases in Alberta (+5.8%) and Ontario (+3.9%) offset by a decrease in Newfoundland and Labrador ( 5.7%). The large growth in Alberta was mainly attributed to increased extraction of crude oil and related energy services. Nationally, natural resources' real GDP increased 3.1%, compared with a 3.8% increase in economy wide real GDP, after increasing 6.3% in 2021.
+Real GDP of the energy subsector rose 4.5% in 2022, with large increases in Alberta (+5.8%) and Ontario (+3.9%) offset by a decrease in Newfoundland and Labrador ( 5.7%). The overall increase in the subsector was led mainly by increases in Alberta, with a 16.7% rise in services and a 4.5% increase in crude oil extraction, leading to a recovery beyond pre COVID 19 levels.
+Real GDP of the forestry subsector rose 0.3%, with the largest increases in Ontario (+2.5%) and Alberta (+2.3%) offset by a decrease in British Columbia ( 1.1%). Increases were mainly observed in sawmill and wood product manufacturing.
+Real GDP of the minerals and mining subsector rose 1.0%, with increases mainly in primary manufacturing (+2.2%). Ontario (+7.6%) contributed the largest increase, with values rising across the subsector, offset by decreases in metallic mineral extraction in British Columbia ( 4.1%).
+Real GDP of the hunting, fishing and water subsector showed a slight decrease ( 1.0%) in 2022.
+Energy rich Alberta contributed 38.2% to the overall natural resources GDP in nominal terms, representing a larger share than previous years, owing to a substantial increase in 2022 in the energy subsector. Other top contributors to natural resources GDP were Ontario, at 15.5%, British Columbia and Quebec, at 12.7%, and Saskatchewan, at 11.5%.
+The share of natural resource activity to overall provincial economic activity was 30.7% for Alberta, reaching the highest level since 2014. For Newfoundland and Labrador, the share reached 36.8%, the highest level since 2013.
+The lowest share was observed in Prince Edward Island, at 4.1%, followed by Ontario, at 5.1% and Nova Scotia, at 5.8%.
+Among the territories, the natural resources share of GDP was highest in Nunavut, at 48.6%, followed by Northwest Territories, at 25.1%, and Yukon, at 17.6%.
+International exports (+34.0%) and imports (+32.7%) of natural resources rose in 2022. Exports in the energy (+52.9%) and minerals and mining (+23.0%) subsectors contributed the majority of the increase, showing strong post pandemic demand and prices, while the forestry and hunting, fishing and water subsectors increased slightly. The main contributor within the sector was crude oil, with an increase of 49.1%.
+International imports of the energy (+52.4%), minerals and mining (+18.4%), and forestry (+14.5%) subsectors rose, while the hunting, fishing and water ( 9.8%) subsector fell, following a large increase in the previous year.
+The Economic accounts statistics portal, accessible from the Subjects module of our website, features an up to date portrait of national and provincial economies and their structure.
+Additional information can be found in the articles "The Natural Resources Satellite Account: Feasibility study" and "The Natural Resources Satellite Account – Sources and methods," which are part of the Income and Expenditure Accounts Technical Series (Catalogue number13 604 M).
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is also available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is also available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,27 @@
+Title: Aardgasverbruik chemische industrie gecorrigeerd
+Date: 2018-12-18 05:30:00 UTC
+
+Lead Text:
+                Het verbruik van aardgas in de chemische en farmaceutische industrie blijkt in de periode 2012-2017 gemiddeld 22 petajoule (PJ) per jaar  hoger te zijn dan eerder is vastgesteld. Dat komt neer op een extra verbruik van 0,7 miljard m3  aardgas. Dit is 1,7 procent van het totale aardgasverbruik in Nederland (41 miljard m3 in 2017). Deze correctie leidt tot een extra uitstoot van CO2 van gemiddeld 1,3 megaton per jaar voor de chemische industrie. Dit is 0,8 procent van de gemiddelde uitstoot van CO2 in Nederland in die periode (165 megaton per jaar). Het uiteindelijke aardgasverbruik in de chemische industrie is gestegen van 189 PJ in 2010 naar 221 PJ in 2017. Dit blijkt uit nieuwe, gecorrigeerde cijfers van het CBS.
+            
+
+Article Content:
+
+
+Hoe komt deze correctie tot stand?
+De correctie is het gevolg van een aanpassing die het CBS heeft gemaakt in de onderliggende data van enkele grote chemische bedrijven. Het CBS stelt het verbruik van aardgas en olierestgassen vast door dit uit te vragen bij alle bedrijven die deze gassen in hun industriële processen gebruiken. Bij iedere statistiek voert het CBS bovendien kwaliteitscontroles uit. Zo worden altijd volgtijdelijke vergelijkingen uitgevoerd (met vorige verslagperiode maar ook met dezelfde periode een jaar of jaren eerder). Daarnaast worden ook alle relevante officiële registraties (registerdata) van landelijke en decentrale overheidsorganisaties ingezet om de kwaliteit van de statistieken te controleren en te verbeteren, onder andere door verschillende datasets met elkaar te confronteren en discrepanties te onderzoeken. In dat kader is een vergelijking gemaakt met het ETS-systeem (Emission Trading System). In dat systeem moeten bedrijven verplicht hun uitstoot registreren. Uit deze controle bleek dat er een verschil was. Nader onderzoek wees uit dat dit werd veroorzaakt doordat er in de statistiek van het energieverbruik gegevens van onderdelen van enkele bedrijven misten. Omdat er bij bedrijven voortdurend veranderingen plaatsvinden in de samenstelling en eigendomsverhoudingen, zijn in de verslagperiode van betreffende bedrijven niet alle onderdelen die gassen verbruiken waargenomen.
+
+Het resultaat is een hoger aardgas- en restgassenverbruik voor elk van de jaren. Het hogere verbruik heeft ook gevolgen voor de CO2-uitstoot. Het effect van dit extra aardgasverbruik is verwerkt in de StatLine-tabellen over CO2-uitstoot, zoals die in september 2018 waren gepubliceerd. In januari 2019 worden definitieve cijfers over CO2-uitstoot van 2017 bekend gemaakt. Hierin is alle andere verbeterde informatie ten opzichte van september 2018 verwerkt.
+
+De correctie heeft de volgende gevolgen:
+
+
+    Het aardgasverbruik door de chemische industrie was in de periode 2012 -2017 jaarlijks gemiddeld 22 petajoule (PJ) hoger dan eerder gepubliceerd. Dat komt neer op een extra verbruik van 0,7 miljard m3aardgas. Dit is 1,7 procent van het totale aardgasverbruik in Nederland (41 miljard m3 in 2017).
+Het olierestgassenverbruik is gemiddeld 12 PJ per jaar hoger dan eerder gemeld en het elektriciteitsverbruik ongeveer 1 PJ.
+Omdat er meer aardgas is verbruikt, is ook de uitstoot van CO2 hoger. In de periode 2012 - 2017 was de emissie van CO2 jaarlijks gemiddeld 1,3 megaton (miljard kg) hoger dan eerder gepubliceerd. Dit is 0,8 procent van de gemiddelde uitstoot van CO2 in Nederland in die periode (165 megaton per jaar).
+
+
+Voor vragen kunt u contact opnemen met  van het CBS.
+
+
+

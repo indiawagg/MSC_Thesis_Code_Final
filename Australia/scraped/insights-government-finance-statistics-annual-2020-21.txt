@@ -1,0 +1,78 @@
+Date:
+2022-04-26
+Article Title:
+ Insights Into Government Finance Statistics, Annual, 2020-21
+
+Article Content:
+Government fiscal support targeted economic affairs, social protection, and healthcare spending. Governments eased COVID 19 restrictions, however Victoria suffered from a second wave and extended lockdown period.
+Commonwealth, state, and territory governments commenced the rollout and administration of COVID 19 vaccines. Other healthcare spending remained elevated, particularly in Victoria, due to ongoing COVID 19 health response expenditure on frontline staff, testing and personal protective equipment (PPE).
+Business conditions recovered from the widespread COVID 19 lockdowns in 2019 20, and the labour market also improved. Commonwealth taxation increased across company income tax, personal income tax and GST, while states received more stamp duties on conveyances and gambling tax.
+All levels of general government net operating balance was  $145.6b in 2020 21.
+This is the largest all levels of general government net operating balance deficit recorded in the GFS time series. The main contributors are:
+  45.3% rise in subsidy expenses (up $34.6b)
+  11.1% rise in current monetary transfers to households (up $16.2b)
+  13.7% rise in benefits to households in goods and services (up $14.5b)
+  7.5% rise in taxation revenue (up $41.5b)
+The main contributors to the 7.5% rise in the Commonwealth taxation revenue in 2020 21 are:
+  12.7% rise in company income tax (up $11.3b)
+  14.4% rise in goods and services tax (up $9.3b)
+  2.8% rise in personal income tax (up $5.8b)
+The main contributors to the rise in state and local taxation revenue in 2020 21 are:
+17.1% rise in gambling taxes (up $1.0b)
+7.3% rise in motor vehicle taxes (up $0.8b)
+  25.7% rise in stamp duties on conveyances (up $4.9b)
+  17.1% rise in gambling taxes (up $1.0b)
+  7.3% rise in motor vehicle taxes (up $0.8b)
+All Australia general government net debt (L2) reached $787.7b or 38.1% of GDP in 2020 21.
+This is the largest level of all Australia L2 recorded in the GFS time series and is due to:
+46.2% rise in total state net debt (up $45.0b)
+  20.1% rise in National net debt (up $111.9b)
+  46.2% rise in total state net debt (up $45.0b)
+A matrix style presentation enables users to analyse different measures of debt and other liabilities.
+  L1 to L3 focus on governments’ liquidity
+  L4 to L6 focus on governments’ longer term budget sustainability
+The main contributors to total education expenses in 2020 21 are:
+  2.4% rise in school education (up $1.4b)
+  49.9% rise in Commonwealth apprenticeships and traineeships (up $1.3b)
+  3.2% fall in tertiary education (down $1.3b)
+Key fiscal measures of the tertiary education sector were impacted by the decline in international students.
+  39.1% fall in gross fixed capital formation (GFCF) (down $2.0b)
+  3.2% fall in expenses (down $1.3b)
+  3.3% fall in revenue (down $0.7b)
+The main contributors to the 9.3% rise total Health expenses in 2020 21 are:
+  9.7% rise in community health services (up $4.4b)
+  6.5% rise in hospital services (up $3.4b)
+  40.3% rise in public health services (up $2.7b)
+The main contributors to the 12.4% rise in total social protection expenses in 2020 21 are:
+  46.8% rise in unemployment support payments (up $9.5b)
+  12.4% rise in sickness and disability support payments (up $6.2b)
+  7.3% rise in old age support payments (up $6.1b)
+  9.5% rise in family and children support payments (up $4.3b)
+The main contributors to the 39.4% rise in total economic affairs expenses in 2020 21 are:
+  48.9% rise in general economic, commercial, and labour affairs (up $28.8b)
+  37.1% rise in economic affairs n.e.c. (up $1.5b)
+  21.9% rise in mining, manufacturing, and construction (up $0.9b)
+  8.8% rise in fuel and energy (up $0.9b)
+The main contributors to total Defence expenses in 2020 21 are:
+  12.4% rise in non employee expenses (up $2.0b)
+  8.0% fall in depreciation (down $0.4b)
+  2.2% fall in employee expenses (down $0.4b)
+The main contributors to the 10.6% rise in total transport expenses in 2020 21 are:
+  15.6% rise in railway transport (up $1.6b)
+  5.1% rise in road transport (up $1.0b)
+  78.1% rise in air transport (up $0.8b)
+The main contributors to total public sector investment in new assets in 2020 21 are:
+ 
+  6.9% rise in state and local (up $3.7b)
+  5.9% rise in public non financial corporations (up $1.3b)
+  4.0% rise in Commonwealth (up $0.6b)
+  38.0% fall in control n.f.d. sector, which is primarily universities (down $1.7b)
+Annual insights:
+Quarterly insights:
+   (2019 20)
+   (December 2021)
+   (September 2021)
+     Analysis (June 2021)
+     Analysis (March 2021)
+     Analysis (December 2020)
+     Analysis (September 2020)

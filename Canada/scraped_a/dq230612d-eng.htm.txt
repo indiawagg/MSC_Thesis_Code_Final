@@ -1,0 +1,14 @@
+Date:
+2023-06-12
+Article Title:
+The Daily — Social Policy Simulation Database and Model, version 30.0
+Article Content:
+Released: 2023 06 12
+The Social Policy Simulation Database and Model (SPSD/M), version 30.0, is now available. This model includes a dynamic labour adjustment model to reflect employment patterns from 2020 to 2022. It incorporates changes to income taxes and government transfers that were announced prior to December 31, 2022. It is based on 2018 data and can be used to study the effects of changes to federal and provincial tax and benefit programs on families and governments from 1997 through 2027. 
+The SPSD/M is a tool designed to analyze the financial interactions of governments and individuals or families in Canada. It allows for the estimation of the income redistributive effects or cost implications of changes in the personal taxation (including the goods and services tax and other commodity taxes) and cash transfer systems. The SPSD/M facilitates analysis of the potential effects of changes in taxes, earnings, demographic trends, and a wide range of other factors.
+Given specified assumptions, the SPSD/M allows users to answer "what if" type questions. What if there were changes to the taxes Canadians paid or the transfers they received who would gain and who would lose? Would single parent households in a particular province be better off? By how much? How much extra money would federal or provincial governments pay out or collect?
+The SPSD/M includes both a database (SPSD) and a model (SPSM). The SPSD is a synthetic database that statistically represents individuals in their family context with enough information on each individual to compute taxes paid to and cash transfers received from federal and provincial governments. It is created by statistically combining data from surveys and administrative sources, including the Canadian Income Survey, the Survey of Household Spending, the T1 Family File, and Employment Insurance administrative data.
+The SPSM is a static accounting model that processes each individual and family in the SPSD, calculates transfers and taxes (including income, payroll and commodity taxes) using legislated or proposed programs and algorithms, and reports on the results. Detailed documentation on both the database and the model is included with the SPSD/M.
+The Social Policy Simulation Database and Model, version 30.0 (Catalogue number89F0002X), is available by electronic file transfer. 
+To enquire about the concepts, methods or data quality of this release, contact Chantal Hicks (343 550 0235; spsdm@statcan.gc.ca), Social Analysis and Modelling Division.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

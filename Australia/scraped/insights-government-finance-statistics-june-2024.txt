@@ -1,0 +1,44 @@
+Date:
+2024-09-03
+Article Title:
+ Insights into Government Finance Statistics, June 2024
+
+Article Content:
+Net operating balance
+Australia’s net operating balance was $11.6 billion in 2023 24, $23.3 billion lower than 2022 23. Revenue was greater than expenses in 2023 24, although growth in expenses (8.1% or $71.5 billion) was larger than growth in revenue (5.3% or $48.3 billion). 
+  is a summary measure that reflects the on going sustainability of government operations
+  is derived by transactions in revenue less transactions in expenses
+  is equal to the change in net worth due to transactions.
+Australia’s revenue increased by 5.3% ($48.2 billion) in 2023 24. This was largely driven by taxation revenue which contributed 92.4% ($44.6 billion) to total growth and accounts for 82.9% of total Australian revenue. This was partially offset by a decrease in royalty income, which fell 17.1% ($6.3 billion) in 2023 24.
+Commonwealth taxation was the largest component of Australia’s total taxation revenue at 81.3% and increased 4.9% ($30.3 billion) in 2023 24. The increase in Commonwealth taxation was driven by an increase in personal income tax, which was partially offset by a decline company income tax. 
+State and local taxation accounted for 18.7% of total taxation revenue and increased 10.5% ($14.2 billion) in 2023‑24. The increase in state and local taxation was driven by an increase in payroll tax.
+  Personal income tax increased by 11.5% ($32.1 billion), consistent with growth in both employment hours worked (a) and wage growth (b) across the financial year.
+  Company income tax decreased by 6.8% ($10.6 billion), consistent with lower commodity export prices compared to 2022 23. That said, company income tax was still relatively high compared to levels seen prior to 2022 23 due to strong company profits associated with persistent strength in commodity prices.
+  Payroll taxes increased by 16.3% ($5.2 billion) in 2023 24 and was the largest contributor to growth in state and local taxation revenue. Strength reflected continued strength in the labour market and increased payroll tax rates in several jurisdictions.
+  Source: 
+  Source: 
+Australia’s royalty income decreased by 17.1% ($6.3 billion) in 2023 24 as energy commodity prices (e.g. coal) softened relative to metal commodities, and followed record export price levels over the previous two financial years. Key drivers of the result in royalty income were:
+While royalty income decreased in 2023 24, levels remain elevated compared to 2020 21 due to commodity prices (a) and changes to government policy (e.g. Queensland’s introduction of a 3 tier coal royalty structure in July 2022).
+  Queensland (down $5.4 billion or 29.9%)
+  NSW (down $1.0 billion or 23.4%)
+  WA (up $1.1 billion or 10.5%).
+  Source: 
+Australia’s expenses increased by 8.1% ($71.5 billion) in 2023 24, driven by increases in social benefits, employee expenses, and current monetary transfers to households. Social benefits increased by 16.5% ($23.8 billion), whilst employee expenses and current monetary transfers to households increased by 9.2% ($21.5 billion) and 7.2% ($10.5 billion) respectively.
+Australia’s social benefits increased 16.5% ($23.8 billion) in 2023 24 and accounted for 17.6% of total expenses. This is largely driven by Commonwealth payments which comprise around 91% of total social benefits.  
+Commonwealth social benefits increased 15.8% ($20.8 billion) in 2023 24, driven by increases in aged care, disability, health, child care and family and non government schools.
+  Aged care benefits increased 32.1% ($7.0 billion) and was the largest contributor to growth. The growth will include increase to award wages for nurses and aged care workers following the Fair Work Commission’s ruling increase to award wages for nurses and aged care workers by 15%.
+  Disability benefits increased 20.1% ($6.9 billion) reflecting an increase in individual support costs and the number of people with disability participating in the NDIS (a).
+  Health benefits rose 6.0% ($2.8 billion). This was driven in part by increases in the indexation rate for the Medicare Benefits Schedule, bulk billing incentive payments (November 2023) and additions to Pharmaceutical Benefits Scheme listings.
+  Child care and family benefits rose 24.8% ($2.7 billion) in 2023 24. This was driven by the increased payments to families following the introduction of higher Child Care Subsidy rates and additional support for second and subsequent children.
+  Other Commonwealth benefits increased 7.7% ($1.4 billion) in 2023 24, including growth in non government school payments and employment services.
+  Source: 
+State social benefits increased 24.1% ($3.0 billion) in 2023 24, driven by increases in energy rebates and non government school payments, as well as the introduction of additional pre school, kindergarten and early childcare benefits across various states.
+Higher energy rebates reflected the introduction of Commonwealth Energy Bill Relief (a) from the 1st of July 2023 which was co funded with states and territories. This was in addition to existing state and territory energy concessions and state energy rebates in jurisdictions such as Queensland (b) and Western Australia (c). 
+  Source: 
+  Source: 
+  Source: 
+Australian employee expenses (a) increased 9.2% ($21.5 billion) in 2023 24 and accounted for 26.8% of total expenses. State and local government employee expenses increased 7.8% ($13.4 billion) and was the largest contributor to growth, with state government making up the largest portion of public sector workers (b). In addition, Commonwealth employee expenses increased by 14.5% ($6.2 billion) and universities increased by 10.2% ($1.9 billion).
+Total growth was driven by wage increases from newly negotiated enterprise bargaining agreements, changes to public sector wage caps, higher levels of staffing (i.e. frontline services in health, education and public order and safety) and workers’ compensation expenses.
+  Employee expenses is comprised of superannuation, wages and salaries, workers’ compensation and other employee expenses
+  Source: 
+Australia’s monetary transfers to households increased by 7.0% ($10.3 billion) in 2023 24 and accounted for 16.5% of total expenses. Growth was driven by aged pension, disability and carers pensions, family tax benefit and job seeker payments. Commonwealth transfers contributed to around 98% of monetary transfers to households.

@@ -1,0 +1,21 @@
+Date:
+2023-11-14
+Article Title:
+The Daily — Survey of Drinking Water Plants, 2021
+Article Content:
+Released: 2023 11 14
+Total potable water production in Canada edged up 0.1% in 2021 compared with 2019. Households accounted for 55% of the water used in Canada in 2021. 
+Drinking water plants produced 4 869 million cubic metres of potable water in 2021, most of which (88%) was drawn from a river or lake.
+The number of Canadians who received their drinking water from plants that served communities of 300 people or more rose 3% from 2019 to 33.3 million people in 2021.
+Total per capita water use, which includes residential, industrial, commercial and other uses of water provided by public utilities, averaged 401 litres per person per day in 2021, down 2% from 411 litres per person per day in 2019. The decline in per capita water use was attributable to a larger population and stable drinking water production.
+Overall, four provinces reported total water use per capita that was above the national average in 2021. Of all provinces and territories, Newfoundland and Labrador reported the highest levels, while Nunavut and Manitoba reported the lowest. 
+In 2021, the residential sector was the primary water user, with an average of 223 litres being used per person per day, which is equivalent to 2 678 million cubic metres, or 55% of the drinking water produced.
+In the residential sector, total water use per capita in Yukon, Newfoundland and Labrador, British Columbia, Quebec and New Brunswick was higher than the Canadian average in 2021.
+Despite the volume of residential water use rising 8% in 2021, overall, average daily residential water use per capita declined 11% from 10 years earlier. It fell from 251 litres per person per day in 2011 to 223 litres per person per day in 2021. Combined, the industrial, commercial, institutional and other non residential sectors used 1 247 million cubic metres of water, or 26% of the water produced in 2021, down 7% from 2019. As total potable water production was stable in 2021, the gain in residential water use and decline in non residential water use may reflect the changing landscape of more people working from home.
+Losses from the distribution system (such as leakage) accounted for 17% of the volume of water produced in 2021. The remaining 3% of the total water volume was wholesale transfers to other jurisdictions.
+Nearly all the water produced in 2021 was treated by filtration and disinfection processes, while 1% of Canadians received untreated water, which came primarily from groundwater sources, unchanged since 2011.
+Capital expenditures to upgrade existing infrastructure and commission new components for water treatment plants totalled $936 million in 2021, up 9% from one year earlier, when expenditures totalled $855 million.
+These upgrades include improvements to buildings, machinery, processing equipment, and other physical assets related to the acquisition and treatment of water, but they exclude infrastructure for water distribution.
+Just under $1.3 billion was spent on operations and maintenance in 2021, up 4% from 2019. These costs include expenditures on materials (chemicals and replacement parts) and labour and energy, but they exclude water distribution costs.
+Labour costs ($509 million) represented the largest share of these expenses in 2021, followed by materials ($309 million) and energy ($275 million) expenses. Other costs accounted for the remaining $178 million.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

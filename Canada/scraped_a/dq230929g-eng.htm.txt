@@ -1,0 +1,12 @@
+Date:
+2023-09-29
+Article Title:
+The Daily — Canadians' Safety: Public use microdata file, 2019
+Article Content:
+Released: 2023 09 29
+The General Social Survey – Canadians' Safety public use microdata file (PUMF) for the 2019 reference period is now available. Data were collected from April 2019 through March 2020 from approximately 22,000 individual residents of Canada 15 years of age and older, excluding full time residents of institutions.
+This survey is the only national survey of self reported victimization and is collected in all provinces and territories. (Data from the territories has been removed from the PUMF for confidentiality reasons.) The survey allows for estimates of the numbers and characteristics of victims and criminal incidents.
+Topics covered are: neighbourhood safety, crime prevention, risks and perceptions, crime incidents, criminal harassment, confidence in police, hate crimes, cyber bullying, experiences of discrimination, health and well being, as well as a variety of socio demographic measures.
+For more information about this survey (questionnaires, definitions, data sources and methods used), please see Surveys and statistical programs   General Social Survey   Canadians' Safety (GSS).
+The product "General Social Survey 2019, Canadians' Safety (Victimization): Public Use Microdata File" (45 25 0001), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

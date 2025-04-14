@@ -1,0 +1,63 @@
+Date:
+2018-12-12
+Article Title:
+ Self-reported height and weight
+
+Article Content:
+Overweight and obesity, particularly when linked with other lifestyle factors such as poor diet, sedentary lifestyle and smoking is a risk factor for many serious health conditions such as [1]:
+Overweight and obesity have risen over recent decades, so collecting accurate data has become increasingly important for effective public health monitoring. At the same time, the number of people who decided to provide their physical dimensions has declined. 
+  heart disease
+  high blood pressure
+  diabetes
+  musculoskeletal problems. 
+Measuring overweight and obesity at the population level is most often done by collecting height and weight measurements to calculate Body Mass Index (BMI), a standard unit that allows comparisons between people of different sizes on the same scale.
+Height and weight data used to assess overweight and obesity can be gathered from survey respondents by:
+Three ABS National Health Surveys (1995, 2007 08 and 2017 18) collected height and weight using both methods. While self reported height and weight is logistically simpler to collect, this method is less accurate because of the tendency for people to over report their height and under report their weight [2 4]. 
+This article compares self reported and measured data (from the surveys where both were collected) to quantify this effect and identify factors associated with accuracy.
+  direct physical measurement (the method used in the NHS to derive BMI)
+  asking respondents to self report their height and weight. 
+  Self reported and measured data were used to calculate BMI, and estimate the prevalence of overweight and obesity in the population. Survey weights were applied to data to produce prevalence rates that were comparable to NHS published data.
+  Reporting error for height, weight and BMI was calculated by subtracting measured data from self reported data. This is expressed in the measurement unit (cm, kg or kg/cm²) and a percentage. These data are unweighted.
+  Average height, weight, BMI as well as prevalence and reporting error from self reported and measured data were compared.
+  Outlier data points were identified as points where the difference between self reported and measured (expressed as a percentage) was greater than 4 standard deviations from the group mean, and were removed from subsequent analysis. See Appendix 3 for more details. 
+Classifying overweight and obesity using self reported data generally underestimates overweight and obesity. In 2017 18:
+Relying on self reported data also fails to accurately show the increasing rates of overweight and obesity observed over time.
+  Four in five (80.0%) adults’ self reported data classified them into the correct BMI category.
+  Self reported data suggests that only 57.6% of the population were overweight or obese, compared to 65.8% when using measured data.
+  Specifically, only 65.8% of males and 48.9% of females were classified as overweight or obese based on their self reported dimensions, but 74.0% of males and 57.2% of females were actually overweight or obese based on physical measurements. 
+  Between 2007 08 and 2017 18, the proportion of overweight or obese persons rose by 4.9 percentage points according to physical measurements, but only 2.4 percentage points according to the self reported data. 
+The accuracy of self reported height and weight each influence the estimation of overweight and obesity. On average the population has a propensity to over report their height and under report their weight, but some additional patterns are seen within population groups as outlined below.
+In general, self reported height is overestimated compared to measured height.
+  In 2017 18, the majority (62.4%) of people self reported their height to be within 3.0 cm of their measured height.
+  Males over reported by a median of 2.2 cm (1.3%) while females were slightly more accurate with a median over report of 1.6 cm (1.0%).
+  Older people self reported their height less accurately than younger people with those aged 75 years or over having a mean over report of 2.6%, compared to 1.0% for those aged 18 24 years.
+  While the overall accuracy of self reported height data improved between 1995 and 2007 08, self reported height data in 2017 18 was less accurate than previous surveys for people aged less than 55 64 years. 
+In general, self reported weight is underestimated compared to measured weight.
+  The majority (78.8%) of people self reported their weight to be within 3.0 kg of their measured weight.
+  The median under report for weight was 1.0 kg (1.5%) for females, 0.8 kg (0.9%) for males.
+  Persons who were measured as being obese or overweight underestimated their weight by a median of 1.7% and 1.3% respectively, while those measured as being normal weight under reported by 0.6%.
+  Unlike height self reporting, there was no association between reporting accuracy and age.
+  Weight reporting accuracy improved from 1995 to 2007 08, with a further smaller improvement in 2017 18, as shown in the graph below. 
+The combined effect of over reporting height and under reporting weight is amplified when BMI is calculated.
+  Error in height reporting has a greater effect on BMI than the same relative error for weight. For example, under reporting weight by 2.0% results in 2.0% underestimation of BMI, but over reporting height by 2.0% results in 3.9% underestimation of BMI.
+  BMI calculated from self reported data results in an underestimation of 1.1 kg/cm² (3.8%) for Australian adults. This is consistent between males and females, who underestimate by 1.1 kg/cm² (3.7%) and 1.1 kg/cm² (3.8%) respectively.
+  Accuracy of self reported BMI decreases with age, from 0.8 kg/cm² (2.9%) in 18 24 year olds to 1.8 kg/cm² (6.0%) in those over 75 years old. This pattern mirrors the misreporting seen in self reported height data.
+  Differences in accuracy were also evident within BMI categories, where the underestimation for those categorised as normal was 0.5 kg/cm² (2.3%) and 1.8 kg/cm²(5.1%) for those categorised as obese. 
+  Self reporting accuracy improved between 1995 and 2007 08 for both height and weight data. Self reported weight data in 2017 18 is of similar accuracy to 2007 08, while self reported height data is less accurate than 2007 08.
+  The accuracy of self reported data is inconsistent over progressive survey collections; accuracy of self reported BMI categorisation improved between 1995 and 2007 08, from 77.6% to 83.2% but fell to 80.0% in 2017 18.
+  According to physical measurements the proportion of overweight or obese males rose by 5.9 percentage points between 2007 08 and 2017 18 from 68.1% to 74.0%, but only by 2.8 percentage points according to the self reported data, from 63.0% to 65.8%.
+  Similarly, physical measurements show that the proportion of overweight and obese females rose by 4.1 percentage points between 2007 08 and 2017 18 from 53.1% to 57.2%, but only by 2.1 percentage points from 46.8% to 48.9% according to self reported data. 
+ is calculated the same way as adults, but is categorised according to different BMI ranges. For children who participated in the survey, their parent or guardian provided the interviewer with a reported height and weight if the child was under 15 years old.
+  29.5% of children (aged 2 17 years) had self reported measured height and weight data collected during NHS 2017 18.
+  On average self reported height was within 0.4% for measured height (< 1 cm) and 2.3% for measured weight (1.1 kg).
+  Both height and weight tended to be under reported. Based on self report data, 79.6% of children were correctly classified as normal, overweight, or obese. 
+  Self reported physical dimensions show that overweight and obesity are increasing over time, but underestimate its true prevalence (by 8.2 percentage points).
+  Reporting errors in height have a greater effect on the accuracy of BMI calculations compared to weight.
+  Overall self reporting accuracy improved between 1995 and 2007 08, however reduced accuracy in height reporting caused self reported BMI accuracy to decline in 2017 18.
+  Adults have a general tendency to over report their height and under report their weight.
+  Older adults report their height less accurately than younger adults.
+  Persons classified as overweight or obese report their weight less accurately. 
+  Australian Institute of Health and Welfare. (2018). Australia's health 2018. Canberra: AIHW.
+  Gorber, S. C., Tremblay, M. , Moher, D. and Gorber, B. (2007), A comparison of direct vs. self‐report measures for assessing height, weight and body mass index: a systematic review. Obesity Reviews, 8: 307 326.
+  Stommel and M. Schoenborn, C. A. (2009), Accuracy and usefulness of BMI measures based on self reported weight and height: findings from the NHANES & NHIS 2001 2006. BMC Public Health, 9: 421.
+  Taylor, A. W., Grande, E. D., Gill, T. K., Chittleborough, C. R., Wilson, D. H., Adams, R. J., Grant, J. F., Phillips, P. , Appleton, S. and Ruffin, R. E. (2006), How valid are self‐reported height and weight? A comparison between CATI self‐report and clinic measurements using a large cohort study. Australian and New Zealand Journal of Public Health, 30: 238 246.

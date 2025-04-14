@@ -1,0 +1,16 @@
+Date:
+2021-04-27
+Article Title:
+ Classifying COVID-19 policy interventions during 2019-20 in macroeconomic statistics
+
+Article Content:
+The COVID 19 pandemic led to the fastest and largest fiscal response to an economic event in modern Australian history, with several hundred policy interventions announced across all levels of government. This article provides a summary of the conceptual classification of key COVID 19 policies that were in place during 2019 20.
+The ABS undertook extensive consultation with stakeholders and subject matter experts to determine appropriate classifications. These classifications are based on well established conceptual frameworks (a), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to Government Finance Statistics (GFS) and the National Accounts (NA).
+The ABS classification of key COVID 19 policy interventions is summarised in Table 1 below (b).
+The policies are grouped into five broad categories (c):
+  Increased healthcare and frontline services spending
+  Provision of assistance to households
+  Provision of assistance to corporations, unincorporated enterprises and non profit institutions
+  Relaxation of tax and non tax revenue obligations
+  Capital injections, establishment of new, or extended, lending facilities and provision of guarantees
+IMF (2020), "COVID 19: How to Record Government Policy Interventions in Fiscal Statistics", Special Series on Statistical Issues in Response to COVID 19, IMF publication, viewed at 

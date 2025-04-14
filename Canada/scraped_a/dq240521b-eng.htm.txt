@@ -1,0 +1,25 @@
+Date:
+2024-05-21
+Article Title:
+The Daily — Hours worked and labour productivity in the provinces and territories (preliminary), 2023
+Article Content:
+Released: 2024 05 21
+In 2023, the productivity of businesses fell in all provinces and in Yukon. For Canada as a whole, productivity decreased 2.2%, a third consecutive annual decline.
+Ontario, Quebec and Alberta the most important provinces in terms of economic weight in Canada together accounted for more than 80% of the national decline in business productivity in 2023. Ontario contributed  0.97 percentage points to the decline, Quebec,  0.55 percentage points, and Alberta,  0.25 percentage points. In each of these three provinces, the construction sector was the main source of the decline in productivity, while manufacturing was also a contributing factor in Ontario and Quebec.
+In 2023, both goods  and services producing businesses recorded productivity declines in all provinces, except British Columbia, where services producing businesses increased.
+These productivity declines occurred in a context marked by persistent inflation, high interest rates and several factors related to climate change. Combined, these impacted both economic activity and the labour market in most regions of the country in 2023.
+In 2023, hours worked increased more than business output in almost every province and territory, resulting in the decline in productivity observed in all provinces and Yukon.
+In 2023, real gross domestic product (GDP) of businesses rose in all provinces and territories, except Newfoundland and Labrador and the Northwest Territories. However, in most provinces and territories, GDP growth was slower in 2023 than in 2022.
+In 2023, hours worked in the business sector increased in all of the provinces, as well as in Yukon and Nunavut, but at a generally slower pace than in the previous year. Nationally, growth in hours worked slowed to 3.0% in 2023, after increasing 5.0% in 2022.
+In 2023, for the second consecutive year, average compensation per hour worked in the business sector was up in every province and territory, with growth rates ranging from 1.2% in Manitoba to 11.8% in Nunavut. For this territory, growth benefitted from an upturn in mining activity and its high wage rates.
+All provinces and territories, except Nunavut, recorded much slower hourly compensation growth in 2023 than in 2022. Nationally, hourly compensation rose 3.1% in 2023, after increasing 7.0% the previous year.
+The actual wage rate that is, the wages and salaries per hour worked for full time paid workers in the total economy varied across the provinces and territories in 2023. The wage rate ranged on average from $30.61 per hour in Prince Edward Island to $56.92 per hour in the Northwest Territories. Nationally, the average hourly wage in the total economy increased 3.1% to reach $40.66 per hour.
+In 2023, the contractual wage rate that is, wages and salaries per hour paid in the total economy rose by 3.5% to reach $37.52 per hour, bringing it closer to the actual wage rate. The difference between the two wage rates is essentially due to the absence of paid leave in the hours worked and the absence of unpaid overtime in the hours paid.
+In 2023, the spatial distribution of the wage gap between the actual wage rate and the contractual wage rate was generally stable. The territories continued to register the highest gaps, while Prince Edward Island and New Brunswick continued to record the lowest.
+The distribution of jobs in all economic regions of Canada varied little from 2022 to 2023.
+Jobs grew 10.2% in the Windsor–Sarnia region in Ontario in 2023. This region posted the largest relative growth among all economic regions, while the Toronto region had the strongest absolute growth, recording an increase of more than 110,000 jobs. In contrast, the Stratford–Bruce Peninsula region saw the greatest loss in absolute terms, with a decline of more than 5,000 jobs. Meanwhile, in relative terms, the Northern region in Saskatchewan experienced the greatest loss, with a decline of over 12.0%.
+The Economic accounts statistics portal, accessible from the Subjects module of our website, features an up to date portrait of national and provincial economies and their structure.
+The Latest Developments in the Canadian Economic Accounts (Catalogue number13 605 X) is available.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is also available. 
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is also available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

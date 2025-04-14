@@ -1,0 +1,113 @@
+Date:
+2023-09-05
+Article Title:
+ Insights into Government Finance Statistics, June 2023
+
+Article Content:
+The Commonwealth Net Operating Balance (NOB) has increased from June to June each year since the low point of  $67.8 billion in June 2020 when the economy was heavily impacted by COVID.
+The increases in the Commonwealth Net Operating Balance from June 2023 compared to June 2022 were a combination of both increases in revenue and a relatively lower increase in expenses. This was observed across most jurisdictions for the same time.
+Increases in Commonwealth revenue from June 2022 to June 2023 were due primarily to strength in company income tax and personal income tax.
+A relatively lower increase in Commonwealth expenses from June 2022 to June 2023 followed two years of significant government stimulus and health expenditure (in response to the COVID 19 pandemic) and material spending in disaster relief packages for affected jurisdictions.
+This Insights article compares June quarter (a) net operating balance of Commonwealth and total state (b) general governments to show the recovery during this time. Due to the nature of reporting June quarter data are often more complete and can be a useful comparison point across years.
+For information on the classification of new government policies impacting the June quarter 2023 .
+  June quarters are used for statistical relevance and coherence. June quarters are highly impacted by large taxation revenue from Commonwealth. Government Finance Statistics figures presented are current prices, original series.
+  "States’ refers to the state sector in macroeconomic statistics, which covers all eight state and territory jurisdictions in Australia.
+  is a summary measure that reflects the on going sustainability of government operations
+  is derived by transactions in revenues less transactions in expenses
+  is equal to the change in net worth due to transactions
+The main contributors to the rise in Commonwealth NOB were:
+  was $34.3b for the June quarter 2023
+  increased $102.1b from June quarter 2020
+  rises in company income tax and personal income tax
+  relatively lower rises in expenses following the cessation of significant COVID 19 and natural disaster programs in prior quarters.
+The main contributors to the rise in total state NOB were:
+  was  $4.7b for the June quarter 2023
+  increased $12.5b from June quarter 2020
+  rise in payroll and stamp duties on conveyances taxation revenues
+  rise in royalty income
+  rise in grant receipts from Commonwealth
+  rise in sales of goods and services revenues
+  fall in subsidy expenses to businesses impacted by COVID 19 and natural disasters have also contributed.
+The main contributors to the 32.1% through the year rise in June quarter 2023 were:
+Other likely contributors to the rise were:
+  higher company profitability, particularly in the mining and resources sectors with elevated prices for energy commodities
+  generally strong economic conditions, combined with rising consumer inflation.
+  the exhaustion of prior losses claimed by companies
+  increased regulation and compliance activities conducted by the ATO.
+The main contributors to the 15.5% through the year rise in June quarter 2023 were:
+Other likely contributors to the rise were capital gains, net rent, and interest earnings from individuals (d).
+  strong labour force employment and hours worked
+  rises in wages (c).
+  Wage Price Index, Australia, June 2023
+  Commonwealth Budget Paper No. 1, Budget 2023–24
+The main contributor to the rise in June quarter 2023 was strong payroll wages growth, due to a rise in employment numbers and hours worked.
+Changes to government policy have also contributed to the elevated level of payroll tax in the 2022‑23 financial year:
+  All jurisdictions implemented payroll tax waivers and relief to businesses impacted by the COVID 19 pandemic in 2020, which ceased in 2022.
+  NSW payroll tax rates returned to pre COVID 19 pandemic levels from 1 July 2022, following two years of discounted rates.
+  Victoria implemented the Mental Health and Wellbeing Surcharge on 1 January 2022.
+  Queensland implemented Mental Health Levy 1 January 2023.
+Stamp duty on conveyances has increased from June quarter 2020. Likely contributors to the recovery were:
+  increased clearance rates, residential sale volumes, and dwellings prices
+  rises in housing market sentiment and consumer expectations for house prices
+  rise in immigration following border closures during the COVID 19 pandemic
+  the return of international students to Australia increased demand for housing.
+All Australia royalty income increased to record levels through 2022 23. This was the second largest contributor to the recovery in total state NOB.
+The 101.2% rise from June quarter 2020 was due to increased export volumes of commodities:
+  154.3% rise in coal
+  131.0% rise in natural gas
+  16.3% rise in iron ore (e).
+  International Trade in Goods and Services, Australia, Australia, June 2023
+The jurisdictions contributing to the rise in royalty income from June 2020 were:
+In addition to increased exports driven by increased commodity prices, changes to government policy have also contributed to elevated levels of royalty income. Queensland implemented a 3 tier coal royalty structure from 1 July 2022.
+  Queensland (up $2.8b; up 289.1%)
+  WA (up $0.6b; up 25.7%)
+  NSW (up $0.5b; up 114.8%).
+  all decreases in net worth resulting from transactions
+  increase in expenses decreases NOB
+All Australia subsidies on products and production returned to pre COVID 19 pandemic levels in June quarter 2023.
+The main contributors to the fall in subsidy expenses were:
+  the conclusion of Commonwealth programs JobKeeper and Boosting Cash Flow for Employers
+  the conclusion of the joint Commonwealth State Business Support Programs.
+Assistance to households impacted by pandemic related lockdowns, COVID 19 cases, and natural disasters returned to pre COVID 19 pandemic levels in June quarter 2023 (f).
+Pandemic response payments fell significantly as restrictions and lockdowns ended. Government disaster recovery payments and other support from the Commonwealth and states decreased as impacts from natural disasters eased.
+  Includes current transfers to households for social exclusion n.e.c., natural disaster relief, and social protection n.e.c.
+All Australia general government CoE (g) increased $8.1b (up 17.5%) from June quarter 2020.
+State government CoE (up $6.2b; up 20.2%) was the largest contributor to the rise in total CoE from June quarter 2020. Almost 80% of total public sector employees work in state government (h). Other contributing jurisdictions were:
+The main contributors to the rise in total CoE were:
+  Commonwealth (up $1.0b; up 13.1%)
+  local (up $0.4b; up 10.6%)
+  universities (up $0.5b; up 11.5%).
+  wage bonuses, pay rises, and backpay across several states
+  newly negotiated enterprise bargaining agreements and changes to public sector wage caps
+  increase in frontline employee numbers, primarily in health, education, and public order and safety.
+  Includes superannuation expenses, wages and salaries, and other employee expenses
+  Employment and Earnings, Public Sector, Australia, 2021 22
+The ABS continues to determine the appropriate classification for new government policies. These classifications are based on well established conceptual frameworks (i), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to Government Finance Statistics (GFS) and the National Accounts (NA).
+These policies are grouped into five broad categories (j):
+The following presents a summary of the ABS classification of major new government policies that began during March quarter 2023 and June quarter 2023 (k).
+  Frontline services
+  Provision of assistance to households
+  Provision of assistance to corporations, unincorporated enterprises, and non profit institutions
+  Capital injections, establishment of new, or extended, lending facilities and provision of guarantees
+  Changes in tax and non tax revenue
+These frameworks are supported by international standards such as the International Monetary Fund (IMF) Government Finance Statistics Manual 2014 (GFSM 2014) and the System of National Accounts 2008 (2008 SNA)
+The categories are broadly based on the recommendations in “COVID 19: How to Record Government Policy Interventions in Fiscal Statistics” (IMF, 2020)
+This table summarises key policies with an impact on the macroeconomic accounts and does not cover every specific government policy in Australia
+NA includes the gross domestic product (GDP) accounts, which are measured using the expenditure approach (GDP (E)), the income approach (GDP (I)) or the production approach (GDP (P)).  NA also includes income accounts, capital accounts, financial accounts, and balance sheet
+  These frameworks are supported by international standards such as the International Monetary Fund (IMF) Government Finance Statistics Manual 2014 (GFSM 2014) and the System of National Accounts 2008 (2008 SNA)
+  The categories are broadly based on the recommendations in “COVID 19: How to Record Government Policy Interventions in Fiscal Statistics” (IMF, 2020)
+  This table summarises key policies with an impact on the macroeconomic accounts and does not cover every specific government policy in Australia
+  NA includes the gross domestic product (GDP) accounts, which are measured using the expenditure approach (GDP (E)), the income approach (GDP (I)) or the production approach (GDP (P)).  NA also includes income accounts, capital accounts, financial accounts, and balance sheet
+ (March 2023)
+ (September 2022)
+ (June 2022)
+ (March 2022)
+ (December 2021)
+ (September 2021)
+ (June 2021)
+ (March 2021)
+ (December 2020)
+ (September 2020)
+ (2021 22)
+ (2020 21)
+ (2019 20)

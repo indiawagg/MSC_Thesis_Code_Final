@@ -1,0 +1,19 @@
+Date:
+2021-11-30
+Article Title:
+ Classifying COVID-19 policy interventions during September quarter 2021 in macroeconomic statistics
+
+Article Content:
+The impact of the COVID 19 pandemic continues to drive the largest fiscal response to an event in modern Australian history. The focus of recent policy interventions during the third wave of the pandemic has shifted to targeted economic support for households and businesses in states affected by additional COVID 19 induced lockdowns.
+The ABS continues to undertake extensive consultation with stakeholders and subject matter experts to determine appropriate classifications for COVID 19 policy interventions. These classifications are based on well established conceptual frameworks (footnote 1), which ensure consistent recording of these policies across macroeconomic statistics, particularly in relation to Government Finance Statistics (GFS) and the National Accounts (NA).
+The COVID 19 policies are grouped into five broad categories (footnote 2):
+  Increased healthcare and frontline services spending
+  Provision of assistance to households
+  Provision of assistance to corporations, unincorporated enterprises, and non profit institutions
+  Relaxation of tax and non tax revenue obligations
+  Capital injections, establishment of new, or extended, lending facilities and provision of guarantees
+Government fiscal support through the quarter continued to target healthcare spending and provision of assistance to households, businesses and non profit institutions.
+Since the beginning of the pandemic, spending on social benefits to households in goods and services has increased significantly. Social benefit expenditure in the September quarter was driven by ongoing expansions to Commonwealth social programs and COVID related supplementary funding for policy areas such as disability and aged care support, state based jobs and training programs, as well as continued rebates to households for electricity bills.
+Spending on subsidies increased in the September quarter, driven by large business support packages in New South Wales and Victoria. These subsidies were targeted at industries and regions that continued to be impacted by lockdowns during the September quarter.
+The accelerated roll out of COVID 19 vaccines contributed to growth in government final consumption expenditure. Other health care spending remained elevated due to ongoing COVID 19 health response expenditure on frontline staff and personal protective equipment (PPE).
+IMF (2020), "COVID 19: How to Record Government Policy Interventions in Fiscal Statistics", Special Series on Statistical Issues in Response to COVID 19, IMF publication, viewed at 

@@ -1,0 +1,20 @@
+Date:
+2023-06-22
+Article Title:
+ Charts on casual employment, occupation, industry and job mobility, May 2023
+
+Article Content:
+This article includes information on casual employment, occupation, industry and job mobility. It follows previous similar articles during the COVID period, including:
+These can all be found in the Labour Force, Australia .
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Information in this article refers to a person’s ‘main job’, based on questions that are asked in the Labour Force Survey in February, May, August and November.
+  Insights into Industry and Occupation (, )
+  Insights into casual employment, occupation and industry ()
+  Charts on casual employment, occupation and industry (, , , , and )
+  Insights into job mobility from quarterly Labour Force statistics (first in a non quarter month , and then in ).
+  Charts on casual employment, occupation, industry and job mobility (,  and ).
+Chart 1 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020. Casual employment is now slightly higher (0.8 per cent) than prior to the pandemic. Non casual employees increased steadily to 11.9% above their pre pandemic level, and are the main driver for employment growth, particularly since August 2022.
+Chart 2 shows changes in employment and total hours worked in each of the major groups of occupations from May 2022 to May 2023. The overall growth in hours worked in the last year has outpaced employment and was particularly evident for Labourers, Sales workers and Technicians and trades workers.
+Chart 3 shows changes in employment and total hours worked in each of the industry divisions from May 2022 to May 2023. In the past year, hours worked has grown at a faster rate than employment for most industries and was most evident in the Accommodation and food services industry, where hours worked grew by 9.7 per cent while employment grew by only 3.9 per cent.
+Chart 4 shows the change in employment since February 2020 for the Accommodation and food services and Arts and recreation services industries compared to the growth in employment for all industries. Both selected industries were particularly impacted by COVID 19 lockdown restrictions. By May 2023, both industries recovered to around their pre pandemic levels, however employment growth in these industries was slower than the overall growth in employment.
+Chart 5 shows the reasons people left or lost a job in the past three months. The number of people who left or lost their job in the last 3 months fell by 149,100 people between February and May 2023. The fall was across all reasons.

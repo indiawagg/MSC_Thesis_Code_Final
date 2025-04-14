@@ -1,0 +1,11 @@
+Date:
+2023-05-09
+Article Title:
+The Daily — Baby Names Observatory and new data table
+Article Content:
+Released: 2023 05 09
+In 2021, the top five baby names in Canada were Noah, Liam, William, Leo and Benjamin for boys and Olivia, Emma, Charlotte, Amelia, and Ava for girls.
+This information and more can be found with Statistics Canada's new Baby Names Observatory. This data visualization tool allows the user to view the popularity of baby names over time for Canada. The tool displays the top 20 baby names by selected year for both boys and girls. It is also possible to search for a particular first name by sex at birth to see the historical evolution of the first name in terms of frequency, the proportion of children with the chosen name and the annual rank.
+The new table First names at birth by sex at birth, selected indicators (17 10 0147 01), which provides the data for the interactive web application, is also available. 
+The Baby Names Observatory interactive web application, part of the series Statistics Canada   Data Visualization Products (Catalogue number71 607 X), is now available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,600 @@
+Article Content:
+ Inleiding
+
+Hoe vaak hebben Nederlanders contact met de politie en hoe tevreden zijn ze met dat contact? Hoe tevreden zijn ze over het functioneren en de zichtbaarheid van de politie in hun buurt en over het functioneren van de politie in het algemeen? Hoe staat het met het vertrouwen van de burger in de politie, ook in vergelijking met andere Europese landen? Welke regionale verschillen en welke trends in politiewaardering zijn er te zien? Al deze vragen, en meer, worden in Politiewaardering: stand van zaken, trends en regionale verschillen beantwoord.
+
+De data zijn voor het grootste deel afkomstig uit de Veiligheidsmonitor, een grootschalige enquête onder de Nederlandse bevolking van 15 jaar en ouder. Naast leefbaarheid, veiligheid en criminaliteit is het oordeel van de burger over de politie een van de hoofdthema’s van dit onderzoek. In 2021 hebben 173 duizend personen de vragenlijst ingevuld. Dit grote aantal respondenten maakt het mogelijk om tot op een gedetailleerd niveau betrouwbare uitspraken te doen over de waardering die Nederlanders hebben voor de politie. In de publicatie Veiligheidsmonitor 2021 (Akkermans, Kloosterman, Moons, Reep en Tummers-van der Aa, 2022) zijn de uitkomsten over het thema politiewaardering al op hoofdlijnen beschreven. Deze publicatie geeft op basis van een secundaire analyse van de onderzoeksdata een uitbreiding en verdieping van deze uitkomsten, aangevuld met cijfers uit andere bronnen.
+
+De Veiligheidsmonitor is sinds 2005 jaarlijks en vanaf 2017 tweejaarlijks gehouden. Nadat in 2012 voor de laatste keer een revisie van het onderzoek had plaatsgevonden achtten de opdrachtgevers van de Veiligheidsmonitor (het ministerie van J&V en het CBS) en de partners (gemeenten, Politie, WODC) het in 2021 noodzakelijk om de opzet en inhoud van de Veiligheidsmonitor opnieuw tegen het licht te houden. Het onderzoeksterrein is immers continu in beweging: nieuwe vormen van criminaliteit ontstaan en ontwikkelen zich steeds sneller (denk aan online criminaliteit) en in het verlengde daarvan veranderen ook de eisen die aan de politie worden gesteld, ook door de burger.
+
+Concreet betekent dit dat de vragenlijst van de Veiligheidsmonitor 2021 grondig is herzien, waaronder het vragenblok waarin het oordeel van de burger over de politie centraal staat. Bestaande vragen zijn aangepast en nieuwe onderwerpen zijn toegevoegd. Zo zijn er voor het eerst vragen gesteld over de zichtbaarheid van de politie in de buurt. En ook over de zichtbaarheid en het functioneren van gemeentelijke handhavers in de buurt. Hoewel deze gemeentelijke handhavers, ook wel boa’s genoemd, niet tot de politie behoren wordt in deze publicatie ook beschreven hoe de burger hen waardeert.
+
+Onvermijdelijk gevolg van het herontwerp is dat de uitkomsten van de Veiligheidsmonitor 2021 niet meer 1‑op-1 vergelijkbaar zijn met die van eerdere edities. Om toch trends en ontwikkelingen in beeld te kunnen brengen is een voorziening getroffen waardoor voor een aantal belangrijke indicatoren op het gebied van veiligheid, criminaliteit en politiewaardering vergelijkingen met eerdere jaren kunnen worden gemaakt. Tegelijkertijd met de Veiligheidsmonitor nieuwe stijl is op beperktere schaal een Veiligheidsmonitor volgens de ‘oude’ opzet gehouden, dat wil zeggen met dezelfde vragenlijst als in 2019 en met enquêtering via internet en papieren vragenlijsten (sinds 2021 wordt het onderzoek alleen nog via internet gehouden). Door middel van dit ‘dubbeldraaitraject’ kon worden vastgesteld in welke mate de uitkomsten van de nieuwe en oude Veiligheidsmonitor op vergelijkbare vragen verschilden, en konden de ‘oude’ uitkomsten zodanig omgerekend worden dat ze vergelijkbaar zijn met de ‘nieuwe’ uitkomsten. Op deze manier zijn ook voor het thema politiewaardering trends geconstrueerd die in deze publicatie zijn opgenomen. Meer informatie hierover is opgenomen in de Onderzoeksverantwoording in de bijlage van dit rapport.
+
+De grote steekproefomvang van de Veiligheidsmonitor maakt het mogelijk niet alleen cijfers voor Nederland als geheel maar ook voor de regio’s van ons land weer te geven. Er worden uitkomsten gepresenteerd voor de 10 regionale eenheden, 43 districten en 167 basisteams van de politie en voor de 52 grootste gemeenten van ons land met meer dan 70 duizend inwoners.
+
+Voor het thema ‘vertrouwen in de politie’ zijn behalve data uit de Veiligheidsmonitor data uit twee andere bronnen gebruikt, namelijk het CBS-onderzoek ‘Sociale samenhang en welzijn’ (voor trends en voor een vergelijking van het vertrouwen in de politie en het vertrouwen in andere organisaties) en de ‘European Social Survey (ESS)’ (voor Europese vergelijking).
+
+De publicatie Politiewaardering: stand van zaken, trends en regionale verschillen is als webpublicatie en in pdf-vorm beschikbaar op de website van het CBS. Achterliggende cijfers zijn te vinden op StatLine, de elektronische databank van het CBS.
+
+1.1 Samenvatting
+
+Deze samenvatting laat de onderzoeksresultaten van de diverse thema’s op hoofdlijnen zien. Eerst wordt een overzicht gegeven van de belangrijkste landelijke uitkomsten. Daarna volgt een samenvatting van de regionale uitkomsten. Deze uitkomsten van de afzonderlijke regio’s worden afgezet tegen het landelijke gemiddelde. Het geheel correspondeert in grote lijnen met het kleurenoverzicht verderop waarin de scores op de belangrijkste indicatoren op het niveau van regionale politie-eenheden en -districten visueel zijn weergegeven. Een toelichting op het gebruik van dit overzicht wordt gegeven in de tekstbox die vooraf gaat aan het kleurenoverzicht.
+
+Landelijke uitkomsten
+
+Een kwart van de Nederlanders van 15 jaar of ouder heeft in de afgelopen 12 maanden eens of meerdere keren contact gehad met de politie. Het gaat dan bijvoorbeeld om een waarschuwing of bekeuring, een melding of aangifte van een delict, of zo maar een praatje met een agent op straat.
+
+Hiervan hadden 6 op de 10 het laatste contact met de politie in de eigen buurt. Iets minder dan 2 op de 10 hadden het laatste contact respectievelijk elders in de eigen gemeente en buiten de eigen gemeente.
+
+De tevredenheid over het laatste contact met de politie verschilt weinig naar de plaats waar dit plaatsvond: ongeveer twee op de drie zijn (zeer) tevreden over dit contact, zowel in de eigen buurt, elders in de eigen gemeente als daarbuiten.
+
+Voor ruim de helft (55 procent) was een melding of aangifte de belangrijkste reden voor het laatste contact met de politie. Bij 16 procent ging het om handhaving en bij 29 procent betrof het andere, informele contacten.
+
+De tevredenheid over handhavingscontacten is het laagst: 55 procent is hierover (zeer) tevreden. Over de contacten in verband met een melding of aangifte is 64 procent (zeer) tevreden. Het hoogst is de tevredenheid over andere contacten met de politie (78 procent).
+
+46 procent zegt dat hun laatste contact met de politie persoonlijk was. Bijna 40 procent geeft aan dat het een telefonisch contact was. De andere manieren van contact worden veel minder vaak genoemd (8 procent via internet, 2 procent via sociale media, 1 procent op andere manieren bijvoorbeeld schriftelijk, en 0,4 procent via Burgernet).
+
+De tevredenheid is het hoogst over de persoonlijke contacten: drie kwart was hierover (zeer) tevreden. Twee derde was (zeer) tevreden over het telefonische contact. Van degenen die een ander soort contact hadden was een kleine meerderheid van grofweg 50 á 60 procent (zeer) tevreden. Alleen over andere contacten via internet, bijvoorbeeld via de website van de politie, was een minderheid (zeer) tevreden (44 procent).
+
+Van degenen die niet tevreden waren over het laatste contact dat ze met de politie hadden zeggen de meesten dat dit komt doordat de problemen niet opgelost werden (40 procent) of doordat de politie hen niet serieus nam of niet geïnteresseerd was (36 procent). Ongeveer 20 procent gaf als reden voor hun mindere tevredenheid op dat de politie hen te lang liet wachten, te laat was of niet kwam, of dat de politie hen achteraf niet of onvoldoende op de hoogte heeft gehouden.
+
+Ruim een op de drie (37 procent) Nederlanders van 15 jaar of ouder is (zeer) tevreden over het functioneren van de politie in hun buurt, 8 procent is (zeer) ontevreden en 28 procent is niet tevreden en niet ontevreden. Nog eens 28 procent geeft aan dit niet te kunnen beoordelen.
+
+Wanneer de groep die geen oordeel heeft buiten beschouwing wordt gelaten, is met 51 procent ongeveer de helft (zeer) tevreden over het functioneren van de politie in de buurt en 10 procent (zeer) ontevreden.
+
+Negen procent zegt de politie vaak in de eigen buurt te zien, 36 procent ziet de politie soms, 42 procent zelden en 13 procent nooit. Een (kleine) meerderheid geeft dus aan de politie zelden of nooit in de eigen buurt te zien.
+
+Een op de drie (32 procent) is (zeer) tevreden over de zichtbaarheid van de politie in de eigen buurt, een op de vijf (21 procent) is hierover (zeer) ontevreden. De anderen zijn niet tevreden en niet ontevreden (36 procent) of hebben geen oordeel over de zichtbaarheid van de politie in de buurt (12 procent).
+
+Zeven procent van de Nederlanders van 15 jaar of ouder zegt vaak gemeentelijke handhavers in de eigen buurt te zien. Bijna een kwart (23 procent) ziet hen soms, bijna 30 procent zelden en bijna 40 procent nooit. Twee procent kan dit niet aangeven.
+
+Van de mensen die weleens gemeentelijke handhavers in hun buurt zien is 30 procent (zeer) tevreden over hun functioneren. Elf procent zegt hierover (zeer) ontevreden te zijn. Het grootste deel is niet tevreden, maar ook niet ontevreden (36 procent) of kan er geen oordeel over geven (23 procent).
+
+Bijna de helft (49 procent) van de Nederlanders van 15 jaar of ouder is (zeer) tevreden over het functioneren van de politie in het algemeen, 9 procent is (zeer) ontevreden en 29 procent is niet tevreden en niet ontevreden. Ruim 10 procent zegt dit niet te kunnen beoordelen.
+
+Wanneer de groep die geen oordeel heeft buiten beschouwing wordt gelaten is 57 procent (zeer) tevreden over het functioneren van de politie in het algemeen en 11 procent (zeer) ontevreden.
+
+In de Veiligheidsmonitor is het vertrouwen in de politie door middel van twee stellingen gemeten: 1. ‘Als je ze echt nodig hebt, zal de politie er alles aan doen om je te helpen’, en 2. ‘De politie biedt mij goede bescherming’. Op basis van de antwoorden is een schaalscore voor vertrouwen in de politie geconstrueerd die loopt van 0 tot en met 10, waarbij een lagere c.q. hogere score overeenkomt met minder c.q. meer vertrouwen in de politie. De gemiddelde schaalscore voor vertrouwen in de politie bedraagt 6,3.
+
+In het onderzoek Sociale samenhang en welzijn is rechtstreeks naar het vertrouwen in de politie gevraagd. Op deze manier gemeten zegt 79 procent van de Nederlanders vertrouwen in de politie te hebben. Ook rechters (79 procent) en het leger (72 procent) genieten veel vertrouwen. Het vertrouwen in de andere onderzochte organisaties, zoals de Tweede Kamer, de pers, banken en grote bedrijven is duidelijk lager en varieert tussen grofweg 30 en 50 procent.
+
+Uit de meest actuele internationale data blijkt dat Nederland achtste staat in de rangorde van Europese landen met het hoogste vertrouwen in de politie.
+
+Tussen 2012 en 2021 hebben alle indicatoren van politiewaardering zich positief ontwikkeld. De tevredenheid over de politiecontacten en het functioneren van de politie in de buurt is met respectievelijk 8 en 6 procent minder sterk toegenomen dan de tevredenheid over de politie in het algemeen (+24 procent). Het vertrouwen in de politie zoals gemeten in de Veiligheidsmonitor is tussen 2012 en 2021 met 7 procent toegenomen en het vertrouwen zoals gemeten in Sociale samenhang en welzijn met 17 procent.
+
+Meer recent tussen 2019 en 2021, in de coronaperiode, is de tevredenheid over het contact met de politie en over het functioneren van de politie in de buurt iets afgenomen, terwijl bij de tevredenheid over het functioneren van de politie in het algemeen en het vertrouwen in de politie de positieve trend doorzet.
+
+Regionale verschillen
+
+Regionale verschillen in politiewaardering zijn zichtbaar gemaakt door middel van een kleurenoverzicht dat hieronder volgt. Uit het overzicht komen enkele patronen naar voren:
+
+De tevredenheid over de contacten met de politie laat minder regionale verschillen zien dan de tevredenheid over het functioneren van de politie en het vertrouwen in de politie.
+
+In de regionale eenheid Oost-Nederland is de tevredenheid over het contact met de politie hoger dan landelijk gemiddeld, in de regionale eenheid Amsterdam is deze lager dan gemiddeld.
+
+De tevredenheid over het functioneren van de politie in de buurt en de tevredenheid over de zichtbaarheid van de politie in de buurt laten een vergelijkbaar beeld zien als het gaat om regionale verschillen. De tevredenheid over functioneren en zichtbaarheid van de politie in de buurt is hoger dan gemiddeld in de regionale eenheden Oost-Nederland, Amsterdam en Den Haag. In Amsterdam is de tevredenheid over de zichtbaarheid in alle politiedistricten hoger dan gemiddeld. In Oost-Nederland en Den Haag is ook de tevredenheid over het functioneren van de politie in het algemeen hoger dan gemiddeld.
+
+De tevredenheid over het functioneren en de zichtbaarheid van de politie in de buurt en over het functioneren van de politie in het algemeen is lager dan landelijk gemiddeld in de regionale eenheden Noord-Holland, Zeeland – West-Brabant en Limburg. Ook in Rotterdam is de tevredenheid over het functioneren van de politie relatief laag.
+
+Het vertrouwen in de politie is hoger dan landelijk gemiddeld in de regionale eenheden Noord-Nederland, Oost-Nederland, Midden-Nederland, Den Haag, en lager dan gemiddeld in Rotterdam, Zeeland – West-Brabant en Limburg.
+
+Toelichting op het overzicht Regionale eenheden en districten 2021
+
+Het kleurenoverzicht hieronder geeft voor een vijftal indicatoren van politiewaardering weer hoe de 10 regionale eenheden (vetgedrukt in de linker kolom van het overzicht) en de 43 daarbinnen liggende politiedistricten scoren. In het overzicht worden door middel van kleuren significante verschillen met het landelijke gemiddelde aangegeven.
+
+1.2 Leeswijzer
+
+Kern van dit rapport zijn de hoofdstukken 2 tot en met 6 waarin achtereenvolgens de uitkomsten voor de 4 hoofdthema’s (contacten met politie, functioneren politie in buurt, functioneren politie in algemeen, vertrouwen in politie) en de trends worden beschreven. Elk hoofdstuk bevat de landelijke uitkomsten van 2021, uitsplitsingen naar achtergrondkenmerken en regionale uitsplitsingen van de landelijke uitkomsten. Hoofdstuk 5 over vertrouwen in de politie bevat bovendien een vergelijking van Nederland met andere Europese landen op dit thema. In hoofdstuk 6 over trends worden de ontwikkelingen in politiewaardering zowel per thema als in samenhang beschreven.
+
+De bijlagen bevatten tabellen met achterliggend landelijk en regionaal cijfermateriaal, en trendcijfers. Afgesloten wordt met een onderzoeksverantwoording, referenties, een verwijzing naar meer cijfers, en een overzicht van medewerkers die aan deze publicatie hebben bijgedragen.
+
+Weergave uitkomsten politiedistricten
+
+In de hoofdstukken 2 tot en met 4 zijn de uitkomsten van de politiedistricten weergegeven in de vorm van kaarten van Nederland met een vijfklassenindeling, een indeling in kwintielgroepen of 20‑procentgroepen dus. Deze kaarten geven de spreiding van het onderzochte fenomeen over het land weer. Bij deze kaarten is de vijfklassenindeling tot stand gekomen door het verschil tussen de hoogste en laagste waarde door vijf te delen. Stel de percentages voor een bepaalde indicator lopen uiteen van 20,0 in regio X tot 60,0 in regio Y, dan zijn de vijf klassen (gebaseerd op het verschil van 40,0 : 5 = 8,0): (1) ‘minder dan 28,0’, (2) ‘28,0 tot 36,0’, (3) ‘36,0 tot 44,0’, (4) ‘44,0 tot 52,0’ en (5) ‘52,0 of meer’. Bij de beschrijving van de uitkomsten van de basisteams worden de basisteams vermeld die in de laagste en hoogste 20‑procentgroep vallen. De indeling is gebaseerd op het gemiddelde cijfer (de puntschatting), er is dus geen rekening gehouden met de boven- en ondergrenzen van de schatting. In hoofdstuk 5 is ook een kaart met politiedistricten opgenomen die schaalscores voor vertrouwen in de politie weergeeft. Bij deze kaart is niet gekozen voor een indeling in kwintielgroepen, maar voor een indeling per schaalscore.
+
+In de tabellenbijlagen is weergegeven in welke regionale eenheden, politiedistricten en basisteams ( ) respectievelijk in welke zeventig-duizend-plus-gemeenten ( ) de uitkomsten – rekening houdend met de boven- en ondergrenzen – hoger of lager zijn dan landelijk gemiddeld.
+
+In de webpublicatie zijn de percentages via de mouse-over/touchscreen-functie in de kaarten en de daarbij aangeboden downloadmogelijkheden van bestanden en tabellen beschikbaar.
+
+
+
+Contact met politie
+
+Dit hoofdstuk gaat over de contacten tussen burgers en politie. Hoe vaak, om welke redenen en op welke manier hebben Nederlanders contact met de politie? Zijn ze tevreden over dit contact? En, zo nee, wat zijn de redenen dat ze minder tevreden zijn? Deze en andere vragen worden hier beantwoord.
+
+2.1 Contact met politie en tevredenheid over contact
+
+Een kwart van de Nederlanders heeft in de afgelopen 12 maanden een of meerdere keren contact gehad met de politie. Het gaat bij deze contacten bijvoorbeeld om een waarschuwing of bekeuring, een melding of aangifte van een delict, of zo maar een praatje met een agent op straat.
+
+Van degenen die in het afgelopen jaar contact hebben gehad met de politie hadden bijna 8 op de 10 het laatste contact met de politie binnen de eigen gemeente. De meesten, 6 op de 10 hadden dit contact in de eigen buurt. Iets minder dan 2 op de 10 hadden het laatste contact elders in de eigen gemeente. Een vergelijkbaar percentage had het laatste contact buiten de eigen gemeente.
+
+De tevredenheid over het laatste contact met de politie verschilt weinig naar de plaats waar dit plaatsvond. Ongeveer twee op de drie zijn (zeer) tevreden over dit contact, zowel in de eigen buurt, elders in de eigen gemeente als daarbuiten.
+
+Mannen hebben vaker contact met de politie dan vrouwen. 65‑plussers hebben minder vaak contact dan jongere leeftijdsgroepen. Seksuele geaardheid speelt een weinig onderscheidende rol. Personen met een niet-westerse migratieachtergrond hebben minder vaak contact dan personen met een Nederlandse achtergrond. Personen in een huishouden met een lager welvaartsniveau hebben vaker contact dan personen in huishoudens met een hoger welvaartsniveau, en personen die in (zeer) sterk verstedelijkte gemeenten wonen hebben vaker contact dan personen in minder verstedelijkte gemeenten.
+
+De tevredenheid over het politiecontact verschilt weinig naar geslacht, leeftijd en seksuele geaardheid. Personen met een westerse migratieachtergrond en vooral personen met een niet-westerse migratieachtergrond zijn minder vaak tevreden over hun contact met de politie dan personen met een Nederlandse achtergrond. Personen in een huishouden met een hoger welvaartsniveau zijn vaker tevreden over het politiecontact dan personen in huishoudens met een lager welvaartsniveau, en personen die in minder verstedelijkte gemeenten wonen zijn vaker tevreden dan personen in (zeer) sterk verstedelijkte gemeenten.
+
+2.2 Reden contact
+
+Voor ruim de helft (55 procent) was een melding of aangifte de belangrijkste reden voor het laatste contact met de politie. Het gaat dan om bijvoorbeeld een melding van een verdachte situatie, misdrijf of overlast, of om een aangifte bij de politie. Bij 16 procent was handhaving de reden voor het laatste contact met de politie. Het gaat dan om een bekeuring of om een waarschuwing of controle door de politie. Bij 29 procent betrof het andere contacten met de politie zoals vragen om hulp, advies, informatie of een vergunning, of om sociaal contact/een praatje, of om andere niet nader genoemde contactredenen.
+
+Over handhavingscontacten met de politie is de tevredenheid het laagst: 55 procent is hierover (zeer) tevreden en 23 procent (zeer) ontevreden. Over de contacten in verband met melding of aangifte is 64 procent (zeer) tevreden en 18 procent (zeer) ontevreden. Het hoogst is de tevredenheid over andere contacten met de politie. Hierover is 78 procent (zeer) tevreden en 8 procent (zeer) ontevreden.
+
+2.3 Manier van contact
+
+Ruim 45 procent zegt dat hun laatste contact met de politie persoonlijk was en ruim 40 procent geeft aan dat het een telefonisch contact was. De andere manieren van contact worden veel minder vaak genoemd: 8 procent had het laatste contact via internet, bijvoorbeeld via de website van de politie, 2 procent via sociale media, 1 procent op andere manieren bijvoorbeeld schriftelijk, en 0,4 procent via Burgernet.
+
+De tevredenheid is het grootst over de persoonlijke contacten: drie kwart was (zeer) tevreden over het laatste persoonlijke contact dat ze met de politie hadden. Elf procent was (zeer) ontevreden hierover. Van degenen die de laatste keer telefonisch contact hadden met de politie was ongeveer twee derde (zeer) tevreden, en van degenen die de laatste keer een ander soort contact hadden een kleine meerderheid van grofweg 50 á 60 procent. Alleen over andere contacten via internet, bijvoorbeeld via de website van de politie, was een minderheid van 44 procent (zeer) tevreden.
+
+2.4 Punten mindere tevredenheid contact
+
+Van degenen die niet tevreden waren over hun laatste contact met de politie zeggen de meesten dat dit komt doordat de problemen niet opgelost werden (40 procent) of doordat de politie hen niet serieus nam of niet geïnteresseerd was (36 procent). Ongeveer 20 procent gaf als reden voor hun mindere tevredenheid op dat de politie hen te lang liet wachten, te laat was of niet kwam, of dat de politie hen achteraf niet of onvoldoende op de hoogte heeft gehouden.
+
+2.5 Regionale verschillen
+
+Het percentage dat (zeer) tevreden is over het laatste contact met de politie loopt uiteen van 63 procent in de regionale eenheid Amsterdam tot 70 procent in de regionale eenheid Oost-Nederland. Uit figuur 2.1.2 blijkt dat de tevredenheid over het politiecontact in minder verstedelijkte gebieden hoger is dan in meer verstedelijkte gebieden. Dit patroon is in grote lijnen zichtbaar in de tevredenheidspercentages van de regionale eenheden, maar er zijn ook uitzonderingen. Zo is de tevredenheid in het meer verstedelijkte Den Haag en Midden-Nederland relatief hoog, en in het minder verstedelijkte Zeeland – West-Brabant relatief laag.
+
+Bij de politiedistricten varieert het percentage dat (zeer) tevreden is over het politiecontact van 60 procent in Stad-Utrecht tot 71 procent in IJsselland. De politiedistricten in de 1 e 20‑procentgroep met de laagste tevredenheidspercentages (van afgerond 60 tot 62 procent) zijn in volgorde van dalende tevredenheid: De Baronie, Amsterdam-West, Den Haag-Zuid, Amsterdam-Oost, Parkstad-Limburg, Rotterdam-Zuid en Stad-Utrecht. Het betreft op Parkstad-Limburg na allemaal politiedistricten in de vier grote steden. De politiedistricten in de 5 e 20‑procentgroep met de hoogste tevredenheidspercentages (van afgerond 69 tot 71 procent) zijn in volgorde van stijgende tevredenheid: Noord- en Oost-Gelderland, Twente, Gelderland-Zuid, Gelderland-Midden, Zoetermeer – Leidschendam/Voorburg, West-Utrecht, Alphen aan den Rijn – Gouda, Eindhoven, Fryslân en IJsselland.
+
+Bij de basisteams loopt het percentage dat (zeer) tevreden is over het politiecontact uiteen van 52 procent in basisteam Zuidoost-Bijlmermeer tot 79 procent in Dronten/Noordoostpolder/Urk en in Noordoost-Fryslân (zie bijlagetabel II).
+
+
+
+Functioneren politie in buurt
+
+In dit hoofdstuk staat het functioneren van de politie in de buurt centraal. In hoeverre zijn mensen tevreden hierover? En hoe vaak zien ze de politie in hun buurt en hoe waarderen ze de zichtbaarheid van de politie? Ook de zichtbaarheid en de tevredenheid over het functioneren van gemeentelijke handhavers, ook wel boa’s genoemd, komen aan de orde.
+
+3.1 Tevredenheid met functioneren politie in buurt
+
+Functioneren politie in buurt
+
+Ruim een op de drie (37 procent) Nederlanders van 15 jaar of ouder is (zeer) tevreden over het functioneren van de politie in hun buurt, 8 procent is (zeer) ontevreden en 28 procent is niet tevreden en niet ontevreden. Nog eens 28 procent geeft aan dit niet te kunnen beoordelen. Wanneer de groep die geen oordeel heeft buiten beschouwing wordt gelaten, is met 51 procent ongeveer de helft (zeer) tevreden over het functioneren van de politie in de buurt en 10 procent (zeer) ontevreden.
+
+Functioneren politie in buurt naar kenmerken
+
+Mannen zijn vaker tevreden over het functioneren van de politie in de eigen buurt dan vrouwen, en jongeren vaker dan ouderen. Vrouwen en ouderen kunnen hier vaker geen oordeel over geven. Van de biseksuele en heteroseksuele vrouwen oordeelt 35 procent positief over het functioneren van de politie in de buurt. Bij de groepen met een andere seksuele geaardheid ligt dit percentage rond de 40 procent. Ook hier speelt mee dat biseksuele en heteroseksuele vrouwen vaker aangeven het functioneren van de politie in hun buurt niet kunnen beoordelen. Laagopgeleiden zijn vaker tevreden over het functioneren van de politie in hun buurt dan middelbaar- en hoogopgeleiden. Dit geldt ook voor personen in een huishouden met een laag welvaartsniveau ten opzichte van personen in een hogere welvaartsgroep, en voor personen met een niet-westerse migratieachtergrond ten opzichte van personen met een westerse migratieachtergrond of Nederlandse achtergrond. Dat personen met een niet-westerse migratieachtergrond doorgaans wat jonger en lager opgeleid zijn dan personen met een Nederlandse achtergrond speelt hierbij een rol. De stedelijkheidsgraad van de woongemeente is niet wezenlijk van belang voor de tevredenheid over het functioneren van de politie in de buurt.
+
+Functioneren politie in buurt naar buurtoverlast en veiligheidsbeleving
+
+De inschatting van de criminaliteit in de buurt, de onveiligheidsgevoelens en het ervaren van buurtoverlast hangen samen met de tevredenheid over het functioneren van de politie in de buurt. Mensen die denken dat er veel criminaliteit in hun buurt plaatsvindt, veel (sociale) buurtoverlast ervaren en zich vaker onveilig voelen zijn doorgaans minder vaak tevreden over het functioneren van de politie in hun buurt. Zo is ruim 30 procent van de mensen die veel overlast in hun buurt ervaren (zeer) tevreden over het functioneren van de politie in hun buurt, tegen ruim 40 procent van de mensen die niet met veel buurtoverlast te maken hebben. En van de personen die zich vaak onveilig voelen in de buurt is bijna 20 procent tevreden, van de personen die zich nooit onveilig voelen is bijna 40 procent dat. Wanneer de groep die geen oordeel heeft buiten beschouwing wordt gelaten, blijven deze patronen van verschillen in tevredenheid naar buurtoverlast en veiligheidsbeleving bestaan.
+
+Functioneren politie in buurt nader onderzocht
+
+De tevredenheid over het functioneren van de politie in de buurt is meer in detail onderzocht door middel van een aantal stellingen. Ongeveer 35 procent van de totale bevolking van 15 jaar en ouder is het er (helemaal) mee eens dat de politie weinig contact heeft met de bewoners uit de buurt. Ongeveer 30 procent vindt dat de politie de burgers in de eigen buurt bescherming biedt, en dat de politie in de buurt hen serieus neemt. Het laagst is de waardering voor de aanpak van buurtproblemen en de samenwerking met de buurtbewoners: ongeveer 15 procent vindt dat de politie dit goed doet.
+
+Uitgedrukt in een percentage van de personen die een oordeel kunnen geven over het functioneren van de politie in de buurt vindt 50 procent dat de politie weinig contact heeft met de bewoners uit de buurt. Grofweg 40 procent van hen vindt dat de politie de burgers in de eigen buurt bescherming biedt, en dat de politie in de buurt hen serieus neemt. Ongeveer 20 procent vindt dat de politie de problemen in de buurt goed aanpakt en dat de politie goed samenwerkt met de buurtbewoners.
+
+3.2 Zichtbaarheid en tevredenheid zichtbaarheid politie in buurt
+
+Behalve het oordeel over het functioneren van de politie in de buurt is ook het oordeel over de zichtbaarheid van de politie in de buurt onderzocht. Negen procent zegt de politie vaak in de eigen buurt te zien, 36 procent ziet de politie soms, 42 procent zelden en 13 procent nooit. Een kleine meerderheid geeft dus aan de politie zelden of nooit in de eigen buurt te zien.
+
+Een op de drie (32 procent) is (zeer) tevreden over de zichtbaarheid van de politie in de eigen buurt, een op de vijf (21 procent) is (zeer) ontevreden hierover. De anderen zijn niet tevreden en niet ontevreden (36 procent) of hebben geen oordeel over de zichtbaarheid van de politie in de buurt (12 procent).
+
+Zichtbaarheid van de politie in buurt naar stedelijkheid buurt
+
+In meer verstedelijkte buurten zeggen relatief meer inwoners dat de politie vaak zichtbaar is in de eigen buurt dan dat inwoners van minder verstedelijkte buurten dat zeggen. De percentages lopen uiteen van 18 in zeer sterk stedelijke buurten tot 3 in niet-stedelijke buurten.
+
+Ook de tevredenheid over de zichtbaarheid van de politie in de buurt is groter in meer verstedelijkte buurten, maar de verschillen zijn kleiner dan bij de zichtbaarheid. Het percentage dat (zeer) tevreden is over de zichtbaarheid van de politie in de buurt verschilt van 38 in zeer sterk stedelijke buurten tot 28 in weinig stedelijke buurten.
+
+Zichtbaarheid van de politie in buurt naar buurtoverlast en veiligheidsbeleving
+
+Mensen die het idee hebben dat er veel criminaliteit in de buurt plaatsvindt, zich vaker onveilig voelen, en vaker veel buurtoverlast ervaren, geven relatief vaak aan de politie in de buurt te zien. Hun tevredenheid over de zichtbaarheid van de politie is echter relatief laag. Zo is van degenen die zich vaak onveilig voelen in de eigen buurt 18 procent (zeer) tevreden over de zichtbaarheid van de politie, tegen 34 procent van degenen die zich er nooit onveilig voelen.
+
+Tevredenheid functioneren gemeentelijke handhavers in buurt
+
+Zeven procent van de Nederlanders van 15 jaar of ouder zegt vaak gemeentelijke handhavers in de eigen buurt te zien. Bijna een kwart (23 procent) ziet hen soms, bijna 30 procent zelden en bijna 40 procent nooit. Twee procent kan dit niet aangeven. De politie wordt doorgaans dus vaker in de buurt gezien dan gemeentelijke handhavers.
+
+Dertig procent van de mensen die weleens gemeentelijke handhavers in hun buurt zien is (zeer) tevreden over hun functioneren. Elf procent zegt hierover (zeer) ontevreden te zijn. Het grootste deel is niet tevreden, maar ook niet ontevreden (36 procent) of kan er geen oordeel over geven (23 procent). Over het functioneren van de politie wordt iets positiever geoordeeld; 41 procent van de mensen die weleens politie in hun buurt zien, zegt (zeer) tevreden hierover te zijn.
+
+Net als de politie worden gemeentelijke handhavers vaker gezien in zeer sterk stedelijke buurten. Ook mensen die denken dat er veel criminaliteit in hun buurt plaatsvindt, zich vaker onveilig voelen, en vaker (sociale) buurtoverlast ervaren, geven relatief vaak aan handhavers in hun buurt te zien. Zij zijn echter doorgaans minder tevreden over het functioneren van de handhavers.
+
+3.3 Regionale verschillen
+
+Functioneren politie in buurt
+
+Bij de regionale eenheden van de politie loopt het percentage dat (zeer) tevreden is over het functioneren van de politie in de buurt uiteen van 34 procent in Zeeland – West-Brabant en Limburg tot 40 procent in Amsterdam.
+
+Het percentage dat (zeer) tevreden is over het functioneren van de politie in de buurt varieert van 30 procent in politiedistrict De Markiezaten tot 43 procent in IJsselland, Den Haag-West en Den Haag-Centrum. De politiedistricten in de 1 e 20‑procentgroep met de laagste tevredenheidspercentages (van afgerond 30 tot 31 procent) zijn in volgorde van dalende tevredenheid: De Baronie, Parkstad-Limburg en De Markiezaten. De politiedistricten in de 5 e 20‑procentgroep met de hoogste tevredenheidspercentages (van afgerond 41 tot 43 procent) zijn in volgorde van stijgende tevredenheid: Zoetermeer – Leidschendam/Voorburg, Amsterdam-Oost, Den Haag-Centrum, Den Haag-West en IJsselland.
+
+Bij de basisteams loopt het percentage dat (zeer) tevreden is over het functioneren van de politie in de buurt uiteen van 27 procent in basisteam Dongemond tot 53 procent in Wassenaar (zie bijlagetabel II).
+
+Zichtbaarheid politie in buurt
+
+Het percentage dat (zeer) tevreden is over de zichtbaarheid van de politie loopt uiteen van 28 procent in de regionale eenheid Zeeland – West-Brabant tot 40 procent in de regionale eenheid Amsterdam.
+
+Bij de politiedistricten loopt het percentage dat (zeer) tevreden is over de zichtbaarheid van de politie uiteen van 24 procent in De Markiezaten tot 47 procent in Den Haag-Centrum. De politiedistricten in de 1 e 20‑procentgroep met de laagste tevredenheidspercentages (van afgerond 24 tot 28 procent) zijn in volgorde van dalende tevredenheid: West-Utrecht, Rijnmond Zuid-West, De Baronie, Gooi en Vechtstreek, Parkstad-Limburg en De Markiezaten. De politiedistricten in de 5 e 20‑procentgroep met de hoogste tevredenheidspercentages (van afgerond 44 en 47 procent) zijn in volgorde van stijgende tevredenheid: Amsterdam-Oost en Den Haag-Centrum.
+
+Het percentage dat (zeer) tevreden is over de zichtbaarheid van de politie in de buurt is met 22 procent het laagst in basisteam Dongemond en met 52 procent het hoogst in basisteam Jan Hendrikstraat.
+
+Tevredenheid functioneren gemeentelijke handhavers in buurt in zeventig-duizend-plus-gemeenten
+
+In gemeenten met meer dan 70 duizend inwoners is 32 procent (zeer) tevreden over het functioneren van gemeentelijke handhavers in de buurt. Dit is iets hoger dan het landelijk gemiddelde (30 procent). Binnen de 52 zeventig-duizend-plus-gemeenten varieert het percentage inwoners dat (zeer) tevreden is over het functioneren van gemeentelijke handhavers in de buurt van 22 in Sittard-Geleen tot 41 in Zwolle.
+
+
+
+Functioneren politie in algemeen
+
+In hoofdstuk 3 stond het functioneren van de politie in de buurt centraal. In dit hoofdstuk gaat het over het functioneren van de politie in het algemeen. Hoe oordeelt de bevolking hierover? En in hoeverre bestaan er verschillen tussen bevolkingsgroepen en tussen regio’s?
+
+4.1 Tevredenheid met functioneren politie in het algemeen
+
+Functioneren politie in het algemeen
+
+Bijna de helft (49 procent) van de Nederlanders van 15 jaar of ouder is (zeer) tevreden over het functioneren van de politie in het algemeen, 9 procent is (zeer) ontevreden en 29 procent is niet tevreden en niet ontevreden. Ruim 10 procent zegt dit niet te kunnen beoordelen. Wanneer deze laatsten buiten beschouwing worden gelaten is 57 procent (zeer) tevreden over het functioneren van de politie in het algemeen en 11 procent (zeer) ontevreden.
+
+Functioneren politie in het algemeen naar kenmerken
+
+Mannen geven vaker dan vrouwen aan (zeer) tevreden te zijn over het functioneren van de politie in het algemeen. Hier speelt mee dat vrouwen vaker zeggen dit niet te kunnen beoordelen. Wanneer degenen zonder oordeel buiten beschouwing blijven, oordelen vrouwen juist iets vaker positief. 15- tot 45‑jarigen oordelen vaker positief over het algemene functioneren van de politie dan 45‑plussers. Het verschil tussen beide leeftijdsgroepen wordt kleiner als er rekening mee wordt gehouden dat 45‑plussers hier vaker geen oordeel over kunnen geven. Biseksuele vrouwen zijn iets minder vaak tevreden over het algemene functioneren van de politie dan homo- en biseksuele mannen en heteroseksuelen. Hoogopgeleiden zijn vaker tevreden dan middelbaar- en laagopgeleiden, en personen in een huishouden met een hoge welvaart vaker dan personen in de lagere welvaartsgroepen. Personen met een Nederlandse achtergrond zijn iets vaker tevreden dan personen met een westerse migratieachtergrond. De tevredenheid over het algemene functioneren van de politie verschilt niet of nauwelijks naar de stedelijkheidsgraad van de gemeente waar men woont.
+
+Functioneren politie in het algemeen naar buurtoverlast en veiligheidsbeleving
+
+De inschatting van de criminaliteit in de buurt, de onveiligheidsgevoelens en het ervaren van buurtoverlast hangen samen met de tevredenheid over het functioneren van de politie in het algemeen. Mensen die denken dat er veel criminaliteit in hun buurt plaatsvindt, veel (sociale) buurtoverlast ervaren en zich vaker onveilig voelen zijn doorgaans minder vaak tevreden over het functioneren van de politie in het algemeen. Zo is ruim 40 procent van de mensen die veel overlast in hun buurt ervaren (zeer) tevreden over het functioneren van de politie in hun buurt, tegen ruim 50 procent van de mensen die niet met veel buurtoverlast te maken hebben. En van de personen die zich vaak onveilig voelen in de buurt is bijna 30 procent tevreden, van de personen die zich nooit onveilig voelen is ruim de helft dat. Wanneer de groep die geen oordeel heeft buiten beschouwing wordt gelaten, blijven deze patronen van verschillen in tevredenheid naar buurtoverlast en veiligheidsbeleving bestaan.
+
+Functioneren politie in algemeen nader onderzocht
+
+Door middel van stellingen over specifieke terreinen van het algemene functioneren van de politie is de tevredenheid hierover meer in detail onderzocht. De helft van de Nederlanders van 15 jaar en ouder is van mening dat de politie er alles aan zal doen om hen te helpen, als zij de politie echt nodig hebben. Ruim 40 procent vindt de politie makkelijk benaderbaar en vindt dat de politie rechtvaardig handelt. Ongeveer 30 procent is van mening dat sommige mensen in dezelfde situatie sneller door de politie worden aangehouden dan anderen. Het laagst is de waardering voor het informeren van de burger door de politie en voor de aanpak van de criminaliteit: minder dan 30 procent vindt dat de politie dit (goed) doet.
+
+Uitgedrukt in een percentage van degenen die een oordeel kunnen geven over het functioneren van de politie in het algemeen vindt bijna 60 procent dat de politie er alles aan zal doen om hen te helpen, als zij de politie echt nodig hebben. Grofweg de helft van hen vindt dat de politie makkelijk te benaderen is en rechtvaardig handelt. Ruim 30 procent is van mening dat sommige mensen in dezelfde situatie sneller door de politie worden aangehouden dan anderen, dat de politie de burgers informeert, en dat de politie de criminaliteit goed aanpakt.
+
+4.2 Regionale verschillen
+
+Het percentage dat (zeer) tevreden is over het functioneren van de politie in het algemeen varieert van 45 procent in de regionale eenheid Limburg tot 53 procent in de regionale eenheid Oost-Nederland. Ook in de regionale eenheid Den Haag is de tevredenheid over het algemene functioneren van de politie met 52 procent relatief hoog.
+
+Bij de politiedistricten loopt het percentage dat (zeer) tevreden is over het algemene functioneren van de politie uiteen van 41 procent in De Markiezaten en Parkstad-Limburg tot 55 procent in Westland – Delft en IJsselland. De Markiezaten en Parkstad-Limburg vormen de 1 e 20‑procentgroep met de laagste tevredenheidspercentages. De politiedistricten in de 5 e 20‑procentgroep met de hoogste tevredenheidspercentages (van afgerond 53 tot 55 procent) zijn in volgorde van stijgende tevredenheid: Stad-Utrecht, Twente, Leiden ‍–‍ Bollenstreek, Den Haag-West, IJsselland en Westland – Delft.
+
+Bij de basisteams loopt het percentage dat (zeer) tevreden is over het functioneren van de politie in het algemeen uiteen van 39 procent in de basisteams Brunssum/Landgraaf en Roosendaal tot 61 procent in de basisteams Dronten/Noordoostpolder/Urk en Noordoost-Twente (zie bijlagetabel II).
+
+
+
+
+
+Noten
+
+Dit betreft de totale populatie van 15 jaar en ouder. Personen zonder oordeel over het functioneren van de politie in het algemeen zijn in de percentering meegenomen.Vertrouwen in de politie
+
+Het vertrouwen van burgers in de politie hangt samen met hun neiging om samen te werken met de politie en ook met de legitimiteit die ze toekennen aan de autoriteit van de politie (Stals en Van de Walle, 2020). In dit hoofdstuk staat dit vertrouwen in de politie centraal. De data komen uit verschillende bronnen: de Veiligheidsmonitor, het onderzoek Sociale samenhang en welzijn, en de European Social Survey.
+
+5.1 Vertrouwen in de politie
+
+In de Veiligheidsmonitor is op basis van twee vragen over de politie een schaalscore berekend die het vertrouwen in de politie meet (Stals en Van de Walle, 2020). De schaalscore is gebaseerd op de stellingen: 1. ‘Als je ze echt nodig hebt, zal de politie er alles aan doen om je te helpen.’ en 2. ‘De politie biedt mij goede bescherming’. De schaalscore loopt van 0 tot en met 10, waarbij een hogere score overeenkomt met een positiever oordeel ofwel meer vertrouwen in de politie. De gemiddelde schaalscore voor vertrouwen in de politie onder Nederlanders van 15 jaar en ouder bedraagt 6,3.
+
+Het vertrouwen in de politie verschilt nagenoeg niet tussen mannen en vrouwen. Personen jonger dan 45 jaar, en dan met name de 15- tot 25‑jarigen, hebben relatief vaak vertrouwen in de politie. Middelbaar opgeleiden hebben minder vaak vertrouwen in de politie dan laag- en hoogopgeleiden.
+
+Seksuele geaardheid, migratieachtergrond, welvaart van het huishouden en stedelijkheid van de gemeente spelen een weinig onderscheidende rol.
+
+5.2 Regionale verschillen
+
+Binnen de regionale eenheden van de politie zijn de verschillen relatief klein als het gaat om het vertrouwen in de politie. De schaalscore loopt uiteen van 6,1 in Rotterdam, Zeeland – West-Brabant en Limburg tot 6,4 in de regionale eenheden Oost-Nederland en Den Haag.
+
+Bij de politiedistricten varieert de schaalscore van vertrouwen in de politie van 5,9 in De Markiezaten tot 6,5 in Zoetermeer – Leidschendam/Voorburg, Leiden – Bollenstreek en IJsselland. De politiedistricten met het minste vertrouwen in de politie (afgerond lager dan 6,1) zijn in volgorde van dalend vertrouwen: Rotterdam-Zuid, Parkstad-Limburg en De Markiezaten. De politiedistricten met het hoogste vertrouwen in de politie (afgerond 6,4 of hoger) zijn in volgorde van stijgend vertrouwen: Den Haag – Centrum, Oost-Utrecht, Twente, Gelderland-Midden, Fryslân, Stad-Utrecht, Den Haag – West, Zoetermeer – Leidschendam/Voorburg, Leiden – Bollenstreek en IJsselland.
+
+Bij de basisteams varieert de score voor vertrouwen in de politie van 5,8 in het basisteam Brunssum/Landgraaf tot 6,7 in het basisteam Centrum-Amstel (zie ).
+
+5.3 Verschillen tussen organisaties
+
+In het onderzoek Sociale samenhang en welzijn wordt gevraagd naar het vertrouwen van Nederlanders in verschillende organisaties en hun functioneren, waaronder de politie. In 2021 zegt 79 procent van de Nederlanders van 15 jaar of ouder vertrouwen te hebben in de politie (CBS StatLine, 2022; Schmeets en Exel, 2022). Ook rechters (79 procent) en het leger (72 procent) genieten relatief veel vertrouwen. Het vertrouwen in de andere onderzochte organisaties is duidelijk lager en varieert tussen grofweg 30 en 50 procent.
+
+5.4 Verschillen tussen Europese landen
+
+De European Social Survey laat zien dat Nederland in vergelijking met andere Europese landen relatief hoog scoort als het gaat om het vertrouwen in de politie (CBS StatLine, 2021). Na Scandinavische landen, Oostenrijk, Zwitserland en Duitsland staat Nederland met een schaalscore van 7,0 samen met Estland en Zweden op de 8 e plaats in de rangorde van landen. In Bulgarije is het vertrouwen in de politie het laagst.
+
+
+
+
+
+Noten
+
+De cijfers van 2018 zijn voorlopig. De nieuwe cijfers komen in 2023. Als gevolg van COVID-19 pandemie hebben de meeste landen hun onderzoek uitgesteld.Trends in politiewaardering
+
+In dit laatste hoofdstuk wordt beschreven hoe de tevredenheid over het contact met de politie, de tevredenheid over het functioneren van de politie in de buurt en in het algemeen, en het vertrouwen in de politie zich in de afgelopen tien jaar ontwikkeld hebben. Bij vertrouwen wordt daarbij ook een vergelijking gemaakt tussen het vertrouwen in de politie en het vertrouwen in andere organisaties.
+
+6.1 Trends tevredenheid contact met politie en functioneren politie
+
+Tussen 2012 en 2021 steeg de tevredenheid over het contact met de politie in de eigen gemeente van 62 naar 67 procent. De tevredenheid over het functioneren van de politie in de buurt nam licht toe van 35 procent in 2012 tot 37 procent in 2021. De tevredenheid over het functioneren van de politie in het algemeen steeg sterker, namelijk van 40 procent in 2012 naar 49 procent in 2021. In de afgelopen tien jaren is het verschil in tevredenheid over het functioneren van de politie in de buurt en het functioneren van de politie in het algemeen iets groter geworden.
+
+Meer recent tussen 2019 en 2021, gedurende de coronaperiode, zijn de tevredenheid over het contact met de politie in de gemeente en de tevredenheid over het functioneren van de politie in de buurt iets gedaald, terwijl de tevredenheid over het functioneren van de politie in het algemeen iets steeg.
+
+Trend tevredenheid contact met politie en functioneren politie 1993–2011
+
+Het CBS heeft eerder onderzoek gedaan naar trends in politiewaardering (Akkermans, 2012). Hieruit kwam naar voren dat de tevredenheid over het contact met de politie in de eigen gemeente van 1993 tot aan de millenniumwisseling gelijk bleef, vervolgens daalde naar een laagste punt in 2005 en daarna weer, met fluctuaties, tot 2011 steeg.
+
+De tevredenheid over het functioneren politie in de buurt liet van 1993 tot 2003 een geleidelijke daling zien, en bleef daarna, met fluctuaties, tot 2011 min of meer gelijk.
+
+Per saldo bleef de tevredenheid over de contacten met de politie in de eigen gemeente over de hele periode 1993–2011 gelijk, terwijl de tevredenheid over het functioneren van de politie in de buurt in deze periode met ongeveer 10 procent daalde.
+
+Door een grondige herziening van de Veiligheidsmonitor in 2012 (aanpassingen in de vragenlijst en een andere onderzoeksopzet) was er tussen 2011 en 2012 sprake van een methodebreuk. Hierdoor kunnen de cijfers van vóór 2012 niet zonder meer vergeleken worden met die vanaf 2012.
+
+6.2 Trends vertrouwen in politie
+
+Het vertrouwen in de politie, uitgedrukt op een schaal van 0 tot 10, steeg tussen 2012 en 2021 licht van 5,9 naar 6,3. Deze toename vond vooral tussen 2015 en 2017 plaats. Vóór 2015 en na 2017 bleef de schaalscore voor vertrouwen in de politie vrijwel gelijk.
+
+6.3 Trends vertrouwen in politie en andere organisaties
+
+Het percentage dat ‘heel veel’ of ‘tamelijk veel’ vertrouwen heeft in de politie en haar functioneren is gestegen van 68 procent in 2012 naar 79 procent in 2021, percentages die vrijwel identiek zijn aan die van het vertrouwen in rechters (69 procent in 2012; 79 procent in 2021). Het vertrouwen van Nederlanders in het leger nam toe van 59 procent in 2012 tot 72 procent in 2021. Het vertrouwen in andere organisaties bleef gedurende de hele periode 2012–2021 ruim onder dat van deze drie organisaties die werkzaam zijn in het domein van veiligheid en justitie.
+
+6.4 Trends politiewaardering in samenhang
+
+Tussen 2012 en 2021 hebben alle indicatoren van politiewaardering zich positief ontwikkeld. De tevredenheid over het contact met de politie in de gemeente en het functioneren van de politie in de buurt is met respectievelijk 8 en 6 procent minder sterk gestegen dan de tevredenheid over de politie in het algemeen (+24 procent). Het vertrouwen in de politie zoals gemeten in de Veiligheidsmonitor is met 7 procent minder sterk toegenomen dan het vertrouwen zoals gemeten in Sociale samenhang en welzijn (+17 procent).
+
+Meer recent tussen 2019 en 2021, in de coronaperiode, is de tevredenheid over het contact met de politie en het functioneren van de politie in de buurt iets afgenomen, terwijl bij de tevredenheid over het functioneren van de politie in het algemeen en het vertrouwen in de politie de positieve trend doorzet.
+
+
+
+
+
+Noten
+
+Dit verschil in trend tussen vertrouwen in de politie zoals gemeten in de Veiligheidsmonitor en vertrouwen in de politie zoals gemeten in Sociale samenhang en welzijn wordt veroorzaakt door een andere operationalisering van het concept ‘vertrouwen in de politie’ en door design-effecten zoals verschillen in onderzoeksopzet en veldwerkperiode tussen beide onderzoeken. Zie ook paragraaf 7.2.Conclusies en aanbevelingen
+
+7.1 Conclusies
+
+De tevredenheid van Nederlanders van 15 jaar en ouder over hun contacten met de politie is groter dan de tevredenheid over het functioneren van de politie in het algemeen en vooral groter dan de tevredenheid over het functioneren en de zichtbaarheid van de politie in de eigen buurt.
+
+De politiewaardering verschilt naar persoonskenmerken. Zo zijn personen met een westerse migratieachtergrond en vooral personen met een niet-westerse migratieachtergrond minder vaak tevreden over hun contact met de politie dan personen met een Nederlandse achtergrond. Personen die in minder verstedelijkte gemeenten wonen zijn vaker tevreden over hun politiecontacten dan personen in (zeer) sterk verstedelijkte gemeenten. Mannen zijn vaker te spreken over het functioneren van de politie in de eigen buurt en in het algemeen dan vrouwen, en jongeren vaker dan ouderen. De stedelijkheidsgraad van de gemeente waar men woont is niet wezenlijk van belang voor de tevredenheid over het functioneren van de politie in de buurt en in het algemeen. Personen jonger dan 45 jaar, en dan met name de 15- tot 25‑jarigen, hebben relatief vaak vertrouwen in de politie.
+
+Inwoners van met name de regionale politie-eenheden Den Haag en Oost-Nederland hebben een relatief hoge waardering voor de politie. Relatief laag is de politiewaardering vooral in de regionale eenheden Noord-Holland, Rotterdam, Zeeland – West-Brabant en Limburg.
+
+Het vertrouwen in de politie zoals gemeten in de Veiligheidsmonitor scoort een 6,3 op een schaal van 0–10. In het onderzoek Sociale samenhang en welzijn geven bijna 8 op de 10 Nederlanders aan vertrouwen in de politie te hebben. Dit aandeel is vergelijkbaar met het aandeel dat vertrouwen heeft in rechters en het leger, maar hoger dan het aandeel dat vertrouwen heeft in andere publieke of private instanties zoals de Tweede Kamer, de pers, de EU, banken of grote bedrijven. In de European Social Survey scoort het vertrouwen in de politie volgens de meest actuele cijfers van 2018 een 7,0. Ter vergelijking: de schaalscore op basis van de Veiligheidsmonitor is een 6,3 in 2017 en een 6,2 in 2019. Met die 7,0 staat Nederland in de rangorde van Europese landen relatief hoog op de 8 e plaats.
+
+Tussen 2012 en 2021 hebben alle indicatoren van politiewaardering zich positief ontwikkeld. De tevredenheid over de politiecontacten en over het functioneren van de politie in de buurt is minder sterk toegenomen dan de tevredenheid over de politie in het algemeen. Het vertrouwen in de politie zoals gemeten in de Veiligheidsmonitor is minder sterk toegenomen dan het vertrouwen zoals gemeten in Sociale samenhang en welzijn. Meer recent tussen 2019 en 2021, in de coronaperiode, is de tevredenheid over het contact met de politie en over het functioneren van de politie in de buurt iets afgenomen, terwijl bij de tevredenheid over het functioneren van de politie in het algemeen en het vertrouwen in de politie de positieve trend doorzet.
+
+7.2 Aanbevelingen
+
+In deze publicatie zijn de stand van zaken, trends en regionale verschillen in politiewaardering beschreven. Op basis van de data van de Veiligheidsmonitor is het mogelijk verder exploratief onderzoek te doen naar politiewaardering: wat zijn de determinanten van bijvoorbeeld het vertrouwen in de politie? Voor een deel zal dit vertrouwen samenhangen en bepaald worden door concrete ervaringen die burgers met de politie hebben gehad (de tevredenheid over het contact met de politie) en met een algemener beeld dat men heeft van de politie (de tevredenheid over het functioneren en de zichtbaarheid van de politie in de buurt, de tevredenheid over het functioneren van de politie in het algemeen). Maar ook andere factoren zullen een rol spelen. Denk aan persoonskenmerken (geslacht, leeftijd, migratieachtergrond et cetera), buurtkenmerken (sociaaleconomische kenmerken van de woonomgeving) en de manier waarop men de eigen woonomgeving waarneemt of ervaart (bijvoorbeeld het ervaren van overlast in de buurt of de veiligheidsbeleving in de buurt). Aanbevolen wordt op basis van data van de Veiligheidsmonitor een exploratieve studie te doen naar determinanten van politiewaardering. Daarmee komt informatie beschikbaar voor beleid dat gericht is op het (verder) verhogen van het vertrouwen en de waardering van de burger voor de politie.
+
+In deze publicatie zijn de cijfers over politiewaardering onder andere uitgesplitst naar persoonskenmerken en naar stedelijkheid van de gemeente of buurt waar men woont. Ook zijn er uitsplitsingen gemaakt naar de mate van veiligheidsbeleving in de buurt en de mate waarin men buurtoverlast ervaart. Het zou interessant zijn, ook in het kader van de hierboven aanbevolen studie, om de cijfers uit te splitsen naar kenmerken van de buurt of wijk waar men woont, zodat bijvoorbeeld vastgesteld kan worden of, en zo ja, in welke mate bewoners van sociaaleconomisch zwakkere buurten of wijken de politie anders waarderen dan de bewoners van sociaaleconomische sterkere buurten of wijken. Aanbevolen wordt bij een eventueel volgende publicatie over politiewaardering te onderzoeken of een verbijzondering naar buurt- of wijkkenmerken mogelijk is, bijvoorbeeld door databestanden van meerdere jaargangen van de Veiligheidsmonitor te combineren en/of door registerdata te gebruiken.
+
+Het vertrouwen in de politie zoals gemeten in de Veiligheidsmonitor laat een minder positief beeld zien dan het vertrouwen in de politie zoals gemeten in het onderzoek Sociale samenhang en welzijn en in de European Social Survey. Wanneer het hetzelfde concept wordt gemeten zouden deze beelden idealiter gelijk of ten minste vergelijkbaar moeten zijn.
+
+De verschillen in de uitkomsten van de onderzoeken worden mede veroorzaakt door een andere operationalisering van het concept ‘vertrouwen in de politie’. In de Veiligheidsmonitor wordt een schaalscore voor vertrouwen geconstrueerd op basis van twee stellingen: 1. ‘Als je ze echt nodig hebt, zal de politie er alles aan doen om je te helpen’ en 2. ‘De politie biedt mij goede bescherming’. In Sociale samenhang en welzijn wordt het vertrouwen in de politie uitgedrukt in het percentage dat aangeeft ‘heel veel’ of ‘tamelijk veel’ vertrouwen in de politie en haar functioneren te hebben. In de European Social Survey wordt de respondenten gevraagd op een schaal van 0–10 aan te geven hoeveel vertrouwen ze in de politie en andere instituties hebben, waarbij een 0 staat voor helemaal geen vertrouwen en een 10 voor volledig vertrouwen.
+
+Ook de context waarin de vragen over vertrouwen in de politie worden gesteld, leidt tot verschillende uitkomsten. In de Veiligheidsmonitor worden de vragen gesteld na vragen over veiligheidsbeleving en slachtofferschap van criminaliteit, en na vragen over contacten met de politie en het functioneren van de politie in de buurt , terwijl dat in Sociale samenhang en welzijn en in de European Social Survey niet het geval is. In beide laatste onderzoeken wordt behalve naar het vertrouwen in de politie ook naar het vertrouwen in andere organisaties gevraagd, wat in de Veiligheidsmonitor niet gebeurt.
+
+Ten slotte worden de verschillen veroorzaakt door design-effecten zoals verschillen in onderzoeksopzet en veldwerkperiode tussen de onderzoeken. Om verschillen in operationalisering, context- en design-effecten uit te sluiten wordt aanbevolen om te onderzoeken of de vraagstelling naar vertrouwen in de politie zoals opgenomen in Sociale samenhang en welzijn en/of de European Sociale Survey (ook) opgenomen kan worden in de Veiligheidsmonitor.
+
+
+
+Bijlage I Tabellen indicatoren Nederland totaal
+
+Deze bijlage bevat de volgende tabellen waarin de belangrijkste landelijke onderzoeksresultaten behorende bij de hoofdstukken 2 tot en met 5 zijn opgenomen:
+
+Contact met politie
+
+Functioneren politie in buurt
+
+Functioneren politie in algemeen
+
+Vertrouwen in politie
+
+Elke tabel bevat de uitkomsten voor Nederland totaal.
+
+1) Percentering gebaseerd op personen die aangeven (zeer) ontevreden te zijn over het laatste politiecontact.
+
+1) Personen zonder oordeel over het functioneren van de politie in de buurt zijn in de percentering meegenomen.
+
+2) Percentages zijn weergegeven als % (helemaal) eens met de betreffende stelling.
+
+3) Percentering gebaseerd op personen die aangeven gemeentelijke handhavers in de buurt te hebben gezien.
+
+1) Personen zonder oordeel over het functioneren van de politie in het algemeen zijn in de percentering meegenomen.
+
+2) Percentages zijn weergegeven als % (helemaal) eens met de betreffende stelling.
+
+VM staat voor cijfers uit de Veiligheidsmonitor en SsW voor cijfers uit het onderzoek Sociale samenhang en Welzijn.
+
+
+
+Bijlage II Tabel indicatoren regionale eenheden, districten en basisteams politie
+
+Deze bijlage bevat een tabel met de uitkomsten voor de vijf belangrijkste kernindicatoren behorende bij de hoofdstukken 2 tot en met 5 voor het jaar 2021 voor Nederland totaal en daarbinnen de 10 regionale eenheden, 43 districten en 167 basisteams van politie.
+
+In de tabel is door middel van ‘+’ en ‘–’ weergegeven of de uitkomsten van de regionale eenheden, districten en basisteams significant hoger of lager zijn dan het landelijke gemiddelde.
+
+De afkorting RE staat voor regionale eenheid en PD voor politiedistrict. Als er geen RE of PD achter de naam staat, gaat het om een basisteam.
+
+1) Significant hoger (+) of lager (–) dan het landelijke gemiddelde.
+
+
+
+Bijlage III Tabel indicatoren zeventig-duizend-plus-gemeenten
+
+Deze bijlage bevat een tabel met de uitkomsten voor de vijf belangrijkste kernindicatoren behorende bij de hoofdstukken 2 tot en met 5 voor het jaar 2021 voor de zeventig-duizend-plus-gemeenten totaal en daarbinnen de G4, de G40 en de overige zeventig-duizend-plus-gemeenten, alsmede de 52 afzonderlijke zeventig-duizend-plus-gemeenten.
+
+In de tabel is door middel van ‘+’ en ‘–’ weergegeven of de uitkomsten significant hoger of lager zijn dan het gemiddelde van de zeventig-duizend-plus-gemeenten.
+
+1) Significant hoger (+) of lager (–) dan het gemiddelde van de 70.000+ gemeenten.
+
+
+
+Bijlage IV Tabel trendcijfers
+
+Deze bijlage bevat een tabel waarin voor kernindicatoren uit de hoofdstukken 2 tot en met 5 de uitkomsten voor de jaren 2012 tot en met 2021 weergegeven worden. De weergave gebeurt enerzijds in schaalscores of percentages en anderzijds in indexcijfers.
+
+1) In 2021 heeft een methodebreuk plaatsgevonden als gevolg van wijzigingen in de onderzoeksopzet en vraagstellingen van de Veiligheidsmonitor. Meer hierover is te lezen in de Onderzoeksverantwoording.
+
+2) In 2018 en 2020 heeft geen meting plaats gevonden van de Veiligheidsmonitor.
+
+1) In 2021 heeft een methodebreuk plaatsgevonden als gevolg van wijzigingen in de onderzoeksopzet en vraagstellingen van de Veiligheidsmonitor. Meer hierover is te lezen in de Onderzoeksverantwoording.
+
+2) In 2018 en 2020 heeft geen meting plaats gevonden van de Veiligheidsmonitor.
+
+1) In 2021 heeft een methodebreuk plaatsgevonden als gevolg van wijzigingen in de onderzoeksopzet en vraagstellingen van de Veiligheidsmonitor. Meer hierover is te lezen in de Onderzoeksverantwoording.
+
+2) In 2018 en 2020 heeft geen meting plaats gevonden van de Veiligheidsmonitor.
+
+
+
+Onderzoeks­verantwoording
+
+In deze publicatie is hoofzakelijk gebruik gemaakt van data uit de Veiligheidsmonitor 2021. Hieronder wordt de opzet en uitvoering van dit onderzoek, uitgevoerd in opdracht van het ministerie van J&V en het CBS, toegelicht. Aanvullend zijn data gebruikt uit het CBS-onderzoek ‘Sociale samenhang en welzijn’ (voor trends en voor een vergelijking van het vertrouwen in de politie en het vertrouwen in andere organisaties) en de ‘European Social Survey (ESS)’ (voor Europese vergelijking). Hierover wordt aan het eind van deze onderzoeksverantwoording gerapporteerd.
+
+Veiligheidsmonitor
+
+De aspecten van opzet en uitvoering die aan de orde komen, zijn:
+
+Veldwerk;
+
+Steekproef;
+
+Respons;
+
+Vragenlijst;
+
+Weging;
+
+Betrouwbaarheidsmarges;
+
+Methodebreuken.
+
+Voor geïnteresseerden zijn separate notities over het veldwerk, het steekproefontwerp en de weging van de Veiligheidsmonitor 2021, en de methodebreukanalyse op aanvraag beschikbaar.
+
+Veldwerk
+
+Het onderzoeksontwerp van de Veiligheidsmonitor heeft als uitgangspunt dat minimaal 65 000 personen aan het onderzoek meedoen. Dit aantal is vereist om ook op laagregionaal niveau betrouwbare uitspraken te kunnen doen. Het streven is om voor elk politiedistrict minimaal 750 responsen te behalen en voor elk basisteam van politie en voor elke zeventig-duizend-plus-gemeente telkens 300 responsen. Het veldwerk voor dit ‘vaste’ deel gebeurt gezamenlijk door het CBS en onderzoeksbureau I&O Research.
+
+Daarnaast kunnen lokale partijen zoals gemeenten, samenwerkingsverbanden van gemeenten, of politie-eenheden de steekproef voor hun eigen gebied laten ophogen (dit heet ‘lokale oversampling’) om op nog lager regionaal niveau (denk bijvoorbeeld aan wijken of buurten) betrouwbare onderzoeksresultaten te verkrijgen. Deze lokale oversampling gebeurt door I&O Research.
+
+Het veldwerk van zowel het CBS als I&O Research startte in 2021 vanaf 11 augustus en eindigde op 31 oktober. Bij de uitvoering ervan is uitsluitend gebruik gemaakt van internetwaarneming. De steekproefpersonen ontvingen bij aanvang van de veldwerkperiode een aanschrijfbrief met daarin het verzoek om via internet deel te nemen aan het onderzoek, en de bijbehorende inloggegevens. Drie weken na de aanschrijfbrief is aan steekproefpersonen een eerste rappelbrief verstuurd met daarin opnieuw het verzoek om via internet deel te nemen aan het onderzoek. Deze brief is alleen verstuurd aan steekproefpersonen waarvan geen respons is ontvangen. Drie weken daarna is een tweede rappelbrief verstuurd aan de steekproefpersonen die op dat moment de internetvragenlijst nog niet hebben ingevuld. Om de respons te verhogen is er volgens CBS-beleid gebruik gemaakt van een incentive (kans om bij deelname een IPad of cadeaubonnen te winnen). De steekproef is uitgezet in drie porties. Dit in verband met risicospreiding bijvoorbeeld door problemen met de postbezorging en/of servers die niet goed werken.
+
+Respons
+
+In 2021 werden bijna 550 duizend personen voor deelname aan de Veiligheidsmonitor benaderd. In totaal hebben ruim 170 duizend personen meegedaan, waarvan ruim 77 duizend in het vaste deel en 96 duizend in de lokale oversampling. Het landelijke responspercentage bedroeg 31,7 procent. De responspercentages lopen uiteen van 26,7% in de regionale eenheid Amsterdam tot 36,0% in Oost-Brabant.
+
+Van alle 43 politiedistricten is de target van 750 responsen gehaald. Ook alle 167 basisteams van de politie en alle 52 zeventig-duizend-plus-gemeenten hebben de target van 300 responsen gehaald.
+
+Vragenlijst
+
+Voor de Veiligheidsmonitor is een gestandaardiseerde ontwikkeld. De vragenlijst is modulair opgebouwd en bevat de volgende vraagblokken:
+
+Leefbaarheid woonbuurt
+
+Beleving overlast in de buurt
+
+Veiligheidsbeleving
+
+Slachtofferschap van criminaliteit (zowel traditioneel als online) en aangiftegedrag
+
+Tevredenheid laatste politiecontact
+
+Oordeel functioneren politie in de buurt
+
+Oordeel functioneren politie algemeen
+
+Oordeel functioneren gemeente
+
+Preventie
+
+Respectloos gedrag
+
+Achtergrondkenmerken.
+
+Voor deelnemers aan de Veiligheidsmonitor die gebruik maken van lokale oversampling is aan het eind van de vragenlijst enige vrij ruimte beschikbaar voor eigen vragen passend binnen de thematiek van de Veiligheidsmonitor.
+
+De data in deze publicatie zijn afkomstig uit de vraagblokken 5 tot en met 8 (voor de thema’s contact met politie, tevredenheid functioneren politie in buurt, tevredenheid gemeentelijke handhavers in buurt, tevredenheid politie in algemeen, vertrouwen in politie) en vraagblok 11 (voor persoonskenmerken).
+
+Aanpassingen in onderzoeksopzet en in vragenlijst 2021
+
+Op verzoek van en in overleg met de opdrachtgevers en partners van de Veiligheidsmonitor is de onderzoeksopzet van de Veiligheidsmonitor 2021 aangepast: voortaan worden de enquêtes van de Veiligheidsmonitor alleen nog via internet afgenomen en – om kosten- en milieuoverwegingen – niet meer via papieren vragenlijsten. Bovendien wordt er niet meer telefonisch gerappelleerd. Deze andere manier van enquêteren leidt tot een trendbreuk: de uitkomsten van de Veiligheidsmonitor 2021 zullen niet zonder meer vergelijkbaar zijn met die van de Veiligheidsmonitor 2019 en eerdere edities. Deze trendbreuk veroorzaakt door aanpassingen in de onderzoeksopzet maakt dit een geschikt moment om ook aanpassingen in de vragenlijst van de Veiligheidsmonitor door te voeren. Vragenlijstaanpassingen leiden immers ook tot trendbreuken. Deze aanpassingen zijn nodig om de Veiligheidsmonitor goed aan te laten sluiten op actuele ontwikkelingen op het gebied van veiligheid en criminaliteit (denk bijvoorbeeld aan het snel veranderende terrein van online criminaliteit). Op de CBS-site is een beschikbaar met een overzicht van de verschillen tussen de vragenlijst van de Veiligheidsmonitor 2021 en die van eerdere edities.
+
+Om de trendbreuk zo goed mogelijk te repareren heeft in 2021 een zogeheten ‘dubbeldraai’ plaatsgevonden. Parallel aan de ‘nieuwe’ Veiligheidsmonitor werd een beperkte Veiligheidsmonitor volgens de ‘oude’ opzet uitgevoerd, dus zonder aanpassingen in de onderzoeksopzet en de vraagstellingen. Door de uitkomsten van beide onderzoeken te vergelijken konden omrekenfactoren worden berekend waardoor, ten minste voor de belangrijkste indicatoren, de uitkomsten van de Veiligheidsmonitor 2021 zoveel mogelijk vergelijkbaar zijn met die van eerdere jaren.
+
+Weging
+
+De weging van de VM 2021 is grotendeels vergelijkbaar met die van de vorige jaren en houdt rekening met geografische, demografische en sociaaleconomische kenmerken. De weging is aangepast aan de flexibele oversampling.
+
+Betrouwbaarheidsmarges
+
+Bij elk gegeven uit de VM is de betrouwbaarheidsmarge bepaald, waarbij rekening is gehouden met de steekproefomvang en het onderzoeksdesign. De marges zijn zowel beschikbaar bij de uitkomsten die op StatLine (CBS databank) worden geplaatst. In de elektronische versie van deze publicatie zijn verwijzingen naar StatLine opgenomen, waarmee het mogelijk is om meer specifieke tabelinformatie in te zien. Bij elk getoond percentage hoort een betrouwbaarheidsmarge die, behalve van het gekozen betrouwbaarheids­niveau en het onderzoeksdesign, vooral afhankelijk is van de spreiding in de antwoorden en van het aantal ondervraagde personen. Meestal wordt een betrouwbaarheidsniveau van 95 procent gekozen. Dit betekent dat de werkelijke waarde in 95 van de 100 steekproeven tussen de grenzen zal liggen van de marges behorende bij de gevonden waarde en de steekproefomvang.
+
+Bij de Veiligheidsmonitor is in het algemeen sprake van kleine betrouwbaarheidsmarges. Dit komt door het grote aantal landelijke waarnemingen in de steekproef, aangevuld met de waarnemingen op basis van lokale oversampling. In 2021 gaat het in totaal om ruim 170 duizend personen die aan het onderzoek hebben meegedaan. Puntschattingen die op een dergelijke steekproefomvang zijn gebaseerd hebben een marge van +/– 0,24 procentpunt bij een schatting van 50 procent. Dit betekent dat met een waarschijnlijkheid van 95 procent de werkelijke waarde van deze schatting ligt tussen de 49,76 procent en de 50,24 procent. Op het niveau van de regionale eenheden en districten zijn de marges uiteraard groter, vanwege het lagere aantal waarnemingen dat hiervoor beschikbaar is.
+
+Methodebreuken
+
+De eerdergenoemde wijzigingen in de onderzoeksopzet en de vragenlijst van de Veiligheidsmonitor 2021 hebben tot gevolg dat er systematische effecten optreden in de uitkomsten. Dit fenomeen wordt aangeduid met de term methodebreuken. Om de continuïteit van de belangrijkste variabelen zo goed mogelijk te waarborgen, is in 2021 de Veiligheidsmonitor met het oude design en de oude vragenlijst van 2019 en eerder (met een steekproefomvang van circa 8 000 personen) parallel uitgevoerd aan de nieuwe, herontworpen Veiligheidsmonitor 2021.
+
+Door de parallelle uitvoering van de twee ontwerpen is het mogelijk om de verschillen te kwantificeren, en daarmee correcties toe te passen op de oude VM-cijfers om ze naar het nieuwe VM-niveau te brengen. Op die manier worden uitkomsten van de oude VM-edities vergelijkbaar met die van de nieuwe VM. Deze correcties van de methodebreuken zijn in dit rapport toegepast op trendcijfers voor de periode 2012–2021. Aangezien de cijfers voor de jaren 2012 tot en met 2019 gecorrigeerd zijn, komen deze niet overeen met eerder gepubliceerde cijfers voor deze jaren.
+
+In onderstaande tabellen zijn de omrekenfactoren opgenomen om de variabelen met betrekking tot het onderwerp politiewaardering die zijn waargenomen in de edities van voor 2021 om te rekenen naar het niveau van 2021. Dit kan worden gedaan door een cijfer uit een eerdere editie te vermenigvuldigen met de bijbehorende omrekenfactor uit de tabel. Het gaat hier om landelijke omrekenfactoren en om omrekenfactoren voor de regionale eenheden van politie.
+
+Met modelgebaseerde technieken zijn ook omrekenfactoren geconstrueerd waarmee cijfers op het niveau van de politiedistricten en basisteams teruggelegd kunnen worden. Deze omrekenfactoren zijn te vinden.
+
+Sociale samenhang en welzijn
+
+Doel
+
+Het onderzoek beoogt het vaststellen van ontwikkelingen in sociale samenhang en welzijn. Bij sociale samenhang gaat het om de sociale, maatschappelijke en politieke participatie van de Nederlandse bevolking en om het vertrouwen in anderen en in instellingen. Bij welzijn gaat het om de tevredenheid met verschillende aspecten van de leefsituatie.
+
+Doelpopulatie en uitvoering
+
+Personen van 15 jaar en ouder in particuliere huishoudens in Nederland. De vragen over politieke participatie zijn aan personen van 18 jaar en ouder gesteld. Het onderzoek is gestart in april 2012. Een groot deel van de gegevens is eerder verzameld in het en in de module . De frequentie is jaarlijks.
+
+Waarnemingsmethode, steekproefomvang en controles
+
+Het onderzoek wordt onder een steekproef van personen uitgevoerd met een ‘mixed-mode-design’: steekproefpersonen wordt eerst in een brief gevraagd om via internet deel te nemen (CAWI- Computer Assisted Web Interviewing). Non-respondenten worden telefonisch opnieuw benaderd (CATI – Computer Assisted Telephone Interviewing). Is er geen telefoonnummer bekend, dan worden zij door een interviewer persoonlijk benaderd (CAPI-Computer Assisted Personal Interviewing). De netto steekproef bedraagt jaarlijks circa 7 500 personen. Jaarlijks wordt een plausibiliteitsanalyse op interne consistentie en volledigheid uitgevoerd.
+
+Weging
+
+Voor verschillen tussen de samenstelling van de steekproef en de totale bevolking wordt een correctie toegepast met een wegingsfactor. Deze is gebaseerd op de kenmerken geslacht, leeftijd, herkomst, burgerlijke staat, stedelijkheid, provincie, landsdeel, huishoudgrootte, inkomen en enquêtemaand.
+
+Nauwkeurigheid
+
+Omdat de enquête is voorgelegd aan een steekproef, zijn de cijfers onderhevig aan toevalsfluctuaties. Als het aantal steekproefpersonen voor een bepaalde indelingscategorie kleiner is dan 100 worden geen resultaten gepresenteerd vanwege te grote marges.
+
+Volgtijdelijke vergelijkbaarheid
+
+De cijfers vanaf 2012 zijn niet vergelijkbaar met eerdere cijfers uit het Permanent Onderzoek Leefsituatie (POLS) en het onderzoek Participatie en Milieu (P&M). Het nieuwe onderzoeksdesign (mixed-mode in plaats van volledig CAPI) en de aangepaste opbouw van de vragenlijst hebben geleid tot trendbreuken. Daarnaast zijn sommige vragen gereviseerd. Ook hierdoor kunnen trendbreuken zijn opgetreden.
+
+In de statistiekjaren 2020 en 2021 werd de waarneming voor de enquête Sociale samenhang en welzijn verstoord door de coronacrisis. In delen van deze jaren was het niet mogelijk om aan huis interviews af te nemen en kwam er dus alleen via internet en telefoon respons binnen. Om hiermee om te kunnen gaan is het weegmodel van de enquête sociale samenhang en welzijn aangepast voor de jaren 2020 en 2021. Daarbij is gebruikgemaakt van tijdreeksmodellen om te kunnen corrigeren voor het wegvallen van een deel van de waarneming. Hierdoor zijn de cijfers zo goed mogelijk vergelijkbaar gemaakt met die van eerdere jaren.
+
+Vragenlijst
+
+Voor de vragen die in het onderzoek Sociale samenhang en welzijn sinds 2012 zijn gesteld over het vertrouwen in de politie zie (Blok Vertrouwen).
+
+European Social Survey
+
+De European Social Survey (ESS), in Nederland ook bekend als het onderzoek ‘Waar staat Nederland’, is een internationaal vergelijkend enquêteonderzoek dat sinds 2001 iedere twee jaar wordt gehouden in Europa. De ESS wordt uitgevoerd in opdracht van de Europese Commissie, de European Science Foundation en de verschillende nationale organisaties voor wetenschappelijk onderzoek. De ESS meet de houdingen, overtuigingen en gedragspatronen van de bevolking in meer dan dertig landen. Voor meer informatie over de ESS zie en voor meer informatie over de vragenlijst zie (met name vraag B8).
+
+
+
+
+
+Noten
+
+Vanwege methodebreuken door aanpassingen in het onderzoeksontwerp en vraagstellingen in het verleden is in 2008, 2009 en 2010 de toenmalige Veiligheidsmonitor Rijk (VMR) in een beperkte omvang parallel aan de Integrale Veiligheidsmonitor (IVM) uitgevoerd. In 2012 is een parallel traject uitgevoerd van de IVM naar de Veiligheidsmonitor (VM). Het huidige dubbeldraaitraject is dus het derde sinds de start van de VMR.Referenties
+
+Akkermans, M. (2012). . Sociaaleconomische trends, 2 e kwartaal 2012.
+
+Akkermans, M., Kloosterman, Moons, E., Reep, C., en Tummers-van der Aa, M. (2022). . Centraal Bureau voor de Statistiek, Den Haag/Heerlen/Bonaire.
+
+CBS StatLine (2021). . Centraal Bureau voor de Statistiek, Den Haag/Heerlen/Bonaire.
+
+CBS StatLine (2022). . Centraal Bureau voor de Statistiek, Den Haag/Heerlen/Bonaire.
+
+Stals, L. en S. van de Walle (2020). . Rapport voor het WODC – Wetenschappelijk Onderzoek- en Documentatiecentrum, Ministerie van Justitie en Veiligheid.
+
+Schmeets, H. en J. Exel (2022). . Statistische Trends. Centraal Bureau voor de Statistiek, Den Haag/Heerlen/Bonaire.
+
+
+
+Meer cijfers
+
+In aanvulling op de in deze publicatie opgenomen cijfers zijn meer cijfers over politiewaardering te vinden in de volgende StatLinetabellen van het CBS.
+
+Politiewaardering algemeen
+
+
+
+
+
+Vertrouwen in politie en andere organisaties
+
+
+
+Vertrouwen in politie in Europese landen
+
+
+
+
+
+

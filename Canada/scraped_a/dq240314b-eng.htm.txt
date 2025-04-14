@@ -1,0 +1,29 @@
+Date:
+2024-03-14
+Article Title:
+The Daily — Fewer charitable donors, less money donated in 2022
+Article Content:
+Released: 2024 03 14
+Just under 5 million Canadian tax filers (17.1% of all tax filers) declared making charitable donations in 2022, 0.3% fewer than a year earlier, despite the number of tax filers increasing 3.0% year over year. The total amount donated fell for the first time since 2016, decreasing 3.1% to $11.4 billion. This decrease in total donations followed the previous year's increase of 11.5%, the largest since 2005. 
+While both the number of donors and total donations decreased, tax filers made more mid sized donations and fewer smaller ones, leading to a 5.6% increase in median donations to $380 in 2022. There were 1.6% fewer donations of $499 or less and 1.4% more donations of $500 to $25,000.
+The number of tax filers reporting donations of $100,000 or more fell by 12.4% in 2022, after rising by one third (+33.6%) in 2021, while the total amount they donated declined by 13.4%.
+In 2022, 6.2% of tax filers with an income below $40,000 reported making a charitable donation, compared with 39.2% of those with an income of $100,000 or more. The median income of charitable donors ($71,240) was significantly higher than the median income of all tax filers ($41,930).
+Tax filers with incomes of $100,000 or more (13.0% of tax filers) continued to account for the largest share of charitable giving in 2022 (+0.9 percentage points to 59.1%) despite a notable decrease in the total value of donations from those with income from $200,000 to $499,999. While this group of higher income tax filers had a 14.1% increase in the number reporting donations, the average donation amount fell 23.1% from 2021 to 2022.
+Conversely, Canadians with incomes of less than $40,000, representing 48.8% of all tax filers and 17.5% of all donors, accounted for 7.4% of the total value of donations in 2022, a smaller share than that seen in 2021 (8.7%).
+The highest income group ($1 million or more annually) reported the highest median donation in 2022 ( 5.2% to $5,150) followed by those making $500,000 to $999,999 (+1.0% to $1,930). These two income groups accounted for 1.2% of all donors in 2022, but over one fifth (22.5%) of the total donation value reported.
+The older the tax filer, the more likely they are to make charitable donations. In 2022, 4.8% of tax filers under the age of 25 reported charitable donations. As the age of the tax filer rises, this proportion grows, peaking at 23.9% for those aged 65 or older. Overall, 3.2% of charitable donors in 2022 were aged 24 years or younger, while 34.2% were aged 65 and older.
+For every $100 donated in 2022, $1 came from those aged 24 and younger, while $48 came from those aged 65 and older. Seniors had the highest median donation ($590).
+Men (18.1%) were more likely to report charitable donations on their 2022 tax returns than women (16.2%). However, the share of women reporting a charitable donation has risen from 42.0% in 1997 to 48.9% in 2022. Nevertheless, men continue to donate more overall, accounting for 63.4% of total charitable donations, up from 62.7% in 2016.
+Men claimed a median value of $410 on their 2022 tax return, up 2.5% from a year earlier, while women claimed $350, up 6.1%.
+The overall decline in charitable donations in 2022 was driven by British Columbia ( 11.8%) and Ontario ( 6.0%). Newfoundland and Labrador recorded the largest relative decline ( 13.2%).
+Charitable giving grew at the fastest pace in Northwest Territories (+27.7%), Alberta (+8.2%) and Quebec (+6.8%).
+Manitoba remained Canada's most charitable province in 2022 with just under one in five tax filers (19.3%) declaring a donation on their tax form, with a median donation of $590 (+7.3% from 2021). These donations were equal to a value equivalent to nation leading 1.0% of total income.
+Conversely, 1 in 20 tax filers in Nunavut (5.2%) declared a charitable donation on their tax form in 2022, donating an amount equal to 0.3% of all income declared in the province. Nevertheless, Nunavut had the highest median donation nationally at $900.
+Median donations declined in Newfoundland and Labrador (down 2.5% to $390) and Prince Edward Island (down 1.9% to $520) in 2022.
+Steinbach ( 1.7% to $2,230) and Winkler (+0.0% to $1,820) remained Canada's most charitable urban centres of 10,000 or more people in 2022.
+Abbotsford Mission ($1,000) had the highest median donation among Canadian cities of 100,000 or more tax filers for the 21st consecutive year, while Québec (22.1%) had the largest share of donors.
+The document "Technical Reference Guide for the Preliminary Estimates from the T1 Family File" (11260001) presents information about the methodology, concepts and quality for the data available in this release.
+Tables 11 10 0130 01, 11 10 0002 01 and 11 10 0003 01 for this release are available for free on the Statistics Canada website for Canada, the provinces and territories, census metropolitan areas, and census agglomerations.
+Additional data on charitable donors (Catalogue number13C0014, various prices) are also available for Canada, the provinces and territories, economic regions, census divisions, census subdivisions, census metropolitan areas, census agglomerations, census tracts, and postal based geographies. These custom services are available upon request.
+The Income, pensions, spending and wealth statistics portal, which is accessible from the Subjects module of the Statistics Canada website, provides users with a single point of access to a wide variety of information related to income, pensions, spending and wealth.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

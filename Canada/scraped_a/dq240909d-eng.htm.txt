@@ -1,0 +1,11 @@
+Date:
+2024-09-09
+Article Title:
+The Daily — Human Resources Module of the Canadian economy, 2022
+Article Content:
+Released: 2024 09 09
+The Human Resources Module (HRM) of the Canadian economy is a product that depicts annual estimates of jobs, hours worked, and wages and salaries consistent with System of National Accounts concepts by characteristics of the employees holding those jobs. This includes age group, gender, education level, and immigration status. Statistics Canada has published HRM estimates for a number of sectors of the Canadian economy, including the tourism, non profit organizations and natural resources sectors. This release of economy wide HRM estimates represents an integrated approach to generating fully coherent sector benchmarks and provides a total economy point of reference against which sector specific HRMs can be compared. Monthly statistics on employment by characteristic are available from the Labour Force Survey and should be consulted for current economy wide trends.
+The Economic accounts statistics portal, accessible from the Subjects module of the Statistics Canada website, provides an up to date portrait of national and provincial economies and their structure.
+The User Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 606 G) is available.
+The Methodological Guide: Canadian System of Macroeconomic Accounts (Catalogue number13 607 X) is available.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

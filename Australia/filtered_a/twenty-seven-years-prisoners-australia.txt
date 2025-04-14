@@ -1,0 +1,143 @@
+Date:
+2022-11-03
+Article Title:
+ Twenty-seven years of Prisoners in Australia
+
+Article Content:
+Between 30 June 1994 and 30 June 2021, Australian prisoners increased by 26,024 from 16,946 to 42,970.
+Accounting for population growth, the imprisonment rate increased from 128 to 214 prisoners per 100,000 adult population.
+In considering the growth in prisoner numbers and its causes, please be aware of statistical factors which may affect the comparability of some data items over time. Details of these can be found in the Methodology notes.
+ 
+All states and territories experienced increases across the period. The jurisdictions which contributed most to the national increase were:
+ 
+  Queensland accounted for 29% of the increase or 7,464
+  New South Wales accounted for 21% or 5,417
+  Victoria accounted for 18% or 4,726
+  Western Australia accounted for 18% or 4,579
+Between 30 June 1994 and 30 June 2021:
+ 
+  The number of male prisoners increased by 23,574 from 16,106 to 39,680
+  The number of female prisoners increased by 2,452 from 840 to 3,292
+  The proportion of prisoners who were female increased from 5% to 8%
+The largest contributors by most serious offence/charge to the increase in male prisoners were:
+ 
+ 
+  Acts intended to cause injury, which accounted for 34% of the increase (8,007)
+  Sexual assault and related offences, which accounted for 17% (3,985)
+  Illicit drug offences, which accounted for 16% (3,851)
+The largest contributors by most serious offence/charge to the increase in female prisoners were:
+ 
+ 
+  Acts intended to cause injury, which accounted for 26% of the increase (638)
+  Illicit drug offences, which accounted for 22% (549)
+Between 30 June 1994 and 30 June 2021:
+ 
+  Sentenced prisoners increased by 12,681 from 14,999 to 27,680
+ 
+  Unsentenced prisoners increased by 13,234 from 1,948 to 15,182
+  The unsentenced proportion of prisoners increased from 11% to 35%
+Between 30 June 1994 and 30 June 2021:
+ 
+  Median age of prisoners increased from 29 to 36 years
+  The proportion aged under 25 decreased from 30% to 12% of prisoners
+  The proportion aged 45 years and over increased from 11% to 23%
+Between 30 June 1994 and 30 June 2021:
+ 
+  Prisoners born in Australia increased by 21,836 from 13,439 to 35,275
+  Prisoners born overseas increased by 3,482 from 3,275 to 6,757
+  The proportion of prisoners born overseas decreased from 19% to 16%
+Between 30 June 1994 and 30 June 2021:
+ 
+  Prisoners with prior adult imprisonment increased by 15,473 from 10,250 to 25,723
+  Prisoners without prior imprisonment increased by 10,650 from 6,577 to 17,227
+  The proportion of prisoners with prior imprisonment remained stable at 60%
+Between 30 June 1994 and 30 June 2021, four fifths (81%) of the increase in prisoner numbers was accounted for by five offence divisions:
+ 
+  Acts intended to cause injury, which accounted for 33% of the increase (8,645)
+  Illicit drug offences, which accounted for 17% (4,405)
+  Sexual assault, which accounted for 16% (4,076)
+  Offences against justice, which accounted for 8% (2,146)
+  Homicide and related offences accounted for 6% (1,682)
+Between 30 June 1994 and 30 June 2021, Aboriginal and Torres Strait Islander prisoners increased by 10,241 from 2,798 to 13,039.
+The jurisdictions which contributed most to the increase were:
+ 
+  Queensland with 29% (2,926) of the increase
+  New South Wales with 27% (2,772) of the increase
+  Western Australia with 19% (1,979) of the increase
+  Northern Territory with 12% (1,208) of the increase
+Rates are not available for the period prior to 2006, due to the unavailability of comparable Aboriginal and Torres Strait Islander population estimates.
+Accounting for population growth, between 30 June 2006 and 30 June 2021 the Aboriginal and Torres Strait Islander imprisonment rate increased from 1,690 to 2,412 prisoners per 100,000 Aboriginal and Torres Strait Islander adult population. 
+ 
+Between 30 June 1994 and 30 June 2021 the median age of Aboriginal and Torres Strait Islander prisoners increased from 26 to 33 years. In 1994 prisoners aged under 25 made up 45% of the Aboriginal and Torres Strait Islander prison population and prisoners aged 45 and over made up 3%; in 2021 the proportions were 18% and 15%.
+ 
+Prisoners in Australia data (the National Prisoner Census) was first published by the Australian Institute of Criminology in 1983.  The ABS took over development of the collection in 1994 and issued the first publication in 2000, including selected historical data.  Data has since been released annually.
+Data has been compiled to produce a set of tables containing selected statistics on prisoners from 1994 to 2021.  The majority of this data has previously been published; however, there is some additional information.
+Over this period there have been changes, either real world or to the methodology underpinning this data series, which may have affected the comparability of data items across the time series. The most important of these changes have been highlighted below. For further information about the Prisoners in Australia data please refer to the general methodology notes (see ) as well as previous issues for detailed information about specific years. 
+Factors influencing the comparability of the data over time should also be taken into consideration when interpreting the time series. These include changes in:
+Uniform confidentiality methods were applied across the data.  This means there may be small differences in the data presented in this publication compared to that published in previous issues.
+Historical data for some data items has a relatively high proportion of unknowns for selected reference periods. In these select cases, affected cells have been annotated to discourage comparison.
+ 
+  Standards, classifications or counting rules
+  New technologies or corrective services business practices and resources
+  Changes in prison capacity due to the opening or closing of prison facilities
+From 2019, in all states and territories persons remanded or sentenced to adult custody are aged 18 years and over. Persons under 18 years are treated as juveniles in most Australian courts and are only remanded or sentenced to custody in adult prisons in exceptional circumstances. In past years:
+In the Northern Territory, prior to 2000, 'adult' referred to persons aged 17 years and over.
+In Tasmania, prior to 2001, 'adult' referred to persons aged 17 years and over.
+ 
+  In the Northern Territory, prior to 2000, 'adult' referred to persons aged 17 years and over.
+  In Tasmania, prior to 2001, 'adult' referred to persons aged 17 years and over.
+  In Victoria prior to 2006, 'adult' referred to persons aged 17 years and over.
+  In Queensland, prior to 2018, 'adult' referred to persons aged 17 years and over. From February 2018 onwards, persons aged 17 years were being transitioned from adult correctional facilities into the Queensland juvenile justice system over a two year period.
+An episode is defined as the period from an offender's latest date of reception into the custody of a corrective services agency for a particular offence(s)/charge(s) until the person is released from custody. When a prisoner breaches parole conditions and is returned to custody, a new episode is deemed to have commenced and a new reception date is provided. Post sentence detention is deemed to be a continuation of the existing episode.
+The standard definition of an episode was implemented by Queensland, Tasmania and the Australian Capital Territory in 2003, and by Western Australia in 2013.  The impact of this change on time series data is low at the national level.
+ 
+Over the period 1994 to 2021 there have been multiple changes to the offence classification used to collect most serious offence/charge data: 
+ 
+  From 1994 to 2001 data was collected according to the Australian National Classification of Offences (ANCO), 1985.
+  A review was undertaken of the classification and a revised version was published as the .  Collection of the data on the new classification commenced with the 2002 cycle. 
+  For the period prior to and including 2000, ANCO data were not able to be mapped to Division 4 Dangerous or negligent acts endangering persons and Division 5 Kidnapping/abduction.  Division 2 Acts intended to cause injury and Division 14 Traffic and vehicle regulatory offences were correspondingly overstated by the inclusion of reckless driving and kidnapping/abduction type offences respectively.
+  For 2001, additional information was used to improve the mapping to the ASOC97 division categories (including Divisions 4 and 5).  However, caution should be used in comparing offence data from the period 1994 to 2001 with subsequent years.
+  A subsequent review of the classification resulted in the release of an updated classification, the .  The new classification reflected changes that had occurred in criminal legislation since the first edition was released, as well as satisfying emerging user requirements for offence data.  It was later renamed the .
+  For the 2009 Prisoner Census, all jurisdictions implemented ASOC08 for the provision of offence data except Queensland and Western Australia which were still supplying offence data on ASOC97. This process impacted the time series prior to 2009 and comparability across jurisdictions. For more information refer to the .
+  From the 2010 Prisoner Census, both Queensland and Western Australia implemented ASOC08, and all jurisdictions are on a comparable basis.  However, comparisons of ASOC97 to ASOC08/ANZSOC data should be made with caution.
+Header 19: New South Wales
+Header 19: Victoria
+Header 19: Queensland
+Header 19: South Australia
+Header 19: Western Australia
+Header 19: Tasmania
+Header 19: Northern Territory
+Header 19: Australian Capital Territory
+For data comparability and significant events for more recent years, see .
+Data for the Kariong Detention Centre were included for the first time for the 2015 cycle. Prior to 2015 the Centre, although still operating under the authority of Corrective Services NSW, housed juvenile prisoners as the Kariong Juvenile Correctional Centre and these prisoners were excluded from this collection.
+In 2012, New South Wales introduced improved coding procedures for sentenced and unsentenced prisoners whose most serious offence/charge fell within ANZSOC Division 16   Miscellaneous offences, specifically those related to import / export regulations. As a result of these changes, caution should be exercised when comparing 2012 data for Miscellaneous offences for New South Wales with previous years.
+Periodic detention is a form of custody or order where a sentenced prisoner is required to be held in custody on a part time basis. New South Wales abolished periodic detention on 1 October 2010, and as such, the number of periodic detainees has been decreasing since then. Prior to and including 2016, there were a small number of periodic detainees in New South Wales and these were included in prisoner totals (where relevant). From 2017 onwards, these prisoners were out of scope for the collection and have been excluded from prisoner totals.
+Amendments to the Bail Amendment (Repeat Offenders) Act 2002 restrict the availability of bail for three classes of defendant:
+There has been a change in the method for determining Indigenous status of persons with a recorded status of 'unknown'. This methodological change has contributed to an increase between 2001 and 2002 in the Aboriginal and Torres Strait Islander prisoner count.
+Prior to 2009, persons sentenced to full time custody by the Australian Capital Territory were usually held in New South Wales prisons. A new prison facility to house persons sentenced to full time custody, the Alexander Maconochie Centre, began taking prisoners on 30 March 2009.  Published counts for New South Wales for these years included Australian Capital Territory prisoners held in New South Wales, but these have been excluded from the counts in this publication to avoid double counting of prisoners.  Counts for New South Wales will therefore not be consistent with previously published data for these years.  It was not possible to identify Australian Capital Territory prisoners held in New South Wales for the year 1994.  New South Wales counts will include these prisoners and will therefore be overstated compared to later years. 
+Data for Victoria for 2015 are provided for the morning of 30 June (i.e. the midnight muster from 29 June) due to data anomalies on the census date.
+On 1 July 2005 the Children and Young Persons (Age Jurisdiction) Act 2004 came into force in Victoria. This Act changed the definition of a child from a person under 17 years of age to a person under 18 years of age. As a consequence the definition of an adult also changed for corrective services data to a person aged 18 years and over. Data prior to 2006 includes persons aged 17 years.
+For 2002 and previous years, when a prisoner was held on remand and then sentenced to a term of imprisonment as part of the one episode, the time on remand was considered a separate episode of imprisonment for the purposes of determining whether a prisoner had known prior adult imprisonment. This practice was inconsistent with the national counting rule for the Prisoner Census and will have resulted in an inflated number (and proportion) of Victoria's prisoner population with known prior adult imprisonment. For 2003 the national counting rule was adopted for recording known prior adult imprisonment in Victoria.
+The notable drop in the number of prisoners between 2001 and 2002 with a most serious offence of Offences against justice procedures is largely due to the incorrect coding of 110 records in 2001.
+The most serious offence for the 110 records was coded as Breach of parole rather than to the original offence for which parole was granted. In 2002, all records with a most serious offence of Breach of parole have been recoded to the original offence.
+From 2018, Queensland extracted data directly from the courts which has led to coding changes. This has impacted on some most serious offence coding, most notably Theft and related offences, thus caution should be taken when comparing most serious offence data prior to 2018. These changes are expected to have a marginal impact at the ANZSOC Division level.
+The Corrective Services Act 2006 (Qld) commenced in August 2006. One key provision in the new legislation relates to the management of offenders subject to Court ordered Parole. This new order ensures that offenders serve all of their sentence under supervision, either in a correctional centre or under community supervision. This new order provides courts with the power to specify a parole release date for persons who are sentenced to a term of imprisonment of 3 years or less. Court ordered Parole is not available to sex offenders or serious violent offenders.
+In September 2005, Queensland implemented a new offender management system   the Integrated Offender Management System (IOMS). As a consequence prior imprisonment data were understated. The ABS imputed prior imprisonment data for 2006 and 2007 as an interim measure. During 2008 changes were implemented to the IOMS system and business processes to improve the quality of the prior imprisonment data. Comparisons to data prior to 2008 should be used with caution as the data may no longer be comparable.
+From 2003, the Prisoner Census includes those prisoners who are held in community custody centres and work camps in Queensland.
+From 2014, South Australian data shows the impact of legislative changes from the Correctional Services (Miscellaneous) Amendment Act 2012 and changes to administrative procedures. The result has been an increase in South Australian prisoners held for ANZSOC 1513 Breach of suspended sentences and a decrease in those held for 1522 Breach of parole for 2014.
+In 2017, Western Australia changed the way most serious offence/charge was selected for both sentenced and unsentenced prisoners. For both sentenced prisoners and unsentenced prisoners, offence/charge is determined by the application of the NOI, whereas previously offence ranking was based on ANCO. For unsentenced prisoners, Western Australia now report data in line with the counting rules which stipulate that only charges for a prisoner's current episode should be considered in the selection of a most serious charge. Caution should therefore be exercised when comparing offence type data from 2017 onwards with previous years.
+From 2017, Breach of parole is no longer coded to an ANZSOC code in Western Australia. When a prisoner breaches parole in Western Australia, the original offence will be reported under the relevant ANZSOC code. Consequently the number of Breaches of parole has decreased to zero for 2017. Caution should therefore be exercised when comparing offence type data from 2017 onwards with previous years.
+In 2013, Western Australia implemented the use of the standard definition of an episode to their data. The impact of this change has been an increase in the proportion of prisoners with a most serious offence of ANZSOC 1522 Breach of parole, and an increase in the proportion of prisoners with prior imprisonment.
+The large increase in prisoners from 2008 to 2010 was due to fewer offenders being granted parole by the Prisoners Review Board and the impact of the Truth in Sentencing legislation. The Truth in Sentencing legislation refers to the Sentencing Legislation Amendment and Repeal Act 2003 (Schedule 1   Transitional Provisions, Section 2) which included an automatic reduction of fixed sentences by one third to offset other changes that were likely to increase the length of sentences. This provision was removed in 2008.
+Most serious offence/charge data for Tasmania has been determined by the application of the NOI as the longest sentence cannot be attributed to a single offence.
+In Tasmania, prior to 2001, 'adult' referred to persons aged 17 years and over.
+In 2005 Northern Territory implemented new quality assurance processes in the extraction of their prior imprisonment data. The result of these processes has been an improvement in the quality of prior adult imprisonment under sentence data.
+During 2000 2002, the Northern Territory recorded higher than usual numbers of people trafficking convictions, a charge which fell within ANZSOC Division 16 Miscellaneous offences, specifically immigration offences. As a result of these changes, caution should be exercised when comparing data from 2000 2002 for Miscellaneous offences for the Northern Territory with years before and after this period.
+In the Northern Territory, prior to 1 June 2000, 'adult' referred to persons aged 17 years and over.
+Due to reporting methods, prior imprisonment in Australian Capital Territory includes both episodes of imprisonment under sentence and on remand. Thus, caution should be taken when comparing prior imprisonment in the Australian Capital Territory with other jurisdictions.
+Prior to 2009, persons sentenced to full time custody by the Australian Capital Territory were usually held in New South Wales prisons. A new prison facility to house persons sentenced to full time custody, the Alexander Maconochie Centre, began taking prisoners on 30 March 2009.  Australian Capital Territory prisoners for these years comprise both prisoners held in New South Wales and the Australian Capital Territory.  It was not possible to identify Australian Capital Territory prisoners held in New South Wales for the year 1994.  Data have not been published for the Australian Capital Territory for this year, as counts will not be comparable with later years.
+In 2002, all periodic detainees with a current warrant were included in the census count (i.e. including those who were in breach of an order). Consequently, the periodic detainee population increased from 2002. In 2006 periodic detainees who were in breach of an order for more than three months were excluded from counts to ensure consistency with the scope of this collection. Consequently, the periodic detainee population decreased from 2006.
+ 
+  Those accused of having committed another offence while on bail or parole, or serving a sentence for another offence
+  Those who have a previous conviction for absconding on bail
+  Those who are charged with an indictable offence who already stand convicted of an earlier indictable offence

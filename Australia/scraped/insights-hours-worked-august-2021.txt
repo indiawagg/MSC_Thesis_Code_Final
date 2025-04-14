@@ -1,0 +1,50 @@
+Date:
+2021-09-16
+Article Title:
+ Insights into hours worked, August 2021
+
+Article Content:
+Hours worked decreased by 3.7% (in seasonally adjusted terms) between July and August 2021, while employment decreased by 1.1% or 146,300 people. The fall in hours worked followed falls of 1.8% in June and 0.2% in July, reflecting the increase in lockdowns and other restrictions during this period.
+Chart 1 shows changes in hours worked and employment, indexed to March 2020, while Chart 2 shows monthly changes in hours worked and employment since August 2017.
+Chart 3 shows the changes in monthly hours worked for each of the states and territories, indexed to March 2020. Over the COVID period, hours worked have been impacted by a series of lockdowns and other restrictions. This was again evident in changes in hours worked across many of the states and territories, including the three most populous states of New South Wales, Victoria and Queensland.
+Monthly hours worked for New South Wales fell by 34.9 million hours (6.5%) between July and August, following the 7.0% fall between June and July, and were 11.1% lower than March 2020.
+Monthly hours worked in Victoria fell by 16.2 million hours (3.4%) between July and August 2021, and were 0.5% higher than March 2020.  
+Monthly hours worked in Queensland fell by 19.3 million hours (5.3%) between July and August 2021 and were 0.9% lower than March 2020.
+The Northern Territory has remained consistently below its March 2020 level, which partly reflects its employment and hours worked coming off a recent peak at that time, together with the inherent variability in its seasonally adjusted data.  
+Chart 4 shows the number of people working fewer (or no) hours in August 2021:
+When assessing the impacts of lockdowns, it is important to consider larger than seasonal changes in people reporting ‘economic reasons’ (that is, people reporting having no work, not enough work or being stood down) and ‘other reasons’. People reporting other reasons has increased during periods of lockdowns, indicating that some respondents feel that the longstanding categories do not fully capture the complexity of the restrictions and/or that it is difficult for them to attribute the reasons to a single category.
+In addition to economic reasons and other reasons, some people who are impacted by lockdowns may also report different reasons, such as taking annual leave or holidays or using flextime during the lockdown period. All reasons are available from data cubes EM2a and EM2b.
+  due to taking annual leave, holidays, flextime, or long service leave   which was 510,200 people. 
+  due to economic reasons   which was 833,800 people. This was an increase of 189,100 from July 2021.
+  due to other reasons   which was 1,005,500 people. This was an increase of 427,300 from July 2021.
+Chart 4a shows the number of people working fewer (or no) hours in August 2021 in New South Wales:
+due to other reasons   which was 407,600 people. This was an increase of 107,600 from July 2021.
+  due to taking annual leave, holidays, flextime, or long service leave   which was 134,600 people.
+  due to economic reasons   which was 354,600 people. This was an increase of 38,000 from July 2021.
+  due to other reasons   which was 407,600 people. This was an increase of 107,600 from July 2021.
+Chart 4b shows the number of people working fewer (or no) hours in August 2021 in Victoria:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 110,600 people.
+  due to economic reasons   which was 260,100 people. This was an increase of 89,100 from July 2021.
+  due to other reasons   which was 287,600 people. This was an increase of 147,500 from July 2021.
+Chart 4c shows the number of people working fewer (or no) hours in August 2021 in Queensland:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 114,500 people.
+  due to economic reasons   which was 131,100 people. This was an increase of 55,500 from July 2021.
+  due to other reasons   which was 228,100 people. This was an increase of 170,800 from July 2021.
+Chart 5 shows the proportion of employed people who worked zero hours in August over the past 20 years. 8.9% of employed people worked zero hours in August 2021 (10.7% in New South Wales, 8.2% in Victoria, and 10.4% in Queensland).
+Chart 6 shows the number of people working zero hours for economic reasons, due to taking annual leave, holidays, flextime, or long service leave and due to other reasons. As with people working fewer hours, there is a distinct seasonal pattern to people taking leave, with large increases each January and during school holiday periods. In August 2021:
+  203,700 employed people worked zero hours due to taking annual leave, holidays, flextime, or long service leave. 
+  248,900 employed people worked zero hours for economic reasons. This was an increase of 68,400 from July 2021, and the highest since May 2020.
+  371,300 employed people worked zero hours for other reasons. This was an increase of 164,500 from July 2021, and the highest since April 2020.
+Chart 6a shows the number of employed people who worked zero hours in New South Wales in August 2021:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 44,100 people.
+  due to economic reasons   which was 127,400 people. This was an increase of 11,400 from July 2021, and the highest since April 2020. 
+  due to other reasons   which was 156,800 people. This was an increase of 22,900 from July 2021, and the highest recorded.  
+Chart 6b shows the number of employed people who worked zero hours in Victoria in August 2021:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 45,100 people.
+  due to economic reasons   which was 75,300 people. This was an increase of 34,000 from July 2021.
+  due to other reasons   which was 91,200 people. This was an increase of 56,000 from July 2021. 
+Chart 6c shows the number of employed people who worked zero hours in Queensland in August 2021:
+  due to taking annual leave, holidays, flextime, or long service leave   which was 57,100 people.
+  due to economic reasons   which was 32,800 people. This was an increase of 23,500 from July 2021, and the highest since June 2020. 
+  due to other reasons   which was 110,000 people. This was an increase of 95,100 from July 2021, and the highest recorded. 
+For further information, email .

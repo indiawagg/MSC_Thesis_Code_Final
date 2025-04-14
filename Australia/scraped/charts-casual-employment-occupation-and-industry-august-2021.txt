@@ -1,0 +1,33 @@
+Date:
+2021-09-23
+Article Title:
+ Charts on casual employment, occupation and industry, August 2021
+
+Article Content:
+This article includes information on casual employment, occupation and industry. It follows previous similar articles during the COVID period, including   (in May 2020),  (in Nov 2020) and  (in May 2021).
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Industry and occupation information in the article refers to a person’s ‘main job’ and are collected in the Labour Force Survey in February, May, August and November.
+Over the COVID period, hours worked and employment have been impacted by a series of lockdowns and other restrictions. This was again evident in August 2021, and changes over time and across industries and occupations are explored below.
+Chart 1 compares the change in hours worked for casual employees (ie. those without paid leave entitlements), non casual employees (i.e. those with paid leave entitlements) and owner managers, indexed to February 2020. Its shows that during both periods with lockdowns the hours of casual employees, and to a lesser extent owner managers, were particularly impacted.
+Total hours worked decreased between May and August 2021, which coincided with increased lockdowns across most states and territories. This followed increases in hours worked between May 2020 and May 2021.
+In August 2021, total hours worked by casual employees were 84.8% of their pre COVID February 2020 levels. Hours worked by employees with paid leave entitlements and owner managers were also below their February 2020 levels, but to a lesser extent (97.9% and 91.9%).
+Chart 2 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020.
+In August 2021, the number of casual employees was 92.4% of the February 2020 level, which was above the low of May 2020 (when it was 79.4%). Employment also decreased for employees with paid leave entitlements and owner managers between May and August 2021, but both remained higher than in February 2020.
+Chart 3 shows the impact of COVID 19 on the working hours of casual employees, with both the total number of weekly hours worked by all casual employees, and the average weekly hours worked by casual employees, falling considerably between February and May 2020, before rebounding through August and November 2020. Average weekly hours fell slightly in February 2021 and remained flat into May 2021, while total weekly hours worked fell slightly in February 2021 and rose in May 2021. Both total weekly hours and average weekly hours fell sharply in August 2021, highlighting the impact of increased lockdowns and restrictions on casual employees through this period.
+The following charts show the impact of COVID 19 on the hours worked by casual employees in some industries that have been particularly impacted through the COVID period   Retail trade, Accommodation and food services, and Arts and recreation services.
+Chart 4 shows the total weekly hours worked by casual employees across different weekly hours worked categories.
+Chart 5a shows changes in employment and average hours worked in each of the major groups of occupations between February 2020 and August 2021. 
+Chart 5b shows changes in employment and average hours worked in each of the major groups of occupations between May and August 2021, and shows a larger proportional decrease in average hours worked than in the number of people employed. 
+Chart 6 shows, for people employed in each occupation in May 2021, the proportion who were:
+The proportion of people remaining in the same occupation between May and August 2021 was generally lower than seen between February 2021 and May 2021 (prior to the most recent lockdowns). However, the proportion of people remaining in the same occupation between May and August 2021 were generally higher than between Feb and May 2020 when COVID period impacts were greatest. Generally, there was higher occupational mobility in August 2021, and a higher prevalence of people moving out of employment in all occupation groups.
+  still employed in the same occupation in August 2021;
+  still employed in August 2021 but in a different occupation; or
+  no longer employed in August 2021.
+Chart 7a shows changes in employment and average hours worked in each of the industry divisions between February 2020 and August 2021.
+Chart 7b shows changes in employment and average hours worked in each of the industry divisions between May and August 2021.
+Chart 8 shows the proportion of people who worked zero hours (for any reason) in February 2020 (prior to COVID 19), May 2020 (the early period for COVID 19) and August 2021. 
+Chart 9 shows, for people employed in each industry in May 2021, the proportion who were:
+As with occupation, the industry flows in August 2021 show the proportion of people remaining in the same industry was generally lower than the May 2021 flows, with less people staying employed (both in the same industry or in another industry) and more people leaving employment.
+  still employed in the same industry in August 2021;
+  still employed in August 2021 but in a different industry; or
+  no longer employed in August 2021.

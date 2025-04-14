@@ -1,0 +1,39 @@
+Title: Inflatie stijgt naar 10,3 procent in juli
+Date: 2022-08-04 04:30:00 UTC
+
+Lead Text:
+                Consumentengoederen en -diensten waren in juli 10,3 procent duurder dan in dezelfde maand een jaar eerder, meldt het CBS. In juni was de inflatie 8,6 procent. De stijging van de inflatie kwam vooral door de prijsontwikkelingen van energie en woninghuren. De inflatie is voor het eerst na september 1975 hoger dan 10 procent.
+            
+
+Article Content:
+De inflatie wordt elke maand gemeten als de stijging van de consumentenprijsindex (CPI) ten opzichte van dezelfde maand in het voorgaande jaar. De consumentenprijsindex geeft het prijsverloop weer van een pakket goederen en diensten zoals dit gemiddeld wordt aangeschaft door de Nederlandse huishoudens. Een inflatie van 10,3 procent in juli 2022 betekent dat de prijzen van consumentenproducten 10,3 procent hoger zijn dan in juli 2021 en niet dat de prijzen met 10,3 procent zijn gestegen ten opzichte van juni 2022. De inflatie van 10,3 procent in juli komt dus niet bovenop de inflatie van 8,6 procent in juni. 
+
+
+Energie duurder ondanks verlaging btw
+De prijsontwikkeling van energie (elektriciteit, gas en stadsverwarming) zorgde voor een toename van de inflatie. In juli was energie 108 procent duurder dan in dezelfde maand een jaar eerder. In juni was de prijsstijging op jaarbasis 84 procent. Vanaf 1 juli 2022 is de btw op energie tijdelijk verlaagd van 21 procent naar 9 procent. Deze verlaging duurt tot en met 31 december 2022.
+Energie levert momenteel een belangrijke bijdrage aan de totale inflatie. De prijsontwikkeling van energie wordt door het CBS gemeten op basis van nieuwe contracten. Het CBS voert een  uit naar het meten van de energieprijzen in de CPI.
+
+
+Grotere stijging woninghuren
+Ook de woninghuren hadden een opwaarts effect op de inflatie. Volgens voorlopige cijfers waren in juli 2022 de woninghuren 3,0 procent hoger dan een jaar eerder. Dit is een grotere stijging dan in juli 2021, toen kwam de toename van de woninghuren gemiddeld uit op 0,8 procent.
+Per 1 juli 2022 geldt voor gereguleerde huurcontracten dat de maximale huurverhoging afhankelijk is van de hoogte van het inkomen. Voor huishoudens die onder de laagste inkomensgrens vallen is de huurverhoging maximaal 2,3 procent. Voor huishoudens met een hoog inkomen is de huurverhoging maximaal 100 euro op de maandhuur. Per 1 juli 2021 mochten de huren van gereguleerde huurcontracten niet worden verhoogd.
+De jaarlijkse huurverhoging voor een vrijesectorwoning is in 2022 net als in 2021 gemaximaliseerd. De maximum huurverhoging is 3,3 procent voor 2022, in 2021 was dit 2,4 procent. Op 2 september publiceert het CBS de definitieve uitkomsten van de ontwikkeling van de woninghuren en worden ook meer details gepubliceerd.
+Hogere prijzen voeding
+De prijzen van voedingsmiddelen namen verder toe in juli. Voeding was 12,3 procent duurder dan in dezelfde maand vorig jaar, in juni was dat 11,2 procent. Graanproducten, zuivelproducten en suiker en zoetwaren (waaronder ijs) droegen het meest bij aan deze ontwikkeling. Naast voeding hadden ook pakketreizen en kosten van bankdiensten een opwaarts effect op de inflatie.
+Kleinere prijsstijging motorbrandstoffen
+De prijsontwikkeling van motorbrandstoffen had daarentegen een drukkend effect op de inflatie. Motorbrandstoffen waren in juli 25 procent duurder dan in dezelfde maand een jaar eerder. In juni was de prijsstijging op jaarbasis 35 procent. Een liter Euro 95 aan de pomp was in juli gemiddeld 2,21 euro, in juni was dat 2,35 euro. De prijs van een liter diesel daalde van 2,14 euro in juni naar 2,07 euro in juli.
+
+
+Inflatie eurozone stijgt
+Het CBS publiceert sinds 1996 twee verschillende cijfers voor inflatie. Een op basis van de consumentenprijsindex (CPI) en een op basis van de geharmoniseerde index van consumentenprijzen (HICP). Consumentengoederen en -diensten in Nederland waren volgens de HICP in juli 11,6 procent duurder dan in dezelfde maand een jaar eerder, in juni was dat 9,9 procent. De inflatie in de eurozone nam toe van 8,6 procent in juni naar 8,9 procent in juli.
+
+
+Verschil CPI en HICP
+Om de inflatie tussen landen te kunnen vergelijken, berekenen de lidstaten van de Europese Unie (EU) een consumentenprijsindex volgens internationaal afgesproken definities en methoden. De Europese Centrale Bank gebruikt de HICP voor het monetaire beleid in de eurozone. Daarnaast maken de meeste landen nog een eigen, nationale prijsindex.
+Het belangrijkste verschil tussen de CPI en de HICP voor Nederland is dat de HICP in tegenstelling tot de CPI geen rekening houdt met de kosten van het wonen in de eigen woning. In de CPI worden deze kosten berekend aan de hand van de ontwikkeling van woninghuren. Dit is echter niet het enige verschil. In een publicatie worden deze verschillen verder toegelicht.
+Implicaties coronacrisis op de berekening van de inflatie
+Door de overheidsmaatregelen in verband met de coronacrisis zijn sommige diensten na maart 2020 tijdelijk niet of beperkt beschikbaar geweest. Hierdoor zijn voor een deel van deze diensten geen transacties geweest waarvan de prijzen gemeten konden worden. In aansluiting op de richtlijnen van Eurostat heeft het CBS per situatie gekozen voor de meest passende schattingsmethode. In een notitie worden alle keuzes toegelicht en in een maatwerktabel wordt aangegeven per artikelgroep of er een schatting is gemaakt. In juli 2022 werden er geen prijzen meer geschat in verband met corona, maar schattingen in dezelfde maand een jaar eerder werken nog wel door in de inflatie van deze maand.
+Dashboard consumentenprijzen
+Het dashboard consumentenprijzen toont de inflatie volgens de consumentenprijsindex (CPI) en voor een aantal groepen consumentengoederen en -diensten. Meer prijsindicatoren zijn te vinden in het prijzendashboard. De persoonlijke inflatiecalculator geeft inzicht in de ontwikkeling van de consumentenprijzen voor een individueel consumptieprofiel.
+
+

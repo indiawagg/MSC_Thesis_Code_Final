@@ -1,0 +1,28 @@
+Date:
+2024-04-24
+Article Title:
+ Private rent inflation: capital cities vs regions
+
+Article Content:
+From July 2022, the ABS has incorporated a new data source to measure the rents series in the quarterly CPI and monthly CPI indicator. The new dataset is updated monthly and includes over 600,000 private rental properties across both regional and capital city areas. More information can be found in: .  
+In April 2023, the ABS released an information paper presenting insights into the private Australian rental market using this new dataset of rental properties: . 
+There has been ongoing interest from a broad range of users about the insights and analysis published in the information paper last year. This article presents updated information about how rents being paid for private properties have been changing since 2018, depending on their distance from a capital city central business district (CBD). The ABS plans to progressively update other parts of the information paper over time. 
+Inflation rates presented in this article for capital cities differ to those published in the CPI. This article excludes both rent assistance and rents paid for government owned dwellings. In contrast, the CPI includes prices for both privately owned and government owned rental dwellings and accounts for rent assistance in the private rental market. 
+During 2019, annual inflation for private rental properties in regional areas was slightly stronger than for properties in capital cities. However, since the onset of the COVID 19 pandemic in early 2020, annual rent inflation has diverged between capital city and regional areas in Australia. 
+Through much of 2020 and 2021, rents in many inner city suburbs fell reflecting weak rental demand combined with increased supply of rental dwellings. There were several COVID 19 related factors for the reduced demand and increased supply in the rental market, including:
+In contrast, rents in regional areas further away from the capital cities saw either stable rental inflation compared to the pre pandemic period, or upticks in rental inflation driven by positive net population inflows and lower vacancy rates. 
+  International border closures resulting in lower international migration and population growth,
+  Freezes on rent increases in Victoria, South Australia, Western Australia, Tasmania and the Australian Capital Territory for periods of 2020 (),
+  Lease re negotiations and one off rent reductions for tenants in most states and territories (),
+  An increase in available rental stock with some short term holiday rental accommodation moving into the long term market (Evans, Rosewall and Wong 2020), and
+  People choosing to move to less densely populated areas and to not move to cities experiencing lockdowns (Agarwal, Bishop and Day 2023) and (Ellis 2022). 
+From mid 2021, rental inflation has picked up in the capital cities and continued to accelerate through to 2023. Inner city suburbs less than 12.5km from the CBD that experienced the sharpest decline in rental inflation between 2020 and 2021, are now recording the highest rental inflation across the country. This reflects falls in vacancy rates as many of the COVID 19 related impacts noted above have unwound. 
+In general, the further away that areas are from the CBD, the earlier the peak in the rental inflation. While still relatively high, rental inflation rates for areas further from the CBD have been moderating since mid 2023, while those closer to the city have continued to rise.
+Capital city rental inflation has outpaced regional areas from March 2023 onwards.  Rent price indices for capital city vs regional areas show that the overall increase in rents in capital cities since 2019 is still lower than the increase in regional rents over the same period.
+Rents for inner city suburbs in Sydney and Melbourne saw sharp declines over the pandemic period and took a longer time to return to pre pandemic levels compared to other capital cities. 
+More recently, the pace of rental growth for inner city suburbs in Sydney and Melbourne has increased resulting in rents reaching higher than pre pandemic levels. This is consistent with these capital cities no longer having the highest vacancy rates in the country. 
+In Sydney, in the early phase of the pandemic, rents in the inner city suburbs were falling whereas they are now rising faster than in suburbs further away from the CBD. This is evident in the chart below when comparing the cooler coloured (blue green) rent indices with the warmer coloured (red yellow) rent indices. 
+The inner city suburbs of Melbourne were more severely impacted by COVID 19 lockdowns and travel restrictions, resulting in a higher prevalence of rent reductions and high vacancy rates, and leading to sharper declines in rents. While rental inflation in these inner city suburbs has picked up since late 2021 consistent with Sydney, the overall increase in rents in inner city suburbs since before the pandemic is still lower than the increase for suburbs further away from the Melbourne CBD. 
+Ellis L (2022), ‘’, Keynote Speech to the UDIA 2022 National Congress, Sydney, 25 May.
+Agarwal N, J Bishop and I Day (2023), ‘’, RBA Bulletin, March.
+Evans R, T Rosewall and A Wong (2020), ‘’, RBA Bulletin, September.

@@ -1,0 +1,15 @@
+Date:
+2021-10-12
+Article Title:
+ Update to measuring the CPI in the September 2021 quarter
+
+Article Content:
+The Consumer Price Index (CPI) is an inflation indicator measuring the change in the price of a basket of goods and services purchased by households. During the September 2021 quarter, the availability of some goods and services were significantly restricted or unavailable. This article provides an overview of how these goods and services will be treated in the measurement of the CPI in the September 2021 quarter, scheduled for release on 27 October.
+Information on the ABS's previous response to COVID 19 in measuring the CPI can be found in .
+For further information, please email .
+During the September 2021 quarter there were prolonged lockdowns in some capital cities and across states and territories. This saw some goods and services become unavailable and significant falls in spending on some other goods and services.
+In response to the first wave of COVID 19 in 2020, the ABS developed an imputation framework outlining the treatment for unavailable or significantly restricted goods and services (see Figure 1 in the appendix). This framework will be re used for the September 2021 quarter in the affected capital cities of Sydney, Melbourne and Canberra.
+Where the treatment is to impute from headline CPI, this has the effect of the imputed series not contributing to the CPI quarterly movement. This reflects the fact that there was no, or very little, spending on the particular good or service during the quarter.
+Table 1 lists the affected CPI series during the September quarter, the affected capital cities and the action that will be taken in the measurement of the CPI for the September quarter.
+In total, there are ten CPI series that have been affected by lockdowns to a greater or lesser extent in the September quarter. Of these series, three are able to be measured normally using prices collected by the ABS and two are able to be measured using prices collected for closely related series. The movements for four series will be imputed from the relevant capital city's All groups CPI quarterly movement, while Domestic holiday travel will be imputed for all capital cities using the headline CPI movement.
+The affected capital cities are predominantly Sydney and Melbourne as lockdowns were in place for all or the majority of the quarter. The lockdown in Canberra was in place for around half the quarter, so collected prices are being used in most cases rather than imputing a movement.

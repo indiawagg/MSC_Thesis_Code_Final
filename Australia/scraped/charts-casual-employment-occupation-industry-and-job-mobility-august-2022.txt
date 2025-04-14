@@ -1,0 +1,31 @@
+Date:
+2022-09-21
+Article Title:
+ Charts on casual employment, occupation, industry and job mobility, August 2022
+
+Article Content:
+This article includes information on casual employment, occupation, industry and job mobility. It follows previous similar articles during the COVID period, including:
+These can all be found in the Labour Force, Australia .
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Information in this article refers to a person’s ‘main job’, based on questions that are asked in the Labour Force Survey in February, May, August and November.
+  Insights into Industry and Occupation (, )
+  Insights into casual employment, occupation and industry ()
+  Charts on casual employment, occupation and industry (, , ,  and )
+  Insights into job mobility from quarterly Labour Force statistics (first in a non quarter month , and then in ).
+Chart 1 compares the change in hours worked for casual employees (i.e. those without paid leave entitlements), non casual employees (i.e. those with paid leave entitlements) and owner managers, indexed to February 2020. It shows that during periods with lockdowns and restrictions the hours of casual employees, and to a lesser extent owner managers, were particularly impacted.
+The index shows the hours worked by casual employees rose 2.0% between May and August, after returning to pre pandemic levels in February 2022.  
+Chart 2 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020.
+The number of employed people working as casuals increased by 0.8% between May and August 2022. 
+Chart 3 shows the average weekly hours worked by casual employees was around pre pandemic levels in August 2022.
+Chart 4 shows the total weekly hours worked by casual employees across different weekly hours worked categories.
+While many changes in working arrangements and conditions reflect people changing jobs, it is also possible for people to stay in the same job and for their working arrangements and conditions to change over time. This means that changes in casual employment can reflect people entering and leaving (either temporarily or permanently) jobs that are casual, and also for some jobs to change from being casual to non casual.
+Given the lower level of casual employment during the pandemic, and the interest in understanding the extent to which people were converting from casual to non casual arrangements, the ABS undertook longitudinal analysis of changes using data from the longitudinal Labour Force microdata. Analysis of data from the first two years of the pandemic suggested that there wasn't a statistically significant change in the propensity for people who were employed as a casual in their main job to change to being a non casual in that same job. The trends weren’t different (to a statistically significant extent) from the underlying trend during the two years before the start of the pandemic.
+The lower level of casual employment during the pandemic is more likely to be a reflection of the impact of the pandemic and other economic conditions on casual jobs (particularly when lockdowns and other major restrictions were in effect, and reduced hours pronounced in casual employment), coupled with a faster increase in people entering non casual employment.
+Chart 5 shows changes in employment and average hours worked in each of the major groups of occupations from May to August 2022. 
+Chart 6 shows the proportion of employed people, by occupation, who worked fewer hours than usual in August 2019 and August 2022. The occupation data is sorted from lowest to highest for August 2022.
+Chart 7 shows the proportion of employed people, by occupation, who worked fewer hours due to own illness, injury or sick leave in August 2019 and August 2022. The occupation data is sorted from lowest to highest for August 2022. Illness had the greatest impact on people employed in Community and personal service workers occupations in August 2022.
+Chart 8 shows changes in employment and average hours worked in each of the industry divisions from May 2022 to August 2022.
+Chart 9 shows proportion of employed people who worked fewer hours than usual, by industry, in August 2019 and August 2022. The industry data is sorted from lowest to highest for August 2022. 
+Chart 10 shows the proportion of employed people, by industry, who worked fewer hours than usual due to own illness, injury or sick leave in August 2019 and August 2022. The industry data is sorted from lowest to highest for August 2022. Illness had the greatest impact on people employed in the Arts and recreational services, Public administration and safety, and Health care and social assistance industries in August 2022.
+Chart 11 shows the reasons people left or lost a job in the past three months.
+Immediately prior to the pandemic, around 230,000 people indicated that they left a job in the past three months because they changed to a ‘better job’ or ‘wanted a change’. This decreased in the early stages of the pandemic, then began to increase from late 2020, and has continued to increase over recent quarters to reach around 360,000 people in August 2022, the highest level since the series began in May 2001.

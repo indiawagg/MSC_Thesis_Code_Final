@@ -1,0 +1,20 @@
+Date:
+2024-10-21
+Article Title:
+The Daily — Vehicle registrations, 2023
+Article Content:
+Released: 2024 10 21
+In 2023, the total number of road motor vehicles registered in Canada was 25.7 million, down slightly ( 0.3%) from 2022. The majority of registrations (91.7%) were light duty vehicles, with electric vehicles accounting for 3.9%, up from 3.0% in 2022.
+Please consult the product ''Light and medium duty vehicle registrations: Interactive dashboard'' to explore the data.
+Registrations of heavy duty vehicles are now available by class of vehicle and fuel type in table 23 10 0308 01.
+In 2023, there were 25.7 million road motor vehicles registered in Canada, down slightly ( 0.3%) from 2022. Affordability and the latent effects of a global semi conductor shortage may be factors, as new motor vehicle sales in 2023 were 11.3% below the level seen in 2019, before the COVID 19 pandemic. Another factor explaining the decline was the number of unregistered vehicles in Ontario stemming from the pandemic exemption and subsequent elimination of registration fees in 2022 (see Note to readers for more details). 
+Light duty vehicles (LDVs), which include passenger cars, multi purpose vehicles (MPVs), pickup trucks, and vans, accounted for the majority (91.7%) of all vehicles registered, but edged down from 2022 ( 0.3%) to 23.6 million vehicles in 2023. Registrations of medium duty vehicles were up by 2.5%, with pickup trucks driving the increase. 
+In 2023, heavy duty vehicle (HDV) registrations decreased 3.2% from 2022. Class 8 vehicles, or those with a Gross Vehicle Weight Rating of more than 14,969 kilograms, represented 87.4% of HDV registrations. The number of buses registered continued to lag pre pandemic levels, with 1,048 fewer bus registrations in 2023 compared to 2019. 
+Within the LDV fleet, MPVs, which include sport utility vehicles and crossovers, grew by 3.7% from 2022 to more than 9.4 million registrations in 2023, surpassing passenger car registrations for the second straight year.
+In 2017, 29.8% of registered LDVs were MPVs, but after six years of significant growth, they accounted for 39.9% of LDV registrations in 2023. Conversely, passenger cars accounted for 45.0% of LDV registrations in 2017, but dropped to 36.5% in 2023. 
+Although Ontario still had the highest proportion of LDVs (34.2%) in 2023, the 8.1 million registrations represented a 3.4% decline from 2022. All other provinces saw an increase in LDV registrations, while there were decreases in Yukon ( 1.4%) and the Northwest Territories ( 0.3%). Saskatchewan saw the largest yearly increase (+2.8%), followed by Prince Edward Island (+1.8%), and Alberta (+1.6%).
+Nationwide in 2023, registrations of LDV pickup trucks edged up (+0.3%), while registrations of vans continued to decline, falling 4.4% from 2022.
+Electric vehicles (EVs) made up 3.9% of LDV registrations in 2023, up from 3.0% in 2022. These consisted of 444,564 hybrid electric vehicles (HEVs), 327,732 battery electric vehicles (BEVs) and 145,010 plug in hybrid electric vehicles (PHEVs). Collectively, there were 210,467 more EVs (+29.8%) on the road in 2023 than in 2022, the largest absolute annual increase of EV registrations to date. 
+While registered LDVs using gasoline represented 93.3% of the fleet in 2023, the number of registrations declined for the second consecutive year, edging down 1.2% from 2022. Registered LDVs using diesel also decreased in 2023, down 2.1% compared with 2022. 
+In 2023, 2.0% of LDV registrations in Canada were zero emission vehicles (ZEVs) defined as BEVs and PHEVs up from 1.4% in 2022. Both British Columbia (3.8%) and Quebec (3.5%) continued to lead with the most ZEVs registered.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

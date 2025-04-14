@@ -1,0 +1,25 @@
+Date:
+2021-09-01
+Article Title:
+ Insights into public investment
+
+Article Content:
+In recent years, there have been record levels of public investment by Australian governments.¹ Despite the COVID 19 pandemic and associated lockdowns and restrictions, public investment continued to grow, reaching $29.2b in June quarter 2021, its highest level recorded in this series. Public investment accounted for 5.8% of GDP in the quarter. The key driver of growth was investment by state and local general government, reflecting increases in public infrastructure and non dwelling construction projects across the country.
+State and local general government investment in new assets (which remove one off impacts of asset sales, donations and other transfers), increased for six consecutive quarters and was the main contributor to quarterly public investment growth in the three most recent quarters (figure 2). Investment by public corporations and national general government were relatively subdued over the same period.
+Since 2016 17, State and local general government investment has grown faster than population in most states and territories. In 2020 21, total State and local general government investment rose to $2,406 per capita (figure 3).
+In 2020 21, seven out of eight states recorded rises in investment per capita with Victoria and South Australia showing the largest increases. The Northern Territory had the highest level of investment per capita at $3,097 per capita which in part reflects their low population density. Investment per capita in New South Wales, Victoria, and Queensland are also above the level for all States, reflecting elevated levels of public sector projects in those states.   
+Increased investment by State and local general government was most evident in buildings and engineering construction, particularly in hospital, school, road, and rail projects.
+In 2020 21:
+  Investment in new buildings increased 13.4%
+  Investment in new engineering construction increased 10.7%
+  Investment in new equipment increased 10.9%
+Additional insights into the composition of public investment can be seen in the ABS  publication. This includes engineering construction work done split by construction type.
+In 2020 21:
+  Roads, highways, and bridges had the largest proportion (34%) of public engineering construction investment.
+  Railways had the second highest proportion (26%).
+There is a significant amount of public investment work in the pipeline that is expected to continue to contribute to GDP growth, as shown by public sector  (figure 6). Public sector  are also reliable indicators for tracking future public investment in the National Accounts (figure 7).
+In March quarter 2021, public sector engineering construction work yet to be done increased 4.1% and is at its highest level ever at $35b.²
+In 2020 21, public sector building approvals increased 23.8% and is at its highest level since 2010.
+Forward estimates reported in State and Territory Government budgets also indicate that growth in public investment across most states is expected to continue (figure 8). For 2021 22, State and Territory governments are estimating purchases in non financial assets to increase 29% ($13b) driven by investment in Victoria and New South Wales
+1. Public Investment is defined as Gross Fixed Capital Formation by General Government and Public Corporations.
+2. The June quarter 21 Engineering Construction Activity publication will be released on the 29/09/21.

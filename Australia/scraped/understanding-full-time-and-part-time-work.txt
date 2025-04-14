@@ -1,0 +1,31 @@
+Date:
+2021-02-18
+Article Title:
+ Understanding full-time and part-time work
+
+Article Content:
+People work a wide variety of hours   from those working a few hours a week to people who work very long hours (e.g. over 60 hours a week). A useful and longstanding approach to summarising this spectrum of hours is to categorise people as either 'full time' or 'part time'.
+When interpreting employment and hours levels and movements in the context of full time and part time work it is important to be aware of:
+  how the headline estimates of full time and part time employment are derived, and
+  other approaches to understand full time and part time work that are also possible from Labour Force Survey data.
+Using an hours based threshold (i.e. 35 hours) ensures an objective, consistent and comparable approach to classifying all employed people as either full time or part time.
+However, no single measure can reflect all dimensions of full time and part time work. For example, in monitoring people's usual working patterns, looking at full time / part time status according to hours usually worked may be more useful. In addition, in particular industries or occupations there are often specific standards for what constitutes a full time or part time worker. For example, in some occupations 40 hours may be a standard full time week, while in others it may be 30 hours a week.
+The most common hours that people usually work are 38 or 40 hours a week.
+There are different ways to look at the extent of full time work. Chart 1 compares the proportion of people who:
+The proportion of employed people who are classified as full time and the proportion who usually work full time hours (i.e. 35 or more) is quite similar, and has had a similar decrease over the past ten years. In January 2021, in original terms, 68.8% of employed people were full time while 67.5% usually worked full time hours. Both have fallen 2.1 pts since January 2011.
+The proportion of people who actually work full time hours in a given month is considerably lower, which highlights the extent of variation in hours actually worked over time, particularly the seasonal variation around holidays. This is an important reason for the headline measure of full time employment using a combination of usual and actual hours.
+The share of people employed full time is consistently higher than the share of people working full time hours (35 or more) in the reference week, as people who usually work full time but worked part time (or no) hours in the reference week are still classified as full time. People who usually work part time but worked full time hours in the reference week are also classified as full time.
+In comparison, a measure of full time based on the perspective of the employer (i.e. jobs that employers consider full time for their business) shows around 60% of employees are employed on a full time basis. Note that this relates to the proportion of employee jobs that are full time (excluding owner managers of unincorporated enterprises), rather than the proportion of people who are employed full time.
+  are 'employed full time', as defined above, using a combination of usual and actual hours worked;
+  usually work 'full time hours' (i.e. usually work 35 hours or more); 
+  worked 'full time hours' in the reference week (i.e. actually worked 35 hours or more); and
+  are employees in a 'full time job', as classified by their employer (from the two yearly Employee Earnings and Hours survey, collected in respect of May).
+Chart 2 shows the total hours worked by full time and part time employed people, compared to the total hours worked by people who actually worked 35 hours or more (full time hours), or less than 35 hours (part time hours). It further highlights the influence of usual hours in defining full time and part time employment, to minimise the impact of variation in hours actually worked, particularly during very seasonal periods, like January.
+The broad spectrum of hours that people work is important in understanding full time and part time work. Chart 3 shows the distribution of employed people by the hours they usually work, for January 2021 and January 2011. It shows that, while there is a large spectrum of hours worked, some weekly hours are much more common.
+In January 2021, almost 40% of employed people usually worked either 38 or 40 hours a week. This is slightly higher than 10 years earlier. Other relatively common usual weekly hours worked are 20 hours, 30 hours, 45 hours and 50 hours. Overall, the distribution of hours worked was relatively similar between January 2011 and January 2021.
+Using a common hours based threshold ensures full time and part time status is derived consistently. The ABS has traditionally used a 35 hour threshold for defining full time employment, but has always collected more detailed hours information. It is therefore possible to use alternative hours thresholds to produce additional measures of full time and part time work.
+Chart 4 shows the share of people who usually work 35 hours or more compared with the following alternative hours worked thresholds: 
+  30 hours   which is used by the OECD;
+  38 hours   referenced in the Fair Work Act; and
+  40 hours   the traditional 8 hour a day, 5 days a week, working week (and the most common hours worked).
+For further information, email .

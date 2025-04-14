@@ -1,0 +1,13 @@
+Date:
+2020-09-17
+Article Title:
+ Employment and unemployment: an international perspective
+
+Article Content:
+The various social, economic and labour market restrictions to slow the spread of COVID 19, and government support packages to mitigate their impact, have had wide ranging effects on the labour market which can be observed through the range of existing labour market statistics. Similarly, the nature and timing of the implementation of restrictions, and efforts to progressively relax and lift them (or, at times, reimpose them), have differed across countries (and sometimes across states or regions).
+In addition to their experiences with COVID 19 being different to Australia, there are some key differences in the approach used in the US and Canada to classify people who have been stood down and are not working for a short period, compared to Australia and other OECD countries. For further information on these differences, see .
+Additional estimates are provided to support more effective comparisons with the US and Canadian estimates from April to July. The differences in the treatment of stood down workers are usually not material to cross country comparisons, but at a time of major shutdown in the economy, where large numbers of people have been stood down, they become important.
+Table 1 shows that the unemployment rate in the US rose sharply between February and April (from 3.5% to 14.7%), before steadily decreasing to 8.4% in August. In Canada, the unemployment rate also rose sharply between February and April (from 5.6% to 13.0%), and increased again in May. It has since fallen, from 13.7% in May to 10.2% in August.
+In contrast, the official unemployment rate in Australia increased in each month between March and July (to 7.5%), before decreasing to 6.8% in August. However, the additional comparison rates in this article have, like in the US, been decreasing since April. For example, if people working zero hours who indicated they had been 'stood down' (Group 1) were added to the unemployed estimate, the comparative rate in Australia would have increased from 5.1% in February to 9.5% in April, before falling to 7.3% in August. Similarly, if including 'Group 2', the comparative rate in Australia would have increased to 11.8% in April, before falling to 7.9% by August.
+Changes in the official participation rates were more consistent over the period, although the US and Canada both reported their lowest estimate in April, compared to May for Australia.
+For further information, email .

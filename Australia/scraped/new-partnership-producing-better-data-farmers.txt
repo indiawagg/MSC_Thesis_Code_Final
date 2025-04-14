@@ -1,0 +1,13 @@
+Date:
+2020-06-26
+Article Title:
+ New partnership producing better data for farmers
+
+Article Content:
+A new partnership between the Australian Bureau of Statistics (ABS) and Geoscience Australia is improving the way satellite data is used to produce information about agriculture while reducing the survey reporting requirements for farmers and the agriculture industry.
+ABS Head of Industry Statistics, John Shepherd, said: "Geoscience Australia's satellite images are a rich source of information. When this is integrated with the ABS's de identified data from the Agricultural Census and the Rural Environment and Agricultural Commodities Survey, more accurate statistical data on Australia's agriculture and environment can be obtained.
+“By sharing ABS agricultural data with Geoscience Australia's Digital Earth Australia, we can create better and more up to date maps of crops and land cover to enhance statistical information on agriculture and the environment. This will allow more effective assessment and response to natural disasters like fires, floods and cyclones.”
+Geoscience Australia’s head of National Earth and Marine Observations, Trevor Dhu, said the partnership will also help develop other national datasets.
+“This project is an important first step to position the ABS and Geoscience Australia to create accurate and timely statistical data on Australia’s physical environment in the future,” Dr Dhu said.
+“ aims to unlock the value of satellite data for all Australians, government and industry alike. Through collaborations such as this one with ABS, we continue to progress towards achieving our key objective of enabling all Australian’s to take advantage of satellites.”
+Last week’s ABS release of  using data from the Levy Payer Register is another example of this co operative approach by the ABS, where satellite data is used with administrative data to create more detailed statistics without running a survey.

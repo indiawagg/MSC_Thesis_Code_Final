@@ -1,0 +1,17 @@
+Date:
+2023-03-07
+Article Title:
+The Daily — More Canadians are finding it difficult to meet food, shelter and other necessary expenses
+Article Content:
+Released: 2023 03 07
+In 2022, the Consumer Price Index rose 6.8%, the highest increase since 1982 (+10.9%). Prices for day to day goods and services such as transportation (+10.6%), food (+8.9%) and shelter (+6.9%) rose the most. 
+Canadians felt the impact of rising prices. Data from the Canadian Social Survey (CSS) show that the share of persons aged 15 and older living in a household experiencing difficulty meeting its necessary expenses trended upward from just under one fifth (19%) in the summer of 2021 to just under one quarter (24%) in the summer of 2022. By the end of 2022, more than one third (35%) of the population lived in such a household. 
+In the summer of 2021, nearly half (48%) of the population lived in a household that found it easy or very easy to meet its necessary expenses, and by the end of 2022 this number had dropped to under one third (29%).
+This increase in financial difficulty is in line with findings from the Labour Force Survey showing that more than one third of the population experienced financial difficulty in October 2022 compared with one fifth in October 2020.
+In the current release, persons who experienced financial difficulty are those who responded, "Very difficult" or "Difficult" to the following question in the CSS: "In the past 12 months, how difficult or easy was it for your household to meet its financial needs in terms of transportation, housing, food, clothing and other necessary expenses?"
+While the trend of increasing difficulty in meeting necessary expenses was generally consistent across demographic groups and regions, some segments of the population remained more likely to experience a higher degree of financial challenges in fall 2022.
+In the fall of 2022, adults aged 25 to 54 (42%) were more likely to live in a household that found it very difficult or difficult to meet its financial needs. Adults aged 15 and older looking for work (50%), renters (48%), recent immigrants (45%) and people living with children (42%) were also more likely to face this hardship.
+A higher proportion of the racialized population (39%) also said their household had difficulty meeting its financial needs. Among the three largest racialized groups, Chinese (25%) were the least likely to experience financial difficulty compared with South Asian (44%) and Black (46%) Canadians. 
+Indigenous people (44%) were more likely to experience financial difficulty compared with the non Indigenous population (35%). It is important to note that the data were not collected for First Nations people living on reserve, or for First Nations people, Métis or Inuit living in the territories. As a result, the differences between Indigenous people and the non Indigenous population may not be fully captured.
+Persons with a disability, difficulty, or long term condition (43%) and the LGBTQ2+ population (42%) were also among those with the most difficulty meeting their necessary expenses.
+For more information, or to enquire about the concepts, methods or data quality of this release, contact us (toll free 1 800 263 1136; 514 283 8300; infostats@statcan.gc.ca) or Media Relations (statcan.mediahotline ligneinfomedias.statcan@statcan.gc.ca).

@@ -1,0 +1,22 @@
+Date:
+2021-05-25
+Article Title:
+ Distribution of jobholder and employer characteristics
+
+Article Content:
+The Weekly Payroll Jobs and Wages in Australia estimates are derived from data collected via the Single Touch Payroll (STP) system, which facilitates employers reporting jobholder payroll information to the Australian Taxation Office. As such, these data are not designed to capture the entirety of the Australian labour market. 
+To aid the interpretability of estimates produced from STP data, this article presents selected distributions of jobholder and employer characteristics by payroll jobs and total wages paid.
+More information on the scope and coverage of STP data (including other data sources used to compile Weekly Payroll Jobs and Wages in Australia) are described in . 
+Header 2: State and territory
+The state and territory of payroll jobs and wages are determined from the residential address of the jobholder.  The distribution of state and territory payroll jobs and total wages paid remains very similar on both the week ending 14 March 2020 and a year later (week ending 13 March 2021).
+Wages paid can vary at certain times of the year in some industries, hence their distribution can be affected by the reference date selected. Mid March includes seasonal bonuses in some industries (e.g. Mining) which can affect the distribution of wages paid across states and territories where those industries are more dominant (e.g. Western Australia).
+Header 3: Sex
+The distribution of payroll jobs and wages between males and females, while similar in mid March 2020 and 2021, will have varied slightly across the year as differing pandemic impacts were seen. For example, payroll jobs held by females fell faster than those held by males in the early weeks of the pandemic, increasing the male share of total payroll jobs.
+STP data do not include information on hours worked or hours paid for, or the employment status of jobholders (i.e. full time or part time). All payroll jobs are counted individually, and a jobholder can hold more than one payroll job.
+Header 4: Sex by age group
+The distribution of payroll jobs held by males and females is also similar across age groups and are presented below for the 13 March 2021.
+While a person will only have one age and sex at a point in time, they may hold more than one payroll job (i.e. multiple job holders) and could be represented more than once in these proportions.
+The industry of a payroll job is derived from the business which employs the jobholder. The industry of a employer is held constant throughout these data, to enable comparison of pre and post pandemic of employer characteristics.
+The distribution of payroll jobs by industry are presented in the graph below. Most industries whose payroll jobs remain below pre pandemic payroll job levels ,also saw a decrease in their share of total payroll jobs by mid March 2021. 
+The proportion of payroll jobs held by males and females varies between industries, as shown in the graph below which presents industries by the descending proportion of males on the week ending 13 March 2021.
+For more information on unknown characteristics, see the Update of jobholder characteristics section of .

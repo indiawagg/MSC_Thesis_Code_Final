@@ -1,0 +1,29 @@
+Date:
+2022-03-24
+Article Title:
+ Charts on casual employment, occupation and industry, February 2022
+
+Article Content:
+This article includes information on casual employment, occupation and industry. It follows previous similar articles during the COVID period, including Insights into Industry and Occupation (in May 2020), Insights into casual employment, occupation and industry (in November 2020) and Charts on casual employment, occupation and industry (in May 2021, August 2021 and November 2021). These can all be found in the Labour Force, Australia , under Employment and jobs.   
+The main indicator the ABS uses for casual employment is whether an employee is entitled to paid leave, which includes paid sick leave or paid annual leave. These entitlements are usually reserved for non casual or permanent employment. Other measures of casual employment can be found in .
+Information in this article refers to a person’s ‘main job’, based on questions that are asked in the Labour Force Survey in February, May, August and November.
+Chart 1 compares the change in hours worked for casual employees (i.e. those without paid leave entitlements), non casual employees (i.e. those with paid leave entitlements) and owner managers, indexed to February 2020. It shows that during periods with lockdowns and restrictions the hours of casual employees, and to a lesser extent owner managers, were particularly impacted.
+The index shows the hours worked by casual employees returned to pre pandemic levels in February 2022, after large declines in the May 2020 and August 2021 quarters.
+Chart 2 compares the change in employment for casual employees, non casual employees and owner managers, indexed to February 2020.
+While hours worked for casuals had returned to pre pandemic levels, the number employed people working as casuals continued to be below February 2020. In contrast, employees with paid leave entitlements and owner managers both reached pre pandemic levels a year ago.
+Chart 3 shows the impact of COVID 19 lockdowns and restrictions on the working hours of casual employees.
+Charts 3a, 3b and 3c show the impact of COVID 19 on the hours worked by casual employees in some industries that have been particularly impacted during the COVID period   Retail trade, Accommodation and food services, and Arts and recreation services.
+Chart 4 shows the total weekly hours worked by casual employees across different weekly hours worked categories.
+Chart 5a shows changes in employment and average hours worked in each of the major groups of occupations between February 2020 and February 2022. 
+Chart 5b shows changes in employment and average hours worked in each of the major groups of occupations between November 2021 to February 2022. 
+Chart 6 shows, for people employed in each occupation in November 2021, the proportion who were:
+  still employed in the same occupation in February 2022;
+  still employed in February 2022 but in a different occupation; or
+  no longer employed in February 2022.
+Chart 7a shows changes in employment and average hours worked in each of the industry divisions between February 2020 and February 2022.
+Chart 7b shows changes in employment and average hours worked in each of the industry divisions between November 2021 and February 2022.
+Chart 8 shows the proportion of people who worked zero hours for November 2021 and February 2022.  
+Chart 9 shows, for people employed in each industry in November 2021, the proportion who were:
+  still employed in the same industry in February 2022;
+  still employed in February 2022 but in a different industry; or
+  no longer employed in February 2022.
